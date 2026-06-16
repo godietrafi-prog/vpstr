@@ -144,6 +144,9 @@
     // ================================================================
     // ENGINE
     // ================================================================
+    // Add ?signage to URL to enable signage mode (rotates videos 90°)
+    var isSignage  = window.location.search.indexOf('signage') > -1;
+
     var slidesArea = document.getElementById('slides-area');
     var slideEls   = [];
     var current    = 0;
@@ -167,19 +170,10 @@
                 vid.preload = 'metadata';
                 div.setAttribute('data-type', 'video');
 
-                // Detect landscape-stored video (metadata rotation ignored by signage)
-                // and counter-rotate so it displays correctly
-                (function(v) {
-                    v.addEventListener('loadedmetadata', function() {
-                        if (v.videoWidth > v.videoHeight) {
-                            // Stored landscape, needs 90° correction
-                            v.style.width     = '100%';
-                            v.style.height    = '100%';
-                            v.style.objectFit = 'fill';
-                            v.style.transform = 'rotate(90deg)';
-                        }
-                    });
-                })(vid);
+                // In signage mode: apply rotation to correct for missing metadata support
+                if (isSignage) {
+                    vid.style.transform = 'rotate(-90deg)';
+                }
 
                 div.appendChild(vid);
             } else {

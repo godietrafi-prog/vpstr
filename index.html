@@ -16,10 +16,8 @@
         }
 
         /*
-         * Screen is physically rotated 90° counterclockwise (left side down).
-         * We compensate by rotating content 90° clockwise.
-         * Width/height swapped so the content fills the rotated viewport.
-         * To flip direction: change rotate(90deg) → rotate(-90deg)
+         * Screen rotated 270° (right side down).
+         * Stage is width=100vh × height=100vw, then rotated to fill the physical screen.
          */
         #stage {
             position: fixed;
@@ -28,6 +26,37 @@
             width: 100vh;
             height: 100vw;
             transform: translate(-50%, -50%) rotate(270deg);
+            display: flex;
+            flex-direction: column;
+        }
+
+        /* ── Top accent bar ── */
+        #top-bar {
+            flex: 0 0 5%;
+            background: linear-gradient(135deg, #4EC96A 0%, #3BB85A 100%);
+            display: flex;
+            align-items: center;
+            padding: 0 2.5%;
+            gap: 1.5%;
+        }
+        #top-bar .line {
+            height: 3px;
+            flex: 1;
+            background: rgba(255,255,255,0.35);
+            border-radius: 2px;
+        }
+        #top-bar .dot {
+            width: 8px; height: 8px;
+            border-radius: 50%;
+            background: rgba(255,255,255,0.6);
+            flex-shrink: 0;
+        }
+
+        /* ── Slides area ── */
+        #slides-area {
+            flex: 1;
+            position: relative;
+            background: #111;
         }
 
         .slide {
@@ -36,7 +65,6 @@
             display: flex;
             align-items: center;
             justify-content: center;
-            background: #000;
             opacity: 0;
             transition: opacity 1s ease-in-out;
         }
@@ -48,13 +76,29 @@
             object-fit: contain;
         }
 
-        /* Thin progress bar */
+        /* ── Bottom bar with logo ── */
+        #bottom-bar {
+            flex: 0 0 13%;
+            background: #fff;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding: 0 4%;
+            border-top: 3px solid #4EC96A;
+        }
+        #bottom-bar img#logo {
+            height: 70%;
+            width: auto;
+            object-fit: contain;
+        }
+
+        /* Progress bar sits inside the green top bar */
         #progress {
-            position: fixed;
+            position: absolute;
             bottom: 0;
             left: 0;
             height: 3px;
-            background: rgba(255, 255, 255, 0.45);
+            background: rgba(255,255,255,0.6);
             width: 0%;
         }
 
@@ -64,15 +108,30 @@
             display: flex;
             align-items: center;
             justify-content: center;
-            color: rgba(255,255,255,0.3);
+            color: rgba(255,255,255,0.25);
             font-family: sans-serif;
-            font-size: 1.2em;
+            font-size: 1.1em;
         }
     </style>
 </head>
 <body>
-    <div id="stage"></div>
-    <div id="progress"></div>
+    <div id="stage">
+        <div id="top-bar">
+            <div class="dot"></div>
+            <div class="line"></div>
+            <div class="dot"></div>
+            <div class="line"></div>
+            <div class="dot"></div>
+        </div>
+
+        <div id="slides-area">
+            <div id="progress"></div>
+        </div>
+
+        <div id="bottom-bar">
+            <img id="logo" src="Logo_official_eng.png" alt="Tel-Hai">
+        </div>
+    </div>
 
     <script>
     // ================================================================
@@ -107,8 +166,8 @@
     // ================================================================
     pdfjsLib.GlobalWorkerOptions.workerSrc = 'lib/pdf.worker.min.js';
 
-    const stage    = document.getElementById('stage');
-    const progress = document.getElementById('progress');
+    const slidesArea = document.getElementById('slides-area');
+    const progress   = document.getElementById('progress');
 
     function fileType(src) {
         if (/\.(mp4|webm|ogg|mov)$/i.test(src)) return 'video';
@@ -124,14 +183,13 @@
     async function renderPDF(src, container) {
         const loadingEl = container.querySelector('.pdf-loading');
         try {
-            const pdf      = await pdfjsLib.getDocument(src).promise;
-            const page     = await pdf.getPage(1);
+            const pdf  = await pdfjsLib.getDocument(src).promise;
+            const page = await pdf.getPage(1);
 
-            const baseViewport = page.getViewport({ scale: 1 });
-            const containerW   = container.offsetWidth  || window.innerHeight;
-            const containerH   = container.offsetHeight || window.innerWidth;
-            const scale = Math.min(containerW / baseViewport.width,
-                                   containerH / baseViewport.height) * (window.devicePixelRatio || 1);
+            const baseVP = page.getViewport({ scale: 1 });
+            const W = container.offsetWidth  || slidesArea.offsetWidth  || window.innerHeight;
+            const H = container.offsetHeight || slidesArea.offsetHeight || window.innerWidth;
+            const scale = Math.min(W / baseVP.width, H / baseVP.height) * (window.devicePixelRatio || 1);
 
             const viewport = page.getViewport({ scale });
             const canvas   = document.createElement('canvas');
@@ -153,7 +211,7 @@
 
     function buildSlides() {
         list.forEach((slide, i) => {
-            const div = document.createElement('div');
+            const div  = document.createElement('div');
             div.className = 'slide';
             const type = fileType(slide.src);
             div.dataset.type     = type;
@@ -182,7 +240,7 @@
                 div.appendChild(img);
             }
 
-            stage.appendChild(div);
+            slidesArea.appendChild(div);
             slideEls.push(div);
         });
     }

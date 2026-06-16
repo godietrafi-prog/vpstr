@@ -170,12 +170,46 @@
                 vid.preload = 'metadata';
                 div.setAttribute('data-type', 'video');
 
-                // In signage mode: apply rotation to correct for missing metadata support
                 if (isSignage) {
-                    vid.style.transform = 'rotate(-90deg)';
-                }
+                    // Hardware overlay on signage ignores CSS transforms on <video>.
+                    // Solution: draw each frame onto a <canvas> rotated -90°.
+                    var canvas = document.createElement('canvas');
+                    canvas.style.width  = '100%';
+                    canvas.style.height = '100%';
+                    var ctx = canvas.getContext('2d');
+                    var raf = null;
 
-                div.appendChild(vid);
+                    vid.addEventListener('loadedmetadata', function() {
+                        // Swap dimensions: rotated video fills portrait container
+                        canvas.width  = vid.videoHeight;
+                        canvas.height = vid.videoWidth;
+                    });
+
+                    function drawFrame() {
+                        if (!vid.paused && !vid.ended) {
+                            var cw = canvas.width, ch = canvas.height;
+                            ctx.save();
+                            ctx.translate(cw / 2, ch / 2);
+                            ctx.rotate(-Math.PI / 2);
+                            ctx.drawImage(vid, -vid.videoWidth / 2, -vid.videoHeight / 2);
+                            ctx.restore();
+                        }
+                        raf = requestAnimationFrame(drawFrame);
+                    }
+
+                    vid.addEventListener('play', function() {
+                        if (raf) cancelAnimationFrame(raf);
+                        drawFrame();
+                    });
+                    vid.addEventListener('pause',  function() { if (raf) { cancelAnimationFrame(raf); raf = null; } });
+                    vid.addEventListener('ended',  function() { if (raf) { cancelAnimationFrame(raf); raf = null; } });
+
+                    vid.style.display = 'none'; // hidden - only used as source
+                    div.appendChild(vid);
+                    div.appendChild(canvas);
+                } else {
+                    div.appendChild(vid);
+                }
             } else {
                 var img = document.createElement('img');
                 img.src = slide.src;

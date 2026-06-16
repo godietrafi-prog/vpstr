@@ -181,6 +181,8 @@
     let timer   = null;
 
     async function renderPDF(src, container) {
+        if (container.dataset.rendering || container.querySelector('canvas')) return;
+        container.dataset.rendering = '1';
         const loadingEl = container.querySelector('.pdf-loading');
         try {
             const pdf  = await pdfjsLib.getDocument(src).promise;

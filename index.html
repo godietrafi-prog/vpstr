@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>View Left</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.min.js"></script>
     <style>
         * { margin: 0; padding: 0; box-sizing: border-box; }
 
@@ -17,7 +18,7 @@
         /*
          * Screen is physically rotated 90° counterclockwise (left side down).
          * We compensate by rotating content 90° clockwise.
-         * Width/height swapped: width=100vh, height=100vw fills the rotated viewport.
+         * Width/height swapped so the content fills the rotated viewport.
          * To flip direction: change rotate(90deg) → rotate(-90deg)
          */
         #stage {
@@ -39,16 +40,15 @@
             opacity: 0;
             transition: opacity 1s ease-in-out;
         }
-
         .slide.active { opacity: 1; }
 
-        .slide img, .slide video {
+        .slide img, .slide video, .slide canvas {
             width: 100%;
             height: 100%;
             object-fit: contain;
         }
 
-        /* Thin progress bar at bottom of the rotated view */
+        /* Thin progress bar */
         #progress {
             position: fixed;
             bottom: 0;
@@ -58,20 +58,16 @@
             width: 0%;
         }
 
-        #empty-msg {
-            position: fixed;
+        .pdf-loading {
+            position: absolute;
             inset: 0;
             display: flex;
-            flex-direction: column;
             align-items: center;
             justify-content: center;
-            color: #fff;
+            color: rgba(255,255,255,0.3);
             font-family: sans-serif;
-            font-size: 1.4em;
-            gap: 0.8em;
-            text-align: center;
+            font-size: 1.2em;
         }
-        #empty-msg small { opacity: 0.5; font-size: 0.6em; }
     </style>
 </head>
 <body>
@@ -83,69 +79,104 @@
     // CONFIGURATION
     // ================================================================
     const CONFIG = {
-        defaultImageDuration: 8,    // seconds each image is shown
-        transitionDuration:   1.0,  // seconds for fade in/out
-        loop:    true,              // restart from beginning after last slide
-        shuffle: false,             // randomize order on load
+        defaultImageDuration: 10,   // seconds each image/PDF is shown
+        loop:    true,
+        shuffle: false,
     };
 
     // ================================================================
     // SLIDES LIST
-    // Add objects here to define the presentation order.
     //
     // Image:  { src: 'media/poster.jpg' }
-    //         { src: 'media/poster.png', duration: 12 }   ← custom seconds
-    //
+    // PDF:    { src: 'media/poster.pdf' }
+    //         { src: 'media/poster.pdf', duration: 15 }   ← custom seconds
     // Video:  { src: 'media/clip.mp4' }   ← plays to end, then advances
     // ================================================================
     const SLIDES = [
-        // { src: 'media/example_poster.jpg' },
-        // { src: 'media/example_video.mp4' },
+        { src: 'media/Poster Migal-Gili Nachmani.pdf' },
+        { src: 'media/Poster for IMTF2022_Loai Basheer_Final.pdf' },
+        { src: 'media/Poster_Or Tagar_May2025.pdf' },
     ];
 
     // ================================================================
-    // ENGINE  (no edits needed below this line)
+    // ENGINE
     // ================================================================
-    const stage   = document.getElementById('stage');
+    pdfjsLib.GlobalWorkerOptions.workerSrc =
+        'https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.worker.min.js';
+
+    const stage    = document.getElementById('stage');
     const progress = document.getElementById('progress');
 
-    function isVideo(src) {
-        return /\.(mp4|webm|ogg|mov)$/i.test(src);
-    }
-
-    if (SLIDES.length === 0) {
-        const msg = document.createElement('div');
-        msg.id = 'empty-msg';
-        msg.innerHTML = 'No slides defined<br><small>Add entries to the SLIDES array in index.html</small>';
-        document.body.appendChild(msg);
+    function fileType(src) {
+        if (/\.(mp4|webm|ogg|mov)$/i.test(src)) return 'video';
+        if (/\.pdf$/i.test(src))                 return 'pdf';
+        return 'image';
     }
 
     const list = CONFIG.shuffle ? [...SLIDES].sort(() => Math.random() - 0.5) : SLIDES;
-    let slideEls = [];
-    let current  = 0;
-    let timer    = null;
+    const slideEls = [];
+    let current = 0;
+    let timer   = null;
+
+    async function renderPDF(src, container) {
+        const loadingEl = container.querySelector('.pdf-loading');
+        try {
+            const pdf      = await pdfjsLib.getDocument(src).promise;
+            const page     = await pdf.getPage(1);
+
+            const baseViewport = page.getViewport({ scale: 1 });
+            const containerW   = container.offsetWidth  || window.innerHeight;
+            const containerH   = container.offsetHeight || window.innerWidth;
+            const scale = Math.min(containerW / baseViewport.width,
+                                   containerH / baseViewport.height) * (window.devicePixelRatio || 1);
+
+            const viewport = page.getViewport({ scale });
+            const canvas   = document.createElement('canvas');
+            canvas.width   = viewport.width;
+            canvas.height  = viewport.height;
+            canvas.style.width  = '100%';
+            canvas.style.height = '100%';
+            canvas.style.objectFit = 'contain';
+
+            await page.render({ canvasContext: canvas.getContext('2d'), viewport }).promise;
+
+            if (loadingEl) loadingEl.remove();
+            container.appendChild(canvas);
+        } catch (e) {
+            if (loadingEl) loadingEl.textContent = 'Error loading PDF';
+            console.error(e);
+        }
+    }
 
     function buildSlides() {
         list.forEach((slide, i) => {
             const div = document.createElement('div');
             div.className = 'slide';
+            const type = fileType(slide.src);
+            div.dataset.type     = type;
+            div.dataset.duration = slide.duration ?? CONFIG.defaultImageDuration;
 
-            if (isVideo(slide.src)) {
+            if (type === 'video') {
                 const vid = document.createElement('video');
-                vid.src        = slide.src;
-                vid.muted      = true;
+                vid.src         = slide.src;
+                vid.muted       = true;
                 vid.playsInline = true;
-                vid.preload    = 'metadata';
+                vid.preload     = 'metadata';
                 div.appendChild(vid);
-                div.dataset.type = 'video';
+
+            } else if (type === 'pdf') {
+                const loader = document.createElement('div');
+                loader.className   = 'pdf-loading';
+                loader.textContent = 'Loading…';
+                div.appendChild(loader);
+                if (i < 2) renderPDF(slide.src, div);
+
             } else {
-                const img  = document.createElement('img');
-                img.src    = slide.src;
-                img.alt    = '';
+                const img   = document.createElement('img');
+                img.src     = slide.src;
+                img.alt     = '';
                 img.loading = i === 0 ? 'eager' : 'lazy';
                 div.appendChild(img);
-                div.dataset.type     = 'image';
-                div.dataset.duration = slide.duration ?? CONFIG.defaultImageDuration;
             }
 
             stage.appendChild(div);
@@ -167,7 +198,19 @@
 
         current = ((index % slideEls.length) + slideEls.length) % slideEls.length;
         const el = slideEls[current];
-        el.classList.add('active');
+
+        if (el.dataset.type === 'pdf' && !el.querySelector('canvas')) {
+            renderPDF(list[current].src, el).then(() => el.classList.add('active'));
+        } else {
+            el.classList.add('active');
+        }
+
+        // Pre-render next PDF
+        const nextIdx = (current + 1) % slideEls.length;
+        const nextEl  = slideEls[nextIdx];
+        if (nextEl.dataset.type === 'pdf' && !nextEl.querySelector('canvas')) {
+            renderPDF(list[nextIdx].src, nextEl);
+        }
 
         if (el.dataset.type === 'video') {
             const vid = el.querySelector('video');
@@ -190,7 +233,6 @@
         showSlide(n);
     }
 
-    // Manual controls
     document.addEventListener('keydown', e => {
         if (e.key === 'ArrowRight' || e.key === ' ')  next();
         if (e.key === 'ArrowLeft')                    showSlide(current - 1);
@@ -199,7 +241,7 @@
     document.addEventListener('click', next);
 
     buildSlides();
-    if (SLIDES.length > 0) showSlide(0);
+    showSlide(0);
     </script>
 </body>
 </html>

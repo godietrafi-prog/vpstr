@@ -210,16 +210,26 @@
         if (el.dataset.type === 'video') {
             const vid = el.querySelector('video');
             vid.currentTime = 0;
-            vid.play().catch(() => next()); // autoplay blocked → skip
+            vid.play().catch(() => next());
             vid.onended = next;
-            timer = setTimeout(next, 60000); // safety: max 60s per video
+            timer = setTimeout(next, 60000);
         } else {
             const dur = parseFloat(el.dataset.duration);
-            requestAnimationFrame(() => {
-                progress.style.transition = `width ${dur}s linear`;
-                progress.style.width = '100%';
-            });
-            timer = setTimeout(next, dur * 1000);
+            const img = el.querySelector('img');
+            const startTimer = () => {
+                requestAnimationFrame(() => {
+                    progress.style.transition = `width ${dur}s linear`;
+                    progress.style.width = '100%';
+                });
+                timer = setTimeout(next, dur * 1000);
+            };
+            // Wait for image to load before starting the countdown
+            if (img && !img.complete) {
+                img.onload  = startTimer;
+                img.onerror = next; // broken image → skip
+            } else {
+                startTimer();
+            }
         }
     }
 

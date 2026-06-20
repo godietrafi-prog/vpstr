@@ -3,6 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="refresh" content="300">
     <title>View Right</title>
     <style>
         * { margin: 0; padding: 0; box-sizing: border-box; }
@@ -68,7 +69,7 @@
         }
         .slide.active { opacity: 1; }
 
-        .slide img, .slide canvas {
+        .slide img, .slide video {
             width: 100%;
             height: 100%;
             object-fit: fill;
@@ -112,135 +113,131 @@
     // ================================================================
     var CONFIG = {
         defaultImageDuration: 10,
-        loop:    true,
-        shuffle: false,
+        loop: true
     };
 
-    // Add ?signage to URL for signage mode (rotates videos -90° via canvas)
-    var isSignage = window.location.search.indexOf('signage') > -1;
-
     // ================================================================
-    // ENGINE  (slides loaded from slides.json)
+    // ENGINE
     // ================================================================
     var slidesArea = document.getElementById('slides-area');
-    var slideEls   = [];
-    var current    = 0;
-    var timer      = null;
+    var pool    = [];
+    var poolEls = [];
+    var playlist = [];
+    var current  = 0;
+    var timer    = null;
 
     function isVideo(src) { return /\.(mp4|webm|ogg|mov)$/i.test(src); }
 
-    var list = [];
+    function shuffle(arr) {
+        var a = arr.slice();
+        for (var i = a.length - 1; i > 0; i--) {
+            var j = Math.floor(Math.random() * (i + 1));
+            var t = a[i]; a[i] = a[j]; a[j] = t;
+        }
+        return a;
+    }
 
-    // ── Build a video slide with canvas renderer ──────────────────────
+    function buildPlaylist() {
+        var byType = {};
+        for (var i = 0; i < pool.length; i++) {
+            var t = pool[i].type || 'poster';
+            if (!byType[t]) byType[t] = [];
+            byType[t].push(i);
+        }
+
+        var posters = shuffle(byType['poster'] || []);
+        var videos  = shuffle(byType['video']  || []);
+        var images  = shuffle(byType['image']  || []);
+
+        var pl = [];
+        var vi = 0, ii = 0;
+
+        for (var pi = 0; pi < posters.length; pi++) {
+            pl.push(posters[pi]);
+            if ((pi + 1) % 3 === 0 && vi < videos.length) pl.push(videos[vi++]);
+            if ((pi + 1) % 4 === 0 && ii < images.length) pl.push(images[ii++]);
+        }
+        while (vi < videos.length) pl.push(videos[vi++]);
+        while (ii < images.length) pl.push(images[ii++]);
+
+        return pl.length > 0 ? pl : pool.map(function(_, i) { return i; });
+    }
+
+    // ── Build a video slide ───────────────────────────────────────────
+    // Videos must be pre-processed with process_video.bat before use.
+    // vright uses transpose=2 (90° CCW) — update process_video.bat if needed.
     function makeVideoSlide(div, src) {
         var vid = document.createElement('video');
         vid.src     = src;
         vid.muted   = true;
         vid.setAttribute('playsinline', '');
-        vid.preload = 'auto'; // buffer fully so first frame is ready
-        vid.style.display = 'none'; // video element stays hidden
+        vid.preload = 'auto';
+        vid.style.width     = '100%';
+        vid.style.height    = '100%';
+        vid.style.objectFit = 'fill';
 
-        var canvas = document.createElement('canvas');
-        canvas.width  = 1920; // defaults; overwritten on loadedmetadata
-        canvas.height = 1080;
-        canvas.style.width  = '100%';
-        canvas.style.height = '100%';
-
-        var ctx = canvas.getContext('2d');
-        var raf = null;
-
-        vid.addEventListener('loadedmetadata', function() {
-            if (isSignage) {
-                // Swap dims: landscape video → portrait canvas
-                canvas.width  = vid.videoHeight || 1080;
-                canvas.height = vid.videoWidth  || 1920;
-            } else {
-                canvas.width  = vid.videoWidth  || 1920;
-                canvas.height = vid.videoHeight || 1080;
-            }
-        });
-
-        function drawLoop() {
-            if (vid.readyState >= 2) { // HAVE_CURRENT_DATA
-                var cw = canvas.width, ch = canvas.height;
-                if (isSignage) {
-                    ctx.save();
-                    ctx.translate(cw / 2, ch / 2);
-                    ctx.rotate(Math.PI / 2); // -90° to correct for missing metadata
-                    ctx.drawImage(vid,
-                        -(vid.videoWidth  || ch) / 2,
-                        -(vid.videoHeight || cw) / 2,
-                         (vid.videoWidth  || ch),
-                         (vid.videoHeight || cw));
-                    ctx.restore();
-                } else {
-                    ctx.drawImage(vid, 0, 0, cw, ch);
-                }
-            }
-            raf = requestAnimationFrame(drawLoop);
-        }
-
-        div._vidEl  = vid;
-        div._start  = function() { if (!raf) drawLoop(); };
-        div._stop   = function() { if (raf) { cancelAnimationFrame(raf); raf = null; } };
+        div._vidEl = vid;
+        div._start = function() {};
+        div._stop  = function() {};
 
         div.appendChild(vid);
-        div.appendChild(canvas);
     }
 
-    // ── Build all slides ──────────────────────────────────────────────
-    function buildSlides() {
-        for (var i = 0; i < list.length; i++) {
-            var slide = list[i];
-            var div   = document.createElement('div');
+    function buildPool() {
+        for (var i = 0; i < pool.length; i++) {
+            var item = pool[i];
+            var div  = document.createElement('div');
             div.className = 'slide';
 
-            if (isVideo(slide.src)) {
+            if (isVideo(item.src)) {
                 div.setAttribute('data-type', 'video');
-                makeVideoSlide(div, slide.src);
+                makeVideoSlide(div, item.src);
             } else {
-                var img   = document.createElement('img');
-                img.src   = slide.src;
-                img.alt   = '';
-                img.loading = i === 0 ? 'eager' : 'lazy';
+                var img = document.createElement('img');
+                img.src     = item.src;
+                img.alt     = '';
+                img.loading = 'eager';
                 div.setAttribute('data-type', 'image');
-                var dur = (slide.duration != null) ? slide.duration : CONFIG.defaultImageDuration;
-                div.setAttribute('data-duration', dur);
+                var dur = (item.duration != null) ? item.duration : CONFIG.defaultImageDuration;
+                div.setAttribute('data-duration', String(dur));
                 div.appendChild(img);
             }
 
             slidesArea.appendChild(div);
-            slideEls.push(div);
+            poolEls.push(div);
         }
     }
 
-    // ── Show a slide ──────────────────────────────────────────────────
-    function showSlide(index) {
-        if (!slideEls.length) return;
+    function showSlide(pos) {
+        if (!pool.length) return;
 
-        // Hide / stop all
-        for (var j = 0; j < slideEls.length; j++) {
-            slideEls[j].classList.remove('active');
-            if (slideEls[j]._stop)   slideEls[j]._stop();
-            if (slideEls[j]._vidEl) {
-                slideEls[j]._vidEl.pause();
-                slideEls[j]._vidEl.onended = null;
+        if (pos >= playlist.length) {
+            if (!CONFIG.loop) return;
+            playlist = buildPlaylist();
+            pos = 0;
+        }
+
+        for (var j = 0; j < poolEls.length; j++) {
+            poolEls[j].classList.remove('active');
+            if (poolEls[j]._stop)   poolEls[j]._stop();
+            if (poolEls[j]._vidEl) {
+                poolEls[j]._vidEl.pause();
+                poolEls[j]._vidEl.onended = null;
             }
         }
         clearTimeout(timer);
 
-        current = ((index % slideEls.length) + slideEls.length) % slideEls.length;
-        var el  = slideEls[current];
+        current = pos;
+        var el = poolEls[playlist[current]];
         el.classList.add('active');
 
         if (el.getAttribute('data-type') === 'video') {
             var vid = el._vidEl;
             vid.currentTime = 0;
-            el._start(); // begin canvas render loop
+            el._start();
             vid.play()['catch'](function() { next(); });
             vid.onended = function() { el._stop(); next(); };
             timer = setTimeout(function() { el._stop(); next(); }, 60000);
-
         } else {
             var dur = parseFloat(el.getAttribute('data-duration'));
             var img = el.querySelector('img');
@@ -254,36 +251,32 @@
         }
     }
 
-    function next() {
-        var n = (current + 1) % slideEls.length;
-        if (n === 0 && !CONFIG.loop) return;
-        showSlide(n);
-    }
+    function next() { showSlide(current + 1); }
 
     document.addEventListener('keydown', function(e) {
         if (e.key === 'ArrowRight' || e.key === ' ')  next();
         if (e.key === 'ArrowLeft')  showSlide(current - 1);
         if (e.key === 'f' || e.key === 'F') {
-            if (document.documentElement.requestFullscreen) {
+            if (document.documentElement.requestFullscreen)
                 document.documentElement.requestFullscreen();
-            }
         }
     });
     document.addEventListener('click', next);
 
-    // Load slides from central slides.json
     var xhr = new XMLHttpRequest();
-    xhr.open('GET', 'slides.json');
+    xhr.open('GET', 'slides.json?v=' + Date.now());
     xhr.onload = function() {
         if (xhr.status === 200) {
-            list = JSON.parse(xhr.responseText);
-            if (CONFIG.shuffle) list = list.slice().sort(function() { return Math.random() - 0.5; });
+            var data = JSON.parse(xhr.responseText);
+            pool = data.pool || data;
         }
-        buildSlides();
-        showSlide(0);
+        buildPool();
+        playlist = buildPlaylist();
+        showSlide(Math.floor(playlist.length / 2));
     };
-    xhr.onerror = function() { buildSlides(); showSlide(0); };
+    xhr.onerror = function() { buildPool(); playlist = buildPlaylist(); showSlide(0); };
     xhr.send();
+
     </script>
 </body>
 </html>

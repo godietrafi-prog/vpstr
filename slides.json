@@ -1,9 +1,52 @@
-[
-  { "src": "media/Poster Migal-Gili Nachmani.jpg" },
-  { "src": "media/Poster for IMTF2022_Loai Basheer_Final.jpg" },
-  { "src": "media/WhatsApp Video 2026-06-15 at 11.15.57.mp4" },
-  { "src": "media/Poster_Or Tagar_May2025.jpg" },
-  { "src": "media/Poster_FOP-2021_Sandip.jpg" },
-  { "src": "media/WhatsApp Video 2026-06-15 at 11.13.30.mp4" },
-  { "src": "media/poster Pangboern 2019 - ofir benjamin.jpg" }
-]
+{
+  "pool": [
+    {
+      "src": "media/Eden_poster_Effost 2025_RS_11112025.jpg",
+      "type": "poster"
+    },
+    {
+      "src": "media/Poster - Altered Microbiota Is Associated With Low Gut SCFA’s And Aromatic Compounds In Children With ADHD.jpg",
+      "type": "poster"
+    },
+    {
+      "src": "media/Poster Migal-Gili Nachmani.jpg",
+      "type": "poster"
+    },
+    {
+      "src": "media/Poster for IMTF2022_Loai Basheer_Final.jpg",
+      "type": "poster"
+    },
+    {
+      "src": "media/Poster_FOP-2021_Sandip.jpg",
+      "type": "poster"
+    },
+    {
+      "src": "media/Poster_Or Tagar_May2025.jpg",
+      "type": "poster"
+    },
+    {
+      "src": "media/WhatsApp Image 2026-06-16 at 13.53.05.jpeg",
+      "type": "image"
+    },
+    {
+      "src": "media/WhatsApp Image 2026-06-16 at 13.53.06 (3).jpeg",
+      "type": "image"
+    },
+    {
+      "src": "media/WhatsApp Image 2026-06-16 at 13.53.06 (5).jpeg",
+      "type": "image"
+    },
+    {
+      "src": "media/WhatsApp Video 2026-06-15 at 11.13.30.mp4",
+      "type": "video"
+    },
+    {
+      "src": "media/WhatsApp Video 2026-06-15 at 11.15.57.mp4",
+      "type": "video"
+    },
+    {
+      "src": "media/poster Pangboern 2019 - ofir benjamin.jpg",
+      "type": "poster"
+    }
+  ]
+}

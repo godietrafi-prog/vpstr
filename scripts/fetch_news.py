@@ -87,14 +87,14 @@ def extract_abstract(entry, feed_type: str) -> str:
         m = re.search(r"doi:\S+\s+(.*)", raw_text, re.DOTALL)
         if m:
             text = re.sub(r"\s+", " ", m.group(1)).strip()
-            return (text[:420] + "…") if len(text) > 420 else text
+            return (text[:ABSTRACT_MAX] + "…") if len(text) > ABSTRACT_MAX else text
         return ""
     elif feed_type == "frontiers":
         # Frontiers: abstract is plain text in entry.summary
         text = re.sub(r"\s+", " ", strip_html(entry.get("summary", ""))).strip()
         if len(text) < 80:
             return ""
-        return (text[:420] + "…") if len(text) > 420 else text
+        return (text[:ABSTRACT_MAX] + "…") if len(text) > ABSTRACT_MAX else text
     else:
         return ""  # Elsevier: no abstract in RSS
 
@@ -150,7 +150,7 @@ FEEDS = [
 ]
 
 MAX_PER_FEED = 4   # cards shown per feed
-ABSTRACT_MAX = 420 # characters
+ABSTRACT_MAX = 1200 # characters (~12 lines)
 
 # ── Main loop ─────────────────────────────────────────────────────────────
 # Load previous news.json to use as fallback for feeds that fail to fetch

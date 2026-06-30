@@ -12,40 +12,27 @@ from datetime import datetime, timezone
 from html.parser import HTMLParser
 
 
-# ── Figure URL construction ────────────────────────────────────────────────
+# ── Springer Nature Fig1 URL ───────────────────────────────────────────────
 def springer_fig1_url(article_url: str, year: int) -> str:
-    """Construct the Springer Nature CDN URL for Fig1 from an article URL.
+    """Construct the Springer CDN URL for Fig1 directly from the article URL.
 
-    Nature article URL pattern: .../articles/s{journal}-{yy}-{num}-{check}
-    CDN pattern: media.springernature.com/m685/springer-static/image/
-                 art%3A{encoded_doi}/MediaObjects/{journal}_{year}_{num}_Fig1_HTML.png
+    Nature URL: .../articles/s{journal}-{yy}-{num}-{check}
+    CDN URL:    media.springernature.com/m685/springer-static/image/
+                art%3A{encoded_doi}/MediaObjects/{journal}_{year}_{num}_Fig1_HTML.png
     """
     m = re.search(r'nature\.com/articles/(s(\d+)-\d+-0*(\d+)-\d+)', article_url)
     if not m:
         return ""
-    suffix    = m.group(1)          # s43016-026-01368-3
-    journal   = m.group(2)          # 43016
-    art_num   = int(m.group(3))     # 1368 (leading zeros stripped)
-    doi       = f"10.1038/{suffix}"
-    enc       = urllib.parse.quote(f"art:{doi}", safe="")
+    suffix  = m.group(1)       # s43016-026-01368-3
+    journal = m.group(2)       # 43016
+    art_num = int(m.group(3))  # 1368 (leading zeros stripped)
+    doi     = f"10.1038/{suffix}"
+    enc     = urllib.parse.quote(f"art:{doi}", safe="")
     return (f"https://media.springernature.com/m685/springer-static/image/"
             f"{enc}/MediaObjects/{journal}_{year}_{art_num}_Fig1_HTML.png")
 
-FEEDS = [
-    {"url": "https://www.nature.com/natfood.rss",
-     "name": "Nature Food"},
-    {"url": "https://rss.sciencedirect.com/publication/science/03088146",
-     "name": "Food Chemistry"},
-    {"url": "https://rss.sciencedirect.com/publication/science/09242244",
-     "name": "Trends in Food Science & Technology"},
-    {"url": "https://rss.sciencedirect.com/publication/science/09503293",
-     "name": "Food Quality & Preference"},
-]
 
-MAX_PER_FEED = 4   # article cards shown in slideshow
-SUMMARY_MAX  = 300 # characters for the abstract snippet
-
-
+# ── HTML helpers ───────────────────────────────────────────────────────────
 class HTMLStripper(HTMLParser):
     def __init__(self):
         super().__init__()
@@ -64,77 +51,122 @@ def strip_html(html: str) -> str:
         s.feed(html or "")
     except Exception:
         return ""
-    text = s.get_text()
-    return re.sub(r"\s+", " ", text).strip()
+    return re.sub(r"\s+", " ", s.get_text()).strip()
 
 
-def clean_summary(raw: str) -> str:
-    """Remove boilerplate RSS metadata, keep meaningful content."""
-    raw = raw.strip()
+def get_raw_html(entry) -> str:
+    """Return the richest HTML field from an RSS entry."""
+    if hasattr(entry, "content") and entry.content:
+        return entry.content[0].get("value", "")
+    for field in ("summary", "description"):
+        v = entry.get(field, "")
+        if v:
+            return v
+    return ""
 
-    # Nature: "Nature Food, Published online: DATE; doi:DOI ACTUAL TEXT"
-    m = re.search(r'doi:\S+\s+(.*)', raw, re.DOTALL)
-    if m:
-        return re.sub(r"\s+", " ", m.group(1)).strip()
 
-    # Elsevier: "Publication date: ... Source: ... Author(s): NAMES"
-    if raw.startswith("Publication date:"):
-        # Extract author names as the useful part
-        m2 = re.search(r'Author\(s\):\s*(.+)', raw)
-        if m2:
-            authors = m2.group(1).strip()
-            # Keep only first 3 authors
-            parts = [a.strip() for a in authors.split(",") if a.strip()][:3]
-            return "Authors: " + ", ".join(parts)
+# ── Field extractors ───────────────────────────────────────────────────────
+MONTHS = ["Jan", "Feb", "Mar", "Apr", "May", "Jun",
+          "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"]
+
+
+def extract_abstract(entry) -> str:
+    """Return article abstract (Nature only — Elsevier has none in RSS)."""
+    raw_html = ""
+    if hasattr(entry, "content") and entry.content:
+        raw_html = entry.content[0].get("value", "")
+    if not raw_html:
         return ""
+    raw_text = strip_html(raw_html)
+    # Nature content: "Nature Food, Published online: DATE; doi:DOI  ABSTRACT"
+    m = re.search(r"doi:\S+\s+(.*)", raw_text, re.DOTALL)
+    if m:
+        text = re.sub(r"\s+", " ", m.group(1)).strip()
+        return (text[:420] + "…") if len(text) > 420 else text
+    return ""
 
-    return raw
+
+def extract_authors(entry, raw_html: str) -> str:
+    """Return up to 3 author names."""
+    # feedparser fills entry.authors as list of {name, ...}
+    if hasattr(entry, "authors") and entry.authors:
+        names = [a.get("name", "").strip() for a in entry.authors if a.get("name", "").strip()]
+        if names:
+            suffix = " et al." if len(names) > 3 else ""
+            return ", ".join(names[:3]) + suffix
+    # feedparser single entry.author (dc:creator first occurrence)
+    if entry.get("author", "").strip():
+        return entry["author"].strip()
+    # Elsevier description HTML: "Author(s): Name1, Name2"
+    m = re.search(r"Author\(s\):\s*(.*?)(?:</p>|<br|\Z)", raw_html, re.I | re.S)
+    if m:
+        text  = strip_html(m.group(1)).strip()
+        parts = [p.strip() for p in text.split(",") if p.strip()]
+        suffix = " et al." if len(parts) > 3 else ""
+        return ", ".join(parts[:3]) + suffix
+    return ""
 
 
-items = []
+def extract_date(entry, raw_html: str) -> str:
+    """Return date as 'Mon YYYY', e.g. 'Jun 2026'."""
+    for attr in ("published_parsed", "updated_parsed"):
+        t = getattr(entry, attr, None)
+        if t:
+            return f"{MONTHS[t.tm_mon - 1]} {t.tm_year}"
+    # Elsevier HTML: "Publication date: 15 July 2026"
+    m = re.search(r"Publication date:\s*(?:\d+\s+)?([A-Za-z]+)\s+(\d{4})", raw_html, re.I)
+    if m:
+        return f"{m.group(1)[:3].capitalize()} {m.group(2)}"
+    return ""
+
+
+# ── Feed configuration ─────────────────────────────────────────────────────
+FEEDS = [
+    {"url": "https://www.nature.com/natfood.rss",
+     "name": "Nature Food"},
+    {"url": "https://rss.sciencedirect.com/publication/science/03088146",
+     "name": "Food Chemistry"},
+    {"url": "https://rss.sciencedirect.com/publication/science/09242244",
+     "name": "Trends in Food Science & Technology"},
+    {"url": "https://rss.sciencedirect.com/publication/science/09503293",
+     "name": "Food Quality & Preference"},
+]
+
+MAX_PER_FEED = 4   # cards shown per feed
+ABSTRACT_MAX = 420 # characters
+
+# ── Main loop ─────────────────────────────────────────────────────────────
+items        = []
 current_year = datetime.now(timezone.utc).year
 
 for feed_info in FEEDS:
     is_nature = "nature.com" in feed_info["url"]
     try:
-        feed = feedparser.parse(feed_info["url"])
+        feed  = feedparser.parse(feed_info["url"])
         count = 0
         for entry in feed.entries:
             if count >= MAX_PER_FEED:
                 break
-            title = strip_html((entry.get("title") or "")).strip()
+            title = strip_html(entry.get("title") or "").strip()
             if not title:
                 continue
 
             article_url = entry.get("link", "")
+            raw_html    = get_raw_html(entry)
 
-            # Build summary from best available field
-            raw_summary = ""
-            for field in ("summary", "description", "content"):
-                raw = ""
-                if field == "content" and hasattr(entry, "content"):
-                    raw = entry.content[0].get("value", "") if entry.content else ""
-                else:
-                    raw = entry.get(field, "")
-                if raw:
-                    raw_summary = strip_html(raw)
-                    break
-
-            summary = clean_summary(raw_summary)
-            if len(summary) > SUMMARY_MAX:
-                summary = summary[:SUMMARY_MAX - 3] + "..."
-
-            # Build Fig1 URL from DOI (Nature only; no HTTP request needed)
-            image = ""
-            if is_nature and article_url:
-                image = springer_fig1_url(article_url, current_year)
+            abstract  = extract_abstract(entry) if is_nature else ""
+            authors   = extract_authors(entry, raw_html)
+            published = extract_date(entry, raw_html)
+            image     = springer_fig1_url(article_url, current_year) if is_nature else ""
 
             items.append({
-                "title":    title,
-                "summary":  summary,
-                "feedName": feed_info["name"],
-                "url":      article_url,
-                "image":    image,
+                "title":     title,
+                "abstract":  abstract,
+                "authors":   authors,
+                "published": published,
+                "feedName":  feed_info["name"],
+                "url":       article_url,
+                "image":     image,
             })
             count += 1
 

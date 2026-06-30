@@ -77,44 +77,87 @@
 
         /* ── RSS card full-screen slides ── */
         .rss-card {
-            background: linear-gradient(160deg, #0a1628 0%, #0d2a1a 100%);
+            background: linear-gradient(155deg, #071422 0%, #0e2d1c 55%, #071422 100%);
             flex-direction: column;
             justify-content: center;
             align-items: flex-start;
-            padding: 7% 9%;
+            padding: 5% 9% 4% 9%;
             gap: 0;
             overflow: hidden;
         }
-        .rss-card-journal {
-            font-family: Arial, sans-serif;
-            font-size: 1.4em;
-            color: #4EC96A;
-            font-weight: bold;
-            letter-spacing: 0.15em;
-            text-transform: uppercase;
-            margin-bottom: 3%;
+        .rss-card-quote {
+            font-family: Georgia, serif;
+            font-size: 8em;
+            color: rgba(78, 201, 106, 0.13);
+            line-height: 0.75;
+            margin-bottom: -0.12em;
+            margin-left: -0.05em;
+            flex-shrink: 0;
+            user-select: none;
         }
-        .rss-card-divider {
-            width: 70px;
-            height: 4px;
-            background: #4EC96A;
-            margin-bottom: 6%;
-            border-radius: 2px;
+        .rss-card-badge {
+            display: inline-flex;
+            align-items: center;
+            background: rgba(78, 201, 106, 0.12);
+            border: 1.5px solid #4EC96A;
+            color: #4EC96A;
+            font-family: Arial, sans-serif;
+            font-size: 1em;
+            font-weight: bold;
+            padding: 0.3em 1.1em;
+            border-radius: 2em;
+            letter-spacing: 0.07em;
+            text-transform: uppercase;
+            margin-bottom: 4%;
             flex-shrink: 0;
         }
         .rss-card-title {
             font-family: Georgia, 'Times New Roman', serif;
-            font-size: 2.8em;
+            font-size: 2.6em;
             color: #ffffff;
-            line-height: 1.25;
+            line-height: 1.2;
             font-weight: bold;
-            margin-bottom: 5%;
+            margin-bottom: 4%;
+            flex-shrink: 0;
         }
         .rss-card-summary {
             font-family: Arial, sans-serif;
-            font-size: 1.35em;
-            color: #9abfaa;
+            font-size: 1.2em;
+            color: #a0c8b0;
             line-height: 1.65;
+            margin-bottom: 5%;
+            flex-shrink: 0;
+            overflow: hidden;
+            display: -webkit-box;
+            -webkit-line-clamp: 4;
+            -webkit-box-orient: vertical;
+        }
+        .rss-card-footer {
+            width: 100%;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            border-top: 1px solid rgba(78, 201, 106, 0.25);
+            padding-top: 3%;
+            flex-shrink: 0;
+            gap: 3%;
+        }
+        .rss-card-authors {
+            font-family: Arial, sans-serif;
+            font-size: 1.05em;
+            color: #5a9a6a;
+            font-style: italic;
+            flex: 1;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            white-space: nowrap;
+        }
+        .rss-card-date {
+            font-family: Arial, sans-serif;
+            font-size: 1em;
+            color: #4EC96A;
+            font-weight: bold;
+            flex-shrink: 0;
         }
 
         /* ── News ticker ── */
@@ -206,7 +249,7 @@
     var CONFIG = {
         posterDuration:  30,   // seconds for research posters
         imageDuration:    7,   // seconds for regular images
-        rssCardDuration: 20,   // seconds for RSS full-screen cards
+        rssCardDuration: 15,   // seconds for RSS full-screen cards
         rssMaxPerFeed:    3,   // how many articles to take from each feed
         loop: true
     };
@@ -259,13 +302,13 @@
         var ii = 0, ri = 0, vi = 0;
         for (var pi = 0; pi < posters.length; pi++) {
             pl.push(posters[pi]);
-            if ((pi + 1) % 3 === 0 && ri < rssCards.length) pl.push(rssCards[ri++]);
-            if ((pi + 1) % 4 === 0 && ii < images.length)   pl.push(images[ii++]);
+            if ((pi + 1) % 2 === 0 && ri < rssCards.length) pl.push(rssCards[ri++]);
+            if ((pi + 1) % 3 === 0 && ii < images.length)   pl.push(images[ii++]);
             if ((pi + 1) % 3 === 0 && vi < videos.length)   pl.push(videos[vi++]);
         }
-        while (ri < rssCards.length) pl.push(rssCards[ri++]);
-        while (ii < images.length)   pl.push(images[ii++]);
-        while (vi < videos.length)   pl.push(videos[vi++]);
+        // rssCards: do NOT dump remaining — they cycle naturally in the next round
+        while (ii < images.length) pl.push(images[ii++]);
+        while (vi < videos.length) pl.push(videos[vi++]);
 
         return pl.length > 0 ? pl : pool.map(function(_, i) { return i; });
     }
@@ -288,19 +331,20 @@
     function makeRSSCardSlide(div, rssItem) {
         div.classList.add('rss-card');
 
-        var journalEl = document.createElement('div');
-        journalEl.className   = 'rss-card-journal';
-        journalEl.textContent = rssItem.feedName;
+        var quoteEl = document.createElement('div');
+        quoteEl.className   = 'rss-card-quote';
+        quoteEl.textContent = '\u201C';
 
-        var dividerEl = document.createElement('div');
-        dividerEl.className = 'rss-card-divider';
+        var badgeEl = document.createElement('div');
+        badgeEl.className   = 'rss-card-badge';
+        badgeEl.textContent = rssItem.feedName;
 
         var titleEl = document.createElement('div');
         titleEl.className   = 'rss-card-title';
         titleEl.textContent = rssItem.title;
 
-        div.appendChild(journalEl);
-        div.appendChild(dividerEl);
+        div.appendChild(quoteEl);
+        div.appendChild(badgeEl);
         div.appendChild(titleEl);
 
         if (rssItem.summary) {
@@ -308,6 +352,24 @@
             summaryEl.className   = 'rss-card-summary';
             summaryEl.textContent = rssItem.summary;
             div.appendChild(summaryEl);
+        }
+
+        if (rssItem.authors || rssItem.published) {
+            var footerEl = document.createElement('div');
+            footerEl.className = 'rss-card-footer';
+            if (rssItem.authors) {
+                var authEl = document.createElement('div');
+                authEl.className   = 'rss-card-authors';
+                authEl.textContent = rssItem.authors;
+                footerEl.appendChild(authEl);
+            }
+            if (rssItem.published) {
+                var dateEl = document.createElement('div');
+                dateEl.className   = 'rss-card-date';
+                dateEl.textContent = rssItem.published;
+                footerEl.appendChild(dateEl);
+            }
+            div.appendChild(footerEl);
         }
     }
 
@@ -414,7 +476,9 @@
                     allItems.push({
                         type:     'rss_card',
                         duration: CONFIG.rssCardDuration,
-                        _rssItem: { title: it.title, summary: it.summary || '', feedName: it.feedName }
+                        _rssItem: { title: it.title, summary: it.summary || '',
+                                authors: it.authors || '', published: it.published || '',
+                                feedName: it.feedName }
                     });
                 });
             } catch(e) {}

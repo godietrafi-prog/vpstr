@@ -99,6 +99,15 @@ def extract_abstract(entry, feed_type: str) -> str:
         return ""  # Elsevier: no abstract in RSS
 
 
+def upgrade_image_url(url: str) -> str:
+    """Upgrade known CDN thumbnail URLs to higher-resolution equivalents."""
+    if not url:
+        return url
+    # Phys.org CDN: /csz/news/tmb/ → /csz/news/800/
+    url = re.sub(r'(scx\d\.b-cdn\.net/csz/news/)tmb/', r'\g<1>800/', url)
+    return url
+
+
 def fetch_og_image(url: str, timeout: int = 8) -> str:
     """Fetch article page and return og:image URL (high-res editorial image)."""
     try:
@@ -114,7 +123,7 @@ def fetch_og_image(url: str, timeout: int = 8) -> str:
             m = re.search(
                 r'<meta[^>]+content=["\'](https?://[^"\']+)["\'][^>]+property=["\']og:image["\']',
                 html, re.I)
-        return m.group(1) if m else ""
+        return upgrade_image_url(m.group(1)) if m else ""
     except Exception:
         return ""
 
@@ -136,15 +145,15 @@ def extract_image(entry) -> str:
             if w > best_w or (best_url == "" and url):
                 best_url, best_w = url, w
         if best_url:
-            return best_url
+            return upgrade_image_url(best_url)
     # enclosure (some RSS feeds embed full-res images here)
     for enc in getattr(entry, "enclosures", []):
         if enc.get("type", "").startswith("image/"):
-            return enc.get("href", "")
+            return upgrade_image_url(enc.get("href", ""))
     # media:thumbnail — last resort, explicitly small
     mt = getattr(entry, "media_thumbnail", None)
     if mt:
-        return mt[0].get("url", "") if mt else ""
+        return upgrade_image_url(mt[0].get("url", "") if mt else "")
     return ""
 
 

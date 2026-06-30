@@ -32,7 +32,7 @@ def springer_fig1_url(article_url: str, year: int) -> str:
     art_num = int(m.group(3))  # 1368 (leading zeros stripped)
     doi     = f"10.1038/{suffix}"
     enc     = urllib.parse.quote(f"art:{doi}", safe="")
-    return (f"https://media.springernature.com/m685/springer-static/image/"
+    return (f"https://media.springernature.com/lw926/springer-static/image/"
             f"{enc}/MediaObjects/{journal}_{year}_{art_num}_Fig1_HTML.png")
 
 
@@ -100,24 +100,31 @@ def extract_abstract(entry, feed_type: str) -> str:
 
 
 def extract_image(entry) -> str:
-    """Return an image URL from media:content, media:thumbnail, or enclosure."""
-    # media:content (Phys.org, Wired, etc.)
+    """Return the largest image URL from media:content, enclosure, or media:thumbnail."""
+    # media:content — pick the widest image available
     mc = getattr(entry, "media_content", None)
     if mc:
+        best_url, best_w = "", 0
         for m in mc:
             url = m.get("url", "")
-            if url and re.search(r"\.(jpg|jpeg|png|webp)", url, re.I):
-                return url
-    # media:thumbnail
-    mt = getattr(entry, "media_thumbnail", None)
-    if mt:
-        url = mt[0].get("url", "") if mt else ""
-        if url:
-            return url
-    # enclosure (podcasts / some RSS)
+            if not url or not re.search(r"\.(jpg|jpeg|png|webp)", url, re.I):
+                continue
+            try:
+                w = int(m.get("width", 0))
+            except (ValueError, TypeError):
+                w = 0
+            if w > best_w or (best_url == "" and url):
+                best_url, best_w = url, w
+        if best_url:
+            return best_url
+    # enclosure (some RSS feeds embed full-res images here)
     for enc in getattr(entry, "enclosures", []):
         if enc.get("type", "").startswith("image/"):
             return enc.get("href", "")
+    # media:thumbnail — last resort, explicitly small
+    mt = getattr(entry, "media_thumbnail", None)
+    if mt:
+        return mt[0].get("url", "") if mt else ""
     return ""
 
 

@@ -361,9 +361,9 @@
     // CONFIGURATION
     // ================================================================
     var CONFIG = {
-        posterDuration:  30,   // seconds for research posters
+        posterDuration:  45,   // seconds for research posters
         imageDuration:    7,   // seconds for regular images
-        rssCardDuration: 15,   // seconds for RSS full-screen cards
+        rssCardDuration: 45,   // seconds for RSS full-screen cards
         rssMaxPerFeed:    3,   // how many articles to take from each feed
         loop: true
     };
@@ -661,18 +661,7 @@
                     }
                 });
             } catch(e) {}
-            // Odd compact → promote to full slide so no half-empty screen
-            if (compact.length % 2 === 1) {
-                rich.push({ type: 'rss_card', duration: CONFIG.rssCardDuration,
-                            _rssItem: compact.pop() });
-            }
-            // Pair remaining compact items into dual slides
-            var allItems = rich.slice();
-            for (var i = 0; i < compact.length; i += 2) {
-                allItems.push({ type: 'rss_dual', duration: CONFIG.rssCardDuration,
-                                _cards: compact.slice(i, i + 2) });
-            }
-            callback(allItems);
+            callback(rich);
         };
         req.onerror = req.ontimeout = function() { callback([]); };
         req.send();

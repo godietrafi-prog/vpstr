@@ -87,6 +87,7 @@
             padding: 6% 9% 0 9%;
             gap: 0;
             overflow: hidden;
+            position: relative;
         }
         .rss-card-quote {
             font-family: Georgia, serif;
@@ -162,8 +163,19 @@
             flex-shrink: 1;
             overflow: hidden;
             display: -webkit-box;
-            -webkit-line-clamp: 11;
+            -webkit-line-clamp: 15;
             -webkit-box-orient: vertical;
+        }
+        /* Publisher logo — top-right corner */
+        .rss-card-logo {
+            position: absolute;
+            top: 4%;
+            right: 6%;
+            width: 58px;
+            height: 58px;
+            border-radius: 10px;
+            object-fit: contain;
+            opacity: 0.88;
         }
         /* Figure fills remaining vertical space at the bottom */
         .rss-card-figure {
@@ -480,8 +492,28 @@
         div.appendChild(vid);
     }
 
+    var FEED_LOGOS = {
+        'Nature Food':              'media/logos/nature.svg',
+        'Food Chemistry':           'media/logos/elsevier.svg',
+        'Trends in Food Sci & Tech':'media/logos/elsevier.svg',
+        'Food Quality & Preference':'media/logos/elsevier.svg',
+        'Frontiers Anal. Science':  'media/logos/frontiers.svg',
+        'Frontiers Food Science':   'media/logos/frontiers.svg',
+    };
+
     function makeRSSCardSlide(div, rssItem) {
         div.classList.add('rss-card');
+
+        // Publisher logo — top-right corner
+        var logoSrc = FEED_LOGOS[rssItem.feedName];
+        if (logoSrc) {
+            var logoEl = document.createElement('img');
+            logoEl.src     = logoSrc;
+            logoEl.alt     = '';
+            logoEl.className = 'rss-card-logo';
+            logoEl.onerror = function() { this.remove(); };
+            div.appendChild(logoEl);
+        }
 
         // Decorative quote mark
         var quoteEl = document.createElement('div');

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-30T17:58:21Z",
+  "updated": "2026-06-30T18:12:58Z",
   "items": [
     {
       "title": "A cognitive perspective for climate-smart agricultural policy in the Indo-Pacific region",
@@ -260,7 +260,7 @@
       "published": "Apr 2026",
       "feedName": "ScienceDaily Biotech",
       "url": "https://www.sciencedaily.com/releases/2026/04/260424233201.htm",
-      "image": ""
+      "image": "https://www.sciencedaily.com/images/1920/enlarged-peroxisomes-lacking-vesicles.webp"
     },
     {
       "title": "A donut-shaped protein breaks apart to start bacterial cell division",
@@ -269,7 +269,7 @@
       "published": "Mar 2026",
       "feedName": "ScienceDaily Biotech",
       "url": "https://www.sciencedaily.com/releases/2026/03/260314030457.htm",
-      "image": ""
+      "image": "https://www.sciencedaily.com/images/1920/mraz-protein.webp"
     },
     {
       "title": "Light-guided evolution creates proteins that can switch, sense, and compute",
@@ -278,7 +278,7 @@
       "published": "Mar 2026",
       "feedName": "ScienceDaily Biotech",
       "url": "https://www.sciencedaily.com/releases/2026/03/260309183211.htm",
-      "image": ""
+      "image": "https://www.sciencedaily.com/images/1920/activating-genes-with-light.webp"
     },
     {
       "title": "The 4x rule: Why some people’s DNA is more unstable than others",
@@ -287,7 +287,7 @@
       "published": "Jan 2026",
       "feedName": "ScienceDaily Biotech",
       "url": "https://www.sciencedaily.com/releases/2026/01/260109080214.htm",
-      "image": ""
+      "image": "https://www.sciencedaily.com/images/1920/dna-mutation-genetic-damage.webp"
     }
   ]
 }

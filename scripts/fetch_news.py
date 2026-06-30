@@ -143,8 +143,8 @@ FEEDS = [
      "name": "Trends in Food Sci & Tech","type": "elsevier"},
     {"url": "https://rss.sciencedirect.com/publication/science/09503293",
      "name": "Food Quality & Preference","type": "elsevier"},
-    {"url": "https://www.frontiersin.org/journals/nutrition/rss",
-     "name": "Frontiers Nutrition",      "type": "frontiers"},
+    {"url": "https://www.frontiersin.org/journals/analytical-science/rss",
+     "name": "Frontiers Anal. Science",  "type": "frontiers"},
     {"url": "https://www.frontiersin.org/journals/food-science-and-technology/rss",
      "name": "Frontiers Food Science",   "type": "frontiers"},
 ]

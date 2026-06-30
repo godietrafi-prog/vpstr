@@ -658,6 +658,12 @@
                     }
                 });
             } catch(e) {}
+            // Odd compact → promote to full slide so no half-empty screen
+            if (compact.length % 2 === 1) {
+                rich.push({ type: 'rss_card', duration: CONFIG.rssCardDuration,
+                            _rssItem: compact.pop() });
+            }
+            // Pair remaining compact items into dual slides
             var allItems = rich.slice();
             for (var i = 0; i < compact.length; i += 2) {
                 allItems.push({ type: 'rss_dual', duration: CONFIG.rssCardDuration,

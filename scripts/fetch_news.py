@@ -6,10 +6,14 @@ Runs via GitHub Actions every 2 hours — no CORS issues.
 
 import feedparser
 import json
+import os
 import re
 import urllib.parse
 from datetime import datetime, timezone
 from html.parser import HTMLParser
+
+BROWSER_UA = ("Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
+              "(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36")
 
 
 # ── Springer Nature Fig1 URL ───────────────────────────────────────────────
@@ -136,13 +140,25 @@ MAX_PER_FEED = 4   # cards shown per feed
 ABSTRACT_MAX = 420 # characters
 
 # ── Main loop ─────────────────────────────────────────────────────────────
+# Load previous news.json to use as fallback for feeds that fail to fetch
+_prev_by_feed: dict = {}
+if os.path.exists("news.json"):
+    try:
+        with open("news.json", encoding="utf-8") as _f:
+            _prev = json.load(_f)
+        for _it in (_prev.get("items") or []):
+            _prev_by_feed.setdefault(_it.get("feedName", ""), []).append(_it)
+    except Exception:
+        pass
+
 items        = []
 current_year = datetime.now(timezone.utc).year
 
 for feed_info in FEEDS:
     is_nature = "nature.com" in feed_info["url"]
     try:
-        feed  = feedparser.parse(feed_info["url"])
+        feed  = feedparser.parse(feed_info["url"],
+                                 request_headers={"User-Agent": BROWSER_UA})
         count = 0
         for entry in feed.entries:
             if count >= MAX_PER_FEED:
@@ -170,10 +186,19 @@ for feed_info in FEEDS:
             })
             count += 1
 
-        print(f"  {feed_info['name']}: {count} articles")
+        if count == 0:
+            # Feed returned nothing — reuse cached articles from previous run
+            cached = _prev_by_feed.get(feed_info["name"], [])[:MAX_PER_FEED]
+            items.extend(cached)
+            print(f"  {feed_info['name']}: 0 fetched — reused {len(cached)} cached")
+        else:
+            print(f"  {feed_info['name']}: {count} articles")
 
     except Exception as e:
-        print(f"  ERROR {feed_info['name']}: {e}")
+        # Network/parse error — reuse cache
+        cached = _prev_by_feed.get(feed_info["name"], [])[:MAX_PER_FEED]
+        items.extend(cached)
+        print(f"  ERROR {feed_info['name']}: {e} — reused {len(cached)} cached")
 
 result = {
     "updated": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),

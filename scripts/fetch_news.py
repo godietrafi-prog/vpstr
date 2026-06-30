@@ -99,6 +99,26 @@ def extract_abstract(entry, feed_type: str) -> str:
         return ""  # Elsevier: no abstract in RSS
 
 
+def fetch_og_image(url: str, timeout: int = 8) -> str:
+    """Fetch article page and return og:image URL (high-res editorial image)."""
+    try:
+        import urllib.request
+        req = urllib.request.Request(url, headers={"User-Agent": BROWSER_UA})
+        with urllib.request.urlopen(req, timeout=timeout) as resp:
+            html = resp.read(65536).decode("utf-8", errors="ignore")
+        # og:image can appear in either attribute order
+        m = re.search(
+            r'<meta[^>]+property=["\']og:image["\'][^>]+content=["\'](https?://[^"\']+)["\']',
+            html, re.I)
+        if not m:
+            m = re.search(
+                r'<meta[^>]+content=["\'](https?://[^"\']+)["\'][^>]+property=["\']og:image["\']',
+                html, re.I)
+        return m.group(1) if m else ""
+    except Exception:
+        return ""
+
+
 def extract_image(entry) -> str:
     """Return the largest image URL from media:content, enclosure, or media:thumbnail."""
     # media:content — pick the widest image available
@@ -225,7 +245,7 @@ for feed_info in FEEDS:
             if is_nature:
                 image = springer_fig1_url(article_url, current_year)
             elif feed_type == "generic":
-                image = extract_image(entry)
+                image = fetch_og_image(article_url) or extract_image(entry)
             else:
                 image = ""
 

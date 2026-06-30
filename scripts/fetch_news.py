@@ -150,7 +150,7 @@ FEEDS = [
 ]
 
 MAX_PER_FEED = 4   # cards shown per feed
-ABSTRACT_MAX = 1200 # characters (~12 lines)
+ABSTRACT_MAX = 1600 # characters (~15 lines)
 
 # ── Main loop ─────────────────────────────────────────────────────────────
 # Load previous news.json to use as fallback for feeds that fail to fetch

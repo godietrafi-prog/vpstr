@@ -75,20 +75,46 @@
             object-fit: fill;
         }
 
-        /* ── Bottom bar with logo ── */
-        #bottom-bar {
-            flex: 0 0 7%;
-            background: #fff;
-            display: flex;
-            align-items: center;
-            justify-content: flex-start;
-            padding: 0 2%;
-            border-top: 2px solid #4EC96A;
+        /* ── RSS card full-screen slides ── */
+        .rss-card {
+            background: linear-gradient(160deg, #0a1628 0%, #0d2a1a 100%);
+            flex-direction: column;
+            justify-content: center;
+            align-items: flex-start;
+            padding: 7% 9%;
+            gap: 0;
+            overflow: hidden;
         }
-        #bottom-bar img#logo {
-            height: 50%;
-            width: auto;
-            object-fit: contain;
+        .rss-card-journal {
+            font-family: Arial, sans-serif;
+            font-size: 1.4em;
+            color: #4EC96A;
+            font-weight: bold;
+            letter-spacing: 0.15em;
+            text-transform: uppercase;
+            margin-bottom: 3%;
+        }
+        .rss-card-divider {
+            width: 70px;
+            height: 4px;
+            background: #4EC96A;
+            margin-bottom: 6%;
+            border-radius: 2px;
+            flex-shrink: 0;
+        }
+        .rss-card-title {
+            font-family: Georgia, 'Times New Roman', serif;
+            font-size: 2.8em;
+            color: #ffffff;
+            line-height: 1.25;
+            font-weight: bold;
+            margin-bottom: 5%;
+        }
+        .rss-card-summary {
+            font-family: Arial, sans-serif;
+            font-size: 1.35em;
+            color: #9abfaa;
+            line-height: 1.65;
         }
 
         /* ── News ticker ── */
@@ -105,7 +131,7 @@
             background: #4EC96A;
             color: #fff;
             font-family: Arial, sans-serif;
-            font-size: 1em;
+            font-size: 1.15em;
             font-weight: bold;
             padding: 0 1.5%;
             height: 100%;
@@ -126,7 +152,7 @@
             left: 0;
             white-space: nowrap;
             font-family: Arial, sans-serif;
-            font-size: 0.95em;
+            font-size: 1.5em;
             color: #c8f5d6;
             padding-left: 100%;
             transform: translateY(-50%);
@@ -135,6 +161,22 @@
         @keyframes ticker-move {
             from { transform: translateY(-50%) translateX(0); }
             to   { transform: translateY(-50%) translateX(-100%); }
+        }
+
+        /* ── Bottom bar with logo ── */
+        #bottom-bar {
+            flex: 0 0 7%;
+            background: #fff;
+            display: flex;
+            align-items: center;
+            justify-content: flex-start;
+            padding: 0 2%;
+            border-top: 2px solid #4EC96A;
+        }
+        #bottom-bar img#logo {
+            height: 50%;
+            width: auto;
+            object-fit: contain;
         }
     </style>
 </head>
@@ -162,22 +204,32 @@
     // CONFIGURATION
     // ================================================================
     var CONFIG = {
-        posterDuration: 30,   // seconds for research posters
-        imageDuration:  7,    // seconds for regular images
+        posterDuration:  30,   // seconds for research posters
+        imageDuration:    7,   // seconds for regular images
+        rssCardDuration: 20,   // seconds for RSS full-screen cards
+        rssMaxPerFeed:    3,   // how many articles to take from each feed
         loop: true
     };
+
+    var RSS_FEEDS = [
+        { url: 'https://www.nature.com/natfood.rss',                         name: 'Nature Food' },
+        { url: 'https://rss.sciencedirect.com/publication/science/03088146', name: 'Food Chemistry' },
+        { url: 'https://rss.sciencedirect.com/publication/science/09242244', name: 'Trends in Food Science' },
+        { url: 'https://rss.sciencedirect.com/publication/science/09503293', name: 'Food Quality & Preference' },
+    ];
+    var RSS_PROXY = 'https://feed2json.org/convert?url=';
 
     // ================================================================
     // ENGINE
     // ================================================================
     var slidesArea = document.getElementById('slides-area');
-    var pool    = [];   // items from slides.json pool
-    var poolEls = [];   // one DOM element per pool item (indexed same as pool)
-    var playlist = [];  // current round: array of pool indices
-    var current  = 0;   // position in playlist
+    var pool     = [];   // items from slides.json + rss cards
+    var poolEls  = [];   // one DOM element per pool item
+    var playlist = [];
+    var current  = 0;
     var timer    = null;
 
-    function isVideo(src) { return /\.(mp4|webm|ogg|mov)$/i.test(src); }
+    function isVideo(src) { return /\.(mp4|webm|ogg|mov)$/i.test(src || ''); }
 
     function shuffle(arr) {
         var a = arr.slice();
@@ -188,8 +240,13 @@
         return a;
     }
 
-    // Build a playlist that covers ALL items: every poster appears once per round.
-    // Videos inserted every 3 posters, images every 4 posters.
+    function stripHTML(html) {
+        var d = document.createElement('div');
+        d.innerHTML = html || '';
+        return (d.textContent || d.innerText || '').replace(/\s+/g, ' ').trim();
+    }
+
+    // Every round: 3 posters → 1 rss_card, every 4 posters → 1 image
     function buildPlaylist() {
         var byType = {};
         for (var i = 0; i < pool.length; i++) {
@@ -197,30 +254,26 @@
             if (!byType[t]) byType[t] = [];
             byType[t].push(i);
         }
-
-        var posters = shuffle(byType['poster'] || []);
-        var videos  = shuffle(byType['video']  || []);
-        var images  = shuffle(byType['image']  || []);
+        var posters  = shuffle(byType['poster']   || []);
+        var images   = shuffle(byType['image']    || []);
+        var rssCards = shuffle(byType['rss_card'] || []);
+        var videos   = shuffle(byType['video']    || []);
 
         var pl = [];
-        var vi = 0, ii = 0;
-
+        var ii = 0, ri = 0, vi = 0;
         for (var pi = 0; pi < posters.length; pi++) {
             pl.push(posters[pi]);
-            if ((pi + 1) % 3 === 0 && vi < videos.length) pl.push(videos[vi++]);
-            if ((pi + 1) % 4 === 0 && ii < images.length) pl.push(images[ii++]);
+            if ((pi + 1) % 3 === 0 && ri < rssCards.length) pl.push(rssCards[ri++]);
+            if ((pi + 1) % 4 === 0 && ii < images.length)   pl.push(images[ii++]);
+            if ((pi + 1) % 3 === 0 && vi < videos.length)   pl.push(videos[vi++]);
         }
-        while (vi < videos.length) pl.push(videos[vi++]);
-        while (ii < images.length) pl.push(images[ii++]);
+        while (ri < rssCards.length) pl.push(rssCards[ri++]);
+        while (ii < images.length)   pl.push(images[ii++]);
+        while (vi < videos.length)   pl.push(videos[vi++]);
 
         return pl.length > 0 ? pl : pool.map(function(_, i) { return i; });
     }
 
-    // ── Build a video slide ───────────────────────────────────────────
-    // Videos must be pre-processed with process_video.bat before use.
-    // process_video.bat applies FFmpeg transpose=1 (90° CW) so that:
-    //   - On TV  (hardware overlay, no CSS rotation): 90° CW file + 90° CW screen = upright
-    //   - On PC  (CSS 270° applied to video element): 270° CSS + 90° CW file = 360° = upright
     function makeVideoSlide(div, src) {
         var vid = document.createElement('video');
         vid.src     = src;
@@ -230,22 +283,49 @@
         vid.style.width     = '100%';
         vid.style.height    = '100%';
         vid.style.objectFit = 'fill';
-
         div._vidEl = vid;
         div._start = function() {};
         div._stop  = function() {};
-
         div.appendChild(vid);
     }
 
-    // ── Build one DOM element per pool item ───────────────────────────
+    function makeRSSCardSlide(div, rssItem) {
+        div.classList.add('rss-card');
+
+        var journalEl = document.createElement('div');
+        journalEl.className   = 'rss-card-journal';
+        journalEl.textContent = rssItem.feedName;
+
+        var dividerEl = document.createElement('div');
+        dividerEl.className = 'rss-card-divider';
+
+        var titleEl = document.createElement('div');
+        titleEl.className   = 'rss-card-title';
+        titleEl.textContent = rssItem.title;
+
+        div.appendChild(journalEl);
+        div.appendChild(dividerEl);
+        div.appendChild(titleEl);
+
+        if (rssItem.summary) {
+            var summaryEl = document.createElement('div');
+            summaryEl.className   = 'rss-card-summary';
+            summaryEl.textContent = rssItem.summary;
+            div.appendChild(summaryEl);
+        }
+    }
+
     function buildPool() {
         for (var i = 0; i < pool.length; i++) {
             var item = pool[i];
             var div  = document.createElement('div');
             div.className = 'slide';
 
-            if (isVideo(item.src)) {
+            if (item.type === 'rss_card') {
+                div.setAttribute('data-type', 'image');
+                div.setAttribute('data-duration', String(item.duration || CONFIG.rssCardDuration));
+                makeRSSCardSlide(div, item._rssItem);
+            } else if (isVideo(item.src)) {
                 div.setAttribute('data-type', 'video');
                 makeVideoSlide(div, item.src_left || item.src);
             } else {
@@ -265,18 +345,13 @@
         }
     }
 
-    // ── Show slide at position pos in the playlist ────────────────────
     function showSlide(pos) {
         if (!pool.length) return;
-
-        // End of playlist → regenerate for next round
         if (pos >= playlist.length) {
             if (!CONFIG.loop) return;
             playlist = buildPlaylist();
             pos = 0;
         }
-
-        // Deactivate + stop everything
         for (var j = 0; j < poolEls.length; j++) {
             poolEls[j].classList.remove('active');
             if (poolEls[j]._stop)   poolEls[j]._stop();
@@ -323,88 +398,101 @@
     });
     document.addEventListener('click', next);
 
-    // ── Load pool from slides.json and start ──────────────────────────
+    // ================================================================
+    // RSS — shared fetch for both cards and ticker
+    // ================================================================
+    var tickerInner = document.getElementById('ticker-inner');
+    var tickerScroll = document.getElementById('ticker-scroll');
+
+    // Fetch all RSS feeds; callback(items) where items = pool entries of type rss_card
+    function rssFetchAll(callback) {
+        var allItems = [];
+        var remaining = RSS_FEEDS.length;
+        var done = false;
+
+        var timeout = setTimeout(function() {
+            if (!done) { done = true; callback(allItems); }
+        }, 10000);
+
+        RSS_FEEDS.forEach(function(feed) {
+            var url = RSS_PROXY + encodeURIComponent(feed.url);
+            var req = new XMLHttpRequest();
+            req.open('GET', url);
+            req.timeout = 7000;
+            req.onload = function() {
+                try {
+                    var d = JSON.parse(req.responseText);
+                    if (d.items && d.items.length) {
+                        d.items.slice(0, CONFIG.rssMaxPerFeed).forEach(function(it) {
+                            if (!it.title) return;
+                            var raw = it.summary || stripHTML(it.content_html || '');
+                            if (raw.length > 280) raw = raw.substring(0, 277) + '...';
+                            allItems.push({
+                                type:     'rss_card',
+                                duration: CONFIG.rssCardDuration,
+                                _rssItem: { title: it.title, summary: raw, feedName: feed.name }
+                            });
+                        });
+                    }
+                } catch(e) {}
+                if (--remaining === 0 && !done) { done = true; clearTimeout(timeout); callback(allItems); }
+            };
+            req.onerror = req.ontimeout = function() {
+                if (--remaining === 0 && !done) { done = true; clearTimeout(timeout); callback(allItems); }
+            };
+            req.send();
+        });
+    }
+
+    function tickerBuild(rssItems) {
+        var FALLBACK = [
+            'Nature Food: Advancing sustainable food systems through science',
+            'Food Chemistry: Novel analytical methods for food quality assessment',
+            'Trends in Food Science: Innovation in food processing and safety',
+            'Food Quality & Preference: Consumer science and sensory evaluation',
+            'Metabolomics and multi-omics approaches in food research',
+        ];
+        var titles = rssItems.length
+            ? rssItems.map(function(it) { return it._rssItem.title; })
+            : FALLBACK;
+        var arr = shuffle(titles);
+        var text = arr.join('   \u25C6   ');
+        tickerInner.textContent = text;
+        tickerInner.style.animation = 'none';
+        tickerInner.getBoundingClientRect();
+        var containerW = tickerScroll.offsetWidth || 800;
+        var textW = text.length * 14; // ~14px per char at 1.5em
+        var duration = Math.round((containerW + textW) / 80);
+        tickerInner.style.animation = duration + 's ticker-move linear infinite';
+    }
+
+    // ================================================================
+    // INIT — load slides.json, fetch RSS, then start
+    // ================================================================
     var xhr = new XMLHttpRequest();
     xhr.open('GET', 'slides.json?v=' + Date.now());
     xhr.onload = function() {
         if (xhr.status === 200) {
-            var data = JSON.parse(xhr.responseText);
-            pool = data.pool || data; // support both {pool:[...]} and legacy [...]
+            try {
+                var data = JSON.parse(xhr.responseText);
+                pool = data.pool || data;
+            } catch(e) {}
         }
+        rssFetchAll(function(rssItems) {
+            rssItems.forEach(function(item) { pool.push(item); });
+            buildPool();
+            playlist = buildPlaylist();
+            // Each screen starts at a random position → true independence
+            showSlide(Math.floor(Math.random() * Math.max(1, playlist.length)));
+            tickerBuild(rssItems);
+        });
+    };
+    xhr.onerror = function() {
         buildPool();
         playlist = buildPlaylist();
         showSlide(0);
     };
-    xhr.onerror = function() { buildPool(); playlist = buildPlaylist(); showSlide(0); };
     xhr.send();
-
-    // ================================================================
-    // NEWS TICKER (RSS)
-    // ================================================================
-    var TICKER = {
-        proxy: 'https://feed2json.org/convert?url=',
-        feeds: [
-            'https://www.nature.com/natfood.rss',
-            'https://rss.sciencedirect.com/publication/science/03088146',
-            'https://rss.sciencedirect.com/publication/science/09242244',
-            'https://rss.sciencedirect.com/publication/science/09503293',
-        ],
-        fallback: [
-            'Nature Food: Advancing sustainable food systems through science',
-            'JAFC: Latest research in agricultural and food chemistry',
-            'Food Chemistry: Novel analytical methods for food quality assessment',
-            'Analytical Chemistry: Breakthrough techniques in chemical analysis',
-            'Metabolomics and multi-omics approaches in food science',
-        ],
-        items: [],
-        feedIndex: 0
-    };
-
-    var tickerInner = document.getElementById('ticker-inner');
-    var tickerScroll = document.getElementById('ticker-scroll');
-
-    function tickerFetchNext() {
-        if (TICKER.feedIndex >= TICKER.feeds.length) { tickerBuild(); return; }
-        var url = TICKER.proxy + encodeURIComponent(TICKER.feeds[TICKER.feedIndex]);
-        var req = new XMLHttpRequest();
-        req.open('GET', url);
-        req.timeout = 8000;
-        req.onload = function() {
-            try {
-                var d = JSON.parse(req.responseText);
-                if (d.items && d.items.length) {
-                    d.items.slice(0, 5).forEach(function(it) {
-                        if (it.title) TICKER.items.push(it.title);
-                    });
-                }
-            } catch(e) {}
-            TICKER.feedIndex++;
-            tickerFetchNext();
-        };
-        req.onerror = req.ontimeout = function() { TICKER.feedIndex++; tickerFetchNext(); };
-        req.send();
-    }
-
-    function tickerBuild() {
-        var titles = TICKER.items.length ? TICKER.items : TICKER.fallback;
-        var arr = titles.slice();
-        for (var i = arr.length - 1; i > 0; i--) {
-            var j = Math.floor(Math.random() * (i + 1));
-            var tmp = arr[i]; arr[i] = arr[j]; arr[j] = tmp;
-        }
-        var text = arr.join('   \u25C6   ');
-        tickerInner.textContent = text;
-        tickerInner.style.animation = 'none';
-        tickerInner.getBoundingClientRect(); // force reflow
-        var containerW = tickerScroll.offsetWidth || 800;
-        var textW = text.length * 9; // ~9px per char estimate
-        var duration = Math.round((containerW + textW) / 80); // 80px/s scroll speed
-        tickerInner.style.animation = duration + 's ticker-move linear infinite';
-    }
-
-    function tickerRefresh() { TICKER.items = []; TICKER.feedIndex = 0; tickerFetchNext(); }
-    setTimeout(tickerRefresh, 3000);
-    setInterval(tickerRefresh, 30 * 60 * 1000);
 
     </script>
 </body>

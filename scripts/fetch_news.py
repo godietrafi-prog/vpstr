@@ -7,8 +7,62 @@ Runs via GitHub Actions every 2 hours — no CORS issues.
 import feedparser
 import json
 import re
+import urllib.request
+import http.cookiejar
 from datetime import datetime, timezone
 from html.parser import HTMLParser
+
+
+# ── og:image fetching ──────────────────────────────────────────────────────
+def make_nature_opener():
+    """Cookie-jar opener for nature.com (bypasses their cookie wall)."""
+    cj = http.cookiejar.CookieJar()
+    opener = urllib.request.build_opener(urllib.request.HTTPCookieProcessor(cj))
+    opener.addheaders = [
+        ("User-Agent",
+         "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
+         "(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"),
+        ("Accept", "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8"),
+        ("Accept-Language", "en-US,en;q=0.9"),
+    ]
+    try:
+        opener.open("https://www.nature.com/", timeout=8)
+    except Exception:
+        pass
+    return opener
+
+
+def fetch_og_image(url: str, opener=None) -> str:
+    """Return the og:image URL for an article page, or '' on failure."""
+    if not url:
+        return ""
+    try:
+        if opener:
+            with opener.open(url, timeout=12) as r:
+                html = r.read(200000).decode("utf-8", errors="ignore")
+        else:
+            req = urllib.request.Request(
+                url, headers={"User-Agent":
+                "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36"})
+            with urllib.request.urlopen(req, timeout=12) as r:
+                html = r.read(200000).decode("utf-8", errors="ignore")
+
+        for pat in [
+            r'property=["\']og:image["\'][^>]*content=["\']([^"\']+)',
+            r'content=["\']([^"\']+)["\'][^>]*property=["\']og:image',
+            r'name=["\']twitter:image["\'][^>]*content=["\']([^"\']+)',
+            r'content=["\']([^"\']+)["\'][^>]*name=["\']twitter:image',
+        ]:
+            m = re.search(pat, html, re.I)
+            if m:
+                img = m.group(1).strip()
+                # Skip generic journal logos/icons
+                if any(x in img for x in ["logo", "icon", "favicon", "rss.png", "header-"]):
+                    continue
+                return img
+    except Exception as e:
+        print(f"    og:image error ({url[:60]}): {e}")
+    return ""
 
 FEEDS = [
     {"url": "https://www.nature.com/natfood.rss",
@@ -72,7 +126,11 @@ def clean_summary(raw: str) -> str:
 
 items = []
 
+# Prime Nature cookie opener once
+nature_opener = make_nature_opener()
+
 for feed_info in FEEDS:
+    is_nature = "nature.com" in feed_info["url"]
     try:
         feed = feedparser.parse(feed_info["url"])
         count = 0
@@ -82,6 +140,8 @@ for feed_info in FEEDS:
             title = strip_html((entry.get("title") or "")).strip()
             if not title:
                 continue
+
+            article_url = entry.get("link", "")
 
             # Build summary from best available field
             raw_summary = ""
@@ -99,11 +159,18 @@ for feed_info in FEEDS:
             if len(summary) > SUMMARY_MAX:
                 summary = summary[:SUMMARY_MAX - 3] + "..."
 
+            # Fetch og:image (Nature only — Elsevier returns 403)
+            image = ""
+            if is_nature and article_url:
+                image = fetch_og_image(article_url, opener=nature_opener)
+                print(f"    image: {'OK' if image else 'none'} — {title[:50]}")
+
             items.append({
                 "title":    title,
                 "summary":  summary,
                 "feedName": feed_info["name"],
-                "url":      entry.get("link", ""),
+                "url":      article_url,
+                "image":    image,
             })
             count += 1
 

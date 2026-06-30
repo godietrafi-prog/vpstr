@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-30T10:19:01Z",
+  "updated": "2026-06-30T10:45:51Z",
   "items": [
     {
       "title": "A cognitive perspective for climate-smart agricultural policy in the Indo-Pacific region",
@@ -78,7 +78,7 @@
       "abstract": "",
       "authors": "Laura Iaria, Etske Bijl, Kasper Hettinga et al.",
       "published": "Sep 2026",
-      "feedName": "Trends in Food Science & Technology",
+      "feedName": "Trends in Food Sci & Tech",
       "url": "https://www.sciencedirect.com/science/article/pii/S092422442600350X?dgcid=rss_sd_all",
       "image": ""
     },
@@ -87,7 +87,7 @@
       "abstract": "",
       "authors": "Mengyue Liu, Shouyi Dou, Mingyang Lv et al.",
       "published": "Sep 2026",
-      "feedName": "Trends in Food Science & Technology",
+      "feedName": "Trends in Food Sci & Tech",
       "url": "https://www.sciencedirect.com/science/article/pii/S0924224426003626?dgcid=rss_sd_all",
       "image": ""
     },
@@ -96,7 +96,7 @@
       "abstract": "",
       "authors": "Ying Zhou, Guihong Qi, Mengmeng Yuan et al.",
       "published": "Sep 2026",
-      "feedName": "Trends in Food Science & Technology",
+      "feedName": "Trends in Food Sci & Tech",
       "url": "https://www.sciencedirect.com/science/article/pii/S0924224426003584?dgcid=rss_sd_all",
       "image": ""
     },
@@ -105,7 +105,7 @@
       "abstract": "",
       "authors": "Yong Li, Jacob Lessard-Lord, Rachel Gibson et al.",
       "published": "Sep 2026",
-      "feedName": "Trends in Food Science & Technology",
+      "feedName": "Trends in Food Sci & Tech",
       "url": "https://www.sciencedirect.com/science/article/pii/S0924224426003560?dgcid=rss_sd_all",
       "image": ""
     },
@@ -143,6 +143,78 @@
       "published": "Nov 2026",
       "feedName": "Food Quality & Preference",
       "url": "https://www.sciencedirect.com/science/article/pii/S095032932600159X?dgcid=rss_sd_all",
+      "image": ""
+    },
+    {
+      "title": "Framing resonance and variation in social media: the case of slow food on Instagram",
+      "abstract": "Sustainability-oriented social movement organisations (SMOs) and actors collaborating with them use social media to share messages that reflect or vary the SMO’s collective action frames (CAFs). Framing differences can shape public perception, potentially weakening movement identity, support, and influence. Limited research analysing multiple actors spreading SMO’s frames has neglected to study the role of corporatio…",
+      "authors": "Ruth Areli García-León",
+      "published": "Jun 2026",
+      "feedName": "Frontiers Nutrition",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1879734",
+      "image": ""
+    },
+    {
+      "title": "Inflammation and nutrition-derived indicators for predicting amputation risk in patients with type 2 diabetic foot ulcers",
+      "abstract": "BackgroundInflammation and malnutrition affect the prognosis of diabetic foot ulcers (DFU). This study systematically evaluated the impact and predictive value of inflammation and nutrition-derived indicators for amputation in DFU using machine learning models.MethodsThe study enrolled 1,052 patients with type 2 diabetic foot ulcers. During hospitalization, 739 patients received conservative treatment and 313 patient…",
+      "authors": "Junyu He, Jingxia Sun, Jinhua Wu et al.",
+      "published": "Jun 2026",
+      "feedName": "Frontiers Nutrition",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1875176",
+      "image": ""
+    },
+    {
+      "title": "Daytime nap and nighttime sleep duration in relation to dyslipidemia among type 2 diabetes patients in eastern China: a cross-sectional study",
+      "abstract": "ObjectivesTo investigate associations of daytime nap and nighttime sleep duration with dyslipidemia among patients with type 2 diabetes (T2DM) in Eastern China.MethodsThis investigation was conducted in Zhejiang Province, China, from March to November 2018. Multivariable logistic regression assessed associations of daytime nap and nighttime sleep duration with dyslipidemia. Restricted cubic spline (RCS) analyses usin…",
+      "authors": "Xiangyu Chen, Feng Lu, Jie Zhang et al.",
+      "published": "Jun 2026",
+      "feedName": "Frontiers Nutrition",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1861408",
+      "image": ""
+    },
+    {
+      "title": "Impact of metabolic score for visceral fat on bone health in adolescent population: a cross-sectional study perspective",
+      "abstract": "ObjectiveTo analyze the relationship between the Metabolic Score for Visceral Fat (METS-VF), bone mineral content (BMC), and bone metabolism indexes in Chinese adolescents.MethodsThis cross-sectional study used stratified cluster sampling to select 1,206 adolescents (12–18 years) from six schools in Yinchuan (2017–2023). Body composition and BMC of the participants were measured using bioelectrical impedance analysis…",
+      "authors": "Linlin Chen, Jianxi Liu, Longkai Shi et al.",
+      "published": "Jun 2026",
+      "feedName": "Frontiers Nutrition",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1822235",
+      "image": ""
+    },
+    {
+      "title": "Application of indirect in-package surface dielectric barrier discharge cold plasma for post-harvest storage of table grapes",
+      "abstract": "BackgroundTable grapes (Vitis vinifera var. Crimson Seedless) are highly susceptible to post-harvest deterioration, primarily due to weight loss, stalk browning, and spoilage by microorganisms like moulds. This study investigates the use of indirect in-package surface cold plasma within a passive Modified Atmosphere Packaging (MAP) to enhance microbial control and extend shelf-life of table grapes.MethodologyGrapes w…",
+      "authors": "Giuseppe Rosiello, Raffaele Simonelli, Danial Fatchurrahman et al.",
+      "published": "Jun 2026",
+      "feedName": "Frontiers Food Science",
+      "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.1826481",
+      "image": ""
+    },
+    {
+      "title": "A chemical and sensory comparison between commercial regular and alcohol-free beers from the Italian market",
+      "abstract": "This study presents a comprehensive chemical and sensory comparison between commercial regular beers and their alcohol-free beer (NAB) counterparts available in the Italian market. Eight paired samples were characterised using physicochemical analyses, volatile aroma profiling via bidimensional gas chromatography-mass spectrometry (GCxGC-MS), and sensory evaluation by a trained expert panel. The findings revealed tha…",
+      "authors": "Gianluca Donadini, Leonardo D’Intino, Giorgia Spigno et al.",
+      "published": "Jun 2026",
+      "feedName": "Frontiers Food Science",
+      "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.1840815",
+      "image": ""
+    },
+    {
+      "title": "Food safety knowledge and practices of stationary street food vendors: a case study of grassy park, city of Cape Town",
+      "abstract": "IntroductionIn the Global South, street-vended foods play a crucial role in food security and economic sustenance; however, they also pose considerable public health risks due to systemic safety vulnerabilities. This study examined the food safety knowledge, compliance, and practices of stationary street food vendors in Grassy Park, Cape Town.MethodsUtilizing a quantitative cross-sectional descriptive design, data we…",
+      "authors": "Thomas Smith, Cavin O. Moreetsi, Thokozani P. Mbonane",
+      "published": "Jun 2026",
+      "feedName": "Frontiers Food Science",
+      "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.1850787",
+      "image": ""
+    },
+    {
+      "title": "Editorial: Diversification of food systems through cultivation of potential underutilized fruits under changing climatic scenarios",
+      "abstract": "",
+      "authors": "Nomali Ziphorah Ngobese, Sunny Sharma, Lindah Muzangwa et al.",
+      "published": "Jun 2026",
+      "feedName": "Frontiers Food Science",
+      "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.1892391",
       "image": ""
     }
   ]

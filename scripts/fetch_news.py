@@ -184,24 +184,36 @@ def extract_date(entry, raw_html: str) -> str:
 
 # ── Feed configuration ─────────────────────────────────────────────────────
 FEEDS = [
-    # ── Academic journals ──────────────────────────────────────────────────
+    # ── Left screen — academic journals ───────────────────────────────────
     {"url": "https://www.nature.com/natfood.rss",
-     "name": "Nature Food",              "type": "nature"},
+     "name": "Nature Food",              "type": "nature",    "screen": "left"},
     {"url": "https://rss.sciencedirect.com/publication/science/03088146",
-     "name": "Food Chemistry",           "type": "elsevier"},
+     "name": "Food Chemistry",           "type": "elsevier",  "screen": "left"},
     {"url": "https://rss.sciencedirect.com/publication/science/09242244",
-     "name": "Trends in Food Sci & Tech","type": "elsevier"},
+     "name": "Trends in Food Sci & Tech","type": "elsevier",  "screen": "left"},
     {"url": "https://rss.sciencedirect.com/publication/science/09503293",
-     "name": "Food Quality & Preference","type": "elsevier"},
+     "name": "Food Quality & Preference","type": "elsevier",  "screen": "left"},
     {"url": "https://www.frontiersin.org/journals/analytical-science/rss",
-     "name": "Frontiers Anal. Science",  "type": "frontiers"},
+     "name": "Frontiers Anal. Science",  "type": "frontiers", "screen": "left"},
     {"url": "https://www.frontiersin.org/journals/food-science-and-technology/rss",
-     "name": "Frontiers Food Science",   "type": "frontiers"},
-    # ── Science news ───────────────────────────────────────────────────────
+     "name": "Frontiers Food Science",   "type": "frontiers", "screen": "left"},
+    {"url": "https://rss.sciencedirect.com/publication/science/07400020",
+     "name": "Food Microbiology",        "type": "elsevier",  "screen": "left"},
+    # ── Right screen — science news + applied ─────────────────────────────
     {"url": "https://phys.org/rss-feed/chemistry-news/analytical-chemistry/",
-     "name": "Phys.org Analytics",       "type": "generic"},
+     "name": "Phys.org Analytics",       "type": "generic",   "screen": "right"},
     {"url": "https://www.sciencedaily.com/rss/plants_animals/biotechnology_and_bioengineering.xml",
-     "name": "ScienceDaily Biotech",     "type": "generic"},
+     "name": "ScienceDaily Biotech",     "type": "generic",   "screen": "right"},
+    {"url": "https://www.sciencedaily.com/rss/health_medicine/nutrition.xml",
+     "name": "ScienceDaily Nutrition",   "type": "generic",   "screen": "right"},
+    {"url": "https://www.sciencedaily.com/rss/plants_animals/food_agriculture.xml",
+     "name": "ScienceDaily Food & Agri", "type": "generic",   "screen": "right"},
+    {"url": "https://www.frontiersin.org/journals/nutrition/rss",
+     "name": "Frontiers Nutrition",      "type": "frontiers", "screen": "right"},
+    {"url": "https://www.mdpi.com/rss/journal/nutrients",
+     "name": "Nutrients (MDPI)",         "type": "generic",   "screen": "right"},
+    {"url": "https://link.springer.com/search.rss?facet-journal-id=394",
+     "name": "Eur. J. Nutrition",        "type": "generic",   "screen": "right"},
 ]
 
 MAX_PER_FEED = 4   # cards shown per feed
@@ -257,6 +269,7 @@ for feed_info in FEEDS:
                 "feedName":  feed_info["name"],
                 "url":       article_url,
                 "image":     image,
+                "screen":    feed_info.get("screen", "both"),
             })
             count += 1
 

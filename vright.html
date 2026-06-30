@@ -652,7 +652,8 @@
                                     authors:   it.authors   || '',
                                     published: it.published || '',
                                     feedName:  it.feedName,
-                                    image:     it.image     || '' };
+                                    image:     it.image     || '',
+                                    screen:    it.screen    || 'both' };
                     if (rssItem.abstract || rssItem.image) {
                         rich.push({ type: 'rss_card', duration: CONFIG.rssCardDuration, _rssItem: rssItem });
                     } else {
@@ -679,16 +680,25 @@
 
     function tickerBuild(rssItems) {
         var FALLBACK = [
-            'Nature Food: Advancing sustainable food systems through science',
-            'Food Chemistry: Novel analytical methods for food quality assessment',
-            'Trends in Food Science: Innovation in food processing and safety',
-            'Food Quality & Preference: Consumer science and sensory evaluation',
-            'Metabolomics and multi-omics approaches in food research',
+            'ScienceDaily: Latest nutrition and food science discoveries',
+            'Phys.org: Advances in analytical chemistry and food analysis',
+            'Frontiers Nutrition: Open-access research on diet and health',
+            'Nutrients: MDPI journal on human nutrition and metabolism',
+            'European Journal of Nutrition: Clinical and experimental research',
         ];
         var titles = [];
         rssItems.forEach(function(it) {
-            if (it.type === 'rss_card') titles.push(it._rssItem.title);
-            if (it.type === 'rss_dual') it._cards.forEach(function(c){ if(c) titles.push(c.title); });
+            if (it.type === 'rss_card') {
+                var s = it._rssItem.screen || 'both';
+                if (s === 'right' || s === 'both') titles.push(it._rssItem.title);
+            }
+            if (it.type === 'rss_dual') {
+                it._cards.forEach(function(c) {
+                    if (!c) return;
+                    var s = c.screen || 'both';
+                    if (s === 'right' || s === 'both') titles.push(c.title);
+                });
+            }
         });
         if (!titles.length) titles = FALLBACK;
         var arr = shuffle(titles);

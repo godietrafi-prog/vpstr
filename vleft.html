@@ -653,7 +653,8 @@
                                     authors:   it.authors   || '',
                                     published: it.published || '',
                                     feedName:  it.feedName,
-                                    image:     it.image     || '' };
+                                    image:     it.image     || '',
+                                    screen:    it.screen    || 'both' };
                     if (rssItem.abstract || rssItem.image) {
                         rich.push({ type: 'rss_card', duration: CONFIG.rssCardDuration,
                                     _rssItem: rssItem });
@@ -689,8 +690,17 @@
         ];
         var titles = [];
         rssItems.forEach(function(it) {
-            if (it.type === 'rss_card')  titles.push(it._rssItem.title);
-            if (it.type === 'rss_dual')  it._cards.forEach(function(c){ if(c) titles.push(c.title); });
+            if (it.type === 'rss_card') {
+                var s = it._rssItem.screen || 'both';
+                if (s === 'left' || s === 'both') titles.push(it._rssItem.title);
+            }
+            if (it.type === 'rss_dual') {
+                it._cards.forEach(function(c) {
+                    if (!c) return;
+                    var s = c.screen || 'both';
+                    if (s === 'left' || s === 'both') titles.push(c.title);
+                });
+            }
         });
         if (!titles.length) titles = FALLBACK;
         var arr = shuffle(titles);

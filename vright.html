@@ -289,20 +289,34 @@
             padding: 6% 9% 0 9%;
             overflow: hidden;
         }
-        /* citation badge — inline in meta row */
+        /* citation badge — right side of top row (flex, no absolute) */
+        .lab-card-top-row {
+            width: 100%;
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-start;
+            margin-bottom: 2%;
+            flex-shrink: 0;
+            gap: 3%;
+        }
         .lab-citation-badge {
-            display: inline-flex;
+            display: flex;
             flex-direction: column;
-            align-items: center;
-            padding: 0.3em 0.75em;
-            border-radius: 0.6em;
-            background: rgba(245,181,0,0.08);
-            border: 1.5px solid rgba(245,181,0,0.35);
-            gap: 0.05em;
+            align-items: flex-end;
+            gap: 0.25em;
             flex-shrink: 0;
         }
-        .lab-citation-badge.high-impact {
-            border-color: rgba(245,181,0,0.7);
+        .lab-citation-total {
+            display: flex;
+            align-items: baseline;
+            gap: 0.35em;
+            padding: 0.25em 0.7em;
+            border-radius: 0.55em;
+            background: rgba(245,181,0,0.08);
+            border: 1.5px solid rgba(245,181,0,0.35);
+        }
+        .lab-citation-badge.high-impact .lab-citation-total {
+            border-color: rgba(245,181,0,0.70);
             box-shadow: 0 0 10px rgba(245,181,0,0.20);
             animation: cite-glow 3s ease-in-out infinite;
         }
@@ -312,18 +326,24 @@
         }
         .lab-citation-count {
             font-family: 'Orbitron', 'Courier New', monospace;
-            font-size: 1.2em;
+            font-size: 1.5em;
             font-weight: 700;
             color: #F5B500;
             line-height: 1;
         }
         .lab-citation-label {
             font-family: Arial, sans-serif;
-            font-size: 0.58em;
-            color: rgba(245,181,0,0.60);
-            letter-spacing: 0.12em;
+            font-size: 0.62em;
+            color: rgba(245,181,0,0.55);
+            letter-spacing: 0.1em;
             text-transform: uppercase;
             font-weight: 600;
+        }
+        .lab-citation-recent {
+            font-family: Arial, sans-serif;
+            font-size: 0.78em;
+            color: rgba(245,181,0,0.80);
+            letter-spacing: 0.04em;
         }
         /* circular photo — wrapper enforces size, img fills it */
         .lab-card-photo-wrap {
@@ -699,13 +719,54 @@
             div.appendChild(nameEl);
         }
 
+        // Top row: [LAB RESEARCH badge] [citation badge — right]
+        var topRow = document.createElement('div');
+        topRow.className = 'lab-card-top-row';
+        var labBadge = document.createElement('div');
+        labBadge.className = 'lab-card-badge';
+        labBadge.textContent = 'LAB RESEARCH · TEL-HAI';
+        topRow.appendChild(labBadge);
+        var cites = item.citationCount || 0;
+        if (cites > 0) {
+            var citeBadge = document.createElement('div');
+            citeBadge.className = 'lab-citation-badge' + (cites >= 50 ? ' high-impact' : '');
+            var totalEl = document.createElement('div');
+            totalEl.className = 'lab-citation-total';
+            var cCount = document.createElement('span');
+            cCount.className = 'lab-citation-count';
+            cCount.textContent = cites >= 1000 ? (cites/1000).toFixed(1)+'k' : cites;
+            var cLabel = document.createElement('span');
+            cLabel.className = 'lab-citation-label';
+            cLabel.textContent = 'cited';
+            totalEl.appendChild(cCount);
+            totalEl.appendChild(cLabel);
+            citeBadge.appendChild(totalEl);
+            var recent = item.recentCitations || 0;
+            if (recent > 0) {
+                var recentEl = document.createElement('div');
+                recentEl.className = 'lab-citation-recent';
+                recentEl.textContent = '▲ ' + recent + ' this month';
+                citeBadge.appendChild(recentEl);
+            }
+            topRow.appendChild(citeBadge);
+        }
+        div.appendChild(topRow);
+
+        // Researcher name (byline)
+        if (res.name) {
+            var nameEl = document.createElement('div');
+            nameEl.className = 'lab-card-researcher-name';
+            nameEl.textContent = res.name;
+            div.appendChild(nameEl);
+        }
+
         // Title
         var titleEl = document.createElement('div');
         titleEl.className = 'lab-card-title';
         titleEl.textContent = item.title;
         div.appendChild(titleEl);
 
-        // Meta row: authors | venue·year | citation badge
+        // Meta row: authors | venue·year
         var meta = document.createElement('div');
         meta.className = 'lab-card-meta';
         if (item.authors) {
@@ -719,20 +780,6 @@
             dateEl.className = 'lab-card-date';
             dateEl.textContent = [item.venue, item.published].filter(Boolean).join(' · ');
             meta.appendChild(dateEl);
-        }
-        var cites = item.citationCount || 0;
-        if (cites > 0) {
-            var citeBadge = document.createElement('div');
-            citeBadge.className = 'lab-citation-badge' + (cites >= 50 ? ' high-impact' : '');
-            var cCount = document.createElement('div');
-            cCount.className = 'lab-citation-count';
-            cCount.textContent = cites >= 1000 ? (cites/1000).toFixed(1)+'k' : cites;
-            var cLabel = document.createElement('div');
-            cLabel.className = 'lab-citation-label';
-            cLabel.textContent = 'cited';
-            citeBadge.appendChild(cCount);
-            citeBadge.appendChild(cLabel);
-            meta.appendChild(citeBadge);
         }
         div.appendChild(meta);
 

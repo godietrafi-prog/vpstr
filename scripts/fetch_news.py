@@ -251,20 +251,51 @@ def fetch_s2_papers(researcher: dict, cutoff_year: int) -> list:
             abstract = abstract[:ABSTRACT_MAX] + "…"
         citations = p.get("citationCount") or 0
         papers.append({
-            "title":         title,
-            "abstract":      abstract,
-            "authors":       authors_str,
-            "published":     str(year),
-            "venue":         (p.get("venue") or "").strip(),
-            "feedName":      "Lab Research",
-            "citationCount": citations,
-            "url":           f"https://doi.org/{doi}" if doi else "",
-            "image":      "",
-            "screen":     "both",
-            "lab_paper":  True,
-            "researcher": {"name": researcher["name"], "photo": researcher["photo"]},
+            "title":           title,
+            "abstract":        abstract,
+            "authors":         authors_str,
+            "published":       str(year),
+            "venue":           (p.get("venue") or "").strip(),
+            "feedName":        "Lab Research",
+            "citationCount":   citations,
+            "recentCitations": 0,
+            "s2_paper_id":     p.get("paperId", ""),
+            "url":             f"https://doi.org/{doi}" if doi else "",
+            "image":           "",
+            "screen":          "both",
+            "lab_paper":       True,
+            "researcher":      {"name": researcher["name"], "photo": researcher["photo"]},
         })
     return papers
+
+
+def fetch_recent_citations(paper_id: str, days: int = 30) -> int:
+    """Count how many papers citing this one were published in the last `days` days."""
+    from datetime import timedelta
+    cutoff = (datetime.now() - timedelta(days=days)).strftime("%Y-%m-%d")
+    url = (f"https://api.semanticscholar.org/graph/v1/paper/{paper_id}/citations"
+           f"?fields=publicationDate&limit=100")
+    for attempt in range(3):
+        try:
+            req = urllib.request.Request(url, headers={"User-Agent": BROWSER_UA})
+            with urllib.request.urlopen(req, timeout=15) as resp:
+                data = json.loads(resp.read())
+            break
+        except urllib.error.HTTPError as e:
+            if e.code == 429:
+                time.sleep(12 * (attempt + 1))
+                continue
+            return 0
+        except Exception:
+            return 0
+    else:
+        return 0
+    count = 0
+    for item in data.get("data", []):
+        pd = (item.get("citingPaper") or {}).get("publicationDate") or ""
+        if pd >= cutoff:
+            count += 1
+    return count
 
 
 # ── Feed configuration ─────────────────────────────────────────────────────
@@ -380,6 +411,22 @@ for researcher in RESEARCHERS:
     items.extend(papers)
     print(f"  {researcher['name']}: {len(papers)} papers")
     time.sleep(1.5)  # respect S2 rate limit
+
+# ── Recent citations (last 30 days) per lab paper ──────────────────────────
+print("\nFetching recent citations...")
+for item in items:
+    if not item.get("lab_paper"):
+        continue
+    if not item.get("citationCount", 0):
+        continue
+    pid = item.get("s2_paper_id", "")
+    if not pid:
+        continue
+    recent = fetch_recent_citations(pid)
+    item["recentCitations"] = recent
+    if recent:
+        print(f"  ▲{recent} recent: {item['title'][:50]}")
+    time.sleep(1.0)  # respect S2 rate limit
 
 result = {
     "updated": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),

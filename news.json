@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-01T16:18:26Z",
+  "updated": "2026-07-01T17:44:18Z",
   "items": [
     {
       "title": "A cognitive perspective for climate-smart agricultural policy in the Indo-Pacific region",
@@ -282,6 +282,16 @@
       "screen": "left"
     },
     {
+      "title": "Crystal-design principle reveals how competing molecular forces control structure, color and phase transitions",
+      "abstract": "Organic molecular crystals can respond to external stimuli such as heat, light, and mechanical force, making them attractive candidates for next-generation functional materials. However, predicting how multiple intermolecular interactions cooperate or compete to govern crystal behavior remains a major challenge.",
+      "authors": "",
+      "published": "Jul 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-07-crystal-principle-reveals-molecular-phase.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/researchers-establish.jpg",
+      "screen": "right"
+    },
+    {
       "title": "Polymer network reconfigures in sequence, helping elastomers stay tough under strain",
       "abstract": "Shock-absorbing sneaker soles are likely made of polyurethane, a highly elastic and tough polymer. The ability of these elastomers to absorb impact without breaking is extremely important for practical applications. While multiple strategies exist for enhancing elastomer toughness, each has its limitations. However, achieving synergistic toughening by integrating all three mechanisms within a single material remains challenging.",
       "authors": "",
@@ -309,16 +319,6 @@
       "feedName": "Phys.org Analytics",
       "url": "https://phys.org/news/2026-06-sugar-block-viral.html",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/how-a-sugar-building-b.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "AI-powered platform lays the foundation for a new era of catalyst discovery",
-      "abstract": "Artificial intelligence is rapidly changing how scientists search for new catalysts—the materials that speed up chemical reactions essential for producing fuels, chemicals and clean energy technologies. However, despite remarkable advances in AI, a major obstacle remains: a lack of comprehensive, standardized data that AI systems can effectively learn from. Solving this data challenge is key to unlocking the next generation of AI-driven catalyst discovery.",
-      "authors": "",
-      "published": "Jun 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-06-ai-powered-platform-lays-foundation.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/ai-powered-platform-la-2.jpg",
       "screen": "right"
     },
     {
@@ -402,22 +402,32 @@
       "screen": "right"
     },
     {
-      "title": "Dietary pattern modifies associations between dietary factors and pace of epigenetic aging",
-      "abstract": "IntroductionEpigenetic clocks, DNA methylation-based biomarkers indicating biological aging, are responsive to diet and lifestyle changes, but it remains unclear how specific dietary factors affect these indicators. Identifying dietary factors and overall dietary patterns that influence epigenetic clocks could help to inform dietary recommendations for healthy aging. Plant food-derived dietary factors, such as carotenoids, folate, and flavonoids, have been associated with a lower risk of cancer, but there has been little research on their associations with epigenetic aging, in particular, the pace of aging indicator DunedinPACE. We previously reported a slower pace of epigenetic aging, indicated by DunedinPACE, in females following a nutrient-dense, plant-rich (“Nutritarian”) diet compared to those following a standard American diet (SAD). Here, in a secondary analysis, we aimed to determine whether selected food-derived dietary factors associated with reduced cancer risk and emphasized in the Nutritarian diet influenced DunedinPACE in this cohort.MethodsWe investigated associations of carotenoids, flavonoids, and folate with DunedinPACE and other epigenetic aging indicators.ResultsThe Nutritarian group had significantly higher intakes of anthocyanidins, flavonols, flavan-3-ols, flavones, alpha-carotene, lutein and zeaxanthin, total folate, and food folate than the SAD group. With adjustment for diet group, body mass index (BMI), and menopausal status, intakes of anthocyanidins, flavonols, flavan-3-ols, lutein + zeaxanthin, total folate, and food folate were significantly a…",
-      "authors": "Deana M. Ferreri, Nanette V. Lopez, Jay T. Sutliffe et al.",
+      "title": "Association of the cholesterol-HDL-glucose index with prevalent metabolic dysfunction-associated steatotic liver disease and its incremental metabolic-hepatic assessment value: a hospital-based cross-sectional study",
+      "abstract": "BackgroundMetabolic dysfunction-associated steatotic liver disease (MASLD) is increasingly encountered in routine health examinations, where simple metabolic indices may help contextualize hepatic steatosis within broader cardiometabolic risk. The cholesterol-HDL-glucose (CHG) index integrates fasting glycemia and cholesterol-related information, but its association with prevalent MASLD and its incremental metabolic-hepatic assessment value in real-world health examination settings remain incompletely defined.MethodsWe performed a cross-sectional analysis of an independent hospital-based analytic cohort comprising adults who underwent routine health examinations at the Health Examination Center of the Second Affiliated Hospital of Shandong First Medical University between 2024 and 2025. The final de-identified analytic dataset included 977 participants with complete questionnaire, anthropometric, laboratory, and abdominal ultrasonography data. The primary outcome was prevalent MASLD, operationally defined as ultrasonographic steatosis plus at least 1 cardiometabolic risk factor. We evaluated the association between CHG and prevalent MASLD using multivariable logistic regression, dose-response analyses, ROC comparisons with metabolic and steatosis-related indices, incremental model assessment, and sensitivity analyses.ResultsThe mean (SD) age was 44.13 (11.11) years, and 524 participants (53.6%) were men. MASLD was present in 343 participants (35.1%). Mean CHG was significantly higher in participants with MASLD than in those without MASLD [5.35 (0.22) vs 5.07 (0.25); P < 0.0…",
+      "authors": "Ziqian Song, Hao Sun, Cai Wang et al.",
       "published": "Jul 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1858850",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1862426",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Green food choices under mortality salience: a dual-path mechanism of self-esteem and cultural worldview",
-      "abstract": "BackgroundClimate crisis, pandemics, and food safety scandals have exacerbated public survival anxiety, driving a shift in consumer priorities toward safety and sustainability, propelling green food into the market mainstream.MethodsGrounded in Terror Management Theory, this study constructed a dual-path framework to examine the effect of mortality salience on consumers’ green food purchase intention. Four between-subjects controlled experiments (N = 913) were conducted, with ANOVA, Bootstrap mediation and moderated mediation analysis to test the hypotheses.ResultsThe results demonstrate that mortality salience concurrently activates two distinct psychological pathways: an approach motivation, driven by a cultural worldview aligned with pro-social and environmental values, and an avoidance motivation, rooted in self-esteem and linked to economic considerations of personal and familial health protection. Furthermore, consumer perceptions of green food selectively moderate these pathways: perceived warmth facilitates the social-culturally oriented approach route, whereas perceived competence strengthens the economically-concerned avoidance route.ConclusionThese findings under-score the necessity of integrating both socio-cultural appeals and economic-functionality considerations into strategies aimed at promoting green consumption.",
-      "authors": "Weihuan Su, Xiaodong Guo",
+      "title": "Can artificial intelligence applications improve food supply capacity? Evidence from 296 Chinese cities",
+      "abstract": "IntroductionAgainst the backdrop of the rapid development of the digital economy, artificial intelligence (AI) has become an increasingly important driver of agricultural modernization and food supply capacity improvement. This study examines the impact of AI development on food supply capacity and further explores the mechanisms and regional differences underlying this relationship.MethodsUsing panel data from 296 Chinese cities from 2010 to 2024, this study constructs a two-way fixed-effects model to evaluate the effect of AI development on food supply capacity. A series of robustness tests, endogeneity tests, lagged-effect tests, mechanism analyses, and heterogeneity analyses are conducted to verify the reliability of the findings and identify the channels through which AI exerts its influence.ResultsThe empirical results show that AI development significantly enhances food supply capacity, and this conclusion remains robust after multiple robustness and endogeneity checks. The lagged-effect analysis indicates that the positive impact of AI persists over time rather than being limited to the short term. Mechanism tests further reveal that AI improves food supply capacity mainly by increasing agricultural production efficiency and promoting the more efficient allocation of agricultural resources. Heterogeneity analysis shows that the promoting effect of AI is more pronounced in central China, major grain-producing regions, areas with relatively abundant precipitation, and regions with more advanced digital infrastructure.DiscussionThese findings suggest that AI has gradua…",
+      "authors": "Fangyan Bai, Chunyan Li, Qi Ban et al.",
       "published": "Jul 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1726176",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1877178",
+      "image": "",
+      "screen": "right"
+    },
+    {
+      "title": "Prognostic value of objective nutritional indices (PNI, CONUT, and HALP) for in-hospital all-cause mortality in surgically treated infective endocarditis: a 14-year retrospective study in a Chinese cohort",
+      "abstract": "ObjectiveMalnutrition is closely associated with poor clinical outcomes; however, its prognostic value in patients with infective endocarditis (IE) undergoing surgical treatment remains unclear. This study aimed to investigate the association of three objective nutritional indices (PNI, CONUT, and HALP) with in-hospital all-cause mortality in surgically treated patients with IE.MethodsIn this retrospective study, clinical data were collected from 450 patients with IE who underwent surgical treatment at Jiangsu Provincial People’s Hospital over 14 years. Patients were categorized into a non-survivor group (n = 42) and a survivor group (n = 408). Nutritional status was assessed using the PNI, CONUT, and HALP scores. Stepwise-adjusted multivariate logistic regression models and receiver operating characteristic (ROC) curve analyses were used to evaluate the independent prognostic value and discriminatory performance of these nutritional indices for in-hospital all-cause mortality.ResultsThe in-hospital all-cause mortality rate in this cohort was 9.33%. Preoperative malnutrition risk was common among patients with IE, with nutritional risk identified in 44.00 and 75.11% of patients according to the PNI and CONUT criteria, respectively. Compared with survivors, non-survivors had significantly poorer baseline nutritional status. After adjustment for confounding factors, each one-unit increase in the PNI was associated with a 7% lower risk of in-hospital all-cause mortality (OR = 0.93, 95% CI: 0.89–0.98, p = 0.009). Similarly, each one-unit increase in the HALP score was associate…",
+      "authors": "Guangxu Mao, Ziyao Quan, Liyun Wang et al.",
+      "published": "Jul 2026",
+      "feedName": "Frontiers Nutrition",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1840852",
       "image": "",
       "screen": "right"
     },
@@ -432,14 +442,772 @@
       "screen": "right"
     },
     {
-      "title": "Association of the cholesterol-HDL-glucose index with prevalent metabolic dysfunction-associated steatotic liver disease and its incremental metabolic-hepatic assessment value: a hospital-based cross-sectional study",
-      "abstract": "BackgroundMetabolic dysfunction-associated steatotic liver disease (MASLD) is increasingly encountered in routine health examinations, where simple metabolic indices may help contextualize hepatic steatosis within broader cardiometabolic risk. The cholesterol-HDL-glucose (CHG) index integrates fasting glycemia and cholesterol-related information, but its association with prevalent MASLD and its incremental metabolic-hepatic assessment value in real-world health examination settings remain incompletely defined.MethodsWe performed a cross-sectional analysis of an independent hospital-based analytic cohort comprising adults who underwent routine health examinations at the Health Examination Center of the Second Affiliated Hospital of Shandong First Medical University between 2024 and 2025. The final de-identified analytic dataset included 977 participants with complete questionnaire, anthropometric, laboratory, and abdominal ultrasonography data. The primary outcome was prevalent MASLD, operationally defined as ultrasonographic steatosis plus at least 1 cardiometabolic risk factor. We evaluated the association between CHG and prevalent MASLD using multivariable logistic regression, dose-response analyses, ROC comparisons with metabolic and steatosis-related indices, incremental model assessment, and sensitivity analyses.ResultsThe mean (SD) age was 44.13 (11.11) years, and 524 participants (53.6%) were men. MASLD was present in 343 participants (35.1%). Mean CHG was significantly higher in participants with MASLD than in those without MASLD [5.35 (0.22) vs 5.07 (0.25); P < 0.0…",
-      "authors": "Ziqian Song, Hao Sun, Cai Wang et al.",
-      "published": "Jul 2026",
-      "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1862426",
+      "title": "Treatment outcomes of Mycobacterium simiae pulmonary disease: a retrospective multicenter cohort study",
+      "abstract": "",
+      "authors": "R. Najjar-Debbiny, R. Cohen, A. Arbel et al.",
+      "published": "2026",
+      "venue": "European Journal of Clinical Microbiology and Infectious Diseases",
+      "feedName": "Lab Research",
+      "url": "https://doi.org/10.1007/s10096-026-05468-7",
       "image": "",
-      "screen": "right"
+      "screen": "both",
+      "lab_paper": true,
+      "researcher": {
+        "name": "Iris Zohar",
+        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=0qOb-iYAAAAJ&citpid=2"
+      }
+    },
+    {
+      "title": "Acute kidney injury following amikacin therapy: a retrospective cohort study.",
+      "abstract": "",
+      "authors": "Iris Zohar, Baruch Satra-Shenes, Dvir Melloul et al.",
+      "published": "2026",
+      "venue": "Journal of Antimicrobial Chemotherapy",
+      "feedName": "Lab Research",
+      "url": "https://doi.org/10.1093/jac/dkag188",
+      "image": "",
+      "screen": "both",
+      "lab_paper": true,
+      "researcher": {
+        "name": "Iris Zohar",
+        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=0qOb-iYAAAAJ&citpid=2"
+      }
+    },
+    {
+      "title": "Epidemiological and clinical predictors of murine typhus in hospitalized patients in central israel: association with urban construction",
+      "abstract": "",
+      "authors": "Iris Zohar, Inas Jarjoura, D. David et al.",
+      "published": "2025",
+      "venue": "European Journal of Clinical Microbiology and Infectious Diseases",
+      "feedName": "Lab Research",
+      "url": "https://doi.org/10.1007/s10096-025-05212-7",
+      "image": "",
+      "screen": "both",
+      "lab_paper": true,
+      "researcher": {
+        "name": "Iris Zohar",
+        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=0qOb-iYAAAAJ&citpid=2"
+      }
+    },
+    {
+      "title": "Improving urine culture appropriateness and reducing unnecessary testing through education and feedback in a hospital setting",
+      "abstract": "To evaluate the impact of an educational intervention on the appropriateness of urine culture indications and overall urine culture trends. A quasi-experimental study in six medical wards of an acute care hospital included a pre-intervention phase (Jan 2019–Dec 2021) and an intervention phase (Jan 2022–Dec 2023). The intervention comprised educational sessions, best practice guidelines, and feedback. Urine culture appropriateness was assessed by reviewing a sample of 360 records from both periods. Bivariate and multivariable logistic regression identified predictors of appropriate urine cultures, and time-series analysis assessed trends in culture rates. The median age of patients was 81 years (IQR 70.1–87.0), with no differences between the two periods in age, sex, residence in long-term care, or comorbidities. The appropriateness of urine cultures increased significantly from 43.9% (79 of 180 patients) in the pre-intervention period to 56.7% (102 of 180 patients) in the post-intervention period (p = 0.015). The intervention period (OR 1.66; 95% CI, 1.07–2.57; p = 0.023) and younger age (OR, 0.97; 95% CI, 0.95–0.99; p < 0.001) were significantly associated with improved appropriateness. Urine culture rates showed no significant pre-intervention trends (p = 0.19) but decreased by 18% post-intervention (p < 0.001). Younger age and the intervention period were associated with reduced unnecessary urine cultures and improved adherence to appropriate practices. These findings highlight the importance of ongoing educational initiatives and feedback in enhancing diagnostic steward…",
+      "authors": "Gilad Frankfurter, Yael Cohen, Iris Zohar et al.",
+      "published": "2025",
+      "venue": "BMC Infectious Diseases",
+      "feedName": "Lab Research",
+      "url": "https://doi.org/10.1186/s12879-025-11872-9",
+      "image": "",
+      "screen": "both",
+      "lab_paper": true,
+      "researcher": {
+        "name": "Iris Zohar",
+        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=0qOb-iYAAAAJ&citpid=2"
+      }
+    },
+    {
+      "title": "The impact of Boric Acid tubes on quantitative urinary bacterial cultures in hospitalized patients",
+      "abstract": "The accuracy of urine culture results can be affected by pre-analytical factors such as transport delays and storage conditions. The objectives of this study were to analyze urine collection practices and assess the impact of introducing boric acid tubes for urine collection on quantitative urinary bacterial cultures of hospitalized patients in medical wards. A quasi-experimental pre-post study conducted in an acute care facility. In the pre-intervention phase (2020–2021), urine samples were transported without preservatives at room temperature. In 2022 (post-intervention), we transitioned to boric acid transport tubes, evaluating its effect on significant bacterial growth (≥ 105 CFU/ml). Bivariate and multivariate analyses identified predictors of culture positivity. Throughout the duration of the study, a total of 12,660 urine cultures were analyzed. Date and time documentation was complete for 38.3% of specimens. Culture positivity was higher with longer processing times: positivity was 21.3% (220/1034) when specimens were processed within 4 h, 28.4% (955/3364) when processed in 4–24 h, and 32.9% (137/417) when processed after 24 h (p < 0.0001). For 4-24-hour processing, positivity decreased from 30.4% (704/2317) pre-intervention to 24.0% (251/1047) post-intervention (p < 0.001), with no significant changes in < 4 or ≥ 24-hour specimens. Stratified analysis by processing time revealed that the intervention was associated with reduced positivity only in cultures processed within 4–24 h (OR 0.80, 95% CI 0.67–0.94; p = 0.008). The introduction of boric acid transport tubes …",
+      "authors": "Debby Ben-David, Yael Cohen, Iris Zohar et al.",
+      "published": "2024",
+      "venue": "European Journal of Clinical Microbiology and Infectious Diseases",
+      "feedName": "Lab Research",
+      "url": "https://doi.org/10.1007/s10096-024-04874-z",
+      "image": "",
+      "screen": "both",
+      "lab_paper": true,
+      "researcher": {
+        "name": "Iris Zohar",
+        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=0qOb-iYAAAAJ&citpid=2"
+      }
+    },
+    {
+      "title": "Genome sequence of two novel virulent clinical strains of Burkholderia pseudomallei isolated from acute melioidosis cases imported to Israel from India and Thailand",
+      "abstract": "Objective Burkholderia pseudomallei , the etiological cause of melioidosis, is a soil saprophyte endemic in South-East Asia, where it constitutes a public health concern of high-priority. Melioidosis cases are sporadically identified in nonendemic areas, usually associated with travelers or import of goods from endemic regions. Due to extensive intercontinental traveling and the anticipated climate change-associated alterations of the soil bacterial flora, there is an increasing concern for inadvertent establishment of novel endemic areas, which may expand the global burden of melioidosis. Rapid diagnosis, isolation and characterization of B. pseudomallei isolates is therefore of utmost importance particularly in non-endemic locations. Data description We report the genome sequences of two novel clinical isolates (MWH2021 and MST2022) of B. pseudomallei identified in distinct acute cases of melioidosis diagnosed in two individuals arriving to Israel from India and Thailand, respectively. The data includes preliminary genetic analysis of the genomes determining their phylogenetic classification in rapport to the genomes of 131 B. pseudomallei strains documented in the NCBI database. Inspection of the genomic data revealed the presence or absence of loci encoding for several documented virulence determinants involved in the molecular pathogenesis of melioidosis. Virulence analysis in murine models of acute or chronic melioidosis established that both strains belong to the highly virulent class of B. pseudomalleii .",
+      "authors": "I. Cohen-Gihon, G. Zaide, Sharon Amit et al.",
+      "published": "2024",
+      "venue": "BMC Genomic Data",
+      "feedName": "Lab Research",
+      "url": "https://doi.org/10.1186/s12863-024-01225-x",
+      "image": "",
+      "screen": "both",
+      "lab_paper": true,
+      "researcher": {
+        "name": "Iris Zohar",
+        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=0qOb-iYAAAAJ&citpid=2"
+      }
+    },
+    {
+      "title": "Amikacin treatment in patients with Enterobacterales bacteraemia: impact of MIC on mortality.",
+      "abstract": "BACKGROUND\nRecently, breakpoints of Enterobacterales to amikacin were changed from MIC ≤ 16 mg/L to MIC ≤ 4 mg/L based mainly on laboratory data with little supporting clinical evidence. Our aim was to investigate the relation between MIC of Enterobacterales to amikacin and mortality among patients with Enterobacterales bacteraemia from a urinary tract source treated with amikacin.\n\n\nPATIENTS AND METHODS\nThis retrospective, single-centre study included patients with Enterobacterales urinary source bacteraemia treated with amikacin, with Low (MIC ≤ 4 mg/L) and High (MIC 8 or 16 mg/L) MICs. A cohort of patients treated with ertapenem was used to assess if amikacin MIC is a marker of severity independent of antimicrobial treatment. The primary outcome was 30-day mortality. Multivariate logistic regression analysis was done to assess risk factors for mortality.\n\n\nRESULTS\nWe included 85 patients, 46 (54.1%) were male, and mean age was 79.0 years (SD 11.7). Sixty-one patients (71.8%) had Low MIC and 24 (28.2%) had High MIC. Thirty-day mortality was 8.2% and 29.2% in the Low and High MIC groups, respectively (P = 0.031). Risk factors for 30-day mortality were age, infection by Enterobacterales other than Escherichia coli and high amikacin MIC. In a cohort of 88 patients treated with ertapenem, amikacin MIC was not associated with 30-day mortality.\n\n\nCONCLUSIONS\nWe demonstrated a relation between higher amikacin MIC levels (8 and 16 mg/L) and increased 30-day mortality in patients treated with amikacin for bacteraemia secondary to a urinary source. These findings support the new CL…",
+      "authors": "Iris Zohar, D. Ben David, Orna Schwartz et al.",
+      "published": "2024",
+      "venue": "Journal of Antimicrobial Chemotherapy",
+      "feedName": "Lab Research",
+      "url": "https://doi.org/10.1093/jac/dkae343",
+      "image": "",
+      "screen": "both",
+      "lab_paper": true,
+      "researcher": {
+        "name": "Iris Zohar",
+        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=0qOb-iYAAAAJ&citpid=2"
+      }
+    },
+    {
+      "title": "Blood stream Infections in chronic hemodialysis patients - characteristics and outcomes",
+      "abstract": "Bloodstream Infections (BSI) are a major cause of death and hospitalization among hemodialysis (HD) patients. The rates of BSI among HD patients vary and are influenced by local patient and pathogen characteristics. Modifications in local infection prevention protocols in light of active surveillance of BSI has been shown to improve clinical outcomes. The aim of this study was to further explore factors associated with BSI in a contemporary cohort of HD patients at a public teaching hospital dialysis center in Israel. This was a retrospective cohort study of HD patients with a BSI in the years 2014 to 2018. The primary outcome was the occurrence of BSI. Secondary outcomes were to describe the causative pathogens of BSI, and to assess for risk factors for BSI, and mortality. Included were 251 patients. The mean age was 68.5 ± 13.4 years, 66.9% were male. The mean time from initiation of dialysis was 34.76 ± 40.77 months, interquartile range (IQR) 1-47.5 months and the follow up period of the cohort was 25.17 ± 15.9 months. During the observation period, 44 patients (17.5%) developed 54 BSI events, while 10 of them (3.9% of the whole cohort) developed recurrent BSI events. Gram-negative microorganisms caused 46.3% of all BSI events. 31.4% of these BSI were caused by resistant bacteria. In a multivariate logistic regression analysis, patients receiving dialysis through a central line had a significantly increased risk for BSI adjusted Odds Ratio (aOR) 3.907, p = 0.005, whereas patients’ weight was mildly protective (aOR 0.971, p = 0.024). We noted an increased prevalence of gr…",
+      "authors": "M. Schamroth Pravda, Yasmin Maor, Konstantin Brodsky et al.",
+      "published": "2024",
+      "venue": "BMC Nephrology",
+      "feedName": "Lab Research",
+      "url": "https://doi.org/10.1186/s12882-023-03442-5",
+      "image": "",
+      "screen": "both",
+      "lab_paper": true,
+      "researcher": {
+        "name": "Iris Zohar",
+        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=0qOb-iYAAAAJ&citpid=2"
+      }
+    },
+    {
+      "title": "Current management strategies for multidrug-resistant Gram-negative urinary tract infections, a focus on aminoglycosides monotherapy",
+      "abstract": "",
+      "authors": "Iris Zohar, Yasmin Maor, Neta Shirin et al.",
+      "published": "2024",
+      "venue": "CMI Communications",
+      "feedName": "Lab Research",
+      "url": "https://doi.org/10.1016/j.cmicom.2024.105039",
+      "image": "",
+      "screen": "both",
+      "lab_paper": true,
+      "researcher": {
+        "name": "Iris Zohar",
+        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=0qOb-iYAAAAJ&citpid=2"
+      }
+    },
+    {
+      "title": "1396. Performance of a Telemedicine Travel Clinic",
+      "abstract": "Abstract Background International travel has become easier and more accessible, with increasing numbers of people embarking trips to diverse destinations worldwide. This trend is accompanied by elderly individuals and families venturing to remote locations, as well as digital nomads. As a result, there is a growing demand for pre-travel medical consultations, which current medical resources in Israel are not able to meet. To address this, we launched a telemedicine-based travel clinic that aims to improve accessibility for Israeli residents. Methods The digital clinic is located within a 700-bed medical center in central Israel and offers telemedicine consultations scheduled online. After the appointment, customers receive recommendations and prescriptions via email. They can then make an appointment to receive vaccinations at our on-site in person clinic or at other travel clinics in Israel. From February 1st to March 31st, 2023, we analyzed all cases that receive a digital consultation. Data included demographics, travel destinations, vaccination recommendations, and attendance to the in-person vaccination clinic. Results 239 customers received a telemedicine consultation. Mean age was 33±17 years, 122 (51.0%) were females, 40 (16.7%) were minors. 18.4%44 () resided outside the pooling area of the hospital. Of these, 81.8%36 () lived in central Israel but had closer clinics to their place of residency requiring personal attendance, 18.2%8 () lived in the North or South of Israel (figure 1). Travel destinations are presented in figure 2. 219 (91.6%) customers received a re…",
+      "authors": "Adam Pomeranz, Iris Zohar, Gabriele Caliari et al.",
+      "published": "2023",
+      "venue": "Open Forum Infectious Diseases",
+      "feedName": "Lab Research",
+      "url": "https://doi.org/10.1093/ofid/ofad500.1233",
+      "image": "",
+      "screen": "both",
+      "lab_paper": true,
+      "researcher": {
+        "name": "Iris Zohar",
+        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=0qOb-iYAAAAJ&citpid=2"
+      }
+    },
+    {
+      "title": "Impact of intensified prevention measures on rates of hospital-acquired bloodstream infection in medical-surgical intensive care units, Israel, 2011 to 2019",
+      "abstract": "Background Central line-associated bloodstream infection (CLABSI) is among the most common preventable infectious complications in patients in intensive care units (ICU). In 2011, the Israel National Center for Infection Control initiated a nationwide CLABSI prevention programme. Aim To evaluate the impact of different components of the programme on CLABSI and non-CLABSI rates in medical-surgical ICUs. Methods We included data collected from all 29 medical-surgical ICUs in Israel from November 2011 to December 2019. The study period was divided into three phases: I (baseline, initial CLABSI prevention guidelines introduced, initial feedback on rates provided), II (initial guidelines widely implemented, surveillance undertaken, feedback continued) and III (after implementation of additional prevention measures). Interrupted time series analysis was used to compare CLABSI and non-CLABSI rates during the three phases. Results The pooled mean (SD) incidence of CLABSI per 1,000 central line-days dropped from 7.4 (0.38) in phase I to 2.1 (0.13) in phase III (p < 0.001). The incidence rate ratio (IRR) was 0.63 (95% CI: 0.51–0.79) between phases I and II, and 0.78 (95% CI: 0.59–1.02) between phases II and III. The pooled mean (SD) incidence of non-CLABSI per 1,000 patient-days declined from 5.3 (0.24) in phase I to 3.4 (0.13) in phase III (p < 0.001). Conclusion National CLABSI prevention guidelines, surveillance and feedback resulted in significant reductions in CLABSI and non-CLABSI rates. In the wake of further interventions, significant reduction was achieved in ICUs reporting …",
+      "authors": "Debby Ben-David, Azza Vaturi, Liat Wulffhart et al.",
+      "published": "2023",
+      "venue": "Euro surveillance : bulletin Europeen sur les maladies transmissibles = European communicable disease bulletin",
+      "feedName": "Lab Research",
+      "url": "https://doi.org/10.2807/1560-7917.ES.2023.28.25.2200688",
+      "image": "",
+      "screen": "both",
+      "lab_paper": true,
+      "researcher": {
+        "name": "Iris Zohar",
+        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=0qOb-iYAAAAJ&citpid=2"
+      }
+    },
+    {
+      "title": "1883. Features and Outcomes of Tuberculosis in Documented versus Undocumented Migrants in Israel",
+      "abstract": "Abstract Background In countries with low tuberculosis (TB) incidence, most TB cases are observed in foreign-born individuals, including permanent immigrants, and undocumented migrants. There is limited information regarding the differences within these groups. In Israel, where TB prevalence is < 2 cases/100,000 persons, 85% of TB cases occur in foreign-born people. We examined risk factors, clinical course, and outcomes between documented and undocumented immigrants hospitalized with active TB. Methods A retrospective analysis of medical records from foreign-born active TB patients admitted to a 700-bed hospital in the center of Israel between January 1st, 2019, to March 31st, 2023. We included patients who initiated TB treatment during hospitalization and were discharged by April 2023. Undocumented migrants were defined as non-Israeli citizens without medical insurance. We summarized their clinical characteristics, course, and outcomes. Results 48 patients were included, 21 (43.8%) were undocumented migrants. Undocumented migrants were younger (mean age 40.9 vs. 53.0 years, P< 0.001) and predominantly arrived from Africa (95.2% vs. 29.6%, P< 0.001). The prevalence of HIV was similar between both groups. Presenting symptoms, duration of symptoms before admission, rates of bilateral and cavitary pulmonary disease, and extrapulmonary disease were comparable. Multi-drug resistant TB was rare (0% vs. 11.5%, P=0.242). Among patients with positive sputum smears and follow-up, undocumented migrants experienced a longer time to achieve negative sputum cultures (76.0 days vs. 36.8 …",
+      "authors": "Iris Zohar, Adam Pomeranz, Orna Schwartz Harari et al.",
+      "published": "2023",
+      "venue": "Open Forum Infectious Diseases",
+      "feedName": "Lab Research",
+      "url": "https://doi.org/10.1093/ofid/ofad500.1711",
+      "image": "",
+      "screen": "both",
+      "lab_paper": true,
+      "researcher": {
+        "name": "Iris Zohar",
+        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=0qOb-iYAAAAJ&citpid=2"
+      }
+    },
+    {
+      "title": "A Randomized Controlled Study Assessing Convalescent Immunoglobulins vs Convalescent Plasma for Hospitalized Patients With Coronavirus 2019",
+      "abstract": "Abstract Background It is unknown whether convalescent immunoglobulins (cIgGs) are better than convalescent plasma (CP) for patients with coronavirus 2019 (COVID-19). Methods In this randomized controlled trial, we assigned high risk COVID-19 patients with ≤10 days of symptoms, to receive cIgGs or CP. The primary endpoint was improvement on day 14 according to the World Health Organization scale. Secondary endpoints were survival on day 14, and improvement, survival, and percent of ventilated patients on day 28, and treatment response in unvaccinated and vaccinated patients. Results A total of 319 patients were included: 166 received cIgGs and 153 CP. Median age was 64 to 66 years. A total of 112 patients (67.5%) in the cIgG group and 103 patients (67.3%) in the CP group reached the primary endpoint. Difference between groups was 0.1 (95% confidence interval, −10.1 to 10.4; P = .026), failing to reach noninferiority. More patients receiving cIgG improved by day 28 (136 patients [81.9%] and 108 patients [70.6%], respectively; 95% confidence interval, 1.9–20.7; P < .001; for superiority P = .018). Seventeen patients in the cIgG group (10.2%) and 25 patients (16.3%) in the CP group required mechanical ventilation (P = .136). Sixteen (9.6%) and 23 (15%) patients, respectively, died (P = .172). More unvaccinated patients improved by day 28 in the cIgG group (84.1% vs 66.1%; P = .024), and survival was better in the cIgG group (89.9% vs 77.4%; P = .066). Conclusions cIgGs failed to reach the primary noninferiority endpoint on day 14 but was superior to CP on day 28. Survival and …",
+      "authors": "Y. Maor, E. Shinar, M. Izak et al.",
+      "published": "2023",
+      "venue": "Clinical Infectious Diseases",
+      "feedName": "Lab Research",
+      "url": "https://doi.org/10.1093/cid/ciad305",
+      "image": "",
+      "screen": "both",
+      "lab_paper": true,
+      "researcher": {
+        "name": "Iris Zohar",
+        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=0qOb-iYAAAAJ&citpid=2"
+      }
+    },
+    {
+      "title": "Short- and long-term mortality in patients with urosepsis caused by Escherichia coli susceptible and resistant to 3rd generation cephalosporins",
+      "abstract": "Background The aim of this study was to compare short- and long-term mortality among patients with urosepsis caused by Escherichia coli susceptibile (EC-SC) and resistant (EC-RC) to 3rd generation cephalosporins. Methods A retrospective cohort study that included all patients with E. coli urosepsis admitted to a 700-bed hospital from January 2014 until December 2019. Mortality up to 30 days, 6 months and 1 year was assessed using logistic multivariate regression analysis and Cox regression analysis. Results A total of 313 adult were included, 195 with EC-SC and 118 patients with EC-RC. 205 were females (74%), mean age was 79 (SD 12) years. Mean Charlson score was 4.93 (SD 2.18) in the EC-SC group and 5.74 (SD 1.92) in the EC-RC group. Appropriate empiric antibiotic therapy was initiated in 245 (78.3%) patients, 100% in the EC-SC group but only 42.5% in the EC-RC group. 30-day mortality occurred in 12 (6.3%) of EC-SC group and 15 (12.7%) in the EC-RC group. Factors independently associated with 30-day mortality were Charlson score, Pitt bacteremia score, fever upon admission and infection with a EC-RC. Appropriate antibiotic therapy was not independently associated with 30-day mortality. Differences in mortality between groups remained significant one year after the infection and were significantly associated with the Charlson co-morbidity score. Conclusions Mortality in patients with urosepsis due to E. coli is highly affected by age and comorbidities. Although mortality was higher in the EC-RC group, we could not demonstrate an association with inappropriate empirical anti…",
+      "authors": "Milena Tocut, Iris Zohar, Orna Schwartz et al.",
+      "published": "2022",
+      "venue": "BMC Infectious Diseases",
+      "feedName": "Lab Research",
+      "url": "https://doi.org/10.1186/s12879-022-07538-5",
+      "image": "",
+      "screen": "both",
+      "lab_paper": true,
+      "researcher": {
+        "name": "Iris Zohar",
+        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=0qOb-iYAAAAJ&citpid=2"
+      }
+    },
+    {
+      "title": "Effect of Quinoa Protein Concentrate in Particulate and Fibrillar Forms on the Physico-Chemical Properties of Quinoa Starch Gels",
+      "abstract": "",
+      "authors": "Shir T Segev, Eden Eran-Nagar, G. Rytwo et al.",
+      "published": "2025",
+      "venue": "Food and Bioprocess Technology",
+      "feedName": "Lab Research",
+      "url": "https://doi.org/10.1007/s11947-025-03873-y",
+      "image": "",
+      "screen": "both",
+      "lab_paper": true,
+      "researcher": {
+        "name": "Ofir Benjamin",
+        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=FsjV0oIAAAAJ&citpid=1"
+      }
+    },
+    {
+      "title": "Relationships Between Chemical Compounds and Sensory Properties of Virgin Olive Oil in the US and Israel: Development of a Prediction Model for Defects",
+      "abstract": "Virgin olive oil (VOO) quality is defined by both chemical and sensory parameters. While the chemical parameters are objective and measured using instrument-based methods, sensory quality evaluation is based upon human panels, which can be subjective, have less repeatability, suffer from fatigue, and require long and costly training. Tasting biases could be minimized by a trained panel, but using humans as a testing instrument is inevitably prone to various psychological biases, stimulus-related factors, and carry-over effects. The objectives of this study were to evaluate instrumental methodologies that will assist the existing human panel in assessing the sensory characteristics of VOO and to develop chemistry-based predicting models for sensory properties in the oil using VOO samples originating from the US and Israel. Our results indicated that oil rancidity highly correlated with the contents of chemical components contents; 1-penten-3-one, 3-hexen-1-ol, (E)-2-pentanal, and 1-octen-3-ol are the major volatiles associated with rancidity defects (low concentrations of these compounds). Positive sensory attributes, such as fruitiness, correlated with 1- acetoxypinoresinol and hexanal, while bitterness correlated with pinoresinol, the aldehydic form of oleuropein aglycones, and the dialdehydic form of oleuropein aglycone. The random forest model suggested that luteolin, (E)-2-hexenal, 1-penten-3-one, and C18:0 are the most useful measurements in predicting the occurrence of sensory defects in the olive oil samples included. In other words, when these compounds are below or…",
+      "authors": "M. Calatayud, Xueqi Li, Arnon Dag et al.",
+      "published": "2024",
+      "venue": "Journal of Agricultural and Food Chemistry",
+      "feedName": "Lab Research",
+      "url": "https://doi.org/10.1021/acs.jafc.4c06012",
+      "image": "",
+      "screen": "both",
+      "lab_paper": true,
+      "researcher": {
+        "name": "Ofir Benjamin",
+        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=FsjV0oIAAAAJ&citpid=1"
+      }
+    },
+    {
+      "title": "Novel plant proteins used in 3D printed meat analogues: relationship between protein physicochemical and functional characteristics",
+      "abstract": "",
+      "authors": "Darya Israeli, Yael Prigat Goldfriend, D. Dikovsky et al.",
+      "published": "2023",
+      "venue": "European Food Research and Technology",
+      "feedName": "Lab Research",
+      "url": "https://doi.org/10.1007/s00217-023-04297-8",
+      "image": "",
+      "screen": "both",
+      "lab_paper": true,
+      "researcher": {
+        "name": "Ofir Benjamin",
+        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=FsjV0oIAAAAJ&citpid=1"
+      }
+    },
+    {
+      "title": "Quality and Flavor of ‘Aliza’ Fruit: A Unique Pomelo × Mandarin Hybrid",
+      "abstract": "‘Aliza’ is a new pomelo × mandarin hybrid (Citrus maxima, cv. Red Chandler × Citrus reticulata, cv. Ora) developed by the Israeli citrus breeding program at the Volcani Institute. Here, we aimed to characterize the quality and flavor of ‘Aliza’ fruit as compared to other commercial citrus fruit, specifically pomelo (C. maxima), grapefruit (Citrus paradisi), orange (Citrus sinensis) and mandarin (C. reticulata). ‘Aliza’ fruits have a similar size as grapefruits, but have a thinner peel and a unique yellowish/golden color. ‘Aliza’ fruits are completely seedless and have especially high juice contents. They also have a unique, highly preferred flavor, characterized by high sweetness and moderate bitterness and acidity, with strong citrusy and tropical fruity aromas. Sensory analyses conducted with the aid of a trained panel and an electronic tongue revealed that the flavor of ‘Aliza’ fruits is different from the flavors of other citrus species. Consumer acceptance and preference tests revealed that ‘Aliza’ fruit are highly appreciated and favored. The aroma volatile profile of ‘Aliza’ fruit was somewhat similar to those of pomelo and grapefruit, but very different from those of orange and mandarin. Overall, ‘Aliza’ fruits can be distinguished from other citrus fruits by their unique color, high juice content and exceptional, unique flavor.",
+      "authors": "Hagar Pardo, A. Owoyemi, Livnat Goldenberg et al.",
+      "published": "2023",
+      "venue": "Horticulturae",
+      "feedName": "Lab Research",
+      "url": "https://doi.org/10.3390/horticulturae9040420",
+      "image": "",
+      "screen": "both",
+      "lab_paper": true,
+      "researcher": {
+        "name": "Ofir Benjamin",
+        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=FsjV0oIAAAAJ&citpid=1"
+      }
+    },
+    {
+      "title": "Flavor release and stability comparison between nano and conventional emulsion as influenced by saliva",
+      "abstract": "Flavour release and emulsion stability depend on volatile organic compounds' environmental conditions, food microstructure, and physicochemical properties. The effect of pH (3.5 vs 7.0) and saliva addition on stability and flavour release from nano and conventional emulsions was investigated using particle size, charge and Lumisizer measurments. Larger particle sizes were observed at lower pressures and in saliva-containing emulsions. At 1700 bar, nano-emulsions (below 150 nm) were created at pH 3.5 and 7.0 including saliva-containing emulsions. As was clear from the creaming velocity measurements, saliva addition decreased the emulsion stability by reducing particle charges and increased viscosity by more than 50%, especially when prepared at pH 3.5 closer to the isoelectric point of the used emulsifier β-lactoglobulin (pH 5.2). (5.2). Flavour release from emulsions was measured at equilibrium using a phase ratio variation to determine partition coefficients and dynamically using an electronic nose. Partition coefficients of the flavour compounds for most conditions were two to four times lower in emulsions prepared at pH 7.0 than at pH 3.5 and in emulsions without saliva. Emulsions prepared with higher pressures showed stronger flavor release rates, while additional salvia dropped the release rate for ethyl acetate at pH 3.5. The physicochemical properties of flavour compounds, saliva addition and pH of emulsions influenced flavour release more than homogenization pressures. The potential in using nano-emulsions in food applications an be attributed higher stability and e…",
+      "authors": "O. Sanni, C. Lakemond, O. Benjamin",
+      "published": "2022",
+      "venue": "Journal of food science and technology",
+      "feedName": "Lab Research",
+      "url": "https://doi.org/10.1007/s13197-022-05534-w",
+      "image": "",
+      "screen": "both",
+      "lab_paper": true,
+      "researcher": {
+        "name": "Ofir Benjamin",
+        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=FsjV0oIAAAAJ&citpid=1"
+      }
+    },
+    {
+      "title": "Characterization of Moringa oleifera leaf and seed protein extract functionality in emulsion model system",
+      "abstract": "",
+      "authors": "Ya'’ara Cattan, D. Patil, Y. Vaknin et al.",
+      "published": "2022",
+      "venue": "Innovative Food Science & Emerging Technologies",
+      "feedName": "Lab Research",
+      "url": "https://doi.org/10.1016/j.ifset.2021.102903",
+      "image": "",
+      "screen": "both",
+      "lab_paper": true,
+      "researcher": {
+        "name": "Ofir Benjamin",
+        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=FsjV0oIAAAAJ&citpid=1"
+      }
+    },
+    {
+      "title": "Legume and nut flours from the Mediterranean area: proximate compositions, techno-functionalities, and spectroscopy patterns as a function of species, origin, and treatment",
+      "abstract": "",
+      "authors": "C. Cappa, B. Ozen, F. Tokatli et al.",
+      "published": "2025",
+      "venue": "LWT",
+      "feedName": "Lab Research",
+      "url": "https://doi.org/10.1016/j.lwt.2025.117770",
+      "image": "",
+      "screen": "both",
+      "lab_paper": true,
+      "researcher": {
+        "name": "Loai Basheer",
+        "photo": ""
+      }
+    },
+    {
+      "title": "Egyptian broomrape (Phelipanche aegyptiaca): from foe to friend? Evidence of high nutritional value and potential suitability for food use",
+      "abstract": "",
+      "authors": "Loai Basheer, Dalia Niv, Alisa Cohen et al.",
+      "published": "2024",
+      "venue": "Future Foods",
+      "feedName": "Lab Research",
+      "url": "https://doi.org/10.1016/j.fufo.2024.100413",
+      "image": "",
+      "screen": "both",
+      "lab_paper": true,
+      "researcher": {
+        "name": "Loai Basheer",
+        "photo": ""
+      }
+    },
+    {
+      "title": "New Analytical Approach to Quinolizidine Alkaloids and Their Assumed Biosynthesis Pathways in Lupin Seeds",
+      "abstract": "Alkaloids play an essential role in protecting plants against herbivores. Humans can also benefit from the pharmacological effects of these compounds. Plants produce an immense variety of structurally different alkaloids, including quinolizidine alkaloids, a group of bi-, tri-, and tetracyclic compounds produced by Lupinus species. Various lupin species produce different alkaloid profiles. To study the composition of quinolizidine alkaloids in lupin seeds, we collected 31 populations of two wild species native to Israel, L. pilosus and L. palaestinus, and analyzed their quinolizidine alkaloid contents. Our goal was to study the alkaloid profiles of these two wild species to better understand the challenges and prospective uses of wild lupins. We compared their profiles with those of other commercial and wild lupin species. To this end, a straightforward method for extracting alkaloids from seeds and determining the quinolizidine alkaloid profile by LC–MS/MS was developed and validated in-house. For the quantification of quinolizidine alkaloids, 15 analytical reference standards were used. We used GC–MS to verify and cross-reference the identity of certain alkaloids for which no analytical standards were available. The results enabled further exploration of quinolizidine alkaloid biosynthesis. We reviewed and re-analyzed the suggested quinolizidine alkaloid biosynthesis pathway, including the relationship between the amino acid precursor l-lysine and the different quinolizidine alkaloids occurring in seeds of lupin species. Revealing alkaloid compositions and highlighting so…",
+      "authors": "D. Namdar, Patrick P J Mulder, E. Ben-Simchon et al.",
+      "published": "2024",
+      "venue": "Toxins",
+      "feedName": "Lab Research",
+      "url": "https://doi.org/10.3390/toxins16030163",
+      "image": "",
+      "screen": "both",
+      "lab_paper": true,
+      "researcher": {
+        "name": "Loai Basheer",
+        "photo": ""
+      }
+    },
+    {
+      "title": "Valorization of Local Legumes and Nuts as Key Components of the Mediterranean Diet",
+      "abstract": "Legumes and nuts are components of high importance in the diet of many countries, mainly those in the Mediterranean region. They are also very versatile and culturally diverse foods found all over the world, acting as a basic protein source in certain countries. Their genetic diversity is needed to sustain the food supply and security for humans and livestock, especially because of the current loss of habitats, species, and genetic diversity worldwide, but also because of the ever present need to feed the increasing human population. Even though both legumes and nuts are considered as high-protein food and environmentally friendly crops, developed countries have lower consumption rates when compared to Asia or Africa. With a view to increasing the consumption of legumes and nuts, the objective of this review is to present the advantages on the use of autochthonous varieties from different countries around the world, thus providing a boost to the local market in the area. The consumption of these varieties could be helped by their use in ready-to-eat foods (RTE), which are now on the rise thanks to today’s fast-paced lifestyles and the search for more nutritious and sustainable foods. The versatility of legumes and nuts covers a wide range of possibilities through their use in plant-based dairy analogues, providing alternative-protein and maximal amounts of nutrients and bioactive compounds, potential plant-based flours for bakery and pasta, and added-value traditional RTE meals. For this reason, information about legume and nut nutrition could possibly increase its acceptan…",
+      "authors": "Israel Hernández-López, J. Ortiz-Solà, C. Alamprese et al.",
+      "published": "2022",
+      "venue": "Foods",
+      "feedName": "Lab Research",
+      "url": "https://doi.org/10.3390/foods11233858",
+      "image": "",
+      "screen": "both",
+      "lab_paper": true,
+      "researcher": {
+        "name": "Loai Basheer",
+        "photo": ""
+      }
+    },
+    {
+      "title": "Dictated cell adhesion and migration using microfluidic-controlled synthetic hydrogels exhibiting programmable viscoelasticities.",
+      "abstract": "Mechanosensing interactions between the extracellular matrix (ECM) and the intracellular cytoskeleton are fundamental to cellular functions such as motility, proliferation, and adhesion, driven by the dynamic, bidirectional, tension-regulated maturation of focal adhesion (FA) sites. We demonstrate that native mechanosensing interactions and their downstream functions are precisely controlled using synthetic hydrogels. We introduce a microfluidic-assisted synthesis of imine-crosslinked hyaluronic acid-gelatin copolymer hydrogels (HAG), enabling controlled, predefined gradient viscoelasticity. Specifically, three native tissues (muscle, epidermis, and cartilage)-mimicking HAG hydrogels were prepared, matching their effective Young's modulus (Ymod) and stress relaxation time (τ1/2). Enhanced cell spreading and directional cell migration are observed, with a preference for substrates with tissue-matching viscoelasticity. These mechanosensing reactions are confirmed by traction force microscopy, revealing a tight correlation between native tissue mechano-properties and the hydrogel viscoelastic parameters. We demonstrate that the signaling efficacies of the FAK and associated YAP/TAZ pathways, central regulators of FA formation and cell migration, are tuned by substrate tissue-matching viscoelasticity. We implement these preprogrammed viscoelastic gradient hydrogels as spatiotemporal cell-separation matrices, enabling viscoelasticity-driven migration of binary cell mixtures. This work provides a potent platform for studying cell-material interactions, offering significant potent…",
+      "authors": "Haochen Yang, Ziyuan Li, Gilad Davidson-Rozenfeld et al.",
+      "published": "2026",
+      "venue": "Journal of materials chemistry. B",
+      "feedName": "Lab Research",
+      "url": "https://doi.org/10.1039/d6tb00438e",
+      "image": "",
+      "screen": "both",
+      "lab_paper": true,
+      "researcher": {
+        "name": "Gilad Davidson-Rozenfeld",
+        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=vh7tqKQAAAAJ&citpid=1"
+      }
+    },
+    {
+      "title": "Redox- and Photo-Responsive Fe3+/2+-Cross-Linked Carboxymethyl Cellulose Methacrylate Dissipative Gels: Synthesis and Applications.",
+      "abstract": "The synthesis of redox-active Fe3+-cross-linked carboxymethyl cellulose methacrylate cryogels (Fe3+-CMCMA), revealing switchable, transient, dissipative stiffness properties, is introduced. The switchable, transient functions are triggered by ascorbate-mediated reduction of the high-stiffness gel to the lower-stiffness Fe2+-CMCMA gel, and the concomitant aerobic oxidation of the Fe2+-CMCMA to the Fe3+-CMCMA gel state. Alternatively, integration of native photosynthetic photosystem-I (PS-I) into the cryogel matrix allows the photosensitized reduction of the Fe3+-CMCMA cryogel to the lower stiffness state Fe2+-CMCMA, and the concomitant, temporal, aerobic recovery of Fe2+-CMCMA to the high-stiffness Fe3+-CMCMA gel. The transient dissipative stiffness of the Fe3+/2+-CMCMA cryogel is characterized by temporal rheometry, dynamic stretching stress-strain experiments, XPS, and SEM imaging. The transient chemical/light-triggered stiffness functions of the Fe3+/2+-CMCMA, or PS-I-integrated Fe3+/2+-CMCMA gels are applied to develop transient self-healing matrices, and frameworks for cyclic, transient release of loads integrated in the gel matrices. This is exemplified by the ascorbate/light-induced cyclic transient release of tetramethyl rhodamine-dextran (TMR-D), insulin, and the anti-VEGF aptamer loads. In addition, the stimuli-responsive Fe3+/2+-CMCMA cryogel is used to construct a bilayer-soft-robotic bending device. Bilayer composite consisting of thermoresponsive poly-N-isopropylacrylamide (pNIPAM)/Fe3+/2+-CMCMA, or pNIPAM/PS-I-loaded-Fe3+/2+-CMCMA devices are assembled. Switch…",
+      "authors": "Jian Zhao, Yunlong Qin, Muhammad Abdel-haq et al.",
+      "published": "2026",
+      "venue": "ACS Applied Materials and Interfaces",
+      "feedName": "Lab Research",
+      "url": "https://doi.org/10.1021/acsami.6c07915",
+      "image": "",
+      "screen": "both",
+      "lab_paper": true,
+      "researcher": {
+        "name": "Gilad Davidson-Rozenfeld",
+        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=vh7tqKQAAAAJ&citpid=1"
+      }
+    },
+    {
+      "title": "Chemical and Photochemical-Driven Dissipative Fe3+/Fe2+-Ion Cross-Linked Carboxymethyl Cellulose Gels Operating Under Aerobic Conditions: Applications for Transient Controlled Release and Mechanical Actuation",
+      "abstract": "A Fe3+-ion cross-linked carboxymethyl cellulose, Fe3+-CMC, redox-active gel exhibiting dissipative, transient stiffness properties is introduced. Chemical or photosensitized reduction of the higher-stiffness Fe3+-CMC to the lower-stiffness Fe2+-CMC gel, accompanied by the aerobic reoxidation of the Fe2+-CMC matrix, leads to the dissipative, transient stiffness, functional matrix. The light-induced, temporal, transient release of a load (Texas red dextran) and the light-triggered, transient mechanical bending of a poly-N-isopropylacrylamide (p-NIPAM)/Fe3+-CMC bilayer construct are introduced, thus demonstrating the potential use of the dissipative Fe3+-CMC gel for controlled drug release or soft robotic applications.",
+      "authors": "R. Baretta, Gilad Davidson-Rozenfeld, V. Gutkin et al.",
+      "published": "2024",
+      "venue": "Journal of the American Chemical Society",
+      "feedName": "Lab Research",
+      "url": "https://doi.org/10.1021/jacs.4c00625",
+      "image": "",
+      "screen": "both",
+      "lab_paper": true,
+      "researcher": {
+        "name": "Gilad Davidson-Rozenfeld",
+        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=vh7tqKQAAAAJ&citpid=1"
+      }
+    },
+    {
+      "title": "Stimuli-Responsive DNA-Based Hydrogels on Surfaces for Switchable Bioelectrocatalysis and Controlled Release of Loads",
+      "abstract": "The assembly of enzyme [glucose oxidase (GOx)]-loaded stimuli-responsive DNA-based hydrogels on electrode surfaces, and the triggered control over the stiffness of the hydrogels, provides a means to switch the bioelectrocatalytic functions of the hydrogels. One system includes the assembly of GOx-loaded, pH-responsive, hydrogel matrices cross-linked by two cooperative nucleic acid motives comprising permanent duplex nucleic acids and “caged” i-motif pH-responsive duplexes. Bioelectrocatalyzed oxidation of glucose leads to the formation of gluconic acid that acidifies the hydrogel resulting in the separation of the i-motif constituents and lowering the hydrogel stiffness. Loading of the hydrogel matrices with insulin results in the potential-triggered, glucose concentration-controlled, switchable release of insulin from the hydrogel-modified electrodes. The switchable bioelectrocatalyzed release of insulin is demonstrated in the presence of ferrocenemethanol as a diffusional electron mediator or by applying an electrically wired integrated matrix that includes ferrocenyl-modified GOx embedded in the hydrogel. The second GOx-loaded, stimuli-responsive, DNA-based hydrogel matrix associated with the electrode includes a polyacrylamide hydrogel cooperatively cross-linked by duplex nucleic acids and “caged” G-quadruplex-responsive duplexes. The hydrogel matrix undergoes K+-ions/crown ether-triggered stiffness changes by the cyclic K+-ion-stimulated formation of G-quadruplexes (lower stiffness) and the crown ether-induced separation of the G-quadruplexes (higher stiffness). The hy…",
+      "authors": "M. Fadeev, Gilad Davidson-Rozenfeld, Zhenzhen Li et al.",
+      "published": "2023",
+      "venue": "ACS Applied Materials and Interfaces",
+      "feedName": "Lab Research",
+      "url": "https://doi.org/10.1021/acsami.3c06230",
+      "image": "",
+      "screen": "both",
+      "lab_paper": true,
+      "researcher": {
+        "name": "Gilad Davidson-Rozenfeld",
+        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=vh7tqKQAAAAJ&citpid=1"
+      }
+    },
+    {
+      "title": "Stiffness‐Switchable, Biocatalytic pH‐Responsive DNA‐Functionalized Polyacrylamide Cryogels and their Mechanical Applications",
+      "abstract": "The large‐pore interconnected channels in cryogels, allow convectional flow and rapid mass‐transport of solute constituents between the solution and cryogel polymer framework, as compared to slower, diffusionally‐controlled mass‐transport in small‐pore hydrogels. These features are applied to develop enzyme‐loaded polyacrylamide (pAAm) cryogels, and glucose oxidase (GOx)‐loaded pH‐responsive DNA‐based pAAm cryogels, revealing enhanced biocatalytic transformations, enhanced temporal stiffness changes, and mechanical bending functions, as compared to analog hydrogels. DNA‐based pAAm cryogel/hydrogel matrices, revealing pH‐switchable stiffness properties through reversible reconfiguration of DNA‐bridging units into i‐motif structures, are introduced. Enhanced switchable stiffness changes of DNA‐based pAAm cryogels, as compared to analog hydrogels, are demonstrated upon subjecting the cryogel/hydrogel matrices to auxiliary pH‐changes, or by integration of GOx into the frameworks, and driving pH‐changes through GOx‐catalyzed aerobic oxidation of glucose to gluconic acid. Enhanced stiffness changes of pAAm cryogels represent a major advance to control the mechanical properties of cryogels and are attributed to the convectionally‐controlled mass‐transport in the cryogel matrices. Moreover, bilayer constructs consisting of poly‐N‐isopropylacrylamide (pNIPAM) cryogels and pH‐responsive DNA‐based pAAm cryogel or hydrogel structures are constructed. Enhanced pH/glucose triggered mechanical bending rates of the pNIPAM cryogel/pAAm cryogel or pNIPAM cryogel/GOx‐loaded pAAm cryogel, as c…",
+      "authors": "Gilad Davidson-Rozenfeld, Xinghua Chen, Yunlong Qin et al.",
+      "published": "2023",
+      "venue": "Advanced Functional Materials",
+      "feedName": "Lab Research",
+      "url": "https://doi.org/10.1002/adfm.202306586",
+      "image": "",
+      "screen": "both",
+      "lab_paper": true,
+      "researcher": {
+        "name": "Gilad Davidson-Rozenfeld",
+        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=vh7tqKQAAAAJ&citpid=1"
+      }
+    },
+    {
+      "title": "The effect of simulation training on the counseling skills of nutritional science students in dietetic internships",
+      "abstract": "Simulations are a common tool in training aircrews, medical personnel and educators, providing experience in scenarios from the relevant content area and expanding the range of responses that simulation participants can acquire before they enter the field. Simulations have also been used in dietetic internships to improve clinical counseling skills. However, the use of structured simulations that involve progressive, multisession patient interactions has not been extensively studied in the context of dietetic internships. This study employed consecutive scenario models where interns developed ongoing interactions with the same simulated patient over multiple sessions, representing a significant methodological innovation in the field. A mixed method methodology was used to analyze closed and open-ended questionnaires which were administered to twenty-one interns, simulation actors and professional dietitians. This pilot study demonstrates the effectiveness of group and individual simulation training in enhancing dietetic interns’ counseling skills during their training and describes how simulation can contribute to both the professional skills and self-efficacy required to lead a counseling session. These findings will enable additional academic departments to examine the integration of simulation into the training programs of interns in tracks that include a practicum.",
+      "authors": "I. Linder, Zafit Lukach, Keren Pergament et al.",
+      "published": "2025",
+      "venue": "BMC Medical Education",
+      "feedName": "Lab Research",
+      "url": "https://doi.org/10.1186/s12909-025-07674-x",
+      "image": "",
+      "screen": "both",
+      "lab_paper": true,
+      "researcher": {
+        "name": "Rafi Steckler",
+        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=PyKImBwAAAAJ&citpid=9"
+      }
+    },
+    {
+      "title": "The Anticonvulsant Effects of Different Cannabis Extracts in a Zebrafish Model of Epilepsy",
+      "abstract": "Epilepsy is a widespread neurological disorder that remains a critical global public health challenge. While numerous antiepileptic drugs (AEDs) are available, many patients either fail to achieve adequate seizure control or experience significant side effects. One promising alternative is pure cannabidiol (CBD), but using a whole cannabis extract may be equally effective and preferred for some patients. In the current study, we employed the pentylenetetrazole (PTZ)-induced hyperactivity model in zebrafish to compare the effects of CBD with various cannabis extracts. We evaluated three cannabis strains, each subjected to three different extraction methods, and benchmarked the results against the commercially available AED valproic acid (VPA). Our findings revealed that 5.7 µg/mL of CBD and 10 µg/mL of different extracts significantly reduced movement compared to PTZ and VPA. In addition, effective extracts produced effects similar to pure CBD despite containing much lower molecule levels. These results reinforced and expanded previous evidence supporting the clinical potential of both CBD and whole cannabis extracts for seizure control while suggesting a possible entourage effect. Further research is necessary to determine which patients may benefit more from pure CBD versus those who might prefer whole cannabis extracts.",
+      "authors": "Karen Jackson, Maytal Shabat-Simon, J. Bar-on et al.",
+      "published": "2025",
+      "venue": "Biomolecules",
+      "feedName": "Lab Research",
+      "url": "https://doi.org/10.3390/biom15050654",
+      "image": "",
+      "screen": "both",
+      "lab_paper": true,
+      "researcher": {
+        "name": "Rafi Steckler",
+        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=PyKImBwAAAAJ&citpid=9"
+      }
+    },
+    {
+      "title": "Physiological Impacts of Energy Drink Consumption: A Clinical Analysis in Adolescents",
+      "abstract": "Energy drink (ED) consumption among Israeli-Arab adolescents is widespread. This study aimed to investigate the acute glycemic and insulin effects of EDs in healthy adolescents. Seventy-one Israeli-Arab adolescents (56% girls, average age 16.04 ± 1.03 years) participated in a non-randomized, case-controlled, open-label study. Participants consumed ED (n = 36) or a volume- and carbohydrate-matched non-caffeinated soft drink (SD, n = 35), followed by a 2 h glucose tolerance test. Blood glucose was measured at baseline and 15, 30, 60, and 120 min post-consumption (T0, T15, T30, T60 and T120, respectively). Serum insulin concentration and caffeine relative intensity were determined 45 min post-consumption (T45). Blood glucose levels peaked significantly at T15 and remained significantly higher at T30 in the ED group compared to the SD group (p = 0.005, p = 0.017, respectively). Insulin concentrations were substantially higher at T45 in the ED group (t [64] = 2.794, p = 0.001). This pattern was especially prominent in heavy ED consumers. A positive correlation emerged between the amount of caffeine consumed (mg/kg), blood glucose levels at T15 and T30, and insulin concentration at T45. This study is the first to demonstrate the glycemic and insulin responses to ED consumption in adolescents, suggesting that regulatory measures limiting ED sales to adolescents could improve their health.",
+      "authors": "Gilad Naveh, Bshara Mansour, Mahmoud Bader et al.",
+      "published": "2024",
+      "venue": "Nutrients",
+      "feedName": "Lab Research",
+      "url": "https://doi.org/10.3390/nu16142328",
+      "image": "",
+      "screen": "both",
+      "lab_paper": true,
+      "researcher": {
+        "name": "Rafi Steckler",
+        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=PyKImBwAAAAJ&citpid=9"
+      }
+    },
+    {
+      "title": "Disrupted gut harmony in attention-deficit/hyperactivity disorder: Dysbiosis and decreased short-chain fatty acids",
+      "abstract": "Background Attention-Deficit Hyperactivity Disorder (ADHD) is a prevalent neurodevelopmental disorder with complex genetic and environmental underpinnings. Emerging evidence suggests a significant role of gut microbiota in ADHD pathophysiology. This study investigates variations in gut microbiota composition and Short-Chain Fatty Acid (SCFA) profiles between children and adolescents with ADHD and healthy controls. Methods The study included 42 ADHD patients and 31 healthy controls, aged 6–18 years. Fecal samples were analyzed for microbial composition using 16S rRNA gene sequencing and for SCFA profiles through gas chromatography-mass spectrometry (GC-MS). The study assessed both α and β diversity of gut microbiota and quantified various SCFAs to compare between the groups. Results ADHD subjects demonstrated significantly reduced gut microbiota diversity, as indicated by lower α-diversity indices (Shannon index, Observed species, Faith PD index) and a trend towards significance in β-diversity (Weighted UniFrac). Notably, the ADHD group exhibited significantly lower levels of key SCFAs, including acetic, propionic, isobutyric, isovaleric, and valeric acids, highlighting a distinct microbial and metabolic profile in these individuals. Conclusion This study uncovers significant alterations in gut microbiota and SCFA profiles in children with ADHD, compared to healthy controls. The observed changes in SCFAs, known for their associations with other behavioral and neurologic pathologies, and for their role in neural signaling. These findings offer a metabolite fingerprint that co…",
+      "authors": "Rafi Steckler, F. Magzal, M. Kokot et al.",
+      "published": "2024",
+      "venue": "Brain, Behavior, & Immunity - Health",
+      "feedName": "Lab Research",
+      "url": "https://doi.org/10.1016/j.bbih.2024.100829",
+      "image": "",
+      "screen": "both",
+      "lab_paper": true,
+      "researcher": {
+        "name": "Rafi Steckler",
+        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=PyKImBwAAAAJ&citpid=9"
+      }
+    },
+    {
+      "title": "Application of Clay–Polymer Nanocomposites for the Removal of Toxic Cyanobacteria and Other Phytoplankton from Water—A Laboratory Scale Study",
+      "abstract": "The increasing global frequency of harmful cyanobacterial blooms (CyanoHABs), driven by nutrient enrichment and climate change, poses a severe threat to aquatic ecosystems and public health. This study evaluates the effectiveness of novel clay–polymer nanocomposites (CPCs) that combine the charge-neutralizing capabilities of polydiallyldimethylammonium chloride (polyDADMAC) with the high clay mineral density (kaolinite and sepiolite) for rapid removal of toxic cyanobacteria from water. Laboratory experiments were performed using Microcystis aeruginosa, Aphanizomenon ovalisporum, and Chlorella sp., with treatment doses determined by particle charge detector (PCD) measurements to identify the “nominal dose” required for full charge neutralization. Results show that clay–polymer nanocomposites achieve over 95% removal of turbidity and chlorophyll in M. aeruginosa at doses significantly lower (15–20%) than the calculated nominal dose, likely due to specific physical bridging interactions with the cyanobacteria’s external exopolysaccharide fibers. In contrast, A. ovalisporum and Chlorella sp. required doses closer to full charge neutralization for optimal removal. Among the materials tested, kaolinite-based nanocomposites (DKG24) showed slightly superior, more stable performance than sepiolite-based nanocomposites. Notably, application at or above the nominal dose was associated with increased soluble microcystin levels, suggesting that excessive polymer concentrations may compromise cell integrity and lead to toxin leakage. These findings suggest that engineered nanocomposites …",
+      "authors": "G. Rytwo, Yehezkel Tsveher, Yehudit Viner-Mozzini et al.",
+      "published": "2026",
+      "venue": "Water",
+      "feedName": "Lab Research",
+      "url": "https://doi.org/10.3390/w18111301",
+      "image": "",
+      "screen": "both",
+      "lab_paper": true,
+      "researcher": {
+        "name": "Giora Rytwo",
+        "photo": ""
+      }
+    },
+    {
+      "title": "New azoxystrobin clay carrier to control corn late wilt disease",
+      "abstract": "Corn late wilt disease (LWD), caused by the fungus Magnaporthiopsis maydis, poses a significant threat to corn production in highly impacted regions. Its increasing global relevance is exacerbated by climate change, which facilitates the pathogen’s spread and prevalence. This research supports efforts to broaden LWD management beyond resistant varieties, whose effectiveness can fail within years under high disease pressure. In this study, a novel approach involving the slow release of azoxystrobin from clay carriers was assessed. Two growth-room experiments demonstrated that at the disease’s latent stage (up to 20 days), seed treatment with a clay-azoxystrobin (clay-AS) formulation had minimal impact on early growth indices. However, by day 40, the sepiolite-based treatment increased plant shoot weight by 61%, although pathogen infection levels, monitored via qPCR, remained elevated. A subsequent full-season potted trial revealed significant benefits from applying sepiolite-AS and bentonite-AS formulations directly to the seedbed. At 42 days post-planting, these treatments markedly enhanced plant survival (191% for sepiolite-AS and 64% for bentonite-AS) and improved phenological development (175% and 67%, respectively) compared to unprotected controls, alongside a notable 95% reduction in root infection. By harvest (78 days), bentonite-AS emerged as particularly effective, increasing shoot biomass by 128% and ear yield by 135%. Bentonite-AS treatment reduced cob and shoot symptoms by 23% and 42%, respectively, and nearly eradicated pathogen levels. This research demonstrate…",
+      "authors": "Ariel Hadad, Elhanan Dimant, Peleg Hadari et al.",
+      "published": "2026",
+      "venue": "World Journal of Microbiology & Biotechnology",
+      "feedName": "Lab Research",
+      "url": "https://doi.org/10.1007/s11274-026-04876-3",
+      "image": "",
+      "screen": "both",
+      "lab_paper": true,
+      "researcher": {
+        "name": "Giora Rytwo",
+        "photo": ""
+      }
+    },
+    {
+      "title": "Clay-based azoxystrobin formulation enhances cotton protection against charcoal rot disease",
+      "abstract": "",
+      "authors": "O. Degani, Ariel Hadad, Eden Etedgi et al.",
+      "published": "2026",
+      "venue": "Journal of Cotton Research",
+      "feedName": "Lab Research",
+      "url": "https://doi.org/10.1186/s42397-025-00254-w",
+      "image": "",
+      "screen": "both",
+      "lab_paper": true,
+      "researcher": {
+        "name": "Giora Rytwo",
+        "photo": ""
+      }
+    },
+    {
+      "title": "Effect of Quinoa Protein Concentrate in Particulate and Fibrillar Forms on the Physico-Chemical Properties of Quinoa Starch Gels",
+      "abstract": "",
+      "authors": "Shir T Segev, Eden Eran-Nagar, G. Rytwo et al.",
+      "published": "2025",
+      "venue": "Food and Bioprocess Technology",
+      "feedName": "Lab Research",
+      "url": "https://doi.org/10.1007/s11947-025-03873-y",
+      "image": "",
+      "screen": "both",
+      "lab_paper": true,
+      "researcher": {
+        "name": "Giora Rytwo",
+        "photo": ""
+      }
+    },
+    {
+      "title": "Scalable Remediation of Short-Chain Poly- and Perfluoroalkyl Substances Using Montmorillonite–Polycation Composites: From Batch Adsorption to Continuous-Flow Treatment",
+      "abstract": "",
+      "authors": "Tamir Zalmon, G. Rytwo, Adi Radian",
+      "published": "2025",
+      "venue": "ACS ES&amp;T Water",
+      "feedName": "Lab Research",
+      "url": "https://doi.org/10.1021/acsestwater.5c00706",
+      "image": "",
+      "screen": "both",
+      "lab_paper": true,
+      "researcher": {
+        "name": "Giora Rytwo",
+        "photo": ""
+      }
+    },
+    {
+      "title": "Language: English(en)Removal of per- and polyfluoroalkyl substances (PFAS) from water using magnetic cetyltrimethylammonium bromide (CTAB)-modified pine bark",
+      "abstract": "",
+      "authors": "Ruichi Zhang, Zhongfei Ren, Ulrich Bergmann et al.",
+      "published": "2024",
+      "venue": "Journal of Environmental Chemical Engineering",
+      "feedName": "Lab Research",
+      "url": "https://doi.org/10.1016/j.jece.2024.114006",
+      "image": "",
+      "screen": "both",
+      "lab_paper": true,
+      "researcher": {
+        "name": "Giora Rytwo",
+        "photo": ""
+      }
+    },
+    {
+      "title": "Sepiolite–Chitosan–Acetic Acid Biocomposite Attenuates the Development of Obesity and Nonalcoholic Fatty Liver Disease in Mice Fed a High-Fat Diet",
+      "abstract": "Background; obesity and nonalcoholic fatty liver disease (NAFLD) reduce life expectancy; nonoperative interventions show poor results. Individually, chitosan (1% w/w), acetic acid (AA 0.3–6.5% w/w), and sepiolite clay (5% w/w) attenuate high-fat-diet-induced obesity (DIO) via reduced energy digestibility and increased energy expenditure. Objectives; therefore, we hypothesized that a chitosan–sepiolite biocomposite suspended in AA would attenuate DIO and NAFLD to a greater extent than AA alone via its more substantial adsorption of nonpolar molecules. Methods; we tested this dietary supplement in C57BL/6J mice fed a high-fat diet (HFD) compared to an unsupplemented HFD and an HFD supplemented with a bile acid sequestrant (cholestyramine) or standalone AA. Results; biocomposite supplementation reduced DIO gain by 60% and abolished hepatic liver accumulation, whereas standalone AA showed mild attenuation of DIO gain and did not prevent HFD-induced hepatic fat accumulation. The biocomposite intake was accompanied by a lower digestibility (−4 point %) counterbalanced by increased intake; hence, it did not affect energy absorption. Therefore, DIO attenuation was suggested to be related to higher energy expenditure, a phenomenon not found with AA alone, as supported by calculated energy expenditure using the energy balance method. Conclusions; these results support further investigation of the biocomposite’s efficacy in attenuating obesity and NAFLD, specifically when applied with a restricted diet. Future studies are needed to determine this biocomposite’s safety, mechanism of ac…",
+      "authors": "Dalia Niv, Eli Anavi, Laris Yaval et al.",
+      "published": "2024",
+      "venue": "Nutrients",
+      "feedName": "Lab Research",
+      "url": "https://doi.org/10.3390/nu16223958",
+      "image": "",
+      "screen": "both",
+      "lab_paper": true,
+      "researcher": {
+        "name": "Giora Rytwo",
+        "photo": ""
+      }
+    },
+    {
+      "title": "Journal of Agrometeorology",
+      "abstract": "",
+      "authors": "G. Rytwo, Dafna Eliyahou",
+      "published": "2023",
+      "venue": "",
+      "feedName": "Lab Research",
+      "url": "",
+      "image": "",
+      "screen": "both",
+      "lab_paper": true,
+      "researcher": {
+        "name": "Giora Rytwo",
+        "photo": ""
+      }
+    },
+    {
+      "title": "Eddy correlation measurements to visualize CO2 and water vapor concentrations and fluxes",
+      "abstract": "Eddy correlation measures gas exchange between canopy and the overlying atmosphere by evaluating the correlation between fluctuations in the gas-of-interest’s mixing ratio and the vertical wind velocity and considered the most accurate approach for measuring gas fluxes, mostly carbon dioxide and water vapor under ideal homogeneous conditions.  It has been used in micrometeorology for decades to quantify mass and energy transfer between urban, natural and agricultural ecosystems and the atmosphere. We assessed its application under various—homogeneous and non-homogeneous—conditions. Our study indicates that fluxes of CO2 and H2O correlate well with plants activity only when turbulent conditions are present, in open fields. At such conditions, direct measurements of concentration of those gases are not an accurate indicator for plants activity. On the other hand, in closed systems (e.g. greenhouses)- fluxes as measured by an eddy correlation system can't accurately be related to the state of the vegetation, but the fluctuations in the concentrations of CO2 and H2O directly correlate to the actual plants activity. Adapting conditions in greenhouses to limiting factors as temperature, increases CO2 sequestration by plants, and may increase productivity",
+      "authors": "G. Rytwo, Dafna Eliyahou",
+      "published": "2023",
+      "venue": "Journal of Agrometeorology",
+      "feedName": "Lab Research",
+      "url": "https://doi.org/10.54386/jam.v25i2.2103",
+      "image": "",
+      "screen": "both",
+      "lab_paper": true,
+      "researcher": {
+        "name": "Giora Rytwo",
+        "photo": ""
+      }
+    },
+    {
+      "title": "Colorimetric Quantification for Residual Poly-DADMAC in Water Treatment",
+      "abstract": "Poly-DADMAC (PD) is a commonly used organic polymer in water treatment, known for its effectiveness as a coagulant. However, its presence as a residue in water raises concerns related to membrane fouling and the potential formation of carcinogenic compounds. Therefore, fast and simple quantification is necessary to efficiently control and monitor the optimal dose of poly-DADMAC with minimal negative effects. This study introduces a new colorimetric quantification method for poly-DADMAC, based on complexation with a cationic dye (fast green-FG). The method was examined through varying conditions, which included different analytical and commercial poly-DADMAC formulations and concentrations. These experiments confirm its effectiveness in quantifying poly-DADMAC with a detection limit of 3.22 µg L−1 (0.02 µM based on monomers’ molecular weight), which is one order of magnitude lower than regulatory requirements (50 µg L−1). To validate the method, the effect of pH was examined, and implementation demonstrations were conducted on cyanobacteria and cowshed-polluted water samples. This research introduces a fast, cost-effective innovative method to accurately quantify poly-DADMAC, enhancing water treatment strategies for high-quality purification and water reuse",
+      "authors": "Ilil Levakov, I. Maor, Chen Barak et al.",
+      "published": "2023",
+      "venue": "Water",
+      "feedName": "Lab Research",
+      "url": "https://doi.org/10.20944/preprints202308.1663.v1",
+      "image": "",
+      "screen": "both",
+      "lab_paper": true,
+      "researcher": {
+        "name": "Giora Rytwo",
+        "photo": ""
+      }
+    },
+    {
+      "title": "Elementary Steps in Steady State Kinetic Model Approximation for the Homo-Heterogeneous Photocatalysis of Carbamazepine",
+      "abstract": "Elucidating physicochemical processes in the degradation of pollutants may optimize their removal from water sources. Although the photodegradation of carbamazepine (CBZ) in Advanced Oxidation Processes (AOPs) has been widely studied, there is no detailed report on the elementary steps of the kinetics. This study proposes a set of elementary steps for the AOP of CBZ, combining short-wave ultraviolet radiation (UVC), a homogeneous reagent (H2O2), and a heterogeneous catalyst (TiO2), which includes the excitation of both reagents/catalysts by UVC photons, the adsorption of CBZ by the excited TiO2, or its oxidation by hydroxyl radicals. Assuming the steady-state approximation on the intermediate products (excited TiO2, CBZ-excited TiO2 complex, and hydroxyl radicals) leads to rate laws for the degradation of CBZ, in which UVC radiation, TiO2, and H2O2 are pseudo-first-order at all concentrations or intensities and have no direct influence on CBZ pseudo-order, whereas CBZ shifts from pseudo-first-order at low concentrations to pseudo-zero-order at high concentrations. Several experiments to test the mechanism were conducted by varying CBZ, H2O2, and TiO2 concentrations and UVC radiation intensities. The measured results indeed fit the suggested mechanism for the first three, but the irradiation intensity appears to shift the CBZ influence from pseudo-second- to pseudo-first-order with increased intensities. Part of the elementary steps were changed to fit the results.",
+      "authors": "Yuval Shahar, G. Rytwo",
+      "published": "2023",
+      "venue": "Clean Technology",
+      "feedName": "Lab Research",
+      "url": "https://doi.org/10.3390/cleantechnol5030043",
+      "image": "",
+      "screen": "both",
+      "lab_paper": true,
+      "researcher": {
+        "name": "Giora Rytwo",
+        "photo": ""
+      }
+    },
+    {
+      "title": "Sepiolite- rosemary oil combination as an environmentally oriented insecticide",
+      "abstract": "",
+      "authors": "Liora Shaltiel-Harpaz, Tamir Kreimer, N. Dudai et al.",
+      "published": "2023",
+      "venue": "Applied Clay Science",
+      "feedName": "Lab Research",
+      "url": "https://doi.org/10.1016/j.clay.2023.106838",
+      "image": "",
+      "screen": "both",
+      "lab_paper": true,
+      "researcher": {
+        "name": "Giora Rytwo",
+        "photo": ""
+      }
+    },
+    {
+      "title": "Ice nucleation by smectites: the role of the edges",
+      "abstract": "Abstract. Smectites, like other clay minerals, have been shown to promote ice\nnucleation in the immersion freezing mode and likely contribute to the\npopulation of ice-nucleating particles (INPs) in the atmosphere. Smectites\nare layered aluminosilicates, which form platelets that depending on\ncomposition might swell or even delaminate in water by intercalation of\nwater molecules between their layers. They comprise among others\nmontmorillonites, hectorites, beidellites, and nontronites. In this study,\nwe investigate the ice nucleation (IN) activity of a variety of natural and\nsynthetic smectite samples with different exchangeable cations. The\nmontmorillonites STx-1b and SAz-1, the nontronite SWa-1, and the hectorite\nSHCa-1 are all rich in Ca2+ as the exchangeable cation; the bentonite\nMX-80 is rich in Na+ with a minor contribution of Ca2+, and the\nsynthetic Laponite is a pure Na+ smectite. The bentonite SAu-1 is rich\nin Mg2+ with a minor contribution of Na+, and the synthetic\ninterstratified mica-montmorillonite Barasym carries\nNH4+ as the exchangeable cation. In\nemulsion freezing experiments, all samples except Laponite exhibited one or\ntwo heterogeneous freezing peaks with onsets between 239 and 248 K and a\nquite large variation in IN activity yet without clear correlation with the\nexchangeable cation, with the type of smectite, or with mineralogical\nimpurities in the samples. To further investigate the role of the\nexchangeable cation, we performed ion exchange experiments. Replacing\nNH4+ with Ca2+ in Barasym reduced\nits IN activity to that of other Ca-rich montmorillonites…",
+      "authors": "Amit Kumar, Kristian Klumpp, Chen Barak et al.",
+      "published": "2023",
+      "venue": "Atmospheric Chemistry and Physics",
+      "feedName": "Lab Research",
+      "url": "https://doi.org/10.5194/acp-23-4881-2023",
+      "image": "",
+      "screen": "both",
+      "lab_paper": true,
+      "researcher": {
+        "name": "Giora Rytwo",
+        "photo": ""
+      }
+    },
+    {
+      "title": "Characterization of Moringa oleifera leaf and seed protein extract functionality in emulsion model system",
+      "abstract": "",
+      "authors": "Ya'’ara Cattan, D. Patil, Y. Vaknin et al.",
+      "published": "2022",
+      "venue": "Innovative Food Science & Emerging Technologies",
+      "feedName": "Lab Research",
+      "url": "https://doi.org/10.1016/j.ifset.2021.102903",
+      "image": "",
+      "screen": "both",
+      "lab_paper": true,
+      "researcher": {
+        "name": "Giora Rytwo",
+        "photo": ""
+      }
+    },
+    {
+      "title": "Carbamazepine Removal by Clay-Based Materials Using Adsorption and Photodegradation",
+      "abstract": "Carbamazepine (CBZ) is one of the most common emerging contaminants released to the aquatic environment through domestic and pharmaceutical wastewater. Due to its high persistence through conventional degradation treatments, CBZ is considered a typical indicator for anthropogenic activities. This study tested the removal of CBZ through two different clay-based purification techniques: adsorption of relatively large concentrations (20–500 μmol L−1) and photocatalysis of lower concentrations (<20 μmol L−1). The sorption mechanism was examined by FTIR measurements, exchangeable cations released, and colloidal charge of the adsorbing clay materials. Photocatalysis was performed in batch experiments under various conditions. Despite the neutral charge of carbamazepine, the highest adsorption was observed on negatively charged montmorillonite-based clays. Desorption tests indicate that adsorbed CBZ is not released by washing. The adsorption/desorption processes were confirmed by ATR-FTIR analysis of the clay-CBZ particles. A combination of synthetic montmorillonite or hectorite with low H2O2 concentrations under UVC irradiation exhibits efficient homo-heterogeneous photodegradation at μM CBZ levels. The two techniques presented in this study suggest solutions for both industrial and municipal wastewater, possibly enabling water reuse.",
+      "authors": "Ilil Levakov, Yuval Shahar, G. Rytwo",
+      "published": "2022",
+      "venue": "Water",
+      "feedName": "Lab Research",
+      "url": "https://doi.org/10.3390/w14132047",
+      "image": "",
+      "screen": "both",
+      "lab_paper": true,
+      "researcher": {
+        "name": "Giora Rytwo",
+        "photo": ""
+      }
     }
   ]
 }

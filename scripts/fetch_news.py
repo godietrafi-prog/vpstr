@@ -204,7 +204,7 @@ RESEARCHERS = [
     {"name": "Loai Basheer",     "s2_id": "4157421",     "photo": "media/photos/loai_basheer.png"},
     {"name": "Gilad Davidson-Rozenfeld", "s2_id": "1410646763", "photo": _GS + "vh7tqKQAAAAJ"},
     {"name": "Rafi Steckler",    "s2_id": "1403949953",  "photo": _GS + "BOhLTM0AAAAJ"},
-    {"name": "Giora Rytwo",      "s2_id": "4960911",     "photo": ""},
+    {"name": "Giora Rytwo",      "s2_id": "4960911",     "photo": "media/photos/giora_rytwo.jpg"},
 ]
 
 _S2_FIELDS = "title,year,venue,authors,abstract,externalIds"

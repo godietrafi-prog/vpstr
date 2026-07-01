@@ -203,7 +203,7 @@ RESEARCHERS = [
     {"name": "Adi Jonas-Levi",   "s2_id": "2311554993",  "photo": _GS + "oX6_j4gAAAAJ"},
     {"name": "Loai Basheer",     "s2_id": "4157421",     "photo": ""},
     {"name": "Gilad Davidson-Rozenfeld", "s2_id": "1410646763", "photo": _GS + "vh7tqKQAAAAJ"},
-    {"name": "Rafi Steckler",    "s2_id": "1403949953",  "photo": ""},  # ID to be verified
+    {"name": "Rafi Steckler",    "s2_id": "1403949953",  "photo": _GS + "BOhLTM0AAAAJ"},
     {"name": "Giora Rytwo",      "s2_id": "4960911",     "photo": ""},
 ]
 

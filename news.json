@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-30T23:03:34Z",
+  "updated": "2026-07-01T02:38:27Z",
   "items": [
     {
       "title": "A cognitive perspective for climate-smart agricultural policy in the Indo-Pacific region",
@@ -282,6 +282,16 @@
       "screen": "left"
     },
     {
+      "title": "Abundant catalyst converts methane into valuable liquid chemicals",
+      "abstract": "Scientists at the U.S. Department of Energy's (DOE) Brookhaven National Laboratory and their collaborators have demonstrated a promising new approach for converting methane—the primary component of natural gas—into liquid chemicals that are precursors for many industrial chemicals and fuels. The research, described in a paper just published in Advanced Functional Materials, shows how molybdenum disulfide (MoS2), an earth-abundant industrial catalyst, can be used with minimal tweaking to selectively convert methane into methyl peroxide and other liquid oxygenate compounds at temperatures below 100°C (212°F). Methyl peroxide is a precursor for making methanol, an energy-dense liquid fuel that can be transported easily.",
+      "authors": "",
+      "published": "Jun 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-06-abundant-catalyst-methane-valuable-liquid.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/abundant-catalyst-conv-1.jpg",
+      "screen": "right"
+    },
+    {
       "title": "How a sugar building block influences viral attachment",
       "abstract": "Sialic acid is a natural sugar building block found on the surfaces of our cells. It acts as a protective and recognition molecule and plays a central role in the development of the nervous system. Following the modular principle, individual components can be swapped for new building blocks, thereby altering the properties of the sugar. Researchers at Hannover Medical School (MHH) have investigated how these building blocks reach their target. These fundamental findings are also significant because certain influenza and coronavirus strains specifically use modified sialic acids as receptors to enter host cells.",
       "authors": "",
@@ -309,16 +319,6 @@
       "feedName": "Phys.org Analytics",
       "url": "https://phys.org/news/2026-06-pfas-chain-length-environmental-fate.html",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/hanyang-university-res-2.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "AI tool reliably predicts the flame resistance of new materials",
-      "abstract": "Researchers at IMDEA Materials Institute have developed an artificial intelligence (AI)-based strategy to predict and assess the fire resistance of epoxy resins, one of the most widely used polymers in industry.",
-      "authors": "",
-      "published": "Jun 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-06-ai-tool-reliably-flame-resistance.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/an-ai-tool-that-reliab.jpg",
       "screen": "right"
     },
     {

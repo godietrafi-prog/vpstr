@@ -876,8 +876,7 @@
         var titles = [];
         rssItems.forEach(function(it) {
             if (it.type === 'lab_paper') {
-                var res = it.researcher || {};
-                titles.push((res.name || 'Lab Research') + ':  ' + it.title);
+                return; // lab papers appear in slides only, not ticker
             } else if (it.type === 'rss_card') {
                 var s = it._rssItem.screen || 'both';
                 if (s === 'right' || s === 'both')

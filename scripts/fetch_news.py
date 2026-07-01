@@ -198,13 +198,13 @@ LAB_YEARS_BACK = 4   # dynamic window: current_year - LAB_YEARS_BACK
 
 RESEARCHERS = [
     {"name": "Iris Zohar",
-     "s2_id": "48345440",
+     "s2_id": "38522818",
      "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=0qOb-iYAAAAJ&citpid=2"},
     {"name": "Ofir Benjamin",
      "s2_id": "72231484",
      "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=FsjV0oIAAAAJ&citpid=1"},
     {"name": "Adi Jonas-Levi",
-     "s2_id": "1413993398",
+     "s2_id": "2311554993",
      "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=oX6_j4gAAAAJ&citpid=2"},
     {"name": "Loai Basheer",
      "s2_id": "4157421",

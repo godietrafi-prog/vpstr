@@ -201,7 +201,7 @@ RESEARCHERS = [
     {"name": "Iris Zohar",       "s2_id": "38522818",    "photo": _GS + "YVQd-pwAAAAJ"},
     {"name": "Ofir Benjamin",    "s2_id": "72231484",    "photo": _GS + "FsjV0oIAAAAJ"},
     {"name": "Adi Jonas-Levi",   "s2_id": "2311554993",  "photo": _GS + "MbCf9l4AAAAJ"},
-    {"name": "Loai Basheer",     "s2_id": "4157421",     "photo": ""},
+    {"name": "Loai Basheer",     "s2_id": "4157421",     "photo": "media/photos/loai_basheer.png"},
     {"name": "Gilad Davidson-Rozenfeld", "s2_id": "1410646763", "photo": _GS + "vh7tqKQAAAAJ"},
     {"name": "Rafi Steckler",    "s2_id": "1403949953",  "photo": _GS + "BOhLTM0AAAAJ"},
     {"name": "Giora Rytwo",      "s2_id": "4960911",     "photo": ""},

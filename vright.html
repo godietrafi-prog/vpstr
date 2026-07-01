@@ -289,18 +289,27 @@
             padding: 6% 9% 0 9%;
             overflow: hidden;
         }
-        .lab-card-photo {
-            width: 22%;
+        /* circular photo — wrapper enforces size, img fills it */
+        .lab-card-photo-wrap {
+            width: 18%;
             aspect-ratio: 1;
             border-radius: 50%;
-            object-fit: cover;
-            border: 3px solid #4EC96A;
-            box-shadow: 0 0 22px rgba(78,201,106,0.45), 0 0 50px rgba(78,201,106,0.15);
+            overflow: hidden;
             flex-shrink: 0;
             margin-bottom: 3%;
+            border: 3px solid #4EC96A;
+            box-shadow: 0 0 22px rgba(78,201,106,0.45), 0 0 50px rgba(78,201,106,0.15);
+            position: relative;
+        }
+        .lab-card-photo-wrap img {
+            position: absolute;
+            top: 0; left: 0;
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
         }
         .lab-card-photo-placeholder {
-            width: 22%;
+            width: 18%;
             aspect-ratio: 1;
             border-radius: 50%;
             background: rgba(78,201,106,0.1);
@@ -309,8 +318,8 @@
             align-items: center;
             justify-content: center;
             font-family: Georgia, serif;
-            font-size: 3em;
-            color: rgba(78,201,106,0.5);
+            font-size: 2.8em;
+            color: rgba(78,201,106,0.55);
             flex-shrink: 0;
             margin-bottom: 3%;
         }
@@ -618,24 +627,26 @@
         div.classList.add('lab-card');
         var res = item.researcher || {};
 
-        // Circular photo (replaces decorative quote mark)
+        // Circular photo — wrapper div enforces size, img fills it
         if (res.photo) {
+            var wrap = document.createElement('div');
+            wrap.className = 'lab-card-photo-wrap';
             var photoEl = document.createElement('img');
-            photoEl.className = 'lab-card-photo';
             photoEl.src = res.photo;
             photoEl.alt = res.name || '';
             photoEl.onerror = function() {
-                var ph = document.createElement('div');
-                ph.className = 'lab-card-photo-placeholder';
-                ph.textContent = (res.name || '?')[0];
-                this.parentNode.replaceChild(ph, this);
+                wrap.parentNode.replaceChild(makePlaceholder(res.name), wrap);
             };
-            div.appendChild(photoEl);
+            wrap.appendChild(photoEl);
+            div.appendChild(wrap);
         } else {
+            div.appendChild(makePlaceholder(res.name));
+        }
+        function makePlaceholder(name) {
             var ph = document.createElement('div');
             ph.className = 'lab-card-photo-placeholder';
-            ph.textContent = (res.name || '?')[0];
-            div.appendChild(ph);
+            ph.textContent = (name || '?')[0];
+            return ph;
         }
 
         // Badge

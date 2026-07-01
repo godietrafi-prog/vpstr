@@ -704,13 +704,15 @@
         rssItems.forEach(function(it) {
             if (it.type === 'rss_card') {
                 var s = it._rssItem.screen || 'both';
-                if (s === 'left' || s === 'both') titles.push(it._rssItem.title);
+                if (s === 'left' || s === 'both')
+                    titles.push(it._rssItem.feedName + ':  ' + it._rssItem.title);
             }
             if (it.type === 'rss_dual') {
                 it._cards.forEach(function(c) {
                     if (!c) return;
                     var s = c.screen || 'both';
-                    if (s === 'left' || s === 'both') titles.push(c.title);
+                    if (s === 'left' || s === 'both')
+                        titles.push(c.feedName + ':  ' + c.title);
                 });
             }
         });

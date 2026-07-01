@@ -5,6 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="refresh" content="300">
     <title>View Left</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@300;400&display=swap" rel="stylesheet">
     <style>
         * { margin: 0; padding: 0; box-sizing: border-box; }
 
@@ -274,6 +276,44 @@
             white-space: nowrap;
         }
 
+        /* ── Floating clock ── */
+        #clock-overlay {
+            position: absolute;
+            z-index: 50;
+            pointer-events: none;
+            transition: left 10s cubic-bezier(0.4, 0, 0.2, 1),
+                        top  10s cubic-bezier(0.4, 0, 0.2, 1);
+        }
+        #clock-overlay.no-transition { transition: none; }
+        #clock-digits {
+            font-family: 'Orbitron', 'Courier New', monospace;
+            font-size: 4.5em;
+            font-weight: 300;
+            letter-spacing: 0.06em;
+            color: rgba(78, 201, 106, 0.93);
+            text-shadow:
+                0 0 10px rgba(78, 201, 106, 1),
+                0 0 25px rgba(78, 201, 106, 0.6),
+                0 0 55px rgba(78, 201, 106, 0.28),
+                0 0 90px rgba(78, 201, 106, 0.12);
+            background: rgba(5, 16, 28, 0.52);
+            border: 1px solid rgba(78, 201, 106, 0.22);
+            border-radius: 0.18em;
+            padding: 0.22em 0.65em;
+            backdrop-filter: blur(16px);
+            -webkit-backdrop-filter: blur(16px);
+            white-space: nowrap;
+        }
+        #clock-sep {
+            display: inline-block;
+            animation: sep-pulse 2s ease-in-out infinite;
+            margin: 0 0.02em;
+        }
+        @keyframes sep-pulse {
+            0%, 100% { opacity: 1; }
+            50%       { opacity: 0.2; }
+        }
+
         /* ── News ticker ── */
         #news-ticker {
             flex: 0 0 6%;
@@ -346,7 +386,13 @@
             <div class="line"></div>
             <div class="dot"></div>
         </div>
-        <div id="slides-area"></div>
+        <div id="slides-area">
+            <div id="clock-overlay" class="no-transition">
+                <div id="clock-digits">
+                    <span id="clock-hh">00</span><span id="clock-sep">:</span><span id="clock-mm">00</span>
+                </div>
+            </div>
+        </div>
         <div id="news-ticker">
             <div id="ticker-label">RESEARCH NEWS</div>
             <div id="ticker-scroll"><div id="ticker-inner">Loading headlines...</div></div>
@@ -730,6 +776,45 @@
         showSlide(0);
     };
     xhr.send();
+
+    // ================================================================
+    // CLOCK — floating, drifting, 24h HH:MM
+    // ================================================================
+    var clockOverlay = document.getElementById('clock-overlay');
+    var clockHH      = document.getElementById('clock-hh');
+    var clockMM      = document.getElementById('clock-mm');
+
+    function updateClock() {
+        var now = new Date();
+        var h = String(now.getHours()).padStart(2, '0');
+        var m = String(now.getMinutes()).padStart(2, '0');
+        if (clockHH.textContent !== h) clockHH.textContent = h;
+        if (clockMM.textContent !== m) clockMM.textContent = m;
+        var msToNext = (60 - now.getSeconds()) * 1000 - now.getMilliseconds() + 50;
+        setTimeout(updateClock, msToNext);
+    }
+
+    function driftClock() {
+        var sw = slidesArea.offsetWidth  || 800;
+        var sh = slidesArea.offsetHeight || 600;
+        var cw = clockOverlay.offsetWidth  || 230;
+        var ch = clockOverlay.offsetHeight || 85;
+        var pad = Math.round(Math.min(sw, sh) * 0.06);
+        var x = pad + Math.random() * Math.max(0, sw - cw - pad * 2);
+        var y = pad + Math.random() * Math.max(0, sh - ch - pad * 2);
+        clockOverlay.style.left = Math.round(x) + 'px';
+        clockOverlay.style.top  = Math.round(y) + 'px';
+        setTimeout(driftClock, 22000);
+    }
+
+    // Initial placement — no animation flash
+    clockOverlay.style.left = '6%';
+    clockOverlay.style.top  = '6%';
+    updateClock();
+    setTimeout(function() {
+        clockOverlay.classList.remove('no-transition');
+        driftClock();
+    }, 300);
 
     </script>
 </body>

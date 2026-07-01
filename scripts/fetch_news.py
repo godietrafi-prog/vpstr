@@ -198,7 +198,7 @@ LAB_YEARS_BACK = 4   # dynamic window: current_year - LAB_YEARS_BACK
 
 _GS = "https://scholar.googleusercontent.com/citations?view_op=view_photo&user="
 RESEARCHERS = [
-    {"name": "Iris Zohar",       "s2_id": "38522818",    "photo": _GS + "0qOb-iYAAAAJ"},
+    {"name": "Iris Zohar",       "s2_id": "38522818",    "photo": _GS + "YVQd-pwAAAAJ"},
     {"name": "Ofir Benjamin",    "s2_id": "72231484",    "photo": _GS + "FsjV0oIAAAAJ"},
     {"name": "Adi Jonas-Levi",   "s2_id": "2311554993",  "photo": _GS + "oX6_j4gAAAAJ"},
     {"name": "Loai Basheer",     "s2_id": "4157421",     "photo": ""},

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-01T19:14:57Z",
+  "updated": "2026-07-01T19:22:20Z",
   "items": [
     {
       "title": "A cognitive perspective for climate-smart agricultural policy in the Indo-Pacific region",
@@ -362,6 +362,16 @@
       "screen": "right"
     },
     {
+      "title": "Scientists discover a surprising link between vitamin C and brain health",
+      "abstract": "Could something as simple as vitamin C help support a healthier aging brain? In a study of more than 2,000 older adults in Japan, researchers found that people with lower vitamin C levels in their blood also tended to have less gray matter and weaker connections in a key brain network involved in memory, attention, and other cognitive functions.",
+      "authors": "",
+      "published": "Jul 2026",
+      "feedName": "ScienceDaily Nutrition",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260626030428.htm",
+      "image": "https://www.sciencedaily.com/images/1920/neuroscience-brain-boost-glow.webp",
+      "screen": "right"
+    },
+    {
       "title": "They knew the pill was fake but their memory still improved",
       "abstract": "Healthy older adults experienced measurable improvements in memory, physical performance, and stress after taking placebo pills for just three weeks. The most surprising finding was that the placebo often worked even when participants knew the pills were completely inactive.",
       "authors": "",
@@ -389,16 +399,6 @@
       "feedName": "ScienceDaily Nutrition",
       "url": "https://www.sciencedaily.com/releases/2026/06/260624025511.htm",
       "image": "https://www.sciencedaily.com/images/1920/osteoporosis-realistic-bone-spongy-structure.webp",
-      "screen": "right"
-    },
-    {
-      "title": "This common vitamin deficiency can mimic normal aging",
-      "abstract": "Vitamin B12 is needed in microscopic amounts, but a shortage can have major effects on health and energy. The vitamin was first linked to a lifesaving liver treatment for pernicious anemia nearly 100 years ago. Today, researchers are finding that B12 may also help keep cellular powerhouses called mitochondria functioning properly. This could explain why some people experience fatigue and brain fog even before traditional signs of deficiency show up.",
-      "authors": "",
-      "published": "Jun 2026",
-      "feedName": "ScienceDaily Nutrition",
-      "url": "https://www.sciencedaily.com/releases/2026/06/260623083116.htm",
-      "image": "https://www.sciencedaily.com/images/1920/senior-woman-examining-vitamin-supplement-medication.webp",
       "screen": "right"
     },
     {
@@ -550,7 +550,7 @@
       "lab_paper": true,
       "researcher": {
         "name": "Adi Jonas-Levi",
-        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=oX6_j4gAAAAJ"
+        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=MbCf9l4AAAAJ"
       }
     },
     {
@@ -566,7 +566,7 @@
       "lab_paper": true,
       "researcher": {
         "name": "Adi Jonas-Levi",
-        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=oX6_j4gAAAAJ"
+        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=MbCf9l4AAAAJ"
       }
     },
     {
@@ -582,7 +582,7 @@
       "lab_paper": true,
       "researcher": {
         "name": "Loai Basheer",
-        "photo": ""
+        "photo": "media/photos/loai_basheer.png"
       }
     },
     {
@@ -598,7 +598,7 @@
       "lab_paper": true,
       "researcher": {
         "name": "Loai Basheer",
-        "photo": ""
+        "photo": "media/photos/loai_basheer.png"
       }
     },
     {

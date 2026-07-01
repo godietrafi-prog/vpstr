@@ -67,19 +67,67 @@
             align-items: center;
             justify-content: center;
             opacity: 0;
-            transition: opacity 1s ease-in-out;
+            transform: scale(1.012);
+            transition: opacity 2s cubic-bezier(0.4,0,0.2,1),
+                        transform 2s cubic-bezier(0.4,0,0.2,1);
         }
-        .slide.active { opacity: 1; }
+        .slide.active { opacity: 1; transform: scale(1.0); }
 
-        .slide img, .slide video {
+        .slide video {
             width: 100%;
             height: 100%;
             object-fit: fill;
         }
 
+        /* ── Poster / standalone-image wrapper ── */
+        .poster-wrap {
+            position: relative;
+            width: 100%;
+            height: 100%;
+            overflow: hidden;
+        }
+        .poster-wrap .img-bg {
+            position: absolute;
+            inset: -8%;
+            width: 116%; height: 116%;
+            object-fit: cover;
+            filter: blur(28px) brightness(0.28) saturate(1.6);
+            transform-origin: center;
+        }
+        .poster-wrap .img-fg {
+            position: relative;
+            z-index: 1;
+            width: 100%; height: 100%;
+            object-fit: contain;
+            animation: ken-burns 48s ease-in-out both;
+        }
+        .poster-wrap::after {
+            content: '';
+            position: absolute;
+            inset: 0;
+            background: radial-gradient(ellipse at center, transparent 55%, rgba(0,0,0,0.45) 100%);
+            z-index: 2;
+            pointer-events: none;
+        }
+        @keyframes ken-burns {
+            from { transform: scale(1.0) translate(0%, 0%); }
+            to   { transform: scale(1.06) translate(-0.8%, -0.4%); }
+        }
+        @keyframes ken-burns-b {
+            from { transform: scale(1.0) translate(0%, 0%); }
+            to   { transform: scale(1.06) translate(0.8%, 0.4%); }
+        }
+
         /* ── RSS card full-screen slides ── */
+        @keyframes bg-breathe {
+            0%   { background-position: 0%   0%; }
+            50%  { background-position: 100% 100%; }
+            100% { background-position: 0%   0%; }
+        }
         .rss-card {
-            background: linear-gradient(155deg, #071422 0%, #0e2d1c 55%, #071422 100%);
+            background: linear-gradient(155deg, #071422 0%, #0b2618 40%, #0e2d1c 55%, #071422 100%);
+            background-size: 220% 220%;
+            animation: bg-breathe 22s ease-in-out infinite;
             width: 100%;
             height: 100%;
             display: flex;
@@ -184,8 +232,17 @@
             content: '';
             position: absolute;
             top: 0; left: 0; right: 0;
-            height: 40%;
+            height: 45%;
             background: linear-gradient(to bottom, #071422 0%, rgba(7,20,34,0) 100%);
+            z-index: 1;
+            pointer-events: none;
+        }
+        .rss-card-figure::after {
+            content: '';
+            position: absolute;
+            bottom: 0; left: 0; right: 0;
+            height: 35%;
+            background: linear-gradient(to top, rgba(7,20,34,0.65) 0%, rgba(7,20,34,0) 100%);
             z-index: 1;
             pointer-events: none;
         }
@@ -194,12 +251,15 @@
             max-height: 100%;
             object-fit: contain;
             object-position: center;
-            opacity: 0.92;
+            opacity: 1;
+            animation: ken-burns 45s ease-in-out both;
         }
 
         /* ── Dual compact card slide (two articles, no abstract/image) ── */
         .rss-dual {
-            background: linear-gradient(155deg, #071422 0%, #0e2d1c 55%, #071422 100%);
+            background: linear-gradient(155deg, #071422 0%, #0b2618 40%, #0e2d1c 55%, #071422 100%);
+            background-size: 220% 220%;
+            animation: bg-breathe 22s ease-in-out infinite;
             width: 100%;
             height: 100%;
             display: flex;
@@ -279,7 +339,9 @@
         /* ── Lab paper card ── */
         /* ── Lab paper card (same structure as rss-card) ── */
         .lab-card {
-            background: linear-gradient(155deg, #071422 0%, #0e2d1c 55%, #071422 100%);
+            background: linear-gradient(155deg, #071422 0%, #0b2618 40%, #0e2d1c 55%, #071422 100%);
+            background-size: 220% 220%;
+            animation: bg-breathe 22s ease-in-out infinite;
             width: 100%;
             height: 100%;
             display: flex;
@@ -498,6 +560,23 @@
             overflow: hidden;
             height: 100%;
             position: relative;
+        }
+        #ticker-scroll::before,
+        #ticker-scroll::after {
+            content: '';
+            position: absolute;
+            top: 0; bottom: 0;
+            width: 70px;
+            z-index: 2;
+            pointer-events: none;
+        }
+        #ticker-scroll::before {
+            left: 0;
+            background: linear-gradient(to right, #0d1b2a 20%, transparent 100%);
+        }
+        #ticker-scroll::after {
+            right: 0;
+            background: linear-gradient(to left, #0d1b2a 20%, transparent 100%);
         }
         #ticker-inner {
             position: absolute;
@@ -878,15 +957,22 @@
                 div.setAttribute('data-type', 'video');
                 makeVideoSlide(div, item.src_right || item.src);
             } else {
-                var img = document.createElement('img');
-                img.src     = item.src;
-                img.alt     = '';
-                img.loading = 'eager';
+                var src = item.src_right || item.src;
+                var wrap = document.createElement('div');
+                wrap.className = 'poster-wrap';
+                var bgImg = document.createElement('img');
+                bgImg.src = src; bgImg.className = 'img-bg'; bgImg.alt = '';
+                var fgImg = document.createElement('img');
+                fgImg.src = src; fgImg.className = 'img-fg'; fgImg.alt = '';
+                fgImg.loading = 'eager';
+                fgImg.style.animationName = (i % 2 === 0) ? 'ken-burns' : 'ken-burns-b';
+                wrap.appendChild(bgImg);
+                wrap.appendChild(fgImg);
+                div.appendChild(wrap);
                 div.setAttribute('data-type', 'image');
                 var dur = (item.duration != null) ? item.duration :
                           (item.type === 'poster' ? CONFIG.posterDuration : CONFIG.imageDuration);
                 div.setAttribute('data-duration', String(dur));
-                div.appendChild(img);
             }
 
             slidesArea.appendChild(div);

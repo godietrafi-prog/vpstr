@@ -276,6 +276,111 @@
             white-space: nowrap;
         }
 
+        /* ── Lab paper card ── */
+        .lab-card {
+            background: linear-gradient(155deg, #071422 0%, #0e2d1c 55%, #071422 100%);
+            width: 100%;
+            height: 100%;
+            display: flex;
+            flex-direction: column;
+            padding: 6% 9% 4% 9%;
+            overflow: hidden;
+        }
+        .lab-card-header {
+            display: flex;
+            align-items: center;
+            gap: 5%;
+            flex-shrink: 0;
+            margin-bottom: 4%;
+        }
+        .lab-card-photo {
+            width: 16%;
+            aspect-ratio: 1;
+            border-radius: 50%;
+            object-fit: cover;
+            border: 3px solid #4EC96A;
+            box-shadow: 0 0 18px rgba(78,201,106,0.35);
+            flex-shrink: 0;
+        }
+        .lab-card-photo-placeholder {
+            width: 16%;
+            aspect-ratio: 1;
+            border-radius: 50%;
+            background: rgba(78,201,106,0.12);
+            border: 3px solid rgba(78,201,106,0.4);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 2em;
+            color: #4EC96A;
+            font-weight: bold;
+            flex-shrink: 0;
+        }
+        .lab-card-header-info { display: flex; flex-direction: column; gap: 6%; }
+        .lab-card-badge {
+            display: inline-flex;
+            align-items: center;
+            background: rgba(78,201,106,0.12);
+            border: 1.5px solid #4EC96A;
+            color: #4EC96A;
+            font-family: Arial, sans-serif;
+            font-size: 0.85em;
+            font-weight: bold;
+            padding: 0.25em 1em;
+            border-radius: 2em;
+            letter-spacing: 0.07em;
+            text-transform: uppercase;
+            width: fit-content;
+        }
+        .lab-card-researcher-name {
+            font-family: Georgia, serif;
+            font-size: 1.6em;
+            color: #4EC96A;
+            font-weight: bold;
+        }
+        .lab-card-divider {
+            height: 1px;
+            background: rgba(78,201,106,0.22);
+            flex-shrink: 0;
+            margin-bottom: 4%;
+        }
+        .lab-card-title {
+            font-family: Georgia, 'Times New Roman', serif;
+            font-size: 2.2em;
+            color: #ffffff;
+            line-height: 1.2;
+            font-weight: bold;
+            flex-shrink: 0;
+            margin-bottom: 3%;
+        }
+        .lab-card-venue {
+            font-family: Arial, sans-serif;
+            font-size: 1em;
+            color: #4EC96A;
+            font-weight: bold;
+            flex-shrink: 0;
+            margin-bottom: 1.5%;
+        }
+        .lab-card-authors {
+            font-family: Arial, sans-serif;
+            font-size: 0.95em;
+            color: #5a9a6a;
+            font-style: italic;
+            flex-shrink: 0;
+            margin-bottom: 3%;
+        }
+        .lab-card-abstract {
+            font-family: Arial, sans-serif;
+            font-size: 1.1em;
+            color: #a0c8b0;
+            line-height: 1.6;
+            overflow: hidden;
+            display: -webkit-box;
+            -webkit-line-clamp: 8;
+            -webkit-box-orient: vertical;
+            flex-shrink: 1;
+        }
+
         /* ── Clock in bottom bar ── */
         #clock-digits {
             font-family: 'Orbitron', 'Courier New', monospace;
@@ -467,21 +572,21 @@
             if (!byType[t]) byType[t] = [];
             byType[t].push(i);
         }
-        var posters  = shuffle(byType['poster']   || []);
-        var images   = shuffle(byType['image']    || []);
-        var videos   = shuffle(byType['video']    || []);
-        // Rich cards (full slide) + dual slides (two compact) interleave equally
-        var rssCards = shuffle((byType['rss_card'] || []).concat(byType['rss_dual'] || []));
+        var posters   = shuffle(byType['poster']    || []);
+        var images    = shuffle(byType['image']     || []);
+        var videos    = shuffle(byType['video']     || []);
+        var rssCards  = shuffle((byType['rss_card'] || []).concat(byType['rss_dual'] || []));
+        var labPapers = shuffle(byType['lab_paper'] || []);
 
         var pl = [];
-        var ii = 0, ri = 0, vi = 0;
+        var ii = 0, ri = 0, vi = 0, li = 0;
         for (var pi = 0; pi < posters.length; pi++) {
             pl.push(posters[pi]);
-            if ((pi + 1) % 2 === 0 && ri < rssCards.length) pl.push(rssCards[ri++]);
-            if ((pi + 1) % 3 === 0 && ii < images.length)   pl.push(images[ii++]);
-            if ((pi + 1) % 3 === 0 && vi < videos.length)   pl.push(videos[vi++]);
+            if ((pi + 1) % 2 === 0 && ri < rssCards.length)  pl.push(rssCards[ri++]);
+            if ((pi + 1) % 3 === 0 && li < labPapers.length) pl.push(labPapers[li++]);
+            if ((pi + 1) % 3 === 0 && ii < images.length)    pl.push(images[ii++]);
+            if ((pi + 1) % 3 === 0 && vi < videos.length)    pl.push(videos[vi++]);
         }
-        // rssCards: do NOT dump remaining — they cycle naturally in the next round
         while (ii < images.length) pl.push(images[ii++]);
         while (vi < videos.length) pl.push(videos[vi++]);
 
@@ -501,6 +606,68 @@
         div._start = function() {};
         div._stop  = function() {};
         div.appendChild(vid);
+    }
+
+    function makeLabPaperSlide(div, item) {
+        div.classList.add('lab-card');
+        var res = item.researcher || {};
+
+        // Header: photo + badge + name
+        var header = document.createElement('div');
+        header.className = 'lab-card-header';
+        if (res.photo) {
+            var photoEl = document.createElement('img');
+            photoEl.className = 'lab-card-photo';
+            photoEl.src = res.photo;
+            photoEl.alt = res.name || '';
+            photoEl.onerror = function() { this.style.display = 'none'; };
+            header.appendChild(photoEl);
+        } else {
+            var ph = document.createElement('div');
+            ph.className = 'lab-card-photo-placeholder';
+            ph.textContent = (res.name || '?')[0];
+            header.appendChild(ph);
+        }
+        var info = document.createElement('div');
+        info.className = 'lab-card-header-info';
+        var badge = document.createElement('div');
+        badge.className = 'lab-card-badge';
+        badge.textContent = 'Lab Research · Tel-Hai';
+        info.appendChild(badge);
+        var nameEl = document.createElement('div');
+        nameEl.className = 'lab-card-researcher-name';
+        nameEl.textContent = res.name || '';
+        info.appendChild(nameEl);
+        header.appendChild(info);
+        div.appendChild(header);
+
+        var divider = document.createElement('div');
+        divider.className = 'lab-card-divider';
+        div.appendChild(divider);
+
+        var titleEl = document.createElement('div');
+        titleEl.className = 'lab-card-title';
+        titleEl.textContent = item.title;
+        div.appendChild(titleEl);
+
+        if (item.venue || item.published) {
+            var venueEl = document.createElement('div');
+            venueEl.className = 'lab-card-venue';
+            venueEl.textContent = [item.venue, item.published].filter(Boolean).join(' · ');
+            div.appendChild(venueEl);
+        }
+        if (item.authors) {
+            var authEl = document.createElement('div');
+            authEl.className = 'lab-card-authors';
+            authEl.textContent = item.authors;
+            div.appendChild(authEl);
+        }
+        if (item.abstract) {
+            var absEl = document.createElement('div');
+            absEl.className = 'lab-card-abstract';
+            absEl.textContent = item.abstract;
+            div.appendChild(absEl);
+        }
     }
 
     function makeRSSCardSlide(div, rssItem) {
@@ -573,7 +740,11 @@
             var div  = document.createElement('div');
             div.className = 'slide';
 
-            if (item.type === 'rss_card') {
+            if (item.type === 'lab_paper') {
+                div.setAttribute('data-type', 'image');
+                div.setAttribute('data-duration', String(item.duration || CONFIG.rssCardDuration));
+                makeLabPaperSlide(div, item);
+            } else if (item.type === 'rss_card') {
                 div.setAttribute('data-type', 'image');
                 div.setAttribute('data-duration', String(item.duration || CONFIG.rssCardDuration));
                 makeRSSCardSlide(div, item._rssItem);
@@ -671,6 +842,14 @@
                 var d = JSON.parse(req.responseText);
                 (d.items || []).forEach(function(it) {
                     if (!it.title) return;
+                    if (it.lab_paper) {
+                        rich.push({ type: 'lab_paper', duration: CONFIG.rssCardDuration,
+                                    title: it.title, abstract: it.abstract || '',
+                                    authors: it.authors || '', published: it.published || '',
+                                    venue: it.venue || '', researcher: it.researcher || {},
+                                    screen: 'both' });
+                        return;
+                    }
                     var rssItem = { title:     it.title,
                                     abstract:  it.abstract  || '',
                                     authors:   it.authors   || '',
@@ -702,12 +881,14 @@
         ];
         var titles = [];
         rssItems.forEach(function(it) {
-            if (it.type === 'rss_card') {
+            if (it.type === 'lab_paper') {
+                var res = it.researcher || {};
+                titles.push((res.name || 'Lab Research') + ':  ' + it.title);
+            } else if (it.type === 'rss_card') {
                 var s = it._rssItem.screen || 'both';
                 if (s === 'left' || s === 'both')
                     titles.push(it._rssItem.feedName + ':  ' + it._rssItem.title);
-            }
-            if (it.type === 'rss_dual') {
+            } else if (it.type === 'rss_dual') {
                 it._cards.forEach(function(c) {
                     if (!c) return;
                     var s = c.screen || 'both';

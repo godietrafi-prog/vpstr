@@ -8,7 +8,9 @@ import feedparser
 import json
 import os
 import re
+import time
 import urllib.parse
+import urllib.request
 from datetime import datetime, timezone
 from html.parser import HTMLParser
 
@@ -191,6 +193,89 @@ def extract_date(entry, raw_html: str) -> str:
     return ""
 
 
+# ── Lab researchers ────────────────────────────────────────────────────────
+LAB_YEARS_BACK = 4   # dynamic window: current_year - LAB_YEARS_BACK
+
+RESEARCHERS = [
+    {"name": "Iris Zohar",
+     "s2_id": "48345440",
+     "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=0qOb-iYAAAAJ&citpid=2"},
+    {"name": "Ofir Benjamin",
+     "s2_id": "72231484",
+     "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=FsjV0oIAAAAJ&citpid=1"},
+    {"name": "Adi Jonas-Levi",
+     "s2_id": "1413993398",
+     "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=oX6_j4gAAAAJ&citpid=2"},
+    {"name": "Loai Basheer",
+     "s2_id": "4157421",
+     "photo": ""},
+    {"name": "Gilad Davidson-Rozenfeld",
+     "s2_id": "1410646763",
+     "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=vh7tqKQAAAAJ&citpid=1"},
+    {"name": "Rafi Steckler",
+     "s2_id": "1403949953",
+     "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=PyKImBwAAAAJ&citpid=9"},
+    {"name": "Giora Rytwo",
+     "s2_id": "4960911",
+     "photo": ""},
+]
+
+_S2_FIELDS = "title,year,venue,authors,abstract,externalIds"
+
+
+def fetch_s2_papers(researcher: dict, cutoff_year: int) -> list:
+    """Fetch recent papers from Semantic Scholar for one researcher."""
+    url = (f"https://api.semanticscholar.org/graph/v1/author/{researcher['s2_id']}/papers"
+           f"?fields={_S2_FIELDS}&limit=50&sort=publicationDate:desc")
+    for attempt in range(3):
+        try:
+            req = urllib.request.Request(url, headers={"User-Agent": BROWSER_UA})
+            with urllib.request.urlopen(req, timeout=15) as resp:
+                data = json.loads(resp.read())
+            break
+        except urllib.error.HTTPError as e:
+            if e.code == 429:
+                time.sleep(12 * (attempt + 1))
+                continue
+            return []
+        except Exception:
+            return []
+    else:
+        return []
+
+    papers = []
+    for p in data.get("data", []):
+        year = p.get("year")
+        if not year or year < cutoff_year:
+            continue
+        title = (p.get("title") or "").strip()
+        if not title:
+            continue
+        author_names = [a.get("name", "") for a in (p.get("authors") or []) if a.get("name")]
+        if len(author_names) > 3:
+            authors_str = ", ".join(author_names[:3]) + " et al."
+        else:
+            authors_str = ", ".join(author_names)
+        doi = ((p.get("externalIds") or {}).get("DOI") or "")
+        abstract = (p.get("abstract") or "").strip()
+        if len(abstract) > ABSTRACT_MAX:
+            abstract = abstract[:ABSTRACT_MAX] + "…"
+        papers.append({
+            "title":      title,
+            "abstract":   abstract,
+            "authors":    authors_str,
+            "published":  str(year),
+            "venue":      (p.get("venue") or "").strip(),
+            "feedName":   "Lab Research",
+            "url":        f"https://doi.org/{doi}" if doi else "",
+            "image":      "",
+            "screen":     "both",
+            "lab_paper":  True,
+            "researcher": {"name": researcher["name"], "photo": researcher["photo"]},
+        })
+    return papers
+
+
 # ── Feed configuration ─────────────────────────────────────────────────────
 FEEDS = [
     # ── Left screen — academic journals ───────────────────────────────────
@@ -295,6 +380,15 @@ for feed_info in FEEDS:
         cached = _prev_by_feed.get(feed_info["name"], [])[:MAX_PER_FEED]
         items.extend(cached)
         print(f"  ERROR {feed_info['name']}: {e} — reused {len(cached)} cached")
+
+# ── Lab papers ─────────────────────────────────────────────────────────────
+cutoff_year = current_year - LAB_YEARS_BACK
+print(f"\nFetching lab papers (>= {cutoff_year})...")
+for researcher in RESEARCHERS:
+    papers = fetch_s2_papers(researcher, cutoff_year)
+    items.extend(papers)
+    print(f"  {researcher['name']}: {len(papers)} papers")
+    time.sleep(1.5)  # respect S2 rate limit
 
 result = {
     "updated": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),

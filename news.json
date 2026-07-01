@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-01T20:11:26Z",
+  "updated": "2026-07-01T21:20:19Z",
   "items": [
     {
       "title": "A cognitive perspective for climate-smart agricultural policy in the Indo-Pacific region",
@@ -282,6 +282,16 @@
       "screen": "left"
     },
     {
+      "title": "Acceptor molecule upconverts low-energy green light to high-energy purple with high efficiency",
+      "abstract": "Solar cells and photocatalysts can be surprisingly inefficient. Despite light consisting of many wavelengths, the range that even highly efficient devices use is limited. Other wavelengths, especially long wavelengths, simply pass through the material without being used as energy.",
+      "authors": "",
+      "published": "Jul 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-07-acceptor-molecule-upconverts-energy-green.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/green-light-in-purple.jpg",
+      "screen": "right"
+    },
+    {
       "title": "Crystal-design principle reveals how competing molecular forces control structure, color and phase transitions",
       "abstract": "Organic molecular crystals can respond to external stimuli such as heat, light, and mechanical force, making them attractive candidates for next-generation functional materials. However, predicting how multiple intermolecular interactions cooperate or compete to govern crystal behavior remains a major challenge.",
       "authors": "",
@@ -309,16 +319,6 @@
       "feedName": "Phys.org Analytics",
       "url": "https://phys.org/news/2026-06-abundant-catalyst-methane-valuable-liquid.html",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/abundant-catalyst-conv-1.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "How a sugar building block influences viral attachment",
-      "abstract": "Sialic acid is a natural sugar building block found on the surfaces of our cells. It acts as a protective and recognition molecule and plays a central role in the development of the nervous system. Following the modular principle, individual components can be swapped for new building blocks, thereby altering the properties of the sugar. Researchers at Hannover Medical School (MHH) have investigated how these building blocks reach their target. These fundamental findings are also significant because certain influenza and coronavirus strains specifically use modified sialic acids as receptors to enter host cells.",
-      "authors": "",
-      "published": "Jun 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-06-sugar-block-viral.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/how-a-sugar-building-b.jpg",
       "screen": "right"
     },
     {

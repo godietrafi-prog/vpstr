@@ -85,37 +85,33 @@
             width: 100%;
             height: 100%;
             overflow: hidden;
+            background-size: cover;
+            background-position: center;
+            background-repeat: no-repeat;
         }
-        .poster-wrap .img-bg {
+        .poster-wrap::before {
+            content: '';
             position: absolute;
-            inset: -8%;
-            width: 116%; height: 116%;
-            object-fit: cover;
-            filter: blur(28px) brightness(0.28) saturate(1.6);
-            transform-origin: center;
-        }
-        .poster-wrap .img-fg {
-            position: relative;
-            z-index: 1;
-            width: 100%; height: 100%;
-            object-fit: contain;
-            animation: ken-burns 48s ease-in-out both;
+            inset: -10%;
+            width: 120%; height: 120%;
+            background: inherit;
+            background-size: cover;
+            filter: blur(30px) brightness(0.26) saturate(1.7);
+            z-index: 0;
         }
         .poster-wrap::after {
             content: '';
             position: absolute;
             inset: 0;
-            background: radial-gradient(ellipse at center, transparent 55%, rgba(0,0,0,0.45) 100%);
+            background: radial-gradient(ellipse at center, transparent 52%, rgba(0,0,0,0.5) 100%);
             z-index: 2;
             pointer-events: none;
         }
-        @keyframes ken-burns {
-            from { transform: scale(1.0) translate(0%, 0%); }
-            to   { transform: scale(1.06) translate(-0.8%, -0.4%); }
-        }
-        @keyframes ken-burns-b {
-            from { transform: scale(1.0) translate(0%, 0%); }
-            to   { transform: scale(1.06) translate(0.8%, 0.4%); }
+        .poster-wrap img {
+            position: relative;
+            z-index: 1;
+            width: 100%; height: 100%;
+            object-fit: contain;
         }
 
         /* ── RSS card full-screen slides ── */
@@ -960,13 +956,9 @@
                 var src = item.src_right || item.src;
                 var wrap = document.createElement('div');
                 wrap.className = 'poster-wrap';
-                var bgImg = document.createElement('img');
-                bgImg.src = src; bgImg.className = 'img-bg'; bgImg.alt = '';
+                wrap.style.backgroundImage = 'url("' + src.replace(/"/g, '\\"') + '")';
                 var fgImg = document.createElement('img');
-                fgImg.src = src; fgImg.className = 'img-fg'; fgImg.alt = '';
-                fgImg.loading = 'eager';
-                fgImg.style.animationName = (i % 2 === 0) ? 'ken-burns' : 'ken-burns-b';
-                wrap.appendChild(bgImg);
+                fgImg.src = src; fgImg.alt = ''; fgImg.loading = 'eager';
                 wrap.appendChild(fgImg);
                 div.appendChild(wrap);
                 div.setAttribute('data-type', 'image');

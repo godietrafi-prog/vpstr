@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-01T17:44:18Z",
+  "updated": "2026-07-01T17:54:55Z",
   "items": [
     {
       "title": "A cognitive perspective for climate-smart agricultural policy in the Indo-Pacific region",
@@ -442,45 +442,13 @@
       "screen": "right"
     },
     {
-      "title": "Treatment outcomes of Mycobacterium simiae pulmonary disease: a retrospective multicenter cohort study",
+      "title": "Elucidating Trace Metals Aquatic Contamination Down-Wind from an Industrial Area to Remote Wetlands",
       "abstract": "",
-      "authors": "R. Najjar-Debbiny, R. Cohen, A. Arbel et al.",
-      "published": "2026",
-      "venue": "European Journal of Clinical Microbiology and Infectious Diseases",
-      "feedName": "Lab Research",
-      "url": "https://doi.org/10.1007/s10096-026-05468-7",
-      "image": "",
-      "screen": "both",
-      "lab_paper": true,
-      "researcher": {
-        "name": "Iris Zohar",
-        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=0qOb-iYAAAAJ&citpid=2"
-      }
-    },
-    {
-      "title": "Acute kidney injury following amikacin therapy: a retrospective cohort study.",
-      "abstract": "",
-      "authors": "Iris Zohar, Baruch Satra-Shenes, Dvir Melloul et al.",
-      "published": "2026",
-      "venue": "Journal of Antimicrobial Chemotherapy",
-      "feedName": "Lab Research",
-      "url": "https://doi.org/10.1093/jac/dkag188",
-      "image": "",
-      "screen": "both",
-      "lab_paper": true,
-      "researcher": {
-        "name": "Iris Zohar",
-        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=0qOb-iYAAAAJ&citpid=2"
-      }
-    },
-    {
-      "title": "Epidemiological and clinical predictors of murine typhus in hospitalized patients in central israel: association with urban construction",
-      "abstract": "",
-      "authors": "Iris Zohar, Inas Jarjoura, D. David et al.",
+      "authors": "I. Zohar, R. Bookman, Ekaterina Fishman",
       "published": "2025",
-      "venue": "European Journal of Clinical Microbiology and Infectious Diseases",
+      "venue": "Goldschmidt2025 abstracts",
       "feedName": "Lab Research",
-      "url": "https://doi.org/10.1007/s10096-025-05212-7",
+      "url": "https://doi.org/10.7185/gold2025.32044",
       "image": "",
       "screen": "both",
       "lab_paper": true,
@@ -490,29 +458,13 @@
       }
     },
     {
-      "title": "Improving urine culture appropriateness and reducing unnecessary testing through education and feedback in a hospital setting",
-      "abstract": "To evaluate the impact of an educational intervention on the appropriateness of urine culture indications and overall urine culture trends. A quasi-experimental study in six medical wards of an acute care hospital included a pre-intervention phase (Jan 2019–Dec 2021) and an intervention phase (Jan 2022–Dec 2023). The intervention comprised educational sessions, best practice guidelines, and feedback. Urine culture appropriateness was assessed by reviewing a sample of 360 records from both periods. Bivariate and multivariable logistic regression identified predictors of appropriate urine cultures, and time-series analysis assessed trends in culture rates. The median age of patients was 81 years (IQR 70.1–87.0), with no differences between the two periods in age, sex, residence in long-term care, or comorbidities. The appropriateness of urine cultures increased significantly from 43.9% (79 of 180 patients) in the pre-intervention period to 56.7% (102 of 180 patients) in the post-intervention period (p = 0.015). The intervention period (OR 1.66; 95% CI, 1.07–2.57; p = 0.023) and younger age (OR, 0.97; 95% CI, 0.95–0.99; p < 0.001) were significantly associated with improved appropriateness. Urine culture rates showed no significant pre-intervention trends (p = 0.19) but decreased by 18% post-intervention (p < 0.001). Younger age and the intervention period were associated with reduced unnecessary urine cultures and improved adherence to appropriate practices. These findings highlight the importance of ongoing educational initiatives and feedback in enhancing diagnostic steward…",
-      "authors": "Gilad Frankfurter, Yael Cohen, Iris Zohar et al.",
-      "published": "2025",
-      "venue": "BMC Infectious Diseases",
-      "feedName": "Lab Research",
-      "url": "https://doi.org/10.1186/s12879-025-11872-9",
-      "image": "",
-      "screen": "both",
-      "lab_paper": true,
-      "researcher": {
-        "name": "Iris Zohar",
-        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=0qOb-iYAAAAJ&citpid=2"
-      }
-    },
-    {
-      "title": "The impact of Boric Acid tubes on quantitative urinary bacterial cultures in hospitalized patients",
-      "abstract": "The accuracy of urine culture results can be affected by pre-analytical factors such as transport delays and storage conditions. The objectives of this study were to analyze urine collection practices and assess the impact of introducing boric acid tubes for urine collection on quantitative urinary bacterial cultures of hospitalized patients in medical wards. A quasi-experimental pre-post study conducted in an acute care facility. In the pre-intervention phase (2020–2021), urine samples were transported without preservatives at room temperature. In 2022 (post-intervention), we transitioned to boric acid transport tubes, evaluating its effect on significant bacterial growth (≥ 105 CFU/ml). Bivariate and multivariate analyses identified predictors of culture positivity. Throughout the duration of the study, a total of 12,660 urine cultures were analyzed. Date and time documentation was complete for 38.3% of specimens. Culture positivity was higher with longer processing times: positivity was 21.3% (220/1034) when specimens were processed within 4 h, 28.4% (955/3364) when processed in 4–24 h, and 32.9% (137/417) when processed after 24 h (p < 0.0001). For 4-24-hour processing, positivity decreased from 30.4% (704/2317) pre-intervention to 24.0% (251/1047) post-intervention (p < 0.001), with no significant changes in < 4 or ≥ 24-hour specimens. Stratified analysis by processing time revealed that the intervention was associated with reduced positivity only in cultures processed within 4–24 h (OR 0.80, 95% CI 0.67–0.94; p = 0.008). The introduction of boric acid transport tubes …",
-      "authors": "Debby Ben-David, Yael Cohen, Iris Zohar et al.",
+      "title": "Phosphorus in Balance: Evaluating the Costs and Benefits of a Circular Economy Approach",
+      "abstract": "This paper presents a comprehensive cost-benefit analysis of producing alternative phosphorus (P) fertilizers from recycled water treatment residuals (Fe-WTR) and cowshed effluents. The cost-benefit values of Fe-WTR are compared to the net costs of recycling P using a synthetic adsorbent (commonly used practice-layered double hydroxide, P-LDH) and the costs of commercial fertilizers. Dairy wastewater is used as a source of P. The cost of 1 ton P using the Fe-WTR process is €329. In contrast, synthetic adsorbents (P-LDH) incur significantly higher costs, amounting to €3329 per ton, underscoring the economic advantage of utilizing waste-derived materials. Adopting Fe-WTR fertilizer not only offers substantial cost savings by avoiding landfill fees (€40 per ton) and wastewater discharge fines (€500 per ton) but also reduces environmental impacts when compared to the use of commercial P fertilizers (non-recycled P). The Fe-WTR method mitigates eutrophication and pollution, presenting the dual benefit of cost-effectiveness and environmental protection, which exceeds the common P recycling practice (LDH). Our conclusions are based on production processes in Israel and compared to previous cost estimations at the world level, assessing the potential gain from such circular production of P globally. Recycling P from waste streams can be economically viable and environmentally preferable at small and large economic scales, supporting global sustainability goals.",
+      "authors": "H. E. Ganem, I. Zohar, M. Litaor et al.",
       "published": "2024",
-      "venue": "European Journal of Clinical Microbiology and Infectious Diseases",
+      "venue": "Journal of Environmental Science Studies",
       "feedName": "Lab Research",
-      "url": "https://doi.org/10.1007/s10096-024-04874-z",
+      "url": "https://doi.org/10.20849/jess.v7i2.1469",
       "image": "",
       "screen": "both",
       "lab_paper": true,
@@ -522,61 +474,13 @@
       }
     },
     {
-      "title": "Genome sequence of two novel virulent clinical strains of Burkholderia pseudomallei isolated from acute melioidosis cases imported to Israel from India and Thailand",
-      "abstract": "Objective Burkholderia pseudomallei , the etiological cause of melioidosis, is a soil saprophyte endemic in South-East Asia, where it constitutes a public health concern of high-priority. Melioidosis cases are sporadically identified in nonendemic areas, usually associated with travelers or import of goods from endemic regions. Due to extensive intercontinental traveling and the anticipated climate change-associated alterations of the soil bacterial flora, there is an increasing concern for inadvertent establishment of novel endemic areas, which may expand the global burden of melioidosis. Rapid diagnosis, isolation and characterization of B. pseudomallei isolates is therefore of utmost importance particularly in non-endemic locations. Data description We report the genome sequences of two novel clinical isolates (MWH2021 and MST2022) of B. pseudomallei identified in distinct acute cases of melioidosis diagnosed in two individuals arriving to Israel from India and Thailand, respectively. The data includes preliminary genetic analysis of the genomes determining their phylogenetic classification in rapport to the genomes of 131 B. pseudomallei strains documented in the NCBI database. Inspection of the genomic data revealed the presence or absence of loci encoding for several documented virulence determinants involved in the molecular pathogenesis of melioidosis. Virulence analysis in murine models of acute or chronic melioidosis established that both strains belong to the highly virulent class of B. pseudomalleii .",
-      "authors": "I. Cohen-Gihon, G. Zaide, Sharon Amit et al.",
-      "published": "2024",
-      "venue": "BMC Genomic Data",
-      "feedName": "Lab Research",
-      "url": "https://doi.org/10.1186/s12863-024-01225-x",
-      "image": "",
-      "screen": "both",
-      "lab_paper": true,
-      "researcher": {
-        "name": "Iris Zohar",
-        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=0qOb-iYAAAAJ&citpid=2"
-      }
-    },
-    {
-      "title": "Amikacin treatment in patients with Enterobacterales bacteraemia: impact of MIC on mortality.",
-      "abstract": "BACKGROUND\nRecently, breakpoints of Enterobacterales to amikacin were changed from MIC ≤ 16 mg/L to MIC ≤ 4 mg/L based mainly on laboratory data with little supporting clinical evidence. Our aim was to investigate the relation between MIC of Enterobacterales to amikacin and mortality among patients with Enterobacterales bacteraemia from a urinary tract source treated with amikacin.\n\n\nPATIENTS AND METHODS\nThis retrospective, single-centre study included patients with Enterobacterales urinary source bacteraemia treated with amikacin, with Low (MIC ≤ 4 mg/L) and High (MIC 8 or 16 mg/L) MICs. A cohort of patients treated with ertapenem was used to assess if amikacin MIC is a marker of severity independent of antimicrobial treatment. The primary outcome was 30-day mortality. Multivariate logistic regression analysis was done to assess risk factors for mortality.\n\n\nRESULTS\nWe included 85 patients, 46 (54.1%) were male, and mean age was 79.0 years (SD 11.7). Sixty-one patients (71.8%) had Low MIC and 24 (28.2%) had High MIC. Thirty-day mortality was 8.2% and 29.2% in the Low and High MIC groups, respectively (P = 0.031). Risk factors for 30-day mortality were age, infection by Enterobacterales other than Escherichia coli and high amikacin MIC. In a cohort of 88 patients treated with ertapenem, amikacin MIC was not associated with 30-day mortality.\n\n\nCONCLUSIONS\nWe demonstrated a relation between higher amikacin MIC levels (8 and 16 mg/L) and increased 30-day mortality in patients treated with amikacin for bacteraemia secondary to a urinary source. These findings support the new CL…",
-      "authors": "Iris Zohar, D. Ben David, Orna Schwartz et al.",
-      "published": "2024",
-      "venue": "Journal of Antimicrobial Chemotherapy",
-      "feedName": "Lab Research",
-      "url": "https://doi.org/10.1093/jac/dkae343",
-      "image": "",
-      "screen": "both",
-      "lab_paper": true,
-      "researcher": {
-        "name": "Iris Zohar",
-        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=0qOb-iYAAAAJ&citpid=2"
-      }
-    },
-    {
-      "title": "Blood stream Infections in chronic hemodialysis patients - characteristics and outcomes",
-      "abstract": "Bloodstream Infections (BSI) are a major cause of death and hospitalization among hemodialysis (HD) patients. The rates of BSI among HD patients vary and are influenced by local patient and pathogen characteristics. Modifications in local infection prevention protocols in light of active surveillance of BSI has been shown to improve clinical outcomes. The aim of this study was to further explore factors associated with BSI in a contemporary cohort of HD patients at a public teaching hospital dialysis center in Israel. This was a retrospective cohort study of HD patients with a BSI in the years 2014 to 2018. The primary outcome was the occurrence of BSI. Secondary outcomes were to describe the causative pathogens of BSI, and to assess for risk factors for BSI, and mortality. Included were 251 patients. The mean age was 68.5 ± 13.4 years, 66.9% were male. The mean time from initiation of dialysis was 34.76 ± 40.77 months, interquartile range (IQR) 1-47.5 months and the follow up period of the cohort was 25.17 ± 15.9 months. During the observation period, 44 patients (17.5%) developed 54 BSI events, while 10 of them (3.9% of the whole cohort) developed recurrent BSI events. Gram-negative microorganisms caused 46.3% of all BSI events. 31.4% of these BSI were caused by resistant bacteria. In a multivariate logistic regression analysis, patients receiving dialysis through a central line had a significantly increased risk for BSI adjusted Odds Ratio (aOR) 3.907, p = 0.005, whereas patients’ weight was mildly protective (aOR 0.971, p = 0.024). We noted an increased prevalence of gr…",
-      "authors": "M. Schamroth Pravda, Yasmin Maor, Konstantin Brodsky et al.",
-      "published": "2024",
-      "venue": "BMC Nephrology",
-      "feedName": "Lab Research",
-      "url": "https://doi.org/10.1186/s12882-023-03442-5",
-      "image": "",
-      "screen": "both",
-      "lab_paper": true,
-      "researcher": {
-        "name": "Iris Zohar",
-        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=0qOb-iYAAAAJ&citpid=2"
-      }
-    },
-    {
-      "title": "Current management strategies for multidrug-resistant Gram-negative urinary tract infections, a focus on aminoglycosides monotherapy",
+      "title": "Factors contributing to phosphorus sorption reversibility from iron-desalinization treatment residue (Fe-DTR)",
       "abstract": "",
-      "authors": "Iris Zohar, Yasmin Maor, Neta Shirin et al.",
+      "authors": "H. E. Ganem, M. Litaor, O. Reichmann et al.",
       "published": "2024",
-      "venue": "CMI Communications",
+      "venue": "Journal of Environmental Chemical Engineering",
       "feedName": "Lab Research",
-      "url": "https://doi.org/10.1016/j.cmicom.2024.105039",
+      "url": "https://doi.org/10.1016/j.jece.2024.114926",
       "image": "",
       "screen": "both",
       "lab_paper": true,
@@ -586,13 +490,45 @@
       }
     },
     {
-      "title": "1396. Performance of a Telemedicine Travel Clinic",
-      "abstract": "Abstract Background International travel has become easier and more accessible, with increasing numbers of people embarking trips to diverse destinations worldwide. This trend is accompanied by elderly individuals and families venturing to remote locations, as well as digital nomads. As a result, there is a growing demand for pre-travel medical consultations, which current medical resources in Israel are not able to meet. To address this, we launched a telemedicine-based travel clinic that aims to improve accessibility for Israeli residents. Methods The digital clinic is located within a 700-bed medical center in central Israel and offers telemedicine consultations scheduled online. After the appointment, customers receive recommendations and prescriptions via email. They can then make an appointment to receive vaccinations at our on-site in person clinic or at other travel clinics in Israel. From February 1st to March 31st, 2023, we analyzed all cases that receive a digital consultation. Data included demographics, travel destinations, vaccination recommendations, and attendance to the in-person vaccination clinic. Results 239 customers received a telemedicine consultation. Mean age was 33±17 years, 122 (51.0%) were females, 40 (16.7%) were minors. 18.4%44 () resided outside the pooling area of the hospital. Of these, 81.8%36 () lived in central Israel but had closer clinics to their place of residency requiring personal attendance, 18.2%8 () lived in the North or South of Israel (figure 1). Travel destinations are presented in figure 2. 219 (91.6%) customers received a re…",
-      "authors": "Adam Pomeranz, Iris Zohar, Gabriele Caliari et al.",
+      "title": "In the search for efficient alternative phosphorus fertilizers: evaluation of potential synthetic and recycled phosphorus adsorbents through chemical behavior, soil microbiota responses and lettuce growth",
+      "abstract": "",
+      "authors": "I. Zohar, D. DiSegni, H. E. Ganem et al.",
+      "published": "2024",
+      "venue": "Goldschmidt2024 abstracts",
+      "feedName": "Lab Research",
+      "url": "https://doi.org/10.46427/gold2024.24032",
+      "image": "",
+      "screen": "both",
+      "lab_paper": true,
+      "researcher": {
+        "name": "Iris Zohar",
+        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=0qOb-iYAAAAJ&citpid=2"
+      }
+    },
+    {
+      "title": "The impact of alternative recycled and synthetic phosphorus sources on plant growth and responses, soil interactions and sustainable agriculture - lettuce (Lactuca sativa) as a case model.",
+      "abstract": "This research assesses the efficacy of two phosphorus (P) adsorbents as alternative fertilizers in promoting lettuce growth. A synthetic Mg/Al-layered double hydroxide (LDH) and an iron-based recycled water treatment residual (Fe-WTR), both enriched with P from dairy wastewater and added at three dosage levels. We hypothesized that the adsorbents' physicochemical nature will overshadow the biological efforts in the plant ecosystem to increase P solubility, impacting plant growth, nutritional composition, and metabolite profiles. Fe-WTR significantly enhanced lettuce biomass compared to LDH. Yet, elemental analysis revealed higher or equal P concentrations in the low-biomass LDH plants relative to other treatments. Phosphorus uptake appears to influence the assimilation of other nutrients that divided into two groups: calcium, magnesium, zinc, and copper with notable correlations to P and nitrogen, iron, aluminum, vanadium and manganese with low correlations to P. Conversely, P retained poor correlation with most metabolites whereas iron showed a higher correlation with numerous metabolites. Analysis of metabolites, encompassing carbohydrates, the Krebs cycle, amino acids, nucleic acids, and stress and regulatory pathways, revealed diminished levels in the LDH treatments. Overall, carbon assimilation (plant growth) was more effectively predicted by soil P availability (adsorbent type and dose) rather than by cellular P concentration, suggesting root signaling was at play, influencing carbohydrate translocation to the roots. Diminished levels of cellular sugars further affect…",
+      "authors": "I. Zohar, H. E. Ganem, D. DiSegni et al.",
+      "published": "2024",
+      "venue": "Science of the Total Environment",
+      "feedName": "Lab Research",
+      "url": "https://doi.org/10.1016/j.scitotenv.2024.174719",
+      "image": "",
+      "screen": "both",
+      "lab_paper": true,
+      "researcher": {
+        "name": "Iris Zohar",
+        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=0qOb-iYAAAAJ&citpid=2"
+      }
+    },
+    {
+      "title": "Optimization of phosphorus removal from agro-wastewater by iron desalinization treatment residue (Fe-DTR)",
+      "abstract": "",
+      "authors": "H. E. Ganem, M. Iggy Litaor, O. Reichmann et al.",
       "published": "2023",
-      "venue": "Open Forum Infectious Diseases",
+      "venue": "Journal of Environmental Chemical Engineering",
       "feedName": "Lab Research",
-      "url": "https://doi.org/10.1093/ofid/ofad500.1233",
+      "url": "https://doi.org/10.1016/j.jece.2023.111385",
       "image": "",
       "screen": "both",
       "lab_paper": true,
@@ -602,61 +538,13 @@
       }
     },
     {
-      "title": "Impact of intensified prevention measures on rates of hospital-acquired bloodstream infection in medical-surgical intensive care units, Israel, 2011 to 2019",
-      "abstract": "Background Central line-associated bloodstream infection (CLABSI) is among the most common preventable infectious complications in patients in intensive care units (ICU). In 2011, the Israel National Center for Infection Control initiated a nationwide CLABSI prevention programme. Aim To evaluate the impact of different components of the programme on CLABSI and non-CLABSI rates in medical-surgical ICUs. Methods We included data collected from all 29 medical-surgical ICUs in Israel from November 2011 to December 2019. The study period was divided into three phases: I (baseline, initial CLABSI prevention guidelines introduced, initial feedback on rates provided), II (initial guidelines widely implemented, surveillance undertaken, feedback continued) and III (after implementation of additional prevention measures). Interrupted time series analysis was used to compare CLABSI and non-CLABSI rates during the three phases. Results The pooled mean (SD) incidence of CLABSI per 1,000 central line-days dropped from 7.4 (0.38) in phase I to 2.1 (0.13) in phase III (p < 0.001). The incidence rate ratio (IRR) was 0.63 (95% CI: 0.51–0.79) between phases I and II, and 0.78 (95% CI: 0.59–1.02) between phases II and III. The pooled mean (SD) incidence of non-CLABSI per 1,000 patient-days declined from 5.3 (0.24) in phase I to 3.4 (0.13) in phase III (p < 0.001). Conclusion National CLABSI prevention guidelines, surveillance and feedback resulted in significant reductions in CLABSI and non-CLABSI rates. In the wake of further interventions, significant reduction was achieved in ICUs reporting …",
-      "authors": "Debby Ben-David, Azza Vaturi, Liat Wulffhart et al.",
+      "title": "Biogeochemical impacts on soil phosphorus and other macro- and micro elements solubility, ratios and forms during heatwaves",
+      "abstract": "Increased frequency and amplitude of extreme heat events can affect soil temperature, and biogeochemical processes. High temperatures may have contradicting geochemical and biological effects on essential elements solubility and forms. Endothermic behavior of minerals and oxides results in decreased solubility with increased temperature, while bio-mineralization is stimulated in response to high temperature. To elucidate heatwave impacts on soil biogeochemical processes, we performed a controlled soil incubation experiment and a field survey. Wet and dry alluvial soil sets were incubated at background temperature (33°C) for two weeks and then, a sequence of three heat events was induced (41°C/33°C alternations, five days each) followed by two short events of extreme heat (48°C for two days). Most soil indices changed trends after about 25-30 days. At the first part of the period, P, Al, Fe appeared to reflect endothermic behavior of (hydr)oxides and minerals in the dry soil (i.e., sorbed P was likely dependent on Fe (hydr)oxides dissolution), while trends of Fe/Al in the wet soil followed the dissolved organic C trend. Phosphatases enzymatic activities fluctuated positively with temperature, emphasizing the activity of residual extracellular enzymes sorbed to soil particles (dry soil) in addition to living cells excreted enzymes (wet soil). With the 3 rd heatwave, soluble P dramatically fluctuated with temperature, suggesting a sequence of temperature-enhanced bio-mineralization, releasing P to the soil solution, counteracted by geochemical sorption, removing P from solutio…",
+      "authors": "I. Zohar, M. Khoury, Yael Kirshenbaum et al.",
       "published": "2023",
-      "venue": "Euro surveillance : bulletin Europeen sur les maladies transmissibles = European communicable disease bulletin",
+      "venue": "Goldschmidt2023 abstracts",
       "feedName": "Lab Research",
-      "url": "https://doi.org/10.2807/1560-7917.ES.2023.28.25.2200688",
-      "image": "",
-      "screen": "both",
-      "lab_paper": true,
-      "researcher": {
-        "name": "Iris Zohar",
-        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=0qOb-iYAAAAJ&citpid=2"
-      }
-    },
-    {
-      "title": "1883. Features and Outcomes of Tuberculosis in Documented versus Undocumented Migrants in Israel",
-      "abstract": "Abstract Background In countries with low tuberculosis (TB) incidence, most TB cases are observed in foreign-born individuals, including permanent immigrants, and undocumented migrants. There is limited information regarding the differences within these groups. In Israel, where TB prevalence is < 2 cases/100,000 persons, 85% of TB cases occur in foreign-born people. We examined risk factors, clinical course, and outcomes between documented and undocumented immigrants hospitalized with active TB. Methods A retrospective analysis of medical records from foreign-born active TB patients admitted to a 700-bed hospital in the center of Israel between January 1st, 2019, to March 31st, 2023. We included patients who initiated TB treatment during hospitalization and were discharged by April 2023. Undocumented migrants were defined as non-Israeli citizens without medical insurance. We summarized their clinical characteristics, course, and outcomes. Results 48 patients were included, 21 (43.8%) were undocumented migrants. Undocumented migrants were younger (mean age 40.9 vs. 53.0 years, P< 0.001) and predominantly arrived from Africa (95.2% vs. 29.6%, P< 0.001). The prevalence of HIV was similar between both groups. Presenting symptoms, duration of symptoms before admission, rates of bilateral and cavitary pulmonary disease, and extrapulmonary disease were comparable. Multi-drug resistant TB was rare (0% vs. 11.5%, P=0.242). Among patients with positive sputum smears and follow-up, undocumented migrants experienced a longer time to achieve negative sputum cultures (76.0 days vs. 36.8 …",
-      "authors": "Iris Zohar, Adam Pomeranz, Orna Schwartz Harari et al.",
-      "published": "2023",
-      "venue": "Open Forum Infectious Diseases",
-      "feedName": "Lab Research",
-      "url": "https://doi.org/10.1093/ofid/ofad500.1711",
-      "image": "",
-      "screen": "both",
-      "lab_paper": true,
-      "researcher": {
-        "name": "Iris Zohar",
-        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=0qOb-iYAAAAJ&citpid=2"
-      }
-    },
-    {
-      "title": "A Randomized Controlled Study Assessing Convalescent Immunoglobulins vs Convalescent Plasma for Hospitalized Patients With Coronavirus 2019",
-      "abstract": "Abstract Background It is unknown whether convalescent immunoglobulins (cIgGs) are better than convalescent plasma (CP) for patients with coronavirus 2019 (COVID-19). Methods In this randomized controlled trial, we assigned high risk COVID-19 patients with ≤10 days of symptoms, to receive cIgGs or CP. The primary endpoint was improvement on day 14 according to the World Health Organization scale. Secondary endpoints were survival on day 14, and improvement, survival, and percent of ventilated patients on day 28, and treatment response in unvaccinated and vaccinated patients. Results A total of 319 patients were included: 166 received cIgGs and 153 CP. Median age was 64 to 66 years. A total of 112 patients (67.5%) in the cIgG group and 103 patients (67.3%) in the CP group reached the primary endpoint. Difference between groups was 0.1 (95% confidence interval, −10.1 to 10.4; P = .026), failing to reach noninferiority. More patients receiving cIgG improved by day 28 (136 patients [81.9%] and 108 patients [70.6%], respectively; 95% confidence interval, 1.9–20.7; P < .001; for superiority P = .018). Seventeen patients in the cIgG group (10.2%) and 25 patients (16.3%) in the CP group required mechanical ventilation (P = .136). Sixteen (9.6%) and 23 (15%) patients, respectively, died (P = .172). More unvaccinated patients improved by day 28 in the cIgG group (84.1% vs 66.1%; P = .024), and survival was better in the cIgG group (89.9% vs 77.4%; P = .066). Conclusions cIgGs failed to reach the primary noninferiority endpoint on day 14 but was superior to CP on day 28. Survival and …",
-      "authors": "Y. Maor, E. Shinar, M. Izak et al.",
-      "published": "2023",
-      "venue": "Clinical Infectious Diseases",
-      "feedName": "Lab Research",
-      "url": "https://doi.org/10.1093/cid/ciad305",
-      "image": "",
-      "screen": "both",
-      "lab_paper": true,
-      "researcher": {
-        "name": "Iris Zohar",
-        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=0qOb-iYAAAAJ&citpid=2"
-      }
-    },
-    {
-      "title": "Short- and long-term mortality in patients with urosepsis caused by Escherichia coli susceptible and resistant to 3rd generation cephalosporins",
-      "abstract": "Background The aim of this study was to compare short- and long-term mortality among patients with urosepsis caused by Escherichia coli susceptibile (EC-SC) and resistant (EC-RC) to 3rd generation cephalosporins. Methods A retrospective cohort study that included all patients with E. coli urosepsis admitted to a 700-bed hospital from January 2014 until December 2019. Mortality up to 30 days, 6 months and 1 year was assessed using logistic multivariate regression analysis and Cox regression analysis. Results A total of 313 adult were included, 195 with EC-SC and 118 patients with EC-RC. 205 were females (74%), mean age was 79 (SD 12) years. Mean Charlson score was 4.93 (SD 2.18) in the EC-SC group and 5.74 (SD 1.92) in the EC-RC group. Appropriate empiric antibiotic therapy was initiated in 245 (78.3%) patients, 100% in the EC-SC group but only 42.5% in the EC-RC group. 30-day mortality occurred in 12 (6.3%) of EC-SC group and 15 (12.7%) in the EC-RC group. Factors independently associated with 30-day mortality were Charlson score, Pitt bacteremia score, fever upon admission and infection with a EC-RC. Appropriate antibiotic therapy was not independently associated with 30-day mortality. Differences in mortality between groups remained significant one year after the infection and were significantly associated with the Charlson co-morbidity score. Conclusions Mortality in patients with urosepsis due to E. coli is highly affected by age and comorbidities. Although mortality was higher in the EC-RC group, we could not demonstrate an association with inappropriate empirical anti…",
-      "authors": "Milena Tocut, Iris Zohar, Orna Schwartz et al.",
-      "published": "2022",
-      "venue": "BMC Infectious Diseases",
-      "feedName": "Lab Research",
-      "url": "https://doi.org/10.1186/s12879-022-07538-5",
+      "url": "https://doi.org/10.7185/gold2023.18565",
       "image": "",
       "screen": "both",
       "lab_paper": true,
@@ -759,6 +647,38 @@
       "researcher": {
         "name": "Ofir Benjamin",
         "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=FsjV0oIAAAAJ&citpid=1"
+      }
+    },
+    {
+      "title": "Phosphorus in Balance: Evaluating the Costs and Benefits of a Circular Economy Approach",
+      "abstract": "This paper presents a comprehensive cost-benefit analysis of producing alternative phosphorus (P) fertilizers from recycled water treatment residuals (Fe-WTR) and cowshed effluents. The cost-benefit values of Fe-WTR are compared to the net costs of recycling P using a synthetic adsorbent (commonly used practice-layered double hydroxide, P-LDH) and the costs of commercial fertilizers. Dairy wastewater is used as a source of P. The cost of 1 ton P using the Fe-WTR process is €329. In contrast, synthetic adsorbents (P-LDH) incur significantly higher costs, amounting to €3329 per ton, underscoring the economic advantage of utilizing waste-derived materials. Adopting Fe-WTR fertilizer not only offers substantial cost savings by avoiding landfill fees (€40 per ton) and wastewater discharge fines (€500 per ton) but also reduces environmental impacts when compared to the use of commercial P fertilizers (non-recycled P). The Fe-WTR method mitigates eutrophication and pollution, presenting the dual benefit of cost-effectiveness and environmental protection, which exceeds the common P recycling practice (LDH). Our conclusions are based on production processes in Israel and compared to previous cost estimations at the world level, assessing the potential gain from such circular production of P globally. Recycling P from waste streams can be economically viable and environmentally preferable at small and large economic scales, supporting global sustainability goals.",
+      "authors": "H. E. Ganem, I. Zohar, M. Litaor et al.",
+      "published": "2024",
+      "venue": "Journal of Environmental Science Studies",
+      "feedName": "Lab Research",
+      "url": "https://doi.org/10.20849/jess.v7i2.1469",
+      "image": "",
+      "screen": "both",
+      "lab_paper": true,
+      "researcher": {
+        "name": "Adi Jonas-Levi",
+        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=oX6_j4gAAAAJ&citpid=2"
+      }
+    },
+    {
+      "title": "The impact of alternative recycled and synthetic phosphorus sources on plant growth and responses, soil interactions and sustainable agriculture - lettuce (Lactuca sativa) as a case model.",
+      "abstract": "This research assesses the efficacy of two phosphorus (P) adsorbents as alternative fertilizers in promoting lettuce growth. A synthetic Mg/Al-layered double hydroxide (LDH) and an iron-based recycled water treatment residual (Fe-WTR), both enriched with P from dairy wastewater and added at three dosage levels. We hypothesized that the adsorbents' physicochemical nature will overshadow the biological efforts in the plant ecosystem to increase P solubility, impacting plant growth, nutritional composition, and metabolite profiles. Fe-WTR significantly enhanced lettuce biomass compared to LDH. Yet, elemental analysis revealed higher or equal P concentrations in the low-biomass LDH plants relative to other treatments. Phosphorus uptake appears to influence the assimilation of other nutrients that divided into two groups: calcium, magnesium, zinc, and copper with notable correlations to P and nitrogen, iron, aluminum, vanadium and manganese with low correlations to P. Conversely, P retained poor correlation with most metabolites whereas iron showed a higher correlation with numerous metabolites. Analysis of metabolites, encompassing carbohydrates, the Krebs cycle, amino acids, nucleic acids, and stress and regulatory pathways, revealed diminished levels in the LDH treatments. Overall, carbon assimilation (plant growth) was more effectively predicted by soil P availability (adsorbent type and dose) rather than by cellular P concentration, suggesting root signaling was at play, influencing carbohydrate translocation to the roots. Diminished levels of cellular sugars further affect…",
+      "authors": "I. Zohar, H. E. Ganem, D. DiSegni et al.",
+      "published": "2024",
+      "venue": "Science of the Total Environment",
+      "feedName": "Lab Research",
+      "url": "https://doi.org/10.1016/j.scitotenv.2024.174719",
+      "image": "",
+      "screen": "both",
+      "lab_paper": true,
+      "researcher": {
+        "name": "Adi Jonas-Levi",
+        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=oX6_j4gAAAAJ&citpid=2"
       }
     },
     {

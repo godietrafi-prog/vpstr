@@ -207,7 +207,7 @@ RESEARCHERS = [
     {"name": "Giora Rytwo",      "s2_id": "4960911",     "photo": "media/photos/giora_rytwo.jpg"},
 ]
 
-_S2_FIELDS = "title,year,venue,authors,abstract,externalIds"
+_S2_FIELDS = "title,year,venue,authors,abstract,externalIds,citationCount"
 
 
 def fetch_s2_papers(researcher: dict, cutoff_year: int) -> list:
@@ -249,14 +249,16 @@ def fetch_s2_papers(researcher: dict, cutoff_year: int) -> list:
             continue  # no abstract = no slide, same rule as RSS articles
         if len(abstract) > ABSTRACT_MAX:
             abstract = abstract[:ABSTRACT_MAX] + "…"
+        citations = p.get("citationCount") or 0
         papers.append({
-            "title":      title,
-            "abstract":   abstract,
-            "authors":    authors_str,
-            "published":  str(year),
-            "venue":      (p.get("venue") or "").strip(),
-            "feedName":   "Lab Research",
-            "url":        f"https://doi.org/{doi}" if doi else "",
+            "title":         title,
+            "abstract":      abstract,
+            "authors":       authors_str,
+            "published":     str(year),
+            "venue":         (p.get("venue") or "").strip(),
+            "feedName":      "Lab Research",
+            "citationCount": citations,
+            "url":           f"https://doi.org/{doi}" if doi else "",
             "image":      "",
             "screen":     "both",
             "lab_paper":  True,

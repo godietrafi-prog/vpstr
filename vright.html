@@ -635,11 +635,14 @@
             justify-content: space-between;
             padding: 0 2%;
             border-top: 2px solid #4EC96A;
+            overflow: hidden;
         }
         #bottom-bar img#logo {
             height: 50%;
             width: auto;
             object-fit: contain;
+            flex-shrink: 1;
+            min-width: 0;
         }
         #info-right {
             display: flex;
@@ -647,6 +650,8 @@
             gap: 0.45em;
             color: #2e8b47;
             line-height: 1;
+            flex-shrink: 0;
+            white-space: nowrap;
         }
         #weather-icon { font-size: 1.4em; }
         #weather-temp {

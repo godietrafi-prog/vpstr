@@ -377,7 +377,7 @@
             flex-direction: column;
             justify-content: flex-start;
             align-items: flex-start;
-            padding: 6% 9% 0 9%;
+            padding: 11% 9% 0 9%;
             overflow: hidden;
         }
         /* citation badge — right side of top row (flex, no absolute) */
@@ -1242,7 +1242,7 @@
     function fetchWeather() {
         var req = new XMLHttpRequest();
         req.open('GET', 'https://api.open-meteo.com/v1/forecast' +
-            '?latitude=33.26&longitude=35.57' +
+            '?latitude=33.261&longitude=35.574' +
             '&current=temperature_2m,weather_code&timezone=Asia%2FJerusalem');
         req.timeout = 10000;
         req.onload = function() {

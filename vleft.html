@@ -1188,6 +1188,20 @@
     }
     updateClock();
 
+    // ── Auto-fullscreen when ?signage is in URL ──────────────────────────
+    if (/[?&]signage/.test(window.location.search)) {
+        function requestFS() {
+            if (document.fullscreenElement) return; // already fullscreen (kiosk)
+            var el = document.documentElement;
+            (el.requestFullscreen || el.webkitRequestFullscreen ||
+             el.mozRequestFullScreen || el.msRequestFullscreen || function(){}).call(el);
+        }
+        // Try immediately (succeeds in some browsers), then on first user gesture
+        try { requestFS(); } catch(e) {}
+        document.addEventListener('click', requestFS, { once: true });
+        document.addEventListener('keydown', requestFS, { once: true });
+    }
+
     </script>
 </body>
 </html>

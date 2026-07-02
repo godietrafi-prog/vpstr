@@ -63,12 +63,11 @@
             left: 0;
             right: 0;
             bottom: 0;
-            display: flex;
+            display: none;
             align-items: center;
             justify-content: center;
-            opacity: 0;
         }
-        .slide.active { opacity: 1; }
+        .slide.active { display: flex; }
 
         .slide video {
             width: 100%;
@@ -1034,11 +1033,11 @@
         current = pos;
         var el = poolEls[playlist[current]];
 
-        // Load current + 2 ahead; unload 3 steps back to free RAM
-        for (var k = 0; k <= 2; k++)
+        // Load current + 1 ahead; unload 2 steps back to free RAM
+        for (var k = 0; k <= 1; k++)
             loadSlideImages(playlist[(current + k) % playlist.length]);
-        if (current >= 3)
-            unloadSlideImages(playlist[current - 3]);
+        if (current >= 2)
+            unloadSlideImages(playlist[current - 2]);
 
         el.classList.add('active');
 

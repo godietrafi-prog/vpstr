@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-02T13:40:55Z",
+  "updated": "2026-07-02T16:01:04Z",
   "items": [
     {
       "title": "A cognitive perspective for climate-smart agricultural policy in the Indo-Pacific region",
@@ -402,42 +402,42 @@
       "screen": "right"
     },
     {
+      "title": "Gut microbiota as modulators of obesity and overweight: a registry-based systematic review of clinical trial evidence",
+      "abstract": "BackgroundBackground: Obesity is a global epidemic that remains inadequately addressed by healthcare systems. The gut microbiota offers a promising metabolic target, yet systematic reviews of clinical trials on microbiome modulators for obesity are scarce.MethodsUsing the Trialtrove database (September 16, 2025), we performed a registry-based systematic review with the strategy: “(Disease: Obesity) AND (Mechanism: Microbiome modulator).” We included interventional trials targeting overweight/obese populations with defined microbiome-modulating mechanisms; observational and withdrawn/suspended trials were excluded. Extracted data covered phase, status, intervention type, sponsor, location, and participant characteristics. Descriptive analyses used R software (v4.4.3).ResultsAmong 217 included trials, 131 (60%) were completed and 37 (17%) ongoing., Academic institutions led sponsorship (157 trials), followed by commercial (45) and government (14). Trials rose sharply after 2011, peaking at 34 in 2023 (over 80% of Phase IV trials that year). Probiotics dominated (141 trials), followed by synbiotics (21) and FMT (22). China (52) and the US (24) led research. Probiotics prevailed in Phases III/IV, whereas FMT concentrated in Phases II/IV with a higher termination rate.ConclusionsThis study reveals a rapidly growing yet uneven landscape. Probiotics remain the primary focus, academic institutions the main sponsors, and China/US the core hubs. The field has entered a post-marketing evaluation phase dominated by Phase IV studies. Limitations include reliance on a single database and…",
+      "authors": "Bolun Jiao, Sheng Jiang",
+      "published": "Jul 2026",
+      "feedName": "Frontiers Nutrition",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1865785",
+      "image": "",
+      "screen": "right"
+    },
+    {
+      "title": "Dynamic evolution of flavor profiles and antioxidant capacities in black rice tea during continuous roasting",
+      "abstract": "In this study, the dynamic evolution of functional components and volatile flavor profiles in black rice tea across different roasting times (90 °C, 0, 5, 10, 20, and 30 min) was investigated. Physicochemical assays, electronic nose, and gas chromatography–ion mobility spectrometry (GC–IMS) were employed to characterize the quality transformation mechanisms. The results indicated that while total flavonoids decreased continuously during heating, total anthocyanins reached a maximum at 20 min. The overall antioxidant capacity remained stable and was likely maintained by the compensatory generation of Maillard reaction products. E-nose analysis revealed an expansion of volatile aromas accompanied by a continuous depletion of water-soluble taste substrates. GC–IMS identified 46 volatile organic compounds and revealed a distinct sequential transition: initial raw-odor alcohols dissipated rapidly within the first 5 min; aliphatic aldehydes and ketones accumulated from 10 to 20 min via lipid oxidation; and roast-associated heterocyclic compounds, particularly 2-pentylfuran, peaked at 20 min through advanced Maillard reactions. Principal component analysis (PCA) confirmed the clear differentiation of these roasting stages. Overall, roasting for 20 min was recommended to achieve optimal quality of black rice tea. These results may provide certain references for quality control of black rice tea during roasting in the future.",
+      "authors": "Weiping Zhang, Yueling Xu, Jiani Liu et al.",
+      "published": "Jul 2026",
+      "feedName": "Frontiers Nutrition",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1879933",
+      "image": "",
+      "screen": "right"
+    },
+    {
+      "title": "Study on the migration regularity of volatile flavor compounds during the roasting process of Tartary buckwheat tea based on HS-GC-IMS and chemometrics",
+      "abstract": "Roasting is a critical processing step that strongly influences the chemical composition, volatile profile, and overall quality of Tartary buckwheat tea. This study investigated the dynamic changes in volatile flavor compounds during roasting using headspace-gas chromatography-ion mobility spectrometry (HS-GC-IMS) combined with chemometric analysis. Roasting significantly increased the contents of total flavonoids (2.29 g/100 g) and protein (15.67 g/100 g), while reducing the moisture content (5.77 g/100 g), particularly at stages X4-X6 (15–25 min). A total of 79 volatile compounds were identified by HS-GC-IMS, among which alcohols and ketones were predominant. Stages X3-X5 (10–20 min) were identified as the critical period for flavor accumulation. Partial least squares discriminant analysis (PLS-DA) identified 13 key discriminant compounds, including propyl acetate, hexyl butyrate, isoamyl formate, sec-butyl acetate, propanal, acrolein, 3-methyl-2-butenal, (E)-2-heptenal, methyl heptenone, 3-methyl-2-pentanone, 2-hexanone, sec-butanol, and 1-octene, as potential flavor markers. These findings clarify the roasting-dependent flavor evolution of Tartary buckwheat tea and provide a theoretical basis for process optimization to improve aroma quality.",
+      "authors": "Xianzhou Zhu, Li Zhang, Zou Dai et al.",
+      "published": "Jul 2026",
+      "feedName": "Frontiers Nutrition",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1777132",
+      "image": "",
+      "screen": "right"
+    },
+    {
       "title": "Using digital technology to ensure food supply stability: a case study of achieving food security in China",
       "abstract": "BackgroundUnder the combined pressures of frequent extreme climate events and the spread of unilateral trade policies, global agricultural industry and supply chains are facing an unprecedented crisis. Digital technology (DT) is a key driver of the new technological revolution and is profoundly reshaping food production, distribution, and consumption. However, its comprehensive impact on food security and the underlying mechanisms remain unclear.MethodsThis study systematically elaborates the theoretical logic through which digital technology enhances food security. Using panel data from 285 prefecture-level cities in China from 2011 to 2024, we construct an innovative urban DT composite index based on the number of artificial intelligence patents and the coverage rate of digital infrastructure. A dynamic spatial Durbin model and a mediation effects model are employed for empirical testing.ResultsThe findings reveal three main results. First, DT has a significant direct positive effect on urban food security and a significant positive spatial spillover effect, meaning that local DT development improves food security in neighboring regions. These results remain robust after using instrumental variable methods, substituting core variables, and performing multiple robustness checks. Second, the mechanism analysis shows that DT indirectly enhances food security by improving agricultural socialized services, accelerating land transfer efficiency, and reducing climate-induced volatility in agricultural production. Among these channels, agricultural socialized services have the st…",
       "authors": "Dnaqi Wei",
       "published": "Jul 2026",
       "feedName": "Frontiers Nutrition",
       "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1880467",
-      "image": "",
-      "screen": "right"
-    },
-    {
-      "title": "High consumption of fruit and vegetable juices and related beverages and high sugar intake among school-aged children: a study in Beijing, China",
-      "abstract": "BackgroundFruit and vegetable juices and related beverages are commonly consumed by school-age children, which often contain high levels of free sugars. This study aimed to investigate the consumption and excessive sugar intake from fruit and vegetable juices and related beverages among children in Beijing, and identify associated factors.MethodsData were derived from a baseline survey of 3,370 school-age children in Beijing (October–November 2024). Binary logistic regression was used to analyze risk factors for high sugar intake.ResultsThe overall consumption rate of fruit and vegetable juices and related beverages among Beijing school-aged children was 68.4%. Overall, the median daily intake of fruit and vegetable juices and related beverages was 57.14 g (0.00, 150.00 g), with a median free sugar intake of 6.06 g (0.00, 15.90 g),15.4% had excessive intake (≥25 g/day). Associations were observed between excessive sugar intake from fruit and vegetable juices and related beverages and the following factors. Living in outer urban areas (OR = 1.464, 95%CI: 1.140–1.879) or suburban areas (OR = 1.443, 95%CI: 1.126–1.849), attending middle school (OR = 1.936, 95%CI: 1.493–2.511) or high school (OR = 1.423, 95%CI: 1.085–1.868), being overweight (OR = 1.345, 95%CI: 1.046–1.730), having daily outdoor activity of no less than 2 h (OR = 1.348, 95%CI: 1.063–1.711), holding the view that sugar-sweetened beverages pose no health risks (OR = 1.916, 95%CI: 1.561–2.352), and having caregivers who regularly consumed fruit and vegetable juices and related beverages (OR = 1.716, 95%CI: 1.404–2…",
-      "authors": "Liyu Huang, Lulu Meng, Jiali Duan et al.",
-      "published": "Jul 2026",
-      "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1856451",
-      "image": "",
-      "screen": "right"
-    },
-    {
-      "title": "Prognostic impact of low muscle mass and visceral adiposity in patients with cirrhosis undergoing transjugular intrahepatic portosystemic shunt: a retrospective cohort study",
-      "abstract": "ObjectiveThe prognostic value of low muscle mass and visceral adiposity (LMM-VA) in patients with cirrhosis undergoing transjugular intrahepatic portosystemic shunt (TIPS) has not yet been investigated. We aimed to define LMM-VA using computed tomography-based skeletal muscle index (SMI) and visceral-to-subcutaneous adipose tissue ratio (VSR), and to examine its association with post-TIPS outcomes.MethodsThis retrospective cohort study included adult patients with cirrhosis undergoing TIPS. LMM-VA was defined as the coexistence of low muscle mass (SMI < 44.7 cm2/m2 in males and < 32.5 cm2/m2 in females) and visceral adiposity (VSR ≥ 1.21 in males and ≥ 0.48 in females). Associations between LMM-VA and post-TIPS outcomes were evaluated using cumulative incidence curves and univariable and multivariable regression models.ResultsA total of 228 patients with cirrhosis were included in the study, 54 (23.7%) of whom had LMM-VA. During a median follow-up of 29.2 months, patients with LMM-VA showed a significantly higher cumulative incidence of both all-cause mortality (p < 0.001) and liver-related mortality (p < 0.001). LMM-VA was significantly associated with post-TIPS all-cause mortality in both the univariable (hazard ratio [HR]: 3.62, 95% confidence interval [CI]: 1.65–7.91) and multivariable Cox regression analyses (HR: 3.21, 95% CI: 1.32–7.80). Subgroup, sensitivity, and stratified analyses further confirmed the robustness of this association. Additionally, LMM-VA demonstrated an independent prognostic value for liver-related mortality but not for either new-onset or further…",
-      "authors": "Zhang Wen, Jia Yuan, Yong Li et al.",
-      "published": "Jul 2026",
-      "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1817771",
-      "image": "",
-      "screen": "right"
-    },
-    {
-      "title": "Factors influencing breastfeeding failure in mothers with hepatitis B infection: a qualitative study",
-      "abstract": "PurposeTo explore the factors contributing to breastfeeding failure among mothers infected with the hepatitis B virus (HBV) from the perspectives of stress and decision-making, with a specific focus on psychological factors.DesignA qualitative, descriptive design using semi-structured interviews.MethodsPurposive sampling recruited 21 HBV-positive mothers at Shanghai First Maternity and Infant Hospital between February 1 and May 10, 2023. Data collection continued until thematic saturation. Interviews were audio-recorded, transcribed verbatim, and analyzed via thematic analysis with NVivo 12.6.1 software. Measures to ensure data trustworthiness included member checking, peer debriefing, and investigator triangulation.ResultsThree participants withdrew before completion, resulting in 18 final interviews. Mean maternal age was 32.28 ± 4.80 years; 56% delivered by cesarean section, 67% had female infants. Five mothers were HBsAg-positive only, 13 were both HBsAg- and HBeAg-positive. Four mothers used partial breastfeeding, 13 formula feeding, only one practiced exclusive breastfeeding during hospitalization. Four core themes emerged: “Inadequate Knowledge of HBV Transmission Routes, Breastfeeding Benefits, and Resultant Decision-Making Uncertainty” (Cognitive Knowledge Deficits); Persistent Fear of Getting An Infant Infected With HBV, Despite Reassurance and Medical Information From Healthcare Providers (Emotional/psychological concerns); Practical Technical Difficulties in Breastfeeding, and Lactation-related Complications Compromising Feeding Sustainability (Persistent physio…",
-      "authors": "Xin Jiang, Hui Jiang, Rong Huang",
-      "published": "Jul 2026",
-      "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1839059",
       "image": "",
       "screen": "right"
     },

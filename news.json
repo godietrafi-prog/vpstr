@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-02T19:11:28Z",
+  "updated": "2026-07-02T20:56:09Z",
   "items": [
     {
       "title": "A cognitive perspective for climate-smart agricultural policy in the Indo-Pacific region",
@@ -282,6 +282,16 @@
       "screen": "left"
     },
     {
+      "title": "Light flips bacterial signaling enzyme between two shapes, unlocking how signals travel",
+      "abstract": "Researchers at the University of Bayreuth and Forschungszentrum Jülich have demonstrated that specific light-sensitive enzymes—so-called sensor histidine kinases (SHKs)—transmit their signal through a light-controlled change in asymmetry. With their new study, the researchers contribute to a better understanding of a central mechanism of bacterial signal processing. This may help develop new tools for biomedicine or biotechnology. The findings are reported in the journal Science Advances.",
+      "authors": "",
+      "published": "Jul 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-07-flips-bacterial-enzyme.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/mechanism-of-bacterial.jpg",
+      "screen": "right"
+    },
+    {
       "title": "Gallium uses visible light to activate aryl iodides in rare bond-breaking reaction",
       "abstract": "Cross-coupling reactions have revolutionized the synthesis of complex pharmaceuticals and polymers from simpler, commercially available products. An important first step in these reactions is oxidative addition, which is often facilitated using transition metals such as palladium and nickel. However, achieving the same transformation with more abundant main-group elements, found in groups 1–2 and 13–18 of the periodic table, remains a major challenge for many important substrates, particularly aryl halides.",
       "authors": "",
@@ -309,16 +319,6 @@
       "feedName": "Phys.org Analytics",
       "url": "https://phys.org/news/2026-07-crystal-principle-reveals-molecular-phase.html",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/researchers-establish.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "Polymer network reconfigures in sequence, helping elastomers stay tough under strain",
-      "abstract": "Shock-absorbing sneaker soles are likely made of polyurethane, a highly elastic and tough polymer. The ability of these elastomers to absorb impact without breaking is extremely important for practical applications. While multiple strategies exist for enhancing elastomer toughness, each has its limitations. However, achieving synergistic toughening by integrating all three mechanisms within a single material remains challenging.",
-      "authors": "",
-      "published": "Jul 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-06-polymer-network-reconfigures-sequence-elastomers.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/polymers-change-struct.jpg",
       "screen": "right"
     },
     {

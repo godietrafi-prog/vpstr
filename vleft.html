@@ -643,6 +643,18 @@
             width: auto;
             object-fit: contain;
         }
+        #weather {
+            display: flex;
+            align-items: center;
+            gap: 0.35em;
+            font-family: Arial, sans-serif;
+            color: #2e8b47;
+            font-size: 1.1em;
+            font-weight: bold;
+            line-height: 1;
+        }
+        #weather-icon { font-size: 1.5em; }
+        #weather-temp { font-variant-numeric: tabular-nums; letter-spacing: 0.03em; }
     </style>
 </head>
 <body>
@@ -661,6 +673,10 @@
         </div>
         <div id="bottom-bar">
             <img id="logo" src="Logo_official_eng.png" alt="Tel-Hai">
+            <div id="weather">
+                <span id="weather-icon">·</span>
+                <span id="weather-temp">--°</span>
+            </div>
             <div id="clock-digits">
                 <span id="clock-hh">00</span><span id="clock-sep">:</span><span id="clock-mm">00</span>
             </div>
@@ -1187,6 +1203,42 @@
         setTimeout(updateClock, msToNext);
     }
     updateClock();
+
+    // ── Weather — Open-Meteo, Tel-Hai (33.26°N 35.57°E) ─────────────────
+    var weatherIcon = document.getElementById('weather-icon');
+    var weatherTemp = document.getElementById('weather-temp');
+
+    function wmoIcon(code) {
+        if (code === 0)           return '☀️';
+        if (code <= 2)            return '🌤️';
+        if (code === 3)           return '☁️';
+        if (code <= 48)           return '🌫️';
+        if (code <= 55)           return '🌦️';
+        if (code <= 65)           return '🌧️';
+        if (code <= 77)           return '❄️';
+        if (code <= 82)           return '🌧️';
+        if (code <= 99)           return '⛈️';
+        return '🌡️';
+    }
+
+    function fetchWeather() {
+        var req = new XMLHttpRequest();
+        req.open('GET', 'https://api.open-meteo.com/v1/forecast' +
+            '?latitude=33.26&longitude=35.57' +
+            '&current=temperature_2m,weather_code&timezone=Asia%2FJerusalem');
+        req.timeout = 10000;
+        req.onload = function() {
+            try {
+                var d = JSON.parse(req.responseText);
+                var c = d.current;
+                weatherIcon.textContent = wmoIcon(c.weather_code);
+                weatherTemp.textContent = Math.round(c.temperature_2m) + '°';
+            } catch(e) {}
+        };
+        req.send();
+        setTimeout(fetchWeather, 30 * 60 * 1000);
+    }
+    fetchWeather();
 
     // ── Auto-fullscreen when ?signage is in URL ──────────────────────────
     if (/[?&]signage/.test(window.location.search)) {

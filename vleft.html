@@ -67,11 +67,9 @@
             align-items: center;
             justify-content: center;
             opacity: 0;
-            transform: scale(1.012);
-            transition: opacity 2s cubic-bezier(0.4,0,0.2,1),
-                        transform 2s cubic-bezier(0.4,0,0.2,1);
+            transition: opacity 1.2s ease-in-out;
         }
-        .slide.active { opacity: 1; transform: scale(1.0); }
+        .slide.active { opacity: 1; }
 
         .slide video {
             width: 100%;
@@ -97,7 +95,7 @@
             width: 120%; height: 120%;
             background: inherit;
             background-size: cover;
-            filter: blur(30px) brightness(0.26) saturate(1.7);
+            filter: blur(10px) brightness(0.26) saturate(1.7);
             z-index: 0;
         }
         /* edge vignette */
@@ -442,7 +440,7 @@
         }
         /* circular photo — wrapper enforces size, img fills it */
         .lab-card-photo-wrap {
-            width: 18%;
+            width: 12%;
             aspect-ratio: 1;
             border-radius: 50%;
             overflow: hidden;
@@ -460,7 +458,7 @@
             object-fit: cover;
         }
         .lab-card-photo-placeholder {
-            width: 18%;
+            width: 12%;
             aspect-ratio: 1;
             border-radius: 50%;
             background: rgba(78,201,106,0.1);
@@ -669,6 +667,14 @@
             font-weight: 300;
             line-height: 1;
         }
+
+        /* ── Performance: suppress GPU-heavy effects on non-visible slides ── */
+        .slide:not(.active) .poster-wrap::before { filter: none !important; }
+        .slide:not(.active) .photo-wrap img      { animation: none !important; }
+        .slide:not(.active) .lab-card,
+        .slide:not(.active) .rss-card,
+        .slide:not(.active) .rss-dual            { animation: none !important; }
+        .slide:not(.active) .lab-citation-badge.high-impact .lab-citation-total { animation: none !important; }
     </style>
 </head>
 <body>

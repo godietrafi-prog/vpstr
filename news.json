@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-02T16:01:04Z",
+  "updated": "2026-07-02T19:11:28Z",
   "items": [
     {
       "title": "A cognitive perspective for climate-smart agricultural policy in the Indo-Pacific region",
@@ -282,6 +282,16 @@
       "screen": "left"
     },
     {
+      "title": "Gallium uses visible light to activate aryl iodides in rare bond-breaking reaction",
+      "abstract": "Cross-coupling reactions have revolutionized the synthesis of complex pharmaceuticals and polymers from simpler, commercially available products. An important first step in these reactions is oxidative addition, which is often facilitated using transition metals such as palladium and nickel. However, achieving the same transformation with more abundant main-group elements, found in groups 1–2 and 13–18 of the periodic table, remains a major challenge for many important substrates, particularly aryl halides.",
+      "authors": "",
+      "published": "Jul 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-07-gallium-visible-aryl-iodides-rare.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/light-spurs-bond-activ.jpg",
+      "screen": "right"
+    },
+    {
       "title": "Acceptor molecule upconverts low-energy green light to high-energy purple with high efficiency",
       "abstract": "Solar cells and photocatalysts can be surprisingly inefficient. Despite light consisting of many wavelengths, the range that even highly efficient devices use is limited. Other wavelengths, especially long wavelengths, simply pass through the material without being used as energy.",
       "authors": "",
@@ -309,16 +319,6 @@
       "feedName": "Phys.org Analytics",
       "url": "https://phys.org/news/2026-06-polymer-network-reconfigures-sequence-elastomers.html",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/polymers-change-struct.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "Abundant catalyst converts methane into valuable liquid chemicals",
-      "abstract": "Scientists at the U.S. Department of Energy's (DOE) Brookhaven National Laboratory and their collaborators have demonstrated a promising new approach for converting methane—the primary component of natural gas—into liquid chemicals that are precursors for many industrial chemicals and fuels. The research, described in a paper just published in Advanced Functional Materials, shows how molybdenum disulfide (MoS2), an earth-abundant industrial catalyst, can be used with minimal tweaking to selectively convert methane into methyl peroxide and other liquid oxygenate compounds at temperatures below 100°C (212°F). Methyl peroxide is a precursor for making methanol, an energy-dense liquid fuel that can be transported easily.",
-      "authors": "",
-      "published": "Jun 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-06-abundant-catalyst-methane-valuable-liquid.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/abundant-catalyst-conv-1.jpg",
       "screen": "right"
     },
     {
@@ -505,8 +505,8 @@
       "published": "2024",
       "venue": "Journal of Agricultural and Food Chemistry",
       "feedName": "Lab Research",
-      "citationCount": 3,
-      "recentCitations": 0,
+      "citationCount": 4,
+      "recentCitations": 1,
       "s2_paper_id": "2daf7bffd81d6b4f740d63bf18644047b1466c1f",
       "url": "https://doi.org/10.1021/acs.jafc.4c06012",
       "image": "",
@@ -543,8 +543,8 @@
       "published": "2022",
       "venue": "Journal of food science and technology",
       "feedName": "Lab Research",
-      "citationCount": 8,
-      "recentCitations": 1,
+      "citationCount": 9,
+      "recentCitations": 2,
       "s2_paper_id": "435cee3aeeb4f44de0a7eef6197bce01a348c990",
       "url": "https://doi.org/10.1007/s13197-022-05534-w",
       "image": "",

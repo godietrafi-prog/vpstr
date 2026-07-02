@@ -67,7 +67,6 @@
             align-items: center;
             justify-content: center;
             opacity: 0;
-            transition: opacity 1.2s ease-in-out;
         }
         .slide.active { opacity: 1; }
 
@@ -83,20 +82,7 @@
             width: 100%;
             height: 100%;
             overflow: hidden;
-            background-size: cover;
-            background-position: center;
-            background-repeat: no-repeat;
-        }
-        /* blurred ambient fill — inherits background-image from parent */
-        .poster-wrap::before {
-            content: '';
-            position: absolute;
-            inset: -10%;
-            width: 120%; height: 120%;
-            background: inherit;
-            background-size: cover;
-            filter: blur(10px) brightness(0.26) saturate(1.7);
-            z-index: 0;
+            background: #000;
         }
         /* edge vignette */
         .poster-wrap::after {
@@ -126,16 +112,6 @@
             width: 100%; height: 100%;
             object-fit: cover;
             filter: contrast(1.07) saturate(1.13) brightness(0.96);
-            animation: photo-kb 50s ease-in-out both;
-        }
-        .photo-wrap.kb-b img { animation-name: photo-kb-b; }
-        @keyframes photo-kb {
-            from { transform: scale(1.0) translate(0%,    0%); }
-            to   { transform: scale(1.08) translate(-1%, -0.6%); }
-        }
-        @keyframes photo-kb-b {
-            from { transform: scale(1.0)  translate(0%,   0%); }
-            to   { transform: scale(1.08) translate(1%,  0.6%); }
         }
         /* branded vignette: subtle green centre, deep edge */
         .photo-wrap::after {
@@ -151,15 +127,8 @@
         }
 
         /* ── RSS card full-screen slides ── */
-        @keyframes bg-breathe {
-            0%   { background-position: 0%   0%; }
-            50%  { background-position: 100% 100%; }
-            100% { background-position: 0%   0%; }
-        }
         .rss-card {
             background: linear-gradient(155deg, #071422 0%, #0b2618 40%, #0e2d1c 55%, #071422 100%);
-            background-size: 220% 220%;
-            animation: bg-breathe 22s ease-in-out infinite;
             width: 100%;
             height: 100%;
             display: flex;
@@ -290,8 +259,6 @@
         /* ── Dual compact card slide (two articles, no abstract/image) ── */
         .rss-dual {
             background: linear-gradient(155deg, #071422 0%, #0b2618 40%, #0e2d1c 55%, #071422 100%);
-            background-size: 220% 220%;
-            animation: bg-breathe 22s ease-in-out infinite;
             width: 100%;
             height: 100%;
             display: flex;
@@ -371,8 +338,6 @@
         /* ── Lab paper card (same structure as rss-card) ── */
         .lab-card {
             background: linear-gradient(155deg, #071422 0%, #0b2618 40%, #0e2d1c 55%, #071422 100%);
-            background-size: 220% 220%;
-            animation: bg-breathe 22s ease-in-out infinite;
             width: 100%;
             height: 100%;
             display: flex;
@@ -440,26 +405,24 @@
         }
         /* circular photo — wrapper enforces size, img fills it */
         .lab-card-photo-wrap {
-            width: 12%;
-            aspect-ratio: 1;
+            width: 12vh;
+            height: 12vh;
             border-radius: 50%;
             overflow: hidden;
             flex-shrink: 0;
             margin-bottom: 3%;
             border: 3px solid #4EC96A;
             box-shadow: 0 0 22px rgba(78,201,106,0.45), 0 0 50px rgba(78,201,106,0.15);
-            position: relative;
         }
         .lab-card-photo-wrap img {
-            position: absolute;
-            top: 0; left: 0;
+            display: block;
             width: 100%;
             height: 100%;
             object-fit: cover;
         }
         .lab-card-photo-placeholder {
-            width: 12%;
-            aspect-ratio: 1;
+            width: 12vh;
+            height: 12vh;
             border-radius: 50%;
             background: rgba(78,201,106,0.1);
             border: 3px solid rgba(78,201,106,0.4);
@@ -668,13 +631,6 @@
             line-height: 1;
         }
 
-        /* ── Performance: suppress GPU-heavy effects on non-visible slides ── */
-        .slide:not(.active) .poster-wrap::before { filter: none !important; }
-        .slide:not(.active) .photo-wrap img      { animation: none !important; }
-        .slide:not(.active) .lab-card,
-        .slide:not(.active) .rss-card,
-        .slide:not(.active) .rss-dual            { animation: none !important; }
-        .slide:not(.active) .lab-citation-badge.high-impact .lab-citation-total { animation: none !important; }
     </style>
 </head>
 <body>
@@ -837,10 +793,11 @@
             var wrap = document.createElement('div');
             wrap.className = 'lab-card-photo-wrap';
             var photoEl = document.createElement('img');
-            photoEl.src = res.photo;
+            photoEl.setAttribute('data-src', res.photo);
             photoEl.alt = res.name || '';
             photoEl.onerror = function() {
-                wrap.parentNode.replaceChild(makePlaceholder(res.name), wrap);
+                if (this.src && this.src === this.getAttribute('data-src'))
+                    wrap.parentNode.replaceChild(makePlaceholder(res.name), wrap);
             };
             wrap.appendChild(photoEl);
             div.appendChild(wrap);
@@ -980,11 +937,11 @@
             var figDiv = document.createElement('div');
             figDiv.className = 'rss-card-figure';
             var imgEl = document.createElement('img');
-            imgEl.src     = rssItem.image;
+            imgEl.setAttribute('data-src', rssItem.image);
             imgEl.alt     = '';
-            imgEl.loading = 'eager';
             imgEl.onerror = function() {
-                this.parentElement.remove();  // 404 = no figure for this article
+                if (this.src && this.src === this.getAttribute('data-src'))
+                    this.parentElement.remove();  // 404 = no figure for this article
             };
             figDiv.appendChild(imgEl);
             div.appendChild(figDiv);
@@ -1017,7 +974,7 @@
                 var wrap = document.createElement('div');
                 wrap.className = 'photo-wrap' + (i % 2 === 0 ? '' : ' kb-b');
                 var fgImg = document.createElement('img');
-                fgImg.src = src; fgImg.alt = ''; fgImg.loading = 'eager';
+                fgImg.setAttribute('data-src', src); fgImg.alt = '';
                 wrap.appendChild(fgImg);
                 div.appendChild(wrap);
                 div.setAttribute('data-type', 'image');
@@ -1027,9 +984,8 @@
                 var src = item.src_left || item.src;
                 var wrap = document.createElement('div');
                 wrap.className = 'poster-wrap';
-                wrap.style.backgroundImage = 'url("' + src.replace(/"/g, '\\"') + '")';
                 var fgImg = document.createElement('img');
-                fgImg.src = src; fgImg.alt = ''; fgImg.loading = 'eager';
+                fgImg.setAttribute('data-src', src); fgImg.alt = '';
                 wrap.appendChild(fgImg);
                 div.appendChild(wrap);
                 div.setAttribute('data-type', 'image');
@@ -1039,6 +995,22 @@
 
             slidesArea.appendChild(div);
             poolEls.push(div);
+        }
+    }
+
+    // ── Lazy image loading — keep ≤3 decoded images in RAM at once ──────
+    function loadSlideImages(poolIdx) {
+        var imgs = poolEls[poolIdx].querySelectorAll('img[data-src]');
+        for (var i = 0; i < imgs.length; i++) {
+            if (!imgs[i].src || imgs[i].src === window.location.href) {
+                imgs[i].src = imgs[i].getAttribute('data-src');
+            }
+        }
+    }
+    function unloadSlideImages(poolIdx) {
+        var imgs = poolEls[poolIdx].querySelectorAll('img[data-src]');
+        for (var i = 0; i < imgs.length; i++) {
+            imgs[i].src = '';
         }
     }
 
@@ -1061,6 +1033,13 @@
 
         current = pos;
         var el = poolEls[playlist[current]];
+
+        // Load current + 2 ahead; unload 3 steps back to free RAM
+        for (var k = 0; k <= 2; k++)
+            loadSlideImages(playlist[(current + k) % playlist.length]);
+        if (current >= 3)
+            unloadSlideImages(playlist[current - 3]);
+
         el.classList.add('active');
 
         if (el.getAttribute('data-type') === 'video') {

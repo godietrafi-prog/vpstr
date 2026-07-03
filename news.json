@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-03T02:03:45Z",
+  "updated": "2026-07-03T06:55:11Z",
   "items": [
     {
       "title": "A cognitive perspective for climate-smart agricultural policy in the Indo-Pacific region",
@@ -202,6 +202,16 @@
       "screen": "left"
     },
     {
+      "title": "Data report: batangas liberica coffee bean morphology image dataset with derived morphometrics (BaLiCoM)",
+      "abstract": "This Data Report describes the Batangas Liberica Coffee Bean Morphology Image Dataset with Derived Morphometrics (BaLiCoM), a fixed and versioned dataset of individual Liberica coffee beans from Batangas Province, Philippines. The Zenodo v1 archive contains 4,000 raw single-bean images, 4,000 standardized 256 × 256 images, 4,000 segmentation masks, 4,000 morphometric records, and 4,000 metadata records linked through stable image identifiers. Beans were manually harvested from eight balanced farm/location groups in Rosario, San Juan, Padre Garcia, Taysan, Malvar, Sto. Tomas City, Lipa City, and Nasugbu between June 7 and 20 December 2025. Images were acquired under controlled white-background and diffuse-light conditions to support reproducible foreground segmentation and two-dimensional shape measurement. The archive combines visual records, processed masks, and tabular descriptors, including pixel-based area, perimeter, eccentricity, solidity, and centroid coordinates. The dataset is intended for controlled-background segmentation benchmarking, descriptive morphometric workflows, and the development of reproducible quality-control methods. Because the archive does not document a physical calibration target, area and perimeter are reported as pixel-based variables and should not be interpreted as direct physical dimensions.",
+      "authors": "Francis Balazon, Dioneces Alimoren, Jonnah Melo et al.",
+      "published": "Jul 2026",
+      "feedName": "Frontiers Food Science",
+      "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.1833242",
+      "image": "",
+      "screen": "left"
+    },
+    {
       "title": "Application of indirect in-package surface dielectric barrier discharge cold plasma for post-harvest storage of table grapes",
       "abstract": "BackgroundTable grapes (Vitis vinifera var. Crimson Seedless) are highly susceptible to post-harvest deterioration, primarily due to weight loss, stalk browning, and spoilage by microorganisms like moulds. This study investigates the use of indirect in-package surface cold plasma within a passive Modified Atmosphere Packaging (MAP) to enhance microbial control and extend shelf-life of table grapes.MethodologyGrapes were sealed in LDPE bags and treated with cold plasma for 3, 7, or 10 s (3S, 7S, 10S) and stored at 0 °C for 18 days. Ozone generation and its subsequent decomposition within the headspace were monitored. The most important physico-chemical and physiological parameters including headspace gas composition, weight loss, berry and stalk colour, texture, and microbial populations were systematically assessed at days 0, 3, 12, and 18.ResultsCold plasma generated high initial ozone concentrations (up to 1050 ppm for 10S) that degraded within 60 min. Treatments significantly reduced yeast and psychrotrophic bacteria counts compared to controls until day 12. While headspace gas composition (O2 and CO2) remained stable across treatments, a significant decline in sensory score for aroma and flavour was observed in treated samples primarily due to a pungent off-odour that persisted during consumption.ConclusionIn-package cold plasma represents a rapid, residue-free sanitization method. Although the treatment did not significantly alter the internal quality or metabolism of the berries, results suggest an interaction with the packaging material. Therefore, while the technolo…",
       "authors": "Giuseppe Rosiello, Raffaele Simonelli, Danial Fatchurrahman et al.",
@@ -228,16 +238,6 @@
       "published": "Jun 2026",
       "feedName": "Frontiers Food Science",
       "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.1850787",
-      "image": "",
-      "screen": "left"
-    },
-    {
-      "title": "Editorial: Diversification of food systems through cultivation of potential underutilized fruits under changing climatic scenarios",
-      "abstract": "",
-      "authors": "Nomali Ziphorah Ngobese, Sunny Sharma, Lindah Muzangwa et al.",
-      "published": "Jun 2026",
-      "feedName": "Frontiers Food Science",
-      "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.1892391",
       "image": "",
       "screen": "left"
     },
@@ -382,6 +382,16 @@
       "screen": "right"
     },
     {
+      "title": "Scientists discover a protein switch that burns fat and blocks new fat cells",
+      "abstract": "A protein called “Mitch” may hold the key to a new generation of obesity treatments. Researchers found that disabling it in human cells boosts fat burning, increases energy use, and makes it harder for new fat cells to develop. The findings help explain why mice lacking Mitch were leaner, more athletic, and resistant to obesity.",
+      "authors": "",
+      "published": "Jul 2026",
+      "feedName": "ScienceDaily Nutrition",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260624115324.htm",
+      "image": "https://www.sciencedaily.com/images/1920/woman-weight-loss-success-before-after.webp",
+      "screen": "right"
+    },
+    {
       "title": "Scientists discover what triggers belly fat as we age",
       "abstract": "Aging may trigger the appearance of specialized stem cells that supercharge the body's ability to create new belly fat. The discovery reveals a potential biological driver of middle-age weight gain and a promising target for future anti-obesity treatments.",
       "authors": "",
@@ -392,52 +402,42 @@
       "screen": "right"
     },
     {
-      "title": "Osteopenia is silently weakening bones in millions of people",
-      "abstract": "Osteopenia is a common but often overlooked condition that causes bones to become less dense and more fragile. Because it develops silently, many people only discover they have it after a fracture or bone scan. Aging, menopause, poor diet, and inactivity can all contribute to bone loss. Fortunately, exercise, adequate calcium and vitamin D, and other healthy habits can slow or even partially reverse the decline.",
-      "authors": "",
-      "published": "Jun 2026",
-      "feedName": "ScienceDaily Nutrition",
-      "url": "https://www.sciencedaily.com/releases/2026/06/260624025511.htm",
-      "image": "https://www.sciencedaily.com/images/1920/osteoporosis-realistic-bone-spongy-structure.webp",
-      "screen": "right"
-    },
-    {
-      "title": "Gut microbiota as modulators of obesity and overweight: a registry-based systematic review of clinical trial evidence",
-      "abstract": "BackgroundBackground: Obesity is a global epidemic that remains inadequately addressed by healthcare systems. The gut microbiota offers a promising metabolic target, yet systematic reviews of clinical trials on microbiome modulators for obesity are scarce.MethodsUsing the Trialtrove database (September 16, 2025), we performed a registry-based systematic review with the strategy: “(Disease: Obesity) AND (Mechanism: Microbiome modulator).” We included interventional trials targeting overweight/obese populations with defined microbiome-modulating mechanisms; observational and withdrawn/suspended trials were excluded. Extracted data covered phase, status, intervention type, sponsor, location, and participant characteristics. Descriptive analyses used R software (v4.4.3).ResultsAmong 217 included trials, 131 (60%) were completed and 37 (17%) ongoing., Academic institutions led sponsorship (157 trials), followed by commercial (45) and government (14). Trials rose sharply after 2011, peaking at 34 in 2023 (over 80% of Phase IV trials that year). Probiotics dominated (141 trials), followed by synbiotics (21) and FMT (22). China (52) and the US (24) led research. Probiotics prevailed in Phases III/IV, whereas FMT concentrated in Phases II/IV with a higher termination rate.ConclusionsThis study reveals a rapidly growing yet uneven landscape. Probiotics remain the primary focus, academic institutions the main sponsors, and China/US the core hubs. The field has entered a post-marketing evaluation phase dominated by Phase IV studies. Limitations include reliance on a single database and…",
-      "authors": "Bolun Jiao, Sheng Jiang",
+      "title": "Associations of dietary intake and nutrition knowledge with body composition and performance in table tennis athletes: a cross-sectional study",
+      "abstract": "BackgroundTable tennis is a high-intensity intermittent sport requiring rapid movement, cognitive processing, and repeated recovery. Adequate nutrition may therefore be important for supporting athletes’ health and performance. However, limited research has simultaneously examined dietary intake, nutrition knowledge, body composition, and physical performance in table tennis athletes.ObjectiveThis study aimed to characterize dietary intake and nutrition knowledge among trained table tennis athletes and to explore their associations with body composition and selected physical performance indicators.MethodsThis cross-sectional study included 42 trained table tennis athletes. Dietary intake was assessed using three non-consecutive 24-h recalls, and nutrition knowledge was evaluated using a structured questionnaire. Body composition was measured using bioelectrical impedance analysis. Physical performance was assessed using the standing long jump, reaction time, and shuttle run tests. Correlation analysis, group comparisons, multiple linear regression, and principal component analysis (PCA) were conducted.ResultsMacronutrient distribution was generally within recommended ranges, whereas reported energy intake, dietary fiber, vitamin C, calcium, iron, folate, and fruit and vegetable intake were below recommended levels. Nutrition knowledge was average, with relatively lower scores in the sports nutrition and supplement-use domains. No significant differences were observed between the high- and low-nutrition knowledge groups in standing long jump, reaction time, shuttle run perfo…",
+      "authors": "Shui-Jian Deng, Jiang Yu, Meng-Yuan Shu et al.",
       "published": "Jul 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1865785",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1858347",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Dynamic evolution of flavor profiles and antioxidant capacities in black rice tea during continuous roasting",
-      "abstract": "In this study, the dynamic evolution of functional components and volatile flavor profiles in black rice tea across different roasting times (90 °C, 0, 5, 10, 20, and 30 min) was investigated. Physicochemical assays, electronic nose, and gas chromatography–ion mobility spectrometry (GC–IMS) were employed to characterize the quality transformation mechanisms. The results indicated that while total flavonoids decreased continuously during heating, total anthocyanins reached a maximum at 20 min. The overall antioxidant capacity remained stable and was likely maintained by the compensatory generation of Maillard reaction products. E-nose analysis revealed an expansion of volatile aromas accompanied by a continuous depletion of water-soluble taste substrates. GC–IMS identified 46 volatile organic compounds and revealed a distinct sequential transition: initial raw-odor alcohols dissipated rapidly within the first 5 min; aliphatic aldehydes and ketones accumulated from 10 to 20 min via lipid oxidation; and roast-associated heterocyclic compounds, particularly 2-pentylfuran, peaked at 20 min through advanced Maillard reactions. Principal component analysis (PCA) confirmed the clear differentiation of these roasting stages. Overall, roasting for 20 min was recommended to achieve optimal quality of black rice tea. These results may provide certain references for quality control of black rice tea during roasting in the future.",
-      "authors": "Weiping Zhang, Yueling Xu, Jiani Liu et al.",
+      "title": "Comparative efficacy of different probiotic strains and preparations for prevention of acute otitis media in children: a systematic review and network meta-analysis",
+      "abstract": "BackgroundProbiotics are established candidates for preventing acute otitis media (AOM) in children, yet existing meta-analyses treat all probiotic interventions as a single class, precluding strain-specific clinical guidance. This network meta-analysis (NMA) compared the efficacy and safety of individual probiotic strains for pediatric AOM prevention.MethodsWe systematically searched PubMed, Embase, the Cochrane Library, Web of Science, CNKI, WanFang, and CBM from inception to 15 March 2026. Eligible studies were RCTs evaluating probiotic interventions for AOM prevention in children aged 0–18 years. The primary outcome was AOM incidence; secondary outcomes included antibiotic prescription rates, tympanostomy tube placement rates, and adverse events. NMAs were performed using a multivariate random-effects frequentist framework (Stata 17.0). Treatment ranking was estimated using SUCRA values.ResultsEighteen RCTs (reported in 20 publications) enrolling 4,462 children were included, evaluating seven probiotic nodes (SS-K12, SS-24SMB, BB-12, CBA-L74, LGG, Multi-strain, α-Strep) against placebo. For AOM incidence, only CBA-L74 (OR = 0.27, 95% CI: 0.11–0.68; SUCRA = 89.3%) and SS-K12 (OR = 0.44, 95% CI: 0.20–0.94; SUCRA = 71.8%) achieved statistically significant reductions vs. placebo. Sensitivity analyses excluding two high risk-of-bias trials showed that SS-K12's effect was substantially attenuated and lost significance, whereas CBA-L74 remained robustly effective (OR = 0.28, 95% CI: 0.14–0.56). For antibiotic prescription rates, Multi-strain (OR = 0.45; SUCRA = 87.1%) and LGG…",
+      "authors": "Meiting Ye, Xianjue Xu, Wenrui Huang et al.",
       "published": "Jul 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1879933",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1847652",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Study on the migration regularity of volatile flavor compounds during the roasting process of Tartary buckwheat tea based on HS-GC-IMS and chemometrics",
-      "abstract": "Roasting is a critical processing step that strongly influences the chemical composition, volatile profile, and overall quality of Tartary buckwheat tea. This study investigated the dynamic changes in volatile flavor compounds during roasting using headspace-gas chromatography-ion mobility spectrometry (HS-GC-IMS) combined with chemometric analysis. Roasting significantly increased the contents of total flavonoids (2.29 g/100 g) and protein (15.67 g/100 g), while reducing the moisture content (5.77 g/100 g), particularly at stages X4-X6 (15–25 min). A total of 79 volatile compounds were identified by HS-GC-IMS, among which alcohols and ketones were predominant. Stages X3-X5 (10–20 min) were identified as the critical period for flavor accumulation. Partial least squares discriminant analysis (PLS-DA) identified 13 key discriminant compounds, including propyl acetate, hexyl butyrate, isoamyl formate, sec-butyl acetate, propanal, acrolein, 3-methyl-2-butenal, (E)-2-heptenal, methyl heptenone, 3-methyl-2-pentanone, 2-hexanone, sec-butanol, and 1-octene, as potential flavor markers. These findings clarify the roasting-dependent flavor evolution of Tartary buckwheat tea and provide a theoretical basis for process optimization to improve aroma quality.",
-      "authors": "Xianzhou Zhu, Li Zhang, Zou Dai et al.",
+      "title": "Differential predictive value of phase angle for malnutrition and physical impairment in respiratory patients: the moderating role of sarcopenia",
+      "abstract": "BackgroundPhase angle (PhA) is a vital indicator of nutritional and physical performance, yet its utility may vary across different clinical phenotypes. This study aimed to determine the associations between PhA, malnutrition, and physical performance, and to evaluate whether these relationships are contingent upon sarcopenia status.MethodsThis study enrolled patients from the Department of Respiratory Medicine from March to September 2025. PhA was assessed using bioelectrical impedance analysis. Malnutrition and sarcopenia were diagnosed based on the Global Leadership Initiative on Malnutrition criteria and the Asian Working Group for Sarcopenia 2025, respectively. Physical performance was evaluated using the Short Physical Performance Battery score. The association between PhA and clinical outcomes, and potential moderating effect of sarcopenia, were analyzed using multivariable regression and interaction analysis.ResultsA total of 235 patients were analyzed (mean PhA: 4.51 ± 0.9°), including 114 with sarcopenia. Prevalence of malnutrition and impaired physical performance was 43.4 and 40.9%, respectively. After adjusting for potential confounders, interaction analysis revealed that the association between PhA and malnutrition was significantly modulated by the presence of sarcopenia (P interaction = 0.035). Subgroup analysis revealed that a significant decrease in PhA was associated with an increased risk of malnutrition in the sarcopenia group (OR = 3.11, 95% CI: 1.52–6.33, p < 0.001), whereas no such association was observed in the non-sarcopenia group (OR = 1.35, 95% …",
+      "authors": "Cai Li, Juan He, Li Ma et al.",
       "published": "Jul 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1777132",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1828775",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Using digital technology to ensure food supply stability: a case study of achieving food security in China",
-      "abstract": "BackgroundUnder the combined pressures of frequent extreme climate events and the spread of unilateral trade policies, global agricultural industry and supply chains are facing an unprecedented crisis. Digital technology (DT) is a key driver of the new technological revolution and is profoundly reshaping food production, distribution, and consumption. However, its comprehensive impact on food security and the underlying mechanisms remain unclear.MethodsThis study systematically elaborates the theoretical logic through which digital technology enhances food security. Using panel data from 285 prefecture-level cities in China from 2011 to 2024, we construct an innovative urban DT composite index based on the number of artificial intelligence patents and the coverage rate of digital infrastructure. A dynamic spatial Durbin model and a mediation effects model are employed for empirical testing.ResultsThe findings reveal three main results. First, DT has a significant direct positive effect on urban food security and a significant positive spatial spillover effect, meaning that local DT development improves food security in neighboring regions. These results remain robust after using instrumental variable methods, substituting core variables, and performing multiple robustness checks. Second, the mechanism analysis shows that DT indirectly enhances food security by improving agricultural socialized services, accelerating land transfer efficiency, and reducing climate-induced volatility in agricultural production. Among these channels, agricultural socialized services have the st…",
-      "authors": "Dnaqi Wei",
+      "title": "Current progress on identifying chemical constituents, bioactivities, and food-industry applications of pitaya (Selenicereus spp.) whole plant",
+      "abstract": "Pitaya (Selenicereus spp.) is primarily consumed for its flesh, whereas by-products—including the peel, seeds, stem, and flower—are largely discarded, resulting in resource wastage and environmental burden. This review discusses its chemical composition, mechanism of action, biological activity, and applications in the food industry. By-products of Pitaya are rich in bioactive constituents, such as polyphenols, flavonoids, betalains, polysaccharides, and unsaturated fatty acids. They also exhibit biological activities including antioxidant, anti-inflammatory, hypolipidemic, and hypoglycemic effects. High-value utilization of these by-products is currently at a critical stage of industrial translation. Accordingly, this review systematically synthesizes research findings from multiple disciplines, including phytochemistry, food science, pharmacology, and materials science. These findings are integrated along three principal axes: chemical composition, biological activity, and food application, thereby bridging the logical gap between fundamental research and industrial application. Based on this, we identified the principal limitations of the current research: mechanistic analyses remain largely correlational, key pathway alterations are inconsistent across different experimental models, and the translational relationship between in vitro activity and in vivo efficacy remains unclear. Future studies should conduct standardized human clinical trials, employ multi-omics approaches to elucidate the interactions between bioactive constituents and the gut microbiota, optimize sta…",
+      "authors": "Meixin Chen, Ruien Li, Lei Zhang et al.",
       "published": "Jul 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1880467",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1886438",
       "image": "",
       "screen": "right"
     },
@@ -851,6 +851,25 @@
       "recentCitations": 0,
       "s2_paper_id": "ada425bd709368161c46391fc1acfdf514b40df5",
       "url": "https://doi.org/10.1007/s11274-026-04876-3",
+      "image": "",
+      "screen": "both",
+      "lab_paper": true,
+      "researcher": {
+        "name": "Giora Rytwo",
+        "photo": "media/photos/giora_rytwo.jpg"
+      }
+    },
+    {
+      "title": "Clay-based azoxystrobin formulation enhances cotton protection against charcoal rot disease",
+      "abstract": "Cotton charcoal rot disease, caused by Macrophomina phaseolina, is a major threat to cotton production in Israel and globally, leading to severe yield loss due to post-flowering plant collapse. Current management relies heavily on chemical fungicides. However, rising environmental concerns and fungicide resistance underscore the need for sustainable alternatives. This study evaluated novel clay-based formulations for the controlled release of azoxystrobin (AS). The approach aims to protect cotton during the sensitive early growth stages when pathogen penetration and colonization occur. Two types of clay carriers—bentonite (montmorillonite) and sepiolite—were tested for their ability to deliver AS effectively. While seedlings grown in the greenhouse showed minimal visible symptoms at the disease latent stage, quantitative real-time PCR analysis indicated that both formulations effectively suppressed root infection, reducing M. phaseolina DNA levels by 81%. In a full-season open-enclosure trial, bentonite-AS treatment exhibited reduced efficacy, possibly due to phytotoxicity at the tested concentration. In contrast, the sepiolite-AS treatment increased flower bud number by 87% and reduced pathogen infection by up to 92% at 68 days post-sowing, although these effects were not statistically significant due to high variability. At harvest, sepiolite-AS and bentonite alone increased shoot dry weight per plant by 129% and 128%, respectively, and reduced pathogen DNA levels by 63% and 69%, respectively. Overall, although environmental variability led to statistical insignificance, …",
+      "authors": "O. Degani, Ariel Hadad, Eden Etedgi et al.",
+      "published": "2026",
+      "venue": "Journal of Cotton Research",
+      "feedName": "Lab Research",
+      "citationCount": 1,
+      "recentCitations": 0,
+      "s2_paper_id": "fd23d143d0541f11b7073d0a8365f72546a8247f",
+      "url": "https://doi.org/10.1186/s42397-025-00254-w",
       "image": "",
       "screen": "both",
       "lab_paper": true,

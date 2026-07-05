@@ -67,7 +67,7 @@
             justify-content: center;
         }
         .slide:not(.active) { display: none; }
-        .slide.active { display: flex; }
+        .slide.active { display: flex; transition: opacity 350ms ease-out; }
 
         .slide video {
             width: 100%;
@@ -1049,6 +1049,9 @@
             unloadSlideImages(playlist[current - 2]);
 
         el.classList.add('active');
+        el.style.opacity = '0';
+        void el.offsetWidth; // force reflow so the 0 is registered before animating to 1
+        requestAnimationFrame(function() { el.style.opacity = '1'; });
 
         if (el.getAttribute('data-type') === 'video') {
             var vid = el._vidEl;

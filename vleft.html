@@ -63,10 +63,10 @@
             left: 0;
             right: 0;
             bottom: 0;
-            display: none;
             align-items: center;
             justify-content: center;
         }
+        .slide:not(.active) { display: none; }
         .slide.active { display: flex; }
 
         .slide video {
@@ -587,6 +587,11 @@
             from { transform: translateY(-50%) translateX(0); }
             to   { transform: translateY(-50%) translateX(-100%); }
         }
+        @keyframes ken-burns {
+            0%   { transform: scale(1)    translate(0, 0); }
+            50%  { transform: scale(1.08) translate(-1.5%, -1.5%); }
+            100% { transform: scale(1)    translate(0, 0); }
+        }
 
         /* ── Bottom bar with logo ── */
         #bottom-bar {
@@ -935,9 +940,13 @@
         if (rssItem.image) {
             var figDiv = document.createElement('div');
             figDiv.className = 'rss-card-figure';
+            figDiv.style.display = 'none';          // hide until image actually loads
             var imgEl = document.createElement('img');
             imgEl.setAttribute('data-src', rssItem.image);
             imgEl.alt     = '';
+            imgEl.onload  = function() {
+                figDiv.style.display = 'flex';      // reveal only when image is ready
+            };
             imgEl.onerror = function() {
                 if (this.src && this.src === this.getAttribute('data-src'))
                     this.parentElement.remove();  // 404 = no figure for this article

@@ -1,6 +1,16 @@
 {
-  "updated": "2026-07-06T16:48:48Z",
+  "updated": "2026-07-06T19:45:04Z",
   "items": [
+    {
+      "title": "Publisher Correction: Machine learning-optimized composting strategies can enhance nutrient recycling and transform food system waste into a net carbon sink",
+      "abstract": "Publisher Correction: Machine learning-optimized composting strategies can enhance nutrient recycling and transform food system waste into a net carbon sink",
+      "authors": "Lu Zhang, Junyu Yang, Junjie Liu et al.",
+      "published": "Jul 2026",
+      "feedName": "Nature Food",
+      "url": "https://www.nature.com/articles/s43016-026-01397-y",
+      "image": "",
+      "screen": "left"
+    },
     {
       "title": "Smart breeding for diversified agricultural systems",
       "abstract": "Modern plant breeding optimizes varieties for sole cropping, creating trait mismatches that constrain the diversification essential for climate resilience. We propose Smart Systems Breeding, reframing environmental variability as strategic information for precision variety deployment. This approach integrates farmer networks, environmental monitoring and modelling to accelerate breeding for locally adapted intercropping, crop mixtures and agroforestry that supports sustainable agriculture.",
@@ -29,16 +39,6 @@
       "feedName": "Nature Food",
       "url": "https://www.nature.com/articles/s43016-026-01380-7",
       "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs43016-026-01380-7/MediaObjects/43016_2026_1380_Fig1_HTML.png",
-      "screen": "left"
-    },
-    {
-      "title": "Global dietary estimates for conducting health, environmental and economic impact assessments",
-      "abstract": "The Global Dietary Database for Impact Assessments provides information on what people eat across countries and demographic groups by integrating data on food availability, consumption and waste, as well as energy needs. It supports analyses of the impacts of diets on health, environmental and economic outcomes.",
-      "authors": "Marco Springmann",
-      "published": "Jul 2026",
-      "feedName": "Nature Food",
-      "url": "https://www.nature.com/articles/s43016-026-01388-z",
-      "image": "",
       "screen": "left"
     },
     {
@@ -282,6 +282,16 @@
       "screen": "left"
     },
     {
+      "title": "Physics-informed AI could accelerate development of controlled-release drug patches, bandages",
+      "abstract": "Brown University researchers have developed a new artificial intelligence method for predicting the rate at which materials used in controlled drug-release systems release therapeutic agents. The new method could slash the development time for new therapeutic patches, bandages and implants.",
+      "authors": "",
+      "published": "Jul 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-07-physics-ai-drug-patches-bandages.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/physics-informed-ai-co.jpg",
+      "screen": "right"
+    },
+    {
       "title": "Chemists capture structure of the elusive borylnitrene trapped in a crystal using X-ray",
       "abstract": "Nitrenes are the ghosts of synthetic chemistry, formed in an instant and gone just as quickly, rearranging into something entirely different. These highly reactive intermediates are widely used in synthesis, yet remain notoriously difficult to study because they rapidly transform into more stable structures through a process called 1,2-migration.",
       "authors": "",
@@ -309,16 +319,6 @@
       "feedName": "Phys.org Analytics",
       "url": "https://phys.org/news/2026-07-flips-bacterial-enzyme.html",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/mechanism-of-bacterial.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "Gallium uses visible light to activate aryl iodides in rare bond-breaking reaction",
-      "abstract": "Cross-coupling reactions have revolutionized the synthesis of complex pharmaceuticals and polymers from simpler, commercially available products. An important first step in these reactions is oxidative addition, which is often facilitated using transition metals such as palladium and nickel. However, achieving the same transformation with more abundant main-group elements, found in groups 1–2 and 13–18 of the periodic table, remains a major challenge for many important substrates, particularly aryl halides.",
-      "authors": "",
-      "published": "Jul 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-07-gallium-visible-aryl-iodides-rare.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/light-spurs-bond-activ.jpg",
       "screen": "right"
     },
     {
@@ -402,22 +402,22 @@
       "screen": "right"
     },
     {
-      "title": "Association of healthy lifestyle with coronary artery disease risk varies by weight status: a prospective cohort study",
-      "abstract": "BackgroundA healthy lifestyle reduces the risk of coronary artery disease (CAD). However, whether this observed association varies by weight status remains unclear. This study aimed to evaluate the relationship between a healthy lifestyle and the risk of CAD across different weight statuses.MethodsThis prospective cohort study included 8,787 Chinese adults recruited from a health examination center. We developed a healthy lifestyle score (0–4 points) based on smoking, drinking, physical activity, and diet. Participants were classified as normal weight (18.5 ≤ BMI < 24.0) or obesity (BMI ≥ 28 kg/m2). The primary outcome was the incidence of CAD. Cox proportional hazards regression models were used to estimate hazard ratios (HR) and 95% confidence intervals (CI), stratified by weight status, and interaction effects were assessed.ResultsOver a median follow-up period of 7 years, 476 CAD events occurred. Each 1-point increase in lifestyle score was associated with a 24% reduction in CAD risk (HR = 0.76, 95% CI: 0.68–0.86). Stratified analysis revealed a significant inverse association in normal-weight individuals (HR = 0.75, 95% CI: 0.65–0.86), while the association in the obesity group did not achieve statistical significance (HR = 0.85, 95% CI: 0.67–1.07). The interaction between lifestyle score and weight status was not statistically significant (p for interaction = 0.464). Joint effect analysis indicated that obese individuals with an unhealthy lifestyle exhibited the highest CAD risk (HR = 1.58, 95% CI: 1.13–2.21).ConclusionA healthy lifestyle is significantly associated w…",
-      "authors": "Fengxu Zhang, Zhengfang Wang, Han Zhang",
+      "title": "Absorption kinetics of vitamins and minerals from a novel nutritional product in physically active adults: a randomized, double-blind, placebo-controlled crossover trial",
+      "abstract": "Background/objectivesNutrient interactions in multi-ingredient supplements may influence micronutrient absorption and bioavailability, yet pharmacokinetic data exploring these interactions remains generally limited. This clinical trial assessed the acute absorption phase of key micronutrients in AG1, a comprehensive nutritional supplement containing vitamins, minerals, probiotics, and phytochemicals.MethodsIn a randomized, double-blind, placebo-controlled crossover trial 16 healthy adults (8 males and 8 females) consumed a single serving (13 g) of AG1 or a taste- and appearance-matched placebo mixed in water, following a 10-h overnight fast. Each condition was separated by a 1-week washout period. Blood samples were collected 0 (baseline), 30, 60, 90, 120, 180, 240, 360, and 480 min post-ingestion. Plasma concentrations of folate, calcium, zinc, vitamin C, biotin, nicotinamide, pyridoxine, riboflavin, thiamine, and hesperidin were measured. The absorption phase was generally characterized using area under the curve (AUC0-480 min), Cmax, and Tmax. Safety and tolerability were assessed throughout the study. Statistical analysis included repeated-measures ANOVA and paired t-tests.ResultsAG1 significantly increased AUC0-480 min values (p < 0.05) for all measured nutrients except pyridoxine which revealed a weak trend (p = 0.1205). Both AG1 and placebo were well tolerated, with no serious adverse events reported.ConclusionAcute consumption of AG1 resulted in measurable increases in circulating levels of most of the tested micronutrients, indicating effective absorption. These fi…",
+      "authors": "Philip A. Sapp, Jeremy R. Townsend, Trevor O. Kirby et al.",
       "published": "Jul 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1854100",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1793264",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Association between urea-to-creatinine ratio trajectories and clinical outcomes in chronic critical illness patients: a retrospective cohort study",
-      "abstract": "BackgroundChronic critical illness (CCI) is characterized by persistent organ dysfunction and profound catabolism, yet reliable biomarkers to monitor catabolic burden are lacking. The urea-to-creatinine ratio (UCR) has been proposed as a biochemical signature of critical illness-associated catabolism. This study aimed to identify longitudinal UCR trajectory patterns in CCI patients and to evaluate their association with mortality.MethodsWe conducted a retrospective cohort study using the MIMIC-IV database. Adult patients (≥18 years) who met the criteria of CCI in their first ICU admission period were included. CCI was defined as an ICU length of stay over 14 days and coexists with persistent organ dysfunction at day 14. Patients with serum creatinine > 4 mg/dL at ICU admission, renal replacement therapy, gastrointestinal bleeding, or obstetric admissions were excluded. Daily UCR from ICU days 1–14 was modeled using group-based trajectory modeling (GBTM). Outcomes were 28-day, 90-day, and 365-day mortality after CCI diagnosis. Kaplan–Meier survival curves and Cox proportional hazards models were applied to analyze the association between UCR trajectories and outcomes. Subgroup analyses were conducted to further validate the robustness of the results.ResultsA total of 1718 CCI patients were included. Four distinct UCR trajectory groups were identified: trajectory 1 (low-level, stable), trajectory 2 (low-level, slow increase), trajectory 3 (mid-level, slow increase), and trajectory 4 (high-level, rapid increase). Kaplan–Meier analysis showed that mortality increased progressiv…",
-      "authors": "Jia Song, Lu Shen, Jiayi Li et al.",
+      "title": "Associations between cMIND diet, mold exposure, and visual impairment among older adults in China: a national cross-sectional study",
+      "abstract": "BackgroundVisual impairment poses a major challenge to healthy ageing, and its occurrence may be related to both dietary factors and the indoor environment. However, evidence regarding the associations of the Chinese version of the Mediterranean-Dietary Approaches to Stop Hypertension Intervention for Neurodegenerative Delay (cMIND) diet and mold exposure with visual impairment remains limited.MethodsThis study included 14031 participants aged ≥ 65 years from the 2018 wave of the Chinese Longitudinal Healthy Longevity Survey (CLHLS). The cMIND diet score was calculated based on a validated questionnaire, and mold exposure was defined based on self-reported frequent perception of musty odors at home. Visual impairment was defined based on responses to a visual function assessment. We used multivariable logistic regression analyses to assess the independent and joint associations of the cMIND diet and mold exposure with visual impairment.ResultsAmong the participants, the median age was 85.00 years, and 35.97% had visual impairment. For every 1-point increase in the cMIND diet score, lower odds of visual impairment were observed (OR = 0.91, 95% CI: 0.88–0.94), whereas mold exposure was associated with higher odds (OR = 1.19, 95% CI: 1.04–1.35). A linear inverse association was observed between the cMIND diet score and visual impairment. Joint analysis showed the highest odds of visual impairment among participants with both low cMIND diet scores and mold exposure (OR = 1.68, 95% CI: 1.38–2.05). Findings were robust in sensitivity analyses.ConclusionIndependent and joint assoc…",
+      "authors": "Jingshuang Qin, Xiaojie Pan, Chen Wu et al.",
       "published": "Jul 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1776277",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1851210",
       "image": "",
       "screen": "right"
     },

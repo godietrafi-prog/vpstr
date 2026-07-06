@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-06T08:11:43Z",
+  "updated": "2026-07-06T13:39:29Z",
   "items": [
     {
       "title": "Smart breeding for diversified agricultural systems",
@@ -282,6 +282,26 @@
       "screen": "left"
     },
     {
+      "title": "Chemists capture structure of the elusive borylnitrene trapped in a crystal using X-ray",
+      "abstract": "Nitrenes are the ghosts of synthetic chemistry, formed in an instant and gone just as quickly, rearranging into something entirely different. These highly reactive intermediates are widely used in synthesis, yet remain notoriously difficult to study because they rapidly transform into more stable structures through a process called 1,2-migration.",
+      "authors": "",
+      "published": "Jul 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-07-chemists-capture-elusive-borylnitrene-crystal.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/chemists-capture-struc.jpg",
+      "screen": "right"
+    },
+    {
+      "title": "Researchers use AI to evaluate a systematic framework to describe molecular order in liquid water",
+      "abstract": "Water is the most abundant liquid on Earth's surface, and it is highly anomalous compared with other liquids because it expands upon freezing. The anomalies in water have been linked to how its microscopic structure changes with temperature and pressure. However, there is no systematic scheme for characterizing these structural changes.",
+      "authors": "",
+      "published": "Jul 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-07-ai-systematic-framework-molecular-liquid.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/out-of-order-using-ai.jpg",
+      "screen": "right"
+    },
+    {
       "title": "Light flips bacterial signaling enzyme between two shapes, unlocking how signals travel",
       "abstract": "Researchers at the University of Bayreuth and Forschungszentrum Jülich have demonstrated that specific light-sensitive enzymes—so-called sensor histidine kinases (SHKs)—transmit their signal through a light-controlled change in asymmetry. With their new study, the researchers contribute to a better understanding of a central mechanism of bacterial signal processing. This may help develop new tools for biomedicine or biotechnology. The findings are reported in the journal Science Advances.",
       "authors": "",
@@ -299,26 +319,6 @@
       "feedName": "Phys.org Analytics",
       "url": "https://phys.org/news/2026-07-gallium-visible-aryl-iodides-rare.html",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/light-spurs-bond-activ.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "Acceptor molecule upconverts low-energy green light to high-energy purple with high efficiency",
-      "abstract": "Solar cells and photocatalysts can be surprisingly inefficient. Despite light consisting of many wavelengths, the range that even highly efficient devices use is limited. Other wavelengths, especially long wavelengths, simply pass through the material without being used as energy.",
-      "authors": "",
-      "published": "Jul 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-07-acceptor-molecule-upconverts-energy-green.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/green-light-in-purple.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "Crystal-design principle reveals how competing molecular forces control structure, color and phase transitions",
-      "abstract": "Organic molecular crystals can respond to external stimuli such as heat, light, and mechanical force, making them attractive candidates for next-generation functional materials. However, predicting how multiple intermolecular interactions cooperate or compete to govern crystal behavior remains a major challenge.",
-      "authors": "",
-      "published": "Jul 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-07-crystal-principle-reveals-molecular-phase.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/researchers-establish.jpg",
       "screen": "right"
     },
     {

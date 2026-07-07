@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-07T10:47:34Z",
+  "updated": "2026-07-07T14:10:00Z",
   "items": [
     {
       "title": "Publisher Correction: Machine learning-optimized composting strategies can enhance nutrient recycling and transform food system waste into a net carbon sink",
@@ -572,44 +572,6 @@
       "researcher": {
         "name": "Ofir Benjamin",
         "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=FsjV0oIAAAAJ"
-      }
-    },
-    {
-      "title": "Phosphorus in Balance: Evaluating the Costs and Benefits of a Circular Economy Approach",
-      "abstract": "This paper presents a comprehensive cost-benefit analysis of producing alternative phosphorus (P) fertilizers from recycled water treatment residuals (Fe-WTR) and cowshed effluents. The cost-benefit values of Fe-WTR are compared to the net costs of recycling P using a synthetic adsorbent (commonly used practice-layered double hydroxide, P-LDH) and the costs of commercial fertilizers. Dairy wastewater is used as a source of P. The cost of 1 ton P using the Fe-WTR process is €329. In contrast, synthetic adsorbents (P-LDH) incur significantly higher costs, amounting to €3329 per ton, underscoring the economic advantage of utilizing waste-derived materials. Adopting Fe-WTR fertilizer not only offers substantial cost savings by avoiding landfill fees (€40 per ton) and wastewater discharge fines (€500 per ton) but also reduces environmental impacts when compared to the use of commercial P fertilizers (non-recycled P). The Fe-WTR method mitigates eutrophication and pollution, presenting the dual benefit of cost-effectiveness and environmental protection, which exceeds the common P recycling practice (LDH). Our conclusions are based on production processes in Israel and compared to previous cost estimations at the world level, assessing the potential gain from such circular production of P globally. Recycling P from waste streams can be economically viable and environmentally preferable at small and large economic scales, supporting global sustainability goals.",
-      "authors": "H. E. Ganem, I. Zohar, M. Litaor et al.",
-      "published": "2024",
-      "venue": "Journal of Environmental Science Studies",
-      "feedName": "Lab Research",
-      "citationCount": 0,
-      "recentCitations": 0,
-      "s2_paper_id": "5a7645fb724f2527117a809194848a4b84de25da",
-      "url": "https://doi.org/10.20849/jess.v7i2.1469",
-      "image": "",
-      "screen": "both",
-      "lab_paper": true,
-      "researcher": {
-        "name": "Adi Jonas-Levi",
-        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=MbCf9l4AAAAJ"
-      }
-    },
-    {
-      "title": "The impact of alternative recycled and synthetic phosphorus sources on plant growth and responses, soil interactions and sustainable agriculture - lettuce (Lactuca sativa) as a case model.",
-      "abstract": "This research assesses the efficacy of two phosphorus (P) adsorbents as alternative fertilizers in promoting lettuce growth. A synthetic Mg/Al-layered double hydroxide (LDH) and an iron-based recycled water treatment residual (Fe-WTR), both enriched with P from dairy wastewater and added at three dosage levels. We hypothesized that the adsorbents' physicochemical nature will overshadow the biological efforts in the plant ecosystem to increase P solubility, impacting plant growth, nutritional composition, and metabolite profiles. Fe-WTR significantly enhanced lettuce biomass compared to LDH. Yet, elemental analysis revealed higher or equal P concentrations in the low-biomass LDH plants relative to other treatments. Phosphorus uptake appears to influence the assimilation of other nutrients that divided into two groups: calcium, magnesium, zinc, and copper with notable correlations to P and nitrogen, iron, aluminum, vanadium and manganese with low correlations to P. Conversely, P retained poor correlation with most metabolites whereas iron showed a higher correlation with numerous metabolites. Analysis of metabolites, encompassing carbohydrates, the Krebs cycle, amino acids, nucleic acids, and stress and regulatory pathways, revealed diminished levels in the LDH treatments. Overall, carbon assimilation (plant growth) was more effectively predicted by soil P availability (adsorbent type and dose) rather than by cellular P concentration, suggesting root signaling was at play, influencing carbohydrate translocation to the roots. Diminished levels of cellular sugars further affect…",
-      "authors": "I. Zohar, H. E. Ganem, D. DiSegni et al.",
-      "published": "2024",
-      "venue": "Science of the Total Environment",
-      "feedName": "Lab Research",
-      "citationCount": 7,
-      "recentCitations": 0,
-      "s2_paper_id": "716a87e9602f04f6b3d7fe6c3b411a15d1beaf4a",
-      "url": "https://doi.org/10.1016/j.scitotenv.2024.174719",
-      "image": "",
-      "screen": "both",
-      "lab_paper": true,
-      "researcher": {
-        "name": "Adi Jonas-Levi",
-        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=MbCf9l4AAAAJ"
       }
     },
     {

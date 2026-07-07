@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-07T19:43:56Z",
+  "updated": "2026-07-07T21:17:27Z",
   "items": [
     {
       "title": "Publisher Correction: Machine learning-optimized composting strategies can enhance nutrient recycling and transform food system waste into a net carbon sink",
@@ -282,6 +282,16 @@
       "screen": "left"
     },
     {
+      "title": "AI framework could speed battery, combustion and materials research by automating simulations",
+      "abstract": "Computers have made it easier than ever before to design the perfect material for a given problem: Scientists can create a virtual version and simulate how that material will behave. Building these atomically precise simulations, however, typically requires deep expertise in computational chemistry. At the U.S. Department of Energy's (DOE) Argonne National Laboratory, researchers have developed a kind of shortcut, streamlining scientific workflows using artificial intelligence (AI).",
+      "authors": "",
+      "published": "Jul 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-07-ai-framework-battery-combustion-materials.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/team-unlocks-ai-for-ch-2.jpg",
+      "screen": "right"
+    },
+    {
       "title": "Tiny carbon rings enable a new form of quantum control",
       "abstract": "Quantum states can be precisely controlled with the help of tiny carbon rings measuring only a few nanometers in size. This is made possible by a class of rarely used electromagnetic dipoles called toroidal moments. Using computer simulations, physicists at Martin Luther University Halle-Wittenberg (MLU) have now found a way to generate and control these nanostructures without any loss. The findings are published in npj Computational Materials and create new opportunities for quantum computer technology.",
       "authors": "",
@@ -309,16 +319,6 @@
       "feedName": "Phys.org Analytics",
       "url": "https://phys.org/news/2026-07-physics-ai-drug-patches-bandages.html",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/physics-informed-ai-co.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "Chemists capture structure of the elusive borylnitrene trapped in a crystal using X-ray",
-      "abstract": "Nitrenes are the ghosts of synthetic chemistry, formed in an instant and gone just as quickly, rearranging into something entirely different. These highly reactive intermediates are widely used in synthesis, yet remain notoriously difficult to study because they rapidly transform into more stable structures through a process called 1,2-migration.",
-      "authors": "",
-      "published": "Jul 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-07-chemists-capture-elusive-borylnitrene-crystal.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/chemists-capture-struc.jpg",
       "screen": "right"
     },
     {

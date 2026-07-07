@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-07T14:10:00Z",
+  "updated": "2026-07-07T17:53:33Z",
   "items": [
     {
       "title": "Publisher Correction: Machine learning-optimized composting strategies can enhance nutrient recycling and transform food system waste into a net carbon sink",
@@ -282,6 +282,16 @@
       "screen": "left"
     },
     {
+      "title": "Tiny carbon rings enable a new form of quantum control",
+      "abstract": "Quantum states can be precisely controlled with the help of tiny carbon rings measuring only a few nanometers in size. This is made possible by a class of rarely used electromagnetic dipoles called toroidal moments. Using computer simulations, physicists at Martin Luther University Halle-Wittenberg (MLU) have now found a way to generate and control these nanostructures without any loss. The findings are published in npj Computational Materials and create new opportunities for quantum computer technology.",
+      "authors": "",
+      "published": "Jul 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-07-tiny-carbon-enable-quantum.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/tiny-carbon-rings-enab.jpg",
+      "screen": "right"
+    },
+    {
       "title": "Newly identified marine bacterial enzyme opens new route to building bioactive compound libraries",
       "abstract": "Many important medicines and agricultural compounds have origins in natural products made by microorganisms. One such compound is prodigiosin, a vivid red pigment produced by certain bacteria. Beyond its color, prodigiosin and related compounds known as prodiginines have attracted scientific interest because they have shown antibacterial, anticancer, immunosuppressive, antifungal and plant-protection activities.",
       "authors": "",
@@ -309,16 +319,6 @@
       "feedName": "Phys.org Analytics",
       "url": "https://phys.org/news/2026-07-chemists-capture-elusive-borylnitrene-crystal.html",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/chemists-capture-struc.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "Researchers use AI to evaluate a systematic framework to describe molecular order in liquid water",
-      "abstract": "Water is the most abundant liquid on Earth's surface, and it is highly anomalous compared with other liquids because it expands upon freezing. The anomalies in water have been linked to how its microscopic structure changes with temperature and pressure. However, there is no systematic scheme for characterizing these structural changes.",
-      "authors": "",
-      "published": "Jul 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-07-ai-systematic-framework-molecular-liquid.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/out-of-order-using-ai.jpg",
       "screen": "right"
     },
     {
@@ -402,22 +402,32 @@
       "screen": "right"
     },
     {
-      "title": "Association of non-high-density lipoprotein cholesterol to high-density lipoprotein cholesterol ratio (NHHR) with cardiovascular mortality in peritoneal dialysis patients: a prospective cohort study",
-      "abstract": "BackgroundThe association between non-high-density lipoprotein cholesterol to high-density lipoprotein cholesterol ratio (NHHR) and prognosis in patients with end-stage renal disease (ESRD) remains controversial. The aim of this study is to explore the association of NHHR with cardiovascular disease (CVD) mortality as well as all-cause mortality in peritoneal dialysis (PD) patients.MethodsIn this single-center prospective observational cohort study, 1,616 individuals undergoing PD were recruited with a median follow-up duration of 47.6 months. The association of NHHR with overall CVD mortality, as well as atherosclerotic and non-atherosclerotic subtypes, was assessed using competing risk regression models. Additionally, multivariable Cox proportional hazards regression was employed to evaluate the relationship between NHHR and all-cause mortality. Critical baseline covariates were adjusted in these multivariable models.ResultsIn the end, 552 patients (34.2%) died, of whom 264 (47.8%) died from CVD mortality, corresponding to incidence rates of 71.18 and 34.04 per 1,000 person-years, respectively. In multivariable analyses, competing risk regression model showed no significant association between NHHR and overall CVD mortality. However, each 1- standard deviation (SD) increase in NHHR level was associated with a 35% higher risk of atherosclerotic CVD mortality (sub-distribution hazard ratio [SHR] 1.35, 95% Confidence interval [CI] 1.17–1.56), and a 27% lower risk of non-atherosclerotic CVD mortality (SHR 0.73, 95% CI 0.58–0.93), respectively. Cox regression model indicated t…",
-      "authors": "Yuening Zhang, Junjie Liang, Suchun Li et al.",
+      "title": "Dynamics and drivers of the human breast milk microbiome across lactation stages",
+      "abstract": "IntroductionHuman breast milk (HBM) not only provides all the nutrients and microbiota for the initial development of infants but is also the source of gut microbes in infants and is essential for establishing a healthy gut microbiota and immune system. In this study, we enrolled 188 healthy Uyghur mothers from Xinjiang, China, analysed the structure and diversity of the human breast milk microbial community from 0 to 856 days after delivery, and explored the characteristics of the human breast milk microbiome and potential influencing factors at each lactation stage.MethodsBy constructing microbial cooccurrence relationship networks at various stages of lactation and random forest models, we adopted large sample collection and combined multiple models to largely avoid individual differences.ResultsWe showed that the human breast milk microbiota is a dynamic and complex ecosystem, and we found the network central nodes that change during the transition from human colostrum to human mature milk and various stage specific microbial markers. In addition, we also found that the mode of delivery and intrapartum antibiotic prophylaxis during delivery affected the structure and diversity of the microbial community of colostrum, but the degree of influence decreased as the human colostrum transitioned to mature milk.DiscussionWe determined the change trends for microbial community structure and diversity during the transition from human colostrum to human mature milk, provided evidence for the temporal dynamics of the microbial community in human breast milk, and evaluated the impa…",
+      "authors": "YuQi Xie, YiLing Lu, ZhongHuan Jiang et al.",
       "published": "Jul 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1827345",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1861294",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Association between prognostic nutritional index and 28-day mortality in patients with sepsis-associated acute respiratory distress syndrome",
-      "abstract": "Background and AimsDespite advances in critical care, sepsis-associated acute respiratory distress syndrome (SA-ARDS) continues to impose a substantial clinical burden, characterized by persistently high incidence and mortality. This study aimed to investigate the association between the Prognostic Nutritional Index (PNI) and 28-day mortality in SA-ARDS patients.MethodsIn this retrospective cohort study, 1,022 adult ICU patients with SA-ARDS (2020–2025) were analyzed. The primary outcome of this study was the 28-day mortality rate in patients with SA-ARDS. Multivariate logistic regression, propensity score matching (PSM), inverse probability weighting (IPW), doubly robust estimation, generalized additive models (GAM), Kaplan–Meier (KM) survival analysis, and receiver operating characteristic (ROC) curve were used to investigate the relationship between PNI and 28-day mortality in patients with SA-ARDS.ResultsAll statistical models consistently identified PNI as an independent protective factor for SA-ARDS prognosis (multivariate logistic regression: OR 0.41, 95% CI 0.31–0.51; PSM: OR 0.52, 0.45–0.57; IPW: OR 0.50, 0.44–0.57; doubly robust estimation: OR 0.03, 0.02–0.06). The GAM revealed a notable threshold-dependent association between PNI and 28-day mortality in SA-ARDS patients, with an optimal cutoff value of 41. Patients with PNI ≥ 41 had a markedly reduced mortality risk (p < 0.001). ROC comparison via DeLong test revealed heterogeneous performance of standalone PNI across cohorts: PNI outperformed both SOFA and APACHE II in the TMUGH cohort, showed no statistical dif…",
-      "authors": "Lina Zhao, Peng Li, Shuoyan Dong et al.",
+      "title": "Higher remnant cholesterol inflammatory index is associated with increased frailty risk in the UK Biobank",
+      "abstract": "BackgroundFrailty is a major public health concern associated with adverse outcomes. The remnant cholesterol inflammatory index (RCII), a novel biomarker integrating lipid metabolism and systemic inflammation, has been proposed as an indicator of adverse health outcomes. However, little is known about its relationship with frailty. The study aimed to investigate the longitudinal association between RCII and frailty risk in the UK Biobank.MethodsA total of 402,850 participants from the UK Biobank were included at baseline. RCII was calculated as remnant cholesterol (RC, mg/dL) × C-reactive protein (CRP, mg/L)/10, and frailty was assessed using the Fried frailty phenotype. Cox proportional hazards regression models were applied to evaluate the association between baseline RCII and incident frailty. Restricted cubic spline (RCS) analyses were used to explore potential nonlinear relationships. To capture cumulative exposure, we additionally analyzed 12,895 participants with the same measurements to examine the relationship between cumulative RCII and frailty risk.ResultsDuring a median follow-up of 15.58 years, 2,327 participants (0.58%) developed frailty. Frailty incidence increased progressively across RCII quartiles, from 0.3% in Q1 to 0.9% in Q4 (P for trend < 0.001). In the fully adjusted model, each standard deviation increase in RCII was associated with a 11% higher risk of frailty (HR = 1.11, 95% CI: 1.07–1.15). RCS analysis indicated a nonlinear positive relationship, with frailty risk rising more sharply at higher RCII levels. In the 11.68-year subset analysis, 497 pa…",
+      "authors": "Qianyu Zhou, Mengting Liu, Lianke Wang et al.",
       "published": "Jul 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1867675",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1864976",
+      "image": "",
+      "screen": "right"
+    },
+    {
+      "title": "Synergistic protective effects of curcumin nano-emulsion and virgin coconut oil against thermal oxidation of sunflower oil and its hepatorenal toxicity in rats",
+      "abstract": "IntroductionRepeated heating of vegetable oils leads to the generation of toxic oxidation products, which activate systemic oxidative stress and cause multi-organ injuries. This study examined the hepatorenal synergistic protection of Curcumin Nano-Emulsion (CNE) and virgin coconut oil (VCO) against the toxicity of thermally stressed sunflower oil (HSO) and explored the underlying antioxidant and anti-inflammatory mechanisms.MethodsCNE was characterized by nanoscale particle size, high encapsulation efficiency, and excellent stability. HSO was supplemented with VCO (20% w/w) and CNE (200 ppm) to evaluate improvements in oxidative stability in vitro by measuring peroxide value, p-anisidine value, total polar compounds, and toxic aldehydes. For the in vivo study, sixty-four male Wistar rats were fed different oil-based diets for two months. Biochemical parameters, oxidative stress markers, inflammatory indices, and histopathological changes in liver and kidney tissues were assessed. Immunohistochemical analysis was performed to evaluate NF-κB and Nrf2 signaling pathways.ResultsSupplementation of HSO with VCO and CNE significantly improved oxidative stability compared with individual treatments and TBHQ, with marked reductions in peroxide value, p-anisidine value, total polar compounds, and toxic aldehydes. HSO induced significant hepatorenal injury, dyslipidemia, oxidative stress, and inflammation in rats. The combined treatment (HSO + VCO + CNE) markedly ameliorated these alterations, nearly restoring biochemical parameters to normal levels and minimizing histopathological d…",
+      "authors": "Seham E. Almasoudi, Nawal A. Ozaybi, Eman S. Alamri et al.",
+      "published": "Jul 2026",
+      "feedName": "Frontiers Nutrition",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1864714",
       "image": "",
       "screen": "right"
     },
@@ -428,16 +438,6 @@
       "published": "Jul 2026",
       "feedName": "Frontiers Nutrition",
       "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1894892",
-      "image": "",
-      "screen": "right"
-    },
-    {
-      "title": "Dynamics and drivers of the human breast milk microbiome across lactation stages",
-      "abstract": "IntroductionHuman breast milk (HBM) not only provides all the nutrients and microbiota for the initial development of infants but is also the source of gut microbes in infants and is essential for establishing a healthy gut microbiota and immune system. In this study, we enrolled 188 healthy Uyghur mothers from Xinjiang, China, analysed the structure and diversity of the human breast milk microbial community from 0 to 856 days after delivery, and explored the characteristics of the human breast milk microbiome and potential influencing factors at each lactation stage.MethodsBy constructing microbial cooccurrence relationship networks at various stages of lactation and random forest models, we adopted large sample collection and combined multiple models to largely avoid individual differences.ResultsWe showed that the human breast milk microbiota is a dynamic and complex ecosystem, and we found the network central nodes that change during the transition from human colostrum to human mature milk and various stage specific microbial markers. In addition, we also found that the mode of delivery and intrapartum antibiotic prophylaxis during delivery affected the structure and diversity of the microbial community of colostrum, but the degree of influence decreased as the human colostrum transitioned to mature milk.DiscussionWe determined the change trends for microbial community structure and diversity during the transition from human colostrum to human mature milk, provided evidence for the temporal dynamics of the microbial community in human breast milk, and evaluated the impa…",
-      "authors": "YuQi Xie, YiLing Lu, ZhongHuan Jiang et al.",
-      "published": "Jul 2026",
-      "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1861294",
       "image": "",
       "screen": "right"
     },
@@ -572,6 +572,44 @@
       "researcher": {
         "name": "Ofir Benjamin",
         "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=FsjV0oIAAAAJ"
+      }
+    },
+    {
+      "title": "Phosphorus in Balance: Evaluating the Costs and Benefits of a Circular Economy Approach",
+      "abstract": "This paper presents a comprehensive cost-benefit analysis of producing alternative phosphorus (P) fertilizers from recycled water treatment residuals (Fe-WTR) and cowshed effluents. The cost-benefit values of Fe-WTR are compared to the net costs of recycling P using a synthetic adsorbent (commonly used practice-layered double hydroxide, P-LDH) and the costs of commercial fertilizers. Dairy wastewater is used as a source of P. The cost of 1 ton P using the Fe-WTR process is €329. In contrast, synthetic adsorbents (P-LDH) incur significantly higher costs, amounting to €3329 per ton, underscoring the economic advantage of utilizing waste-derived materials. Adopting Fe-WTR fertilizer not only offers substantial cost savings by avoiding landfill fees (€40 per ton) and wastewater discharge fines (€500 per ton) but also reduces environmental impacts when compared to the use of commercial P fertilizers (non-recycled P). The Fe-WTR method mitigates eutrophication and pollution, presenting the dual benefit of cost-effectiveness and environmental protection, which exceeds the common P recycling practice (LDH). Our conclusions are based on production processes in Israel and compared to previous cost estimations at the world level, assessing the potential gain from such circular production of P globally. Recycling P from waste streams can be economically viable and environmentally preferable at small and large economic scales, supporting global sustainability goals.",
+      "authors": "H. E. Ganem, I. Zohar, M. Litaor et al.",
+      "published": "2024",
+      "venue": "Journal of Environmental Science Studies",
+      "feedName": "Lab Research",
+      "citationCount": 0,
+      "recentCitations": 0,
+      "s2_paper_id": "5a7645fb724f2527117a809194848a4b84de25da",
+      "url": "https://doi.org/10.20849/jess.v7i2.1469",
+      "image": "",
+      "screen": "both",
+      "lab_paper": true,
+      "researcher": {
+        "name": "Adi Jonas-Levi",
+        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=MbCf9l4AAAAJ"
+      }
+    },
+    {
+      "title": "The impact of alternative recycled and synthetic phosphorus sources on plant growth and responses, soil interactions and sustainable agriculture - lettuce (Lactuca sativa) as a case model.",
+      "abstract": "This research assesses the efficacy of two phosphorus (P) adsorbents as alternative fertilizers in promoting lettuce growth. A synthetic Mg/Al-layered double hydroxide (LDH) and an iron-based recycled water treatment residual (Fe-WTR), both enriched with P from dairy wastewater and added at three dosage levels. We hypothesized that the adsorbents' physicochemical nature will overshadow the biological efforts in the plant ecosystem to increase P solubility, impacting plant growth, nutritional composition, and metabolite profiles. Fe-WTR significantly enhanced lettuce biomass compared to LDH. Yet, elemental analysis revealed higher or equal P concentrations in the low-biomass LDH plants relative to other treatments. Phosphorus uptake appears to influence the assimilation of other nutrients that divided into two groups: calcium, magnesium, zinc, and copper with notable correlations to P and nitrogen, iron, aluminum, vanadium and manganese with low correlations to P. Conversely, P retained poor correlation with most metabolites whereas iron showed a higher correlation with numerous metabolites. Analysis of metabolites, encompassing carbohydrates, the Krebs cycle, amino acids, nucleic acids, and stress and regulatory pathways, revealed diminished levels in the LDH treatments. Overall, carbon assimilation (plant growth) was more effectively predicted by soil P availability (adsorbent type and dose) rather than by cellular P concentration, suggesting root signaling was at play, influencing carbohydrate translocation to the roots. Diminished levels of cellular sugars further affect…",
+      "authors": "I. Zohar, H. E. Ganem, D. DiSegni et al.",
+      "published": "2024",
+      "venue": "Science of the Total Environment",
+      "feedName": "Lab Research",
+      "citationCount": 7,
+      "recentCitations": 0,
+      "s2_paper_id": "716a87e9602f04f6b3d7fe6c3b411a15d1beaf4a",
+      "url": "https://doi.org/10.1016/j.scitotenv.2024.174719",
+      "image": "",
+      "screen": "both",
+      "lab_paper": true,
+      "researcher": {
+        "name": "Adi Jonas-Levi",
+        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=MbCf9l4AAAAJ"
       }
     },
     {

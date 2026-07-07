@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-06T22:59:37Z",
+  "updated": "2026-07-07T02:10:43Z",
   "items": [
     {
       "title": "Publisher Correction: Machine learning-optimized composting strategies can enhance nutrient recycling and transform food system waste into a net carbon sink",
@@ -282,6 +282,16 @@
       "screen": "left"
     },
     {
+      "title": "Newly identified marine bacterial enzyme opens new route to building bioactive compound libraries",
+      "abstract": "Many important medicines and agricultural compounds have origins in natural products made by microorganisms. One such compound is prodigiosin, a vivid red pigment produced by certain bacteria. Beyond its color, prodigiosin and related compounds known as prodiginines have attracted scientific interest because they have shown antibacterial, anticancer, immunosuppressive, antifungal and plant-protection activities.",
+      "authors": "",
+      "published": "Jul 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-07-newly-marine-bacterial-enzyme-route.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/newly-identified-marin.jpg",
+      "screen": "right"
+    },
+    {
       "title": "Physics-informed AI could accelerate development of controlled-release drug patches, bandages",
       "abstract": "Brown University researchers have developed a new artificial intelligence method for predicting the rate at which materials used in controlled drug-release systems release therapeutic agents. The new method could slash the development time for new therapeutic patches, bandages and implants.",
       "authors": "",
@@ -309,16 +319,6 @@
       "feedName": "Phys.org Analytics",
       "url": "https://phys.org/news/2026-07-ai-systematic-framework-molecular-liquid.html",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/out-of-order-using-ai.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "Light flips bacterial signaling enzyme between two shapes, unlocking how signals travel",
-      "abstract": "Researchers at the University of Bayreuth and Forschungszentrum Jülich have demonstrated that specific light-sensitive enzymes—so-called sensor histidine kinases (SHKs)—transmit their signal through a light-controlled change in asymmetry. With their new study, the researchers contribute to a better understanding of a central mechanism of bacterial signal processing. This may help develop new tools for biomedicine or biotechnology. The findings are reported in the journal Science Advances.",
-      "authors": "",
-      "published": "Jul 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-07-flips-bacterial-enzyme.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/mechanism-of-bacterial.jpg",
       "screen": "right"
     },
     {

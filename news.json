@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-07T17:53:33Z",
+  "updated": "2026-07-07T19:43:56Z",
   "items": [
     {
       "title": "Publisher Correction: Machine learning-optimized composting strategies can enhance nutrient recycling and transform food system waste into a net carbon sink",
@@ -412,12 +412,12 @@
       "screen": "right"
     },
     {
-      "title": "Higher remnant cholesterol inflammatory index is associated with increased frailty risk in the UK Biobank",
-      "abstract": "BackgroundFrailty is a major public health concern associated with adverse outcomes. The remnant cholesterol inflammatory index (RCII), a novel biomarker integrating lipid metabolism and systemic inflammation, has been proposed as an indicator of adverse health outcomes. However, little is known about its relationship with frailty. The study aimed to investigate the longitudinal association between RCII and frailty risk in the UK Biobank.MethodsA total of 402,850 participants from the UK Biobank were included at baseline. RCII was calculated as remnant cholesterol (RC, mg/dL) × C-reactive protein (CRP, mg/L)/10, and frailty was assessed using the Fried frailty phenotype. Cox proportional hazards regression models were applied to evaluate the association between baseline RCII and incident frailty. Restricted cubic spline (RCS) analyses were used to explore potential nonlinear relationships. To capture cumulative exposure, we additionally analyzed 12,895 participants with the same measurements to examine the relationship between cumulative RCII and frailty risk.ResultsDuring a median follow-up of 15.58 years, 2,327 participants (0.58%) developed frailty. Frailty incidence increased progressively across RCII quartiles, from 0.3% in Q1 to 0.9% in Q4 (P for trend < 0.001). In the fully adjusted model, each standard deviation increase in RCII was associated with a 11% higher risk of frailty (HR = 1.11, 95% CI: 1.07–1.15). RCS analysis indicated a nonlinear positive relationship, with frailty risk rising more sharply at higher RCII levels. In the 11.68-year subset analysis, 497 pa…",
-      "authors": "Qianyu Zhou, Mengting Liu, Lianke Wang et al.",
+      "title": "Dysregulation of phosphatidylethanolamine metabolism associated with upregulation of PNPLA6 in high-fat diet/streptozotocin mice",
+      "abstract": "BackgroundDysregulation of lipid metabolism plays a key role in diabetes mellitus (DM). Phosphatidylethanolamine (PE) and its metabolites, lysophosphatidylethanolamine (LPE) and glycerophosphorylethanolamine (GPE), are involved in cell signaling and mitochondrial homeostasis. Disruption of PE metabolism is associated with insulin sensitivity and mitochondrial dysfunction. However, the mechanism underlying alterations in PE metabolites, especially LPE, in DM remains unclear.MethodsSix-week-old male C57BL/6N mice were divided into three groups: control (regular diet, n = 8), high-fat diet (HFD, n = 8), and HFD combined with streptozotocin treatment (HFD/STZ, n = 6). Lipids were extracted from plasma, kidney, and liver samples using a single-phase method, followed by targeted (LPE 16:0, 18:0, 18:1, 18:2, 20:4, 20:5, and 22:6) and non-targeted liquid chromatography-tandem mass spectrometry. Protein expression was analyzed by Western blotting.ResultsIn the plasma of HFD/STZ mice, the levels of combined LPEs were increased in parallel with PE levels, whereas most LPE species were significantly decreased in the kidneys. Interestingly, GPE levels were markedly increased in the plasma, kidneys, and liver of HFD/STZ mice. The LPE/GPE ratio in the plasma and kidney was negatively correlated with key indicators of DM, such as inflammation, glucose intolerance, and renal dysfunction. Furthermore, PNPLA6, a lysophospholipase that cleaves acyl chains from PE and LPE, was upregulated in the kidney of HFD/STZ mice.ConclusionUpregulation of PNPLA6 was associated with the reduced LPE/GPE rati…",
+      "authors": "Nao Inoue, Hsin-Jung Ho, Siddabasave Gowda B. Gowda et al.",
       "published": "Jul 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1864976",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1799991",
       "image": "",
       "screen": "right"
     },

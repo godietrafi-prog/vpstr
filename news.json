@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-07T22:54:12Z",
+  "updated": "2026-07-08T01:51:41Z",
   "items": [
     {
       "title": "Publisher Correction: Machine learning-optimized composting strategies can enhance nutrient recycling and transform food system waste into a net carbon sink",
@@ -382,6 +382,16 @@
       "screen": "right"
     },
     {
+      "title": "Takeaway meals contain more salt than advertised, study finds",
+      "abstract": "Almost half of the takeaway meals tested contained more salt than advertised, with some dishes delivering nearly twice the recommended daily limit in a single serving. Surprisingly, classic fish and chips ranked among the lowest-salt options, while pasta, pizza, and curries were often the saltiest.",
+      "authors": "",
+      "published": "Jul 2026",
+      "feedName": "ScienceDaily Nutrition",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260625060218.htm",
+      "image": "https://www.sciencedaily.com/images/1920/pizza-slice.webp",
+      "screen": "right"
+    },
+    {
       "title": "They knew the pill was fake but their memory still improved",
       "abstract": "Healthy older adults experienced measurable improvements in memory, physical performance, and stress after taking placebo pills for just three weeks. The most surprising finding was that the placebo often worked even when participants knew the pills were completely inactive.",
       "authors": "",
@@ -389,16 +399,6 @@
       "feedName": "ScienceDaily Nutrition",
       "url": "https://www.sciencedaily.com/releases/2026/06/260625060159.htm",
       "image": "https://www.sciencedaily.com/images/1920/woman-hand-holding-vitamin-supplement-capsule.webp",
-      "screen": "right"
-    },
-    {
-      "title": "Scientists discover a protein switch that burns fat and blocks new fat cells",
-      "abstract": "A protein called “Mitch” may hold the key to a new generation of obesity treatments. Researchers found that disabling it in human cells boosts fat burning, increases energy use, and makes it harder for new fat cells to develop. The findings help explain why mice lacking Mitch were leaner, more athletic, and resistant to obesity.",
-      "authors": "",
-      "published": "Jul 2026",
-      "feedName": "ScienceDaily Nutrition",
-      "url": "https://www.sciencedaily.com/releases/2026/06/260624115324.htm",
-      "image": "https://www.sciencedaily.com/images/1920/woman-weight-loss-success-before-after.webp",
       "screen": "right"
     },
     {

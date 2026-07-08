@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-08T17:29:01Z",
+  "updated": "2026-07-08T19:10:02Z",
   "items": [
     {
       "title": "Publisher Correction: Machine learning-optimized composting strategies can enhance nutrient recycling and transform food system waste into a net carbon sink",
@@ -242,44 +242,54 @@
       "screen": "left"
     },
     {
-      "title": "Degradation of ethyl carbamate by Lichtheimia ramosa EC-2 from Baijiu Daqu : Optimization, metabolites, and key enzymes",
+      "title": "Farm management factors associated with antimicrobial resistance in dairy herds: Insights from a bulk tank milk study",
       "abstract": "",
-      "authors": "Haixiong Qin, Xinpeng Guo, Jia Zheng et al.",
-      "published": "Dec 2026",
+      "authors": "Marija Kovandžić, Marija Starčević, Bojan Papić et al.",
+      "published": "Jan 2027",
       "feedName": "Food Microbiology",
-      "url": "https://www.sciencedirect.com/science/article/pii/S074000202600170X?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0740002026001929?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
     {
-      "title": "Optimization of a capsid integrity RT-qPCR method to quantify thermally inactivated hepatitis E virus in suspensions and in deli meat samples",
+      "title": "Using consumer acceptance to guide microbial thresholds for the shelf life of fresh chicken breasts",
       "abstract": "",
-      "authors": "Audrey Fraisse, Marie Pellerin, Carole Feurer et al.",
-      "published": "Dec 2026",
+      "authors": "Solveig Langsrud, Aira Joy Aquino, Beatriz Nunes Silva et al.",
+      "published": "Jan 2027",
       "feedName": "Food Microbiology",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0740002026001577?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0740002026001905?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
     {
-      "title": "Thermophilic spore-forming bacteria biofilms in foods and beverages: Current knowledge, industrial risks, and emerging control strategies",
+      "title": "Prevalence and genomic characterization of Salmonella enterica serovar Typhimurium across a duck breeder–hatchery–grow-out production system in China",
       "abstract": "",
-      "authors": "Muftau Adeniyi Moshood, Eugénio da Piedade Edmundo Sitoe, Anderson S. Sant’Ana",
+      "authors": "Xinyuan Miao, Xue Wang, Linye Ding et al.",
       "published": "Dec 2026",
       "feedName": "Food Microbiology",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0740002026001711?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0740002026001826?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
     {
-      "title": "Biological control of fungal spoilage in fruit: Mechanisms, microbial interactions, and implications for food quality",
+      "title": "Taxonomic and functional analysis of type I sourdough microbiota after long-term cryopreservation and subsequent reactivation",
       "abstract": "",
-      "authors": "Jia Liu, Zipeng Wang, Yuan Sui et al.",
+      "authors": "Roberta Coronas, Angela Bianco, Maria Carla Cossu et al.",
       "published": "Dec 2026",
       "feedName": "Food Microbiology",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0740002026001723?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0740002026001875?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
+    },
+    {
+      "title": "Measuring what cupping therapy pulls from the skin",
+      "abstract": "Cupping therapy is a traditional Chinese medicine (TCM) technique used to treat chronic pain, expedite muscle recovery and other conditions. It increases blood flow by creating suction on the skin. But what is released from the skin during treatment? Researchers reporting in ACS' Analytical Chemistry developed a noninvasive approach to analyze compounds pulled into the cup. In a pilot study with healthy volunteers, they detected changes in 13 volatile compounds before and after treatment.",
+      "authors": "",
+      "published": "Jul 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-07-cupping-therapy-skin.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/measuring-what-cupping.jpg",
+      "screen": "right"
     },
     {
       "title": "Large language model guides discovery of catalysts for clean energy tech",
@@ -309,16 +319,6 @@
       "feedName": "Phys.org Analytics",
       "url": "https://phys.org/news/2026-07-tiny-carbon-enable-quantum.html",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/tiny-carbon-rings-enab.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "Newly identified marine bacterial enzyme opens new route to building bioactive compound libraries",
-      "abstract": "Many important medicines and agricultural compounds have origins in natural products made by microorganisms. One such compound is prodigiosin, a vivid red pigment produced by certain bacteria. Beyond its color, prodigiosin and related compounds known as prodiginines have attracted scientific interest because they have shown antibacterial, anticancer, immunosuppressive, antifungal and plant-protection activities.",
-      "authors": "",
-      "published": "Jul 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-07-newly-marine-bacterial-enzyme-route.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/newly-identified-marin.jpg",
       "screen": "right"
     },
     {
@@ -402,26 +402,6 @@
       "screen": "right"
     },
     {
-      "title": "Effects of acute caffeine supplementation on physical, physiological, and sport-specific performance in female volleyball players: a systematic review and three-level meta-analysis",
-      "abstract": "IntroductionPrevious research has suggested that caffeine can enhance performance in volleyball. However, most meta-analyses on caffeine supplementation in volleyball have primarily focused on male athletes or mixed-sex samples. To date, no meta-analysis has specifically examined the effects of caffeine in female volleyball players. Therefore, the present study aimed to synthesize the available evidence to provide a cautious and preliminary evaluation of the effects of caffeine on multidimensional performance outcomes in female volleyball athletes.MethodsA systematic search was conducted in March 2026 across PubMed, Web of Science, the Cochrane Library, and ProQuest. The review was registered in PROSPERO (CRD420261355948). Randomized controlled trials examining the effects of caffeine intake on performance in female volleyball players were included. Methodological quality and risk of bias were assessed using the PEDro scale and the RoB 2 tool, and the certainty of evidence was evaluated using the GRADE approach.ResultsFive studies were included, comprising a total of 66 female athletes. Overall methodological quality was high, although some risk of bias was identified. According to the GRADE assessment, the overall certainty of evidence was very low. The exploratory meta-analysis did not provide clear evidence supporting an ergogenic effect of caffeine supplementation on sport-specific performance (spike performance), physical performance (jump height, change of direction, handgrip strength, and power output), or physiological outcomes (fatigue- and heart rate-related param…",
-      "authors": "Zike Zhang, Youheng Wang, Zhe Lu et al.",
-      "published": "Jul 2026",
-      "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1880118",
-      "image": "",
-      "screen": "right"
-    },
-    {
-      "title": "Comparative structural characterization and protective effects against myocardial ischemia/reperfusion injury of polysaccharides from two major Chinese yam cultivars (Dioscorea opposita Thunb)",
-      "abstract": "BackgroundChinese yam (Dioscorea opposita Thunb.) is a widely consumed edible and medicinal crop. Its polysaccharides are promising food-derived bioactive ingredients. However, cultivar-dependent consistency remains insufficiently defined. This issue is important for functional ingredient standardization. In this study, crude polysaccharide fractions isolated from two representative cultivars, Xiao-Bai-Zui and Tie-Gun, were designated CYP-XBZ and CYP-TG and comparatively evaluated.MethodsThe molecular weight distribution, monosaccharide composition, UV–visible spectra, and FT–IR characteristics of the two polysaccharide fractions were compared. Their protective effects were evaluated in H9c2 cells subjected to oxygen–glucose deprivation/reoxygenation (OGD/R) and in a rat model of myocardial ischemia/reperfusion injury (MI/RI). Furthermore, transcriptomics, proteomics, and Western blotting were integrated to investigate the underlying mechanisms.ResultsCYP-XBZ and CYP-TG exhibited broadly similar molecular weight distribution patterns, glucan-dominant monosaccharide compositions, and characteristic polysaccharide spectral features. However, minor differences in molecular heterogeneity and monosaccharide proportions were observed. In OGD/R-treated H9c2 cells, both fractions significantly improved cell viability and reduced CK-MB, cTnT, and 8-OHdG levels. Multi-omics analyses revealed that the shared protective effects were mainly associated with stress and inflammation-related pathways, particularly the MyD88-associated MAPK and NF-κB signaling pathways. These findings were f…",
-      "authors": "Guojie Xie, Longqin Li, Xueqian Hu et al.",
-      "published": "Jul 2026",
-      "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1864107",
-      "image": "",
-      "screen": "right"
-    },
-    {
       "title": "Saccharomyces boulardii as a probiotic yeast in food applications and its health properties: a review and future perspectives",
       "abstract": "Saccharomyces boulardii is currently the only probiotic yeast with established clinical validation for use in both humans and livestock. It exhibits unique advantages that are difficult to achieve with conventional probiotics, including resistance to gastric acid and antibiotics, as well as broad-spectrum antimicrobial activity. Moreover, through the secretion of bioactive metabolites, S. boulardii can improve food quality and contribute to the management of digestive disorders. Consequently, it has gained increasing attention in functional ingredients (FI), fermented foods (FF), and foods for special medical purposes (FSMP). This review involves reviewing and screening relevant scientific literature to conduct a critical bibliometric analysis. This review provides a systematic review of the physiological characteristics, mechanisms of action, applications in food systems, application scope, and clinically validated health benefits of S. boulardii. These benefits include modulation of the gut microbiota, enhancement of immune function, and alleviation of symptoms associated with gastrointestinal disorders. The review also covers advances in genetic engineering approaches aimed at enhancing its probiotic functions, as well as the technical, regulatory, and safety limitations associated with its application in food products. Finally, in light of current bottlenecks associated with its industrial application, future research directions are proposed.",
       "authors": "Zijie Dong, Longfei Wang, Yongqiang An et al.",
@@ -432,12 +412,32 @@
       "screen": "right"
     },
     {
-      "title": "Lipid oxidation-mediated non-enzymatic glycation and its impact on the digestibility of milk proteins",
-      "abstract": "BackgroundThis study explored the influence of milk fat on non-enzymatic glycation of proteins and protein digestibility by analyzing the accumulation of glycation products and changes in protein structure.ResultsThe contents of POV and MDA increased significantly on day 7 of storage in milk model groups with different milk fat concentrations (0, 2, 4, 6%) and the increase was more obvious in the high-fat (6%) group. In the high-fat group, the contents of glyoxal and methylglyoxal, the intermediate products of non-enzymatic glycation increased at a high level. The peak shift and the appearance of new peaks in the infrared spectrum further indicated enhanced glycation coupled with lipid oxidation. In addition, the decrease in fluorescence intensity, the increase in ultraviolet absorption, the reduction in surface hydrophobicity, and the change of protein secondary structure in the high fat group indicated obvious changes in the microstructure of proteins. The cleavage site of protease was reduced because of the alterations in protein advanced structure and the occupation of amino acids digestion sites, which subsequently reduced the digestibility of proteins. This phenomenon was more obvious in the early stage of gastrointestinal digestion.ConclusionHigh levels of milk fat promoted non-enzymatic glycation by accelerating lipid oxidation, which in turn induced glycation, cross-linking, and aggregation of milk proteins. These structural changes further hindered the action of digestive enzymes, ultimately reducing the digestibility of milk proteins.",
-      "authors": "Haixia Yan, Chenyu Wang, Xiaofeng Lu et al.",
+      "title": "Nutrition as a missing link in One Health: from conceptual invisibility to strategic action",
+      "abstract": "The One Health approach recognizes the interdependence between human, animal, and ecosystem health and calls for integrated, system-oriented responses to contemporary health challenges. This viewpoint argues that One Health depends on the coordinated engagement of all health professionals, and that dietitians (also referred to as nutritionists, as the professional title varies across countries) play a particularly strategic role due to the systemic reach of their practice. Operating at the interface of food systems, dietary behaviors, population health, and environmental sustainability, dietitians are well-positioned to address upstream determinants of health across the life course. We highlight how nutrition practice advances One Health objectives, often without being explicitly recognized as One Health action by professionals themselves. We discuss key barriers to conceptual uptake and propose strategies to make nutrition's contribution visible, intentional, and strengthened through education, interprofessional collaboration, research, and evaluation frameworks. Making One Health explicit in nutrition practice is essential to translating the paradigm into sustainable action and addressing interconnected challenges of environmental degradation, health inequities, and long-term population well-being.",
+      "authors": "Júlio Belo Fernandes, Diogo Sousa-Catita, Jorge Fonseca",
       "published": "Jul 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1882160",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1884842",
+      "image": "",
+      "screen": "right"
+    },
+    {
+      "title": "Psychometric validation of the Turkish version of the short nutrition literacy scale and its association with intuitive eating and body appreciation in young adults",
+      "abstract": "IntroductionNutrition literacy is a key determinant of dietary behaviors and long-term health outcomes, particularly during young adulthood, when lifelong eating patterns are established. Although the Short Nutrition Literacy Scale (S-NutLit) has been validated in several cultural contexts, evidence supporting a culturally appropriate and methodologically robust Turkish version remains limited. This study aimed to adapt and validate the Turkish version of the S-NutLit (S-NutLit-TR) and to examine its relationship with intuitive eating and body appreciation among Turkish young adults.MethodsThis cross-sectional methodological study included 367 Turkish young adults aged 18–24 years. The S-NutLit was translated and culturally adapted following standardized guidelines. Dimensionality was examined using Exploratory Graph Analysis (EGA) and confirmed using confirmatory factor analysis and bifactor modeling. Measurement invariance across sex and body mass index (BMI) categories was also tested. Reliability was assessed using classical and bifactor indices. Construct validity was evaluated through correlations with intuitive eating and body appreciation. Additionally, mediation analyses examined whether intuitive eating mediated the relationship between nutrition literacy and body appreciation.ResultsEGA revealed that SNUTLIT7 (knowledge of national dietary guidelines) exhibited critically low bootstrap stability (33.3%) and ambiguous dimensional assignment. Following its removal, structural consistency improved substantially (Expert Skills: 58.8% to 100%). The bifactor model demo…",
+      "authors": "Ezgi Makan, Salim Yilmaz, Ahmet Murat Gunal",
+      "published": "Jul 2026",
+      "feedName": "Frontiers Nutrition",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1780768",
+      "image": "",
+      "screen": "right"
+    },
+    {
+      "title": "Metabolomic and flavoromic insights into the effects of Polygonatum kingianum extract during black tea processing",
+      "abstract": "This study aims to elucidate the effects of the compounding treatment of Polygonatum kingianum extract (PKE) on the sensory quality, flavor chemical characteristics, and potential functional activities of control Dianhong black tea (CK). The results showed that Polygonatum kingianum black tea (PKB) had a darker and more lustrous appearance, a sweeter and more mellow taste, and a distinct floral and fruity aroma along with a refreshing herbal fragrance. The water extract and soluble sugar contents of PKB increased from 41.20 to 44.98% and from 7.03 to 10.91%, respectively (p < 0.01). LC–MS analysis identified the downregulation of bitter-associated flavonol glycosides, including quercetin 3-glucosyl-(1 → 2)-galactoside and quercetin 3-galactoside, together with the upregulation of sweet-related metabolites such as mannose, sorbose, and 6-phosphogluconic acid. Comprehensive two-dimensional gas chromatography–time-of-flight mass spectrometry (GC × GC–TOF-MS) analysis indicated that the volatile components of PKB, such as alcohols, ketones, and esters, significantly increased. The key aroma compounds cooperatively enhanced the aroma richness. Based on variable importance in projection (VIP) and Relative Odor Activity Value (ROAV) screening, 7 key aroma components were identified; among them, 2-methylbutanal (ROAV = 100) was the core component for fruity and sweet scents. These changes were associated with alterations in flavonoid, amino acid, carbohydrate, and aroma-related metabolic pathways. Overall, PKE treatment significantly improved the sensory quality and flavor characte…",
+      "authors": "Tianyu Wu, Xiaohua Wang, Xinghua Wang et al.",
+      "published": "Jul 2026",
+      "feedName": "Frontiers Nutrition",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1882990",
       "image": "",
       "screen": "right"
     },

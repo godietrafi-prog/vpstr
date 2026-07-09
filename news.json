@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-08T22:57:34Z",
+  "updated": "2026-07-09T02:03:53Z",
   "items": [
     {
       "title": "Publisher Correction: Machine learning-optimized composting strategies can enhance nutrient recycling and transform food system waste into a net carbon sink",
@@ -282,6 +282,16 @@
       "screen": "left"
     },
     {
+      "title": "New probe could help trace Alzheimer's-linked lipids one cell at a time",
+      "abstract": "Cells sitting side by side in the same tissues are not identical. Each cell carries its own subtly different chemical signature—a hidden individuality that can reveal how diseases take root and spread. Now, researchers from the University of Osaka have developed a technique sensitive enough to capture this cell-by-cell diversity within tissues with unprecedented precision and stability. Their study is published in the journal Analytical Chemistry.",
+      "authors": "",
+      "published": "Jul 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-07-probe-alzheimer-linked-lipids-cell.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/unlocking-the-secrets.jpg",
+      "screen": "right"
+    },
+    {
       "title": "Measuring what cupping therapy pulls from the skin",
       "abstract": "Cupping therapy is a traditional Chinese medicine (TCM) technique used to treat chronic pain, expedite muscle recovery and other conditions. It increases blood flow by creating suction on the skin. But what is released from the skin during treatment? Researchers reporting in ACS' Analytical Chemistry developed a noninvasive approach to analyze compounds pulled into the cup. In a pilot study with healthy volunteers, they detected changes in 13 volatile compounds before and after treatment.",
       "authors": "",
@@ -309,16 +319,6 @@
       "feedName": "Phys.org Analytics",
       "url": "https://phys.org/news/2026-07-ai-framework-battery-combustion-materials.html",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/team-unlocks-ai-for-ch-2.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "Tiny carbon rings enable a new form of quantum control",
-      "abstract": "Quantum states can be precisely controlled with the help of tiny carbon rings measuring only a few nanometers in size. This is made possible by a class of rarely used electromagnetic dipoles called toroidal moments. Using computer simulations, physicists at Martin Luther University Halle-Wittenberg (MLU) have now found a way to generate and control these nanostructures without any loss. The findings are published in npj Computational Materials and create new opportunities for quantum computer technology.",
-      "authors": "",
-      "published": "Jul 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-07-tiny-carbon-enable-quantum.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/tiny-carbon-rings-enab.jpg",
       "screen": "right"
     },
     {
@@ -506,7 +506,7 @@
       "venue": "Food and Bioprocess Technology",
       "feedName": "Lab Research",
       "citationCount": 4,
-      "recentCitations": 1,
+      "recentCitations": 0,
       "s2_paper_id": "034d8c4f0c0f5607a4e6727360aa5d7287e60d5b",
       "url": "https://doi.org/10.1007/s11947-025-03873-y",
       "image": "",
@@ -886,7 +886,7 @@
       "venue": "Food and Bioprocess Technology",
       "feedName": "Lab Research",
       "citationCount": 4,
-      "recentCitations": 1,
+      "recentCitations": 0,
       "s2_paper_id": "034d8c4f0c0f5607a4e6727360aa5d7287e60d5b",
       "url": "https://doi.org/10.1007/s11947-025-03873-y",
       "image": "",

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-09T14:33:31Z",
+  "updated": "2026-07-09T17:49:01Z",
   "items": [
     {
       "title": "Publisher Correction: Machine learning-optimized composting strategies can enhance nutrient recycling and transform food system waste into a net carbon sink",
@@ -282,6 +282,26 @@
       "screen": "left"
     },
     {
+      "title": "Fast charging can cause irreversible lithium migration in solid-state batteries",
+      "abstract": "Solid-state batteries are often viewed as a promising path toward safer and more powerful energy storage. However, one key question has remained difficult to answer: How does lithium actually move inside the solid materials during charging and discharging? Unlike liquid batteries, where ions can move more freely, solid-state batteries depend on lithium passing through dense solid particles and across complex interfaces. This makes their internal behavior hard to observe and even harder to control.",
+      "authors": "",
+      "published": "Jul 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-07-fast-irreversible-lithium-migration-solid.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/tracking-hidden-lithiu.jpg",
+      "screen": "right"
+    },
+    {
+      "title": "High-throughput search tests 200 catalysts, revealing hidden routes for methane chemistry",
+      "abstract": "Catalysts are the hidden engines of modern manufacturing, directly involved in more than 80% of chemical processes. However, catalyst development is highly complex because performance is governed by the interplay of the catalyst, local operating conditions, reactant composition and product formation.",
+      "authors": "",
+      "published": "Jul 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-07-high-throughput-catalysts-revealing-hidden.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/high-throughput-screen.jpg",
+      "screen": "right"
+    },
+    {
       "title": "New probe could help trace Alzheimer's-linked lipids one cell at a time",
       "abstract": "Cells sitting side by side in the same tissues are not identical. Each cell carries its own subtly different chemical signature—a hidden individuality that can reveal how diseases take root and spread. Now, researchers from the University of Osaka have developed a technique sensitive enough to capture this cell-by-cell diversity within tissues with unprecedented precision and stability. Their study is published in the journal Analytical Chemistry.",
       "authors": "",
@@ -299,26 +319,6 @@
       "feedName": "Phys.org Analytics",
       "url": "https://phys.org/news/2026-07-cupping-therapy-skin.html",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/measuring-what-cupping.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "Large language model guides discovery of catalysts for clean energy tech",
-      "abstract": "Designing high-performance catalysts is essential for cleaner energy technologies, but the behavior of multi-element modern catalyst materials is difficult to predict. In a new study, researchers at Tohoku University with international collaborators developed a collaborative framework that combines large language models with lab experiments to accelerate the discovery of high-entropy alloy catalysts for the oxygen reduction reaction, a key process in fuel cells.",
-      "authors": "",
-      "published": "Jul 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-07-large-language-discovery-catalysts-energy.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/large-language-model-g-4.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "AI framework could speed battery, combustion and materials research by automating simulations",
-      "abstract": "Computers have made it easier than ever before to design the perfect material for a given problem: Scientists can create a virtual version and simulate how that material will behave. Building these atomically precise simulations, however, typically requires deep expertise in computational chemistry. At the U.S. Department of Energy's (DOE) Argonne National Laboratory, researchers have developed a kind of shortcut, streamlining scientific workflows using artificial intelligence (AI).",
-      "authors": "",
-      "published": "Jul 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-07-ai-framework-battery-combustion-materials.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/team-unlocks-ai-for-ch-2.jpg",
       "screen": "right"
     },
     {
@@ -402,26 +402,6 @@
       "screen": "right"
     },
     {
-      "title": "Comparative analysis of fluorescent nanoparticles in beers using size-exclusion HPLC and Brix-normalized fluorescence spectroscopy",
-      "abstract": "IntroductionCarbon nanodots (CNDs) formed during brewing may contribute to the fluorescence properties of fermented beverages, yet their presence and behavior in commercial beers remain poorly characterized. This study investigated CNDs-related fluorescence in commercial beers using steady-state fluorescence spectroscopy and size-exclusion HPLC with fluorescence detection (HPLC-SEC-FLD).MethodsFive commercially produced beers - representing dark stouts, abbey ales, dark lagers, and pale lagers - were analyzed for CNDs-related fluorescence. Glycine-derived CNDs were used as a calibration reference to obtain CNDs-equivalent concentrations. Method performance was evaluated for linearity, limit of detection (LOD), and limit of quantification (LOQ). ATR-FTIR spectroscopy was additionally used to characterize the chemical structure of the fluorescent species.ResultsThe SEC-FLD method showed good linearity over the range of 6.25–100 mg kg−1 Gly-CND equivalents (R2 > 0.99), with an LOD of 0.05 mg kg−1 and an LOQ of 0.15 mg kg−1. Dominant fluorescent fractions eluted at 6.57–6.90 min, corresponding to apparent molar masses of 260,000–330,000 Da, consistent with high-molecular-weight nanocarbon-like assemblies. Dark and semi-dark beers exhibited higher CNDs-related fluorescence than pale lager, while Brix-normalized values revealed that brewing technology and malt roasting intensity, rather than total soluble solids content, are the primary determinants of CNDs-related fluorescence. ATR-FTIR analysis further confirmed the presence of thermally derived, highly oxygenated organic struc…",
-      "authors": "Dávid Semsey, Duyen H. H. Nguyen, Gréta Törős et al.",
-      "published": "Jul 2026",
-      "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1849696",
-      "image": "",
-      "screen": "right"
-    },
-    {
-      "title": "Probiotic co-administration attenuates developmental cafeteria diet–induced cellular stress and NLRP3 inflammasome signaling in the spleen",
-      "abstract": "BackgroundEarly life exposure to obesogenic diets is increasingly associated with persistent immunometabolic dysregulation. However, the effects of such dietary stress on splenic apoptosis, autophagy, and inflammasome signaling during the developmental period remain insufficiently characterized. This study investigated whether probiotic supplementation modulates cafeteria diet (Cd)-induced molecular alterations in splenic tissue during the post-weaning period.MethodsTwenty-one-day-old male Wistar rats were randomly assigned to four groups (n = 7/group): Control (Cnt), Cafeteria diet (Cd), SCD Probiotics (Prb), and Cafeteria diet plus probiotic (Cd+Prb). Interventions were maintained from postnatal day 21 to 56. Splenic apoptosis, autophagy, and inflammasome related markers were evaluated using RT-qPCR and immunohistochemistry.ResultsCafeteria diet exposure shifted the spleen toward a pro-apoptotic state, characterized by a relative decrease in BCL2 fold-change pattern and relative increases in BAK and Caspase-3 fold-change patterns, while protein analysis confirmed marked elevations in Caspase-3 and BAX (both p < 0.0001). Autophagy-related alterations included reduced ATG5 expression and marked p62 accumulation, consistent with impaired autophagic regulation, with corresponding protein-level differences for ATG5 and p62 (both p < 0.0001). Inflammasome-associated signaling was reflected by relative increases in NLRP3 and IL-18 fold-change patterns together with higher protein-level immunoreactivity, with strong protein-level significance (p < 0.0001). Probiotic administratio…",
-      "authors": "Aysun Inan Genc",
-      "published": "Jul 2026",
-      "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1848057",
-      "image": "",
-      "screen": "right"
-    },
-    {
       "title": "Curcumin and piperine in neurodegenerative disorders: a systematic review of preclinical neuroprotective evidence",
       "abstract": "BackgroundCurcumin and piperine are phytochemicals with neuroprotective potential; however, curcumin’s limited bioavailability restricts its therapeutic efficacy. Increasing evidence suggests that their co-administration may provide synergistic neuroprotective benefits. This systematic review evaluates the current preclinical evidence for curcumin-piperine (CUR-PP) combinations in neurodegenerative disorder models.MethodsWe searched electronic databases for studies published between 2010 and 2026. Twenty unique preclinical studies, involving rodent models and neuronal cell cultures, met the eligibility criteria. Due to substantial methodological heterogeneity in study designs, dosing regimens, and outcome measures, a quantitative meta-analysis was not feasible. Findings were synthesized qualitatively, focusing on behavioral, biochemical, and molecular outcomes.ResultsCUR-PP co-administration consistently demonstrated superior neuroprotective efficacy compared to monotherapy. The combination significantly improved cognitive and locomotor performance, mitigated oxidative stress, and modulated neuroinflammatory pathways. Nanoformulations, such as PLGA nanoparticles, further enhanced bioavailability and therapeutic impact across the included studies.ConclusionPreclinical data indicate that CUR-PP combinations exert synergistic neuroprotective effects, suggesting they are promising multi-target candidates for neurodegeneration. However, the therapeutic potential is currently limited by a reliance on preclinical models, substantial inter-study heterogeneity, and a total lack of c…",
       "authors": "Minji Zhou, Xiyun Wang",
@@ -432,12 +412,32 @@
       "screen": "right"
     },
     {
-      "title": "Early serum albumin dynamics in sepsis differ by albumin source and have implications for nutritional assessment",
-      "abstract": "BackgroundSerum albumin is widely used in clinical practice as a nutrition-related biomarker, yet in sepsis its concentration is strongly influenced by inflammation, capillary leak, fluid redistribution, hepatic dysfunction, and exogenous albumin administration. Although hypoalbuminemia is consistently associated with poor outcomes, exogenous human albumin solution (HAS) has not shown a clear survival benefit in septic patients. We therefore investigated whether the prognostic significance of early serum albumin change differs according to whether the change is spontaneous or occurs in the context of HAS administration.MethodsWe analyzed septic patients from the MIMIC-IV database and assessed consistency in an independent external cohort from the First Affiliated Hospital of Xi’an Jiaotong University. Delta albumin (ΔALB) was defined as the change in serum albumin during the first 3 ICU days. Patients were stratified according to HAS use during this period. The primary outcome was 90-day survival.ResultsAmong patients who did not receive HAS, higher ΔALB was significantly associated with lower 90-day mortality risk (HR per 1-g/dL increase = 0.50, 95% CI 0.40–0.62, p < 0.001), whereas this association was not observed in patients who received HAS. In the external cohort, the absence of a clear prognostic association in albumin-treated patients was directionally consistent, although validation of endogenous ΔALB was limited because most patients received HAS. Endogenous ΔALB was associated with baseline albumin, hematocrit change, platelet change, crystalloid volume, and live…",
-      "authors": "Yifei Ma, Kongyuan Wei, Weiqi Lyu et al.",
+      "title": "Dietary approaches to support cognition in older adults: a systematic review",
+      "abstract": "BackgroundOlder adults, particularly those residing in long-term care, experience disproportionate rates of cognitive decline and Alzheimer's disease (AD). While isolated nutrient supplementation has demonstrated limited clinical efficacy, comprehensive whole-food dietary patterns may offer significant neuroprotective benefits through complex nutrient synergy. This systematic review evaluates the efficacy of the Mediterranean, Nordic, Okinawan, and plant-based dietary approaches in mitigating cognitive decline and reducing dementia risk in older populations.MethodsThe study protocol was prospectively registered with the International Prospective Register of Systematic Reviews (PROSPERO) under the registration ID CRD420261349593. Conducted in accordance with PRISMA 2020 guidelines, a systematic search of PubMed, Web of Science, CINAHL, and ScienceDirect was performed to identify peer-reviewed articles published between January 2021 and the present. Eligible studies included randomized controlled trials (RCT), prospective cohort studies, and longitudinal studies evaluating the impact of whole-food dietary patterns on cognitive outcomes in adults aged 60 and older.ResultsOut of 622 initial records, 16 articles met all inclusion criteria. The synthesized evidence demonstrates that high adherence to these comprehensive dietary patterns is consistently associated with improved memory, enhanced executive function, and a reduced incidence of AD. These cognitive improvements are driven by interconnected physiological mechanisms, including reduced systemic inflammation, improved vasc…",
+      "authors": "Britton Woolsey, Keya Sen",
       "published": "Jul 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1858939",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1869091",
+      "image": "",
+      "screen": "right"
+    },
+    {
+      "title": "Evaluating objective nutritional biomarkers for the prediction of sarcopenia in Crohn’s disease: development and internal validation of a clinical nomogram",
+      "abstract": "BackgroundSarcopenia is prevalent in Crohn’s disease (CD) and correlates with adverse clinical outcomes; however, routine computed tomography (CT) screening is limited in daily practice. This study aimed to comparatively analyze three objective nutritional indices—the Geriatric Nutritional Risk Index (GNRI), Advanced Lung Cancer Inflammation Index (ALI), and Prognostic Nutritional Index (PNI)—and to develop a predictive nomogram for sarcopenia in CD.MethodsA retrospective cohort of 333 patients with CD was randomly allocated into a training (n = 234) and an internal validation (n = 99) cohort. Sarcopenia was defined using gender-specific cut-offs of the CT-derived skeletal muscle index (SMI) at the third lumbar vertebra (L3) level. Unadjusted restricted cubic splines (RCS) evaluated continuous associations. Multivariable logistic regression was utilized to identify associated risk factors and construct the nomogram. Model performance was assessed via the area under the receiver operating characteristic curve (AUC), calibration plots, and decision curve analysis (DCA). Interaction tests evaluated prognostic stability.ResultsThe overall prevalence of sarcopenia was 48.3%. All three indices demonstrated linear inverse continuous associations with sarcopenia risk and maintained robust statistical associations after multivariable adjustment. The GNRI demonstrated comparable discriminative accuracy to the ALI, significantly outperformed the PNI, and remained highly stable across all clinical subgroups (all P for interaction > 0.05). Conversely, the predictive capacities of the AL…",
+      "authors": "Hai-yuan Zhong, Wen-tao Deng, Jing-shuai Huang et al.",
+      "published": "Jul 2026",
+      "feedName": "Frontiers Nutrition",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1838106",
+      "image": "",
+      "screen": "right"
+    },
+    {
+      "title": "The association between physical exercise and emotional eating among college students: the mediating roles of coping style and emotion regulation",
+      "abstract": "BackgroundEmotional eating is a nutrition-related behavior closely linked to stress and emotion regulation. This study examined the association between physical exercise and emotional eating among college students and tested whether coping style and emotion regulation mediated this relationship.MethodsA cross-sectional survey was conducted among 2,871 college students in Southwest China. Validated questionnaires were used to assess physical exercise, coping style, emotion regulation, and emotional eating. Correlation, regression, and serial mediation analyses were conducted using SPSS and PROCESS Model 6, with demographic variables controlled.ResultsPhysical exercise was negatively associated with emotional eating. It was related to more positive coping style and cognitive reappraisal, and to less negative coping style and expressive suppression. Both coping style and emotion regulation were statistically associated with the relationship between physical exercise and emotional eating through independent and sequential mediation pathways.ConclusionsPhysical exercise may be associated with lower emotional eating among college students. The findings suggest that coping style and emotion regulation may represent important psychological correlates of the association between physical exercise and emotional eating.",
+      "authors": "Cao Longan, Liu Hengxian, Zheng Zhirong et al.",
+      "published": "Jul 2026",
+      "feedName": "Frontiers Nutrition",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1869296",
       "image": "",
       "screen": "right"
     },

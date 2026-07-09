@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-09T21:14:46Z",
+  "updated": "2026-07-09T23:04:16Z",
   "items": [
     {
       "title": "Publisher Correction: Machine learning-optimized composting strategies can enhance nutrient recycling and transform food system waste into a net carbon sink",
@@ -282,6 +282,26 @@
       "screen": "left"
     },
     {
+      "title": "Pre-cooked seafood-based meals can absorb chemical contaminants during packaging and processing",
+      "abstract": "Ready meals containing fish and seafood can expose consumers to chemical contaminants that are present in the environment or introduced during processing and packaging. A study by the Universitat Rovira i Virgili (URV) has, for the first time, analyzed the presence of a wide range of high-volume chemical substances in ready-made fish and seafood dishes sold in Tarragona, Spain.",
+      "authors": "",
+      "published": "Jul 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-07-pre-cooked-seafood-based-meals.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/packaged-fish-1.jpg",
+      "screen": "right"
+    },
+    {
+      "title": "Neutron imaging reveals how water limits CO₂ storage in recycled concrete",
+      "abstract": "The construction sector faces two problems at once: it emits large amounts of CO₂ and produces vast quantities of concrete waste. But what if part of that waste could be used to trap carbon instead of ending up as rubble?",
+      "authors": "",
+      "published": "Jul 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-07-neutron-imaging-reveals-limits-storage.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/can-concrete-waste-hel-2.jpg",
+      "screen": "right"
+    },
+    {
       "title": "Fast charging can cause irreversible lithium migration in solid-state batteries",
       "abstract": "Solid-state batteries are often viewed as a promising path toward safer and more powerful energy storage. However, one key question has remained difficult to answer: How does lithium actually move inside the solid materials during charging and discharging? Unlike liquid batteries, where ions can move more freely, solid-state batteries depend on lithium passing through dense solid particles and across complex interfaces. This makes their internal behavior hard to observe and even harder to control.",
       "authors": "",
@@ -299,26 +319,6 @@
       "feedName": "Phys.org Analytics",
       "url": "https://phys.org/news/2026-07-high-throughput-catalysts-revealing-hidden.html",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/high-throughput-screen.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "New probe could help trace Alzheimer's-linked lipids one cell at a time",
-      "abstract": "Cells sitting side by side in the same tissues are not identical. Each cell carries its own subtly different chemical signature—a hidden individuality that can reveal how diseases take root and spread. Now, researchers from the University of Osaka have developed a technique sensitive enough to capture this cell-by-cell diversity within tissues with unprecedented precision and stability. Their study is published in the journal Analytical Chemistry.",
-      "authors": "",
-      "published": "Jul 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-07-probe-alzheimer-linked-lipids-cell.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/unlocking-the-secrets.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "Measuring what cupping therapy pulls from the skin",
-      "abstract": "Cupping therapy is a traditional Chinese medicine (TCM) technique used to treat chronic pain, expedite muscle recovery and other conditions. It increases blood flow by creating suction on the skin. But what is released from the skin during treatment? Researchers reporting in ACS' Analytical Chemistry developed a noninvasive approach to analyze compounds pulled into the cup. In a pilot study with healthy volunteers, they detected changes in 13 volatile compounds before and after treatment.",
-      "authors": "",
-      "published": "Jul 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-07-cupping-therapy-skin.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/measuring-what-cupping.jpg",
       "screen": "right"
     },
     {

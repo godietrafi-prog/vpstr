@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-10T14:02:51Z",
+  "updated": "2026-07-10T17:43:04Z",
   "items": [
     {
       "title": "Global taxes on sugar-sweetened beverages",
@@ -402,22 +402,12 @@
       "screen": "right"
     },
     {
-      "title": "Acute caffeine ingestion and exercise performance in women: a systematic review and meta-analysis of menstrual-cycle phase and hormonal contraceptive status",
-      "abstract": "BackgroundAcute caffeine ingestion is widely used to enhance exercise performance, but most evidence comes from male or mixed-sex cohorts. Whether menstrual-cycle phase or hormonal contraceptive status modifies caffeine's ergogenic effect in women remains unclear.MethodsSix databases were searched for randomized controlled trials examining acute caffeine ingestion and objective exercise performance outcomes in women. Methodological quality and risk of bias were assessed using a modified PEDro scale and RoB 2. Three-level meta-analyses accounted for dependent effect sizes within studies. The primary moderator was reproductive-hormonal status, classified as early follicular, late follicular/peri-ovulatory, luteal/mid-luteal, or hormonal contraceptive/oral contraceptive use. Exploratory analyses examined dose, exercise type, phase verification, timing, and habitual caffeine intake.ResultsTwenty studies contributed 144 primary effect sizes. Acute caffeine ingestion improved exercise performance in women overall (Hedges' g = 0.37, 95% CI 0.24 to 0.50), with moderate heterogeneity and a prediction interval crossing the null. Positive estimates were observed across all reproductive-hormonal strata, but there was no clear evidence of between-stratum moderation. The overall effect was robust to outlier exclusion and alternative correlation assumptions. Exploratory analyses suggested that exercise-task phenotype and phase-verification method may partly explain variability in observed effects, whereas dose, timing, and habitual caffeine intake did not support phase-specific prescripti…",
-      "authors": "Jian Zhu, Yinghui Zhang, Ming Li et al.",
+      "title": "Food inflation, nutrition behavior, food insecurity, and anxiety: a Bayesian network analysis among Turkish adults",
+      "abstract": "BackgroundFood inflation is a pervasive economic stressor that may disrupt nutritional behaviors and amplify food insecurity, yet the complex pathways linking these phenomena to psychological distress remain poorly understood. This study aimed to map the conditional dependency structure among food inflation-related behavioral changes, food insecurity, and anxiety in Turkish adults using Bayesian Network analysis.MethodsA cross-sectional online survey was conducted among 1,042 Turkish adults (72.9% female; 57.0% aged 18–24) between November and December 2025. The Effect of Food Inflation on Nutrition Behavior (EFINUB), The Impact of Food Inflation on Consumer Behavior (IFI-ConB), Food Insecurity Experience Scale, and Beck Anxiety Inventory were administered alongside sociodemographic measures. A Conditional Gaussian Bayesian Network with 23 nodes was learned using bootstrap-averaged structure learning (1,000 resamples, strength threshold ≥ 0.85), followed by Markov blanket analysis, conditional probability queries, and what-if policy simulations.ResultsThe network revealed 25 directed arcs organized into three isolated clusters: demographic, dietary habits, and scale-relationship. Food insecurity emerged as the sole member of the anxiety Markov blanket. Severe food insecurity rose from 1.2% to 48.2% (an absolute increase of 47.0 percentage points) across Low to High Food Consumption Impact groups. Simulating universal food security produced the largest anxiety reduction (−61.0%), whereas partial behavioral improvement reduced food insecurity but not anxiety. Sensitivity anal…",
+      "authors": "Hande Ongun Yilmaz, Sedat Arslan, Salim Yilmaz",
       "published": "Jul 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1876198",
-      "image": "",
-      "screen": "right"
-    },
-    {
-      "title": "Whey protein supplementation and exercise in older adults: a narrative review of potential effects on muscle–brain axis, physical function, and related outcomes",
-      "abstract": "Aging is associated with progressive declines in cognitive function, physical performance, and musculoskeletal integrity, increasing the risk of frailty and injury. Recent evidence highlights the importance of the muscle–brain–metabolism axis in mediating these age-related changes. Interventions targeting this axis, including whey protein supplementation combined with structured exercise, have attracted growing attention. This narrative review summarizes current evidence regarding the combined effects of whey protein and exercise on physical performance, muscle health, and selected biomarkers in older adults, while also discussing emerging findings related to cognitive function and injury risk. Mechanistically, these interventions may support muscle protein synthesis, modulate inflammatory pathways, improve metabolic regulation, and influence neurotrophic signaling. However, current evidence regarding cognitive outcomes and injury prevention remains limited and, in some cases, inconsistent, with many studies reporting these outcomes as secondary endpoints. Therefore, while combined interventions show potential for improving aspects of healthy aging, further well-designed studies are required to establish their effectiveness in these domains. Overall, targeting the muscle–brain axis through nutritional and exercise-based strategies represents a promising but still evolving approach for supporting healthy aging and functional capacity in older adults.",
-      "authors": "ChuXin SiMa, ShiJie Zhang, HuiZheng Ma et al.",
-      "published": "Jul 2026",
-      "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1772577",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1865375",
       "image": "",
       "screen": "right"
     },
@@ -432,12 +422,22 @@
       "screen": "right"
     },
     {
-      "title": "Reframing glucolipid metabolic disorders through the lens of the oral microbiome: from pathophysiological mechanisms to translational potential",
-      "abstract": "With the rising prevalence of metabolic diseases, their comorbidity is increasingly common. Glucolipid metabolic disorders (GLMD) constitute a major health challenge associated with increased cardiovascular risk and mortality. Despite many advances in disease mechanisms and therapeutic strategies, the metabolic disease burden remains substantial. Routine clinical practice still lacks straightforward approaches for identifying individuals at elevated risk, and the challenge of effectively preventing and controlling GLMD has become an urgent clinical problem. Significant gaps remain in our understanding of metabolic disease. Advances in high-throughput sequencing and omics technologies have expanded the research perspective, shifting attention from organ-centered pathology toward microecological and metabolic networks, elucidating the interactions between the oral microbiota and host metabolism. As the second largest microbial community after the gut microbiota, the oral microbiome provides an integrative lens for examining GLMD-related microbial signatures, plausible mechanistic pathways, and translational opportunities, including inflammation, taste signaling, nitric oxide metabolism, and microbial translocation. This review aims to clarify the relationship between the oral microbiome and GLMD, outline characteristic microbial alterations in metabolic diseases, and summarize the plausible mechanisms linking oral microorganisms with metabolic homeostasis. Current evidence indicates partially recurrent microbial patterns across GLMD-related conditions, but no universal oral m…",
-      "authors": "Pingjie Xiong, Bin Wang, Yufei Liu et al.",
+      "title": "Asiatic acid from Centella asiatica alleviates renal fibrosis: coordinated modulation of the gut–kidney axis and retinol metabolism",
+      "abstract": "IntroductionChronic kidney disease (CKD) is a progressive condition characterized by renal fibrosis, with limited therapeutic options. Asiatic acid (AA), a triterpenoid from Centella asiatica, has shown renoprotective potential, but its mechanisms remain unclear.MethodsAn adenine-induced CKD mouse model was established in C57BL/6 mice. AA was administered orally at 10 or 30 mg/kg for 8 weeks. Antibiotic depletion experiments were performed to assess gut microbiota dependence. Renal function, histopathology, and fibrosis markers were evaluated. Multi-omics analyses integrated 16S rRNA sequencing, renal untargeted metabolomics, transcriptomics, and MetOrigin-based tracing. In vitro, human proximal tubular HK-2 cells were stimulated with TGF-β1 to assess the effects of key metabolites on fibrotic injury and oxidative stress.ResultsAA significantly improved renal function, reduced tubular injury and collagen deposition, and restored gut barrier integrity. Antibiotic depletion experiments demonstrated that an intact gut microbiota is required for the renoprotective effects of AA supporting a functional link along the gut-kidney axis. AA remodeled the gut microbiota, notably enriching Lachnospiraceae NK4A136 group. Renal metabolomics and transcriptomics integration identified retinol metabolism as the key renal pathway rescued by AA, with 9-cis-retinal and 4-hydroxyretinoic acid negatively correlated with injury markers. In vitro, 9-cis-retinal suppressed TGF-β1-induced fibrotic markers and oxidative stress.DiscussionAA alleviates CKD in association with remodeling of the gut mic…",
+      "authors": "Liwei Zhu, Ziyun Xu, Xiaoyan Chang et al.",
       "published": "Jul 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1819765",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1802674",
+      "image": "",
+      "screen": "right"
+    },
+    {
+      "title": "Correction: A novel inflammatory-nutritional index: NPAR-correlates with the severity of type 2 diabetic foot ulcers",
+      "abstract": "",
+      "authors": "Kai Lin, Xiong Lei, Hongzhe Wang et al.",
+      "published": "Jul 2026",
+      "feedName": "Frontiers Nutrition",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1913669",
       "image": "",
       "screen": "right"
     },

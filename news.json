@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-10T17:43:04Z",
+  "updated": "2026-07-10T19:20:30Z",
   "items": [
     {
       "title": "Global taxes on sugar-sweetened beverages",
@@ -402,6 +402,26 @@
       "screen": "right"
     },
     {
+      "title": "Relationship between berry intake and frailty in the elderly and the mediating role of six blood markers: based on Chinese and American studies",
+      "abstract": "BackgroundFrailty has become a major public health challenge with the acceleration of global aging. Berries are rich in bioactive components, but the mechanism and population-specific association with frailty is not clear.MethodsFor Chinese populations, data from hospitalized patients at Pidu District People’s Hospital during May–July 2024 were analyzed using the Frailty phenotype (FP) to evaluate frailty. This study employed the 24-h dietary recall method from the 2003–2008 National Health and Nutrition Examination Survey (NHANES) database to assess berry consumption. A frailty index (FI) was calculated using approximately 49 indicators to determine frailty status. The research utilized a weighted regression model to investigate the relationship between berry intake and frailty severity, while examining the mediating role of six blood biomarkers through mediation analysis.ResultsThis study enrolled 357 Chinese elderly individuals and 5,553 American adults aged 65 and older. The findings in China demonstrated that berry consumption was associated with reduced frailty risk. This association remained statistically significant even after adjusting for other potential confounding factors. In the NHANES, compared to individuals who did not consume berries, daily berry intake ranging from 37–74 grams and 74–158 grams was associated with reduced risks of frailty, and these associations remained statistically significant after adjustment for other confounding factors. Notably, this association was more pronounced among males. Mediation analysis indicated that HbA1c levels mediated …",
+      "authors": "Ruolin Zhang, Yongyao Du, Jingping Li et al.",
+      "published": "Jul 2026",
+      "feedName": "Frontiers Nutrition",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1823930",
+      "image": "",
+      "screen": "right"
+    },
+    {
+      "title": "Glucose–lipid metabolic dysregulation and sleep fragmentation in obstructive sleep apnea: insights from a large-scale cross-sectional study and exploratory hypoxia-related single-nucleus transcriptomic analysis",
+      "abstract": "BackgroundSleep fragmentation impairs health and quality of life, yet its relationship with glucose–lipid metabolic dysregulation remains unclear. This study investigated this association in obstructive sleep apnea (OSA), with a focus on nocturnal hypoxia and hypoxia-related brainstem cellular responses.MethodsThis large-scale cross-sectional study included 5,885 adults with suspected OSA from the Shanghai Sleep Health Study. Glucose–lipid metabolic status was assessed using the triglyceride–glucose (TyG) index, TyG-body mass index (TyG-BMI), metabolic score for insulin resistance (METS-IR), and metabolic syndrome. Sleep fragmentation was quantified by the micro-arousal index (MAI). Multivariable regression, restricted cubic spline, threshold effect, multiplicative and additive interaction, stratified analyses, Benjamini–Hochberg false discovery rate (FDR) correction were performed. GEO single-nucleus analyses were conducted to explore intermittent hypoxia-related cellular and metabolic pathway responses in the brainstem (metabolic activity scoring, GSVA, scTenifoldKnk).ResultsTyG, TyG-BMI, and METS-IR were independently positively associated with MAI. Each 1-unit increase in TyG was associated with a 4.0-unit increase in MAI (β = 4.0, p < 0.001). TyG-BMI and METS-IR showed significant nonlinear dose–response relationships with thresholds at 310.31 and 57.25, respectively. OSA severity and nocturnal hypoxia significantly strengthened these associations through both multiplicative and additive interactions. When AHI > 5, the associations of TyG (β = 4.04), TyG-BMI (β = 0.08)…",
+      "authors": "Zhicheng Wei, Cheng Lu, Jingchun He et al.",
+      "published": "Jul 2026",
+      "feedName": "Frontiers Nutrition",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1859107",
+      "image": "",
+      "screen": "right"
+    },
+    {
       "title": "Food inflation, nutrition behavior, food insecurity, and anxiety: a Bayesian network analysis among Turkish adults",
       "abstract": "BackgroundFood inflation is a pervasive economic stressor that may disrupt nutritional behaviors and amplify food insecurity, yet the complex pathways linking these phenomena to psychological distress remain poorly understood. This study aimed to map the conditional dependency structure among food inflation-related behavioral changes, food insecurity, and anxiety in Turkish adults using Bayesian Network analysis.MethodsA cross-sectional online survey was conducted among 1,042 Turkish adults (72.9% female; 57.0% aged 18–24) between November and December 2025. The Effect of Food Inflation on Nutrition Behavior (EFINUB), The Impact of Food Inflation on Consumer Behavior (IFI-ConB), Food Insecurity Experience Scale, and Beck Anxiety Inventory were administered alongside sociodemographic measures. A Conditional Gaussian Bayesian Network with 23 nodes was learned using bootstrap-averaged structure learning (1,000 resamples, strength threshold ≥ 0.85), followed by Markov blanket analysis, conditional probability queries, and what-if policy simulations.ResultsThe network revealed 25 directed arcs organized into three isolated clusters: demographic, dietary habits, and scale-relationship. Food insecurity emerged as the sole member of the anxiety Markov blanket. Severe food insecurity rose from 1.2% to 48.2% (an absolute increase of 47.0 percentage points) across Low to High Food Consumption Impact groups. Simulating universal food security produced the largest anxiety reduction (−61.0%), whereas partial behavioral improvement reduced food insecurity but not anxiety. Sensitivity anal…",
       "authors": "Hande Ongun Yilmaz, Sedat Arslan, Salim Yilmaz",
@@ -412,32 +432,12 @@
       "screen": "right"
     },
     {
-      "title": "Precision nutrition in critical illness: a phase-specific framework from acute feeding to post-ICU recovery",
-      "abstract": "Precision nutrition in critical illness should be understood as a longitudinal clinical strategy rather than a fixed prescription for calorie and protein delivery. This structured narrative review used PubMed/MEDLINE as the primary database and supplemented the search through Web of Science Core Collection and Google Scholar. Publications from January 2020 to January 2026 were prioritized, while earlier landmark trials, guidelines, and consensus papers were retained when relevant. Evidence from 73 references, including guidelines, randomized trials, systematic reviews, and relevant observational or mechanistic studies, was synthesized. We propose an operational framework with bedside indicators for early acute illness, stabilization/prolonged ICU care, and post-ICU recovery. During early acute instability, safe initiation and tolerance-based progression are favored over immediate completion of calculated targets. During stabilization and recovery, greater emphasis is placed on correcting persistent deficits, preserving lean mass, and supporting rehabilitation. Feeding intolerance is interpreted as gastrointestinal dysfunction, avoidable interruption, aspiration risk, or persistent inability to sustain enteral nutrition. Post-pyloric feeding and supplemental parenteral nutrition are selective escalation strategies, with safeguards against overfeeding and metabolic complications. After ICU discharge, quantified intake, swallowing function, muscle mass, functional trajectory, and participation in rehabilitation should guide continued support. The framework contextualizes exist…",
-      "authors": "Pengcheng Tian, Ming Fan, Chaolin Huang",
+      "title": "Glycemic and lipid responses to selenium-enriched vs. zeaxanthin-enriched eggs in patients with type 2 diabetes: a 12-week randomized controlled trial",
+      "abstract": "Background/objectivesThe present study investigated the effect of selenium-enriched eggs (SE egg) vs. zeaxanthin-enriched eggs (ZE egg) on glycemic and lipid metabolism in patients with diabetes.MethodsFifty-eight patients with type 2 diabetes were recruited and randomly divided into group SE egg (27 subjects) and ZE egg (31 subjects). The two groups of participants consumed either SE egg or ZE egg twice a day for a total of 12 weeks of intervention. Fasting blood samples were collected before and after the intervention to detect changes in blood glucose and lipid levels.ResultsAfter the intervention, the fasting blood glucose, homeostatic model assessment of insulin resistance, and triglyceride-glucose index of both SE and ZE groups of subjects significantly decreased (p < 0.05). Among subjects with a baseline glycosylated hemoglobin A1c (HbA1c) < 8.9%, eggs from both groups showed an enhanced improvement in glucose and lipid metabolism. The ZE egg group showed a significant decrease in triglycerides (p = 0.0007) and an increase in homeostatic model assessment of β-cell function (p = 0.06). There was no significant difference in HbA1c between the two groups after the intervention.ConclusionThis study demonstrates that SE egg and ZE eggs have comparable effects on improving glucose metabolism profiles in diabetic patients, with an improved efficacy observed in subjects with lower baseline HbA1c levels. Furthermore, ZE eggs suggest potential benefits in lowering TG levels.Clinical trial registrationhttps://www.chictr.org.cn/index.html, Identifer, ChiCTR2300077522.",
+      "authors": "Xiaokang Niu, Yong Zhang, Yinghua Liu et al.",
       "published": "Jul 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1859625",
-      "image": "",
-      "screen": "right"
-    },
-    {
-      "title": "Asiatic acid from Centella asiatica alleviates renal fibrosis: coordinated modulation of the gut–kidney axis and retinol metabolism",
-      "abstract": "IntroductionChronic kidney disease (CKD) is a progressive condition characterized by renal fibrosis, with limited therapeutic options. Asiatic acid (AA), a triterpenoid from Centella asiatica, has shown renoprotective potential, but its mechanisms remain unclear.MethodsAn adenine-induced CKD mouse model was established in C57BL/6 mice. AA was administered orally at 10 or 30 mg/kg for 8 weeks. Antibiotic depletion experiments were performed to assess gut microbiota dependence. Renal function, histopathology, and fibrosis markers were evaluated. Multi-omics analyses integrated 16S rRNA sequencing, renal untargeted metabolomics, transcriptomics, and MetOrigin-based tracing. In vitro, human proximal tubular HK-2 cells were stimulated with TGF-β1 to assess the effects of key metabolites on fibrotic injury and oxidative stress.ResultsAA significantly improved renal function, reduced tubular injury and collagen deposition, and restored gut barrier integrity. Antibiotic depletion experiments demonstrated that an intact gut microbiota is required for the renoprotective effects of AA supporting a functional link along the gut-kidney axis. AA remodeled the gut microbiota, notably enriching Lachnospiraceae NK4A136 group. Renal metabolomics and transcriptomics integration identified retinol metabolism as the key renal pathway rescued by AA, with 9-cis-retinal and 4-hydroxyretinoic acid negatively correlated with injury markers. In vitro, 9-cis-retinal suppressed TGF-β1-induced fibrotic markers and oxidative stress.DiscussionAA alleviates CKD in association with remodeling of the gut mic…",
-      "authors": "Liwei Zhu, Ziyun Xu, Xiaoyan Chang et al.",
-      "published": "Jul 2026",
-      "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1802674",
-      "image": "",
-      "screen": "right"
-    },
-    {
-      "title": "Correction: A novel inflammatory-nutritional index: NPAR-correlates with the severity of type 2 diabetic foot ulcers",
-      "abstract": "",
-      "authors": "Kai Lin, Xiong Lei, Hongzhe Wang et al.",
-      "published": "Jul 2026",
-      "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1913669",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1803814",
       "image": "",
       "screen": "right"
     },

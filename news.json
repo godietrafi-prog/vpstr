@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-10T10:45:29Z",
+  "updated": "2026-07-10T14:02:51Z",
   "items": [
     {
       "title": "Global taxes on sugar-sweetened beverages",
@@ -412,12 +412,12 @@
       "screen": "right"
     },
     {
-      "title": "Lower chronic neck-back with higher planetary health diet adherence",
-      "abstract": "BackgroundThis study aimed to examine the association between adherence to the Planetary Health Diet (PHD) and the prevalence of chronic neck-back pain.MethodsThis cross-sectional analysis used baseline data from 97,543 participants in the UK Biobank with complete dietary, outcome, and covariate data. The PHD score was constructed from up to five 24-h dietary recalls. Chronic neck-back pain was defined as self-reported neck/shoulder or back pain in the previous month lasting ≥3 months and interfering with daily activities. Multivariable logistic regression, restricted cubic splines, and subgroup analyses were performed.ResultsOverall, 22.5% of participants reported chronic neck-back pain. In the primary analysis, each 10-point increase in the PHD score was associated with lower odds of prevalent chronic neck-back pain (OR = 0.99, 95% CI: 0.97–1.00). In participants aged < 60 years, the association was stronger (OR = 0.97, 95% CI: 0.96–0.99). The highest PHD quartile showed 7% lower odds of prevalent chronic neck-back pain compared with the lowest quartile (OR = 0.93, 95% CI: 0.88–0.98).Effect modification analyses revealed that the protective effect was most pronounced in women aged < 60 years (OR=0.96, 95% CI: 0.94–0.98). Sensitivity analyses using alternative outcome definitions (ICD-10 codes, single-site pain) and exposure thresholds confirmed the robustness of these findings.ConclusionsHigher adherence to the Planetary Health Diet was associated with lower odds of prevalent chronic neck-back pain, particularly among adults aged < 60 years, with an approximately linear d…",
-      "authors": "Linfeng Wang, Libao Zhang, Xiaojun Yu et al.",
+      "title": "Whey protein supplementation and exercise in older adults: a narrative review of potential effects on muscle–brain axis, physical function, and related outcomes",
+      "abstract": "Aging is associated with progressive declines in cognitive function, physical performance, and musculoskeletal integrity, increasing the risk of frailty and injury. Recent evidence highlights the importance of the muscle–brain–metabolism axis in mediating these age-related changes. Interventions targeting this axis, including whey protein supplementation combined with structured exercise, have attracted growing attention. This narrative review summarizes current evidence regarding the combined effects of whey protein and exercise on physical performance, muscle health, and selected biomarkers in older adults, while also discussing emerging findings related to cognitive function and injury risk. Mechanistically, these interventions may support muscle protein synthesis, modulate inflammatory pathways, improve metabolic regulation, and influence neurotrophic signaling. However, current evidence regarding cognitive outcomes and injury prevention remains limited and, in some cases, inconsistent, with many studies reporting these outcomes as secondary endpoints. Therefore, while combined interventions show potential for improving aspects of healthy aging, further well-designed studies are required to establish their effectiveness in these domains. Overall, targeting the muscle–brain axis through nutritional and exercise-based strategies represents a promising but still evolving approach for supporting healthy aging and functional capacity in older adults.",
+      "authors": "ChuXin SiMa, ShiJie Zhang, HuiZheng Ma et al.",
       "published": "Jul 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1855662",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1772577",
       "image": "",
       "screen": "right"
     },

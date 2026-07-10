@@ -1,6 +1,36 @@
 {
-  "updated": "2026-07-10T07:28:40Z",
+  "updated": "2026-07-10T10:45:29Z",
   "items": [
+    {
+      "title": "Global taxes on sugar-sweetened beverages",
+      "abstract": "Global taxes on sugar-sweetened beverages",
+      "authors": "Laurence Daoust",
+      "published": "Jul 2026",
+      "feedName": "Nature Food",
+      "url": "https://www.nature.com/articles/s43016-026-01399-w",
+      "image": "",
+      "screen": "left"
+    },
+    {
+      "title": "The hidden biodiversity cost of oil crops",
+      "abstract": "Oil crops underpin diets, livestock production and a growing bio-based economy. A supply-chain analysis shows that their biodiversity impacts are shaped not only by how much land is cultivated, but also by where production occurs — and which consumers ultimately drive demand.",
+      "authors": "Sitong Wang",
+      "published": "Jul 2026",
+      "feedName": "Nature Food",
+      "url": "https://www.nature.com/articles/s43016-026-01395-0",
+      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs43016-026-01395-0/MediaObjects/43016_2026_1395_Fig1_HTML.png",
+      "screen": "left"
+    },
+    {
+      "title": "Integrated policies could raise China’s soybean self-sufficiency and ease global land-use pressure",
+      "abstract": "Soybeans are central to global food security, but rising demand for animal-sourced foods has made China highly dependent on imports, creating environmental spillover through deforestation and land-use pressure in major exporting regions. Based on reconstructed soybean demand from 1961 to 2022, this study shows that combined policy implementation could raise China’s soybean self-sufficiency to 80% by 2050 while reducing global cropland expansion and supporting nutrition and climate benefits.",
+      "authors": "Fei Lun, Jing Sun, Yi Zhou et al.",
+      "published": "Jul 2026",
+      "feedName": "Nature Food",
+      "url": "https://www.nature.com/articles/s43016-026-01378-1",
+      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs43016-026-01378-1/MediaObjects/43016_2026_1378_Fig1_HTML.png",
+      "screen": "left"
+    },
     {
       "title": "Publisher Correction: Machine learning-optimized composting strategies can enhance nutrient recycling and transform food system waste into a net carbon sink",
       "abstract": "Publisher Correction: Machine learning-optimized composting strategies can enhance nutrient recycling and transform food system waste into a net carbon sink",
@@ -9,36 +39,6 @@
       "feedName": "Nature Food",
       "url": "https://www.nature.com/articles/s43016-026-01397-y",
       "image": "",
-      "screen": "left"
-    },
-    {
-      "title": "Smart breeding for diversified agricultural systems",
-      "abstract": "Modern plant breeding optimizes varieties for sole cropping, creating trait mismatches that constrain the diversification essential for climate resilience. We propose Smart Systems Breeding, reframing environmental variability as strategic information for precision variety deployment. This approach integrates farmer networks, environmental monitoring and modelling to accelerate breeding for locally adapted intercropping, crop mixtures and agroforestry that supports sustainable agriculture.",
-      "authors": "Ehsan Eyshi Rezaei, Henrik Brinch-Pedersen, Frank Ewert",
-      "published": "Jul 2026",
-      "feedName": "Nature Food",
-      "url": "https://www.nature.com/articles/s43016-026-01393-2",
-      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs43016-026-01393-2/MediaObjects/43016_2026_1393_Fig1_HTML.png",
-      "screen": "left"
-    },
-    {
-      "title": "Reduced meat and dairy consumption improves health, environmental and most nutritional outcomes without increasing diet costs among Scottish adults",
-      "abstract": "Using microsimulation of Scottish Health Survey adults, this study compares 33 pathways for achieving the UK Climate Change Committee meat and dairy reduction targets. Most pathways improved nutrient intake, health and environmental outcomes without increasing diet costs, with greater benefits from reducing red and processed meat among high consumers and using gram-for-gram substitutions with foods including vegetables, beans, eggs and plant-based alternatives.",
-      "authors": "Joe Kennedy, Michael Clark, Cristina Stewart et al.",
-      "published": "Jul 2026",
-      "feedName": "Nature Food",
-      "url": "https://www.nature.com/articles/s43016-026-01384-3",
-      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs43016-026-01384-3/MediaObjects/43016_2026_1384_Fig1_HTML.png",
-      "screen": "left"
-    },
-    {
-      "title": "Artificial intelligence for food innovation",
-      "abstract": "Artificial intelligence (AI) is transforming how new foods are designed, produced and experienced. While AI has the potential to link molecular composition to functional and sensory performance and accelerate food innovation, challenges related to data quality, transparency and governance remain. Addressing these challenges requires interdisciplinary collaboration, open and inclusive data ecosystems and AI systems that augment, rather than replace, human expertise.",
-      "authors": "Bianca Datta, Markus J. Buehler, Yvonne Chow et al.",
-      "published": "Jul 2026",
-      "feedName": "Nature Food",
-      "url": "https://www.nature.com/articles/s43016-026-01380-7",
-      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs43016-026-01380-7/MediaObjects/43016_2026_1380_Fig1_HTML.png",
       "screen": "left"
     },
     {

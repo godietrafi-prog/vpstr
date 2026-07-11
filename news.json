@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-11T10:58:20Z",
+  "updated": "2026-07-11T13:05:16Z",
   "items": [
     {
       "title": "Global taxes on sugar-sweetened beverages",
@@ -122,6 +122,26 @@
       "screen": "left"
     },
     {
+      "title": "Pleasantness shapes congruency effects in odor-induced taste enhancement",
+      "abstract": "",
+      "authors": "Ao Wang, Xinyi Wu, Lin Gao et al.",
+      "published": "Dec 2026",
+      "feedName": "Food Quality & Preference",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0950329326002016?dgcid=rss_sd_all",
+      "image": "",
+      "screen": "left"
+    },
+    {
+      "title": "Influences of Nutri-Grade front-of-pack labels on the consumption of sugar-sweetened and artificially sweetened beverages: Moderating roles of food environment and age",
+      "abstract": "",
+      "authors": "Chia-Wen Wang, Mary Foong-Fong Chong, Pei Ma et al.",
+      "published": "Dec 2026",
+      "feedName": "Food Quality & Preference",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0950329326001916?dgcid=rss_sd_all",
+      "image": "",
+      "screen": "left"
+    },
+    {
       "title": "Looking beyond appearances: The influence of threat-based awe on preferences for suboptimal food",
       "abstract": "",
       "authors": "Tingyi Wang, Feifan Cai, Han Zhao et al.",
@@ -138,26 +158,6 @@
       "published": "Dec 2026",
       "feedName": "Food Quality & Preference",
       "url": "https://www.sciencedirect.com/science/article/pii/S095032932600193X?dgcid=rss_sd_all",
-      "image": "",
-      "screen": "left"
-    },
-    {
-      "title": "Corrigendum to “A comparative choice experiment on naming effects for cellular agriculture meat products” [Food Qual. Pref. 145 (2026) 105999]",
-      "abstract": "",
-      "authors": "Katherine Fuller, Caroline Andrews, Larissa Drescher et al.",
-      "published": "Nov 2026",
-      "feedName": "Food Quality & Preference",
-      "url": "https://www.sciencedirect.com/science/article/pii/S095032932600176X?dgcid=rss_sd_all",
-      "image": "",
-      "screen": "left"
-    },
-    {
-      "title": "Corrigendum to “Claims and colour effects on consumers' sustainability perceptions of foods” [Food Qual. Prefer. 144 (2026) 105992]",
-      "abstract": "",
-      "authors": "Maria Teresa Cappella, Massimiliano Borrello, Laura Trinchera et al.",
-      "published": "Nov 2026",
-      "feedName": "Food Quality & Preference",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0950329326001758?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -242,6 +242,26 @@
       "screen": "left"
     },
     {
+      "title": "Prevalence and determinants of parasitic contamination on fruits and vegetables in gedeo zone, Ethiopia: Implications for foodborne disease",
+      "abstract": "",
+      "authors": "Habtamu Gebrie, Eyob Getu, Samuel Tefera et al.",
+      "published": "Jan 2027",
+      "feedName": "Food Microbiology",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0740002026002066?dgcid=rss_sd_all",
+      "image": "",
+      "screen": "left"
+    },
+    {
+      "title": "Antimicrobial resistance patterns differ amongst Salmonella enterica recovered from synanthropic flies captured across multiple livestock production systems",
+      "abstract": "",
+      "authors": "Eshita Shahanaz, Alicia Montemayor, Brandon Lyons et al.",
+      "published": "Jan 2027",
+      "feedName": "Food Microbiology",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0740002026001991?dgcid=rss_sd_all",
+      "image": "",
+      "screen": "left"
+    },
+    {
       "title": "Genomic epidemiology reveals agricultural environments as direct conduits for multidrug-resistant Salmonella ST34 transmission into the food chain",
       "abstract": "",
       "authors": "Ningbo Liao, Pulun Huang, Gaowang Deng et al.",
@@ -258,26 +278,6 @@
       "published": "Jan 2027",
       "feedName": "Food Microbiology",
       "url": "https://www.sciencedirect.com/science/article/pii/S0740002026001929?dgcid=rss_sd_all",
-      "image": "",
-      "screen": "left"
-    },
-    {
-      "title": "Using consumer acceptance to guide microbial thresholds for the shelf life of fresh chicken breasts",
-      "abstract": "",
-      "authors": "Solveig Langsrud, Aira Joy Aquino, Beatriz Nunes Silva et al.",
-      "published": "Jan 2027",
-      "feedName": "Food Microbiology",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0740002026001905?dgcid=rss_sd_all",
-      "image": "",
-      "screen": "left"
-    },
-    {
-      "title": "Prevalence and genomic characterization of Salmonella enterica serovar Typhimurium across a duck breeder–hatchery–grow-out production system in China",
-      "abstract": "",
-      "authors": "Xinyuan Miao, Xue Wang, Linye Ding et al.",
-      "published": "Dec 2026",
-      "feedName": "Food Microbiology",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0740002026001826?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -696,7 +696,7 @@
       "venue": "Journal of the American Chemical Society",
       "feedName": "Lab Research",
       "citationCount": 19,
-      "recentCitations": 4,
+      "recentCitations": 0,
       "s2_paper_id": "e8f95caa1e8ece0c16f246b34ead0788c6d4b146",
       "url": "https://doi.org/10.1021/jacs.4c00625",
       "image": "",

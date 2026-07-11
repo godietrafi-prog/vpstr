@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-11T18:51:20Z",
+  "updated": "2026-07-11T20:43:01Z",
   "items": [
     {
       "title": "Global taxes on sugar-sweetened beverages",
@@ -282,6 +282,16 @@
       "screen": "left"
     },
     {
+      "title": "Ribosome-based gene circuit lets cells read six signals and trigger responses",
+      "abstract": "The molecular machinery that normally builds proteins inside cells has now taken on a new role as a \"switch.\" A research team at POSTECH (Pohang University of Science and Technology) has developed a new 'RNA-based smart gene circuit' platform that can simultaneously read multiple signals inside a cell, make its own decisions and autonomously generate programmed responses. This represents a step beyond simple genetic manipulation toward an era in which cells themselves function as \"living computers.\"",
+      "authors": "",
+      "published": "Jul 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-07-ribosome-based-gene-circuit-cells.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/the-protein-factory-wo.jpg",
+      "screen": "right"
+    },
+    {
       "title": "Pre-cooked seafood-based meals can absorb chemical contaminants during packaging and processing",
       "abstract": "Ready meals containing fish and seafood can expose consumers to chemical contaminants that are present in the environment or introduced during processing and packaging. A study by the Universitat Rovira i Virgili (URV) has, for the first time, analyzed the presence of a wide range of high-volume chemical substances in ready-made fish and seafood dishes sold in Tarragona, Spain.",
       "authors": "",
@@ -309,16 +319,6 @@
       "feedName": "Phys.org Analytics",
       "url": "https://phys.org/news/2026-07-fast-irreversible-lithium-migration-solid.html",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/tracking-hidden-lithiu.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "High-throughput search tests 200 catalysts, revealing hidden routes for methane chemistry",
-      "abstract": "Catalysts are the hidden engines of modern manufacturing, directly involved in more than 80% of chemical processes. However, catalyst development is highly complex because performance is governed by the interplay of the catalyst, local operating conditions, reactant composition and product formation.",
-      "authors": "",
-      "published": "Jul 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-07-high-throughput-catalysts-revealing-hidden.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/high-throughput-screen.jpg",
       "screen": "right"
     },
     {

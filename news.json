@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-12T18:53:19Z",
+  "updated": "2026-07-12T20:36:41Z",
   "items": [
     {
       "title": "Global taxes on sugar-sweetened beverages",
@@ -282,6 +282,16 @@
       "screen": "left"
     },
     {
+      "title": "New imaging method offers fresh insight into LED materials",
+      "abstract": "Light Emitting Diodes (LEDs) are used in everything from household lighting and mobile phones to large display screens. Improving their efficiency could reduce energy use and enhance performance across a wide range of technologies. A new study involving researchers from the University of Liverpool and the University of Strathclyde has demonstrated a powerful way to identify tiny crystal defects that can reduce the efficiency of LED materials. The advance could help scientists better understand how these defects form and ultimately support the development of more efficient electronic and optoelectronic devices.",
+      "authors": "",
+      "published": "Jul 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-07-imaging-method-fresh-insight-materials.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/new-imaging-method-off.jpg",
+      "screen": "right"
+    },
+    {
       "title": "Ribosome-based gene circuit lets cells read six signals and trigger responses",
       "abstract": "The molecular machinery that normally builds proteins inside cells has now taken on a new role as a \"switch.\" A research team at POSTECH (Pohang University of Science and Technology) has developed a new 'RNA-based smart gene circuit' platform that can simultaneously read multiple signals inside a cell, make its own decisions and autonomously generate programmed responses. This represents a step beyond simple genetic manipulation toward an era in which cells themselves function as \"living computers.\"",
       "authors": "",
@@ -309,16 +319,6 @@
       "feedName": "Phys.org Analytics",
       "url": "https://phys.org/news/2026-07-neutron-imaging-reveals-limits-storage.html",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/can-concrete-waste-hel-2.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "Fast charging can cause irreversible lithium migration in solid-state batteries",
-      "abstract": "Solid-state batteries are often viewed as a promising path toward safer and more powerful energy storage. However, one key question has remained difficult to answer: How does lithium actually move inside the solid materials during charging and discharging? Unlike liquid batteries, where ions can move more freely, solid-state batteries depend on lithium passing through dense solid particles and across complex interfaces. This makes their internal behavior hard to observe and even harder to control.",
-      "authors": "",
-      "published": "Jul 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-07-fast-irreversible-lithium-migration-solid.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/tracking-hidden-lithiu.jpg",
       "screen": "right"
     },
     {

@@ -1,0 +1,318 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Happy Birthday, Rafi!</title>
+  <style>
+    :root {
+      --ink: #16352d;
+      --cream: #fff9e9;
+      --mint: #c9f4d8;
+      --green: #1d7a55;
+      --coral: #ff705d;
+      --yellow: #ffd447;
+      --blue: #56b9df;
+      --purple: #9b72cf;
+    }
+
+    * { box-sizing: border-box; }
+
+    html, body {
+      width: 100%;
+      height: 100%;
+      margin: 0;
+      overflow: hidden;
+      background: #10382e;
+    }
+
+    body {
+      display: grid;
+      place-items: center;
+      font-family: "Trebuchet MS", "Arial Rounded MT Bold", Arial, sans-serif;
+      color: var(--ink);
+    }
+
+    .poster {
+      position: relative;
+      isolation: isolate;
+      width: 100%;
+      height: 100%;
+      min-height: 0;
+      overflow: hidden;
+      background:
+        radial-gradient(circle at 15% 18%, rgba(255,255,255,.95) 0 5%, transparent 5.2%),
+        radial-gradient(circle at 88% 27%, rgba(255,255,255,.72) 0 4%, transparent 4.2%),
+        linear-gradient(160deg, #fffdf5 0 45%, #dff8e7 45.2% 100%);
+      box-shadow: 0 0 70px rgba(0,0,0,.4);
+    }
+
+    .poster::before {
+      content: "";
+      position: absolute;
+      z-index: -1;
+      width: 64%;
+      aspect-ratio: 1;
+      right: -25%;
+      top: 33%;
+      border: clamp(18px, 4vw, 44px) solid rgba(255, 212, 71, .28);
+      border-radius: 50%;
+    }
+
+    .poster::after {
+      content: "";
+      position: absolute;
+      z-index: -1;
+      width: 52%;
+      height: 22%;
+      left: -18%;
+      bottom: 4%;
+      background: rgba(86, 185, 223, .16);
+      border-radius: 50%;
+      transform: rotate(-18deg);
+    }
+
+    .topline {
+      position: absolute;
+      top: 3.4%;
+      left: 7%;
+      right: 7%;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      color: var(--green);
+      font-size: clamp(11px, 1.5vw, 20px);
+      font-weight: 800;
+      letter-spacing: .16em;
+      text-transform: uppercase;
+    }
+
+    .topline .leaf {
+      width: clamp(36px, 6vw, 70px);
+      height: 3px;
+      border-radius: 99px;
+      background: currentColor;
+      opacity: .8;
+    }
+
+    .copy {
+      position: absolute;
+      top: 11%;
+      left: 8%;
+      right: 8%;
+      text-align: center;
+    }
+
+    .eyebrow {
+      display: inline-block;
+      padding: .45em 1em;
+      border: 2px solid var(--coral);
+      border-radius: 999px;
+      color: var(--coral);
+      font-size: clamp(12px, 1.8vw, 24px);
+      font-weight: 900;
+      letter-spacing: .12em;
+      text-transform: uppercase;
+      transform: rotate(-2deg);
+    }
+
+    h1 {
+      margin: .2em 0 0;
+      font-family: "Comic Sans MS", "Segoe Print", cursive;
+      font-size: clamp(44px, 10.5vw, 118px);
+      line-height: .92;
+      letter-spacing: -.075em;
+      color: var(--green);
+      text-shadow: .035em .045em 0 var(--yellow);
+      transform: rotate(-2deg);
+    }
+
+    h1 span {
+      display: inline-block;
+      color: var(--coral);
+      animation: name-bounce 3.2s ease-in-out infinite;
+      transform-origin: 50% 85%;
+    }
+
+    .wish {
+      max-width: 20em;
+      margin: .85em auto 0;
+      font-size: clamp(24px, 3.6vw, 44px);
+      line-height: 1.35;
+      font-weight: 800;
+    }
+
+    .wish strong {
+      color: var(--purple);
+      font-family: Georgia, serif;
+      font-style: italic;
+    }
+
+    .art {
+      position: absolute;
+      left: 12%;
+      right: 12%;
+      bottom: 7%;
+      height: 36%;
+      display: grid;
+      place-items: end center;
+    }
+
+    .cake-scene {
+      width: min(100%, 500px);
+      max-height: 100%;
+      overflow: visible;
+      filter: drop-shadow(0 14px 12px rgba(21,65,48,.15));
+    }
+
+    @media (max-width: 600px) {
+      h1 { font-size: clamp(42px, 10.2vw, 62px); }
+      .wish { font-size: clamp(19px, 4.5vw, 27px); }
+      .art { left: 15%; right: 15%; height: 34%; }
+    }
+
+    .flame {
+      transform-box: fill-box;
+      transform-origin: 50% 100%;
+      animation: flicker 1.15s ease-in-out infinite alternate;
+    }
+
+    .spark {
+      transform-box: fill-box;
+      transform-origin: center;
+      animation: twinkle 2.4s ease-in-out infinite;
+    }
+
+    .spark.s2 { animation-delay: -.8s; }
+    .spark.s3 { animation-delay: -1.6s; }
+
+    .footer {
+      position: absolute;
+      left: 7%;
+      right: 7%;
+      bottom: 3.3%;
+      display: flex;
+      align-items: center;
+      gap: 1em;
+      color: var(--green);
+      font-size: clamp(10px, 1.4vw, 18px);
+      font-weight: 800;
+      letter-spacing: .08em;
+      text-transform: uppercase;
+    }
+
+    .footer::before, .footer::after {
+      content: "";
+      height: 2px;
+      flex: 1;
+      background: currentColor;
+      opacity: .35;
+    }
+
+    .confetti {
+      position: absolute;
+      inset: 0;
+      pointer-events: none;
+    }
+
+    .confetti i {
+      position: absolute;
+      top: -8%;
+      width: clamp(5px, .8vw, 10px);
+      height: clamp(12px, 1.8vw, 22px);
+      border-radius: 3px;
+      background: var(--c);
+      opacity: .88;
+      animation: fall var(--d) linear infinite;
+      animation-delay: var(--delay);
+      will-change: transform;
+    }
+
+    .confetti i:nth-child(1) { left: 8%;  --c: var(--coral);  --d: 10s; --delay: -3s; }
+    .confetti i:nth-child(2) { left: 19%; --c: var(--blue);   --d: 13s; --delay: -9s; }
+    .confetti i:nth-child(3) { left: 31%; --c: var(--yellow); --d: 11s; --delay: -6s; }
+    .confetti i:nth-child(4) { left: 46%; --c: var(--purple); --d: 14s; --delay: -1s; }
+    .confetti i:nth-child(5) { left: 61%; --c: var(--green);  --d: 12s; --delay: -8s; }
+    .confetti i:nth-child(6) { left: 74%; --c: var(--coral);  --d: 15s; --delay: -4s; }
+    .confetti i:nth-child(7) { left: 86%; --c: var(--blue);   --d: 11s; --delay: -10s; }
+    .confetti i:nth-child(8) { left: 94%; --c: var(--yellow); --d: 13s; --delay: -6s; }
+
+    @keyframes fall {
+      from { transform: translate3d(0,-10vh,0) rotate(0deg); }
+      to   { transform: translate3d(30px,116vh,0) rotate(420deg); }
+    }
+
+    @keyframes name-bounce {
+      0%, 75%, 100% { transform: translateY(0) rotate(2deg); }
+      82% { transform: translateY(-.09em) rotate(-2deg); }
+      90% { transform: translateY(0) rotate(2deg); }
+    }
+
+    @keyframes flicker {
+      from { transform: rotate(-4deg) scale(.94, 1.04); }
+      to   { transform: rotate(5deg) scale(1.04, .94); }
+    }
+
+    @keyframes twinkle {
+      0%, 100% { opacity: .25; transform: scale(.7) rotate(0); }
+      50% { opacity: 1; transform: scale(1.12) rotate(18deg); }
+    }
+
+    @media (prefers-reduced-motion: reduce) {
+      *, *::before, *::after { animation: none !important; }
+    }
+  </style>
+</head>
+<body>
+  <main class="poster" aria-label="Happy birthday greeting for Rafi">
+    <div class="topline"><span class="leaf"></span><span>A very special announcement</span><span class="leaf"></span></div>
+
+    <section class="copy">
+      <div class="eyebrow">Today we celebrate</div>
+      <h1>Happy Birthday,<br><span>Rafi!</span></h1>
+      <p class="wish">May your year be full of <strong>bright ideas</strong>, good people and delicious surprises.</p>
+    </section>
+
+    <div class="art" aria-hidden="true">
+      <svg class="cake-scene" viewBox="0 0 640 500" role="img">
+        <g class="spark" fill="#ffd447"><path d="M90 92l8 20 21 8-21 8-8 21-8-21-21-8 21-8z"/></g>
+        <g class="spark s2" fill="#56b9df"><path d="M548 120l6 15 15 6-15 6-6 15-6-15-15-6 15-6z"/></g>
+        <g class="spark s3" fill="#ff705d"><circle cx="510" cy="62" r="9"/></g>
+        <path d="M68 420c84-52 416-47 503 0 25 14 9 38-18 43-117 23-353 22-467 0-27-5-43-27-18-43z" fill="#afd9c0"/>
+        <path d="M164 279h314v146c0 29-24 53-53 53H217c-29 0-53-24-53-53z" fill="#ff856f"/>
+        <path d="M164 279h314v58c-25-2-28-29-54-29s-31 29-57 29-31-29-57-29-31 29-57 29-31-29-57-29c-13 0-22 7-32 15z" fill="#fff6dc"/>
+        <path d="M184 393c77 22 198 24 274-2v28c-78 25-196 24-274 0z" fill="#f85d52" opacity=".72"/>
+        <ellipse cx="321" cy="279" rx="157" ry="43" fill="#fff9e9"/>
+        <ellipse cx="321" cy="279" rx="138" ry="31" fill="#ffd447"/>
+        <path d="M220 274c50-24 156-26 203 0-53 18-150 18-203 0z" fill="#fff1a8"/>
+        <g>
+          <rect x="304" y="166" width="34" height="105" rx="12" fill="#56b9df"/>
+          <path d="M304 189h34M304 220h34" stroke="#fff9e9" stroke-width="8"/>
+          <g class="flame">
+            <path d="M321 164c-24-17-13-44 4-62 5 20 25 30 13 53-4 8-10 12-17 9z" fill="#ff705d"/>
+            <path d="M322 158c-10-9-4-23 4-32 3 10 10 16 5 27-2 4-5 6-9 5z" fill="#ffd447"/>
+          </g>
+        </g>
+        <path d="M191 360c28 15 59 11 81-10M370 350c25 18 58 18 84 1" fill="none" stroke="#973f55" stroke-width="9" stroke-linecap="round"/>
+        <circle cx="279" cy="361" r="8" fill="#16352d"/><circle cx="360" cy="361" r="8" fill="#16352d"/>
+        <path d="M300 383c12 10 28 10 40 0" fill="none" stroke="#16352d" stroke-width="7" stroke-linecap="round"/>
+      </svg>
+    </div>
+
+    <div class="footer">The lab can wait. Cake cannot.</div>
+    <div class="confetti" aria-hidden="true"><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i></div>
+  </main>
+  <script>
+    function birthdayName() {
+      var match = location.search.match(/[?&]name=([^&]*)/);
+      var name = match ? decodeURIComponent(match[1].replace(/\+/g, ' ')) : 'Rafi';
+      var el = document.querySelector('h1 span');
+      el.textContent = name + ' !';
+      el.style.display = 'inline-block'; el.style.whiteSpace = 'nowrap'; el.style.fontSize = '';
+      var size = parseFloat(getComputedStyle(el).fontSize), max = el.parentNode.clientWidth * .88;
+      while (el.scrollWidth > max && size > 22) { size--; el.style.fontSize = size + 'px'; }
+    }
+    birthdayName(); addEventListener('resize', birthdayName);
+  </script>
+</body>
+</html>

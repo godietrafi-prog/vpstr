@@ -334,6 +334,17 @@ FEEDS = [
 
 MAX_PER_FEED = 4   # cards shown per feed
 ABSTRACT_MAX = 1600 # characters (~15 lines)
+ABSTRACT_MIN = 120  # shorter text is not useful as a full-screen card
+
+
+def usable_abstract(title: str, abstract: str) -> str:
+    """Reject RSS placeholders that merely repeat the title or lack detail."""
+    text = re.sub(r"\s+", " ", abstract or "").strip()
+    norm_title = re.sub(r"\W+", " ", title or "").strip().casefold()
+    norm_text = re.sub(r"\W+", " ", text).strip().casefold()
+    if len(text) < ABSTRACT_MIN or norm_text == norm_title:
+        return ""
+    return text
 
 # ── Main loop ─────────────────────────────────────────────────────────────
 # Load previous news.json to use as fallback for feeds that fail to fetch
@@ -367,7 +378,7 @@ for feed_info in FEEDS:
             article_url = entry.get("link", "")
             raw_html    = get_raw_html(entry)
 
-            abstract  = extract_abstract(entry, feed_type)
+            abstract  = usable_abstract(title, extract_abstract(entry, feed_type))
             authors   = extract_authors(entry, raw_html)
             published = extract_date(entry, raw_html)
             if is_nature:

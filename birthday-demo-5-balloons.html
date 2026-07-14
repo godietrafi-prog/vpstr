@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Birthday Balloons: Rafi</title>
+<style>
+*{box-sizing:border-box}html,body{width:100%;height:100%;margin:0;overflow:hidden}body{display:grid;place-items:center;background:#714868;font-family:"Trebuchet MS",Arial,sans-serif}.card{position:relative;width:min(100vw,56.25vh);height:min(100vh,177.78vw);min-height:580px;overflow:hidden;color:#43233d;text-align:center;background:linear-gradient(155deg,#fff7de 0 62%,#f7cadd 62%)}.sun{position:absolute;width:48%;height:22%;border-radius:50%;background:#ffd557;right:-18%;top:38%;opacity:.5}.copy{position:absolute;z-index:3;top:8%;left:8%;right:8%}.kicker{font-size:clamp(11px,1.6vw,18px);font-weight:900;letter-spacing:.2em;text-transform:uppercase;color:#a83f68}h1{margin:.3em 0 .12em;font-family:Georgia,serif;font-size:clamp(43px,10vw,110px);line-height:.92;letter-spacing:-.06em}h1 span{display:block;color:#e84f68;font-family:"Comic Sans MS","Segoe Print",cursive;text-shadow:.04em .04em 0 #ffd557;animation:wave 3.5s ease-in-out infinite}.wish{margin:.9em auto 0;max-width:20em;font-size:clamp(16px,2.6vw,29px);line-height:1.35;font-weight:800}.balloons{position:absolute;z-index:2;left:5%;right:5%;bottom:6%;height:38%}.balloons svg{width:100%;height:100%;overflow:visible}.b{transform-box:fill-box;transform-origin:50% 100%;animation:sway 4s ease-in-out infinite}.b2{animation-delay:-1.3s}.b3{animation-delay:-2.7s}.cloud{position:absolute;border-radius:999px;background:rgba(255,255,255,.65);width:38%;height:6%;left:-8%;top:49%;box-shadow:45px -18px 0 rgba(255,255,255,.65)}.footer{position:absolute;z-index:3;bottom:3%;left:6%;right:6%;color:#a83f68;font-size:clamp(10px,1.4vw,17px);font-weight:900;letter-spacing:.12em;text-transform:uppercase}@keyframes sway{50%{transform:rotate(4deg) translateY(-8px)}}@keyframes wave{50%{transform:rotate(-2deg) scale(1.04)}}@media(max-width:600px){h1{font-size:clamp(40px,9.8vw,58px)}.wish{font-size:clamp(16px,4vw,22px)}.balloons{height:34%;left:8%;right:8%}}@media(prefers-reduced-motion:reduce){*{animation:none!important}}</style>
+</head>
+<body>
+<main class="card">
+<div class="sun">
+</div>
+<div class="cloud">
+</div>
+<section class="copy">
+<div class="kicker">A little joy is in the air</div>
+<h1>Happy Birthday,<span>Rafi!</span>
+</h1>
+<p class="wish">Wishing you a day that floats above the ordinary: colorful, surprising, and full of smiles.</p>
+</section>
+<div class="balloons" aria-hidden="true">
+<svg viewBox="0 0 600 520">
+<g class="b">
+<path d="M170 200c-66 0-104-55-98-119C78 21 117 0 170 0s92 21 98 81c6 64-32 119-98 119z" fill="#ef5d70"/>
+<path d="M170 200l-13 22h26z" fill="#a83f68"/>
+<path d="M170 218c-27 89 31 123-7 258" fill="none" stroke="#714868" stroke-width="5"/>
+</g>
+<g class="b b2">
+<path d="M420 224c-66 0-104-55-98-119 6-60 45-81 98-81s92 21 98 81c6 64-32 119-98 119z" fill="#63cbbf"/>
+<path d="M420 224l-13 22h26z" fill="#27877d"/>
+<path d="M420 242c27 89-31 123 7 238" fill="none" stroke="#714868" stroke-width="5"/>
+</g>
+<g class="b b3">
+<path d="M294 170c-57 0-91-48-85-104 5-52 39-70 85-70s80 18 85 70c6 56-28 104-85 104z" fill="#ffd557"/>
+<path d="M294 170l-12 20h24z" fill="#d19a20"/>
+<path d="M294 188c-8 85 30 136 4 287" fill="none" stroke="#714868" stroke-width="5"/>
+</g>
+<path d="M139 473c86-34 235-36 323 0" fill="none" stroke="#fff7de" stroke-width="18" stroke-linecap="round" opacity=".7"/>
+</svg>
+</div>
+<div class="footer">Let the good things rise.</div>
+</main>
+<style>.copy{left:11%;right:11%;z-index:4}h1{font-size:clamp(34px,8.1vw,91px);letter-spacing:-.045em}h1 span{white-space:nowrap}.wish{max-width:19em;font-size:clamp(15px,2.35vw,26px)}.balloons{left:10%;right:10%;height:33%}@media(max-width:600px){h1{font-size:clamp(31px,7.9vw,46px)}.wish{font-size:clamp(15px,3.6vw,20px)}}</style>
+<style>.card{width:100%;height:100%;min-height:0}h1 span{display:inline-block}.kicker{font-size:clamp(16px,2.2vw,26px)}.wish{font-size:clamp(24px,3.5vw,42px);max-width:18em}.balloons{left:6%;right:6%;height:40%}.footer{font-size:clamp(14px,1.8vw,22px)}</style>
+<script>function safeFit(){var n=document.querySelector('h1 span'),m=location.search.match(/[?&]name=([^&]*)/),s,w;if(!n)return;n.textContent=(m?decodeURIComponent(m[1].replace(/\+/g,' ')):'Rafi')+' !';n.style.fontSize='';s=parseFloat(getComputedStyle(n).fontSize);w=n.parentNode.clientWidth*.88;while(n.scrollWidth>w&&s>22){s--;n.style.fontSize=s+'px'}}safeFit();addEventListener('resize',safeFit)</script>
+</body>
+</html>

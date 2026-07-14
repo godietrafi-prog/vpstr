@@ -635,6 +635,14 @@
             line-height: 1;
         }
 
+        .birthday-frame {
+            width: 100%;
+            height: 100%;
+            border: 0;
+            display: block;
+            background: #fff9e9;
+        }
+
     </style>
 </head>
 <body>
@@ -673,6 +681,8 @@
         imageDuration:    7,   // seconds for regular images
         rssCardDuration: 40,   // seconds for RSS full-screen cards
         rssMaxPerFeed:    3,   // how many articles to take from each feed
+        birthdayDuration: 30,  // seconds; shown at :00, :20 and :40
+        birthdayEverySlides: 0, // production schedule; >0 is test-only
         loop: true
     };
 
@@ -689,6 +699,9 @@
     var playlist = [];
     var current  = 0;
     var timer    = null;
+    var birthdayPoolIndex = -1;
+    var birthdayScheduleTimer = null;
+    var birthdayPreviewShown = false;
 
     function isVideo(src) { return /\.(mp4|webm|ogg|mov)$/i.test(src || ''); }
 
@@ -770,6 +783,14 @@
         while (ii < images.length) pl.push(images[ii++]);
         while (vi < videos.length) pl.push(videos[vi++]);
 
+        if (birthdayPoolIndex >= 0 && CONFIG.birthdayEverySlides > 0) {
+            var withBirthdays = [];
+            for (var p = 0; p < pl.length; p++) {
+                withBirthdays.push(pl[p]);
+                if ((p + 1) % CONFIG.birthdayEverySlides === 0) withBirthdays.push(birthdayPoolIndex);
+            }
+            pl = withBirthdays;
+        }
         return pl.length > 0 ? pl : pool.map(function(_, i) { return i; });
     }
 
@@ -962,7 +983,17 @@
             var div  = document.createElement('div');
             div.className = 'slide';
 
-            if (item.type === 'lab_paper') {
+            if (item.type === 'birthday') {
+                var frame = document.createElement('iframe');
+                frame.className = 'birthday-frame';
+                frame.title = 'Birthday greeting for ' + item.name;
+                frame.setAttribute('data-src', item.src);
+                div.appendChild(frame);
+                div._birthdayFrame = frame;
+                div.setAttribute('data-type', 'birthday');
+                div.setAttribute('data-duration', String(CONFIG.birthdayDuration));
+                birthdayPoolIndex = i;
+            } else if (item.type === 'lab_paper') {
                 div.setAttribute('data-type', 'image');
                 div.setAttribute('data-duration', String(item.duration || CONFIG.rssCardDuration));
                 makeLabPaperSlide(div, item);
@@ -1042,6 +1073,17 @@
         current = pos;
         var el = poolEls[playlist[current]];
 
+        // Birthday iframe exists only while visible; this stops hidden CSS
+        // animations and releases its document/GPU resources immediately.
+        for (var b = 0; b < poolEls.length; b++) {
+            if (poolEls[b]._birthdayFrame && poolEls[b] !== el)
+                poolEls[b]._birthdayFrame.src = 'about:blank';
+        }
+        if (el._birthdayFrame && CONFIG.birthdayEverySlides > 0)
+            prepareBirthdayFrame(new Date(), 'test-' + Date.now());
+        if (el._birthdayFrame)
+            el._birthdayFrame.src = el._birthdayFrame.getAttribute('data-src');
+
         // Load current + 1 ahead; unload 2 steps back to free RAM
         for (var k = 0; k <= 1; k++)
             loadSlideImages(playlist[(current + k) % playlist.length]);
@@ -1074,6 +1116,102 @@
     }
 
     function next() { showSlide(current + 1); }
+
+    function scheduleBirthday() {
+        if (birthdayPoolIndex < 0) return;
+        clearTimeout(birthdayScheduleTimer);
+        var now = new Date();
+        if (!birthdayPreviewShown && /[?&]birthdayPreview=1(?:&|$)/.test(location.search)) {
+            birthdayPreviewShown = true;
+            if (CONFIG.birthdayEverySlides <= 0) prepareBirthdayFrame(now);
+            playlist.splice(current + 1, 0, birthdayPoolIndex);
+            setTimeout(next, 1200);
+        }
+        if (CONFIG.birthdayEverySlides > 0) return;
+        var nextAt = new Date(now.getTime());
+        nextAt.setSeconds(0, 0);
+        if (now.getMinutes() < 20) nextAt.setMinutes(20);
+        else if (now.getMinutes() < 40) nextAt.setMinutes(40);
+        else { nextAt.setMinutes(0); nextAt.setHours(nextAt.getHours() + 1); }
+        birthdayScheduleTimer = setTimeout(function() {
+            prepareBirthdayFrame(nextAt);
+            playlist.splice(current + 1, 0, birthdayPoolIndex);
+            next();
+            scheduleBirthday();
+        }, Math.max(1000, nextAt.getTime() - now.getTime()));
+    }
+
+    function chooseBirthdayTemplate(label, when, occurrenceKey) {
+        var minute = when.getMinutes() < 20 ? '00' : (when.getMinutes() < 40 ? '20' : '40');
+        var slot = when.getFullYear() + '-' + String(when.getMonth() + 1).padStart(2, '0') + '-' +
+                   String(when.getDate()).padStart(2, '0') + '-' + String(when.getHours()).padStart(2, '0') + ':' + minute;
+        if (occurrenceKey) slot = occurrenceKey;
+        var choiceKey = 'birthdayTemplateSlot:' + slot + ':' + label;
+        var historyKey = 'birthdayTemplateHistory:' + label;
+        var chosen = -1, history = [];
+        try {
+            chosen = parseInt(localStorage.getItem(choiceKey), 10);
+            history = JSON.parse(localStorage.getItem(historyKey) || '[]');
+            if (!Array.isArray(history)) history = [];
+        } catch(e) { history = []; }
+        if (!(chosen >= 0 && chosen < 10)) {
+            var recent = history.slice(-2);
+            var candidates = [0,1,2,3,4,5,6,7,8,9].filter(function(n) { return recent.indexOf(n) < 0; });
+            var seed = 0, seedText = slot + ':' + label;
+            for (var i = 0; i < seedText.length; i++) seed = ((seed * 31) + seedText.charCodeAt(i)) >>> 0;
+            chosen = candidates[seed % candidates.length];
+            history.push(chosen);
+            try { localStorage.setItem(choiceKey, String(chosen)); localStorage.setItem(historyKey, JSON.stringify(history.slice(-2))); } catch(e) {}
+        }
+        return chosen;
+    }
+
+    function prepareBirthdayFrame(when, occurrenceKey) {
+        if (birthdayPoolIndex < 0) return;
+        var item = pool[birthdayPoolIndex];
+        var files = ['birthday-demo.html','birthday-demo-2-disco.html','birthday-demo-3-space.html','birthday-demo-4-lab.html','birthday-demo-5-balloons.html','birthday-demo-6-arcade.html','birthday-demo-7-ocean.html','birthday-demo-8-comic.html','birthday-demo-9-garden.html','birthday-demo-10-paper.html'];
+        var chosen = chooseBirthdayTemplate(item.name, when || new Date(), occurrenceKey);
+        item.src = files[chosen] + '?name=' + encodeURIComponent(item.name);
+        poolEls[birthdayPoolIndex]._birthdayFrame.setAttribute('data-src', item.src);
+    }
+
+    function csvRows(text) {
+        var lines = String(text || '').replace(/^\uFEFF/, '').split(/\r?\n/);
+        var rows = [];
+        for (var i = 1; i < lines.length; i++) {
+            if (!lines[i].trim()) continue;
+            var m = lines[i].match(/^\s*(?:"([^"]*(?:""[^"]*)*)"|([^,]*))\s*,\s*(?:"([^"]*)"|([^,]*))/);
+            if (!m) continue;
+            rows.push({ name: (m[1] || m[2] || '').replace(/""/g, '"').trim(), birthday: (m[3] || m[4] || '').trim() });
+        }
+        return rows;
+    }
+
+    function birthdayForToday(callback) {
+        var now = new Date();
+        var mmdd = String(now.getMonth() + 1).padStart(2, '0') + '-' + String(now.getDate()).padStart(2, '0');
+        var cacheKey = 'birthdayCsv:' + now.getFullYear() + '-' + mmdd;
+        var cached = null;
+        try { cached = sessionStorage.getItem(cacheKey); } catch(e) {}
+        function finish(text) {
+            var ddmm = String(now.getDate()).padStart(2, '0') + '/' + String(now.getMonth() + 1).padStart(2, '0');
+            var names = csvRows(text).filter(function(r) {
+                var p = r.birthday.split('/');
+                if (p.length !== 2) return false;
+                var day = String(parseInt(p[0], 10)).padStart(2, '0');
+                var month = String(parseInt(p[1], 10)).padStart(2, '0');
+                return day + '/' + month === ddmm;
+            }).map(function(r) { return r.name; }).filter(Boolean);
+            if (!names.length) { callback(null); return; }
+            var label = names.length === 1 ? names[0] : names.slice(0, -1).join(', ') + ' & ' + names[names.length - 1];
+            callback({ type: 'birthday', name: label, src: 'about:blank' });
+        }
+        if (cached != null && !/[?&]birthdayPreview=1(?:&|$)/.test(location.search)) { finish(cached); return; }
+        var req = new XMLHttpRequest();
+        req.open('GET', 'birthdays.csv?v=' + Date.now()); req.timeout = 5000;
+        req.onload = function() { var text = req.status === 200 ? req.responseText : ''; try { sessionStorage.setItem(cacheKey, text); } catch(e) {} finish(text); };
+        req.onerror = req.ontimeout = function() { finish(''); }; req.send();
+    }
 
     document.addEventListener('keydown', function(e) {
         if (e.key === 'ArrowRight' || e.key === ' ')  next();
@@ -1119,7 +1257,10 @@
                                     feedName:  it.feedName,
                                     image:     it.image     || '',
                                     screen:    it.screen    || 'both' };
-                    if (rssItem.abstract || rssItem.image) {
+                    var abstractText = stripHTML(rssItem.abstract);
+                    var titleText = stripHTML(rssItem.title);
+                    var usefulAbstract = abstractText.length >= 120 && abstractText.toLowerCase() !== titleText.toLowerCase();
+                    if (usefulAbstract || rssItem.image) {
                         rich.push({ type: 'rss_card', duration: CONFIG.rssCardDuration, _rssItem: rssItem });
                     } else {
                         compact.push(rssItem);
@@ -1183,17 +1324,25 @@
         }
         rssFetchAll(function(rssItems) {
             rssItems.forEach(function(item) { pool.push(item); });
-            buildPool();
-            playlist = buildPlaylist();
-            // Each screen starts at a random position → true independence
-            showSlide(Math.floor(Math.random() * Math.max(1, playlist.length)));
-            tickerBuild(rssItems);
+            birthdayForToday(function(birthdayItem) {
+                if (birthdayItem) pool.push(birthdayItem);
+                buildPool();
+                playlist = buildPlaylist();
+                // Each screen starts at a random position → true independence
+                showSlide(Math.floor(Math.random() * Math.max(1, playlist.length)));
+                scheduleBirthday();
+                tickerBuild(rssItems);
+            });
         });
     };
     xhr.onerror = function() {
-        buildPool();
-        playlist = buildPlaylist();
-        showSlide(0);
+        birthdayForToday(function(birthdayItem) {
+            if (birthdayItem) pool.push(birthdayItem);
+            buildPool();
+            playlist = buildPlaylist();
+            showSlide(0);
+            scheduleBirthday();
+        });
     };
     xhr.send();
 

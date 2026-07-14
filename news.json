@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-14T07:48:49Z",
+  "updated": "2026-07-14T09:48:12Z",
   "items": [
     {
       "title": "Global taxes on sugar-sweetened beverages",
@@ -402,22 +402,32 @@
       "screen": "right"
     },
     {
-      "title": "Examining ultra-processed food consumption and attention deficit/hyperactivity disorder symptoms in children living in Kuwait",
-      "abstract": "IntroductionThe meteoric rise of ultra-processed foods (UPFs) in our diets has become a global public health concern. In Kuwait, globalization has led to a shift in dietary patterns increasing reliance on UPFs, particularly among children. UPFs have been shown to stimulate the brain’s reward-system making them especially relevant to attention-deficit/hyperactivity disorder (ADHD) related behaviors such as impulsivity and reward-seeking. Although determining the direction of the relationship between ADHD and UPF consumption is difficult, limited evidence, particularly in Kuwait, has examined this association during childhood.MethodsA cross-sectional study using the SNAP-IV and NOVA based ultra-processed food frequency questionnaire were used to examine the relationship between ultra-processed food intake and ADHD behavioral outcomes in Kuwaiti children between the ages 6 and 12.ResultsA total of N = 159 were included (mean age 8.58 years and 59.1% male) in the final sample. After adjusting for age, a significant positive association was found (ρ = 0.576, p < 0.001) between total ADHD symptom severity and UPF consumption, hyperactivity showed the strongest association in the total sample followed by inattention. Boys (n = 94, ρ = 0.665, p < 0.001) had stronger associations compared to girls (n = 65, ρ = 0.439, p < 0.001) with hyperactivity having the strongest link among boys and inattention having the strongest correlation among girls.DiscussionThese findings highlight the harmful behavioral association between ultra-processed food consumption and child development. Higher i…",
-      "authors": "Saleh Alali, Wed Al-Otaibi, Sara Alotaibi et al.",
+      "title": "Black tea-processed Toona sinensis leaves alleviate DSS-induced ulcerative colitis in mice by enriching flavonoids and modulating gut microbiota",
+      "abstract": "Ulcerative colitis (UC) is a chronic inflammatory bowel disease for which safe dietary interventions remain limited. Toona sinensis leaves, a traditional medicinal food rich in polyphenols and flavonoids, exhibit anti-inflammatory potential; however, how processing techniques modulate their functional nutrition and anti-colitis activity is poorly understood. In the present study, we compared hot air-dried T. sinensis leaves (TL) and black tea-processed leaf tea (TLT) in a mouse model of DSS-induced colitis (n = 8 per group) at a dose of 20 mg/ml (approximately 3.33 g/kg body weight per day) via drinking water, with Keemun black tea (BT) as a positive plant-based dietary control. Both TL and TLT significantly mitigated DSS-induced colitis; notably, TLT showed significantly stronger efficacy than TL (p < 0.05) and exhibited efficacy comparable to BT. TLT restored colonic histopathology, upregulated tight junction proteins (ZO-1 and Occludin), and suppressed pro-inflammatory cytokines (IL-1β and TNF-α). Black tea processing of T. sinensis leaves increased bioactive components including total flavonoids and polyphenols, which strongly correlated with protective indicators (|r| > 0.6, p < 0.01). TLT also restored gut microbial diversity and enriched SCFA-producing genera such as Akkermansia, Odoribacter. Untargeted metabolomics identified 23 key anti-inflammatory metabolites including kaempferol and quercetin glycosides. Multi-omics integration revealed significant correlations among metabolites, gut microbiota, and protective endpoints. Collectively, these results demonstrate t…",
+      "authors": "Mengdi Wang, Shuolei Xu, Jinyi Liu et al.",
       "published": "Jul 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1830606",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1888003",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "The Geriatric Nutritional Risk Index and its association with all-cause mortality in cancer patients with sepsis: a dual-center retrospective cohort study",
-      "abstract": "BackgroundThe Geriatric Nutritional Risk Index (GNRI) is a validated nutritional assessment tool predictive of outcomes in elderly patients, yet its prognostic value in adult cancer patients with sepsis remains unexplored.MethodsThis retrospective cohort study included adult cancer patients with sepsis from two sources: 523 patients from Guangxi Medical University Cancer Hospital ICU (2013–2024) and 4,447 patients from the MIMIC-IV database (2008–2019). Cox multivariable regression was used to analyze the association between GNRI and 28-day/60-day all-cause mortality during ICU stay. Restricted cubic splines (RCS), proportional hazards (PH) assumption testing, and landmark analyses were performed to assess linearity and temporal stability. Predictive performance was evaluated using area under the receiver operating characteristic (AUROC) curve, calibration curves with bootstrap resampling, decision curve analysis (DCA), integrated discrimination improvement (IDI), and net reclassification improvement (NRI). Internal cross-validation was conducted to validate model stability and correct for overfitting.ResultsIn Cox multivariable regression analysis, GNRI levels were independently associated with reduced mortality in both cohorts. Restricted cubic spline (RCS) curves demonstrated a linear dose–response relationship between GNRI and mortality. PH testing and landmark analysis confirmed the time-independent prognostic value of GNRI. Subgroup analyses confirmed the robustness of these findings. The model achieved excellent discriminative ability (AUC 0.906 in the Guangxi cohort…",
-      "authors": "Yili He, Jie Zhang, Xiaojin Yuan et al.",
+      "title": "Effects of beetroot juice supplementation on maximal oxygen uptake during aerobic exercise: a systematic review and meta-analysis",
+      "abstract": "BackgroundBeetroot juice (BRJ) is a dietary source of inorganic nitrate that may increase nitric oxide bioavailability and influence aerobic exercise capacity. Previous reviews have included scattered evidence on maximal or peak oxygen uptake in the context of overall exercise performance. This review assessed the effect of BRJ supplementation on VO₂max/VO₂peak in healthy adults.MethodsThis systematic review and meta-analysis of randomized and crossover placebo-controlled trials was conducted in accordance with PRISMA 2020. A total of six databases were searched from inception to 31 January 2026. To be eligible for inclusion, studies had to involve terms such as healthy adults, BRJ or beetroot-derived nitrate supplementation, an incremental or graded aerobic exercise test, a placebo comparator, and reporting of VO₂max or VO₂peak. Pooled effects were calculated as Hedges’ g under a random-effects model.ResultsThirty-eight studies involving 703 participants were included in the quantitative synthesis. BRJ produced a small statistically significant improvement in VO₂max/VO₂peak compared with placebo (SMD = 0.24, 95% CI [0.11, 0.37], p < 0.001; I2 = 48.3%). Effects were larger in recreationally active participants (SMD = 0.38) and were not clearly demonstrated in highly trained athletes (SMD = 0.07, 95% CI [−0.09, 0.23]). Standard nitrate doses of 6.4–12.8 mmol NO₃− and supplementation lasting at least 3 consecutive days showed the most consistent effects. Funnel plot asymmetry suggested possible small-study effects; after trim-and-fill adjustment, the pooled estimate was atten…",
+      "authors": "Gang Qin, Sungmin Kim",
       "published": "Jul 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1795795",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1858216",
+      "image": "",
+      "screen": "right"
+    },
+    {
+      "title": "Effect of maternal docosahexaenoic acid supplementation during lactation on breast milk DHA concentration and infant neurodevelopment among urban and rural populations of Punjab, India",
+      "abstract": "Docosahexaenoic acid (DHA) plays a critical role in infant growth and neurodevelopment during early life; however, dietary intake of omega-3 fatty acids among Indian lactating women is often inadequate, potentially compromising maternal DHA status and infant development. The present study evaluated the effects of maternal DHA supplementation during lactation on maternal DHA status, breast milk DHA concentration, infant growth, and neurodevelopment among urban and rural populations in Punjab, India. A community-based randomized supplementation trial was conducted among 60 healthy lactating mothers (1 month postpartum) and their exclusively breastfed infants. Participants were stratified by residence and randomly assigned to urban control (UC), urban supplemented (US), rural control (RC), or rural supplemented (RS) groups (n = 15 per group). Supplemented mothers received DHA capsules daily for 150 days. Maternal dietary intake, erythrocyte DHA concentration, breast milk DHA concentration, infant anthropometric measurements, WHO growth indicators, and neurodevelopmental outcomes assessed using the Developmental Assessment Scale for Indian Infants (DASII) were evaluated. Dietary intake of alpha-linolenic acid and DHA was inadequate in both populations and significantly lower among rural mothers (p < 0.001). Maternal DHA supplementation significantly increased erythrocyte DHA concentration and breast milk DHA concentration in both supplemented groups (p < 0.001). Infants of supplemented mothers demonstrated significantly higher weight, length, and head circumference measurements…",
+      "authors": "Richika Gupta, Kiran Bains, Renuka Aggarwal",
+      "published": "Jul 2026",
+      "feedName": "Frontiers Nutrition",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1885518",
       "image": "",
       "screen": "right"
     },
@@ -428,16 +438,6 @@
       "published": "Jul 2026",
       "feedName": "Frontiers Nutrition",
       "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1864539",
-      "image": "",
-      "screen": "right"
-    },
-    {
-      "title": "Black tea-processed Toona sinensis leaves alleviate DSS-induced ulcerative colitis in mice by enriching flavonoids and modulating gut microbiota",
-      "abstract": "Ulcerative colitis (UC) is a chronic inflammatory bowel disease for which safe dietary interventions remain limited. Toona sinensis leaves, a traditional medicinal food rich in polyphenols and flavonoids, exhibit anti-inflammatory potential; however, how processing techniques modulate their functional nutrition and anti-colitis activity is poorly understood. In the present study, we compared hot air-dried T. sinensis leaves (TL) and black tea-processed leaf tea (TLT) in a mouse model of DSS-induced colitis (n = 8 per group) at a dose of 20 mg/ml (approximately 3.33 g/kg body weight per day) via drinking water, with Keemun black tea (BT) as a positive plant-based dietary control. Both TL and TLT significantly mitigated DSS-induced colitis; notably, TLT showed significantly stronger efficacy than TL (p < 0.05) and exhibited efficacy comparable to BT. TLT restored colonic histopathology, upregulated tight junction proteins (ZO-1 and Occludin), and suppressed pro-inflammatory cytokines (IL-1β and TNF-α). Black tea processing of T. sinensis leaves increased bioactive components including total flavonoids and polyphenols, which strongly correlated with protective indicators (|r| > 0.6, p < 0.01). TLT also restored gut microbial diversity and enriched SCFA-producing genera such as Akkermansia, Odoribacter. Untargeted metabolomics identified 23 key anti-inflammatory metabolites including kaempferol and quercetin glycosides. Multi-omics integration revealed significant correlations among metabolites, gut microbiota, and protective endpoints. Collectively, these results demonstrate t…",
-      "authors": "Mengdi Wang, Shuolei Xu, Jinyi Liu et al.",
-      "published": "Jul 2026",
-      "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1888003",
       "image": "",
       "screen": "right"
     },

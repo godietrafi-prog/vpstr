@@ -672,6 +672,7 @@
         </div>
     </div>
 
+    <script src="birthday-audio.js"></script>
     <script>
     // ================================================================
     // CONFIGURATION
@@ -1073,6 +1074,12 @@
         current = pos;
         var el = poolEls[playlist[current]];
 
+        if (window.BirthdayAudio) {
+            window.BirthdayAudio.stop();
+            if (el.getAttribute('data-type') === 'birthday')
+                window.BirthdayAudio.play(CONFIG.birthdayDuration);
+        }
+
         // Birthday iframe exists only while visible; this stops hidden CSS
         // animations and releases its document/GPU resources immediately.
         for (var b = 0; b < poolEls.length; b++) {
@@ -1208,6 +1215,9 @@
                 var month = String(parseInt(p[1], 10)).padStart(2, '0');
                 return day + '/' + month === ddmm;
             }).map(function(r) { return r.name; }).filter(Boolean);
+            var previewName = location.search.match(/[?&]birthdayPreviewName=([^&]+)/);
+            if (!names.length && previewName)
+                names = [decodeURIComponent(previewName[1].replace(/\+/g, ' '))];
             if (!names.length) { callback(null); return; }
             var label = names.length === 1 ? names[0] : names.slice(0, -1).join(', ') + ' & ' + names[names.length - 1];
             callback({ type: 'birthday', name: label, src: 'about:blank' });

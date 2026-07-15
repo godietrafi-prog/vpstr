@@ -1,6 +1,26 @@
 {
-  "updated": "2026-07-15T09:53:39Z",
+  "updated": "2026-07-15T11:24:30Z",
   "items": [
+    {
+      "title": "Sustainable diet shifts among adults in Scotland do not cost more",
+      "abstract": "Reducing consumption of meat and dairy foods is essential for the long-term sustainability of the UK food system. A study quantifying the impact on environmental footprints, nutrient intake, health and cost when meat and dairy are reduced or replaced in the diets of adults in Scotland shows that these dietary changes incur no extra cost for most replacements.",
+      "authors": "",
+      "published": "Jul 2026",
+      "feedName": "Nature Food",
+      "url": "https://www.nature.com/articles/s43016-026-01385-2",
+      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs43016-026-01385-2/MediaObjects/43016_2026_1385_Fig1_HTML.png",
+      "screen": "left"
+    },
+    {
+      "title": "An agroecological perspective on systems-level transformations to keep current food systems from degrading the global commons",
+      "abstract": "Food systems face numerous challenges such as biodiversity loss and undernourishment. This Perspective presents a systems-thinking approach rooted in agroecology that can guide transformative changes for the benefit of both people and the planet.",
+      "authors": "Kris A. G. Wyckhuys, Edmundo Barrios, Steven J. Fonte",
+      "published": "Jul 2026",
+      "feedName": "Nature Food",
+      "url": "https://www.nature.com/articles/s43016-026-01386-1",
+      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs43016-026-01386-1/MediaObjects/43016_2026_1386_Fig1_HTML.png",
+      "screen": "left"
+    },
     {
       "title": "Global taxes on sugar-sweetened beverages",
       "abstract": "",
@@ -19,26 +39,6 @@
       "feedName": "Nature Food",
       "url": "https://www.nature.com/articles/s43016-026-01395-0",
       "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs43016-026-01395-0/MediaObjects/43016_2026_1395_Fig1_HTML.png",
-      "screen": "left"
-    },
-    {
-      "title": "Integrated policies could raise China’s soybean self-sufficiency and ease global land-use pressure",
-      "abstract": "Soybeans are central to global food security, but rising demand for animal-sourced foods has made China highly dependent on imports, creating environmental spillover through deforestation and land-use pressure in major exporting regions. Based on reconstructed soybean demand from 1961 to 2022, this study shows that combined policy implementation could raise China’s soybean self-sufficiency to 80% by 2050 while reducing global cropland expansion and supporting nutrition and climate benefits.",
-      "authors": "Fei Lun, Jing Sun, Yi Zhou et al.",
-      "published": "Jul 2026",
-      "feedName": "Nature Food",
-      "url": "https://www.nature.com/articles/s43016-026-01378-1",
-      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs43016-026-01378-1/MediaObjects/43016_2026_1378_Fig1_HTML.png",
-      "screen": "left"
-    },
-    {
-      "title": "Publisher Correction: Machine learning-optimized composting strategies can enhance nutrient recycling and transform food system waste into a net carbon sink",
-      "abstract": "",
-      "authors": "Lu Zhang, Junyu Yang, Junjie Liu et al.",
-      "published": "Jul 2026",
-      "feedName": "Nature Food",
-      "url": "https://www.nature.com/articles/s43016-026-01397-y",
-      "image": "",
       "screen": "left"
     },
     {
@@ -402,22 +402,22 @@
       "screen": "right"
     },
     {
-      "title": "Comparative efficacy of dietary interventions for overweight or obese adults with type 2 diabetes: a systematic review and network meta-analysis of randomized controlled trials",
-      "abstract": "BackgroundDietary intervention is a cornerstone of management for patients with type 2 diabetes who are overweight or obese; however, the optimal strategy remains uncertain. We therefore conducted a network meta-analysis to compare the effects of time-restricted eating (TRE), short-term fasting (STF), and continuous energy restriction (CER) vs. general diet (GD) on glycemic, anthropometric, and lipid-related outcomes.MethodsPubMed, Embase, Web of Science, and the Cochrane Library were systematically searched for randomized controlled trials published through 15 February 2026. Eligible studies enrolled overweight or obese adults with type 2 diabetes undergoing TRE, STF, or CER, with GD as the comparator. Risk of bias was assessed using the Cochrane Risk of Bias 2.0 tool. A frequentist random-effects network meta-analysis was conducted using Stata 17.0 (MP), with interventions ranked by the surface under the cumulative ranking curve (SUCRA). Univariable network meta-regression was used to explore potential effect modifiers. Pairwise random-effects meta-analyses were performed as supportive analyses for available direct comparisons. Evidence certainty was evaluated using the CINeMA framework.ResultsWe included 13 RCTs involving 805 participants. In the network meta-analysis, TRE was associated with a significant reduction in body weight (MD = −2.32 kg, 95% CI: −2.99 to −1.65), BMI (MD = −1.32 kg/m2, 95% CI: −1.71 to −0.92), waist circumference (MD = −3.69 cm, 95% CI: −5.07 to −2.30), and fasting blood glucose (MD = −0.85 mmol/L, 95% CI: −1.24 to −0.47). Compared with GD, TRE s…",
-      "authors": "Ranjun Xu, Yuru Chang, Enhui Su et al.",
+      "title": "Planetary health diet index and low muscle mass in adults aged 20–60 years: exploratory evaluation of a dairy-upweighted outcome-specific adaptation",
+      "abstract": "BackgroundIncreasing evidence indicates that the Planetary Health Diet Index (PHDI), proposed within the EAT-Lancet framework, not only supports environmental sustainability but also contributes to the prevention of various diseases. However, the rigorous restriction of animal-sourced proteins in the standard PHDI may overlook the heightened anabolic needs of aging populations. This study primarily aimed to evaluate the association between PHDI-US adherence and low muscle mass (LMM) and to compare this association with other commonly used dietary indices. As a secondary exploratory step, we examined whether an exploratory dairy-upweighted score, derived by multiplying the original PHDI-US total score by the observed dairy intake amount, might show a stronger association with LMM.MethodsMultivariable logistic regression and restricted cubic spline (RCS) models were used to evaluate the association between the Planetary Health Diet Index for the United States (PHDI-US) and low muscle mass (LMM). Random-forest feature-importance analysis was then used to identify the most influential dietary component within the PHDI-US and to derive a dairy-upweighted version of the score (PHDI-Dairy). We then examined the association between dairy intake and LMM in an independent Southern Chinese cohort.ResultsIn fully adjusted models, higher PHDI-US and Alternative Healthy Eating Index scores were associated with lower odds of LMM, whereas a higher Dietary Inflammatory Index score was associated with higher odds of LMM. Healthy Eating Index and Mediterranean Diet Index scores were not stati…",
+      "authors": "Jin-jie He, Xu-lin Chen, Chao Ning et al.",
       "published": "Jul 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1853598",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1782327",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Nutrigram® as a novel BIA-derived parameter for assessing nutritional status in a cohort of post-stroke patients undergoing rehabilitation treatment",
-      "abstract": "IntroductionEarly nutritional assessment is essential during post-stroke rehabilitation, which may require hospitalization lasting several months. Nutrigram®, a novel BIA-derived index, provides a rapid, objective, and non-invasive measure of nutritional status, but its role in post-stroke populations remains unexplored. This study aimed to evaluate the association between Nutrigram®, other established nutritional risk assessment tools, and malnutrition in subacute post-stroke patients.MethodsA total of 87 subacute post-stroke patients were evaluated at admission (T0). Demographic, clinical, and nutritional data were collected, and malnutrition was diagnosed using the Global Leadership Initiative on Malnutrition (GLIM) criteria. In the first GLIM step, nutritional risk screening was performed using both the Mini Nutritional Assessment Short Form (MNA-SF®) and the Geriatric Nutritional Risk Index (GNRI). Body composition was assessed by bioelectrical impedance analysis (BIA), which allowed for the recording of the Nutrigram®.ResultsNutrigram® was significantly associated with both the MNA-SF® and GNRI scores. Patients diagnosed as malnourished showed significantly lower Nutrigram® values compared with non-malnourished patients, both after MNA-SF® screening (582.7 ± 156.7 vs. 780.5 ± 208.9, p < 0.001) and GNRI screening (566.9 ± 162.3 vs. 749.0 ± 207.5, p < 0.001). Finally, Nutrigram® was independently associated with malnutrition diagnosis, with higher values indicating lower odds of malnutrition.ConclusionNutrigram® appears to be a promising objective index of nutritional s…",
-      "authors": "Chiara Bertoncini, Alessandro Guerrini, Carola Cocco et al.",
+      "title": "Growth and production of bioactive compounds are boosted in young basil plants grown under hydroponic vitamin supplementation",
+      "abstract": "BackgroundBasil is a high-value aromatic and medicinal plant widely recognized for its rich composition of bioactive compounds with applications in food, pharmaceutical, and cosmetic industries. This study aimed to evaluate the physiological responses, growth, and production of bioactive compounds in baby leaf basil cultivated in a hydroponic system supplemented with B-complex vitamins.MethodsThe experiment was conducted under a controlled environment using a randomized block design with four treatments: control, nicotinamide, thiamine, and pyridoxine. Plants were assessed 14 days after sowing for gas exchange parameters, biometric traits, biomass accumulation, leaf pigments, and bioactive compounds, including phenolics, flavonoids, tannins, antioxidant activity, and sun protection factor.ResultsVitamin supplementation reduced intercellular CO2 concentration and significantly increased CO2 assimilation rate, water use efficiency, and carboxylation efficiency. Nicotinamide notably enhanced plant growth, increasing leaf area (78%) and plant height (34.8%), as well as shoot fresh and dry mass (49.7 and 77.9%). Bioactive compound accumulation was also stimulated, with increases of up to 129.1% in phenolics and 159.2% in antioxidant activity, with nicotinamide being superior to the other treatments in all nutraceutical characteristics. Additionally, chlorophyll and carotenoid contents were elevated, especially under nicotinamide treatment, which also reduced leaf temperature. Pyridoxine showed intermediate effects, while thiamine presented modest improvements compared to the con…",
+      "authors": "Gabriela Rodrigues Sant’Ana, Alana Silva Rocha, Flávio Ferreira da Silva Binotti et al.",
       "published": "Jul 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1864371",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1840106",
       "image": "",
       "screen": "right"
     },
@@ -432,12 +432,12 @@
       "screen": "right"
     },
     {
-      "title": "Planetary health diet index and low muscle mass in adults aged 20–60 years: exploratory evaluation of a dairy-upweighted outcome-specific adaptation",
-      "abstract": "BackgroundIncreasing evidence indicates that the Planetary Health Diet Index (PHDI), proposed within the EAT-Lancet framework, not only supports environmental sustainability but also contributes to the prevention of various diseases. However, the rigorous restriction of animal-sourced proteins in the standard PHDI may overlook the heightened anabolic needs of aging populations. This study primarily aimed to evaluate the association between PHDI-US adherence and low muscle mass (LMM) and to compare this association with other commonly used dietary indices. As a secondary exploratory step, we examined whether an exploratory dairy-upweighted score, derived by multiplying the original PHDI-US total score by the observed dairy intake amount, might show a stronger association with LMM.MethodsMultivariable logistic regression and restricted cubic spline (RCS) models were used to evaluate the association between the Planetary Health Diet Index for the United States (PHDI-US) and low muscle mass (LMM). Random-forest feature-importance analysis was then used to identify the most influential dietary component within the PHDI-US and to derive a dairy-upweighted version of the score (PHDI-Dairy). We then examined the association between dairy intake and LMM in an independent Southern Chinese cohort.ResultsIn fully adjusted models, higher PHDI-US and Alternative Healthy Eating Index scores were associated with lower odds of LMM, whereas a higher Dietary Inflammatory Index score was associated with higher odds of LMM. Healthy Eating Index and Mediterranean Diet Index scores were not stati…",
-      "authors": "Jin-jie He, Xu-lin Chen, Chao Ning et al.",
+      "title": "From diet to disease modulation: the multi-targeted effects of medicinal-food homologous plants in hepatic fibrosis",
+      "abstract": "Hepatic fibrosis is a pivotal pathological stage in chronic liver disease progression for which treatment options remain limited. Medicinal-food homologous (MFH) plants, recognized for their dual safety and bioactivity, offer promising preventive and therapeutic potential. This review systematically analyzes the anti-hepatofibrotic mechanisms of 102 officially approved MFH plants. Based on a literature search using keywords such as “specific MFH plant names” and “hepatic fibrosis or liver fibrosis,” we identified 101 relevant studies. The analysis reveals that these plants exert their effects through multi-target synergy, mitigating oxidative stress and inflammation, inhibiting hepatic stellate cell (HSC) activation, inducing activated HSC apoptosis, and modulating the gut-liver axis. Although bioactive compounds such as hesperetin, puerarin, and curcumin have emerged as prominent candidates for therapeutic intervention in hepatic fibrosis, related studies remain largely confined to the pre-clinical stage. Furthermore, approximately one-third of the evidence is derived from crude extracts with poorly characterized compositions; active compounds lack systematic pharmacokinetic and toxicological evaluations; clinical studies remain exceptionally limited; and experimental doses far exceed typical daily dietary intake levels. These limitations severely compromise their clinical translation and application value. Future research should focus on elucidating the mechanisms of single active compounds, establishing long-term intervention models using physiologically relevant doses, …",
+      "authors": "Shiqi Chen, Hongdao Chen, Jiaqi Xie et al.",
       "published": "Jul 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1782327",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1752309",
       "image": "",
       "screen": "right"
     },

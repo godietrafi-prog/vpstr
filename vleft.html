@@ -711,6 +711,7 @@
     var promoPoolIndexes = [];
     var promoScheduleTimer = null;
     var promoPreviewShown = false;
+    var promoLastSlotTime = 0;
 
     function isVideo(src) { return /\.(mp4|webm|ogg|mov)$/i.test(src || ''); }
 
@@ -1203,8 +1204,13 @@
         } else {
             var anchor = new Date(2026, 6, 16, 0, CONFIG.promoOffsetMinutes, 0, 0);
             var interval = CONFIG.promoEveryMinutes * 60000;
-            var steps = Math.floor((now.getTime() - anchor.getTime()) / interval) + 1;
-            nextAt = new Date(anchor.getTime() + Math.max(0, steps) * interval);
+            var elapsed = now.getTime() - anchor.getTime();
+            var currentStep = Math.max(0, Math.floor(elapsed / interval));
+            var currentAt = new Date(anchor.getTime() + currentStep * interval);
+            var insideActiveSlot = now.getTime() - currentAt.getTime() < CONFIG.promoDuration * 1000;
+            nextAt = insideActiveSlot && promoLastSlotTime !== currentAt.getTime()
+                ? currentAt
+                : new Date(currentAt.getTime() + interval);
         }
         promoScheduleTimer = setTimeout(function() {
             if (promoWindowState(new Date()) === 0) {
@@ -1213,6 +1219,7 @@
                 var campaignStart = new Date(2026, 6, 16, 0, 0, 0, 0);
                 var slot = Math.round((nextAt.getTime() - campaignStart.getTime()) /
                     (CONFIG.promoEveryMinutes * 60000 / 2));
+                promoLastSlotTime = nextAt.getTime();
                 playlist.splice(current + 1, 0, promoPoolIndexes[slot % promoPoolIndexes.length]);
                 next();
             }

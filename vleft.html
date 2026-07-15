@@ -1003,6 +1003,7 @@
                 div.appendChild(promoFrame);
                 div._promoFrame = promoFrame;
                 div._promoAudioSrc = item.audio || '';
+                if (window.PromoAudio && item.audio) window.PromoAudio.preload(item.audio);
                 div.setAttribute('data-type', 'promo');
                 div.setAttribute('data-duration', String(CONFIG.promoDuration));
                 promoPoolIndexes.push(i);

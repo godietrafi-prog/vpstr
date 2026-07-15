@@ -642,6 +642,7 @@
             display: block;
             background: #fff9e9;
         }
+        .promo-frame { width:100%; height:100%; border:0; display:block; background:#041b20; }
 
     </style>
 </head>
@@ -684,6 +685,9 @@
         rssMaxPerFeed:    3,   // how many articles to take from each feed
         birthdayDuration: 30,  // seconds; shown at :00, :20 and :40
         birthdayEverySlides: 0, // production schedule; >0 is test-only
+        promoDuration: 35,      // World Cup final promo, 16-19 Jul 2026 only
+        promoEveryMinutes: 10,
+        promoOffsetMinutes: 0,  // left screen at :00, :10, :20...
         loop: true
     };
 
@@ -703,6 +707,8 @@
     var birthdayPoolIndex = -1;
     var birthdayScheduleTimer = null;
     var birthdayPreviewShown = false;
+    var promoPoolIndex = -1;
+    var promoScheduleTimer = null;
 
     function isVideo(src) { return /\.(mp4|webm|ogg|mov)$/i.test(src || ''); }
 
@@ -984,7 +990,18 @@
             var div  = document.createElement('div');
             div.className = 'slide';
 
-            if (item.type === 'birthday') {
+            if (item.type === 'promo') {
+                var promoFrame = document.createElement('iframe');
+                promoFrame.className = 'promo-frame';
+                promoFrame.title = 'World Cup Final 2026 promo';
+                promoFrame.setAttribute('data-src', item.src);
+                promoFrame.src = 'about:blank';
+                div.appendChild(promoFrame);
+                div._promoFrame = promoFrame;
+                div.setAttribute('data-type', 'promo');
+                div.setAttribute('data-duration', String(CONFIG.promoDuration));
+                promoPoolIndex = i;
+            } else if (item.type === 'birthday') {
                 var frame = document.createElement('iframe');
                 frame.className = 'birthday-frame';
                 frame.title = 'Birthday greeting for ' + item.name;
@@ -1090,6 +1107,12 @@
             prepareBirthdayFrame(new Date(), 'test-' + Date.now());
         if (el._birthdayFrame)
             el._birthdayFrame.src = el._birthdayFrame.getAttribute('data-src');
+        for (var pr = 0; pr < poolEls.length; pr++) {
+            if (poolEls[pr]._promoFrame && poolEls[pr] !== el)
+                poolEls[pr]._promoFrame.src = 'about:blank';
+        }
+        if (el._promoFrame)
+            el._promoFrame.src = el._promoFrame.getAttribute('data-src');
 
         // Load current + 1 ahead; unload 2 steps back to free RAM
         for (var k = 0; k <= 1; k++)
@@ -1147,6 +1170,35 @@
             playlist.splice(current + 1, 0, birthdayPoolIndex);
             next();
             scheduleBirthday();
+        }, Math.max(1000, nextAt.getTime() - now.getTime()));
+    }
+
+    function promoWindowState(now) {
+        var start = new Date(2026, 6, 16, 0, 0, 0, 0);
+        var end = new Date(2026, 6, 20, 0, 0, 0, 0);
+        return now < start ? -1 : (now < end ? 0 : 1);
+    }
+
+    function schedulePromo() {
+        if (promoPoolIndex < 0) return;
+        clearTimeout(promoScheduleTimer);
+        var now = new Date(), state = promoWindowState(now), nextAt;
+        if (state > 0) return;
+        if (state < 0) {
+            nextAt = new Date(2026, 6, 16, 0, CONFIG.promoOffsetMinutes, 0, 0);
+        } else {
+            nextAt = new Date(now.getTime());
+            var mod = now.getMinutes() % CONFIG.promoEveryMinutes;
+            var delta = (CONFIG.promoOffsetMinutes - mod + CONFIG.promoEveryMinutes) % CONFIG.promoEveryMinutes;
+            if (delta === 0 && (now.getSeconds() > 0 || now.getMilliseconds() > 0)) delta = CONFIG.promoEveryMinutes;
+            nextAt.setMinutes(now.getMinutes() + delta, 0, 0);
+        }
+        promoScheduleTimer = setTimeout(function() {
+            if (promoWindowState(new Date()) === 0) {
+                playlist.splice(current + 1, 0, promoPoolIndex);
+                next();
+            }
+            schedulePromo();
         }, Math.max(1000, nextAt.getTime() - now.getTime()));
     }
 
@@ -1349,11 +1401,13 @@
             rssItems.forEach(function(item) { pool.push(item); });
             birthdayForToday(function(birthdayItem) {
                 if (birthdayItem) pool.push(birthdayItem);
+                pool.push({ type:'promo', src:'world-cup-final-demo.html?embedded=1' });
                 buildPool();
                 playlist = buildPlaylist();
                 // Each screen starts at a random position → true independence
                 showSlide(Math.floor(Math.random() * Math.max(1, playlist.length)));
                 scheduleBirthday();
+                schedulePromo();
                 tickerBuild(rssItems);
             });
         });
@@ -1361,10 +1415,12 @@
     xhr.onerror = function() {
         birthdayForToday(function(birthdayItem) {
             if (birthdayItem) pool.push(birthdayItem);
+            pool.push({ type:'promo', src:'world-cup-final-demo.html?embedded=1' });
             buildPool();
             playlist = buildPlaylist();
             showSlide(0);
             scheduleBirthday();
+            schedulePromo();
         });
     };
     xhr.send();

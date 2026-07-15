@@ -805,6 +805,16 @@
         return pl.length > 0 ? pl : pool.map(function(_, i) { return i; });
     }
 
+    // Prefer a slide that renders without waiting for a large image decode.
+    // This prevents a black flash during the short startup slide before promo.
+    function startupPosition() {
+        var instant = { rss_card:true, rss_dual:true, lab_paper:true };
+        for (var i = 0; i < playlist.length; i++) {
+            if (instant[pool[playlist[i]].type]) return i;
+        }
+        return 0;
+    }
+
     function makeVideoSlide(div, src) {
         var vid = document.createElement('video');
         vid.src     = src;
@@ -1207,7 +1217,7 @@
             var startupAnchor = new Date(2026, 6, 16, 0, 0, 0, 0);
             var startupSlot = Math.floor((now.getTime() - startupAnchor.getTime()) / (20 * 60000));
             playlist.splice(current + 1, 0, promoPoolIndexes[startupSlot % promoPoolIndexes.length]);
-            setTimeout(next, 1200);
+            setTimeout(next, 2500);
         }
         if (state < 0) {
             nextAt = new Date(2026, 6, 16, 0, CONFIG.promoOffsetMinutes, 0, 0);
@@ -1443,7 +1453,7 @@
                 buildPool();
                 playlist = buildPlaylist();
                 // Each screen starts at a random position → true independence
-                showSlide(Math.floor(Math.random() * Math.max(1, playlist.length)));
+                showSlide(startupPosition());
                 scheduleBirthday();
                 schedulePromo();
                 tickerBuild(rssItems);

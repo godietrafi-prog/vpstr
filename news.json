@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-15T15:20:53Z",
+  "updated": "2026-07-15T17:07:19Z",
   "items": [
     {
       "title": "Sustainable diet shifts among adults in Scotland do not cost more",
@@ -402,22 +402,22 @@
       "screen": "right"
     },
     {
-      "title": "From diet to disease modulation: the multi-targeted effects of medicinal-food homologous plants in hepatic fibrosis",
-      "abstract": "Hepatic fibrosis is a pivotal pathological stage in chronic liver disease progression for which treatment options remain limited. Medicinal-food homologous (MFH) plants, recognized for their dual safety and bioactivity, offer promising preventive and therapeutic potential. This review systematically analyzes the anti-hepatofibrotic mechanisms of 102 officially approved MFH plants. Based on a literature search using keywords such as “specific MFH plant names” and “hepatic fibrosis or liver fibrosis,” we identified 101 relevant studies. The analysis reveals that these plants exert their effects through multi-target synergy, mitigating oxidative stress and inflammation, inhibiting hepatic stellate cell (HSC) activation, inducing activated HSC apoptosis, and modulating the gut-liver axis. Although bioactive compounds such as hesperetin, puerarin, and curcumin have emerged as prominent candidates for therapeutic intervention in hepatic fibrosis, related studies remain largely confined to the pre-clinical stage. Furthermore, approximately one-third of the evidence is derived from crude extracts with poorly characterized compositions; active compounds lack systematic pharmacokinetic and toxicological evaluations; clinical studies remain exceptionally limited; and experimental doses far exceed typical daily dietary intake levels. These limitations severely compromise their clinical translation and application value. Future research should focus on elucidating the mechanisms of single active compounds, establishing long-term intervention models using physiologically relevant doses, …",
-      "authors": "Shiqi Chen, Hongdao Chen, Jiaqi Xie et al.",
+      "title": "GNRI-stratified enteral nutrition protocol for elderly mechanically ventilated ICU patients: development and preliminary application",
+      "abstract": "ObjectiveTo develop a clinically feasible enteral nutrition protocol for elderly mechanically ventilated patients in the intensive care unit (ICU) based on the Geriatric Nutritional Risk Index (GNRI) stratification, and to preliminarily evaluate its effects on nutritional indicators, gastrointestinal complications, mechanical ventilation duration, and hospital length of stay.MethodsBased on systematic literature review and multidisciplinary discussion, a preliminary GNRI-stratified enteral nutrition protocol was formulated. Two rounds of Delphi consultation were conducted among 20 experts to revise and optimize the protocol. A single-center, non-concurrent controlled study was performed in 128 elderly mechanically ventilated patients (63 in the experimental group and 65 in the control group). The experimental group received the standardized GNRI-stratified enteral nutrition protocol, while the control group received conventional nutritional management. The primary outcomes included serum albumin and hemoglobin at 1 week [adjusted by analysis of covariance (ANCOVA) and multivariable linear regression]. Secondary outcomes included enteral nutrition-related complications (analyzed by multivariable logistic regression), mechanical ventilation duration, and hospital length of stay (analyzed by Mann-Whitney U test).ResultsThe expert authority coefficients were 0.83 and 0.87 in the two rounds, and Kendall's W coefficients were 0.299 and 0.335 (both P < 0.001), indicating high expert consensus. The final protocol included 5 primary indicators, 14 secondary indicators, and 31 tertia…",
+      "authors": "Chunxiao Zhang, Yan Zhuang, Jingjing Hong et al.",
       "published": "Jul 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1752309",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1857582",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "The associations among iron metabolism markers, iron supplementation regimen, and sepsis-induced myocardial injury: a retrospective study",
-      "abstract": "BackgroundSepsis is a life-threatening organ dysfunction caused by a dysregulated host response, among which sepsis-induced myocardial injury (SIMI) is a common and severe complication. Iron metabolic disorders are closely associated with infection, inflammation, oxidative stress, and organ damage. However, their relationship with the prognosis of sepsis and SIMI, as well as the safety and benefits of iron supplementation therapy, remain unclear. This study aimed to investigate these associations.MethodsBased on the MIMIC-IV database, a retrospective cohort analysis was conducted in adult patients with sepsis admitted to the intensive care unit (ICU). Iron metabolism biomarkers and clinical data were extracted. Analytical methods included Cox regression, restricted cubic splines (RCS), and propensity score matching (PSM).ResultsA total of 3,360 patients were enrolled. Hyperferritinemia was associated with an increased 30-day mortality (hazard ratio (HR) = 1.56, 95% confidence interval (CI): 1.195–2.038, p < 0.001). In contrast, higher transferrin levels (HR = 0.552, p < 0.001) and higher total iron-binding capacity (TIBC) (HR = 0.559, p < 0.001) exhibited protective effects. Serum iron levels did not correlate well with mortality. RCS analysis untangled a nonlinear relationship between iron metabolism markers and sepsis, whereas a linear association was observed between ferritin and SIMI. After propensity score matching (PSM), intravenous iron supplementation was associated with a lower 30-day mortality rate (10.16% vs. 27.81%, HR = 0.251, p < 0.001).ConclusionFerritin, tra…",
-      "authors": "Xijia Wang, Xiaoying Wang, Yanling Liu et al.",
+      "title": "Association between hypertension and dietary inflammatory index among adults: a cross-sectional study in Hainan, China",
+      "abstract": "BackgroundHypertension (HTN) affects 31.6% of Chinese adults and contributes to cardiovascular and cerebrovascular diseases through chronic inflammation. Pro-inflammatory diets, measured by the Dietary Inflammatory Index (DII), have been associated with increased HTN risk. However, evidence from tropical regions remains limited. As China’s only tropical province, Hainan has distinctive dietary patterns shaped by its geographic and climatic characteristics. This study aimed to examine the association between the DII and HTN among adults in Hainan to identify high-risk dietary patterns and inform targeted prevention strategies.MethodsA cross-sectional study was conducted between 2020 and 2022 using a multistage sampling design to assess dietary intake among adults in Hainan. Data included demographic characteristics, height and weight, blood pressure assessments, and three-day dietary recalls. Quantile regression models were applied to evaluate the association between the DII and HTN. Subgroup analyses explored potential effect.ResultsA total of 826 adults were included, including 359 men (43.5%) and 467 women (56.5%). In unadjusted quantile regression, only new-onset HTN showed a significant inverse association with DII compared to normal blood pressure, confined to the median quantile (β = −0.96, 95% CI: −1.89 to −0.04; p = 0.040). However, this association was attenuated after adjustment for confounders and was no longer statistically significant (adjusted p > 0.05). Subgroup analyses revealed DII values were less likely to be at the median among female and Han Chinese wit…",
+      "authors": "Yan Fu, Diyue Liu, Yinuo Cheng et al.",
       "published": "Jul 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1858343",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1793837",
       "image": "",
       "screen": "right"
     },
@@ -432,12 +432,12 @@
       "screen": "right"
     },
     {
-      "title": "Association of altered plasma long-chain fatty acids with migraine-related disability: a clinical cross-sectional study",
-      "abstract": "ObjectiveThe relationship between migraine and lipid metabolism, as well as its underlying mechanisms, remains poorly defined. In lipid metabolism, long-chain fatty acids (LCFAs) play a role in regulating cellular energy homeostasis and inflammation. Emerging evidence suggests a link between LCFAs and migraine pathophysiology. We investigated the association between altered plasma LCFAs and migraine-related disability.MethodsIn this cross-sectional study, plasma samples and clinical data were collected from 118 individuals with migraine, comprising 79 with episodic migraine (EM) and 39 with chronic migraine (CM), and 118 matched healthy controls. Concentrations of 13 plasma LCFAs were quantified using targeted gas chromatography–mass spectrometry. Associations with migraine phenotype and clinical burden were assessed using regression and correlation analyses.ResultsPlasma levels of palmitic acid (C16:0), stearic acid (C18:0), and arachidonic acid (C20:4 n-6) were significantly higher in migraine patients than in controls, whereas docosahexaenoic acid (C22:6 n-3) levels were significantly lower. Multivariate logistic regression identified C16:0, C18:0, and C20:4 n-6 as independent correlates of migraine (AUC = 0.912). Notably, higher levels of C16:0 and C20:4 n-6 were independently associated with with CM relative to EM (AUC = 0.762), and positively correlated with monthly headache days, acute medication use, and disability scores.ConclusionOur study showed that increased concentrations of plasma LCFAs, specifically C16:0, C18:0, and C20:4 n-6, were independently associated …",
-      "authors": "Fang Liu, Xiran Yu, Lu Ning et al.",
+      "title": "Effects of Lactiplantibacillus plantarum supplementation on exercise performance and recovery: a systematic review and narrative synthesis",
+      "abstract": "BackgroundLactiplantibacillus plantarum is a prominent probiotic species in sports nutrition; however, its potential ergogenic benefits have not yet been systematically consolidated, particularly regarding strain-specific variations.ObjectiveThis systematic review aimed to assess the efficacy of L. plantarum supplementation on exercise performance and recovery in healthy cohorts, while identifying differential effects across distinct strains.MethodsRandomized controlled trials (RCTs) were retrieved from PubMed, Web of Science, Scopus, SPORTDiscus, and the Cochrane Library from database inception through March 11, 2026. Risk of bias was assessed using the Cochrane RoB 2 tool. Given the substantial heterogeneity in probiotic strains, dosing regimens, and outcome measures, a narrative synthesis was conducted to integrate the findings.ResultsThe efficacy of L. plantarum supplementation is highly strain-specific. TWK10 exhibited the highest evidential consistency in evidence, significantly enhancing aerobic endurance and accelerating the clearance of blood lactate and ammonia; notably, its heat-inactivated form (postbiotics) retained these core metabolic benefits. PS128 functioned primarily as a recovery-oriented strain, effectively mitigating exercise-induced muscle damage (EIMD), suppressing systemic inflammation, and preserving neuromuscular efficiency, although its impact on peak performance metrics remained equivocal. PL-02 showed preliminary potential in attenuating markers of muscle damage and inflammation, albeit within a limited evidence base. Conversely, interventions …",
+      "authors": "Ji Yanyi, Wang Xingzhi, Daniel H. K. Chow",
       "published": "Jul 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1893087",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1881322",
       "image": "",
       "screen": "right"
     },
@@ -638,8 +638,8 @@
       "published": "2022",
       "venue": "Foods",
       "feedName": "Lab Research",
-      "citationCount": 38,
-      "recentCitations": 0,
+      "citationCount": 39,
+      "recentCitations": 1,
       "s2_paper_id": "58107c8058774580a57d044f21566325035de229",
       "url": "https://doi.org/10.3390/foods11233858",
       "image": "",

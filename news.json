@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-15T04:43:13Z",
+  "updated": "2026-07-15T07:53:02Z",
   "items": [
     {
       "title": "Global taxes on sugar-sweetened beverages",
@@ -372,6 +372,16 @@
       "screen": "right"
     },
     {
+      "title": "Chewing bubble gum after beetroot may help lower blood pressure",
+      "abstract": "A new study found that chewing sugary gum after eating nitrate-rich vegetables or drinking beetroot juice helped the body produce more beneficial nitrite, leading to a temporary drop in blood pressure. Researchers hope the discovery will lead to healthier ways to enhance the cardiovascular and performance benefits of dietary nitrate without relying on sugar.",
+      "authors": "",
+      "published": "Jul 2026",
+      "feedName": "ScienceDaily Nutrition",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260713084904.htm",
+      "image": "https://www.sciencedaily.com/images/1920/asian-woman-chewing-gum.webp",
+      "screen": "right"
+    },
+    {
       "title": "Losing just 80 minutes of sleep a night could make you gain weight",
       "abstract": "Sleeping about an hour and 20 minutes less each night for six weeks caused participants to gain weight and spend more time inactive. Researchers found that even mild, realistic sleep loss, similar to what many adults experience, had measurable effects. They warn that if this pattern continues over months or years, the health consequences could become much more significant, including a higher risk of diabetes and heart disease.",
       "authors": "",
@@ -392,26 +402,6 @@
       "screen": "right"
     },
     {
-      "title": "A vitamin A discovery is changing what scientists know about vision",
-      "abstract": "A surprising discovery is reshaping scientists' understanding of how humans develop sharp central vision before birth. Instead of blue cone cells migrating away from the retina's center, the study found they transform into red and green cones under the influence of vitamin A-related signals and thyroid hormones. The findings could improve lab-grown retinal tissue and lay the groundwork for future cell therapies to restore vision lost to age-related eye diseases.",
-      "authors": "",
-      "published": "Jul 2026",
-      "feedName": "ScienceDaily Nutrition",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260708022214.htm",
-      "image": "https://www.sciencedaily.com/images/1920/robert-johnston-retinal-organoid.webp",
-      "screen": "right"
-    },
-    {
-      "title": "Genetic determinants of response to vitamin D supplementation",
-      "abstract": "BackgroundGenetic variants at the vitamin D binding protein (GC), cytochrome P450 family 2 subfamily R member 1 (CYP2R1), and 7-dehydrocholesterol reductase (DHCR7) loci have been associated with serum 25-hydroxy vitamin D (25(OH)D) concentration, but their role in interpreting the response to vitamin D supplementation is unclear. Here, we investigated associations between common variants at these loci and plasma 25(OH)D concentrations in a randomised dose-ranging trial of vitamin D supplementation in healthy older people.MethodsThe study involved 323 participants of the Vitamin D supplementation in Older People (VDOP) trial, randomly assigned to either 12,000, 24,000, or 48,000 IU colecalciferol monthly for 12 months. Plasma 25(OH)D concentrations were measured by liquid chromatography-mass spectrometry. Variants rs7041 and rs2282679 (GC), rs10741657 (CYP2R1), and rs12785878 (DHCR7) were genotyped by Sanger sequencing. Associations between genotype and 25(OH)D at baseline and post-supplementation were assessed by linear regression analysis with baseline 25(OH)D as a covariate and dose as fixed factor for post-supplementation data.ResultsAt baseline, plasma 25(OH)D concentration was associated with the minor allele rs7041-A (GC). Post-supplementation, an allele-dose effect was observed with two variants at the GC locus. Common homozygotes for rs2282679 and rs7041 had higher 25(OH)D concentrations at all supplement dosages, with lower frequency of 25(OH)D concentrations < 50 nmol/L compared to other genotypes (OR(95%CI) = 2.97(1.56–5.65) and 2.84(1.28–6.32), respectively).Co…",
-      "authors": "Nerea Alonso, Inez Schoenmakers, Thomas Kuenzer et al.",
-      "published": "Jul 2026",
-      "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1880174",
-      "image": "",
-      "screen": "right"
-    },
-    {
       "title": "Comparative efficacy of dietary interventions for overweight or obese adults with type 2 diabetes: a systematic review and network meta-analysis of randomized controlled trials",
       "abstract": "BackgroundDietary intervention is a cornerstone of management for patients with type 2 diabetes who are overweight or obese; however, the optimal strategy remains uncertain. We therefore conducted a network meta-analysis to compare the effects of time-restricted eating (TRE), short-term fasting (STF), and continuous energy restriction (CER) vs. general diet (GD) on glycemic, anthropometric, and lipid-related outcomes.MethodsPubMed, Embase, Web of Science, and the Cochrane Library were systematically searched for randomized controlled trials published through 15 February 2026. Eligible studies enrolled overweight or obese adults with type 2 diabetes undergoing TRE, STF, or CER, with GD as the comparator. Risk of bias was assessed using the Cochrane Risk of Bias 2.0 tool. A frequentist random-effects network meta-analysis was conducted using Stata 17.0 (MP), with interventions ranked by the surface under the cumulative ranking curve (SUCRA). Univariable network meta-regression was used to explore potential effect modifiers. Pairwise random-effects meta-analyses were performed as supportive analyses for available direct comparisons. Evidence certainty was evaluated using the CINeMA framework.ResultsWe included 13 RCTs involving 805 participants. In the network meta-analysis, TRE was associated with a significant reduction in body weight (MD = −2.32 kg, 95% CI: −2.99 to −1.65), BMI (MD = −1.32 kg/m2, 95% CI: −1.71 to −0.92), waist circumference (MD = −3.69 cm, 95% CI: −5.07 to −2.30), and fasting blood glucose (MD = −0.85 mmol/L, 95% CI: −1.24 to −0.47). Compared with GD, TRE s…",
       "authors": "Ranjun Xu, Yuru Chang, Enhui Su et al.",
@@ -422,22 +412,32 @@
       "screen": "right"
     },
     {
-      "title": "Nutrigram® as a novel BIA-derived parameter for assessing nutritional status in a cohort of post-stroke patients undergoing rehabilitation treatment",
-      "abstract": "IntroductionEarly nutritional assessment is essential during post-stroke rehabilitation, which may require hospitalization lasting several months. Nutrigram®, a novel BIA-derived index, provides a rapid, objective, and non-invasive measure of nutritional status, but its role in post-stroke populations remains unexplored. This study aimed to evaluate the association between Nutrigram®, other established nutritional risk assessment tools, and malnutrition in subacute post-stroke patients.MethodsA total of 87 subacute post-stroke patients were evaluated at admission (T0). Demographic, clinical, and nutritional data were collected, and malnutrition was diagnosed using the Global Leadership Initiative on Malnutrition (GLIM) criteria. In the first GLIM step, nutritional risk screening was performed using both the Mini Nutritional Assessment Short Form (MNA-SF®) and the Geriatric Nutritional Risk Index (GNRI). Body composition was assessed by bioelectrical impedance analysis (BIA), which allowed for the recording of the Nutrigram®.ResultsNutrigram® was significantly associated with both the MNA-SF® and GNRI scores. Patients diagnosed as malnourished showed significantly lower Nutrigram® values compared with non-malnourished patients, both after MNA-SF® screening (582.7 ± 156.7 vs. 780.5 ± 208.9, p < 0.001) and GNRI screening (566.9 ± 162.3 vs. 749.0 ± 207.5, p < 0.001). Finally, Nutrigram® was independently associated with malnutrition diagnosis, with higher values indicating lower odds of malnutrition.ConclusionNutrigram® appears to be a promising objective index of nutritional s…",
-      "authors": "Chiara Bertoncini, Alessandro Guerrini, Carola Cocco et al.",
+      "title": "Growth and production of bioactive compounds are boosted in young basil plants grown under hydroponic vitamin supplementation",
+      "abstract": "BackgroundBasil is a high-value aromatic and medicinal plant widely recognized for its rich composition of bioactive compounds with applications in food, pharmaceutical, and cosmetic industries. This study aimed to evaluate the physiological responses, growth, and production of bioactive compounds in baby leaf basil cultivated in a hydroponic system supplemented with B-complex vitamins.MethodsThe experiment was conducted under a controlled environment using a randomized block design with four treatments: control, nicotinamide, thiamine, and pyridoxine. Plants were assessed 14 days after sowing for gas exchange parameters, biometric traits, biomass accumulation, leaf pigments, and bioactive compounds, including phenolics, flavonoids, tannins, antioxidant activity, and sun protection factor.ResultsVitamin supplementation reduced intercellular CO2 concentration and significantly increased CO2 assimilation rate, water use efficiency, and carboxylation efficiency. Nicotinamide notably enhanced plant growth, increasing leaf area (78%) and plant height (34.8%), as well as shoot fresh and dry mass (49.7 and 77.9%). Bioactive compound accumulation was also stimulated, with increases of up to 129.1% in phenolics and 159.2% in antioxidant activity, with nicotinamide being superior to the other treatments in all nutraceutical characteristics. Additionally, chlorophyll and carotenoid contents were elevated, especially under nicotinamide treatment, which also reduced leaf temperature. Pyridoxine showed intermediate effects, while thiamine presented modest improvements compared to the con…",
+      "authors": "Gabriela Rodrigues Sant’Ana, Alana Silva Rocha, Flávio Ferreira da Silva Binotti et al.",
       "published": "Jul 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1864371",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1840106",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "From diet to disease modulation: the multi-targeted effects of medicinal-food homologous plants in hepatic fibrosis",
-      "abstract": "Hepatic fibrosis is a pivotal pathological stage in chronic liver disease progression for which treatment options remain limited. Medicinal-food homologous (MFH) plants, recognized for their dual safety and bioactivity, offer promising preventive and therapeutic potential. This review systematically analyzes the anti-hepatofibrotic mechanisms of 102 officially approved MFH plants. Based on a literature search using keywords such as “specific MFH plant names” and “hepatic fibrosis or liver fibrosis,” we identified 101 relevant studies. The analysis reveals that these plants exert their effects through multi-target synergy, mitigating oxidative stress and inflammation, inhibiting hepatic stellate cell (HSC) activation, inducing activated HSC apoptosis, and modulating the gut-liver axis. Although bioactive compounds such as hesperetin, puerarin, and curcumin have emerged as prominent candidates for therapeutic intervention in hepatic fibrosis, related studies remain largely confined to the pre-clinical stage. Furthermore, approximately one-third of the evidence is derived from crude extracts with poorly characterized compositions; active compounds lack systematic pharmacokinetic and toxicological evaluations; clinical studies remain exceptionally limited; and experimental doses far exceed typical daily dietary intake levels. These limitations severely compromise their clinical translation and application value. Future research should focus on elucidating the mechanisms of single active compounds, establishing long-term intervention models using physiologically relevant doses, …",
-      "authors": "Shiqi Chen, Hongdao Chen, Jiaqi Xie et al.",
+      "title": "Clinical phenotype identification based on inflammation–nutrition–coagulation biomarkers in advanced non-small cell lung cancer",
+      "abstract": "ObjectiveThis study aimed to identify clinically distinct host phenotype subgroups based on inflammation–nutrition–coagulation biomarkers in patients with advanced non-small cell lung cancer (NSCLC). It also evaluated their association with conventional Tumor–Node–Metastasis (TNM) staging.MethodsA total of 1,644 patients with advanced NSCLC were retrospectively included. Twenty-two baseline laboratory indicators spanning inflammation, nutrition, and coagulation were collected. After data cleaning and Z-score standardization, principal component analysis (PCA) was performed for dimensionality reduction. The optimal number of clusters was determined using the elbow method, silhouette coefficient, and Calinski–Harabasz index.ResultsThe Kaiser–Meyer–Olkin value was 0.631, and Bartlett’s test of sphericity was significant (p < 0.001), confirming data suitability for PCA. Nine principal components were extracted, explaining 80.18% of the cumulative variance. K-means clustering identified three phenotype subgroups. Subgroup 1 (n = 113, 6.87%) showed high-risk pattern characterized by severe inflammation, poor nutritional status, and hypercoagulability. Subgroup 3 (n = 521, 31.69%) represented a favorable phenotype with low inflammation, adequate nutrition, and low coagulation activity. Subgroup 2 (n = 1,010, 61.44%) showed intermediate characteristics. This classification was not associated with TNM staging (p = 0.578).ConclusionPCA combined with K-means clustering identified three distinct host phenotype subgroups along the inflammation–nutrition–coagulation axis in advanced NSCL…",
+      "authors": "Huanhuan Zhao, Yan Wang, Shaoyang Zhao",
       "published": "Jul 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1752309",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1839434",
+      "image": "",
+      "screen": "right"
+    },
+    {
+      "title": "Planetary health diet index and low muscle mass in adults aged 20–60 years: exploratory evaluation of a dairy-upweighted outcome-specific adaptation",
+      "abstract": "BackgroundIncreasing evidence indicates that the Planetary Health Diet Index (PHDI), proposed within the EAT-Lancet framework, not only supports environmental sustainability but also contributes to the prevention of various diseases. However, the rigorous restriction of animal-sourced proteins in the standard PHDI may overlook the heightened anabolic needs of aging populations. This study primarily aimed to evaluate the association between PHDI-US adherence and low muscle mass (LMM) and to compare this association with other commonly used dietary indices. As a secondary exploratory step, we examined whether an exploratory dairy-upweighted score, derived by multiplying the original PHDI-US total score by the observed dairy intake amount, might show a stronger association with LMM.MethodsMultivariable logistic regression and restricted cubic spline (RCS) models were used to evaluate the association between the Planetary Health Diet Index for the United States (PHDI-US) and low muscle mass (LMM). Random-forest feature-importance analysis was then used to identify the most influential dietary component within the PHDI-US and to derive a dairy-upweighted version of the score (PHDI-Dairy). We then examined the association between dairy intake and LMM in an independent Southern Chinese cohort.ResultsIn fully adjusted models, higher PHDI-US and Alternative Healthy Eating Index scores were associated with lower odds of LMM, whereas a higher Dietary Inflammatory Index score was associated with higher odds of LMM. Healthy Eating Index and Mediterranean Diet Index scores were not stati…",
+      "authors": "Jin-jie He, Xu-lin Chen, Chao Ning et al.",
+      "published": "Jul 2026",
+      "feedName": "Frontiers Nutrition",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1782327",
       "image": "",
       "screen": "right"
     },

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-15T11:24:30Z",
+  "updated": "2026-07-15T13:17:17Z",
   "items": [
     {
       "title": "Sustainable diet shifts among adults in Scotland do not cost more",
@@ -242,6 +242,16 @@
       "screen": "left"
     },
     {
+      "title": "Genomic insights into Salmonella enterica serovar Corvallis from China 2014-2023: A foodborne bacterial pathogen for antimicrobial resistance carriage and potential global transmission",
+      "abstract": "",
+      "authors": "Shaofei Yan, Ke Wu, Meng Zhang et al.",
+      "published": "Jan 2027",
+      "feedName": "Food Microbiology",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0740002026002005?dgcid=rss_sd_all",
+      "image": "",
+      "screen": "left"
+    },
+    {
       "title": "Regulatory roles of Smt3, an ortholog of small ubiquitin-like modifier, in fungal development and the production of amylases and organic acids in Aspergillus niger",
       "abstract": "",
       "authors": "Yunqi Zhu, Xingbing Liu, Gang Zhou et al.",
@@ -268,16 +278,6 @@
       "published": "Jan 2027",
       "feedName": "Food Microbiology",
       "url": "https://www.sciencedirect.com/science/article/pii/S0740002026001991?dgcid=rss_sd_all",
-      "image": "",
-      "screen": "left"
-    },
-    {
-      "title": "Genomic epidemiology reveals agricultural environments as direct conduits for multidrug-resistant Salmonella ST34 transmission into the food chain",
-      "abstract": "",
-      "authors": "Ningbo Liao, Pulun Huang, Gaowang Deng et al.",
-      "published": "Jan 2027",
-      "feedName": "Food Microbiology",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0740002026001887?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },

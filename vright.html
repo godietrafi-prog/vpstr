@@ -712,6 +712,7 @@
     var promoScheduleTimer = null;
     var promoPreviewShown = false;
     var promoLastSlotTime = 0;
+    var promoStartupShown = false;
 
     function isVideo(src) { return /\.(mp4|webm|ogg|mov)$/i.test(src || ''); }
 
@@ -1193,10 +1194,18 @@
         var preview = location.search.match(/[?&]promoPreview=([0-2])(?:&|$)/);
         if (!promoPreviewShown && preview) {
             promoPreviewShown = true;
+            promoStartupShown = true;
             playlist.splice(current + 1, 0, promoPoolIndexes[parseInt(preview[1], 10)]);
             setTimeout(next, 1200);
         }
         if (state > 0) return;
+        if (state === 0 && !preview && !promoStartupShown) {
+            promoStartupShown = true;
+            var startupAnchor = new Date(2026, 6, 16, 0, 0, 0, 0);
+            var startupSlot = Math.floor((now.getTime() - startupAnchor.getTime()) / (20 * 60000));
+            playlist.splice(current + 1, 0, promoPoolIndexes[startupSlot % promoPoolIndexes.length]);
+            setTimeout(next, 1200);
+        }
         if (state < 0) {
             nextAt = new Date(2026, 6, 16, 0, CONFIG.promoOffsetMinutes, 0, 0);
         } else {
@@ -1206,7 +1215,7 @@
             var currentStep = Math.max(0, Math.floor(elapsed / interval));
             var currentAt = new Date(anchor.getTime() + currentStep * interval);
             var insideActiveSlot = now.getTime() - currentAt.getTime() < CONFIG.promoDuration * 1000;
-            nextAt = insideActiveSlot && promoLastSlotTime !== currentAt.getTime()
+            nextAt = insideActiveSlot && promoLastSlotTime !== currentAt.getTime() && !promoStartupShown
                 ? currentAt
                 : new Date(currentAt.getTime() + interval);
         }
@@ -1218,6 +1227,7 @@
                 var slot = Math.round((nextAt.getTime() - campaignStart.getTime()) /
                     (CONFIG.promoEveryMinutes * 60000 / 2));
                 promoLastSlotTime = nextAt.getTime();
+                promoStartupShown = true;
                 playlist.splice(current + 1, 0, promoPoolIndexes[slot % promoPoolIndexes.length]);
                 next();
             }

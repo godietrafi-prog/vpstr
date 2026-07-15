@@ -1419,9 +1419,9 @@
             rssItems.forEach(function(item) { pool.push(item); });
             birthdayForToday(function(birthdayItem) {
                 if (birthdayItem) pool.push(birthdayItem);
-                pool.push({ type:'promo', src:'world-cup-final-demo.html?embedded=1', audio:'media/audio/world-cup/final-whistle-crowd.wav' });
-                pool.push({ type:'promo', src:'world-cup-final-demo-neon.html?embedded=1', audio:'media/audio/world-cup/stadium-crowd.mp3' });
-                pool.push({ type:'promo', src:'world-cup-final-demo-ticket.html?embedded=1', audio:'media/audio/world-cup/victory-cheer.mp3' });
+                pool.push({ type:'promo', src:'world-cup-final-demo.html?embedded=1&v=2026071601', audio:'media/audio/world-cup/final-whistle-crowd.wav' });
+                pool.push({ type:'promo', src:'world-cup-final-demo-neon.html?embedded=1&v=2026071601', audio:'media/audio/world-cup/stadium-crowd.mp3' });
+                pool.push({ type:'promo', src:'world-cup-final-demo-ticket.html?embedded=1&v=2026071601', audio:'media/audio/world-cup/victory-cheer.mp3' });
                 buildPool();
                 playlist = buildPlaylist();
                 // Each screen starts at a random position → true independence
@@ -1435,9 +1435,9 @@
     xhr.onerror = function() {
         birthdayForToday(function(birthdayItem) {
             if (birthdayItem) pool.push(birthdayItem);
-            pool.push({ type:'promo', src:'world-cup-final-demo.html?embedded=1', audio:'media/audio/world-cup/final-whistle-crowd.wav' });
-            pool.push({ type:'promo', src:'world-cup-final-demo-neon.html?embedded=1', audio:'media/audio/world-cup/stadium-crowd.mp3' });
-            pool.push({ type:'promo', src:'world-cup-final-demo-ticket.html?embedded=1', audio:'media/audio/world-cup/victory-cheer.mp3' });
+            pool.push({ type:'promo', src:'world-cup-final-demo.html?embedded=1&v=2026071601', audio:'media/audio/world-cup/final-whistle-crowd.wav' });
+            pool.push({ type:'promo', src:'world-cup-final-demo-neon.html?embedded=1&v=2026071601', audio:'media/audio/world-cup/stadium-crowd.mp3' });
+            pool.push({ type:'promo', src:'world-cup-final-demo-ticket.html?embedded=1&v=2026071601', audio:'media/audio/world-cup/victory-cheer.mp3' });
             buildPool();
             playlist = buildPlaylist();
             showSlide(0);

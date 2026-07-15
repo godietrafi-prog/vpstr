@@ -674,6 +674,7 @@
     </div>
 
     <script src="birthday-audio.js"></script>
+    <script src="promo-audio.js"></script>
     <script>
     // ================================================================
     // CONFIGURATION
@@ -686,8 +687,8 @@
         birthdayDuration: 30,  // seconds; shown at :00, :20 and :40
         birthdayEverySlides: 0, // production schedule; >0 is test-only
         promoDuration: 35,      // World Cup final promo, 16-19 Jul 2026 only
-        promoEveryMinutes: 10,
-        promoOffsetMinutes: 5,  // right screen at :05, :15, :25...
+        promoEveryMinutes: 40,
+        promoOffsetMinutes: 20, // right: 00:20, 01:00, 01:40, 02:20...
         loop: true
     };
 
@@ -707,8 +708,9 @@
     var birthdayPoolIndex = -1;
     var birthdayScheduleTimer = null;
     var birthdayPreviewShown = false;
-    var promoPoolIndex = -1;
+    var promoPoolIndexes = [];
     var promoScheduleTimer = null;
+    var promoPreviewShown = false;
 
     function isVideo(src) { return /\.(mp4|webm|ogg|mov)$/i.test(src || ''); }
 
@@ -998,9 +1000,10 @@
                 promoFrame.src = 'about:blank';
                 div.appendChild(promoFrame);
                 div._promoFrame = promoFrame;
+                div._promoAudioSrc = item.audio || '';
                 div.setAttribute('data-type', 'promo');
                 div.setAttribute('data-duration', String(CONFIG.promoDuration));
-                promoPoolIndex = i;
+                promoPoolIndexes.push(i);
             } else if (item.type === 'birthday') {
                 var frame = document.createElement('iframe');
                 frame.className = 'birthday-frame';
@@ -1096,6 +1099,11 @@
             if (el.getAttribute('data-type') === 'birthday')
                 window.BirthdayAudio.play(CONFIG.birthdayDuration);
         }
+        if (window.PromoAudio) {
+            window.PromoAudio.stop();
+            if (el.getAttribute('data-type') === 'promo' && el._promoAudioSrc)
+                window.PromoAudio.play(el._promoAudioSrc, CONFIG.promoDuration);
+        }
 
         // Birthday iframe exists only while visible; this stops hidden CSS
         // animations and releases its document/GPU resources immediately.
@@ -1178,22 +1186,32 @@
     }
 
     function schedulePromo() {
-        if (promoPoolIndex < 0) return;
+        if (!promoPoolIndexes.length) return;
         clearTimeout(promoScheduleTimer);
         var now = new Date(), state = promoWindowState(now), nextAt;
+        var preview = location.search.match(/[?&]promoPreview=([0-2])(?:&|$)/);
+        if (!promoPreviewShown && preview) {
+            promoPreviewShown = true;
+            playlist.splice(current + 1, 0, promoPoolIndexes[parseInt(preview[1], 10)]);
+            setTimeout(next, 1200);
+        }
         if (state > 0) return;
         if (state < 0) {
             nextAt = new Date(2026, 6, 16, 0, CONFIG.promoOffsetMinutes, 0, 0);
         } else {
-            nextAt = new Date(now.getTime());
-            var mod = now.getMinutes() % CONFIG.promoEveryMinutes;
-            var delta = (CONFIG.promoOffsetMinutes - mod + CONFIG.promoEveryMinutes) % CONFIG.promoEveryMinutes;
-            if (delta === 0 && (now.getSeconds() > 0 || now.getMilliseconds() > 0)) delta = CONFIG.promoEveryMinutes;
-            nextAt.setMinutes(now.getMinutes() + delta, 0, 0);
+            var anchor = new Date(2026, 6, 16, 0, CONFIG.promoOffsetMinutes, 0, 0);
+            var interval = CONFIG.promoEveryMinutes * 60000;
+            var steps = Math.floor((now.getTime() - anchor.getTime()) / interval) + 1;
+            nextAt = new Date(anchor.getTime() + Math.max(0, steps) * interval);
         }
         promoScheduleTimer = setTimeout(function() {
             if (promoWindowState(new Date()) === 0) {
-                playlist.splice(current + 1, 0, promoPoolIndex);
+                // Both screens form one staggered 20-minute sequence. Choose the
+                // design from that shared sequence so adjacent slots never repeat.
+                var campaignStart = new Date(2026, 6, 16, 0, 0, 0, 0);
+                var slot = Math.round((nextAt.getTime() - campaignStart.getTime()) /
+                    (CONFIG.promoEveryMinutes * 60000 / 2));
+                playlist.splice(current + 1, 0, promoPoolIndexes[slot % promoPoolIndexes.length]);
                 next();
             }
             schedulePromo();
@@ -1388,7 +1406,9 @@
             rssItems.forEach(function(item) { pool.push(item); });
             birthdayForToday(function(birthdayItem) {
                 if (birthdayItem) pool.push(birthdayItem);
-                pool.push({ type:'promo', src:'world-cup-final-demo.html?embedded=1' });
+                pool.push({ type:'promo', src:'world-cup-final-demo.html?embedded=1', audio:'media/audio/world-cup/final-whistle-crowd.wav' });
+                pool.push({ type:'promo', src:'world-cup-final-demo-neon.html?embedded=1', audio:'media/audio/world-cup/stadium-crowd.mp3' });
+                pool.push({ type:'promo', src:'world-cup-final-demo-ticket.html?embedded=1', audio:'media/audio/world-cup/victory-cheer.mp3' });
                 buildPool();
                 playlist = buildPlaylist();
                 // Each screen starts at a random position → true independence
@@ -1402,7 +1422,9 @@
     xhr.onerror = function() {
         birthdayForToday(function(birthdayItem) {
             if (birthdayItem) pool.push(birthdayItem);
-            pool.push({ type:'promo', src:'world-cup-final-demo.html?embedded=1' });
+            pool.push({ type:'promo', src:'world-cup-final-demo.html?embedded=1', audio:'media/audio/world-cup/final-whistle-crowd.wav' });
+            pool.push({ type:'promo', src:'world-cup-final-demo-neon.html?embedded=1', audio:'media/audio/world-cup/stadium-crowd.mp3' });
+            pool.push({ type:'promo', src:'world-cup-final-demo-ticket.html?embedded=1', audio:'media/audio/world-cup/victory-cheer.mp3' });
             buildPool();
             playlist = buildPlaylist();
             showSlide(0);

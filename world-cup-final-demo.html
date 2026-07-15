@@ -15,7 +15,7 @@
     .poster:after{content:"";position:absolute;left:-10%;right:-10%;bottom:-14%;height:40%;z-index:-1;border-radius:50% 50% 0 0;background:radial-gradient(ellipse at 50% 0,#2ea95d 0 35%,#116536 36% 54%,#06341f 55%);box-shadow:0 -12px 70px rgba(68,255,143,.24)}
     .lights{position:absolute;inset:0;background:linear-gradient(111deg,transparent 20%,rgba(255,255,255,.1) 30%,transparent 41%),linear-gradient(249deg,transparent 20%,rgba(255,255,255,.08) 30%,transparent 41%);animation:sweep 5s ease-in-out infinite alternate}
     header{text-align:center;padding:4.5% 4% 0;position:relative;z-index:3}
-    .eyebrow{font-size:clamp(14px,2.3vmin,30px);font-weight:800;letter-spacing:.3em;color:#8df4d1;margin-bottom:1.2%}
+    .eyebrow{font-size:clamp(14px,2.3vmin,30px);font-weight:800;letter-spacing:.3em;color:#8df4d1;margin-bottom:1.2%}.final-date{display:inline-block;margin-bottom:1.5%;padding:.35em .85em;border:2px solid #ffd95f;border-radius:99px;color:#ffd95f;font-size:clamp(15px,2.2vmin,28px);font-weight:1000;letter-spacing:.14em;box-shadow:0 0 20px rgba(255,217,95,.25);animation:pulse 1.8s ease-in-out infinite}
     h1{font-size:clamp(48px,8.5vmin,108px);line-height:.86;margin:0;text-shadow:0 5px 0 #7b1f4f,0 12px 30px rgba(0,0,0,.6)}
     h1 span{display:block;color:#ffd95f;font-size:.46em;line-height:1.4;letter-spacing:.08em}
     .match{position:relative;z-index:4;display:grid;grid-template-columns:minmax(0,1fr) auto minmax(0,1fr);gap:4%;align-items:center;width:88%;margin:5% auto 0;direction:ltr}
@@ -43,7 +43,7 @@
 <body>
   <main class="poster">
     <div class="lights"></div>
-    <header><div class="eyebrow">THE BIGGEST NIGHT IN FOOTBALL</div><h1>WORLD CUP FINAL <span>2026</span></h1></header>
+    <header><div class="eyebrow">THE BIGGEST NIGHT IN FOOTBALL</div><div class="final-date" data-final-date>JULY 19 · 2026</div><h1>WORLD CUP FINAL <span>2026</span></h1></header>
     <section class="match">
       <article class="team left"><div class="flag spain"><b class="crest">🇪🇸</b></div><div class="team-label"><small>FINALIST</small>SPAIN</div></article>
       <div class="center"><div class="cup">🏆</div><div class="vs">VS</div></div>
@@ -64,6 +64,6 @@
       <i style="--x:85%;--c:#ffd95f;--d:6.6s;--delay:-5.4s;--r:75deg"></i><i style="--x:94%;--c:#ee397d;--d:4.6s;--delay:-.8s;--r:10deg"></i>
     </div>
   </main>
-  <script>if(/[?&]embedded=1(?:&|$)/.test(location.search))document.body.classList.add('embedded');</script>
+  <script src="promo-date.js"></script><script>if(/[?&]embedded=1(?:&|$)/.test(location.search))document.body.classList.add('embedded');</script>
 </body>
 </html>

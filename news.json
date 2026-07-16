@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-16T15:28:10Z",
+  "updated": "2026-07-16T17:05:21Z",
   "items": [
     {
       "title": "Sustainable diet shifts among adults in Scotland do not cost more",
@@ -402,12 +402,32 @@
       "screen": "right"
     },
     {
-      "title": "Highlighting sarcopenia management in cancer treatments: evidence from umbrella meta-analysis",
-      "abstract": "IntroductionThe role of sarcopenia in cancer treatment remains to be fully documented. This umbrella meta-analysis aimed to investigate the impact of sarcopenia on therapeutic outcomes across common malignancies with high incidence or mortality.MethodsWe conducted an umbrella review of existing meta-analyses based on cohort studies. PubMed, Web of Science, and Embase were systematically searched from inception to October 2025. The primary endpoints were survival outcomes after surgical or first-line treatments. Supplementary meta-analyses were performed for outcomes with insufficient existing evidence. The systematic review protocol was registered in PROSPERO (CRD42022383726).ResultsA total of 59 meta-analyses were included, comprising 49 from the literature search and 10 newly conducted in this study, covering 12 cancer types. In patients undergoing surgery, sarcopenia was significantly associated with shorter overall survival (HR = 1.59, 95% CI: 1.37–1.88) and disease-free survival (HR = 1.64, 95% CI: 1.39–1.93), as well as increased risks of any postoperative complications (OR = 1.48, 95% CI: 1.21–1.81) and major complications (OR = 1.51, 95% CI: 1.30–1.76). In patients receiving first-line non-surgical therapy, sarcopenia remained an independent risk factor for poorer overall survival (HR = 1.49, 95% CI: 1.39–1.61) and progression-free survival (HR = 1.39, 95% CI: 1.17–1.66). The methodological quality of included meta-analyses was generally high, while the GRADE certainty of evidence for most outcomes was rated as low or very low. Sarcopenia was also associated with in…",
-      "authors": "Tongfa Yan, Jiahao Cui, Xiankai Chen et al.",
+      "title": "Validity, consistency and network structure of the World Cancer Research Fund/American Institute for Cancer Research Screener in young adults",
+      "abstract": "IntroductionThe WCRF/AICR Screener is a validated tool for assessing adherence to the World Cancer Research Fund/American Institute for Cancer Research cancer prevention guidelines. This study aimed to evaluate its validity among young adults and examine connections between dietary variables using network analysis.MethodsYoung adults (n = 112) were recruited (mean age 24.9 years; 70.5% women) and completed the screener alongside validated assessments: bioelectrical impedance analysis, anthropometry, accelerometry, a 4-week Ecological Momentary Dietary Assessment via smartphone app, and a food frequency questionnaire. For validation, agreement [cross-classification (%), the Kappa coefficient (κ), Spearman correlation (r), and linear regression] was determined. Dietary network structure was evaluated using the EBICglasso analysis.ResultsThe WCRF/AICR Screener showed moderate-to-strong validity (r = 0.57) and good test-retest consistency (r = 0.73). Exploratory network analysis revealed proximity between healthier foods and separately less healthy ones. It also suggested that sugar-sweetened drinks was strongly connected to multiple dietary variables, with potential influence on the overall network. In contrast, alcohol intake was relatively isolated from the rest of the variables.DiscussionThese observations support the use of the Screener for assessing cancer prevention recommendations in healthy young adults and generate exploratory hypotheses on dietary interrelationships that require confirmation in larger and more heterogeneous samples.",
+      "authors": "Mar Nafría, Alice Chaplin, Lara Prohens et al.",
       "published": "Jul 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1831634",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1764935",
+      "image": "",
+      "screen": "right"
+    },
+    {
+      "title": "Effects of non-denatured whey protein supplementation combined with a Mediterranean-type diet on cognitive function and muscle health in sarcopenic older adults with cognitive impairment: a retrospective observational study",
+      "abstract": "IntroductionPopulation ageing has led to a rise in neurodegenerative disorders, driven by metabolic, inflammatory, and nutritional factors. The Mediterranean diet and adequate protein intake may help protect cognitive function and support muscle health. Sarcopenia is strongly associated with cognitive decline through the muscle–brain axis. This study evaluates the combined effects of a Mediterranean-type diet and whey proteins on cognition, body composition, and muscle strength in sarcopenic older adults.MethodsA total of sixty-eight older adults with sarcopenia and cognitive impairment were retrospectively enrolled and divided according to adherence to the nutritional intervention. Group A (n = 38) followed both a Mediterranean-type diet and whey protein supplementation, while Group B (n = 30) followed the diet alone and served as controls. Clinical, anthropometric, and body composition parameters were assessed at baseline, 3 and 6 months.ResultsAt 6 months, Group A was associated with significant improvements in body composition and functional outcomes compared with baseline. In particular, Body Cell Mass (BCM) increased, together with an improvement in right-hand grip strength, indicating enhanced muscle quality and strength. Muscle mass also increased, supporting better physical performance, as reflected by a reduction in perceived frailty (SARC-F score). Cognitive outcomes improved in both groups, with significant increases in MMSE scores, while executive function also improved in the intervention group, as shown by better TMT-A and TMT-B performance.DiscussionA Medite…",
+      "authors": "Lombardi Marta, Di Lauro Mariastella, Nasti Gilda et al.",
+      "published": "Jul 2026",
+      "feedName": "Frontiers Nutrition",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1859189",
+      "image": "",
+      "screen": "right"
+    },
+    {
+      "title": "Evidence of immune-metabolic imbalance prior to sepsis: a prospective study in the UK Biobank",
+      "abstract": "BackgroundSepsis is a severe systemic inflammatory response syndrome, and effective metabolic signatures for predicting its risk are currently lacking. This study seeks to evaluate the associations between inflammatory vulnerability (IVX), metabolic malnutrition (MMX), and metabolic vulnerability (MVX) and the risk of sepsis.MethodsWe conducted a prospective cohort study using data from the United Kingdom Biobank. Cox proportional hazards models were utilized to examine the association between these composite indices and sepsis risk, while restricted cubic spline (RCS) analysis was applied to identify potential nonlinear trends. Subgroup analyses based on medical history, lifestyle factors, and demographic characteristics were performed in fully adjusted models. Sensitivity analyses employed 3-year left truncation and adjusted for CRP and glycated hemoglobin, as well as excluding participants with baseline comorbidities.ResultsIn fully adjusted models, a 1-SD increase in MVX corresponded to an 18% higher sepsis risk (HR: 1.18; 95% CI, 1.15–1.20; p < 0.01), whereas the highest quartile (Q4) showed a 43% increased risk versus Q1 (HR: 1.43; 95% CI, 1.35–1.52; p < 0.01). Positive associations were also observed for IVX (HR per SD: 1.15; 95% CI, 1.13–1.18; p < 0.01) and MMX (HR per SD: 1.10; 95% CI, 1.07–1.12; p < 0.01). Subgroup demonstrated that MVX was consistently linked to sepsis across various subgroups, with a stronger association than IVX or MMX. Notably, in participants with normal BMI, females, and those with severely decreased eGFR, the risk increased by 23% (HR: 1.23…",
+      "authors": "Xiaoke Liu, Dongqi Zhou, Dazhou Liao et al.",
+      "published": "Jul 2026",
+      "feedName": "Frontiers Nutrition",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1836381",
       "image": "",
       "screen": "right"
     },
@@ -418,26 +438,6 @@
       "published": "Jul 2026",
       "feedName": "Frontiers Nutrition",
       "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1873930",
-      "image": "",
-      "screen": "right"
-    },
-    {
-      "title": "Exploratory whole-exome analysis of low-density lipoprotein cholesterol and triglyceride response to Mediterranean-style dietary guidance: a focus on plasma lipoprotein pathways",
-      "abstract": "ObjectivesInter-individual variability in lipid response to dietary modification highlights the critical need for precision nutrition. Current evidence remains fragmented, relying predominantly on restricted candidate-gene studies rather than comprehensive genomic approaches. To bridge this gap, we applied a biologically informed analytical framework to whole-exome sequencing (WES) data to evaluate the nutrigenetics of lipid response in an underrepresented Georgian cohort. Specifically, we explored whether exome-wide and pathway-aggregated genetic variation may contribute to inter-individual differences in LDL cholesterol (ΔLDL-C) and triglyceride (ΔTAG) response to Mediterranean-style dietary guidance.MethodsA longitudinal study was conducted with 51 dyslipidemic patients who received Mediterranean-style dietary guidance for at least 2 months. High-depth whole-exome sequencing (mean 112×) was performed, and a parallel analytical approach was used: an exploratory exome-wide association analysis to screen for nominal variant-level signals, and a targeted gene-level analysis of the ‘Plasma Lipoprotein Assembly, Remodeling, and Clearance’ pathway to prioritize biologically plausible signals.ResultsThe intervention resulted in mean reductions of 33.5 mg/dL in LDL-C and 18.6 mg/dL in TAG. Exome-wide screening identified no variants reaching exome-wide significance. The lowest nominal p-values were observed for ΔLDL-C at KIF6 (p = 4.87 × 10−7; FDR = 0.122) and for ΔTAG at SLC35F2 (p = 3.08 × 10−6; FDR = 0.521). These results were therefore reported only descriptively, without bio…",
-      "authors": "Saba Iordanishvili, Nazibrola Chiradze, Dodo Agladze et al.",
-      "published": "Jul 2026",
-      "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1827989",
-      "image": "",
-      "screen": "right"
-    },
-    {
-      "title": "Palmitic acid intake in children on gluten-free and generalized diets before and after palm oil reformulation: nutritional and metabolic implications",
-      "abstract": "BackgroundThe nutritional profile of many gluten-free products can make it challenging for children with celiac disease to maintain a balanced and healthy diet. Among the saturated fatty acids, palmitic acid (C16:0) is often a major component and has been implicated in the modulation of inflammation, insulin resistance, and lipid metabolism. In this study, we evaluated palmitic acid intake and overall dietary quality among school-aged children following gluten-free or unrestricted diets, before and after the widespread adoption of “no palm oil” labeling.MethodsUsing 24-h dietary recalls and food frequency questionnaires, we estimated palmitic acid consumption, macronutrient intake, and key health indicators, including body mass index (BMI) z-scores and the Homeostasis Model Assessment of Insulin Resistance (HOMA-IR). Data collected before 2015 and after 2019 were compared to evaluate the dietary and metabolic changes over time.ResultsOverall, 124 individuals were included: 62 on a gluten-free diet and 62 on a gluten-containing diet. Each group had 31 participants assessed before 2015 and after 2019. Following 2019, the mean palmitic acid intake was significantly lower (p < 0.001), particularly among celiac children. After 2019, the main dietary sources of palmitic acid shifted toward natural food, particularly dairy products, consistent with a qualitative improvement in fat intake. Variations in sugar consumption among dietary groups may act as a proxy for broader dietary differences related to palmitic acid intake. The gluten-containing diet group reported higher sugar and…",
-      "authors": "Ilaria Stradi, Lucia Diani, Maria Luisa Forchielli",
-      "published": "Jul 2026",
-      "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1842117",
       "image": "",
       "screen": "right"
     },

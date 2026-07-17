@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-17T04:57:46Z",
+  "updated": "2026-07-17T07:54:33Z",
   "items": [
     {
       "title": "Sustainable diet shifts among adults in Scotland do not cost more",
@@ -202,6 +202,16 @@
       "screen": "left"
     },
     {
+      "title": "Structural and survival analysis of Lactobacillus rhamnosus added to edible films",
+      "abstract": "IntroductionProbiotic edible films represent a promising strategy for developing functional food packaging that combines food preservation with the delivery of beneficial microorganisms. Carboxymethylcellulose (CMC) is commonly incorporated into starch-based films to improve flexibility; however, its effect on the survival of entrapped probiotics remains poorly understood. This study evaluated the mechanical, structural, and survival characteristics of starch-based edible films containing different proportions of CMC and Lactobacillus rhamnosus.MethodsThree formulations were prepared: starch, starch/CMC (60:40), and starch/CMC (50:50), with and without L. rhamnosus. Mechanical properties, color, microstructure, and probiotic survival were evaluated during storage at 5 °C and 22 °C for 24 days.ResultsStarch films exhibited greater thickness, puncture force, and tensile strength, whereas CMC-containing films showed higher elongation values. The incorporation of L. rhamnosus increased film thickness and reduced puncture force, tensile strength, and elongation in all formulations. Atomic force microscopy revealed a more homogeneous distribution of bacterial cells in starch films, while CMC-containing films exhibited rougher surfaces and greater pore formation. Starch films stored at 5 °C showed the highest probiotic stability during storage, whereas CMC-containing films exhibited reductions of approximately 2 log CFU/g after 24 days.DiscussionThese findings indicate that increasing the CMC fraction improves film flexibility but may compromise the survival of L. rhamnosus during…",
+      "authors": "Teresa Soledad Cid-Pérez, Julio César Pérez-Pérez, Ricardo Munguía-Pérez et al.",
+      "published": "Jul 2026",
+      "feedName": "Frontiers Food Science",
+      "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.1867946",
+      "image": "",
+      "screen": "left"
+    },
+    {
       "title": "Effects of glycerol and water addition on the texture profile and consumer acceptance of protein bars",
       "abstract": "IntroductionProtein bars are widely consumed worldwide, primarily due to their nutritional properties and convenience. This study investigated the effects of glycerol and water addition on the physicochemical and textural properties of protein bars.MethodsFour formulations were developed with two levels of glycerol (3% and 3.5%) and with or without added water (0% or 2%).Results and DiscussionMoisture and ash contents were not significantly affected by reformulation, however, glycerol addition significantly reduced aw below the threshold for microbial growth, ensuring product stability. Sensory evaluation revealed that the addition of water decreased firmness and crispiness, while increasing stickiness and chewiness. Overall, the findings emphasize the functional role of glycerol as a humectant and its influence on the textural profile, while also demonstrating that water addition, although contributing to softness, may negatively affect consumer preference for protein bars. These results provide valuable insights for optimizing protein bar formulations to enhance textural quality and consumer acceptance.",
       "authors": "Vitor Andre Silva Vidal, Even Sørvåg Hauge, Ida-Johanne Jensen et al.",
@@ -228,16 +238,6 @@
       "published": "Jul 2026",
       "feedName": "Frontiers Food Science",
       "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.1833242",
-      "image": "",
-      "screen": "left"
-    },
-    {
-      "title": "Application of indirect in-package surface dielectric barrier discharge cold plasma for post-harvest storage of table grapes",
-      "abstract": "BackgroundTable grapes (Vitis vinifera var. Crimson Seedless) are highly susceptible to post-harvest deterioration, primarily due to weight loss, stalk browning, and spoilage by microorganisms like moulds. This study investigates the use of indirect in-package surface cold plasma within a passive Modified Atmosphere Packaging (MAP) to enhance microbial control and extend shelf-life of table grapes.MethodologyGrapes were sealed in LDPE bags and treated with cold plasma for 3, 7, or 10 s (3S, 7S, 10S) and stored at 0 °C for 18 days. Ozone generation and its subsequent decomposition within the headspace were monitored. The most important physico-chemical and physiological parameters including headspace gas composition, weight loss, berry and stalk colour, texture, and microbial populations were systematically assessed at days 0, 3, 12, and 18.ResultsCold plasma generated high initial ozone concentrations (up to 1050 ppm for 10S) that degraded within 60 min. Treatments significantly reduced yeast and psychrotrophic bacteria counts compared to controls until day 12. While headspace gas composition (O2 and CO2) remained stable across treatments, a significant decline in sensory score for aroma and flavour was observed in treated samples primarily due to a pungent off-odour that persisted during consumption.ConclusionIn-package cold plasma represents a rapid, residue-free sanitization method. Although the treatment did not significantly alter the internal quality or metabolism of the berries, results suggest an interaction with the packaging material. Therefore, while the technolo…",
-      "authors": "Giuseppe Rosiello, Raffaele Simonelli, Danial Fatchurrahman et al.",
-      "published": "Jun 2026",
-      "feedName": "Frontiers Food Science",
-      "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.1826481",
       "image": "",
       "screen": "left"
     },
@@ -402,22 +402,22 @@
       "screen": "right"
     },
     {
-      "title": "Fruit and vegetable consumption frequency and tooth-loss transitions across baseline dentition strata in older Chinese adults: a prospective cohort study",
-      "abstract": "BackgroundFruit and vegetable consumption is linked to oral health in later life, but whether consumption frequency is associated with subsequent tooth-loss transitions across baseline dentition stages remains unclear. We examined these associations in older Chinese adults.MethodsWe used Chinese Longitudinal Healthy Longevity Survey data from 2008, 2011, 2014, and 2018. Participants aged ≥65 years were grouped by baseline dentition; the outcome was incident edentulism in the 1–19-teeth stratum and transition to fewer than 20 teeth in the 20–24 and 25–32-teeth strata. Models mutually adjusted fruit and vegetable consumption frequency. Target-population interpretation prioritised a full baseline-eligible cohort competing-outcome analysis treating death as a competing outcome; additional analyses addressed alternative exposure definitions, differential inclusion, and competing survival.ResultsIn the full baseline-eligible cohort competing-outcome analysis among participants with 1–19 baseline teeth, more frequent vegetable consumption showed an attenuated inverse association with incident edentulism after accounting for death as a competing outcome (HR 0.88, 95% CI 0.73–1.04). In the observed-outcome sample with follow-up tooth counts, the corresponding vegetable estimate was stronger (HR 0.83, 95% CI 0.69–0.99), whereas fruit consumption was not associated with incident edentulism (HR 0.97, 95% CI 0.86–1.09). Associations in the 20–24 and 25–32 baseline-teeth strata were weaker and less consistent.ConclusionAmong older Chinese adults with 1–19 baseline natural teeth, higher v…",
-      "authors": "Kan Xu, Xiaojuan Su, Wenqiang Lu et al.",
-      "published": "Jul 2026",
-      "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1829512",
-      "image": "",
-      "screen": "right"
-    },
-    {
       "title": "Adherence to home nutritional management in patients following esophagectomy: a qualitative study based on the Health Belief Model",
       "abstract": "ObjectiveTo identify factors influencing adherence to home-based nutritional management in post-esophagectomy patients using the Health Belief Model (HBM), thereby addressing the current gap in understanding behavioral drivers and guiding the development of theory-based transitional nutritional interventions.MethodsGuided by the HBM, we conducted a qualitative descriptive study. Using purposive sampling, semi-structured interviews were conducted with 18 patients who had undergone radical esophagectomy at a tertiary hospital in Henan Province, China, between October and December 2025. Data were analyzed using directed content analysis. The study was approved by the hospital ethics committee [Approval No. (2025)154].ResultsThe barriers to adherence included insufficient perception of malnutrition threats (lack of awareness of long-term risks and cognitive biases), excessive perceived barriers (symptom-related eating difficulties, financial burden, negative emotions, and lack of nutrition knowledge and skills), low self-efficacy, and lack of effective cues to action. The factors facilitating adherence (termed facilitators) included a clear perception of postoperative malnutrition risk, explicit perception of the benefits of the nutritional regimen, strong self-efficacy (active learning and strategy development, positive feedback loop from experience accumulation to confidence building, and internalization of nutritional management), and positive internal and external cues to action (sensitization to physical signals and self-monitoring, and synergistic effects of multi-source …",
       "authors": "Qian Ding, Shuang He, Shuang Quan et al.",
       "published": "Jul 2026",
       "feedName": "Frontiers Nutrition",
       "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1878338",
+      "image": "",
+      "screen": "right"
+    },
+    {
+      "title": "Fruit and vegetable consumption frequency and tooth-loss transitions across baseline dentition strata in older Chinese adults: a prospective cohort study",
+      "abstract": "BackgroundFruit and vegetable consumption is linked to oral health in later life, but whether consumption frequency is associated with subsequent tooth-loss transitions across baseline dentition stages remains unclear. We examined these associations in older Chinese adults.MethodsWe used Chinese Longitudinal Healthy Longevity Survey data from 2008, 2011, 2014, and 2018. Participants aged ≥65 years were grouped by baseline dentition; the outcome was incident edentulism in the 1–19-teeth stratum and transition to fewer than 20 teeth in the 20–24 and 25–32-teeth strata. Models mutually adjusted fruit and vegetable consumption frequency. Target-population interpretation prioritised a full baseline-eligible cohort competing-outcome analysis treating death as a competing outcome; additional analyses addressed alternative exposure definitions, differential inclusion, and competing survival.ResultsIn the full baseline-eligible cohort competing-outcome analysis among participants with 1–19 baseline teeth, more frequent vegetable consumption showed an attenuated inverse association with incident edentulism after accounting for death as a competing outcome (HR 0.88, 95% CI 0.73–1.04). In the observed-outcome sample with follow-up tooth counts, the corresponding vegetable estimate was stronger (HR 0.83, 95% CI 0.69–0.99), whereas fruit consumption was not associated with incident edentulism (HR 0.97, 95% CI 0.86–1.09). Associations in the 20–24 and 25–32 baseline-teeth strata were weaker and less consistent.ConclusionAmong older Chinese adults with 1–19 baseline natural teeth, higher v…",
+      "authors": "Kan Xu, Xiaojuan Su, Wenqiang Lu et al.",
+      "published": "Jul 2026",
+      "feedName": "Frontiers Nutrition",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1829512",
       "image": "",
       "screen": "right"
     },
@@ -432,12 +432,12 @@
       "screen": "right"
     },
     {
-      "title": "Altered eating experience during GLP-1 receptor agonist therapy: a sensory–liking–wanting framework for food preference and nutritional behaviour",
-      "abstract": "Eating experience is shaped not only by oral sensory input, but also by hedonic evaluation, interoceptive state, and cue-driven motivation. Glucagon-like peptide-1 receptor agonists (GLP-1RAs), widely used for obesity treatment, offer a clinically relevant model for examining how these processes interact during appetite regulation. Some patients receiving GLP-1RAs report that food tastes different, is less enjoyable, or becomes less tempting, yet these experiences are often grouped together as “taste changes.” This review argues that such reports should be interpreted through a sensory–liking–wanting framework rather than as evidence of a uniform gustatory disorder. We synthesise evidence from peripheral taste signalling, brainstem interoceptive integration, and central food reward pathways. Current evidence does not support a consistent primary impairment of basic gustatory function during GLP-1RA treatment. Instead, altered eating experience appears more consistent with state-dependent food revaluation and reduced reward-driven motivation. However, these responses are heterogeneous and may include limited response, persistent appetite, weight regain, or atypical behavioural phenotypes in some individuals. This framework may help clarify how incretin-based therapies influence food preference, dietary intake, nutritional behaviour, and treatment adherence.",
-      "authors": "Jiayi Du, Zhuo Yang, Yan Chen",
+      "title": "Molecular genetic basis and clinical heterogeneity of sitosterolemia: focusing on the mutation spectrum and pathogenic mechanisms of ABCG5/ABCG8 genes",
+      "abstract": "Sitosterolemia represents a rare autosomal recessive disorder of lipid metabolism, defined by the pathological accumulation of phytosterols—notably sitosterol and campesterol—in both plasma and tissues. This biochemical aberration precipitates severe clinical sequelae, including premature atherosclerosis, hemolytic anemia, and arthritis. The etiology is firmly established as loss-of-function mutations in ABCG5 and ABCG8, which encode critical sterol efflux transporters. This review systematically dissects the molecular genetic architecture of sitosterolemia, offering a comprehensive evaluation of the ABCG5/ABCG8 mutation spectrum. Our analysis encompasses canonical homozygous and compound heterozygous variants, while also addressing the emerging significance of monoallelic heterozygous mutations. We further examine how specific genotypic alterations impair transporter function and correlate with phenotypic severity. Moreover, by synthesizing recent findings, we investigate whether heterozygous carriers manifest subclinical traits characterized by incomplete penetrance and assess their associated pathogenic risks. Ultimately, this work establishes a robust theoretical framework to advance precise diagnosis, refine genetic counseling strategies, and facilitate personalized clinical management of sitosterolemia.",
+      "authors": "Xiu Zhao, Zhe Su, Weimin Xiao et al.",
       "published": "Jul 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1870484",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1857512",
       "image": "",
       "screen": "right"
     },

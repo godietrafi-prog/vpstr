@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-17T18:54:55Z",
+  "updated": "2026-07-17T20:44:22Z",
   "items": [
     {
       "title": "Sustainable diet shifts among adults in Scotland do not cost more",
@@ -282,6 +282,16 @@
       "screen": "left"
     },
     {
+      "title": "Herbularyo card game blends Filipino folklore and organic chemistry",
+      "abstract": "Medicinal plants have long been a cornerstone of Philippine traditional medicine, dating back generations. Tawa-tawa, a low-growing herb that thrives in open grasslands, is a valued supplementary treatment for dengue; the gel of the succulent aloe vera can help soothe a scraped knee; boiled guava leaves help disinfect wounds; tea from yerba buena helps relieve minor aches and pains; and ampalaya helps manage diabetes.",
+      "authors": "",
+      "published": "Jul 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-07-herbularyo-card-game-blends-filipino.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/herbularyo-card-game-b-1.jpg",
+      "screen": "right"
+    },
+    {
       "title": "BESSY II: New sample environment allows glimpse into thermocatalytic processes",
       "abstract": "A novel measurement cell allows, for the first time, soft and hard X-ray investigations under pressures of up to 20 bar and temperatures of up to 400°C. This provides new insights into thermocatalytic processes, such as Fischer–Tropsch synthesis for producing synthetic fuels. The development of the measurement cell is considered a significant achievement within the Care-O-Sene project. The findings are published in the journal Photon Science.",
       "authors": "",
@@ -309,16 +319,6 @@
       "feedName": "Phys.org Analytics",
       "url": "https://phys.org/news/2026-07-imaging-method-reveals-electric-fields.html",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/new-technique-sheds-li.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "Biosensor detects nanoplastics in water within minutes",
-      "abstract": "The growing presence of nanoplastics in the environment has highlighted the need for simpler detection methods, leading researchers at Science Tokyo to develop a rapid biosensor for detecting polystyrene nanoparticles in water. Tested in both model water samples and real water samples spiked with polystyrene nanoparticles, the device detected 50 nm particles within 20 minutes without labeling or extensive sample preparation. The technology could support efforts to understand and address nanoplastic accumulation in the environment.",
-      "authors": "",
-      "published": "Jul 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-07-biosensor-nanoplastics-minutes.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/biosensor-detects-nano.jpg",
       "screen": "right"
     },
     {

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-17T20:44:22Z",
+  "updated": "2026-07-17T22:40:38Z",
   "items": [
     {
       "title": "Sustainable diet shifts among adults in Scotland do not cost more",
@@ -282,6 +282,16 @@
       "screen": "left"
     },
     {
+      "title": "Tuberculosis drug discovery gets smarter with AI",
+      "abstract": "When researchers screen potential tuberculosis drugs, they often end up with too many options. Some look promising but later prove to be costly dead ends. \"We might get thousands of compounds from a screen and then have to decide which one are we going to work on?\" said James Sacchettini, Ph.D., the Rodger J. Wolfe-Welch Foundation Chair in Science, Texas A&M AgriLife Research scientist and professor in the Texas A&M College of Agriculture and Life Sciences Department of Biochemistry and Biophysics and College of Arts and Sciences Department of Chemistry.",
+      "authors": "",
+      "published": "Jul 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-07-tuberculosis-drug-discovery-smarter-ai.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/tuberculosis-drug-disc.jpg",
+      "screen": "right"
+    },
+    {
       "title": "Herbularyo card game blends Filipino folklore and organic chemistry",
       "abstract": "Medicinal plants have long been a cornerstone of Philippine traditional medicine, dating back generations. Tawa-tawa, a low-growing herb that thrives in open grasslands, is a valued supplementary treatment for dengue; the gel of the succulent aloe vera can help soothe a scraped knee; boiled guava leaves help disinfect wounds; tea from yerba buena helps relieve minor aches and pains; and ampalaya helps manage diabetes.",
       "authors": "",
@@ -309,16 +319,6 @@
       "feedName": "Phys.org Analytics",
       "url": "https://phys.org/news/2026-07-secret-hydrogen-quantum-behavior-symmetry.html",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/the-secret-to-hydrogen.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "New imaging method reveals how electric fields reshape ferroelectric materials",
-      "abstract": "New research is shedding light on longstanding debates over the behavior of ferroelectric materials when those materials are exposed to electric fields. The findings stem from the use of a novel technique that allows researchers to observe the real-time behavior of domain walls in ferroelectric materials as they are \"poled\" and \"depoled.\"",
-      "authors": "",
-      "published": "Jul 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-07-imaging-method-reveals-electric-fields.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/new-technique-sheds-li.jpg",
       "screen": "right"
     },
     {

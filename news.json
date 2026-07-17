@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-17T07:54:33Z",
+  "updated": "2026-07-17T09:49:25Z",
   "items": [
     {
       "title": "Sustainable diet shifts among adults in Scotland do not cost more",
@@ -362,6 +362,16 @@
       "screen": "right"
     },
     {
+      "title": "Scientists tested 39 sweeteners and found unexpected gut effects",
+      "abstract": "A large laboratory study found that many commonly used sweeteners can directly change the growth of gut bacteria. Researchers identified more than 100 cases in which sweeteners behaved differently when combined with medications, caffeine, or flavorings. The combination of isosteviol and the antidepressant duloxetine was especially disruptive, reducing beneficial bacteria and overall microbial diversity.",
+      "authors": "",
+      "published": "Jul 2026",
+      "feedName": "ScienceDaily Nutrition",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260716023552.htm",
+      "image": "https://www.sciencedaily.com/images/1920/bacteria-intestinal-microbiome-in-digestive-tract.webp",
+      "screen": "right"
+    },
+    {
       "title": "Eating chili peppers may raise the risk of one deadly cancer",
       "abstract": "A major review found that people who consumed the most chili peppers had a substantially higher risk of esophageal cancer, though the evidence was less clear for stomach and colorectal cancers. Researchers emphasize that the findings show an association, not proof of cause and effect, and that more research is needed to determine whether moderate consumption carries similar risks.",
       "authors": "",
@@ -389,16 +399,6 @@
       "feedName": "ScienceDaily Nutrition",
       "url": "https://www.sciencedaily.com/releases/2026/07/260713000800.htm",
       "image": "https://www.sciencedaily.com/images/1920/woman-reaching-snoozing-cell-phone-alarm-clock.webp",
-      "screen": "right"
-    },
-    {
-      "title": "Why are healthy young non-smokers developing lung cancer?",
-      "abstract": "An unexpected study found that young non-smokers with healthier diets had higher rates of lung cancer, raising questions about whether pesticide exposure from conventionally grown produce could play a role. Researchers stress that the findings are preliminary and require further studies before any conclusions can be drawn.",
-      "authors": "",
-      "published": "Jul 2026",
-      "feedName": "ScienceDaily Nutrition",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260712011758.htm",
-      "image": "https://www.sciencedaily.com/images/1920/lung-cancer-bronchial-carcinoma.webp",
       "screen": "right"
     },
     {

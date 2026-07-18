@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-18T18:49:35Z",
+  "updated": "2026-07-18T20:39:35Z",
   "items": [
     {
       "title": "Sustainable diet shifts among adults in Scotland do not cost more",
@@ -282,6 +282,16 @@
       "screen": "left"
     },
     {
+      "title": "Scientists use relay synthesis to create key building blocks of reserve antibiotic to combat resistance",
+      "abstract": "Chemists from Otto von Guericke University Magdeburg have achieved an important research success in the fight against resistant bacteria. The team led by scientist Professor Dr. Dieter Schinzer from the Institute of Chemistry has succeeded in producing key building blocks of the naturally occurring substance Neosorangicin A in the laboratory for the first time. This means it is now possible to develop Neosorangicin A in a targeted manner as a promising reserve antibiotic candidate to combat antibiotic resistance in the future.",
+      "authors": "",
+      "published": "Jul 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-07-scientists-relay-synthesis-key-blocks.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/research-success-in-th.jpg",
+      "screen": "right"
+    },
+    {
       "title": "Tuberculosis drug discovery gets smarter with AI",
       "abstract": "When researchers screen potential tuberculosis drugs, they often end up with too many options. Some look promising but later prove to be costly dead ends. \"We might get thousands of compounds from a screen and then have to decide which one are we going to work on?\" said James Sacchettini, Ph.D., the Rodger J. Wolfe-Welch Foundation Chair in Science, Texas A&M AgriLife Research scientist and professor in the Texas A&M College of Agriculture and Life Sciences Department of Biochemistry and Biophysics and College of Arts and Sciences Department of Chemistry.",
       "authors": "",
@@ -309,16 +319,6 @@
       "feedName": "Phys.org Analytics",
       "url": "https://phys.org/news/2026-07-bessy-ii-sample-environment-glimpse.html",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/bessy-ii-new-sample-en.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "The secret to hydrogen's quantum behavior lies in symmetry",
-      "abstract": "As interest in clean hydrogen power grows, so does the need for safe storage and transportation materials. One such material, vanadium, is a leading candidate because it readily absorbs hydrogen and allows it to move through its crystal structure. However, hydrogen displays varying behavior in the presence of vanadium, with the underlying cause remaining unclear.",
-      "authors": "",
-      "published": "Jul 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-07-secret-hydrogen-quantum-behavior-symmetry.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/the-secret-to-hydrogen.jpg",
       "screen": "right"
     },
     {

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-20T19:26:51Z",
+  "updated": "2026-07-20T21:02:52Z",
   "items": [
     {
       "title": "Sustainable diet shifts among adults in Scotland do not cost more",
@@ -282,6 +282,16 @@
       "screen": "left"
     },
     {
+      "title": "Light-driven chemistry steers electron transfers beyond redox limits",
+      "abstract": "Chemists use single-electron transfers to synthesize complex, ring-shaped molecular structures found in many drug candidates and advanced materials, but current techniques still have limitations. A new study, accepted for publication in Nature, describes a technique that could steer these chemical reactions in ways that were previously limited by the redox potentials of the involved molecules.",
+      "authors": "",
+      "published": "Jul 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-07-driven-chemistry-electron-redox-limits.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/new-method-incorporate.jpg",
+      "screen": "right"
+    },
+    {
       "title": "AirPods-sized fluorescence analytical device holds promise for timely home molecular testing",
       "abstract": "Advances in medical technology have improved health in part by bringing key aspects of care, once difficult to access, into the home. Tracking symptoms and even screening for certain types of illness outside of a laboratory or clinical setting puts more control into the hands of patients.",
       "authors": "",
@@ -309,16 +319,6 @@
       "feedName": "Phys.org Analytics",
       "url": "https://phys.org/news/2026-07-scientists-relay-synthesis-key-blocks.html",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/research-success-in-th.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "Tuberculosis drug discovery gets smarter with AI",
-      "abstract": "When researchers screen potential tuberculosis drugs, they often end up with too many options. Some look promising but later prove to be costly dead ends. \"We might get thousands of compounds from a screen and then have to decide which one are we going to work on?\" said James Sacchettini, Ph.D., the Rodger J. Wolfe-Welch Foundation Chair in Science, Texas A&M AgriLife Research scientist and professor in the Texas A&M College of Agriculture and Life Sciences Department of Biochemistry and Biophysics and College of Arts and Sciences Department of Chemistry.",
-      "authors": "",
-      "published": "Jul 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-07-tuberculosis-drug-discovery-smarter-ai.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/tuberculosis-drug-disc.jpg",
       "screen": "right"
     },
     {

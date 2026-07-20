@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-20T13:50:33Z",
+  "updated": "2026-07-20T15:46:44Z",
   "items": [
     {
       "title": "Sustainable diet shifts among adults in Scotland do not cost more",
@@ -132,6 +132,16 @@
       "screen": "left"
     },
     {
+      "title": "When local matters: Locavorism beliefs and consumer acceptance of suboptimal produce",
+      "abstract": "",
+      "authors": "Decong Tang, Heliang Huang, Hairong Lai",
+      "published": "Dec 2026",
+      "feedName": "Food Quality & Preference",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0950329326002041?dgcid=rss_sd_all",
+      "image": "",
+      "screen": "left"
+    },
+    {
       "title": "Long-term consumer acceptance of almonds: A one-year randomised controlled trial",
       "abstract": "",
       "authors": "Rachel C. Brown, Lara Ware, Siew Ling Tey et al.",
@@ -148,16 +158,6 @@
       "published": "Dec 2026",
       "feedName": "Food Quality & Preference",
       "url": "https://www.sciencedirect.com/science/article/pii/S0950329326002053?dgcid=rss_sd_all",
-      "image": "",
-      "screen": "left"
-    },
-    {
-      "title": "How to set up a packaging expert panel? The influence of visual and/or tactile modalities on material sensory characterization",
-      "abstract": "",
-      "authors": "Julie Palczak, Sonia Da Silva, Anne-Marie Pense-Lheritier et al.",
-      "published": "Dec 2026",
-      "feedName": "Food Quality & Preference",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0950329326001874?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -402,42 +402,42 @@
       "screen": "right"
     },
     {
-      "title": "LDAR is superior to other albumin-derived indices in predicting 28-day ICU mortality in critically ill patients with intracerebral hemorrhage: a two-cohort study",
-      "abstract": "BackgroundSpontaneous intracerebral hemorrhage (ICH) carries a high risk of poor outcomes, making early identification of high-risk patients crucial for improving prognosis. Albumin-derived composite indices can reflect the systemic inflammatory, nutritional, and metabolic status, but their predictive performance in the ICH population lacks systematic comparison. This study aimed to evaluate the prognostic value of six albumin-derived composite indices for 28-day ICU mortality in critically ill patients with ICH.MethodsThis study included 1,638 adult patients with first-time ICH admission from the MIMIC-IV database as the derivation cohort, and 493 patients with ICH from the People’s Hospital of Xingyi City as the external validation cohort. Clinical data within 24 h of admission were collected. Six indices were calculated: red blood cell distribution width to albumin ratio (RAR), creatinine to albumin ratio (CAR), anion gap to albumin ratio (AGAR), total bilirubin to albumin ratio (TAR), blood urea nitrogen to albumin ratio (UAR), and lactate dehydrogenase to albumin ratio (LDAR, log-transformed for analysis). Cox regression, restricted cubic splines (RCS), and Kaplan–Meier (KM) curves were used to analyze the association between each index and 28-day ICU mortality. Predictive performance was compared using receiver operating characteristic (ROC) curves. The incremental predictive value of log(LDAR) beyond traditional critical care scores was also assessed.ResultsIn the derivation cohort, 295 patients (18.0%) died within 28 days. After multivariable adjustment, log(LDAR) (…",
-      "authors": "Ping Yang, Daizhou Peng, Zhigui Huang et al.",
+      "title": "Factors associated with nutritional status improvement in hospitalized oldest-old adults at nutritional risk",
+      "abstract": "IntroductionMalnutrition is highly prevalent among hospitalized older adults and is associated with adverse clinical outcomes. However, the determinants of nutritional improvement and clinical implications of such improvement in oldest-old hospitalized patients remain insufficiently characterized. This study aimed to identify factors associated with nutritional improvement and to evaluate the relationship between this improvement and clinical outcomes among hospitalized patients aged ≥80 years who were at nutritional risk.MethodsThis multicenter prospective cohort study included hospitalized patients aged ≥ 80 years at nutritional risk (Nutritional Risk Screening 2002 score ≥ 3) from geriatric wards of tertiary hospitals in China. Nutritional status was assessed using the Mini Nutritional Assessment–Short Form (MNA-SF) at admission and at 90-day follow-up. Nutritional improvement was defined as an improvement in MNA-SF category at 90 days. Multivariable logistic regression analyses were performed to identify factors associated with nutritional improvement and to examine the association between nutritional improvement and adverse clinical outcomes, including mortality, readmission, falls, and infection.ResultsAmong 675 patients included in the final analysis (mean age 88.5 ± 4.8 years; 63.7% male), 251 (37.2%) achieved nutritional improvement at 90 days. In multivariable analyses, a higher Charlson Comorbidity Index was associated with a lower likelihood of nutritional improvement (odds ratio [OR] = 0.751, 95% confidence interval [CI]: 0.665–0.849, p < 0.001). Achieving ener…",
+      "authors": "Shan Jiang, Xiling Chen, Lan Ma et al.",
       "published": "Jul 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1844200",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1856364",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Organic and inorganic selenium-enriched Lactobacillus plantarum differentially enhance bacterial antioxidant capacity and support redox homeostasis in intestinal Caco-2 cells through probiotic and postbiotic effects",
-      "abstract": "Selenium (Se)-enriched probiotics represent a valuable strategy for delivering this essential trace element in both human and animal nutrition. This study evaluated the effects of organic and inorganic Se supplementation at low (5 μM) and high (250 μM) concentrations on the bacterial antioxidant capacity of Lactobacillus plantarum (LP), as well as the ability of the resulting probiotics and postbiotics (non-lysed cell-free supernatants, CFS) to modulate redox homeostasis in intestinal Caco-2 cells. Se enrichment did not compromise LP viability and increased glutathione peroxidase (GPx) activity, reduced intracellular reactive oxygen species (ROS) levels, and upregulated gpx expression, particularly under high organic Se supplementation. Organic Se also promoted greater intracellular Se accumulation, whereas inorganic Se remained proportionally higher in the extracellular fraction. In Caco-2 cells, both Se-enriched probiotics and postbiotics upregulated GPX1 expression, with stronger effects observed for whole bacteria than for the CFS. However, no significant changes were observed in GPX enzymatic activity or ROS production in the intestinal cells. In conclusion, the results indicate that Se enrichment modulates Se utilization and antioxidant-related responses in LP, with more pronounced effects observed at higher Se concentrations and under organic Se supplementation. Moreover, both organic and inorganic Se-enriched probiotics and postbiotics modulated GPX1 expression in Caco-2 cells, supporting their potential as functional ingredients for maintaining intestinal redox hom…",
-      "authors": "Adriana García-Vara, Marta Titos-Zamora, Ruth Ferrer et al.",
+      "title": "Rural–urban disparities in child nutrition in Tabora, Tanzania: a socioeconomic decomposition and implications for food security policy",
+      "abstract": "Child malnutrition remains a major barrier to human capital development in sub-Saharan Africa, yet the drivers of rural–urban inequalities remain insufficiently understood. This study examines socioeconomic disparities in child health between rural and urban households in Tabora, Tanzania, using cross-sectional data from 490 households across seven districts. Employing Blinder–Oaxaca decomposition, instrumental variable (IV) estimation, and structural equation modeling (SEM), the study finds a pronounced rural–urban gap in child nutrition, with a Height-for-Age Z-score difference of −0.685, indicating significantly higher stunting prevalence in rural areas. The decomposition results show that approximately 72% of the observed gap is explained by differences in observable characteristics, with household income, nutrition intake, and drinking water practices (boiling water consumption) emerging as the most influential contributors, highlighting the central role of economic constraints and basic infrastructure deficits rather than purely behavioral differences. SEM and IV results further confirm that these factors operate through interconnected pathways affecting both objective nutrition outcomes and perceived health status, while parental education plays a comparatively limited role. Based on these findings, policy interventions should prioritize income-enhancing strategies such as rural livelihood support, targeted cash transfers, and employment programs, alongside large-scale investment in rural water infrastructure, including piped water systems, boreholes, and household w…",
+      "authors": "Felician Andrew Kitole, Temitope Oluwaseun Ojo, Olutosin Ademola Otekunrin et al.",
       "published": "Jul 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1894526",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1800873",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "The impact of ultra-processed foods on social development of adolescent: differences by gender and only child status",
-      "abstract": "BackgroundThis study sought to examine the relationship between the consumption of ultra-processed foods (UPF) and both social skills (SS) and antisocial behavior (ASB) in Chinese adolescents, while also exploring the potential moderating effects of gender and only child status.MethodsA longitudinal study was conducted with 3,206 adolescents (1,510 males, 1,696 females; mean age 13.62 ± 14.09 years). The first wave of data was collected in the autumn of 2021, and the second wave was collected in the autumn of 2022 through follow-up surveys. UPF intake was assessed using the NOVA classification system. SS and ASB, measured using the School Social Behavior Scale (SSBS), were analyzed using fixed-effects models to control for all time-invariant confounders.ResultsSpecific UPF subtypes showed differential effects: processed meat was associated with improved SS across all groups, while instant noodles and Western fast food negatively affected SS and positively predicted ASB. Sugar beverage was significantly associated with higher ASB in girls and non-only children, while no significant effect was observed in boys or only child. Snacks and desserts were positively associated with SS in boys and only child but were negatively linked to SS in girls. Fried foods were associated with greater ASB in only children.ConclusionUPF consumption is significantly associated with SS deficits and increased ASB among Chinese adolescents, with notable variations by UPF subtype, gender, and only child status. These findings highlight the importance of considering family context and gender in dieta…",
-      "authors": "Chenchen Liu, Zhiwen Yang, Yuke Yang et al.",
+      "title": "Joint trajectories of nutritional risk and fluid balance and prognosis in critically ill adults: a dual-trajectory modeling study using MIMIC-IV and eICU",
+      "abstract": "BackgroundNutritional risk and fluid balance evolve rapidly during critical illness, but their joint longitudinal patterns and prognostic relevance remain incompletely characterized. This study identified early joint trajectories of GNRI-derived nutritional risk and fluid balance and evaluated their associations with mortality in critically ill adults.MethodsThis retrospective dual-database study used MIMIC-IV as the development cohort and eICU as an independent reproducibility cohort. Adult ICU patients with an ICU stay >=3 days and at least three paired daily measurements of GNRI-derived nutritional risk and weight-standardized fluid balance during ICU days 1–7 were included. Nutritional risk was defined as 98 minus daily GNRI. Group-based multi-trajectory modeling identified joint phenotypes. Multivariable logistic and Cox regression models evaluated associations with hospital and short-term mortality. Sensitivity analyses included landmark analyses, extended covariate adjustment, proportional-hazards diagnostics, posterior-classification assessment, and incremental prediction evaluation.ResultsThe analysis included 1,243 patients from MIMIC-IV and 9,912 from eICU. Three reproducible joint trajectory phenotypes were identified: persistent moderate-to-high nutritional risk with gradual deresuscitation (Group A), initially severe nutritional risk with high early fluid load and rapid decline (Group B), and worsening nutritional risk with mild-to-moderate deresuscitation (Group C). Group B had the highest crude mortality in both cohorts, with hospital mortality of 40.0% in M…",
+      "authors": "Yang He, Jiali Huang, Xidong Wang et al.",
       "published": "Jul 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1876794",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1881675",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Association between numbing-spicy related dietary behavior and hyperuricemia in a Southwestern Chinese population",
-      "abstract": "BackgroundThe consumption of numbing–spicy foods is highly prevalent in southwestern China. However, existing studies examining the relationship between such dietary patterns and disease risk have primarily focused on spicy food intake, with limited attention given to the “numbing” component. This study therefore aimed to systematically investigate the association between both numbing and spicy food intake and hyperuricemia.MethodsAll data were derived from the China Multi-Ethnic Cohort (CMEC) study in Rongchang district, Chongqing Municipality, a representative area of southwestern China with high prevalence of numbing-spicy food consumption. Information on numbing and spicy food intake were collected using a standardized questionnaire. The associations between numbing/spicy food consumption and hyperuricemia were evaluated using multivariable logistic regression models and restricted cubic spline analyses. Subgroup analyses were further conducted across diverse demographic and clinical characteristics. To assess potential combined relation, both multiplicative and additive interaction analyses were performed. In addition, mediation and sensitivity analyses were undertaken to assess the robustness of the findings.ResultsA total of 2,265 participants aged 30–60 years were included in the analysis. The mean age was 45.21 years (SD = 7.84), and the overall prevalence of hyperuricemia was 13.20%. After adjustment for potential confounding factors, the combined intake of numbing and spicy foods were positively associated with hyperuricemia, with an odds ratio (OR) of 2.689 (95%…",
-      "authors": "Ling Zhang, Huali Xiong, Feiqiang Ren",
+      "title": "Association of omega-3 fatty acids (EPA, DHA, DPA) and vitamin D with mortality and morbidity outcomes in COVID-19 patients: the COMED study",
+      "abstract": "Background and aimsLong-chain omega-3 fatty acids (FAs) and vitamin D (VitD) are implicated in the modulation of immune responses and inflammatory processes within the body. The COMED study evaluated levels of DHA, EPA and DPA (expressed as a modified omega-3 index, mO3I, defined as the percentage of these FAs relative to total FAs in whole blood) and VitD in patients with COVID-19 in relation to mortality and severe disease, as well as additional morbidity-related outcomes, including probability of hospitalisation and length of hospital stay (LOS).MethodsA total of 160 patients were enrolled, of whom 28 died during follow-up. Associations between mO3I and VitD levels and clinical outcomes were analysed using logistic and linear regression models adjusted for age, sex, BMI, smoking, diabetes mellitus, and hypertension.ResultsHigher mO3I levels (Q4 ≥ 6.39%) were associated with lower odds of death (OR = 0.24, 95% CI: 0.05–0.87) and lower probability of hospitalisation (OR = 0.28, 95% CI: 0.09–0.91) compared with lower mO3I levels (Q1–Q3). Higher VitD levels (Q4 ≥ 71.9 nmol/L) were associated with a shorter LOS by 2.19 days compared with Q1–Q3, while higher levels (Q2–Q4 > 36.7 nmol/L) shortened LOS by 2.96 days compared with Q1. Age was the strongest predictor of mortality, severe disease, and LOS; BMI increased the probability of severe disease; smoking prolonged LOS.ConclusionHigher mO3I levels were associated with lower odds of death, with similar trends observed for hospitalisation, whereas higher VitD levels were associated with a shorter LOS. Nutritional biomarkers and…",
+      "authors": "Svatava Bischofová, Zuzana Měřínská, Miroslava Beňovská et al.",
       "published": "Jul 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1795146",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1892752",
       "image": "",
       "screen": "right"
     },

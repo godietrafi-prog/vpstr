@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-21T20:59:37Z",
+  "updated": "2026-07-21T22:47:19Z",
   "items": [
     {
       "title": "Food systems literacy in Indigenous health and nutrition",
@@ -282,6 +282,16 @@
       "screen": "left"
     },
     {
+      "title": "Open-source AI predicts key peptide traits before costly lab testing",
+      "abstract": "Penn Engineers have developed PeptiVerse, an AI-powered platform that predicts key chemical and biological properties of peptides, strings of amino acids whose medical potential has been demonstrated by the success of GLP-1 drugs, widely used weight-loss treatments.",
+      "authors": "",
+      "published": "Jul 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-07-source-ai-key-peptide-traits.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/ai-platform-could-spee.jpg",
+      "screen": "right"
+    },
+    {
       "title": "Novel antibiotic candidates starve resistant bacteria by blocking vitamin supply",
       "abstract": "Bacteria have spent decades evolving resistance to virtually every antibiotic we have thrown at them. To stay ahead, new drugs must hit targets that existing antibiotics have never touched. A research team at the Helmholtz Institute for Pharmaceutical Research Saarland (HIPS) has now developed a series of synthetic drug candidates that do exactly that: By blocking an essential molecular supply system, these molecules cut off the bacteria's supply of essential vitamins and starve them to death. The team published its findings in two studies in the Journal of Medicinal Chemistry.",
       "authors": "",
@@ -309,16 +319,6 @@
       "feedName": "Phys.org Analytics",
       "url": "https://phys.org/news/2026-07-vapor-supramolecules-phase.html",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/chemists-control-supra.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "Transforming vibrations into clean fuels and chemicals through piezosynthesis",
-      "abstract": "From ocean waves and flowing rivers to the systems used to transport and treat water, vibrations are everywhere. But can vibrations do more than just shake water? Can they split water or drive the production of useful chemicals from water? A research team led by Professor Sai Kishore Ravi from the School of Energy and Environment (SEE) at City University of Hong Kong (CityUHK) has successfully demonstrated how mechanical vibrations can be harnessed to drive the production of useful chemicals from water.",
-      "authors": "",
-      "published": "Jul 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-07-vibrations-fuels-chemicals-piezosynthesis.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/cityuhk-researchers-tr.jpg",
       "screen": "right"
     },
     {

@@ -1,6 +1,16 @@
 {
-  "updated": "2026-07-21T17:07:59Z",
+  "updated": "2026-07-21T19:08:24Z",
   "items": [
+    {
+      "title": "Food systems literacy in Indigenous health and nutrition",
+      "abstract": "Indigenous and traditional knowledge can help to address climate, biodiversity and nutrition challenges, yet medicalized top-down approaches prevail. This systematic review explores how food systems literacy through culturally grounded, participatory work with local communities can support more sustainable, equitable and healthy food systems.",
+      "authors": "Nitya Rao, Hélène Binesse, Aswathy Vinod",
+      "published": "Jul 2026",
+      "feedName": "Nature Food",
+      "url": "https://www.nature.com/articles/s43016-026-01392-3",
+      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs43016-026-01392-3/MediaObjects/43016_2026_1392_Fig1_HTML.png",
+      "screen": "left"
+    },
     {
       "title": "Sustainable diet shifts among adults in Scotland do not cost more",
       "abstract": "Reducing consumption of meat and dairy foods is essential for the long-term sustainability of the UK food system. A study quantifying the impact on environmental footprints, nutrient intake, health and cost when meat and dairy are reduced or replaced in the diets of adults in Scotland shows that these dietary changes incur no extra cost for most replacements.",
@@ -29,16 +39,6 @@
       "feedName": "Nature Food",
       "url": "https://www.nature.com/articles/s43016-026-01399-w",
       "image": "",
-      "screen": "left"
-    },
-    {
-      "title": "The hidden biodiversity cost of oil crops",
-      "abstract": "Oil crops underpin diets, livestock production and a growing bio-based economy. A supply-chain analysis shows that their biodiversity impacts are shaped not only by how much land is cultivated, but also by where production occurs — and which consumers ultimately drive demand.",
-      "authors": "Sitong Wang",
-      "published": "Jul 2026",
-      "feedName": "Nature Food",
-      "url": "https://www.nature.com/articles/s43016-026-01395-0",
-      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs43016-026-01395-0/MediaObjects/43016_2026_1395_Fig1_HTML.png",
       "screen": "left"
     },
     {
@@ -282,6 +282,16 @@
       "screen": "left"
     },
     {
+      "title": "Vapor-controlled supramolecules can switch color, glow and phase",
+      "abstract": "Controlling interactions between molecules and their functions from the molecular level to the macroscopic scale is challenging in supramolecular and materials chemistry. To this end, a research team led by associate professor Yosuke Tani from WPI-ITbM at Nagoya University and Keisuke Wada from Kyoto University designed a vapor-controlled, reversible host–guest chemistry system that controls the optical and physical properties of a functional molecular liquid (FML)—nonvolatile fluids that can feature optical, electronic and catalytic properties.",
+      "authors": "",
+      "published": "Jul 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-07-vapor-supramolecules-phase.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/chemists-control-supra.jpg",
+      "screen": "right"
+    },
+    {
       "title": "Transforming vibrations into clean fuels and chemicals through piezosynthesis",
       "abstract": "From ocean waves and flowing rivers to the systems used to transport and treat water, vibrations are everywhere. But can vibrations do more than just shake water? Can they split water or drive the production of useful chemicals from water? A research team led by Professor Sai Kishore Ravi from the School of Energy and Environment (SEE) at City University of Hong Kong (CityUHK) has successfully demonstrated how mechanical vibrations can be harnessed to drive the production of useful chemicals from water.",
       "authors": "",
@@ -309,16 +319,6 @@
       "feedName": "Phys.org Analytics",
       "url": "https://phys.org/news/2026-07-airpods-sized-fluorescence-analytical-device.html",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/airpods-sized-fluoresc.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "Students create chemical safety model for everyday exposures",
-      "abstract": "In just one course, Georgia Tech student Diya Godavarti helped develop a tool that could improve workers' responses to chemical spills or open containers. Godavarti, then a second-year chemical and biomolecular engineering (ChBE) student, joined a course on chemical equity focused on reducing chemical exposure in vulnerable communities. The class, part of Georgia Tech's Vertically Integrated Projects (VIP) program, embeds students in long-term research teams that span disciplines and semesters.",
-      "authors": "",
-      "published": "Jul 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-07-students-chemical-safety-everyday-exposures.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/students-create-chemic.jpg",
       "screen": "right"
     },
     {

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-21T01:49:51Z",
+  "updated": "2026-07-21T05:12:50Z",
   "items": [
     {
       "title": "Sustainable diet shifts among adults in Scotland do not cost more",
@@ -402,42 +402,42 @@
       "screen": "right"
     },
     {
-      "title": "Factors associated with nutritional status improvement in hospitalized oldest-old adults at nutritional risk",
-      "abstract": "IntroductionMalnutrition is highly prevalent among hospitalized older adults and is associated with adverse clinical outcomes. However, the determinants of nutritional improvement and clinical implications of such improvement in oldest-old hospitalized patients remain insufficiently characterized. This study aimed to identify factors associated with nutritional improvement and to evaluate the relationship between this improvement and clinical outcomes among hospitalized patients aged ≥80 years who were at nutritional risk.MethodsThis multicenter prospective cohort study included hospitalized patients aged ≥ 80 years at nutritional risk (Nutritional Risk Screening 2002 score ≥ 3) from geriatric wards of tertiary hospitals in China. Nutritional status was assessed using the Mini Nutritional Assessment–Short Form (MNA-SF) at admission and at 90-day follow-up. Nutritional improvement was defined as an improvement in MNA-SF category at 90 days. Multivariable logistic regression analyses were performed to identify factors associated with nutritional improvement and to examine the association between nutritional improvement and adverse clinical outcomes, including mortality, readmission, falls, and infection.ResultsAmong 675 patients included in the final analysis (mean age 88.5 ± 4.8 years; 63.7% male), 251 (37.2%) achieved nutritional improvement at 90 days. In multivariable analyses, a higher Charlson Comorbidity Index was associated with a lower likelihood of nutritional improvement (odds ratio [OR] = 0.751, 95% confidence interval [CI]: 0.665–0.849, p < 0.001). Achieving ener…",
-      "authors": "Shan Jiang, Xiling Chen, Lan Ma et al.",
+      "title": "Editorial: Novel trends in cultivated or cultured meat research, volume II",
+      "abstract": "",
+      "authors": "Marie-Pierre Ellies Oury, Jean-François Hocquette, Sishir K. Kamalapuram",
       "published": "Jul 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1856364",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1899562",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Rural–urban disparities in child nutrition in Tabora, Tanzania: a socioeconomic decomposition and implications for food security policy",
-      "abstract": "Child malnutrition remains a major barrier to human capital development in sub-Saharan Africa, yet the drivers of rural–urban inequalities remain insufficiently understood. This study examines socioeconomic disparities in child health between rural and urban households in Tabora, Tanzania, using cross-sectional data from 490 households across seven districts. Employing Blinder–Oaxaca decomposition, instrumental variable (IV) estimation, and structural equation modeling (SEM), the study finds a pronounced rural–urban gap in child nutrition, with a Height-for-Age Z-score difference of −0.685, indicating significantly higher stunting prevalence in rural areas. The decomposition results show that approximately 72% of the observed gap is explained by differences in observable characteristics, with household income, nutrition intake, and drinking water practices (boiling water consumption) emerging as the most influential contributors, highlighting the central role of economic constraints and basic infrastructure deficits rather than purely behavioral differences. SEM and IV results further confirm that these factors operate through interconnected pathways affecting both objective nutrition outcomes and perceived health status, while parental education plays a comparatively limited role. Based on these findings, policy interventions should prioritize income-enhancing strategies such as rural livelihood support, targeted cash transfers, and employment programs, alongside large-scale investment in rural water infrastructure, including piped water systems, boreholes, and household w…",
-      "authors": "Felician Andrew Kitole, Temitope Oluwaseun Ojo, Olutosin Ademola Otekunrin et al.",
+      "title": "Adherence to dehydrated bovine blood consumption and improvement in hemoglobin levels in children aged 6 to 35 months, San Juan de Lurigancho-Peru",
+      "abstract": "PurposeThis study aimed to evaluate adherence to the consumption of dehydrated bovine blood through the increase in hemoglobin in children aged 6 to 35 months.Patients and methodsAn intervention study was conducted on 2,221 children from 33 health facilities in the district of San Juan de Lurigancho, Peru, where the initial hemoglobin level was measured and according to the diagnosis they were divided into two groups (with anemia and without anemia), of which an educational session on topics related to anemia prevention was developed monthly, a jar of dehydrated bovine blood was delivered, and hemoglobin monitoring was conducted for 3 months.ResultsA total of 2,221 children aged 6 to 35 months were included in the analysis, after excluding two cases of severe anemia. The sample was pre-dominantly composed of children aged 12–23 months (50.4%), with a slight pre-dominance of males (54.0%). Hemoglobin levels increased progressively and significantly throughout the intervention. Mean hemoglobin rose from 10.667 ± 0.673 g/dl at baseline to 11.501 ± 0.716 g/dl at month 3, representing a mean increment of + 0.834 g/dl. The Friedman test confirmed that differences across the four time points were statistically significant (χ2 = 2,299.50, df = 3, p < 0.001), and Wilcoxon post-hoc comparisons revealed significant increases at each monthly interval (all p < 0.001).ConclusionThere was a high level of significance in iron adherence in children with moderate anemia.",
+      "authors": "Rosa Elena Cruz Maldonado, Mauricio-Alza Saby Marisol, Joe Fernando Gerónimo Huete et al.",
       "published": "Jul 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1800873",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1880873",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Joint trajectories of nutritional risk and fluid balance and prognosis in critically ill adults: a dual-trajectory modeling study using MIMIC-IV and eICU",
-      "abstract": "BackgroundNutritional risk and fluid balance evolve rapidly during critical illness, but their joint longitudinal patterns and prognostic relevance remain incompletely characterized. This study identified early joint trajectories of GNRI-derived nutritional risk and fluid balance and evaluated their associations with mortality in critically ill adults.MethodsThis retrospective dual-database study used MIMIC-IV as the development cohort and eICU as an independent reproducibility cohort. Adult ICU patients with an ICU stay >=3 days and at least three paired daily measurements of GNRI-derived nutritional risk and weight-standardized fluid balance during ICU days 1–7 were included. Nutritional risk was defined as 98 minus daily GNRI. Group-based multi-trajectory modeling identified joint phenotypes. Multivariable logistic and Cox regression models evaluated associations with hospital and short-term mortality. Sensitivity analyses included landmark analyses, extended covariate adjustment, proportional-hazards diagnostics, posterior-classification assessment, and incremental prediction evaluation.ResultsThe analysis included 1,243 patients from MIMIC-IV and 9,912 from eICU. Three reproducible joint trajectory phenotypes were identified: persistent moderate-to-high nutritional risk with gradual deresuscitation (Group A), initially severe nutritional risk with high early fluid load and rapid decline (Group B), and worsening nutritional risk with mild-to-moderate deresuscitation (Group C). Group B had the highest crude mortality in both cohorts, with hospital mortality of 40.0% in M…",
-      "authors": "Yang He, Jiali Huang, Xidong Wang et al.",
+      "title": "Highly informed, yet undersupported: dietary supplement use, information sources, and perceived risks among pregnant vegans in German-speaking regions—findings from the VedieS study",
+      "abstract": "BackgroundVegan diets during pregnancy are commonly discussed regarding nutritional risks, often without differentiating between heterogeneous vegan populations. Empirical evidence on clearly defined subgroups who maintain a vegan diet throughout pregnancy remains scarce.ObjectivesThis study characterized a highly selected subgroup of pregnant women adhering to a vegan diet, focusing on supplement use, information sources, counseling experiences, and perceived risks of micronutrient deficiency and overdosing.MethodsAn explorative, cross-sectional online survey was conducted as part of the Vegan Diet and Dietary Supplements Study (VedieS). The questionnaire was developed from a scientific literature review, pilot-tested, and distributed via vegan, nutrition-related, and health-focused organizations and social media across German-speaking regions. Individuals adhering to a vegan diet (defined as a strictly plant-based diet excluding all animal-derived products) participated. The analysis was restricted to those reporting a vegan diet during at least one pregnancy. Supplement use, information seeking, and counseling adequacy were analyzed descriptively.ResultsIn total, 801 individuals participated. Participants were highly educated and predominantly from urban areas (76.3% tertiary education; 79.6% urban). Adherence during pregnancy was largely consistent (90.5%), and supplement use was nearly universal (99.1%) with high compliance (79.1%), targeting micronutrients critical in vegan pregnancies, including vitamin B12 (77.8%), omega-3 fatty acids (76.9%), folic acid (73.8%), an…",
+      "authors": "Wolfgang Huber-Schneider, Karl-Heinz Wagner, Ingrid Kiefer",
       "published": "Jul 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1881675",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1866907",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Association of omega-3 fatty acids (EPA, DHA, DPA) and vitamin D with mortality and morbidity outcomes in COVID-19 patients: the COMED study",
-      "abstract": "Background and aimsLong-chain omega-3 fatty acids (FAs) and vitamin D (VitD) are implicated in the modulation of immune responses and inflammatory processes within the body. The COMED study evaluated levels of DHA, EPA and DPA (expressed as a modified omega-3 index, mO3I, defined as the percentage of these FAs relative to total FAs in whole blood) and VitD in patients with COVID-19 in relation to mortality and severe disease, as well as additional morbidity-related outcomes, including probability of hospitalisation and length of hospital stay (LOS).MethodsA total of 160 patients were enrolled, of whom 28 died during follow-up. Associations between mO3I and VitD levels and clinical outcomes were analysed using logistic and linear regression models adjusted for age, sex, BMI, smoking, diabetes mellitus, and hypertension.ResultsHigher mO3I levels (Q4 ≥ 6.39%) were associated with lower odds of death (OR = 0.24, 95% CI: 0.05–0.87) and lower probability of hospitalisation (OR = 0.28, 95% CI: 0.09–0.91) compared with lower mO3I levels (Q1–Q3). Higher VitD levels (Q4 ≥ 71.9 nmol/L) were associated with a shorter LOS by 2.19 days compared with Q1–Q3, while higher levels (Q2–Q4 > 36.7 nmol/L) shortened LOS by 2.96 days compared with Q1. Age was the strongest predictor of mortality, severe disease, and LOS; BMI increased the probability of severe disease; smoking prolonged LOS.ConclusionHigher mO3I levels were associated with lower odds of death, with similar trends observed for hospitalisation, whereas higher VitD levels were associated with a shorter LOS. Nutritional biomarkers and…",
-      "authors": "Svatava Bischofová, Zuzana Měřínská, Miroslava Beňovská et al.",
+      "title": "Editorial: Nutritional indicators and implications for human health, volume II",
+      "abstract": "",
+      "authors": "Virginia Maria Muniz, Abraham Wall-Medrano, Fabiano Kenji Haraguchi et al.",
       "published": "Jul 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1892752",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1931290",
       "image": "",
       "screen": "right"
     },

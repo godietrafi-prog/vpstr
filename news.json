@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-21T05:12:50Z",
+  "updated": "2026-07-21T08:10:42Z",
   "items": [
     {
       "title": "Sustainable diet shifts among adults in Scotland do not cost more",
@@ -202,6 +202,16 @@
       "screen": "left"
     },
     {
+      "title": "Physicochemical and sensory quality of poultry slaughter byproduct-enriched sticks during ambient storage (25 ± 2 °C) under different packaging conditions",
+      "abstract": "IntroductionThe present study was undertaken to assess the quality of sticks incorporated with poultry slaughter byproducts under aerobic and vacuum packaging conditions at ambient temperature.MethodsSticks, Control (C), T1 (6% chicken liver paste), T2 (4.5% chicken heart paste), and T3 (3% chicken heart paste +3% chicken liver paste) were stored at ambient temperature (25 °C ± 2 °C) for 90 days under aerobic and vacuum packaging conditions.Results and DiscussionThe pH increased in all formulations during storage. Thiobarbituric acid reactive substances (TBARS) values increased progressively and significantly (p < 0.05) at each storage interval, indicating lipid oxidation. Similarly, under both packaging conditions, free fatty acid (FFA) content and peroxide value (PV) increased significantly (p < 0.05) across all samples during storage. Sensory attributes, including appearance, flavour, tenderness, juiciness, and overall acceptability, declined gradually across all samples; however, the scores remained within acceptable limits at the end of the storage period. The lipid oxidation parameters were lower in vacuum-packaged products than in aerobically packaged products. The better sensory attributes were maintained in vacuum packaging conditions as compared to aerobic packaging conditions.",
+      "authors": "K. Abhinandh, Pavan Kumar, Nitin Mehta et al.",
+      "published": "Jul 2026",
+      "feedName": "Frontiers Food Science",
+      "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.1847935",
+      "image": "",
+      "screen": "left"
+    },
+    {
       "title": "Structural and survival analysis of Lactobacillus rhamnosus added to edible films",
       "abstract": "IntroductionProbiotic edible films represent a promising strategy for developing functional food packaging that combines food preservation with the delivery of beneficial microorganisms. Carboxymethylcellulose (CMC) is commonly incorporated into starch-based films to improve flexibility; however, its effect on the survival of entrapped probiotics remains poorly understood. This study evaluated the mechanical, structural, and survival characteristics of starch-based edible films containing different proportions of CMC and Lactobacillus rhamnosus.MethodsThree formulations were prepared: starch, starch/CMC (60:40), and starch/CMC (50:50), with and without L. rhamnosus. Mechanical properties, color, microstructure, and probiotic survival were evaluated during storage at 5 °C and 22 °C for 24 days.ResultsStarch films exhibited greater thickness, puncture force, and tensile strength, whereas CMC-containing films showed higher elongation values. The incorporation of L. rhamnosus increased film thickness and reduced puncture force, tensile strength, and elongation in all formulations. Atomic force microscopy revealed a more homogeneous distribution of bacterial cells in starch films, while CMC-containing films exhibited rougher surfaces and greater pore formation. Starch films stored at 5 °C showed the highest probiotic stability during storage, whereas CMC-containing films exhibited reductions of approximately 2 log CFU/g after 24 days.DiscussionThese findings indicate that increasing the CMC fraction improves film flexibility but may compromise the survival of L. rhamnosus during…",
       "authors": "Teresa Soledad Cid-Pérez, Julio César Pérez-Pérez, Ricardo Munguía-Pérez et al.",
@@ -228,16 +238,6 @@
       "published": "Jul 2026",
       "feedName": "Frontiers Food Science",
       "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.1838185",
-      "image": "",
-      "screen": "left"
-    },
-    {
-      "title": "Data report: batangas liberica coffee bean morphology image dataset with derived morphometrics (BaLiCoM)",
-      "abstract": "This Data Report describes the Batangas Liberica Coffee Bean Morphology Image Dataset with Derived Morphometrics (BaLiCoM), a fixed and versioned dataset of individual Liberica coffee beans from Batangas Province, Philippines. The Zenodo v1 archive contains 4,000 raw single-bean images, 4,000 standardized 256 × 256 images, 4,000 segmentation masks, 4,000 morphometric records, and 4,000 metadata records linked through stable image identifiers. Beans were manually harvested from eight balanced farm/location groups in Rosario, San Juan, Padre Garcia, Taysan, Malvar, Sto. Tomas City, Lipa City, and Nasugbu between June 7 and 20 December 2025. Images were acquired under controlled white-background and diffuse-light conditions to support reproducible foreground segmentation and two-dimensional shape measurement. The archive combines visual records, processed masks, and tabular descriptors, including pixel-based area, perimeter, eccentricity, solidity, and centroid coordinates. The dataset is intended for controlled-background segmentation benchmarking, descriptive morphometric workflows, and the development of reproducible quality-control methods. Because the archive does not document a physical calibration target, area and perimeter are reported as pixel-based variables and should not be interpreted as direct physical dimensions.",
-      "authors": "Francis Balazon, Dioneces Alimoren, Jonnah Melo et al.",
-      "published": "Jul 2026",
-      "feedName": "Frontiers Food Science",
-      "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.1833242",
       "image": "",
       "screen": "left"
     },
@@ -412,32 +412,32 @@
       "screen": "right"
     },
     {
-      "title": "Adherence to dehydrated bovine blood consumption and improvement in hemoglobin levels in children aged 6 to 35 months, San Juan de Lurigancho-Peru",
-      "abstract": "PurposeThis study aimed to evaluate adherence to the consumption of dehydrated bovine blood through the increase in hemoglobin in children aged 6 to 35 months.Patients and methodsAn intervention study was conducted on 2,221 children from 33 health facilities in the district of San Juan de Lurigancho, Peru, where the initial hemoglobin level was measured and according to the diagnosis they were divided into two groups (with anemia and without anemia), of which an educational session on topics related to anemia prevention was developed monthly, a jar of dehydrated bovine blood was delivered, and hemoglobin monitoring was conducted for 3 months.ResultsA total of 2,221 children aged 6 to 35 months were included in the analysis, after excluding two cases of severe anemia. The sample was pre-dominantly composed of children aged 12–23 months (50.4%), with a slight pre-dominance of males (54.0%). Hemoglobin levels increased progressively and significantly throughout the intervention. Mean hemoglobin rose from 10.667 ± 0.673 g/dl at baseline to 11.501 ± 0.716 g/dl at month 3, representing a mean increment of + 0.834 g/dl. The Friedman test confirmed that differences across the four time points were statistically significant (χ2 = 2,299.50, df = 3, p < 0.001), and Wilcoxon post-hoc comparisons revealed significant increases at each monthly interval (all p < 0.001).ConclusionThere was a high level of significance in iron adherence in children with moderate anemia.",
-      "authors": "Rosa Elena Cruz Maldonado, Mauricio-Alza Saby Marisol, Joe Fernando Gerónimo Huete et al.",
-      "published": "Jul 2026",
-      "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1880873",
-      "image": "",
-      "screen": "right"
-    },
-    {
-      "title": "Highly informed, yet undersupported: dietary supplement use, information sources, and perceived risks among pregnant vegans in German-speaking regions—findings from the VedieS study",
-      "abstract": "BackgroundVegan diets during pregnancy are commonly discussed regarding nutritional risks, often without differentiating between heterogeneous vegan populations. Empirical evidence on clearly defined subgroups who maintain a vegan diet throughout pregnancy remains scarce.ObjectivesThis study characterized a highly selected subgroup of pregnant women adhering to a vegan diet, focusing on supplement use, information sources, counseling experiences, and perceived risks of micronutrient deficiency and overdosing.MethodsAn explorative, cross-sectional online survey was conducted as part of the Vegan Diet and Dietary Supplements Study (VedieS). The questionnaire was developed from a scientific literature review, pilot-tested, and distributed via vegan, nutrition-related, and health-focused organizations and social media across German-speaking regions. Individuals adhering to a vegan diet (defined as a strictly plant-based diet excluding all animal-derived products) participated. The analysis was restricted to those reporting a vegan diet during at least one pregnancy. Supplement use, information seeking, and counseling adequacy were analyzed descriptively.ResultsIn total, 801 individuals participated. Participants were highly educated and predominantly from urban areas (76.3% tertiary education; 79.6% urban). Adherence during pregnancy was largely consistent (90.5%), and supplement use was nearly universal (99.1%) with high compliance (79.1%), targeting micronutrients critical in vegan pregnancies, including vitamin B12 (77.8%), omega-3 fatty acids (76.9%), folic acid (73.8%), an…",
-      "authors": "Wolfgang Huber-Schneider, Karl-Heinz Wagner, Ingrid Kiefer",
-      "published": "Jul 2026",
-      "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1866907",
-      "image": "",
-      "screen": "right"
-    },
-    {
-      "title": "Editorial: Nutritional indicators and implications for human health, volume II",
+      "title": "Editorial: Bridging knowledge to action in vitamin D supplementation",
       "abstract": "",
-      "authors": "Virginia Maria Muniz, Abraham Wall-Medrano, Fabiano Kenji Haraguchi et al.",
+      "authors": "Manuela Chiavarini, Irene Giacchetta, Roberto Fabiani",
       "published": "Jul 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1931290",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1915845",
+      "image": "",
+      "screen": "right"
+    },
+    {
+      "title": "Associations between early childhood appetitive traits and dietary diversity in school-age children: a two-year longitudinal follow-up study",
+      "abstract": "BackgroundDietary diversity reflects diet quality and is critical for children’s growth and long-term health. Appetitive traits affect dietary habits and long-term food choices. However, few studies have explored the associations between early childhood appetitive traits and dietary diversity in school-age children using standardized and validated tools.MethodsWe recruited 208 kindergarten children aged 5–6 years, with 194 completing the two-year longitudinal follow-up. Appetitive traits were evaluated at age 5–6 using the Child Eating Behavior Questionnaire (CEBQ). Dietary diversity was assessed 2 years later via the Dietary Diversity Score (DDS). Binary logistic regressions were carried out to assess the associations between early childhood appetitive traits and dietary diversity. Inverse probability weighting (IPW) was conducted in complete cases to test the robustness of the main results.ResultsHigher food fussiness at 5–6 years was significantly associated with a lower likelihood of high DDS 2 years later (OR = 0.521, 95% CI: 0.327–0.830). No significant sex interactions were observed for these associations.ConclusionFood fussiness at 5–6 years was associated with dietary diversity in school-age children. These findings underscore the relevance of early appetitive traits to dietary diversity and provide evidence-based insights for promoting children’s nutrition.",
+      "authors": "Yuhong Mu, Duhan Bu, Xiaowen Xu et al.",
+      "published": "Jul 2026",
+      "feedName": "Frontiers Nutrition",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1824771",
+      "image": "",
+      "screen": "right"
+    },
+    {
+      "title": "Linking diet and obesity among young people living in Sub-Saharan Africa: a systematic review",
+      "abstract": "Background/objectivesObesity has been increasing even among young people in developing countries, with unhealthy diets widely recognized as a major contributor to the rising risk of obesity and other non-communicable diseases (NCDs). This review aimed to assess the relationship between diet-related practices and obesity amongst young people in Sub-Saharan Africa.MethodsA review protocol was developed a priori and registered with PROSPERO (CRD42023451525). This study followed PRISMA guidelines to search and select studies based on pre-defined eligibility criteria from African Journals Online, PubMed, and Google Scholar databases. Out of 2,809 screened citations, data were extracted from 19 eligible peer-reviewed studies published in English between 2000 and 2024. These studies focused on children and adolescents aged 3–19 years and examined the association between dietary habits or practices and elevated anthropometric status.ResultsResults showed that the selected studies were cross-sectional in design, typically conducted among fewer than 500 children from Nigeria (31.6%), Ghana (15.8%), and South Africa (15.8%). Food frequency questionnaires, 24-h recall instruments, the WHO growth reference, and Waist-Hip assessment dominated dietary pattern/intake and anthropometric methods. Negative dietary patterns/habits characterized by meal skipping and irregular meal patterns, discretionary food and beverage consumption, less-varied diets, and unhealthy urban/school food environments were significant (p < 0.05) predictors of obesity.ConclusionDietary intake was significantly assoc…",
+      "authors": "Chidiogo R. Ajuluchukwu, Favour C. Ogu, Kosisochukwu C. Igbokwe et al.",
+      "published": "Jul 2026",
+      "feedName": "Frontiers Nutrition",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1859486",
       "image": "",
       "screen": "right"
     },

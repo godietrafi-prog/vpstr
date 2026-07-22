@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-22T20:56:49Z",
+  "updated": "2026-07-22T22:54:50Z",
   "items": [
     {
       "title": "Dietary footprints across populations",
@@ -282,6 +282,16 @@
       "screen": "left"
     },
     {
+      "title": "Light-driven chemistry method could create antiviral compound libraries 10 to 100 times larger within weeks",
+      "abstract": "As the world faces new and often untreatable viral threats, Simon Fraser University researchers have found a way to cut years off the time it takes to discover antiviral drugs. The new research enables scientists to quickly create large libraries of nucleoside analogs (NAs), compounds that mimic the building blocks of DNA and RNA and are widely used to treat cancer and viral infections such as HIV and hepatitis.",
+      "authors": "",
+      "published": "Jul 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-07-driven-chemistry-method-antiviral-compound.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/chemists-supercharge-a.jpg",
+      "screen": "right"
+    },
+    {
       "title": "AI and quantum chemistry combine to identify efficient blue OLED materials",
       "abstract": "Organic light-emitting diodes (OLEDs) have become a standard in modern devices with incredible contrast and sleek designs. While initially an expensive luxury, OLEDs are gradually becoming more financially accessible as the technology improves. Now, researchers at the Institute of Transformative Bio-Molecules (WPI-ITbM) at Nagoya University and the Institute for Advanced Study at Kyushu University have combined quantum chemistry with machine learning to identify new materials for blue OLEDs for incorporation in next-generation ultra-high-definition displays. Their research was published in Angewandte Chemie on July 21, 2026.",
       "authors": "",
@@ -309,16 +319,6 @@
       "feedName": "Phys.org Analytics",
       "url": "https://phys.org/news/2026-07-chemists-molecular-platform-oxygen-reaction.html",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/kaist-develops-a-molec.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "Open-source AI predicts key peptide traits before costly lab testing",
-      "abstract": "Penn Engineers have developed PeptiVerse, an AI-powered platform that predicts key chemical and biological properties of peptides, strings of amino acids whose medical potential has been demonstrated by the success of GLP-1 drugs, widely used weight-loss treatments.",
-      "authors": "",
-      "published": "Jul 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-07-source-ai-key-peptide-traits.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/ai-platform-could-spee.jpg",
       "screen": "right"
     },
     {

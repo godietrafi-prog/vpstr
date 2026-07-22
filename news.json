@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-22T17:08:39Z",
+  "updated": "2026-07-22T18:59:43Z",
   "items": [
     {
       "title": "Cropland deterioration widens yield gaps",
@@ -282,6 +282,16 @@
       "screen": "left"
     },
     {
+      "title": "Chemists develop a molecular platform for the selective control of oxygen reaction pathways",
+      "abstract": "Controlling how oxygen reacts is important for improving technologies such as batteries, fuel cells and environmentally sustainable chemical processes. A research team led by professor Seung Jun Hwang from KAIST's Department of Chemistry has developed a molecular system capable of directing oxygen activation along a selected electron-transfer pathway.",
+      "authors": "",
+      "published": "Jul 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-07-chemists-molecular-platform-oxygen-reaction.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/kaist-develops-a-molec.jpg",
+      "screen": "right"
+    },
+    {
       "title": "Open-source AI predicts key peptide traits before costly lab testing",
       "abstract": "Penn Engineers have developed PeptiVerse, an AI-powered platform that predicts key chemical and biological properties of peptides, strings of amino acids whose medical potential has been demonstrated by the success of GLP-1 drugs, widely used weight-loss treatments.",
       "authors": "",
@@ -309,16 +319,6 @@
       "feedName": "Phys.org Analytics",
       "url": "https://phys.org/news/2026-07-atomic-channels-rare-earth-elements.html",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/a-cleaner-route-to-pur.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "Vapor-controlled supramolecules can switch color, glow and phase",
-      "abstract": "Controlling interactions between molecules and their functions from the molecular level to the macroscopic scale is challenging in supramolecular and materials chemistry. To this end, a research team led by associate professor Yosuke Tani from WPI-ITbM at Nagoya University and Keisuke Wada from Kyoto University designed a vapor-controlled, reversible host–guest chemistry system that controls the optical and physical properties of a functional molecular liquid (FML)—nonvolatile fluids that can feature optical, electronic and catalytic properties.",
-      "authors": "",
-      "published": "Jul 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-07-vapor-supramolecules-phase.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/chemists-control-supra.jpg",
       "screen": "right"
     },
     {

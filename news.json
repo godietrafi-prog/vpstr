@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-22T05:02:45Z",
+  "updated": "2026-07-22T08:10:23Z",
   "items": [
     {
       "title": "Food systems literacy in Indigenous health and nutrition",
@@ -402,22 +402,12 @@
       "screen": "right"
     },
     {
-      "title": "Risk stratification of composite adverse outcomes after percutaneous nephrolithotomy based on preoperative inflammatory–nutritional status and stone complexity: a single-center retrospective study",
-      "abstract": "ObjectiveTo investigate the predictive value of preoperative inflammatory–nutritional status and stone complexity for composite adverse outcomes following percutaneous nephrolithotomy (PCNL), and to develop a clinical risk stratification model.MethodsClinical data of 386 patients with renal calculi who underwent PCNL at the Cangzhou Central Hospital between January 2021 and December 2024 were retrospectively analyzed. Composite adverse outcomes were defined as the occurrence of any of the following: postoperative fever (temperature >38 °C), systemic inflammatory response syndrome (SIRS), requirement for blood transfusion, or complications of Clavien–Dindo grade ≥ II. Preoperative inflammatory–nutritional status was assessed using the neutrophil-to-lymphocyte ratio (NLR) and prognostic nutritional index (PNI), while stone complexity was quantified using the Guy’s grading system and the S. T. O. N. E. nephrolithometry score. Multivariate logistic regression analysis was performed to identify independent risk factors, and a risk stratification model was constructed based on the number of these factors.ResultsAmong the 386 patients, 121 (31.3%) experienced composite adverse outcomes postoperatively. Multivariate logistic regression analysis identified diabetes mellitus (OR = 2.41, 95% CI: 1.32–4.41, p = 0.004), preoperative urinary tract infection (OR = 3.27, 95% CI: 1.58–6.78, p = 0.001), NLR ≥ 3.5 (OR = 2.18, 95% CI: 1.35–3.52, p = 0.001), PNI < 45 (OR = 2.03, 95% CI: 1.22–3.38, p = 0.006), Guy’s grade ≥ III (OR = 2.67, 95% CI: 1.56–4.56, p < 0.001), and S. T. O. N. E. score …",
-      "authors": "Yu Qiu, Decai Ji, Guowang Du",
+      "title": "Altered body composition in children and adolescents with achondroplasia",
+      "abstract": "IntroductionAchondroplasia is characterized by disproportionate short stature, yet little is known about how growth patterns and body composition differ from peers during childhood and adolescence. We aimed to compare anthropometric variables and detailed body composition profiles between children and adolescents with achondroplasia and age-matched controls.MethodsIn this cross-sectional study, anthropometry and body composition were assessed in participants aged 6–18 years using air displacement plethysmography (BOD POD). Height, weight, BMI, fat mass (FM), fat mass index (FMI), fat-free mass (FFM), and fat-free mass index (FFMI), were compared between individuals with achondroplasia and controls.ResultsParticipants with achondroplasia showed significantly lower height and weight but higher BMI compared with controls (p < 0.05). FM (kg) was markedly lower in achondroplasia (p < 0.001), whereas FFM (%) and FFMI were significantly higher. In the overall sample and in females, the proportion of FFM was greater in achondroplasia (p < 0.05), whereas differences in males were not significant. Across all age strata, older age groups exhibited higher FM and FFM values, with consistent differences between groups for both components (main effect of group p < 0.01). Age correlated positively with FM and FFM in both groups, but correlations were stronger for FFM (controls: r = 0.75; achondroplasia: r = 0.87; both p < 0.001).DiscussionChildren and adolescents with achondroplasia present a distinct body composition profile characterized by lower absolute fat and lean mass but proportion…",
+      "authors": "Javier Gómez-Ambrosi, Isabel María Vegas-Aguilar, María del Mar Amaya-Campos et al.",
       "published": "Jul 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1867379",
-      "image": "",
-      "screen": "right"
-    },
-    {
-      "title": "Association between serum calcium levels and uterine leiomyoma: a retrospective case–control study exploring the potential mediating roles of inflammatory and lipid-related indicators",
-      "abstract": "BackgroundThe occurrence of uterine leiomyoma (UL) is closely related to metabolic abnormalities and inflammatory reactions, but the role of serum calcium in it and its relationship with inflammation and lipid metabolism are not yet clear. The aim of this study is to explore the association between serum calcium and UL risk, and evaluate the mediating role of inflammation and lipid indicators in it.MethodThis study included 1,169 UL patients and 985 controls, and propensity score matching (PSM) was used to reduce confounding bias. Using logistic regression analysis to evaluate the association between serum calcium and UL, and combining generalized additive modeling (GAM) to explore nonlinear relationships and threshold effects. Meanwhile, the mediating role of inflammation and lipid indicators in this association was quantified through bootstrap mediation analysis.ResultSerum calcium was significantly negatively correlated with UL risk and remained stable after PSM correction. Nonlinear analysis shows a significant threshold effect between it and UL. In the mediation analysis, some inflammatory and lipid indicators play a significant mediating role between serum calcium and UL, suggesting that the metabolic inflammatory pathway is involved in the occurrence of UL.ConclusionSerum calcium levels were associated with UL risk, and several inflammatory and lipid-related indicators showed significant statistical mediation effects in this association. The relevant indicators are derived from routine testing and have potential clinical application value, but further research is nee…",
-      "authors": "Yanan Duan, Xiaotong Cui, Fanmao Kong et al.",
-      "published": "Jul 2026",
-      "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1871649",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1895101",
       "image": "",
       "screen": "right"
     },
@@ -432,12 +422,22 @@
       "screen": "right"
     },
     {
-      "title": "Altered body composition in children and adolescents with achondroplasia",
-      "abstract": "IntroductionAchondroplasia is characterized by disproportionate short stature, yet little is known about how growth patterns and body composition differ from peers during childhood and adolescence. We aimed to compare anthropometric variables and detailed body composition profiles between children and adolescents with achondroplasia and age-matched controls.MethodsIn this cross-sectional study, anthropometry and body composition were assessed in participants aged 6–18 years using air displacement plethysmography (BOD POD). Height, weight, BMI, fat mass (FM), fat mass index (FMI), fat-free mass (FFM), and fat-free mass index (FFMI), were compared between individuals with achondroplasia and controls.ResultsParticipants with achondroplasia showed significantly lower height and weight but higher BMI compared with controls (p < 0.05). FM (kg) was markedly lower in achondroplasia (p < 0.001), whereas FFM (%) and FFMI were significantly higher. In the overall sample and in females, the proportion of FFM was greater in achondroplasia (p < 0.05), whereas differences in males were not significant. Across all age strata, older age groups exhibited higher FM and FFM values, with consistent differences between groups for both components (main effect of group p < 0.01). Age correlated positively with FM and FFM in both groups, but correlations were stronger for FFM (controls: r = 0.75; achondroplasia: r = 0.87; both p < 0.001).DiscussionChildren and adolescents with achondroplasia present a distinct body composition profile characterized by lower absolute fat and lean mass but proportion…",
-      "authors": "Javier Gómez-Ambrosi, Isabel María Vegas-Aguilar, María del Mar Amaya-Campos et al.",
+      "title": "Modulating gut microbial biofilms for intestinal barrier repair: opportunities in nutritional intervention",
+      "abstract": "BackgroundThe gut microbiota has emerged as a key therapeutic target in clinical nutrition for special medical purposes for repairing intestinal barrier damage. However, current strategies primarily focus on modulating microbial composition while overlooking the functional microbial community structure—particularly biofilms, which play important roles in gut physical, chemical and immune barrier homeostasis.MethodsRelevant literature on nutrition intervention, gut microbiota and biofilm, and intestinal barrier published in PubMed and CNKI up to June 2026 was narratively reviewed.ResultsThis review systematically analyzes nutrients-biofilm-barrier axis, highlights the function of microbial biofilm formation and interaction involved in barrier integrity, and evaluates innovative nutritional interventions capable of modulating biofilm formation, including with enteral nutrition (EN) and parenteral nutrition (PN). Clinically, we discuss how this biofilm-centric approach offers enhanced clinical outcomes in managing barrier dysfunction associated with diseases such as IBD, compared to conventional microbiota modulation alone.ConclusionThe function of nutrients to effectively modulate the gut microbial biofilm in barrier integrity has been increasingly recognized in recent years. Future research is needed to further explore biofilm-based nutritional interventions and their therapeutic role in disease management.",
+      "authors": "Yunhan Huang, Jiayao An, Tianyi Cui et al.",
       "published": "Jul 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1895101",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1855344",
+      "image": "",
+      "screen": "right"
+    },
+    {
+      "title": "Dietary index for gut microbiota score is inversely associated with carotid calcified plaque score in ischemic stroke patients",
+      "abstract": "BackgroundDiet influences gut microbiota-derived metabolites, which may affect vascular inflammation and calcification. The Dietary Index for Gut Microbiota (DI-GM) captures dietary patterns hypothesized to support favorable microbial metabolite profiles. In this study, we examined whether higher DI-GM scores are associated with lower carotid calcification burden in ischemic stroke patients and whether trimethylamine N-oxide (TMAO) is statistically associated with this relationship, without implying causality.MethodIn this cross-sectional study of 788 ischemic stroke patients from Central Hospital Affiliated to Shandong First Medical University, we calculated DI-GM scores from validated food frequency questionnaires and quantified carotid calcification using the Agatston method via computed tomography angiography. Plasma TMAO levels were measured by enzyme-linked immunosorbent assay (ELISA) ELISA.ResultsOur findings revealed that participants in the highest DI-GM tertile had significantly lower calcification scores (76.07 ± 14.55) compared to the lowest tertile (316.00 ± 75.33, p < 0.001). Higher DI-GM scores correlated with lower TMAO, and decreased inflammatory markers (all p < 0.001). Each one-unit increase in DI-GM was independently associated with lower calcification odds (adjusted OR = 0.60, p = 0.02). Mediation analysis confirmed that TMAO significantly mediated these associations, accounting for substantial proportions of the total effects of DI-GM score on inflammatory markers, plaque thickness, and calcification score.ConclusionHigher DI-GM score is cross-sectiona…",
+      "authors": "Yichao Guan, Dujuan Chang",
+      "published": "Jul 2026",
+      "feedName": "Frontiers Nutrition",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1811243",
       "image": "",
       "screen": "right"
     },
@@ -563,7 +563,7 @@
       "venue": "Journal of food science and technology",
       "feedName": "Lab Research",
       "citationCount": 9,
-      "recentCitations": 0,
+      "recentCitations": 1,
       "s2_paper_id": "435cee3aeeb4f44de0a7eef6197bce01a348c990",
       "url": "https://doi.org/10.1007/s13197-022-05534-w",
       "image": "",

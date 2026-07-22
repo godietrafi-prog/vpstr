@@ -1,6 +1,16 @@
 {
-  "updated": "2026-07-22T18:59:43Z",
+  "updated": "2026-07-22T20:56:49Z",
   "items": [
+    {
+      "title": "Dietary footprints across populations",
+      "abstract": "Diets affect both human and planetary health. Recent research reveals how dietary footprints vary across demographic groups and offers new data and methods for future studies.",
+      "authors": "",
+      "published": "Jul 2026",
+      "feedName": "Nature Food",
+      "url": "https://www.nature.com/articles/s43016-026-01403-3",
+      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs43016-026-01403-3/MediaObjects/43016_2026_1403_Fig1_HTML.png",
+      "screen": "left"
+    },
     {
       "title": "Cropland deterioration widens yield gaps",
       "abstract": "The degradation of agricultural land poses a vital threat to productivity and is, in some cases, hard to reverse. Curbing this trend is essential to avoid cascading impacts on natural ecosystems, biodiversity and human health.",
@@ -12,6 +22,16 @@
       "screen": "left"
     },
     {
+      "title": "Dietary environmental impacts and quality differ by socio-demographic characteristics",
+      "abstract": "Dietary intake and supply chain data from 165 countries reveal demographic disparities in diet-related environmental impacts. Impacts are greatest among young, highly educated urban men, and healthier diets are associated with high plant-based food intake and lower environmental footprints.",
+      "authors": "Oliver Taherzadeh, Arthur Schoorlemmer, Paul Behrens et al.",
+      "published": "Jul 2026",
+      "feedName": "Nature Food",
+      "url": "https://www.nature.com/articles/s43016-026-01389-y",
+      "image": "",
+      "screen": "left"
+    },
+    {
       "title": "Land degradation is associated with larger crop yield gaps across global croplands",
       "abstract": "Land degradation is widely recognized as a threat to food security. Using high-resolution global data on multiple land degradation indicators and crop yield gaps, the study shows that greater historical land degradation is associated with larger yield gaps in major food-producing regions. These findings highlight the need for sustainable agricultural intensification and agri-environmental policies to reduce land degradation and protect future food production.",
       "authors": "Hadi Hadi, D. K. Ray, P. Borrelli et al.",
@@ -19,26 +39,6 @@
       "feedName": "Nature Food",
       "url": "https://www.nature.com/articles/s43016-026-01382-5",
       "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs43016-026-01382-5/MediaObjects/43016_2026_1382_Fig1_HTML.png",
-      "screen": "left"
-    },
-    {
-      "title": "Food systems literacy in Indigenous health and nutrition",
-      "abstract": "Indigenous and traditional knowledge can help to address climate, biodiversity and nutrition challenges, yet medicalized top-down approaches prevail. This systematic review explores how food systems literacy through culturally grounded, participatory work with local communities can support more sustainable, equitable and healthy food systems.",
-      "authors": "Nitya Rao, Hélène Binesse, Aswathy Vinod",
-      "published": "Jul 2026",
-      "feedName": "Nature Food",
-      "url": "https://www.nature.com/articles/s43016-026-01392-3",
-      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs43016-026-01392-3/MediaObjects/43016_2026_1392_Fig1_HTML.png",
-      "screen": "left"
-    },
-    {
-      "title": "Sustainable diet shifts among adults in Scotland do not cost more",
-      "abstract": "Reducing consumption of meat and dairy foods is essential for the long-term sustainability of the UK food system. A study quantifying the impact on environmental footprints, nutrient intake, health and cost when meat and dairy are reduced or replaced in the diets of adults in Scotland shows that these dietary changes incur no extra cost for most replacements.",
-      "authors": "",
-      "published": "Jul 2026",
-      "feedName": "Nature Food",
-      "url": "https://www.nature.com/articles/s43016-026-01385-2",
-      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs43016-026-01385-2/MediaObjects/43016_2026_1385_Fig1_HTML.png",
       "screen": "left"
     },
     {
@@ -282,6 +282,26 @@
       "screen": "left"
     },
     {
+      "title": "AI and quantum chemistry combine to identify efficient blue OLED materials",
+      "abstract": "Organic light-emitting diodes (OLEDs) have become a standard in modern devices with incredible contrast and sleek designs. While initially an expensive luxury, OLEDs are gradually becoming more financially accessible as the technology improves. Now, researchers at the Institute of Transformative Bio-Molecules (WPI-ITbM) at Nagoya University and the Institute for Advanced Study at Kyushu University have combined quantum chemistry with machine learning to identify new materials for blue OLEDs for incorporation in next-generation ultra-high-definition displays. Their research was published in Angewandte Chemie on July 21, 2026.",
+      "authors": "",
+      "published": "Jul 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-07-ai-quantum-chemistry-combine-efficient.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/researchers-combine-ai.jpg",
+      "screen": "right"
+    },
+    {
+      "title": "Molecular model for semiconductor surfaces developed",
+      "abstract": "Semiconductor surfaces can generally be studied only with considerable experimental effort, for example, in an ultrahigh vacuum. To more easily gain new insights into their properties and the possibilities for targeted modification, scientists at Heidelberg University have developed a molecular model for the so-called \"buckled dimer\" using synthetic and computational chemistry methods.",
+      "authors": "",
+      "published": "Jul 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-07-molecular-semiconductor-surfaces.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/molecular-model-for-se.jpg",
+      "screen": "right"
+    },
+    {
       "title": "Chemists develop a molecular platform for the selective control of oxygen reaction pathways",
       "abstract": "Controlling how oxygen reacts is important for improving technologies such as batteries, fuel cells and environmentally sustainable chemical processes. A research team led by professor Seung Jun Hwang from KAIST's Department of Chemistry has developed a molecular system capable of directing oxygen activation along a selected electron-transfer pathway.",
       "authors": "",
@@ -299,26 +319,6 @@
       "feedName": "Phys.org Analytics",
       "url": "https://phys.org/news/2026-07-source-ai-key-peptide-traits.html",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/ai-platform-could-spee.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "Novel antibiotic candidates starve resistant bacteria by blocking vitamin supply",
-      "abstract": "Bacteria have spent decades evolving resistance to virtually every antibiotic we have thrown at them. To stay ahead, new drugs must hit targets that existing antibiotics have never touched. A research team at the Helmholtz Institute for Pharmaceutical Research Saarland (HIPS) has now developed a series of synthetic drug candidates that do exactly that: By blocking an essential molecular supply system, these molecules cut off the bacteria's supply of essential vitamins and starve them to death. The team published its findings in two studies in the Journal of Medicinal Chemistry.",
-      "authors": "",
-      "published": "Jul 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-07-antibiotic-candidates-starve-resistant-bacteria.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/starving-bacteria-to-d.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "Atomic channels can separate rare earth elements from each other without using toxic chemicals",
-      "abstract": "Rare earth elements like lanthanum, neodymium and dysprosium are used to build the electric motor in your car, the LED lights in your house and the MRI machine at your doctor's office. But first, they have to be mined and separated from each other. Historically, that purification has been a difficult, costly process, relying on huge amounts of toxic chemicals.",
-      "authors": "",
-      "published": "Jul 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-07-atomic-channels-rare-earth-elements.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/a-cleaner-route-to-pur.jpg",
       "screen": "right"
     },
     {

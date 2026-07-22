@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-22T01:48:51Z",
+  "updated": "2026-07-22T05:02:45Z",
   "items": [
     {
       "title": "Food systems literacy in Indigenous health and nutrition",
@@ -362,6 +362,16 @@
       "screen": "right"
     },
     {
+      "title": "Coffee may protect your heart but energy drinks could harm it",
+      "abstract": "For most adults, a daily caffeine habit may be safer for the heart than many people assume. A new American Heart Association review found that up to 400 milligrams of caffeine a day, roughly three to five cups of regular black coffee, is generally safe and may even be linked to lower risks of heart disease, stroke, heart failure, and Type 2 diabetes. But the source matters: highly concentrated energy drinks and shots can sharply raise blood pressure and trigger irregular heart rhythms.",
+      "authors": "",
+      "published": "Jul 2026",
+      "feedName": "ScienceDaily Nutrition",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260721000820.htm",
+      "image": "https://www.sciencedaily.com/images/1920/coffee-heartbeat-neon-sign.webp",
+      "screen": "right"
+    },
+    {
       "title": "Coffee may help the body fight stress and aging through a hidden cellular switch",
       "abstract": "Scientists may have uncovered one reason coffee is repeatedly associated with healthier aging and lower disease risk. Compounds in coffee appear to activate NR4A1, a receptor that helps protect cells from stress, inflammation, and damage. These protective effects disappeared when the receptor was removed, strengthening the connection. Surprisingly, plant-based compounds such as caffeic acid seemed far more active than caffeine itself.",
       "authors": "",
@@ -392,52 +402,42 @@
       "screen": "right"
     },
     {
-      "title": "Mediterranean diet may activate tiny proteins that protect the heart and brain",
-      "abstract": "The Mediterranean diet may influence aging through tiny proteins produced inside the cell’s mitochondria. Older adults who followed the diet most closely had higher levels of humanin and SHMOOSE, which have been linked to heart and brain protection. Olive oil, fish, legumes, and fewer refined carbohydrates appeared especially important. The findings could eventually help scientists develop more personalized nutrition plans for healthy aging.",
-      "authors": "",
-      "published": "Jul 2026",
-      "feedName": "ScienceDaily Nutrition",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260716023605.htm",
-      "image": "https://www.sciencedaily.com/images/1920/greek-salad-and-olive-oil-mediterranean-diet-santorini.webp",
-      "screen": "right"
-    },
-    {
-      "title": "Highly informed, yet undersupported: dietary supplement use, information sources, and perceived risks among pregnant vegans in German-speaking regions—findings from the VedieS study",
-      "abstract": "BackgroundVegan diets during pregnancy are commonly discussed regarding nutritional risks, often without differentiating between heterogeneous vegan populations. Empirical evidence on clearly defined subgroups who maintain a vegan diet throughout pregnancy remains scarce.ObjectivesThis study characterized a highly selected subgroup of pregnant women adhering to a vegan diet, focusing on supplement use, information sources, counseling experiences, and perceived risks of micronutrient deficiency and overdosing.MethodsAn explorative, cross-sectional online survey was conducted as part of the Vegan Diet and Dietary Supplements Study (VedieS). The questionnaire was developed from a scientific literature review, pilot-tested, and distributed via vegan, nutrition-related, and health-focused organizations and social media across German-speaking regions. Individuals adhering to a vegan diet (defined as a strictly plant-based diet excluding all animal-derived products) participated. The analysis was restricted to those reporting a vegan diet during at least one pregnancy. Supplement use, information seeking, and counseling adequacy were analyzed descriptively.ResultsIn total, 801 individuals participated. Participants were highly educated and predominantly from urban areas (76.3% tertiary education; 79.6% urban). Adherence during pregnancy was largely consistent (90.5%), and supplement use was nearly universal (99.1%) with high compliance (79.1%), targeting micronutrients critical in vegan pregnancies, including vitamin B12 (77.8%), omega-3 fatty acids (76.9%), folic acid (73.8%), an…",
-      "authors": "Wolfgang Huber-Schneider, Karl-Heinz Wagner, Ingrid Kiefer",
+      "title": "Risk stratification of composite adverse outcomes after percutaneous nephrolithotomy based on preoperative inflammatory–nutritional status and stone complexity: a single-center retrospective study",
+      "abstract": "ObjectiveTo investigate the predictive value of preoperative inflammatory–nutritional status and stone complexity for composite adverse outcomes following percutaneous nephrolithotomy (PCNL), and to develop a clinical risk stratification model.MethodsClinical data of 386 patients with renal calculi who underwent PCNL at the Cangzhou Central Hospital between January 2021 and December 2024 were retrospectively analyzed. Composite adverse outcomes were defined as the occurrence of any of the following: postoperative fever (temperature >38 °C), systemic inflammatory response syndrome (SIRS), requirement for blood transfusion, or complications of Clavien–Dindo grade ≥ II. Preoperative inflammatory–nutritional status was assessed using the neutrophil-to-lymphocyte ratio (NLR) and prognostic nutritional index (PNI), while stone complexity was quantified using the Guy’s grading system and the S. T. O. N. E. nephrolithometry score. Multivariate logistic regression analysis was performed to identify independent risk factors, and a risk stratification model was constructed based on the number of these factors.ResultsAmong the 386 patients, 121 (31.3%) experienced composite adverse outcomes postoperatively. Multivariate logistic regression analysis identified diabetes mellitus (OR = 2.41, 95% CI: 1.32–4.41, p = 0.004), preoperative urinary tract infection (OR = 3.27, 95% CI: 1.58–6.78, p = 0.001), NLR ≥ 3.5 (OR = 2.18, 95% CI: 1.35–3.52, p = 0.001), PNI < 45 (OR = 2.03, 95% CI: 1.22–3.38, p = 0.006), Guy’s grade ≥ III (OR = 2.67, 95% CI: 1.56–4.56, p < 0.001), and S. T. O. N. E. score …",
+      "authors": "Yu Qiu, Decai Ji, Guowang Du",
       "published": "Jul 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1866907",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1867379",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Associations between early childhood appetitive traits and dietary diversity in school-age children: a two-year longitudinal follow-up study",
-      "abstract": "BackgroundDietary diversity reflects diet quality and is critical for children’s growth and long-term health. Appetitive traits affect dietary habits and long-term food choices. However, few studies have explored the associations between early childhood appetitive traits and dietary diversity in school-age children using standardized and validated tools.MethodsWe recruited 208 kindergarten children aged 5–6 years, with 194 completing the two-year longitudinal follow-up. Appetitive traits were evaluated at age 5–6 using the Child Eating Behavior Questionnaire (CEBQ). Dietary diversity was assessed 2 years later via the Dietary Diversity Score (DDS). Binary logistic regressions were carried out to assess the associations between early childhood appetitive traits and dietary diversity. Inverse probability weighting (IPW) was conducted in complete cases to test the robustness of the main results.ResultsHigher food fussiness at 5–6 years was significantly associated with a lower likelihood of high DDS 2 years later (OR = 0.521, 95% CI: 0.327–0.830). No significant sex interactions were observed for these associations.ConclusionFood fussiness at 5–6 years was associated with dietary diversity in school-age children. These findings underscore the relevance of early appetitive traits to dietary diversity and provide evidence-based insights for promoting children’s nutrition.",
-      "authors": "Yuhong Mu, Duhan Bu, Xiaowen Xu et al.",
+      "title": "Association between serum calcium levels and uterine leiomyoma: a retrospective case–control study exploring the potential mediating roles of inflammatory and lipid-related indicators",
+      "abstract": "BackgroundThe occurrence of uterine leiomyoma (UL) is closely related to metabolic abnormalities and inflammatory reactions, but the role of serum calcium in it and its relationship with inflammation and lipid metabolism are not yet clear. The aim of this study is to explore the association between serum calcium and UL risk, and evaluate the mediating role of inflammation and lipid indicators in it.MethodThis study included 1,169 UL patients and 985 controls, and propensity score matching (PSM) was used to reduce confounding bias. Using logistic regression analysis to evaluate the association between serum calcium and UL, and combining generalized additive modeling (GAM) to explore nonlinear relationships and threshold effects. Meanwhile, the mediating role of inflammation and lipid indicators in this association was quantified through bootstrap mediation analysis.ResultSerum calcium was significantly negatively correlated with UL risk and remained stable after PSM correction. Nonlinear analysis shows a significant threshold effect between it and UL. In the mediation analysis, some inflammatory and lipid indicators play a significant mediating role between serum calcium and UL, suggesting that the metabolic inflammatory pathway is involved in the occurrence of UL.ConclusionSerum calcium levels were associated with UL risk, and several inflammatory and lipid-related indicators showed significant statistical mediation effects in this association. The relevant indicators are derived from routine testing and have potential clinical application value, but further research is nee…",
+      "authors": "Yanan Duan, Xiaotong Cui, Fanmao Kong et al.",
       "published": "Jul 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1824771",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1871649",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Adherence to dehydrated bovine blood consumption and improvement in hemoglobin levels in children aged 6 to 35 months, San Juan de Lurigancho-Peru",
-      "abstract": "PurposeThis study aimed to evaluate adherence to the consumption of dehydrated bovine blood through the increase in hemoglobin in children aged 6 to 35 months.Patients and methodsAn intervention study was conducted on 2,221 children from 33 health facilities in the district of San Juan de Lurigancho, Peru, where the initial hemoglobin level was measured and according to the diagnosis they were divided into two groups (with anemia and without anemia), of which an educational session on topics related to anemia prevention was developed monthly, a jar of dehydrated bovine blood was delivered, and hemoglobin monitoring was conducted for 3 months.ResultsA total of 2,221 children aged 6 to 35 months were included in the analysis, after excluding two cases of severe anemia. The sample was pre-dominantly composed of children aged 12–23 months (50.4%), with a slight pre-dominance of males (54.0%). Hemoglobin levels increased progressively and significantly throughout the intervention. Mean hemoglobin rose from 10.667 ± 0.673 g/dl at baseline to 11.501 ± 0.716 g/dl at month 3, representing a mean increment of + 0.834 g/dl. The Friedman test confirmed that differences across the four time points were statistically significant (χ2 = 2,299.50, df = 3, p < 0.001), and Wilcoxon post-hoc comparisons revealed significant increases at each monthly interval (all p < 0.001).ConclusionThere was a high level of significance in iron adherence in children with moderate anemia.",
-      "authors": "Rosa Elena Cruz Maldonado, Mauricio-Alza Saby Marisol, Joe Fernando Gerónimo Huete et al.",
+      "title": "Interpretable bioimpedance-based modeling of body composition and metabolic indices related to physical function in maintenance hemodialysis patients",
+      "abstract": "ObjectiveIn maintenance hemodialysis (MHD) patients, muscle wasting and altered body composition are major determinants of reduced physical function. This study aimed to identify the key body composition features associated with four physical-function-related indices—Basal Metabolic Rate (BMR), Fat-Free Mass (FFM), Skeletal Muscle Mass (SMM), and Percentage of Body Fat (PBF)—and to evaluate whether ensemble regression models can estimate these indices from routine bioelectrical impedance analysis (BIA) data.MethodsEnsemble regression models were constructed using BIA-derived indicators to estimate BMR, FFM, SMM, and PBF. The SHAP algorithm was employed to assess feature importance. Individual regression models (LR, DT, SVR, GBR, Adaboost, and KNN) were compared with ensemble models (RF, ET, and LGBM) using R2, MAE, MSE, and RMSE.ResultsSHAP analysis identified Total Body Water (TBW) and height as the most significant predictors across all four indices, followed by Intracellular Water (ICW), Extracellular Water (ECW), minerals, and body weight. Ensemble models consistently outperformed individual models. LGBM achieved the highest performance (e.g., R2 = 0.99, RMSE = 0.11 for BMR), markedly surpassing individual models such as DT (R2 = 0.89, RMSE = 0.39). Similar trends were observed for SMM, FFM, and PBF.ConclusionEnsemble learning models, particularly LGBM, demonstrated high apparent accuracy in estimating the four indices. SHAP analysis consistently identified TBW and height as dominant contributors. We caution that this predictive strength partly reflects expected physiol…",
+      "authors": "Jiahui Ding, Yanjuan Teng",
       "published": "Jul 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1880873",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1849618",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Editorial: Bridging knowledge to action in vitamin D supplementation",
-      "abstract": "",
-      "authors": "Manuela Chiavarini, Irene Giacchetta, Roberto Fabiani",
+      "title": "Altered body composition in children and adolescents with achondroplasia",
+      "abstract": "IntroductionAchondroplasia is characterized by disproportionate short stature, yet little is known about how growth patterns and body composition differ from peers during childhood and adolescence. We aimed to compare anthropometric variables and detailed body composition profiles between children and adolescents with achondroplasia and age-matched controls.MethodsIn this cross-sectional study, anthropometry and body composition were assessed in participants aged 6–18 years using air displacement plethysmography (BOD POD). Height, weight, BMI, fat mass (FM), fat mass index (FMI), fat-free mass (FFM), and fat-free mass index (FFMI), were compared between individuals with achondroplasia and controls.ResultsParticipants with achondroplasia showed significantly lower height and weight but higher BMI compared with controls (p < 0.05). FM (kg) was markedly lower in achondroplasia (p < 0.001), whereas FFM (%) and FFMI were significantly higher. In the overall sample and in females, the proportion of FFM was greater in achondroplasia (p < 0.05), whereas differences in males were not significant. Across all age strata, older age groups exhibited higher FM and FFM values, with consistent differences between groups for both components (main effect of group p < 0.01). Age correlated positively with FM and FFM in both groups, but correlations were stronger for FFM (controls: r = 0.75; achondroplasia: r = 0.87; both p < 0.001).DiscussionChildren and adolescents with achondroplasia present a distinct body composition profile characterized by lower absolute fat and lean mass but proportion…",
+      "authors": "Javier Gómez-Ambrosi, Isabel María Vegas-Aguilar, María del Mar Amaya-Campos et al.",
       "published": "Jul 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1915845",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1895101",
       "image": "",
       "screen": "right"
     },
@@ -563,7 +563,7 @@
       "venue": "Journal of food science and technology",
       "feedName": "Lab Research",
       "citationCount": 9,
-      "recentCitations": 1,
+      "recentCitations": 0,
       "s2_paper_id": "435cee3aeeb4f44de0a7eef6197bce01a348c990",
       "url": "https://doi.org/10.1007/s13197-022-05534-w",
       "image": "",

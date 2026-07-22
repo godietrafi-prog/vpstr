@@ -1,6 +1,26 @@
 {
-  "updated": "2026-07-22T08:10:23Z",
+  "updated": "2026-07-22T11:43:50Z",
   "items": [
+    {
+      "title": "Cropland deterioration widens yield gaps",
+      "abstract": "The degradation of agricultural land poses a vital threat to productivity and is, in some cases, hard to reverse. Curbing this trend is essential to avoid cascading impacts on natural ecosystems, biodiversity and human health.",
+      "authors": "Christian Folberth",
+      "published": "Jul 2026",
+      "feedName": "Nature Food",
+      "url": "https://www.nature.com/articles/s43016-026-01381-6",
+      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs43016-026-01381-6/MediaObjects/43016_2026_1381_Fig1_HTML.png",
+      "screen": "left"
+    },
+    {
+      "title": "Land degradation is associated with larger crop yield gaps across global croplands",
+      "abstract": "Land degradation is widely recognized as a threat to food security. Using high-resolution global data on multiple land degradation indicators and crop yield gaps, the study shows that greater historical land degradation is associated with larger yield gaps in major food-producing regions. These findings highlight the need for sustainable agricultural intensification and agri-environmental policies to reduce land degradation and protect future food production.",
+      "authors": "Hadi Hadi, D. K. Ray, P. Borrelli et al.",
+      "published": "Jul 2026",
+      "feedName": "Nature Food",
+      "url": "https://www.nature.com/articles/s43016-026-01382-5",
+      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs43016-026-01382-5/MediaObjects/43016_2026_1382_Fig1_HTML.png",
+      "screen": "left"
+    },
     {
       "title": "Food systems literacy in Indigenous health and nutrition",
       "abstract": "Indigenous and traditional knowledge can help to address climate, biodiversity and nutrition challenges, yet medicalized top-down approaches prevail. This systematic review explores how food systems literacy through culturally grounded, participatory work with local communities can support more sustainable, equitable and healthy food systems.",
@@ -19,26 +39,6 @@
       "feedName": "Nature Food",
       "url": "https://www.nature.com/articles/s43016-026-01385-2",
       "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs43016-026-01385-2/MediaObjects/43016_2026_1385_Fig1_HTML.png",
-      "screen": "left"
-    },
-    {
-      "title": "An agroecological perspective on systems-level transformations to keep current food systems from degrading the global commons",
-      "abstract": "Food systems face numerous challenges such as biodiversity loss and undernourishment. This Perspective presents a systems-thinking approach rooted in agroecology that can guide transformative changes for the benefit of both people and the planet.",
-      "authors": "Kris A. G. Wyckhuys, Edmundo Barrios, Steven J. Fonte",
-      "published": "Jul 2026",
-      "feedName": "Nature Food",
-      "url": "https://www.nature.com/articles/s43016-026-01386-1",
-      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs43016-026-01386-1/MediaObjects/43016_2026_1386_Fig1_HTML.png",
-      "screen": "left"
-    },
-    {
-      "title": "Global taxes on sugar-sweetened beverages",
-      "abstract": "",
-      "authors": "Laurence Daoust",
-      "published": "Jul 2026",
-      "feedName": "Nature Food",
-      "url": "https://www.nature.com/articles/s43016-026-01399-w",
-      "image": "",
       "screen": "left"
     },
     {

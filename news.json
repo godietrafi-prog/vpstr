@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-23T19:01:31Z",
+  "updated": "2026-07-23T20:52:37Z",
   "items": [
     {
       "title": "Food waste recycling shifts burdens from climate to soil",
@@ -282,6 +282,26 @@
       "screen": "left"
     },
     {
+      "title": "Lithium ions sprint up to 10,000 times faster when their molecular cages briefly open",
+      "abstract": "An international collaborative research group led by Professor Bong June Sung of the Department of Chemistry at Sogang University and Professor Shinji Saito of the Institute for Molecular Science (IMS), National Institutes of Natural Sciences (NINS), and the Graduate University for Advanced Studies, SOKENDAI, has elucidated, at the molecular level, how lithium ions move within organic ionic plastic crystals (OIPCs)—which are attracting attention as solid electrolytes for next-generation batteries.",
+      "authors": "",
+      "published": "Jul 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-07-lithium-ions-sprint-faster-molecular.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/lithium-ions-sprint-up.jpg",
+      "screen": "right"
+    },
+    {
+      "title": "Neutral catalysts achieve chalcogen-bonding asymmetry",
+      "abstract": "Chemists have demonstrated that neutral chalcogen-bond donors can induce asymmetry in chemical reactions, addressing a challenge that has limited the development of chalcogen-bonding catalysis.",
+      "authors": "",
+      "published": "Jul 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-07-neutral-catalysts-chalcogen-bonding-asymmetry.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/neutral-catalysts-achi.jpg",
+      "screen": "right"
+    },
+    {
       "title": "Light-driven chemistry method could create antiviral compound libraries 10 to 100 times larger within weeks",
       "abstract": "As the world faces new and often untreatable viral threats, Simon Fraser University researchers have found a way to cut years off the time it takes to discover antiviral drugs. The new research enables scientists to quickly create large libraries of nucleoside analogs (NAs), compounds that mimic the building blocks of DNA and RNA and are widely used to treat cancer and viral infections such as HIV and hepatitis.",
       "authors": "",
@@ -299,26 +319,6 @@
       "feedName": "Phys.org Analytics",
       "url": "https://phys.org/news/2026-07-ai-quantum-chemistry-combine-efficient.html",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/researchers-combine-ai.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "Molecular model for semiconductor surfaces developed",
-      "abstract": "Semiconductor surfaces can generally be studied only with considerable experimental effort, for example, in an ultrahigh vacuum. To more easily gain new insights into their properties and the possibilities for targeted modification, scientists at Heidelberg University have developed a molecular model for the so-called \"buckled dimer\" using synthetic and computational chemistry methods.",
-      "authors": "",
-      "published": "Jul 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-07-molecular-semiconductor-surfaces.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/molecular-model-for-se.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "Chemists develop a molecular platform for the selective control of oxygen reaction pathways",
-      "abstract": "Controlling how oxygen reacts is important for improving technologies such as batteries, fuel cells and environmentally sustainable chemical processes. A research team led by professor Seung Jun Hwang from KAIST's Department of Chemistry has developed a molecular system capable of directing oxygen activation along a selected electron-transfer pathway.",
-      "authors": "",
-      "published": "Jul 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-07-chemists-molecular-platform-oxygen-reaction.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/kaist-develops-a-molec.jpg",
       "screen": "right"
     },
     {

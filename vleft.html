@@ -686,6 +686,7 @@
         rssMaxPerFeed:    3,   // how many articles to take from each feed
         birthdayDuration: 30,  // seconds; shown at :00, :20 and :40
         birthdayEverySlides: 0, // production schedule; >0 is test-only
+        birthdayAudioEnabled: true, // left screen is the single birthday-audio source
         worldCupPromoEnabled: false, // archived campaign; templates remain reusable
         promoDuration: 35,
         promoEveryMinutes: 40,
@@ -1159,7 +1160,7 @@
 
         if (window.BirthdayAudio) {
             window.BirthdayAudio.stop();
-            if (el.getAttribute('data-type') === 'birthday')
+            if (CONFIG.birthdayAudioEnabled && el.getAttribute('data-type') === 'birthday')
                 window.BirthdayAudio.play(CONFIG.birthdayDuration);
         }
         if (window.PromoAudio) {

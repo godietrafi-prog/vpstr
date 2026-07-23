@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-23T13:28:30Z",
+  "updated": "2026-07-23T15:49:20Z",
   "items": [
     {
       "title": "Dietary footprints across populations",
@@ -132,6 +132,16 @@
       "screen": "left"
     },
     {
+      "title": "From sensory barriers to market acceptance: A multi-group generalized structural equation modelling of willingness to buy for Spirulina-enriched crackers across food-related lifestyle segments",
+      "abstract": "",
+      "authors": "A.S.H. Wahyuningtyas, Gladys Oryz Berlian, Riyanti Isaskar et al.",
+      "published": "Dec 2026",
+      "feedName": "Food Quality & Preference",
+      "url": "https://www.sciencedirect.com/science/article/pii/S095032932600203X?dgcid=rss_sd_all",
+      "image": "",
+      "screen": "left"
+    },
+    {
       "title": "Expected flavour congruence in plant-based and conventional foods",
       "abstract": "",
       "authors": "Farhana Tabassum, Kosuke Motoki, Tsutomu Sunaga et al.",
@@ -148,16 +158,6 @@
       "published": "Dec 2026",
       "feedName": "Food Quality & Preference",
       "url": "https://www.sciencedirect.com/science/article/pii/S0950329326002041?dgcid=rss_sd_all",
-      "image": "",
-      "screen": "left"
-    },
-    {
-      "title": "Long-term consumer acceptance of almonds: A one-year randomised controlled trial",
-      "abstract": "",
-      "authors": "Rachel C. Brown, Lara Ware, Siew Ling Tey et al.",
-      "published": "Dec 2026",
-      "feedName": "Food Quality & Preference",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0950329326002028?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -362,6 +362,16 @@
       "screen": "right"
     },
     {
+      "title": "Popular childhood drinks may raise blood pressure decades later",
+      "abstract": "A 25-year study found that frequent consumption of soda, sports drinks, and fruit juice beginning in childhood was linked to a higher risk of high blood pressure in adulthood. Swapping one daily drink for whole fruit, milk, or water could significantly reduce that risk.",
+      "authors": "",
+      "published": "Jul 2026",
+      "feedName": "ScienceDaily Nutrition",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260722032121.htm",
+      "image": "https://www.sciencedaily.com/images/1920/happy-smiling-little-girl-drinking-juice.webp",
+      "screen": "right"
+    },
+    {
       "title": "Coffee may protect your heart but energy drinks could harm it",
       "abstract": "For most adults, a daily caffeine habit may be safer for the heart than many people assume. A new American Heart Association review found that up to 400 milligrams of caffeine a day, roughly three to five cups of regular black coffee, is generally safe and may even be linked to lower risks of heart disease, stroke, heart failure, and Type 2 diabetes. But the source matters: highly concentrated energy drinks and shots can sharply raise blood pressure and trigger irregular heart rhythms.",
       "authors": "",
@@ -392,13 +402,13 @@
       "screen": "right"
     },
     {
-      "title": "Popular sugar substitutes linked to faster brain aging",
-      "abstract": "Several popular sugar substitutes may not be as harmless as they seem. Adults who consumed the most artificial sweeteners showed substantially faster declines in memory and thinking, especially if they were under 60 or had diabetes. The highest intake was linked to cognitive aging roughly 1.6 years faster than the lowest intake. Researchers stressed that more studies are needed before concluding that sweeteners are the cause.",
-      "authors": "",
+      "title": "Efficacy of early enteral nutrition in patients with traumatic brain injury: a systematic review and meta-analysis",
+      "abstract": "BackgroundSevere traumatic brain injury (TBI) induces a hypermetabolic state that heightens the risk of mortality and poor neurological outcomes. Early enteral nutrition (EEN), typically defined as initiation within 48 h of injury, is considered crucial, yet robust evidence of its specific benefits in TBI patients remains limited.MethodsFollowing PRISMA guidelines, we systematically searched the PubMed, Embase, Web of Science, and Cochrane Library databases through December 25, 2025, for studies comparing EEN with delayed enteral nutrition (DEN) in adults with TBI. Outcomes included clinical outcomes, nutrition status, and complications. Study quality was assessed using the Newcastle-Ottawa Scale and the Cochrane Risk of Bias tool. The primary outcome was short-term mortality, defined as from hospital admission to 90 days post-discharge. Sensitivity analyses and subgroup analyses explored heterogeneity.ResultsTen studies (6 randomized controlled trials [RCTs]; 4 observational; 13,046 patients) were included. When all studies (RCTs and observational) were pooled, there was no significant difference in short-term mortality risk between EEN and DEN (risk ratio [RR] = 0.64; 95% CI, 0.32–1.31). However, a prespecified sensitivity analysis limited to RCTs showed a significant reduction in mortality with EEN (RR = 0.58; 95% CI, 0.35–0.96). EEN significantly shortened mechanical ventilation duration and reduced both ICU and hospital length of stay. Nutritional status, including serum albumin levels, glucose control, caloric intake, and positive nitrogen balance, was markedly improv…",
+      "authors": "Wei Zhang, Yan Lei, Qiu Lin et al.",
       "published": "Jul 2026",
-      "feedName": "ScienceDaily Nutrition",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260717033213.htm",
-      "image": "https://www.sciencedaily.com/images/1920/sugar-artificial-sweetener-metal-spoon.webp",
+      "feedName": "Frontiers Nutrition",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1795734",
+      "image": "",
       "screen": "right"
     },
     {
@@ -412,32 +422,22 @@
       "screen": "right"
     },
     {
-      "title": "Editorial: Immunoregulation and inflammation interventions in nutritional metabolic diseases",
-      "abstract": "",
-      "authors": "Lixue Wang, Lingli Zhou, Dachuan Dong et al.",
+      "title": "Policy absence and school meal provision in Türkiye: a structured narrative review and policy analysis",
+      "abstract": "IntroductionSchool meals are increasingly recognized as instruments for supporting child nutrition, educational participation, and social protection. However, limited attention has been given to how the absence of an institutionalized national program can be distinguished from implementation failure, low policy priority, or fragmented provision. This study examines the institutional organization of school food provision in Türkiye.MethodsA structured narrative review was combined with qualitative policy document analysis. Epidemiological studies, national institutional reports, legislative and regulatory documents, international guidelines, and comparative program evidence were reviewed. Policy documents were assessed across five dimensions: legal and institutional commitment, program coverage and entitlement, financing, implementation responsibility and continuity, and monitoring and accountability.ResultsThe reviewed evidence indicates that nutritional vulnerability among children and adolescents in Türkiye includes excess body weight, irregular meal patterns, selected micronutrient-related concerns, and socioeconomic conditions that may constrain access to adequate food. The school food system combines household provision, regulated commercial food services, and publicly financed meals for particular eligible groups. Although these arrangements demonstrate that public intervention exists, the document analysis did not identify a comprehensive national program combining clearly defined entitlement, recurrent financing, designated implementation responsibility, continuity,…",
+      "authors": "Seval Bircan Yılmaz Yıldız",
       "published": "Jul 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1932965",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1852549",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Efficacy of early enteral nutrition in patients with traumatic brain injury: a systematic review and meta-analysis",
-      "abstract": "BackgroundSevere traumatic brain injury (TBI) induces a hypermetabolic state that heightens the risk of mortality and poor neurological outcomes. Early enteral nutrition (EEN), typically defined as initiation within 48 h of injury, is considered crucial, yet robust evidence of its specific benefits in TBI patients remains limited.MethodsFollowing PRISMA guidelines, we systematically searched the PubMed, Embase, Web of Science, and Cochrane Library databases through December 25, 2025, for studies comparing EEN with delayed enteral nutrition (DEN) in adults with TBI. Outcomes included clinical outcomes, nutrition status, and complications. Study quality was assessed using the Newcastle-Ottawa Scale and the Cochrane Risk of Bias tool. The primary outcome was short-term mortality, defined as from hospital admission to 90 days post-discharge. Sensitivity analyses and subgroup analyses explored heterogeneity.ResultsTen studies (6 randomized controlled trials [RCTs]; 4 observational; 13,046 patients) were included. When all studies (RCTs and observational) were pooled, there was no significant difference in short-term mortality risk between EEN and DEN (risk ratio [RR] = 0.64; 95% CI, 0.32–1.31). However, a prespecified sensitivity analysis limited to RCTs showed a significant reduction in mortality with EEN (RR = 0.58; 95% CI, 0.35–0.96). EEN significantly shortened mechanical ventilation duration and reduced both ICU and hospital length of stay. Nutritional status, including serum albumin levels, glucose control, caloric intake, and positive nitrogen balance, was markedly improv…",
-      "authors": "Wei Zhang, Yan Lei, Qiu Lin et al.",
+      "title": "Adaptation of the orthorexia beliefs scale into Turkish: a validity and reliability study",
+      "abstract": "BackgroundOrthorexia nervosa is characterized by an excessive preoccupation with healthy eating, rigid dietary rules, and dysfunctional beliefs related to food, health, morality, and control. Despite the growing interest in orthorexia research in Türkiye, instruments directly assessing orthorexic beliefs remain limited. This study aimed to adapt the Orthorexia Beliefs Scale into Turkish and evaluate its psychometric properties in a sample of healthy adults.MethodThis methodological study was conducted between October 2025 and January 2026 using an online snowball sampling strategy. The adaptation process followed a standard forward–backward translation procedure. A pilot study was first performed to assess item clarity and preliminary reliability (n = 210). Subsequently, the main study included 1,652 participants, with separate samples allocated for exploratory factor analysis (EFA; n = 700) and confirmatory factor analysis (CFA; n = 952). Participants completed the OBS, Teruel Orthorexia Scale (TOS), Eating Attitudes Test-26 (EAT-26), Obsessive–Compulsive Inventory-Revised (OCI-R), and Positive and Negative Affect Schedule (PANAS). Internal consistency, construct validity, convergent validity, and criterion validity were evaluated.ResultsThe Kaiser–Meyer–Olkin value (0.922) and significant Bartlett’s test of sphericity (χ2 = 8,144.004, p < 0.001) confirmed sample adequacy for factor analysis. EFA supported a three-factor structure—Overvaluation of Healthy Eating, Need for Control, and Moral Meaning—explaining 53.997% of the total variance. CFA demonstrated good model fit (…",
+      "authors": "Selen Köksal, İlayda Temizarabacı, Sevde Cantürk et al.",
       "published": "Jul 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1795734",
-      "image": "",
-      "screen": "right"
-    },
-    {
-      "title": "Non-linear associations of the triglyceride-glucose index with thyroid function in a large Chinese population: a cross-sectional study",
-      "abstract": "BackgroundPrevious studies have identified the triglyceride-glucose (TyG) index as a practical surrogate marker of insulin resistance and have suggested its association with several metabolic disorders. However, the association between the TyG index and thyroid function parameters has not yet been fully clarified. The present study was conducted to examine this association in Chinese adults from the general population.MethodsThis cross-sectional study included 5,189 adults who underwent health examinations. Multivariable linear regression was performed to investigate the associations between the TyG index and thyroid function parameters, including free triiodothyronine (FT3), free thyroxine (FT4), and thyroid-stimulating hormone (TSH). Potential non-linear dose–response associations were explored by using restricted cubic spline (RCS) analyses, while threshold effects were evaluated using piecewise linear regression. Subgroup analyses were conducted to examine whether the associations varied across subgroups, and sensitivity analyses were performed in strictly euthyroid participants.ResultsAfter full adjustment for potential confounders, the TyG index showed no clear linear association with FT3, whereas it was inversely associated with FT4. Non-linearity analyses indicated a significant inverted U-shaped association of the TyG index with FT3 (P for non-linearity < 0.001), the TyG index was positively associated with FT3 below the inflection point of 8.311 and negatively associated with FT3 above this point. In contrast, piecewise linear regression suggested a threshold effe…",
-      "authors": "Minghui Sun, Xiaoyu Zhang, Xiao Guan",
-      "published": "Jul 2026",
-      "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1841938",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1877643",
       "image": "",
       "screen": "right"
     },

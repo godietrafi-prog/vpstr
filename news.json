@@ -1,6 +1,26 @@
 {
-  "updated": "2026-07-23T15:49:20Z",
+  "updated": "2026-07-23T17:11:15Z",
   "items": [
+    {
+      "title": "Food waste recycling shifts burdens from climate to soil",
+      "abstract": "Contamination from plastic packaging poses a key challenge for expanding organics recycling. Now, the impact of diverting all post-manufacturing food waste in the United States away from landfills is quantified in terms of greenhouse gas release, nutrient loading and plastic pollution.",
+      "authors": "Yixuan Wang",
+      "published": "Jul 2026",
+      "feedName": "Nature Food",
+      "url": "https://www.nature.com/articles/s43016-026-01404-2",
+      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs43016-026-01404-2/MediaObjects/43016_2026_1404_Fig1_HTML.png",
+      "screen": "left"
+    },
+    {
+      "title": "Food waste recycling in the USA can reduce climate and nutrient pollution impacts yet risks plastic accumulation in soils",
+      "abstract": "Life cycle assessment and mass balance modelling reveal trade-offs in diverting US food waste from landfills to composting and anaerobic digestion. Although climate impacts and nutrient loading would decline, risks of plastic pollution in agricultural soils are estimated to increase.",
+      "authors": "Katherine K. Porterfield, Micayla N. Schambura, Eric D. Roy",
+      "published": "Jul 2026",
+      "feedName": "Nature Food",
+      "url": "https://www.nature.com/articles/s43016-026-01396-z",
+      "image": "",
+      "screen": "left"
+    },
     {
       "title": "Dietary footprints across populations",
       "abstract": "Diets affect both human and planetary health. Recent research reveals how dietary footprints vary across demographic groups and offers new data and methods for future studies.",
@@ -19,26 +39,6 @@
       "feedName": "Nature Food",
       "url": "https://www.nature.com/articles/s43016-026-01381-6",
       "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs43016-026-01381-6/MediaObjects/43016_2026_1381_Fig1_HTML.png",
-      "screen": "left"
-    },
-    {
-      "title": "Dietary environmental impacts and quality differ by socio-demographic characteristics",
-      "abstract": "Dietary intake and supply chain data from 165 countries reveal demographic disparities in diet-related environmental impacts. Impacts are greatest among young, highly educated urban men, and healthier diets are associated with high plant-based food intake and lower environmental footprints.",
-      "authors": "Oliver Taherzadeh, Arthur Schoorlemmer, Paul Behrens et al.",
-      "published": "Jul 2026",
-      "feedName": "Nature Food",
-      "url": "https://www.nature.com/articles/s43016-026-01389-y",
-      "image": "",
-      "screen": "left"
-    },
-    {
-      "title": "Land degradation is associated with larger crop yield gaps across global croplands",
-      "abstract": "Land degradation is widely recognized as a threat to food security. Using high-resolution global data on multiple land degradation indicators and crop yield gaps, the study shows that greater historical land degradation is associated with larger yield gaps in major food-producing regions. These findings highlight the need for sustainable agricultural intensification and agri-environmental policies to reduce land degradation and protect future food production.",
-      "authors": "Hadi Hadi, D. K. Ray, P. Borrelli et al.",
-      "published": "Jul 2026",
-      "feedName": "Nature Food",
-      "url": "https://www.nature.com/articles/s43016-026-01382-5",
-      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs43016-026-01382-5/MediaObjects/43016_2026_1382_Fig1_HTML.png",
       "screen": "left"
     },
     {
@@ -402,42 +402,42 @@
       "screen": "right"
     },
     {
-      "title": "Efficacy of early enteral nutrition in patients with traumatic brain injury: a systematic review and meta-analysis",
-      "abstract": "BackgroundSevere traumatic brain injury (TBI) induces a hypermetabolic state that heightens the risk of mortality and poor neurological outcomes. Early enteral nutrition (EEN), typically defined as initiation within 48 h of injury, is considered crucial, yet robust evidence of its specific benefits in TBI patients remains limited.MethodsFollowing PRISMA guidelines, we systematically searched the PubMed, Embase, Web of Science, and Cochrane Library databases through December 25, 2025, for studies comparing EEN with delayed enteral nutrition (DEN) in adults with TBI. Outcomes included clinical outcomes, nutrition status, and complications. Study quality was assessed using the Newcastle-Ottawa Scale and the Cochrane Risk of Bias tool. The primary outcome was short-term mortality, defined as from hospital admission to 90 days post-discharge. Sensitivity analyses and subgroup analyses explored heterogeneity.ResultsTen studies (6 randomized controlled trials [RCTs]; 4 observational; 13,046 patients) were included. When all studies (RCTs and observational) were pooled, there was no significant difference in short-term mortality risk between EEN and DEN (risk ratio [RR] = 0.64; 95% CI, 0.32–1.31). However, a prespecified sensitivity analysis limited to RCTs showed a significant reduction in mortality with EEN (RR = 0.58; 95% CI, 0.35–0.96). EEN significantly shortened mechanical ventilation duration and reduced both ICU and hospital length of stay. Nutritional status, including serum albumin levels, glucose control, caloric intake, and positive nitrogen balance, was markedly improv…",
-      "authors": "Wei Zhang, Yan Lei, Qiu Lin et al.",
+      "title": "Malnutrition predicts severe complications but not survival in laryngeal cancer surgery: a propensity-matched analysis",
+      "abstract": "BackgroundThe impact of preoperative malnutrition on clinical outcomes in patients undergoing laryngeal cancer surgery remains incompletely defined. This study aimed to evaluate the association between malnutrition and postoperative complications, long-term prognosis, and other clinical outcomes, and to compare the predictive performance of the GLIM criteria versus the ESPEN 2015 criteria.MethodsA retrospective analysis was conducted on prospectively maintained records of 294 laryngeal cancer patients who underwent surgical resection. Malnutrition was diagnosed according to the Global Leadership Initiative on Malnutrition (GLIM) criteria, and the ESPEN 2015 criteria were additionally applied for comparison. The cohort was chronologically divided into a training set (n = 191) and a validation set (n = 103). Independent risk factors for severe postoperative complications (POCs) were identified using LASSO regression followed by multivariate logistic regression, and a nomogram was constructed and validated. Cox regression analysis was performed to evaluate associations with overall survival. Propensity score matching (PSM) was applied to balance baseline characteristics between the GLIM-malnutrition group and the normal nutrition group, followed by comparative and subgroup analyses.ResultsThe prevalence of preoperative malnutrition was 25.9% (76/294) according to GLIM criteria and 13.6% (40/294) according to ESPEN criteria. Malnutrition defined by both criteria was an independent risk factor for severe POCs, and the GLIM criteria demonstrated superior predictive performance. A…",
+      "authors": "Guiren Fang, Ting Zhu, Zhenmeng Lin et al.",
       "published": "Jul 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1795734",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1873158",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Higher carbohydrate quality, but not quantity, is associated with lower lung cancer risk in a population-based prospective cohort study",
-      "abstract": "BackgroundThe role of diet in lung cancer is increasingly recognized, but it remains unclear whether carbohydrate quality or carbohydrate quantity is more relevant to risk. We therefore examined the associations of the carbohydrate quality index (CQI) and low-carbohydrate diet score (LCD) with incident lung cancer in a population-based prospective cohort.MethodsWe included 101,755 participants from the Prostate, Lung, Colorectal, and Ovarian (PLCO) Cancer Screening Trial. CQI and LCD were used to assess carbohydrate quality and quantity, respectively. Cox proportional hazards models were used to estimate hazard ratios (HRs) and 95% confidence intervals (CIs) for lung cancer across quartiles of CQI and LCD. Restricted cubic spline, subgroup, and sensitivity analyses were conducted to assess dose–response relationships and the robustness of the findings.ResultsDuring 897,809.4 person-years of follow-up, 1,706 incident lung cancer cases were identified. Higher CQI was significantly associated with a lower risk of lung cancer after multivariable adjustment. In the fully adjusted model, compared with the lowest quartile, the HRs (95% CIs) for lung cancer were 0.82 (0.72, 0.93), 0.78 (0.68, 0.89), and 0.73 (0.64, 0.84) for the second, third, and fourth quartiles of CQI, respectively (P for trend < 0.001). By contrast, LCD was not significantly associated with lung cancer risk after multivariable adjustment, with corresponding HRs (95% CIs) of 0.93 (0.81, 1.07), 1.02 (0.89, 1.17), and 1.09 (0.95, 1.25) across increasing quartiles (P for trend = 0.117). Restricted cubic spline anal…",
-      "authors": "Xiaoxiang Zhu, Ming Tang, Yuanbo Xue et al.",
+      "title": "Exploratory mediation analysis of body roundness index in the nonlinear association between CHG index and metabolic dysfunction-associated steatotic liver disease among non-diabetic adults",
+      "abstract": "BackgroundMetabolic dysfunction-associated steatotic liver disease (MASLD) is the most prevalent chronic liver disease worldwide, highlighting an urgent need for non-invasive early biomarkers. The cholesterol, high-density lipoprotein, and glucose index (CHG) is a novel composite marker reflecting disturbances in glucose and lipid metabolism. However, the independent association between CHG and MASLD, and the potential statistical mediating effect of visceral adiposity, as represented by the body roundness index (BRI), remains unclear, especially in non-diabetic individuals.MethodsThis cross-sectional study included 13,682 non-diabetic Japanese adults. Multivariable logistic regression, generalized additive models, and two-piecewise linear regression were used to explore the association, nonlinear relationship, and threshold effect between CHG and MASLD. Receiver operating characteristic (ROC) curve analysis was performed to evaluate CHG’s discriminatory performance. Exploratory mediation analysis was performed to statistically decompose the association between CHG and MASLD via BRI.ResultsThe prevalence of MASLD was 15.25%. After full adjustment, each 1-unit increase in CHG was independently associated with a higher risk of MASLD (OR = 4.46, 95% CI: 3.00–6.64). A significant dose–response trend was observed across CHG quartiles (Q4 vs. Q1: OR = 4.09, 95% CI: 2.83–5.91). A nonlinear threshold effect was identified at CHG = 5.52. CHG showed excellent discriminatory performance (AUC = 0.84), with an optimal cutoff at 5.23 (sensitivity = 0.81, specificity = 0.73), and retained…",
+      "authors": "Yanyan Xuan, Jingbo Yu, Qi Yao",
       "published": "Jul 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1857838",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1868410",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Policy absence and school meal provision in Türkiye: a structured narrative review and policy analysis",
-      "abstract": "IntroductionSchool meals are increasingly recognized as instruments for supporting child nutrition, educational participation, and social protection. However, limited attention has been given to how the absence of an institutionalized national program can be distinguished from implementation failure, low policy priority, or fragmented provision. This study examines the institutional organization of school food provision in Türkiye.MethodsA structured narrative review was combined with qualitative policy document analysis. Epidemiological studies, national institutional reports, legislative and regulatory documents, international guidelines, and comparative program evidence were reviewed. Policy documents were assessed across five dimensions: legal and institutional commitment, program coverage and entitlement, financing, implementation responsibility and continuity, and monitoring and accountability.ResultsThe reviewed evidence indicates that nutritional vulnerability among children and adolescents in Türkiye includes excess body weight, irregular meal patterns, selected micronutrient-related concerns, and socioeconomic conditions that may constrain access to adequate food. The school food system combines household provision, regulated commercial food services, and publicly financed meals for particular eligible groups. Although these arrangements demonstrate that public intervention exists, the document analysis did not identify a comprehensive national program combining clearly defined entitlement, recurrent financing, designated implementation responsibility, continuity,…",
-      "authors": "Seval Bircan Yılmaz Yıldız",
+      "title": "Editorial: Immunoregulation and inflammation interventions in nutritional metabolic diseases",
+      "abstract": "",
+      "authors": "Lixue Wang, Lingli Zhou, Dachuan Dong et al.",
       "published": "Jul 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1852549",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1932965",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Adaptation of the orthorexia beliefs scale into Turkish: a validity and reliability study",
-      "abstract": "BackgroundOrthorexia nervosa is characterized by an excessive preoccupation with healthy eating, rigid dietary rules, and dysfunctional beliefs related to food, health, morality, and control. Despite the growing interest in orthorexia research in Türkiye, instruments directly assessing orthorexic beliefs remain limited. This study aimed to adapt the Orthorexia Beliefs Scale into Turkish and evaluate its psychometric properties in a sample of healthy adults.MethodThis methodological study was conducted between October 2025 and January 2026 using an online snowball sampling strategy. The adaptation process followed a standard forward–backward translation procedure. A pilot study was first performed to assess item clarity and preliminary reliability (n = 210). Subsequently, the main study included 1,652 participants, with separate samples allocated for exploratory factor analysis (EFA; n = 700) and confirmatory factor analysis (CFA; n = 952). Participants completed the OBS, Teruel Orthorexia Scale (TOS), Eating Attitudes Test-26 (EAT-26), Obsessive–Compulsive Inventory-Revised (OCI-R), and Positive and Negative Affect Schedule (PANAS). Internal consistency, construct validity, convergent validity, and criterion validity were evaluated.ResultsThe Kaiser–Meyer–Olkin value (0.922) and significant Bartlett’s test of sphericity (χ2 = 8,144.004, p < 0.001) confirmed sample adequacy for factor analysis. EFA supported a three-factor structure—Overvaluation of Healthy Eating, Need for Control, and Moral Meaning—explaining 53.997% of the total variance. CFA demonstrated good model fit (…",
-      "authors": "Selen Köksal, İlayda Temizarabacı, Sevde Cantürk et al.",
+      "title": "Deriving BMI-referenced, sex-specific fat mass index cutoff values in older Saudi adults: a cross-sectional secondary analysis",
+      "abstract": "Background/objectivesAge-related changes in body composition may reduce the ability of body mass index (BMI) to accurately reflect adiposity in older adults. Fat mass index (FMI), which expresses fat mass relative to height squared, may provide a more direct estimate of adiposity. However, BMI-referenced, sex-specific FMI cutoff values have not been well characterized among older Saudi adults. This study aimed to derive sex-specific cutoff values for FMI, body fat percentage (%BF), and fat mass corresponding to selected BMI thresholds among older Saudi adults.MethodsThis cross-sectional secondary analysis included 1,954 adults aged ≥60 years who attended 15 randomly selected primary healthcare centers in Riyadh, Saudi Arabia. Anthropometric and bioelectrical impedance analysis-derived body composition data were analyzed. Receiver operating characteristic (ROC) curve analysis and the Youden index were used to derive cutoff values, and DeLong’s test for correlated ROC curves was used to compare BMI-referenced discriminatory performance.ResultsAcross the examined BMI thresholds, FMI demonstrated high discriminatory performance relative to BMI in both men and women. For older men, FMI cutoffs corresponding to BMI > 27 kg/m2, BMI ≥ 30 kg/m2, and BMI > 31 kg/m2 were 7.90, 9.48, and 9.71 kg/m2, respectively. The corresponding values in older women were 10.30, 12.10, and 13.00 kg/m2. DeLong testing generally supported higher AUCs for FMI than for %BF and fat mass, although the difference between FMI and fat mass at BMI ≥ 25 kg/m2 in men was not statistically significant.ConclusionT…",
+      "authors": "Maram Alsadi, Mahmoud M. A. Abulmeaty, Aljazi Bin Zarah et al.",
       "published": "Jul 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1877643",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1900590",
       "image": "",
       "screen": "right"
     },

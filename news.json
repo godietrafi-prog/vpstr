@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-23T05:22:03Z",
+  "updated": "2026-07-23T08:13:49Z",
   "items": [
     {
       "title": "Dietary footprints across populations",
@@ -402,16 +402,6 @@
       "screen": "right"
     },
     {
-      "title": "Serum zinc deficiency and progression of cardiovascular- kidney-metabolic syndrome",
-      "abstract": "IntroductionCardiovascular-kidney-metabolic (CKM) syndrome represents an interconnected disease continuum linking metabolic dysfunction, chronic kidney disease (CKD), and cardiovascular disease. Serum zinc deficiency (SZD) has been associated with adverse cardiovascular and renal outcomes; however, its association with CKM progression remains unclear.MethodsThis retrospective cohort study was conducted using the TriNetX. Adults with CKM stage 1 or 2 were enrolled in the study. SZD was defined as a serum zinc concentration < 70 μg/dL, while individuals with zinc concentrations between 70 and 120 μg/dL served as controls. After 1:1 matching, 74,245 patients were included in each group. The primary outcome was operational progression from CKM stage 1–2 to stage 3–4. Secondary outcomes included major adverse cardiovascular events, coronary artery disease, peripheral artery disease, atrial fibrillation, ischemic stroke, heart failure, advanced CKD, and all-cause mortality.ResultsAmong 148,490 matching individuals, SZD was associated with a significantly increased risk of operational progression to CKM stage 3–4 compared with normal zinc status (HR, 1.36; 95% CI, 1.30–1.41; P < 0.001). SZD was also associated with increased risks of other secondary outcomes (all P < 0.0056 after Bonferroni correction).ConclusionAmong patients with CKM stage 1–2, SZD was associated with a significantly increased risk of operational progression to CKM stage 3–4 and a broad spectrum of adverse cardiovascular, renal, and mortality outcomes. These findings suggest that SZD may represent an important m…",
-      "authors": "Kuan-Chieh Tu, Mei-Yuan Liu, Kuo-Chuan Hung et al.",
-      "published": "Jul 2026",
-      "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1910233",
-      "image": "",
-      "screen": "right"
-    },
-    {
       "title": "Higher carbohydrate quality, but not quantity, is associated with lower lung cancer risk in a population-based prospective cohort study",
       "abstract": "BackgroundThe role of diet in lung cancer is increasingly recognized, but it remains unclear whether carbohydrate quality or carbohydrate quantity is more relevant to risk. We therefore examined the associations of the carbohydrate quality index (CQI) and low-carbohydrate diet score (LCD) with incident lung cancer in a population-based prospective cohort.MethodsWe included 101,755 participants from the Prostate, Lung, Colorectal, and Ovarian (PLCO) Cancer Screening Trial. CQI and LCD were used to assess carbohydrate quality and quantity, respectively. Cox proportional hazards models were used to estimate hazard ratios (HRs) and 95% confidence intervals (CIs) for lung cancer across quartiles of CQI and LCD. Restricted cubic spline, subgroup, and sensitivity analyses were conducted to assess dose–response relationships and the robustness of the findings.ResultsDuring 897,809.4 person-years of follow-up, 1,706 incident lung cancer cases were identified. Higher CQI was significantly associated with a lower risk of lung cancer after multivariable adjustment. In the fully adjusted model, compared with the lowest quartile, the HRs (95% CIs) for lung cancer were 0.82 (0.72, 0.93), 0.78 (0.68, 0.89), and 0.73 (0.64, 0.84) for the second, third, and fourth quartiles of CQI, respectively (P for trend < 0.001). By contrast, LCD was not significantly associated with lung cancer risk after multivariable adjustment, with corresponding HRs (95% CIs) of 0.93 (0.81, 1.07), 1.02 (0.89, 1.17), and 1.09 (0.95, 1.25) across increasing quartiles (P for trend = 0.117). Restricted cubic spline anal…",
       "authors": "Xiaoxiang Zhu, Ming Tang, Yuanbo Xue et al.",
@@ -422,22 +412,32 @@
       "screen": "right"
     },
     {
-      "title": "Adaptation of the orthorexia beliefs scale into Turkish: a validity and reliability study",
-      "abstract": "BackgroundOrthorexia nervosa is characterized by an excessive preoccupation with healthy eating, rigid dietary rules, and dysfunctional beliefs related to food, health, morality, and control. Despite the growing interest in orthorexia research in Türkiye, instruments directly assessing orthorexic beliefs remain limited. This study aimed to adapt the Orthorexia Beliefs Scale into Turkish and evaluate its psychometric properties in a sample of healthy adults.MethodThis methodological study was conducted between October 2025 and January 2026 using an online snowball sampling strategy. The adaptation process followed a standard forward–backward translation procedure. A pilot study was first performed to assess item clarity and preliminary reliability (n = 210). Subsequently, the main study included 1,652 participants, with separate samples allocated for exploratory factor analysis (EFA; n = 700) and confirmatory factor analysis (CFA; n = 952). Participants completed the OBS, Teruel Orthorexia Scale (TOS), Eating Attitudes Test-26 (EAT-26), Obsessive–Compulsive Inventory-Revised (OCI-R), and Positive and Negative Affect Schedule (PANAS). Internal consistency, construct validity, convergent validity, and criterion validity were evaluated.ResultsThe Kaiser–Meyer–Olkin value (0.922) and significant Bartlett’s test of sphericity (χ2 = 8,144.004, p < 0.001) confirmed sample adequacy for factor analysis. EFA supported a three-factor structure—Overvaluation of Healthy Eating, Need for Control, and Moral Meaning—explaining 53.997% of the total variance. CFA demonstrated good model fit (…",
-      "authors": "Selen Köksal, İlayda Temizarabacı, Sevde Cantürk et al.",
+      "title": "Editorial: Immunoregulation and inflammation interventions in nutritional metabolic diseases",
+      "abstract": "",
+      "authors": "Lixue Wang, Lingli Zhou, Dachuan Dong et al.",
       "published": "Jul 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1877643",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1932965",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Techno-economic assessment for plant seed-based production of Thaumatin II: a natural high intensity protein sweetener",
-      "abstract": "IntroductionA global rise in population and excessive consumption of dietary sugars present major environmental and public health challenges. The World Health Organization (WHO) recommends limiting free sugar consumption to less than 5% of total caloric intake for maximum health benefits. Substituting added sugar with low- or no-calorie sweeteners offers a viable alternative to achieve this target. Thaumatin II is a natural, non-caloric, high-intensity sweet-tasting protein, traditionally extracted as a mixture of up to 5 thaumatins from the fruit of Thaumatococcus daniellii, a plant native to West Africa, that can now be produced recombinantly in the seeds of temperate plants. Thaumatin II exhibits exceptional sweetness intensity (10,000–13,000 times that of sucrose, w/w) with minimal off-flavor characteristics.MethodsThis study presents a techno-economic analysis for the large-scale recombinant production of Thaumatin II using transgenic Nicotiana tabacum seeds as a biomanufacturing platform. We also examine the impact of product purity on production cost and present a process mass intensity (PMI) evaluation and environmental, health, and safety (EHS) assessment to characterize overall process sustainability and environmental impact.ResultsWhile the market benchmark price for the commercial extract (Talin®) is $7,000/kg, the analysis of the recombinant process projects a unit production cost of $766/kg for Thaumatin II with 95% purity (Thaumatin II/total soluble protein) and 5% moisture content, for a facility capable of producing 50 metric tons (MT) of Thaumatin II annua…",
-      "authors": "Varun Gore, Daniel Tusé, Anatoli Giritch et al.",
+      "title": "Efficacy of early enteral nutrition in patients with traumatic brain injury: a systematic review and meta-analysis",
+      "abstract": "BackgroundSevere traumatic brain injury (TBI) induces a hypermetabolic state that heightens the risk of mortality and poor neurological outcomes. Early enteral nutrition (EEN), typically defined as initiation within 48 h of injury, is considered crucial, yet robust evidence of its specific benefits in TBI patients remains limited.MethodsFollowing PRISMA guidelines, we systematically searched the PubMed, Embase, Web of Science, and Cochrane Library databases through December 25, 2025, for studies comparing EEN with delayed enteral nutrition (DEN) in adults with TBI. Outcomes included clinical outcomes, nutrition status, and complications. Study quality was assessed using the Newcastle-Ottawa Scale and the Cochrane Risk of Bias tool. The primary outcome was short-term mortality, defined as from hospital admission to 90 days post-discharge. Sensitivity analyses and subgroup analyses explored heterogeneity.ResultsTen studies (6 randomized controlled trials [RCTs]; 4 observational; 13,046 patients) were included. When all studies (RCTs and observational) were pooled, there was no significant difference in short-term mortality risk between EEN and DEN (risk ratio [RR] = 0.64; 95% CI, 0.32–1.31). However, a prespecified sensitivity analysis limited to RCTs showed a significant reduction in mortality with EEN (RR = 0.58; 95% CI, 0.35–0.96). EEN significantly shortened mechanical ventilation duration and reduced both ICU and hospital length of stay. Nutritional status, including serum albumin levels, glucose control, caloric intake, and positive nitrogen balance, was markedly improv…",
+      "authors": "Wei Zhang, Yan Lei, Qiu Lin et al.",
       "published": "Jul 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1868916",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1795734",
+      "image": "",
+      "screen": "right"
+    },
+    {
+      "title": "Non-linear associations of the triglyceride-glucose index with thyroid function in a large Chinese population: a cross-sectional study",
+      "abstract": "BackgroundPrevious studies have identified the triglyceride-glucose (TyG) index as a practical surrogate marker of insulin resistance and have suggested its association with several metabolic disorders. However, the association between the TyG index and thyroid function parameters has not yet been fully clarified. The present study was conducted to examine this association in Chinese adults from the general population.MethodsThis cross-sectional study included 5,189 adults who underwent health examinations. Multivariable linear regression was performed to investigate the associations between the TyG index and thyroid function parameters, including free triiodothyronine (FT3), free thyroxine (FT4), and thyroid-stimulating hormone (TSH). Potential non-linear dose–response associations were explored by using restricted cubic spline (RCS) analyses, while threshold effects were evaluated using piecewise linear regression. Subgroup analyses were conducted to examine whether the associations varied across subgroups, and sensitivity analyses were performed in strictly euthyroid participants.ResultsAfter full adjustment for potential confounders, the TyG index showed no clear linear association with FT3, whereas it was inversely associated with FT4. Non-linearity analyses indicated a significant inverted U-shaped association of the TyG index with FT3 (P for non-linearity < 0.001), the TyG index was positively associated with FT3 below the inflection point of 8.311 and negatively associated with FT3 above this point. In contrast, piecewise linear regression suggested a threshold effe…",
+      "authors": "Minghui Sun, Xiaoyu Zhang, Xiao Guan",
+      "published": "Jul 2026",
+      "feedName": "Frontiers Nutrition",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1841938",
       "image": "",
       "screen": "right"
     },

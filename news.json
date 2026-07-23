@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-23T11:51:00Z",
+  "updated": "2026-07-23T13:28:30Z",
   "items": [
     {
       "title": "Dietary footprints across populations",
@@ -52,32 +52,32 @@
       "screen": "left"
     },
     {
-      "title": "Rapid and efficient determination of 14 mycotoxins in corn by one-step cleanup using a novel mixed-mode multifunction cartridge coupled with solvent smoother and LC-MS/MS",
+      "title": "A combined metabolomics and flavoromics approach reveals dynamic changes in non-volatile and volatile compounds of Tieguanyin tea during roasting process",
       "abstract": "",
-      "authors": "Yu Zhang, Yu Wu, Jin Ye et al.",
+      "authors": "Feifei Shi, Peng Liang, Shuyu Guo et al.",
       "published": "Oct 2026",
       "feedName": "Food Chemistry",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626026361?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626026531?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
     {
-      "title": "Synthesis and antibacterial properties of Houttuynia cordata -derived carbon dots regulated by carbonization temperature for prolonging shelf life of chilled beef",
+      "title": "Flavor profile and deterioration mechanism of Niubie juice during low-temperature storage based on flavoromics and metabolomics",
       "abstract": "",
-      "authors": "Gege Su, Yin Wang, Leyi Li et al.",
+      "authors": "Su Xu, Hailin Xu, Linyao Song et al.",
       "published": "Oct 2026",
       "feedName": "Food Chemistry",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626025884?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626026087?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
     {
-      "title": "A comprehensive study on non-enzymatic browning in cowpea pickles during storage based on a model system",
+      "title": "Leaching of postharvest pesticides from lemon fruits into liquid foodstuffs",
       "abstract": "",
-      "authors": "Yangyang Chen, Vijaya Raghavan, Mouming Zhao et al.",
+      "authors": "Katalin Lányi, Viktor Ágai, Anna Buzás et al.",
       "published": "Oct 2026",
       "feedName": "Food Chemistry",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626026634?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626026506?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -112,12 +112,12 @@
       "screen": "left"
     },
     {
-      "title": "Interactions of food proteins with sulfur-containing flavor compounds: Molecular mechanism, processing effect and aroma release",
+      "title": "Quality evaluation and technological advances in aquatic products: Evolution from traditional detection to intelligent monitoring",
       "abstract": "",
-      "authors": "Haobo Jin, Yilin Zhang, Adil M. Abker et al.",
+      "authors": "Hao Cheng, Inho Yang, Jing Xie",
       "published": "Oct 2026",
       "feedName": "Trends in Food Sci & Tech",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426004322?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426004292?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -525,7 +525,7 @@
       "venue": "Journal of Agricultural and Food Chemistry",
       "feedName": "Lab Research",
       "citationCount": 4,
-      "recentCitations": 0,
+      "recentCitations": 1,
       "s2_paper_id": "2daf7bffd81d6b4f740d63bf18644047b1466c1f",
       "url": "https://doi.org/10.1021/acs.jafc.4c06012",
       "image": "",
@@ -648,6 +648,101 @@
       "researcher": {
         "name": "Loai Basheer",
         "photo": "media/photos/loai_basheer.png"
+      }
+    },
+    {
+      "title": "Dictated cell adhesion and migration using microfluidic-controlled synthetic hydrogels exhibiting programmable viscoelasticities.",
+      "abstract": "Mechanosensing interactions between the extracellular matrix (ECM) and the intracellular cytoskeleton are fundamental to cellular functions such as motility, proliferation, and adhesion, driven by the dynamic, bidirectional, tension-regulated maturation of focal adhesion (FA) sites. We demonstrate that native mechanosensing interactions and their downstream functions are precisely controlled using synthetic hydrogels. We introduce a microfluidic-assisted synthesis of imine-crosslinked hyaluronic acid-gelatin copolymer hydrogels (HAG), enabling controlled, predefined gradient viscoelasticity. Specifically, three native tissues (muscle, epidermis, and cartilage)-mimicking HAG hydrogels were prepared, matching their effective Young's modulus (Ymod) and stress relaxation time (τ1/2). Enhanced cell spreading and directional cell migration are observed, with a preference for substrates with tissue-matching viscoelasticity. These mechanosensing reactions are confirmed by traction force microscopy, revealing a tight correlation between native tissue mechano-properties and the hydrogel viscoelastic parameters. We demonstrate that the signaling efficacies of the FAK and associated YAP/TAZ pathways, central regulators of FA formation and cell migration, are tuned by substrate tissue-matching viscoelasticity. We implement these preprogrammed viscoelastic gradient hydrogels as spatiotemporal cell-separation matrices, enabling viscoelasticity-driven migration of binary cell mixtures. This work provides a potent platform for studying cell-material interactions, offering significant potent…",
+      "authors": "Haochen Yang, Ziyuan Li, Gilad Davidson-Rozenfeld et al.",
+      "published": "2026",
+      "venue": "Journal of materials chemistry. B",
+      "feedName": "Lab Research",
+      "citationCount": 0,
+      "recentCitations": 0,
+      "s2_paper_id": "1d4f87214f79048150a17cc2d0738bf0fb72b106",
+      "url": "https://doi.org/10.1039/d6tb00438e",
+      "image": "",
+      "screen": "both",
+      "lab_paper": true,
+      "researcher": {
+        "name": "Gilad Davidson-Rozenfeld",
+        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=vh7tqKQAAAAJ"
+      }
+    },
+    {
+      "title": "Redox- and Photo-Responsive Fe3+/2+-Cross-Linked Carboxymethyl Cellulose Methacrylate Dissipative Gels: Synthesis and Applications",
+      "abstract": "The synthesis of redox-active Fe3+-cross-linked carboxymethyl cellulose methacrylate cryogels (Fe 3+ -CMCMA), revealing switchable, transient, dissipative stiffness properties, is introduced. The switchable, transient functions are triggered by ascorbate-mediated reduction of the high-stiffness gel to the lower-stiffness Fe2+-CMCMA gel, and the concomitant aerobic oxidation of the Fe2+-CMCMA to the Fe3+-CMCMA gel state. Alternatively, integration of native photosynthetic photosystem-I (PS-I) into the cryogel matrix allows the photosensitized reduction of the Fe3+-CMCMA cryogel to the lower stiffness state Fe2+-CMCMA, and the concomitant, temporal, aerobic recovery of Fe2+-CMCMA to the high-stiffness Fe3+-CMCMA gel. The transient dissipative stiffness of the Fe3+/2+-CMCMA cryogel is characterized by temporal rheometry, dynamic stretching stress–strain experiments, XPS, and SEM imaging. The transient chemical/light-triggered stiffness functions of the Fe3+/2+-CMCMA, or PS-I-integrated Fe3+/2+-CMCMA gels are applied to develop transient self-healing matrices, and frameworks for cyclic, transient release of loads integrated in the gel matrices. This is exemplified by the ascorbate/light-induced cyclic transient release of tetramethyl rhodamine-dextran (TMR-D), insulin, and the anti-VEGF aptamer loads. In addition, the stimuli-responsive Fe3+/2+-CMCMA cryogel is used to construct a bilayer-soft-robotic bending device. Bilayer composite consisting of thermoresponsive poly-N-isopropylacrylamide (pNIPAM)/Fe3+/2+-CMCMA, or pNIPAM/PS-I-loaded-Fe3+/2+-CMCMA devices are assembled. Swit…",
+      "authors": "Jian Zhao, Yunlong Qin, Muhammad Abdel-haq et al.",
+      "published": "2026",
+      "venue": "ACS Applied Materials and Interfaces",
+      "feedName": "Lab Research",
+      "citationCount": 0,
+      "recentCitations": 0,
+      "s2_paper_id": "daeea6fa97917f764c7ad91e09d41dbb9652690e",
+      "url": "https://doi.org/10.1021/acsami.6c07915",
+      "image": "",
+      "screen": "both",
+      "lab_paper": true,
+      "researcher": {
+        "name": "Gilad Davidson-Rozenfeld",
+        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=vh7tqKQAAAAJ"
+      }
+    },
+    {
+      "title": "Chemical and Photochemical-Driven Dissipative Fe3+/Fe2+-Ion Cross-Linked Carboxymethyl Cellulose Gels Operating Under Aerobic Conditions: Applications for Transient Controlled Release and Mechanical Actuation",
+      "abstract": "A Fe3+-ion cross-linked carboxymethyl cellulose, Fe3+-CMC, redox-active gel exhibiting dissipative, transient stiffness properties is introduced. Chemical or photosensitized reduction of the higher-stiffness Fe3+-CMC to the lower-stiffness Fe2+-CMC gel, accompanied by the aerobic reoxidation of the Fe2+-CMC matrix, leads to the dissipative, transient stiffness, functional matrix. The light-induced, temporal, transient release of a load (Texas red dextran) and the light-triggered, transient mechanical bending of a poly-N-isopropylacrylamide (p-NIPAM)/Fe3+-CMC bilayer construct are introduced, thus demonstrating the potential use of the dissipative Fe3+-CMC gel for controlled drug release or soft robotic applications.",
+      "authors": "Roberto Baretta, Gilad Davidson-Rozenfeld, V. Gutkin et al.",
+      "published": "2024",
+      "venue": "Journal of the American Chemical Society",
+      "feedName": "Lab Research",
+      "citationCount": 19,
+      "recentCitations": 1,
+      "s2_paper_id": "e8f95caa1e8ece0c16f246b34ead0788c6d4b146",
+      "url": "https://doi.org/10.1021/jacs.4c00625",
+      "image": "",
+      "screen": "both",
+      "lab_paper": true,
+      "researcher": {
+        "name": "Gilad Davidson-Rozenfeld",
+        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=vh7tqKQAAAAJ"
+      }
+    },
+    {
+      "title": "Stimuli-Responsive DNA-Based Hydrogels on Surfaces for Switchable Bioelectrocatalysis and Controlled Release of Loads",
+      "abstract": "The assembly of enzyme [glucose oxidase (GOx)]-loaded stimuli-responsive DNA-based hydrogels on electrode surfaces, and the triggered control over the stiffness of the hydrogels, provides a means to switch the bioelectrocatalytic functions of the hydrogels. One system includes the assembly of GOx-loaded, pH-responsive, hydrogel matrices cross-linked by two cooperative nucleic acid motives comprising permanent duplex nucleic acids and “caged” i-motif pH-responsive duplexes. Bioelectrocatalyzed oxidation of glucose leads to the formation of gluconic acid that acidifies the hydrogel resulting in the separation of the i-motif constituents and lowering the hydrogel stiffness. Loading of the hydrogel matrices with insulin results in the potential-triggered, glucose concentration-controlled, switchable release of insulin from the hydrogel-modified electrodes. The switchable bioelectrocatalyzed release of insulin is demonstrated in the presence of ferrocenemethanol as a diffusional electron mediator or by applying an electrically wired integrated matrix that includes ferrocenyl-modified GOx embedded in the hydrogel. The second GOx-loaded, stimuli-responsive, DNA-based hydrogel matrix associated with the electrode includes a polyacrylamide hydrogel cooperatively cross-linked by duplex nucleic acids and “caged” G-quadruplex-responsive duplexes. The hydrogel matrix undergoes K+-ions/crown ether-triggered stiffness changes by the cyclic K+-ion-stimulated formation of G-quadruplexes (lower stiffness) and the crown ether-induced separation of the G-quadruplexes (higher stiffness). The hy…",
+      "authors": "M. Fadeev, Gilad Davidson-Rozenfeld, Zhenzhen Li et al.",
+      "published": "2023",
+      "venue": "ACS Applied Materials and Interfaces",
+      "feedName": "Lab Research",
+      "citationCount": 17,
+      "recentCitations": 1,
+      "s2_paper_id": "0cd0b8a2502ea570ed30a29089c9004f8ad62735",
+      "url": "https://doi.org/10.1021/acsami.3c06230",
+      "image": "",
+      "screen": "both",
+      "lab_paper": true,
+      "researcher": {
+        "name": "Gilad Davidson-Rozenfeld",
+        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=vh7tqKQAAAAJ"
+      }
+    },
+    {
+      "title": "Stiffness‐Switchable, Biocatalytic pH‐Responsive DNA‐Functionalized Polyacrylamide Cryogels and their Mechanical Applications",
+      "abstract": "The large‐pore interconnected channels in cryogels, allow convectional flow and rapid mass‐transport of solute constituents between the solution and cryogel polymer framework, as compared to slower, diffusionally‐controlled mass‐transport in small‐pore hydrogels. These features are applied to develop enzyme‐loaded polyacrylamide (pAAm) cryogels, and glucose oxidase (GOx)‐loaded pH‐responsive DNA‐based pAAm cryogels, revealing enhanced biocatalytic transformations, enhanced temporal stiffness changes, and mechanical bending functions, as compared to analog hydrogels. DNA‐based pAAm cryogel/hydrogel matrices, revealing pH‐switchable stiffness properties through reversible reconfiguration of DNA‐bridging units into i‐motif structures, are introduced. Enhanced switchable stiffness changes of DNA‐based pAAm cryogels, as compared to analog hydrogels, are demonstrated upon subjecting the cryogel/hydrogel matrices to auxiliary pH‐changes, or by integration of GOx into the frameworks, and driving pH‐changes through GOx‐catalyzed aerobic oxidation of glucose to gluconic acid. Enhanced stiffness changes of pAAm cryogels represent a major advance to control the mechanical properties of cryogels and are attributed to the convectionally‐controlled mass‐transport in the cryogel matrices. Moreover, bilayer constructs consisting of poly‐N‐isopropylacrylamide (pNIPAM) cryogels and pH‐responsive DNA‐based pAAm cryogel or hydrogel structures are constructed. Enhanced pH/glucose triggered mechanical bending rates of the pNIPAM cryogel/pAAm cryogel or pNIPAM cryogel/GOx‐loaded pAAm cryogel, as c…",
+      "authors": "Gilad Davidson-Rozenfeld, Xinghua Chen, Yunlong Qin et al.",
+      "published": "2023",
+      "venue": "Advanced Functional Materials",
+      "feedName": "Lab Research",
+      "citationCount": 21,
+      "recentCitations": 0,
+      "s2_paper_id": "f8de42bddd0ecab555075b5f1e2cdce6f18f1a56",
+      "url": "https://doi.org/10.1002/adfm.202306586",
+      "image": "",
+      "screen": "both",
+      "lab_paper": true,
+      "researcher": {
+        "name": "Gilad Davidson-Rozenfeld",
+        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=vh7tqKQAAAAJ"
       }
     },
     {

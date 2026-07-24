@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-24T01:53:04Z",
+  "updated": "2026-07-24T05:14:04Z",
   "items": [
     {
       "title": "Food waste recycling shifts burdens from climate to soil",
@@ -402,42 +402,42 @@
       "screen": "right"
     },
     {
-      "title": "Malnutrition predicts severe complications but not survival in laryngeal cancer surgery: a propensity-matched analysis",
-      "abstract": "BackgroundThe impact of preoperative malnutrition on clinical outcomes in patients undergoing laryngeal cancer surgery remains incompletely defined. This study aimed to evaluate the association between malnutrition and postoperative complications, long-term prognosis, and other clinical outcomes, and to compare the predictive performance of the GLIM criteria versus the ESPEN 2015 criteria.MethodsA retrospective analysis was conducted on prospectively maintained records of 294 laryngeal cancer patients who underwent surgical resection. Malnutrition was diagnosed according to the Global Leadership Initiative on Malnutrition (GLIM) criteria, and the ESPEN 2015 criteria were additionally applied for comparison. The cohort was chronologically divided into a training set (n = 191) and a validation set (n = 103). Independent risk factors for severe postoperative complications (POCs) were identified using LASSO regression followed by multivariate logistic regression, and a nomogram was constructed and validated. Cox regression analysis was performed to evaluate associations with overall survival. Propensity score matching (PSM) was applied to balance baseline characteristics between the GLIM-malnutrition group and the normal nutrition group, followed by comparative and subgroup analyses.ResultsThe prevalence of preoperative malnutrition was 25.9% (76/294) according to GLIM criteria and 13.6% (40/294) according to ESPEN criteria. Malnutrition defined by both criteria was an independent risk factor for severe POCs, and the GLIM criteria demonstrated superior predictive performance. A…",
-      "authors": "Guiren Fang, Ting Zhu, Zhenmeng Lin et al.",
+      "title": "Understanding purchase intention toward upcycled foods through a consumer education lens: an extended theory of planned behavior approach",
+      "abstract": "BackgroundUpcycled foods offer a promising pathway for reducing food waste, improving resource-use efficiency, and promoting sustainable food consumption by transforming food resources that retain edible or nutritional value into new food products. However, the mechanisms through which consumers form purchase intention toward upcycled foods remain insufficiently understood.MethodsDrawing on the extended theory of planned behavior, this study developed a research model to examine the effects of health consciousness, environmental awareness, and product knowledge on attitude, as well as the effects of attitude, subjective norm, and perceived behavioral control on purchase intention. The mediating role of attitude was also tested. Data were collected using a three-wave survey design, 406 valid responses were retained for analysis. Exploratory factor analysis, confirmatory factor analysis, structural equation modeling, and bias-corrected bootstrap analysis were used to test the measurement and structural models.ResultsExploratory factor analysis identified seven factors, consistent with the theoretical constructs proposed in this study. Confirmatory factor analysis indicated satisfactory composite reliability, convergent validity, and discriminant validity for all constructs. The structural equation modeling results showed that health consciousness, environmental awareness, and product knowledge all had significant positive effects on consumers’ attitude toward upcycled foods, with product knowledge showing the strongest effect. Attitude, subjective norm, and perceived behavior…",
+      "authors": "Liang Shan, Yunhao Zhang, Yuguang Ma et al.",
       "published": "Jul 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1873158",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1871592",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Exploratory mediation analysis of body roundness index in the nonlinear association between CHG index and metabolic dysfunction-associated steatotic liver disease among non-diabetic adults",
-      "abstract": "BackgroundMetabolic dysfunction-associated steatotic liver disease (MASLD) is the most prevalent chronic liver disease worldwide, highlighting an urgent need for non-invasive early biomarkers. The cholesterol, high-density lipoprotein, and glucose index (CHG) is a novel composite marker reflecting disturbances in glucose and lipid metabolism. However, the independent association between CHG and MASLD, and the potential statistical mediating effect of visceral adiposity, as represented by the body roundness index (BRI), remains unclear, especially in non-diabetic individuals.MethodsThis cross-sectional study included 13,682 non-diabetic Japanese adults. Multivariable logistic regression, generalized additive models, and two-piecewise linear regression were used to explore the association, nonlinear relationship, and threshold effect between CHG and MASLD. Receiver operating characteristic (ROC) curve analysis was performed to evaluate CHG’s discriminatory performance. Exploratory mediation analysis was performed to statistically decompose the association between CHG and MASLD via BRI.ResultsThe prevalence of MASLD was 15.25%. After full adjustment, each 1-unit increase in CHG was independently associated with a higher risk of MASLD (OR = 4.46, 95% CI: 3.00–6.64). A significant dose–response trend was observed across CHG quartiles (Q4 vs. Q1: OR = 4.09, 95% CI: 2.83–5.91). A nonlinear threshold effect was identified at CHG = 5.52. CHG showed excellent discriminatory performance (AUC = 0.84), with an optimal cutoff at 5.23 (sensitivity = 0.81, specificity = 0.73), and retained…",
+      "title": "Research progress on the association of maternal high-fat diet with offspring neurodevelopment and susceptibility to Parkinson's disease",
+      "abstract": "Maternal high-fat diet (mHFD) is a growing global nutritional concern during pregnancy. It induces maternal systemic low-grade inflammation and oxidative stress, reshaping the intrauterine milieu via the placenta and causing selective developmental impairments in offspring midbrain dopaminergic (DA) neurons—including aberrant precursor proliferation/differentiation, simplified synapses, and nigrostriatal circuit deficits—which may increase adulthood Parkinson's disease (PD) susceptibility. Mechanistically, mHFD acts through two synergistic pathways: persistent activation of the insulin resistant–NF-κB inflammatory axis and suppression of PINK1/Parkin-mediated mitophagy, mutually reinforcing and compromising DA neuron resilience. This article reviews the pathological process of mHFD-mediated remodeling of the intrauterine microenvironment to increase the susceptibility of offspring PD and its two core mechanism pathways: the continuous activation of the IR-NF-κB inflammatory pathway and the functional inhibition of the PINK1/Parkin-mediated mitophagy pathway. On this basis, multi-dimensional early warning markers based on inflammatory factors, mitophagy-related molecules, epigenetic markers and nutritional exposure indicators, as well as potential intervention strategies such as nutritional supplementation, anti-inflammatory and pro-mitophagy targeting the above pathways were summarized, in order to provide a theoretical reference for the primary prevention of PD.",
+      "authors": "Qi Li, Zhi Jia, Musi Ji et al.",
+      "published": "Jul 2026",
+      "feedName": "Frontiers Nutrition",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1907443",
+      "image": "",
+      "screen": "right"
+    },
+    {
+      "title": "Frequency of adding salt to foods, metabolic signature, and the risk of extracoronary atherosclerotic vascular disease progression",
+      "abstract": "BackgroundThe frequency of adding salt to foods reflects an individual’s long-term salt preference, and excessive salt intake may increase cardiovascular risk. However, the association between this behavioral indicator and extracoronary atherosclerotic vascular disease, along with its underlying metabolic signature, remains inadequately characterized.MethodsWe included 495,291 participants from the UK Biobank and assessed the frequency of adding salt to foods. Cox proportional hazards regressions modeled the associations of salt-adding frequency with incident peripheral arterial disease (PAD) and incident carotid artery stenosis (CAS), and related events, respectively.ResultsDuring a median of 13.9 years of follow-up, 7,461 incident cases of PAD and 8,067 cases of CAS were identified. When fully adjusted for confounders, participants who sometimes, usually, or always added salt to foods showed an increased risk of developing PAD of 8%, 16%, and 35%, respectively, compared to those who never/rarely did. A comparable pattern of risk increase was also evident for CAS, with 26% higher risk in participants who always added salt to foods. In addition, consistent associations were observed for vascular-related events. Genetic analyses further revealed that the association between salt-adding frequency and PAD was independent of genetic predisposition. Finally, a metabolic signature for salt-adding frequency was constructed using 26 metabolites, which mediated 36.4% and 19.9% of the increased risks for PAD and CAS, respectively.ConclusionOur study shows that frequently adding salt …",
+      "authors": "Cheng Wei, Chenghui Cao, Wen Gong et al.",
+      "published": "Jul 2026",
+      "feedName": "Frontiers Nutrition",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1870553",
+      "image": "",
+      "screen": "right"
+    },
+    {
+      "title": "Waist circumference partially mediates the non-linear association between TyHGB and MASLD in non-diabetic Japanese adults",
+      "abstract": "BackgroundThe triglyceride high-density cholesterol-glucose body index (TyHGB) integrates atherogenic dyslipidemia, glucose metabolism, and generalized obesity, aligning closely with the pathophysiology of metabolic dysfunction-associated steatotic liver disease (MASLD). However, whether its association with MASLD follows a non-linear pattern and to what extent waist circumference (WC)-a surrogate for visceral adiposity-mediates this relationship remains unclear.MethodsThis cross-sectional study included 13,682 non-diabetic Japanese adults from a community-based cohort. Multivariable logistic regression, generalized additive models, and two-piecewise linear regression were used to evaluate the independent and non-linear association between TyHGB and prevalent MASLD. Mediation analysis with 1,000 bootstrap resamples quantified the mediating effect of WC and its heterogeneity across metabolic subgroups.ResultsThe overall prevalence of MASLD was 15.25%. Each 1-unit increase in TyHGB was associated with a 1.35-fold higher odds of MASLD (OR = 1.35, 95% CI: 1.31–1.40, P < 0.001). A non-linear inflection point was identified at TyHGB = 9.70; below this threshold, the association was markedly stronger (OR=2.02, 95% CI: 1.88–2.17), whereas above it the risk increment plateaued (OR = 1.04, P = 0.090). WC partially mediated 46.4% of the TyHGB–MASLD association, with a substantially larger mediated proportion in non-obese individuals (42.67%) than in obese participants (7.83%).ConclusionIn non-diabetic Japanese adults, TyHGB is independently and non-linearly associated with MASLD, with…",
       "authors": "Yanyan Xuan, Jingbo Yu, Qi Yao",
       "published": "Jul 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1868410",
-      "image": "",
-      "screen": "right"
-    },
-    {
-      "title": "Editorial: Immunoregulation and inflammation interventions in nutritional metabolic diseases",
-      "abstract": "",
-      "authors": "Lixue Wang, Lingli Zhou, Dachuan Dong et al.",
-      "published": "Jul 2026",
-      "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1932965",
-      "image": "",
-      "screen": "right"
-    },
-    {
-      "title": "Deriving BMI-referenced, sex-specific fat mass index cutoff values in older Saudi adults: a cross-sectional secondary analysis",
-      "abstract": "Background/objectivesAge-related changes in body composition may reduce the ability of body mass index (BMI) to accurately reflect adiposity in older adults. Fat mass index (FMI), which expresses fat mass relative to height squared, may provide a more direct estimate of adiposity. However, BMI-referenced, sex-specific FMI cutoff values have not been well characterized among older Saudi adults. This study aimed to derive sex-specific cutoff values for FMI, body fat percentage (%BF), and fat mass corresponding to selected BMI thresholds among older Saudi adults.MethodsThis cross-sectional secondary analysis included 1,954 adults aged ≥60 years who attended 15 randomly selected primary healthcare centers in Riyadh, Saudi Arabia. Anthropometric and bioelectrical impedance analysis-derived body composition data were analyzed. Receiver operating characteristic (ROC) curve analysis and the Youden index were used to derive cutoff values, and DeLong’s test for correlated ROC curves was used to compare BMI-referenced discriminatory performance.ResultsAcross the examined BMI thresholds, FMI demonstrated high discriminatory performance relative to BMI in both men and women. For older men, FMI cutoffs corresponding to BMI > 27 kg/m2, BMI ≥ 30 kg/m2, and BMI > 31 kg/m2 were 7.90, 9.48, and 9.71 kg/m2, respectively. The corresponding values in older women were 10.30, 12.10, and 13.00 kg/m2. DeLong testing generally supported higher AUCs for FMI than for %BF and fat mass, although the difference between FMI and fat mass at BMI ≥ 25 kg/m2 in men was not statistically significant.ConclusionT…",
-      "authors": "Maram Alsadi, Mahmoud M. A. Abulmeaty, Aljazi Bin Zarah et al.",
-      "published": "Jul 2026",
-      "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1900590",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1915937",
       "image": "",
       "screen": "right"
     },

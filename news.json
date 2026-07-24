@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-24T13:21:36Z",
+  "updated": "2026-07-24T15:25:39Z",
   "items": [
     {
       "title": "Food waste recycling shifts burdens from climate to soil",
@@ -132,6 +132,16 @@
       "screen": "left"
     },
     {
+      "title": "Nudging healthier food choices among low socioeconomic position consumers: a field study in an Italian social supermarket",
+      "abstract": "",
+      "authors": "Cristina Mora, Rungsaran Wongprawmas, Davide Menozzi et al.",
+      "published": "Dec 2026",
+      "feedName": "Food Quality & Preference",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0950329326002144?dgcid=rss_sd_all",
+      "image": "",
+      "screen": "left"
+    },
+    {
       "title": "From sensory barriers to market acceptance: A multi-group generalized structural equation modelling of willingness to buy for Spirulina-enriched crackers across food-related lifestyle segments",
       "abstract": "",
       "authors": "A.S.H. Wahyuningtyas, Gladys Oryz Berlian, Riyanti Isaskar et al.",
@@ -148,16 +158,6 @@
       "published": "Dec 2026",
       "feedName": "Food Quality & Preference",
       "url": "https://www.sciencedirect.com/science/article/pii/S0950329326001850?dgcid=rss_sd_all",
-      "image": "",
-      "screen": "left"
-    },
-    {
-      "title": "When local matters: Locavorism beliefs and consumer acceptance of suboptimal produce",
-      "abstract": "",
-      "authors": "Decong Tang, Heliang Huang, Hairong Lai",
-      "published": "Dec 2026",
-      "feedName": "Food Quality & Preference",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0950329326002041?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -382,6 +382,16 @@
       "screen": "right"
     },
     {
+      "title": "AI helps Stanford scientists discover “natural Ozempic” without the usual side effects",
+      "abstract": "Stanford Medicine researchers have discovered a naturally occurring molecule that may suppress appetite and reduce body weight much like Ozempic, but without several of its common side effects. The molecule, called BRP, acts on a more targeted region of the brain involved in hunger and metabolism rather than affecting tissues throughout the body.",
+      "authors": "",
+      "published": "Jul 2026",
+      "feedName": "ScienceDaily Nutrition",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260719230608.htm",
+      "image": "https://www.sciencedaily.com/images/1920/weight-loss-molecule-woman.webp",
+      "screen": "right"
+    },
+    {
       "title": "Coffee may help the body fight stress and aging through a hidden cellular switch",
       "abstract": "Scientists may have uncovered one reason coffee is repeatedly associated with healthier aging and lower disease risk. Compounds in coffee appear to activate NR4A1, a receptor that helps protect cells from stress, inflammation, and damage. These protective effects disappeared when the receptor was removed, strengthening the connection. Surprisingly, plant-based compounds such as caffeic acid seemed far more active than caffeine itself.",
       "authors": "",
@@ -392,42 +402,12 @@
       "screen": "right"
     },
     {
-      "title": "Intermittent fasting helped people keep weight off for a year",
-      "abstract": "A 12-week intermittent fasting program produced weight-loss benefits that were still visible a year later. Participants who ate within an eight-hour window maintained more weight loss than those who followed their usual longer eating schedule. Both early and late eating windows worked, while early fasting appeared especially helpful for preserving fat loss.",
-      "authors": "",
-      "published": "Jul 2026",
-      "feedName": "ScienceDaily Nutrition",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260718010154.htm",
-      "image": "https://www.sciencedaily.com/images/1920/plate-fork-knife-food-clock-intermittent-fasting.webp",
-      "screen": "right"
-    },
-    {
-      "title": "Comparison of volatile organic compounds in different parts of Houttuynia cordata Thunb. via E-nose, GC–IMS, and multivariate statistical analysis",
-      "abstract": "IntroductionHouttuynia cordata Thunb. (H. cordata) is a well-known medicinal and edible plant extensively utilized in Asia. The different parts of H. cordata, including its leaves, stems, and rhizomes, possess distinct functionalities and clinical applications.MethodsThis study systematically compared and analyzed the composition of volatile organic compounds (VOCs) in three different parts of H. cordata using gas chromatography-ion mobility spectrometry (GC-IMS) and Heracles NEO ultra-fast gas phase electronic nose (E-nose) complemented by multivariate statistical analysis.ResultsThe results from E-nose and GC-IMS revealed significant variations in the composition and peak intensity of VOCs among the different parts of H. cordata. Notably, the differences in VOCs and odor between the leaves and stems were minimal. 63 signal peaks were detected, and 55 VOCs were tentatively identified via GC-IMS, with terpenes constituting the largest proportion. Through the application of partial least squares discriminant analysis (PLS-DA), cluster analysis (CA), and the variable importance in projection (VIP) method for feature selection, 16 VOCs were identified as capable of effectively distinguishing the different parts of H. cordata..ConclusionThis study demonstrated the effectiveness of combining GC-IMS with E-nose technology to detect VOCs in different parts of H. cordata, establishing a theoretical basis for resource development.",
-      "authors": "Jincheng Zhao, Manshu Zou, Qianqian Luo et al.",
+      "title": "Prognostic value of the cardiometabolic index for cardiovascular outcomes in patients with type 2 diabetes mellitus",
+      "abstract": "BackgroundThe Cardiometabolic Index (CMI) serves as a measurable indicator capable of concurrently reflecting the presence of metabolic disorders and the status of central obesity. The aim of this study is to evaluate the association between the CMI and the risk of developing major adverse cardiovascular events (MACEs) and all-cause mortality in patients with type 2 diabetes mellitus (T2DM).MethodsThis post-hoc analysis included 10,094 participants from the Action to Control Cardiovascular Risk in Diabetes (ACCORD) study and the ACCORD Follow-up study with baseline CMI data. The natural logarithm (ln) of each CMI measurement was computed. Univariate and multivariate Cox proportional hazard regression analyses were conducted to examine the relationship between CMI and the risk of MACEs and all-cause mortality. The incremental predictive value of CMI was further assessed.ResultsOver a median follow-up period of 8.82 years, 1,791 (17.74%) participants experienced MACEs, and 1,914 (18.96%) all-cause mortality were recorded. After adjusting for traditional cardiovascular risk factors, multivariate Cox proportional hazards regression analysis demonstrated a significant association between CMI and the risk of MACEs and all-cause mortality. Incorporating CMI into the conventional risk model improved the predictive efficacy for MACEs and all-cause mortality.ConclusionsElevated CMI is associated with an increased risk of MACEs and all-cause mortality in patients with T2DM. Furthermore, CMI improves the predictive performance for MACEs and all-cause mortality risk in this patient popu…",
+      "authors": "Cheng Zeng, Maojun Liu, Peiqi Tang et al.",
       "published": "Jul 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1861403",
-      "image": "",
-      "screen": "right"
-    },
-    {
-      "title": "Explainable machine learning reveals the role of taste-related genetic variants in body mass index: a nutrigenetic perspective",
-      "abstract": "BackgroundTaste perception–related genetic variants may influence dietary behavior and energy balance; however, their relationship with body mass index (BMI) remains unclear. This study aimed to investigate the association between taste-related genetic variants and BMI using both statistical analysis and an explainable machine learning approach.MethodsThis retrospective observational study included 200 individuals aged 5–60 years with available genotype and BMI data. Variants in TAS2R38, TAS1R2, TAS1R3, and FGF21 were analyzed. Associations with BMI categories were evaluated using chi-square tests. A Random Forest classification model was developed, and SHAP (SHapley Additive exPlanations) values were used to quantify the contribution of each variant and explore allele-dose effects.ResultsNo significant associations were found between genetic variants and BMI categories in adults (p > 0.05). In children, rs35744813 showed a significant inverse association with BMI (p = 0.011). SHAP analysis revealed that TAS2R38 variants (rs10246939 and rs1726866) and FGF21 rs838133 demonstrated the highest relative contributions to BMI classification. Allele-dose patterns suggested differences in model attribution across genotype groups.ConclusionTaste-related genetic variants did not demonstrate independent associations with BMI classification in the present study. However, explainable machine learning approaches identified heterogeneous model contributions across genetic variants, suggesting potential differences in genotype-related patterns within a multifactorial framework. These findi…",
-      "authors": "Gulsen Meral, Neval Burkay, Ahmet Avci et al.",
-      "published": "Jul 2026",
-      "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1869879",
-      "image": "",
-      "screen": "right"
-    },
-    {
-      "title": "Dietary, lifestyle, and environmental factors associated with ulcerative colitis: a systematic review and meta-analysis of observational studies",
-      "abstract": "Background and aimsUlcerative colitis (UC) is increasing worldwide, and dietary, lifestyle, and environmental exposures may contribute to disease susceptibility. This systematic review and meta-analysis evaluated the associations between these exposures and the risk of incident UC.MethodsPubMed, Embase, and the Cochrane Library were searched for observational studies examining dietary, lifestyle, medication-related, surgical, early-life, sociodemographic, and other environmental exposures in relation to UC risk through November 12, 2025. Random-effects models were used to pool effect estimates. Study quality was assessed using the Newcastle–Ottawa Scale, and the certainty of evidence was evaluated using GRADE.ResultsThirty observational studies involving 148,468 patients with UC were included, covering 17 factors and 27 comparisons. Daily egg consumption, family history of inflammatory bowel disease, the highest reported category of antibiotic exposure, ever smoking, and former smoking were associated with increased UC risk. Pet exposure, coffee consumption, appendectomy, higher educational attainment, light alcohol consumption, and fruit intake were associated with reduced UC risk. Current smoking was associated with a lower risk of UC in case–control studies, whereas the association was not statistically significant in cohort studies. Adjusted estimates suggested that breastfeeding might be associated with a lower risk of UC, although the evidence was limited. No clear associations were observed for body mass index, oral contraceptive use, tonsillectomy, previous gastroin…",
-      "authors": "Yahui Wang, Tianru Xie, Ziwen Liao et al.",
-      "published": "Jul 2026",
-      "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1885679",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1787383",
       "image": "",
       "screen": "right"
     },
@@ -438,6 +418,26 @@
       "published": "Jul 2026",
       "feedName": "Frontiers Nutrition",
       "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1915937",
+      "image": "",
+      "screen": "right"
+    },
+    {
+      "title": "Effect of long-term intake of α-lactalbumin on menstruation-related symptoms and quality of life in healthy Japanese women: a randomized, double-blind, placebo-controlled study",
+      "abstract": "Background/objectivesCoping strategies for menstruation-related symptoms are required to support women’s health-related quality of life (QoL) and the continued social advancement of women. Previous studies have reported that short-term intake of α-lactalbumin (aLA) alleviates physical symptoms during menstruation. In this study, we investigated the effects of long-term intake of aLA on menstruation-related symptoms and QoL in healthy Japanese women.MethodsA randomized, double-blind, placebo-controlled study was conducted. Participants were 140 healthy women aged 20–39 years and were randomly assigned to receive aLA (900 mg/day) or placebo for three menstrual cycles. Premenstrual and intramenstrual symptoms were assessed at each cycle. The primary outcome was subjective symptoms on the Menstrual Distress Questionnaire (MDQ), and secondary outcomes were the 36-Item Short Form Health Survey (SF-36), subjective symptoms on the Visual Analog Scale, and urinary prostaglandins.ResultsThe primary outcome, the MDQ, showed no significant differences in the total score or the six factor scores between groups, either premenstrually or during menstruation. In exploratory analyses, aLA intake significantly alleviated the premenstrual MDQ sub-scores “Weight gain” and “Lowered motor coordination” compared with placebo (p < 0.05 for each). Among the secondary outcomes, aLA intake significantly improved the premenstrual role-related and social QoL scores on the SF-36 compared with placebo (p < 0.05). No significant group differences were observed for other items.ConclusionIn this trial, long…",
+      "authors": "Kentaro Ito, Kae Yamazaki, Anna Natori",
+      "published": "Jul 2026",
+      "feedName": "Frontiers Nutrition",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1892605",
+      "image": "",
+      "screen": "right"
+    },
+    {
+      "title": "Associations of meal timing and sleep timing with premenstrual syndrome and dysmenorrhea in Japanese women: a cross-sectional study",
+      "abstract": "BackgroundPremenstrual syndrome (PMS) and dysmenorrhea (menstrual pain) are common among women of reproductive age. Fluctuations in reproductive hormone levels during the late luteal phase have been linked to changes in eating and sleep patterns, which may contribute to PMS and dysmenorrhea. This study examined the associations of meal timing and sleep timing with PMS symptoms and dysmenorrhea.MethodsIn this cross-sectional study, 426 Japanese women (mean age: 33 ± 5 years; body mass index: 22.2 ± 4.3 kg/m2) were recruited via the Asken mobile health application. Participants completed questionnaires assessing PMS symptoms, dysmenorrhea, meal timing (time of first meal, time of last meal, and eating window), sleep timing (wake-up time, bedtime, and sleep duration), chronotype (individual preference for earlier or later sleep-wake timing), and social jetlag (differences between sleep timing on workdays and free days). Multivariable regression models were used after adjusting for age, BMI, smoking status, and alcohol consumption.ResultsOn workdays, later first meal (β = 0.211) and earlier wake-up time (β = −0.184) were associated with higher eating-related PMS symptoms. On free days, earlier first meal (β = −0.191), later last meal (β = 0.162), longer eating window (β = 0.133), later wake-up time (β = 0.308), and longer sleep duration (β = 0.147) were associated with higher dysmenorrhea severity. Lower breakfast frequency (β = −0.13) was associated with higher eating-related PMS symptoms. Higher afternoon snacking was associated with higher total PMS symptoms (β = 0.13), high…",
+      "authors": "Aleef Daniel, Yu Nishimura, Yun-Peng Lo et al.",
+      "published": "Jul 2026",
+      "feedName": "Frontiers Nutrition",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1875559",
       "image": "",
       "screen": "right"
     },
@@ -563,7 +563,7 @@
       "venue": "Journal of food science and technology",
       "feedName": "Lab Research",
       "citationCount": 9,
-      "recentCitations": 1,
+      "recentCitations": 0,
       "s2_paper_id": "435cee3aeeb4f44de0a7eef6197bce01a348c990",
       "url": "https://doi.org/10.1007/s13197-022-05534-w",
       "image": "",

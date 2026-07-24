@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-23T22:48:29Z",
+  "updated": "2026-07-24T01:53:04Z",
   "items": [
     {
       "title": "Food waste recycling shifts burdens from climate to soil",
@@ -282,6 +282,16 @@
       "screen": "left"
     },
     {
+      "title": "Recoverable molecular helper guides synthesis of highly pure chiral rotaxanes",
+      "abstract": "Chiral molecules can exist in left- and right-handed forms. Although these mirror-image forms may look almost identical, they can behave very differently in chemical reactions, biological systems and advanced materials. Preparing one mirror-image form in high purity is therefore an important goal in chemistry.",
+      "authors": "",
+      "published": "Jul 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-07-recoverable-molecular-helper-synthesis-highly.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/making-high-purity-chi.jpg",
+      "screen": "right"
+    },
+    {
       "title": "Lithium ions sprint up to 10,000 times faster when their molecular cages briefly open",
       "abstract": "An international collaborative research group led by Professor Bong June Sung of the Department of Chemistry at Sogang University and Professor Shinji Saito of the Institute for Molecular Science (IMS), National Institutes of Natural Sciences (NINS), and the Graduate University for Advanced Studies, SOKENDAI, has elucidated, at the molecular level, how lithium ions move within organic ionic plastic crystals (OIPCs)—which are attracting attention as solid electrolytes for next-generation batteries.",
       "authors": "",
@@ -309,16 +319,6 @@
       "feedName": "Phys.org Analytics",
       "url": "https://phys.org/news/2026-07-driven-chemistry-method-antiviral-compound.html",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/chemists-supercharge-a.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "AI and quantum chemistry combine to identify efficient blue OLED materials",
-      "abstract": "Organic light-emitting diodes (OLEDs) have become a standard in modern devices with incredible contrast and sleek designs. While initially an expensive luxury, OLEDs are gradually becoming more financially accessible as the technology improves. Now, researchers at the Institute of Transformative Bio-Molecules (WPI-ITbM) at Nagoya University and the Institute for Advanced Study at Kyushu University have combined quantum chemistry with machine learning to identify new materials for blue OLEDs for incorporation in next-generation ultra-high-definition displays. Their research was published in Angewandte Chemie on July 21, 2026.",
-      "authors": "",
-      "published": "Jul 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-07-ai-quantum-chemistry-combine-efficient.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/researchers-combine-ai.jpg",
       "screen": "right"
     },
     {

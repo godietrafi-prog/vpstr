@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-24T19:15:52Z",
+  "updated": "2026-07-24T20:57:05Z",
   "items": [
     {
       "title": "Food waste recycling shifts burdens from climate to soil",
@@ -282,6 +282,16 @@
       "screen": "left"
     },
     {
+      "title": "Gold-catalyzed chemical reaction advances next-generation anticancer prodrugs",
+      "abstract": "Anticancer prodrugs have attracted significant attention from the medical and scientific communities in recent years because of their potential to improve treatment precision while reducing side effects. These drugs are engineered to remain inactive until they are activated at specific sites or under particular physiological conditions within the body, at which point they release their therapeutic effect.",
+      "authors": "",
+      "published": "Jul 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-07-gold-catalyzed-chemical-reaction-advances.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/researchers-develop-bi-2.jpg",
+      "screen": "right"
+    },
+    {
       "title": "Recoverable molecular helper guides synthesis of highly pure chiral rotaxanes",
       "abstract": "Chiral molecules can exist in left- and right-handed forms. Although these mirror-image forms may look almost identical, they can behave very differently in chemical reactions, biological systems and advanced materials. Preparing one mirror-image form in high purity is therefore an important goal in chemistry.",
       "authors": "",
@@ -309,16 +319,6 @@
       "feedName": "Phys.org Analytics",
       "url": "https://phys.org/news/2026-07-neutral-catalysts-chalcogen-bonding-asymmetry.html",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/neutral-catalysts-achi.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "Light-driven chemistry method could create antiviral compound libraries 10 to 100 times larger within weeks",
-      "abstract": "As the world faces new and often untreatable viral threats, Simon Fraser University researchers have found a way to cut years off the time it takes to discover antiviral drugs. The new research enables scientists to quickly create large libraries of nucleoside analogs (NAs), compounds that mimic the building blocks of DNA and RNA and are widely used to treat cancer and viral infections such as HIV and hepatitis.",
-      "authors": "",
-      "published": "Jul 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-07-driven-chemistry-method-antiviral-compound.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/chemists-supercharge-a.jpg",
       "screen": "right"
     },
     {

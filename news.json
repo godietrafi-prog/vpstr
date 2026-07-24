@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-24T15:25:39Z",
+  "updated": "2026-07-24T17:25:14Z",
   "items": [
     {
       "title": "Food waste recycling shifts burdens from climate to soil",
@@ -112,12 +112,12 @@
       "screen": "left"
     },
     {
-      "title": "Quality evaluation and technological advances in aquatic products: Evolution from traditional detection to intelligent monitoring",
+      "title": "Applications of artificial intelligence in toxicity prediction of food-derived functional peptides: Recent advances and future perspectives",
       "abstract": "",
-      "authors": "Hao Cheng, Inho Yang, Jing Xie",
+      "authors": "Xiang Liu, Zhenxia Xu, Yongrou Fang et al.",
       "published": "Oct 2026",
       "feedName": "Trends in Food Sci & Tech",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426004292?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426004358?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -563,7 +563,7 @@
       "venue": "Journal of food science and technology",
       "feedName": "Lab Research",
       "citationCount": 9,
-      "recentCitations": 0,
+      "recentCitations": 1,
       "s2_paper_id": "435cee3aeeb4f44de0a7eef6197bce01a348c990",
       "url": "https://doi.org/10.1007/s13197-022-05534-w",
       "image": "",

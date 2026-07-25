@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-25T11:03:20Z",
+  "updated": "2026-07-25T13:04:11Z",
   "items": [
     {
       "title": "Food waste recycling shifts burdens from climate to soil",
@@ -112,12 +112,12 @@
       "screen": "left"
     },
     {
-      "title": "Applications of artificial intelligence in toxicity prediction of food-derived functional peptides: Recent advances and future perspectives",
+      "title": "Bee product–based biomaterials: From advanced synthesis strategies to food and health applications",
       "abstract": "",
-      "authors": "Xiang Liu, Zhenxia Xu, Yongrou Fang et al.",
+      "authors": "Qing Li, Keke Zhao, Zhongzhi Mo et al.",
       "published": "Oct 2026",
       "feedName": "Trends in Food Sci & Tech",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426004358?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426004231?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -282,6 +282,16 @@
       "screen": "left"
     },
     {
+      "title": "Study explores rare atom-containing natural products and their biomedical potential",
+      "abstract": "Modern research on secondary metabolites from microbes, plants and marine organisms has revealed a remarkable diversity of chemical structures and bioactivities with broad applications in biotechnology, agriculture and medicine. Most natural products are composed of primary biogenic elements such as carbon, hydrogen, nitrogen and oxygen.",
+      "authors": "",
+      "published": "Jul 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-07-explores-rare-atom-natural-products.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/study-explores-rare-at-1.jpg",
+      "screen": "right"
+    },
+    {
       "title": "Gold-catalyzed chemical reaction advances next-generation anticancer prodrugs",
       "abstract": "Anticancer prodrugs have attracted significant attention from the medical and scientific communities in recent years because of their potential to improve treatment precision while reducing side effects. These drugs are engineered to remain inactive until they are activated at specific sites or under particular physiological conditions within the body, at which point they release their therapeutic effect.",
       "authors": "",
@@ -309,16 +319,6 @@
       "feedName": "Phys.org Analytics",
       "url": "https://phys.org/news/2026-07-lithium-ions-sprint-faster-molecular.html",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/lithium-ions-sprint-up.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "Neutral catalysts achieve chalcogen-bonding asymmetry",
-      "abstract": "Chemists have demonstrated that neutral chalcogen-bond donors can induce asymmetry in chemical reactions, addressing a challenge that has limited the development of chalcogen-bonding catalysis.",
-      "authors": "",
-      "published": "Jul 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-07-neutral-catalysts-chalcogen-bonding-asymmetry.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/neutral-catalysts-achi.jpg",
       "screen": "right"
     },
     {

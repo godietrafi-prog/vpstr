@@ -19,19 +19,21 @@ BROWSER_UA = ("Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
 
 
 # ── Springer Nature Fig1 URL ───────────────────────────────────────────────
-def springer_fig1_url(article_url: str, year: int) -> str:
+def springer_fig1_url(article_url: str, year: int | None = None) -> str:
     """Construct the Springer CDN URL for Fig1 directly from the article URL.
 
     Nature URL: .../articles/s{journal}-{yy}-{num}-{check}
     CDN URL:    media.springernature.com/m685/springer-static/image/
                 art%3A{encoded_doi}/MediaObjects/{journal}_{year}_{num}_Fig1_HTML.png
     """
-    m = re.search(r'nature\.com/articles/(s(\d+)-\d+-0*(\d+)-\d+)', article_url)
+    m = re.search(r'nature\.com/articles/(s(\d+)-(\d+)-0*(\d+)-[A-Za-z0-9]+)', article_url)
     if not m:
         return ""
     suffix  = m.group(1)       # s43016-026-01368-3
     journal = m.group(2)       # 43016
-    art_num = int(m.group(3))  # 1368 (leading zeros stripped)
+    pub_year = 2000 + int(m.group(3))  # 026 → 2026
+    art_num = int(m.group(4))  # 1368 (leading zeros stripped)
+    year = year or pub_year
     doi     = f"10.1038/{suffix}"
     enc     = urllib.parse.quote(f"art:{doi}", safe="")
     return (f"https://media.springernature.com/lw926/springer-static/image/"
@@ -361,6 +363,19 @@ if os.path.exists("news.json"):
 items        = []
 current_year = datetime.now(timezone.utc).year
 
+
+def cached_articles(feed_info: dict) -> list:
+    """Reuse cached feed items, repairing deterministic publisher image URLs."""
+    cached = _prev_by_feed.get(feed_info["name"], [])[:MAX_PER_FEED]
+    repaired = []
+    for old_item in cached:
+        item = dict(old_item)
+        if feed_info.get("type") == "nature" and not item.get("image"):
+            item["image"] = springer_fig1_url(item.get("url", ""))
+        repaired.append(item)
+    return repaired
+
+
 for feed_info in FEEDS:
     feed_type = feed_info.get("type", "generic")
     is_nature = feed_type == "nature"
@@ -402,7 +417,7 @@ for feed_info in FEEDS:
 
         if count == 0:
             # Feed returned nothing — reuse cached articles from previous run
-            cached = _prev_by_feed.get(feed_info["name"], [])[:MAX_PER_FEED]
+            cached = cached_articles(feed_info)
             items.extend(cached)
             print(f"  {feed_info['name']}: 0 fetched — reused {len(cached)} cached")
         else:
@@ -410,7 +425,7 @@ for feed_info in FEEDS:
 
     except Exception as e:
         # Network/parse error — reuse cache
-        cached = _prev_by_feed.get(feed_info["name"], [])[:MAX_PER_FEED]
+        cached = cached_articles(feed_info)
         items.extend(cached)
         print(f"  ERROR {feed_info['name']}: {e} — reused {len(cached)} cached")
 

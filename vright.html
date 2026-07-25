@@ -236,8 +236,8 @@
             content: '';
             position: absolute;
             top: 0; left: 0; right: 0;
-            height: 45%;
-            background: linear-gradient(to bottom, #071422 0%, rgba(7,20,34,0) 100%);
+            height: 18%;
+            background: linear-gradient(to bottom, rgba(7,20,34,0.72) 0%, rgba(7,20,34,0) 100%);
             z-index: 1;
             pointer-events: none;
         }
@@ -245,8 +245,8 @@
             content: '';
             position: absolute;
             bottom: 0; left: 0; right: 0;
-            height: 35%;
-            background: linear-gradient(to top, rgba(7,20,34,0.65) 0%, rgba(7,20,34,0) 100%);
+            height: 12%;
+            background: linear-gradient(to top, rgba(7,20,34,0.42) 0%, rgba(7,20,34,0) 100%);
             z-index: 1;
             pointer-events: none;
         }
@@ -851,6 +851,7 @@
         imageDuration:    7,   // seconds for regular images
         rssCardDuration: 40,   // seconds for RSS full-screen cards
         rssMaxPerFeed:    3,   // how many articles to take from each feed
+        rssFullCardMinChars: 300, // no-image summaries below this are too sparse
         birthdayDuration: 30,  // seconds; shown at :00, :20 and :40
         birthdayEverySlides: 0, // production schedule; >0 is test-only
         birthdayAudioEnabled: false, // greeting stays synchronized; audio comes from left
@@ -1585,7 +1586,8 @@
                                     screen:    it.screen    || 'both' };
                     var abstractText = stripHTML(rssItem.abstract);
                     var titleText = stripHTML(rssItem.title);
-                    var usefulAbstract = abstractText.length >= 120 && abstractText.toLowerCase() !== titleText.toLowerCase();
+                    var usefulAbstract = abstractText.length >= CONFIG.rssFullCardMinChars &&
+                                         abstractText.toLowerCase() !== titleText.toLowerCase();
                     if (usefulAbstract || rssItem.image) {
                         rich.push({ type: 'rss_card', duration: CONFIG.rssCardDuration, _rssItem: rssItem });
                     } else {

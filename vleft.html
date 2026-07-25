@@ -81,7 +81,8 @@
             width: 100%;
             height: 100%;
             overflow: hidden;
-            background: #000;
+            background:
+                radial-gradient(ellipse at center, rgba(78,201,106,0.14) 0%, rgba(20,68,39,0.08) 38%, #000 74%);
         }
         /* edge vignette */
         .poster-wrap::after {
@@ -97,6 +98,7 @@
             z-index: 1;
             width: 100%; height: 100%;
             object-fit: contain;
+            filter: drop-shadow(0 0 18px rgba(78,201,106,0.18));
         }
 
         /* ── Photo wrapper (WhatsApp / event photos) ── */
@@ -682,18 +684,6 @@
                 radial-gradient(circle at 16% 14%, rgba(78,201,106,0.08), transparent 34%),
                 #07110e;
         }
-        #slides-area::after {
-            content: '';
-            position: absolute;
-            inset: 1.1%;
-            z-index: 20;
-            border: 1px solid rgba(109,235,143,0.24);
-            box-shadow:
-                inset 0 0 34px rgba(0,0,0,0.34),
-                0 0 18px rgba(78,201,106,0.08);
-            pointer-events: none;
-        }
-
         .rss-card,
         .rss-dual,
         .lab-card {
@@ -795,6 +785,28 @@
             border-top-color: #58cf73;
             box-shadow: inset 0 5px 18px rgba(41,139,69,0.06);
         }
+        #slide-progress {
+            position: absolute;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            z-index: 30;
+            height: 3px;
+            opacity: 0;
+            transform: scaleX(0);
+            transform-origin: left center;
+            background: linear-gradient(90deg, #77ec96, #2cc65b 65%, #d9ffe2);
+            box-shadow: 0 0 10px rgba(89,229,124,0.65);
+            pointer-events: none;
+        }
+        #slide-progress.running {
+            opacity: 0.92;
+            animation: slide-elapsed var(--slide-duration) linear forwards;
+        }
+        @keyframes slide-elapsed {
+            from { transform: scaleX(0); }
+            to   { transform: scaleX(1); }
+        }
 
     </style>
 </head>
@@ -807,7 +819,7 @@
             <div class="line"></div>
             <div class="dot"></div>
         </div>
-        <div id="slides-area"></div>
+        <div id="slides-area"><div id="slide-progress" aria-hidden="true"></div></div>
         <div id="news-ticker">
             <div id="ticker-label">RESEARCH NEWS</div>
             <div id="ticker-scroll"><div id="ticker-inner">Loading headlines...</div></div>
@@ -855,6 +867,7 @@
     // ENGINE
     // ================================================================
     var slidesArea = document.getElementById('slides-area');
+    var slideProgress = document.getElementById('slide-progress');
     var pool     = [];   // items from slides.json + rss cards
     var poolEls  = [];   // one DOM element per pool item
     var playlist = [];
@@ -1306,6 +1319,7 @@
             }
         }
         clearTimeout(timer);
+        slideProgress.classList.remove('running');
 
         current = pos;
         var el = poolEls[playlist[current]];
@@ -1359,7 +1373,12 @@
         } else {
             var dur = parseFloat(el.getAttribute('data-duration'));
             var img = el.querySelector('img');
-            function startTimer() { timer = setTimeout(next, dur * 1000); }
+            function startTimer() {
+                slideProgress.style.setProperty('--slide-duration', dur + 's');
+                void slideProgress.offsetWidth;
+                slideProgress.classList.add('running');
+                timer = setTimeout(next, dur * 1000);
+            }
             if (img && !img.complete) {
                 img.onload  = startTimer;
                 img.onerror = function() { next(); };

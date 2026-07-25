@@ -336,7 +336,7 @@ FEEDS = [
 
 MAX_PER_FEED = 4   # cards shown per feed
 ABSTRACT_MAX = 1600 # characters (~15 lines)
-ABSTRACT_MIN = 600  # must remain substantial if a remote image fails
+ABSTRACT_MIN = 120  # short summaries are useful when paired with a working image
 
 
 def usable_abstract(title: str, abstract: str) -> str:

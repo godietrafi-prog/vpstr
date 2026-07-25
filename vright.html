@@ -851,7 +851,7 @@
         imageDuration:    7,   // seconds for regular images
         rssCardDuration: 40,   // seconds for RSS full-screen cards
         rssMaxPerFeed:    3,   // how many articles to take from each feed
-        rssFullCardMinChars: 600, // must remain substantial if a remote image fails
+        rssFullCardMinChars: 600, // text-only cards need enough copy to fill the screen
         birthdayDuration: 30,  // seconds; shown at :00, :20 and :40
         birthdayEverySlides: 0, // production schedule; >0 is test-only
         birthdayAudioEnabled: false, // greeting stays synchronized; audio comes from left
@@ -1556,13 +1556,29 @@
     var tickerInner = document.getElementById('ticker-inner');
     var tickerScroll = document.getElementById('ticker-scroll');
 
-    // Load news.json — classify as rich (full slide) or compact (two per slide)
+    function confirmImage(url, callback) {
+        var settled = false;
+        var probe = new Image();
+        var timer = setTimeout(function() { finish(false); }, 6000);
+        function finish(ok) {
+            if (settled) return;
+            settled = true;
+            clearTimeout(timer);
+            probe.onload = probe.onerror = null;
+            callback(ok);
+        }
+        probe.onload = function() { finish(probe.naturalWidth > 0); };
+        probe.onerror = function() { finish(false); };
+        probe.src = url;
+    }
+
+    // Load news.json — short cards qualify only after their image really loads
     function rssFetchAll(callback) {
         var req = new XMLHttpRequest();
         req.open('GET', NEWS_JSON + '?v=' + Date.now());
         req.timeout = 8000;
         req.onload = function() {
-            var rich = [], compact = [];
+            var rich = [], compact = [], imageCandidates = [];
             try {
                 var d = JSON.parse(req.responseText);
                 (d.items || []).forEach(function(it) {
@@ -1590,12 +1606,29 @@
                                          abstractText.toLowerCase() !== titleText.toLowerCase();
                     if (usefulAbstract) {
                         rich.push({ type: 'rss_card', duration: CONFIG.rssCardDuration, _rssItem: rssItem });
+                    } else if (rssItem.image) {
+                        imageCandidates.push(rssItem);
                     } else {
                         compact.push(rssItem);
                     }
                 });
             } catch(e) {}
-            callback(rich);
+            if (!imageCandidates.length) {
+                callback(rich);
+                return;
+            }
+            var pending = imageCandidates.length;
+            imageCandidates.forEach(function(rssItem) {
+                confirmImage(rssItem.image, function(ok) {
+                    if (ok) {
+                        rich.push({ type: 'rss_card', duration: CONFIG.rssCardDuration, _rssItem: rssItem });
+                    } else {
+                        compact.push(rssItem);
+                    }
+                    pending -= 1;
+                    if (pending === 0) callback(rich);
+                });
+            });
         };
         req.onerror = req.ontimeout = function() { callback([]); };
         req.send();

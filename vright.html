@@ -851,7 +851,7 @@
         imageDuration:    7,   // seconds for regular images
         rssCardDuration: 40,   // seconds for RSS full-screen cards
         rssMaxPerFeed:    3,   // how many articles to take from each feed
-        rssFullCardMinChars: 300, // no-image summaries below this are too sparse
+        rssFullCardMinChars: 600, // must remain substantial if a remote image fails
         birthdayDuration: 30,  // seconds; shown at :00, :20 and :40
         birthdayEverySlides: 0, // production schedule; >0 is test-only
         birthdayAudioEnabled: false, // greeting stays synchronized; audio comes from left
@@ -1588,7 +1588,7 @@
                     var titleText = stripHTML(rssItem.title);
                     var usefulAbstract = abstractText.length >= CONFIG.rssFullCardMinChars &&
                                          abstractText.toLowerCase() !== titleText.toLowerCase();
-                    if (usefulAbstract || rssItem.image) {
+                    if (usefulAbstract) {
                         rich.push({ type: 'rss_card', duration: CONFIG.rssCardDuration, _rssItem: rssItem });
                     } else {
                         compact.push(rssItem);

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-27T11:11:52Z",
+  "updated": "2026-07-27T14:13:39Z",
   "items": [
     {
       "title": "Food waste recycling shifts burdens from climate to soil",
@@ -42,42 +42,42 @@
       "screen": "left"
     },
     {
+      "title": "Differential accumulation of bioactive metabolites in coffee cell cultures in comparison to green coffee beans",
+      "abstract": "",
+      "authors": "Priscilla Ollennu-Chuasam, Ville Koistinen, Heiko Rischer et al.",
+      "published": "Oct 2026",
+      "feedName": "Food Chemistry",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626026579?dgcid=rss_sd_all",
+      "image": "",
+      "screen": "left"
+    },
+    {
+      "title": "Structural and nutritional optimization of rice noodles using Corchorus olitorius leaf powder and Wolffia globosa protein concentrate: A mechanistic and multifunctional approach",
+      "abstract": "",
+      "authors": "Aimé Roger Raherison, Natta Laohakunjit, Apiradee Uthairatanakij et al.",
+      "published": "Oct 2026",
+      "feedName": "Food Chemistry",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626026282?dgcid=rss_sd_all",
+      "image": "",
+      "screen": "left"
+    },
+    {
+      "title": "Reducing the residual oil body content in soy protein isolate (SPI) through pH regulation and studying the changes in physicochemical, flavor profiles, and processing properties",
+      "abstract": "",
+      "authors": "Merga Nagassa, Shudong He, Shuyun Liu et al.",
+      "published": "Oct 2026",
+      "feedName": "Food Chemistry",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626026828?dgcid=rss_sd_all",
+      "image": "",
+      "screen": "left"
+    },
+    {
       "title": "Eckol-rich phlorotannins and fucoidan from brown seaweeds promote lactic acid Bacteria growth and postbiotic production",
       "abstract": "",
       "authors": "M. Ajanth Praveen, Long Yu, Caterina Selva et al.",
       "published": "Oct 2026",
       "feedName": "Food Chemistry",
       "url": "https://www.sciencedirect.com/science/article/pii/S0308814626026919?dgcid=rss_sd_all",
-      "image": "",
-      "screen": "left"
-    },
-    {
-      "title": "Insights into plant-based whipped cream stabilized by pea protein aggregates via enzymatic-heat treatment: material modification, interfacial regulation and mechanism analysis",
-      "abstract": "",
-      "authors": "Kaidong Wei, Zhen Yang, Ke Li et al.",
-      "published": "Oct 2026",
-      "feedName": "Food Chemistry",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626026701?dgcid=rss_sd_all",
-      "image": "",
-      "screen": "left"
-    },
-    {
-      "title": "From molecular assembly to biological function: an ovalbumin-fucoidan complex stabilized emulsion for enhancing the antioxidant efficacy of galangin",
-      "abstract": "",
-      "authors": "Yitong Wang, Rui Wang, Qiaoying Guo et al.",
-      "published": "Oct 2026",
-      "feedName": "Food Chemistry",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626026592?dgcid=rss_sd_all",
-      "image": "",
-      "screen": "left"
-    },
-    {
-      "title": "Emulsion foams from structural perspectives: foaming mechanisms, in-situ imaging characterizations, sensory evaluations, and food applications",
-      "abstract": "",
-      "authors": "Kangyu Li, Jiaqi Jian, Asliddin Fayzullaev et al.",
-      "published": "Oct 2026",
-      "feedName": "Food Chemistry",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626026543?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -362,6 +362,26 @@
       "screen": "right"
     },
     {
+      "title": "Scientists reveal what sparkling water really does to your teeth",
+      "abstract": "Unsweetened sparkling water may offer a tooth-friendlier alternative to sugary soda, according to a small preliminary study tracking how different drinks change mouth acidity. Soda caused the strongest and longest drop in salivary pH, while sparkling water produced only a temporary decline before saliva restored normal conditions. Importantly, acidity remained above the level associated with enamel damage.",
+      "authors": "",
+      "published": "Jul 2026",
+      "feedName": "ScienceDaily Nutrition",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260727012126.htm",
+      "image": "https://www.sciencedaily.com/images/1920/woman-drinking-glass-of-sparkling-mineral-water.webp",
+      "screen": "right"
+    },
+    {
+      "title": "Eating within 8 hours may help keep the aging brain sharp",
+      "abstract": "Eating within a shorter daily window may help protect certain thinking skills as people age. In a small six-month trial, older women who limited eating to about 8 to 9 hours a day performed better on planning and problem-solving tests than those who ate over 12 hours. Both groups lost similar amounts of weight, hinting that when people eat could matter in addition to how much they eat.",
+      "authors": "",
+      "published": "Jul 2026",
+      "feedName": "ScienceDaily Nutrition",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260727012125.htm",
+      "image": "https://www.sciencedaily.com/images/1920/intermittent-fasting-eating-clock.webp",
+      "screen": "right"
+    },
+    {
       "title": "Why losing the wrong fat can trigger diabetes",
       "abstract": "Scientists discovered that damaged fat cells can become inflamed, lose their ability to store lipids, and eventually vanish, disrupting the body’s metabolism. The findings show that diabetes can result not only from excess fat, but also from losing the healthy fat tissue the body needs.",
       "authors": "",
@@ -379,26 +399,6 @@
       "feedName": "ScienceDaily Nutrition",
       "url": "https://www.sciencedaily.com/releases/2026/07/260726015237.htm",
       "image": "https://www.sciencedaily.com/images/1920/smartphone-ai-calorie-nutrition-tracking-app.webp",
-      "screen": "right"
-    },
-    {
-      "title": "Oral GLP-1 drugs may quiet the brain’s food craving circuit",
-      "abstract": "Newer oral drugs related to semaglutide medications such as Ozempic reduced pleasure-driven eating in mice by quieting a deep brain reward circuit. The finding could open new avenues for understanding food cravings and potentially treating substance use disorder.",
-      "authors": "",
-      "published": "Jul 2026",
-      "feedName": "ScienceDaily Nutrition",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260724061439.htm",
-      "image": "https://www.sciencedaily.com/images/1920/woman-eating-cake-refrigerator.webp",
-      "screen": "right"
-    },
-    {
-      "title": "Popular childhood drinks may raise blood pressure decades later",
-      "abstract": "A 25-year study found that frequent consumption of soda, sports drinks, and fruit juice beginning in childhood was linked to a higher risk of high blood pressure in adulthood. Swapping one daily drink for whole fruit, milk, or water could significantly reduce that risk.",
-      "authors": "",
-      "published": "Jul 2026",
-      "feedName": "ScienceDaily Nutrition",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260722032121.htm",
-      "image": "https://www.sciencedaily.com/images/1920/happy-smiling-little-girl-drinking-juice.webp",
       "screen": "right"
     },
     {

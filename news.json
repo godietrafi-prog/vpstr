@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-28T04:56:59Z",
+  "updated": "2026-07-28T08:18:32Z",
   "items": [
     {
       "title": "Food waste recycling shifts burdens from climate to soil",
@@ -402,6 +402,16 @@
       "screen": "right"
     },
     {
+      "title": "Frequency of FODMAP-rich products consumption and irritable bowel syndrome-like symptoms among amateur runners",
+      "abstract": "Background/objectivesRunning may cause gastrointestinal symptoms resembling irritable bowel syndrome (IBS). One promising and widely studied tool to alleviate these symptoms is a diet restricting fermentable oligosaccharides, disaccharides, monosaccharides, and polyols (FODMAP). The aim of the study was to assess the relationship between the frequency of consumption of foods high in FODMAPs and the frequency of IBS-like symptoms among recreational runners.Materials and methodsThe study included 153 recreational runners (81 women and 72 men) with a mean age of 37.8 ± 11 years. Most participants reported completing 3–4 training sessions per week (54.90%) and running 20–40 km per week (37.25%). Training intensity was not objectively assessed. Data were collected using the Computer-Assisted Web Interview method, a standardized questionnaire to assess the frequency of IBS-like symptoms, a proprietary questionnaire to assess behavioral and training factors, and food frequency questionnaire to assess the frequency of consumption of FODMAP-containing products.ResultsWomen scored significantly higher than men on the IBS symptom questionnaire (13.11 ± 4.82 vs. 10.71 ± 4.47; p = 0.002). Symptoms suggestive of IBS were observed more frequently among women than men (45.68% vs. 23.61%; p = 0.005). Gastrointestinal symptoms occurring during training were reported by 18.95% of all participants and were more frequent among men than women (26.39% vs. 12.35%), while post-training symptoms were reported by 12.42% of participants and were also more frequent among men than women (15.28% vs. 9.88…",
+      "authors": "Wiktoria Staśkiewicz-Bartecka, Paweł Lewandowski, Aleksandra Kołodziejczyk et al.",
+      "published": "Jul 2026",
+      "feedName": "Frontiers Nutrition",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1888737",
+      "image": "",
+      "screen": "right"
+    },
+    {
       "title": "Mediterranean diet impact on plasma proteins: biomarker networks linking nutrition to the modulation of inflammation and oxidative stress",
       "abstract": "The Mediterranean diet (MedDiet) is widely recognized for its role in preventing chronic and age-related diseases, largely attributed to its richness in plant-based foods and bioactive compounds. To explore the underlying molecular mechanisms, two systematic literature searches were conducted using PubMed and Web of Science. The first assessed the evidence on the health effects of key MedDiet components and the second focused on plasma biomarkers of inflammation and oxidative stress. Protein-protein interaction network analysis revealed a tightly connected metabolic network integrating inflammatory mediators and metabolic regulators. Central nodes included key inflammatory markers such as interleukin-6, tumor necrosis factor and C-reactive protein (CRP), alongside proteins involved in lipid metabolism and metabolic homeostasis. Enrichment analysis highlighted pathways related to acute inflammatory response, lipid localization and storage and plasma lipoprotein particle clearance, supporting a role in regulation of immune and metabolic processes. An additional network integrating cardiovascular aging biomarkers suggested a partial separation between systemic inflammatory pathways and markers of myocardial stress and injury, with CRP emerging as a potential link between these processes. Overall, these findings indicate that the MedDiet may exert its health benefits through systems-level modulation of interconnected metabolic pathways, contributing to the regulation of inflammation, lipid metabolism and cardiovascular function.",
       "authors": "Fátima Cardoso, Eduardo Costa-Camilo, Isabel Duarte et al.",
@@ -428,16 +438,6 @@
       "published": "Jul 2026",
       "feedName": "Frontiers Nutrition",
       "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1858222",
-      "image": "",
-      "screen": "right"
-    },
-    {
-      "title": "Efficacy of supplementation with nutrients and dietary supplements on recovery and inflammatory response among patients with COVID-19: a network meta-analysis",
-      "abstract": "BackgroundAt present, the clinical course of COVID-19 is synergistically influenced by the systemic inflammatory storm and nutritional deterioration triggered by COVID-19. Nutrition interventions have demonstrated potential clinical value.ObjectiveThis study aims to systematically compare the relative efficacy of different dietary patterns and nutritional supplements on key outcomes among adult patients with COVID-19, and to identify the optimal regimen of nutrition intervention.MethodsPubMed, Embase, Cochrane Library, and Web of Science, were systematically searched. Randomized controlled trials (RCTs) were independently screened. The risk of bias was assessed using the Cochrane Risk of Bias 2.0 (RoB 2.0) tool. The inflammation status of patients was measured by alterations in indicators such as interleukin-6 (IL-6) and neutrophil-to-lymphocyte ratio (NLR), while recovery was evaluated based on changes in the number of patients with adverse complications, including cough and death. Statistical analysis was performed in R (version 4.5.1). A random-effects model under the Bayesian framework was adopted to pool mean differences (MDs) or risk ratios (RRs) alongside their corresponding 95% credible intervals (CrIs). Additionally, regression analyses were performed for sample size, treatment duration, and disease severity of patients. The confidence in the evidence was assessed using the Confidence in Network Meta-Analysis (CINeMA).ResultsThe efficacy of interventions varied for different immune and clinical outcomes among patients with COVID-19. Compared with standard of care (…",
-      "authors": "Jin Zhao, Jiayi Chang, Jianghao Qu et al.",
-      "published": "Jul 2026",
-      "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1825539",
       "image": "",
       "screen": "right"
     },

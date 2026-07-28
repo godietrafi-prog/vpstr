@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-28T19:09:58Z",
+  "updated": "2026-07-28T21:00:00Z",
   "items": [
     {
       "title": "Adaptive policies balancing trade, productivity and cropland increases can support Zambia’s nutrition security under future climate shocks",
@@ -282,6 +282,26 @@
       "screen": "left"
     },
     {
+      "title": "Self-adaptive Cu–Co catalyst converts nitrate pollution into green ammonia through dynamic catalyst reconstruction",
+      "abstract": "Nitrate contamination originating from agricultural runoff, industrial wastewater and municipal effluents is a growing global environmental problem. At the same time, ammonia has emerged as a key chemical feedstock and an attractive carbon-free energy carrier for a sustainable society.",
+      "authors": "",
+      "published": "Jul 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-07-cuco-catalyst-nitrate-pollution-green.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/self-adaptive-cuco-cat.jpg",
+      "screen": "right"
+    },
+    {
+      "title": "Nanomace catalyst boosts greenhouse gas breakdown up to 14.4-fold",
+      "abstract": "Seoul National University (SNU) College of Engineering announced that a research team led by Professor Jeong Woo Han of the Department of Materials Science and Engineering has developed a new nanostructured catalyst with up to 14.4 times the greenhouse gas decomposition performance of conventional commercial catalysts.",
+      "authors": "",
+      "published": "Jul 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-07-nanomace-catalyst-boosts-greenhouse-gas.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/snu-team-develops-nano.jpg",
+      "screen": "right"
+    },
+    {
       "title": "Water's local asymmetry drives proton hopping between molecules, simulations reveal",
       "abstract": "Complex simulations—the most intricate of their kind to date—carried out by an international research team led by scientists at Heidelberg University's Institute for Physical Chemistry, have revealed how water governs the way protons move through it. Using their modeling, researchers from Cambridge (U.K.), Bochum, Dijon (France) and Heidelberg were able to trace, in full quantum detail, the movements of a proton shared among six water molecules. At its core, the work addresses how a proton moves through water: not as a single particle drifting along, but by \"hopping\" from one molecule to the next.",
       "authors": "",
@@ -299,26 +319,6 @@
       "feedName": "Phys.org Analytics",
       "url": "https://phys.org/news/2026-07-biomolecular-condensates-reveal-catalysts.html",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/biomolecular-condensat.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "AI tools for predicting protein folding produce chemically impossible structures and need human oversight",
-      "abstract": "Researchers at Rensselaer Polytechnic Institute (RPI) have found that today's leading artificial intelligence tools for predicting protein structures routinely generate results that are physically and chemically impossible, exposing critical blind spots in how AI is being applied across scientific research. The work, published in the Proceedings of the National Academy of Sciences, serves as a cautionary reminder that AI still requires human oversight and physics-based verification to produce reliable results in the lab.",
-      "authors": "",
-      "published": "Jul 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-07-ai-tools-protein-chemically-impossible.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/molecular-dynamics.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "Study explores rare atom-containing natural products and their biomedical potential",
-      "abstract": "Modern research on secondary metabolites from microbes, plants and marine organisms has revealed a remarkable diversity of chemical structures and bioactivities with broad applications in biotechnology, agriculture and medicine. Most natural products are composed of primary biogenic elements such as carbon, hydrogen, nitrogen and oxygen.",
-      "authors": "",
-      "published": "Jul 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-07-explores-rare-atom-natural-products.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/study-explores-rare-at-1.jpg",
       "screen": "right"
     },
     {

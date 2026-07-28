@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-28T13:41:45Z",
+  "updated": "2026-07-28T16:00:13Z",
   "items": [
     {
       "title": "Food waste recycling shifts burdens from climate to soil",
@@ -112,12 +112,12 @@
       "screen": "left"
     },
     {
-      "title": "Risk factors and control strategies for biogenic amine formation in kimchi: A narrative review",
+      "title": "Pea protein and pea-derived bioactive peptides in healthy ageing: Evidence for sarcopenia prevention, metabolic health, and personalized nutrition in older adults",
       "abstract": "",
-      "authors": "Jong Hyoung Hong, Young Hun Jin, Jae-Hyung Mah",
+      "authors": "Jiajing Zhou, Huiru Shi, Di Sun et al.",
       "published": "Oct 2026",
       "feedName": "Trends in Food Sci & Tech",
-      "url": "https://www.sciencedirect.com/science/article/pii/S092422442600436X?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426004383?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -242,6 +242,26 @@
       "screen": "left"
     },
     {
+      "title": "Biocontrol of postharvest citrus green mold by Meyerozyma caribbica : suppression of Penicillium digitatum development, enhanced ROS metabolism, induced resistance, and quality preservation",
+      "abstract": "",
+      "authors": "Meiqiu Xu, Jucai Wang, Solairaj Dhanasekaran et al.",
+      "published": "Jan 2027",
+      "feedName": "Food Microbiology",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0740002026002133?dgcid=rss_sd_all",
+      "image": "",
+      "screen": "left"
+    },
+    {
+      "title": "Phage-derived Hol49_Lys19/sodium alginate/chitosan composite green coating: Preparation, performance and preservation effect on refrigerated salmon",
+      "abstract": "",
+      "authors": "Shuxuan Li, Jing Li, Ming Zhang et al.",
+      "published": "Jan 2027",
+      "feedName": "Food Microbiology",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0740002026002091?dgcid=rss_sd_all",
+      "image": "",
+      "screen": "left"
+    },
+    {
       "title": "FpNuc1α regulates phosphate signaling and pathogenicity in Fusarium proliferatum infection of jujube fruit by targeting FpGit1 via a novel BSN motif",
       "abstract": "",
       "authors": "Yizhou Gao, Yitong Wang, Zenghui Yang et al.",
@@ -258,26 +278,6 @@
       "published": "Jan 2027",
       "feedName": "Food Microbiology",
       "url": "https://www.sciencedirect.com/science/article/pii/S0740002026002121?dgcid=rss_sd_all",
-      "image": "",
-      "screen": "left"
-    },
-    {
-      "title": "Molecular detection and viability assessment of Toxoplasma gondii in retail dry-cured meat products in the Republic of Korea",
-      "abstract": "",
-      "authors": "Taehee Chang, Hyejoo Shin, Sooji Hong et al.",
-      "published": "Jan 2027",
-      "feedName": "Food Microbiology",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0740002026002108?dgcid=rss_sd_all",
-      "image": "",
-      "screen": "left"
-    },
-    {
-      "title": "Membrane damage effect and mechanism of sublethally injured Salmonella Typhimurium induced by lactic acid",
-      "abstract": "",
-      "authors": "Yunshuang Man, Rongrong Yang, Ye Liu et al.",
-      "published": "Jan 2027",
-      "feedName": "Food Microbiology",
-      "url": "https://www.sciencedirect.com/science/article/pii/S074000202600211X?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -402,26 +402,6 @@
       "screen": "right"
     },
     {
-      "title": "Frequency of FODMAP-rich products consumption and irritable bowel syndrome-like symptoms among amateur runners",
-      "abstract": "Background/objectivesRunning may cause gastrointestinal symptoms resembling irritable bowel syndrome (IBS). One promising and widely studied tool to alleviate these symptoms is a diet restricting fermentable oligosaccharides, disaccharides, monosaccharides, and polyols (FODMAP). The aim of the study was to assess the relationship between the frequency of consumption of foods high in FODMAPs and the frequency of IBS-like symptoms among recreational runners.Materials and methodsThe study included 153 recreational runners (81 women and 72 men) with a mean age of 37.8 ± 11 years. Most participants reported completing 3–4 training sessions per week (54.90%) and running 20–40 km per week (37.25%). Training intensity was not objectively assessed. Data were collected using the Computer-Assisted Web Interview method, a standardized questionnaire to assess the frequency of IBS-like symptoms, a proprietary questionnaire to assess behavioral and training factors, and food frequency questionnaire to assess the frequency of consumption of FODMAP-containing products.ResultsWomen scored significantly higher than men on the IBS symptom questionnaire (13.11 ± 4.82 vs. 10.71 ± 4.47; p = 0.002). Symptoms suggestive of IBS were observed more frequently among women than men (45.68% vs. 23.61%; p = 0.005). Gastrointestinal symptoms occurring during training were reported by 18.95% of all participants and were more frequent among men than women (26.39% vs. 12.35%), while post-training symptoms were reported by 12.42% of participants and were also more frequent among men than women (15.28% vs. 9.88…",
-      "authors": "Wiktoria Staśkiewicz-Bartecka, Paweł Lewandowski, Aleksandra Kołodziejczyk et al.",
-      "published": "Jul 2026",
-      "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1888737",
-      "image": "",
-      "screen": "right"
-    },
-    {
-      "title": "Mediterranean diet impact on plasma proteins: biomarker networks linking nutrition to the modulation of inflammation and oxidative stress",
-      "abstract": "The Mediterranean diet (MedDiet) is widely recognized for its role in preventing chronic and age-related diseases, largely attributed to its richness in plant-based foods and bioactive compounds. To explore the underlying molecular mechanisms, two systematic literature searches were conducted using PubMed and Web of Science. The first assessed the evidence on the health effects of key MedDiet components and the second focused on plasma biomarkers of inflammation and oxidative stress. Protein-protein interaction network analysis revealed a tightly connected metabolic network integrating inflammatory mediators and metabolic regulators. Central nodes included key inflammatory markers such as interleukin-6, tumor necrosis factor and C-reactive protein (CRP), alongside proteins involved in lipid metabolism and metabolic homeostasis. Enrichment analysis highlighted pathways related to acute inflammatory response, lipid localization and storage and plasma lipoprotein particle clearance, supporting a role in regulation of immune and metabolic processes. An additional network integrating cardiovascular aging biomarkers suggested a partial separation between systemic inflammatory pathways and markers of myocardial stress and injury, with CRP emerging as a potential link between these processes. Overall, these findings indicate that the MedDiet may exert its health benefits through systems-level modulation of interconnected metabolic pathways, contributing to the regulation of inflammation, lipid metabolism and cardiovascular function.",
-      "authors": "Fátima Cardoso, Eduardo Costa-Camilo, Isabel Duarte et al.",
-      "published": "Jul 2026",
-      "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1904329",
-      "image": "",
-      "screen": "right"
-    },
-    {
       "title": "Dietary Inflammatory Index, cardiovascular health, and long-term outcomes in hypertension: external validation in a Chinese percutaneous coronary intervention cohort",
       "abstract": "BackgroundHypertension frequently coexists with poor cardiovascular health (CVH), yet whether the inflammatory potential of habitual diet, captured by the Dietary Inflammatory Index (DII), relates to CVH and to subsequent adverse cardiovascular events in this population remains unclear.MethodsA discovery analysis was performed in 12,376 hypertensive adults from NHANES (2005–2018), with suboptimal CVH defined as a Life’s Essential 8 (LE8) score < 80. External validation used a single-center retrospective cohort of 1,053 Chinese hypertensive patients who underwent percutaneous coronary intervention (PCI); because an LE8 ≥ 80 is rarely attained in this high-risk secondary-prevention population, suboptimal CVH was defined as LE8 < 60. Multivariable logistic regression, restricted cubic spline, subgroup, and mediation analyses examined the DII–CVH association in both cohorts; NHANES analyses incorporated complex survey design weights. In the PCI cohort, Cox proportional-hazards models assessed the associations of DII and LE8 with major adverse cardiovascular events (MACE), all-cause mortality, recurrent myocardial infarction (MI), and repeat revascularization.ResultsIn NHANES, higher DII was independently associated with suboptimal CVH [fully adjusted odds ratio (OR) 1.39, 95% confidence interval (CI) 1.30–1.50; OR 3.84, 95% CI 2.67–5.52 for the highest versus lowest DII tertile], with a linear dose–response. A consistent association was observed in the PCI cohort: each one-unit increase in DII conferred 29% higher odds of suboptimal CVH (fully adjusted OR 1.29, 95% CI 1.19–1.39…",
       "authors": "Jianchun Zhang, Yuwei Qiang, Ping Li et al.",
@@ -432,12 +412,32 @@
       "screen": "right"
     },
     {
-      "title": "Baseline and dynamic CALLY index changes predict mortality in sepsis-associated acute kidney injury: a two-center retrospective cohort study",
-      "abstract": "PurposeSepsis-associated acute kidney injury (SA-AKI) is associated with high mortality rates, yet prognostic biomarkers that jointly reflect nutritional, inflammatory and immune status remain limited. This study aimed to assess the prognostic value of the C-reactive protein-albumin-lymphocyte (CALLY) index in this patient population.Patients and methodsIn this retrospective two-center cohort study, 1,019 adult patients with SA-AKI were included. Kaplan–Meier and log-rank analyses identified the Day 3 CALLY index as the primary prognostic variable. Restricted cubic spline (RCS) analysis was used to characterize nonlinear associations with mortality, multivariable Cox proportional hazards models were applied to adjust for potential confounders, exploratory causal mediation analysis were performed to assess the contribution of the CALLY index to age-related mortality risk, and Bayesian joint models were used to evaluate the prognostic value of longitudinal CALLY trajectories.ResultsA higher Day 3 CALLY index was independently correlated with lower 30-day mortality (HR: 0.997, 95% CI: 0.995–0.999) and showed similar associations with 60-day, 365-day, and in-hospital outcomes (all p < 0.05). RCS analysis revealed a significant L-shaped nonlinear association with the Day 3 CALLY index and 30-day mortality, with an inflection point of 11.52. Mediation analysis indicated that the CALLY index explained 23.8–28.7% of the association between age and mortality. In Bayesian joint models, the inverse association between the CALLY index and mortality became progressively stronger over ti…",
-      "authors": "Wanyao Lin, Qianping Zhang, Xinyi Tian et al.",
+      "title": "Efficacy of supplementation with nutrients and dietary supplements on recovery and inflammatory response among patients with COVID-19: a network meta-analysis",
+      "abstract": "BackgroundAt present, the clinical course of COVID-19 is synergistically influenced by the systemic inflammatory storm and nutritional deterioration triggered by COVID-19. Nutrition interventions have demonstrated potential clinical value.ObjectiveThis study aims to systematically compare the relative efficacy of different dietary patterns and nutritional supplements on key outcomes among adult patients with COVID-19, and to identify the optimal regimen of nutrition intervention.MethodsPubMed, Embase, Cochrane Library, and Web of Science, were systematically searched. Randomized controlled trials (RCTs) were independently screened. The risk of bias was assessed using the Cochrane Risk of Bias 2.0 (RoB 2.0) tool. The inflammation status of patients was measured by alterations in indicators such as interleukin-6 (IL-6) and neutrophil-to-lymphocyte ratio (NLR), while recovery was evaluated based on changes in the number of patients with adverse complications, including cough and death. Statistical analysis was performed in R (version 4.5.1). A random-effects model under the Bayesian framework was adopted to pool mean differences (MDs) or risk ratios (RRs) alongside their corresponding 95% credible intervals (CrIs). Additionally, regression analyses were performed for sample size, treatment duration, and disease severity of patients. The confidence in the evidence was assessed using the Confidence in Network Meta-Analysis (CINeMA).ResultsThe efficacy of interventions varied for different immune and clinical outcomes among patients with COVID-19. Compared with standard of care (…",
+      "authors": "Jin Zhao, Jiayi Chang, Jianghao Qu et al.",
       "published": "Jul 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1858222",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1825539",
+      "image": "",
+      "screen": "right"
+    },
+    {
+      "title": "Diet quality measured using the Mediterranean diet score and anxiety during armed conflict",
+      "abstract": "BackgroundProcessed diets, particularly those high in fat, added sugars, and refined carbohydrates, are associated with increased anxiety, whereas dietary patterns rich in vegetables, fruits, dairy, nuts, and seeds appear protective. Mediterranean-style diets, characterized by high consumption of plant foods and olive oil with moderate intake of fish and poultry, are associated with reduced cardiometabolic, oncologic, and neurocognitive risks. Prior studies have linked adherence to Mediterranean-style diets with reduced anxiety; however, it remains unclear whether this association persists during periods of severe external stress, such as armed conflict.ObjectivesTo evaluate whether diet quality, assessed via adherence to a Mediterranean-style diet, was associated with anxiety levels among Israeli adults during the Iron Swords War (2023–2025).MethodsThis cross-sectional online survey was conducted in a representative stratified (age, sex, ethnicity) random sample of Israeli adults from November 6–14, 2023. Participants completed validated measures assessing anxiety [General Anxiety Disorder (GAD-7)], diet quality [Israel Mediterranean diet screener (I-MEDAS)], food insecurity (Hunger Vital Sign), and demographic and lifestyle characteristics. Statistical analyses included t-tests, Mann–Whitney U tests, chi-square tests, and logistic regression.ResultsAmong 534 respondents, 39.7% exhibited moderate to severe anxiety (GAD-7 ≥ 10). Total I-MEDAS scores did not differ by anxiety level; however, poorer diet quality indicators—including reduced fruit and vegetable intake, increas…",
+      "authors": "Mona Boaz, Daniela Abigail Navarro, Vered Kaufman-Shriqui",
+      "published": "Jul 2026",
+      "feedName": "Frontiers Nutrition",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1802921",
+      "image": "",
+      "screen": "right"
+    },
+    {
+      "title": "Trends and disparities in neoplasm-related mortality with death-certificate-documented protein-energy malnutrition in the United States, 1999–2024: a CDC WONDER multiple cause of death study",
+      "abstract": "BackgroundMalnutrition is clinically important but often underrecognized among patients with neoplasms. National temporal patterns of neoplasm-related deaths with death-certificate-documented protein-energy malnutrition (PEM) remain unclear.MethodsWe conducted a population-based serial cross-sectional study using CDC WONDER Multiple Cause of Death data. Deaths among persons aged ≥15 years with neoplasms as the underlying cause (ICD-10 C00–D48) and PEM in multiple-cause-of-death fields (E40–E46) were identified for 1999–2024. Annual death counts and age-adjusted mortality rates (AAMRs) per 100,000 population, standardized to the 2000 US population, were assessed using Joinpoint regression. Trends were examined overall and across demographic, geographic, neoplasm-category, and state strata. We also calculated the annual proportion of all neoplasm-related deaths with documented PEM.ResultsAnnual neoplasm-related deaths with death-certificate-documented PEM increased from 5,024 in 1999 to 18,410 in 2024, while the AAMR increased from 2.32 (95% CI, 2.26–2.38) to 5.26 (95% CI, 5.19–5.34) per 100,000 population. The proportion of all neoplasm-related deaths with documented PEM increased from 0.90% (95% CI, 0.87%−0.92%) to 2.90% (95% CI, 2.86%−2.94%). Joinpoint analysis identified inflection points in 2006 and 2013, with an early decline, an intermediate stable period, and a marked subsequent increase; the overall AAPC was 3.54%. In 2024, AAMRs were higher among males than females (6.32 vs. 4.43), Black than White individuals (6.42 vs. 5.32), and adults aged ≥65 years than those ag…",
+      "authors": "Qi Gan, Kaide Xia, Xiuju Yang",
+      "published": "Jul 2026",
+      "feedName": "Frontiers Nutrition",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1860679",
       "image": "",
       "screen": "right"
     },

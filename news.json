@@ -1,6 +1,16 @@
 {
-  "updated": "2026-07-28T17:28:52Z",
+  "updated": "2026-07-28T19:09:58Z",
   "items": [
+    {
+      "title": "Adaptive policies balancing trade, productivity and cropland increases can support Zambia’s nutrition security under future climate shocks",
+      "abstract": "Sub-Saharan Africa’s food systems are increasingly vulnerable to climate change. Using the integrated Future Estimator for Emissions and Diets (iFEED) framework, Zambian nutrition security and policy options are explored under average and extreme climate scenarios.",
+      "authors": "Stewart Jennings, Andrew Challinor, Jennie I. Macdiarmid et al.",
+      "published": "Jul 2026",
+      "feedName": "Nature Food",
+      "url": "https://www.nature.com/articles/s43016-026-01405-1",
+      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs43016-026-01405-1/MediaObjects/43016_2026_1405_Fig1_HTML.png",
+      "screen": "left"
+    },
     {
       "title": "Food waste recycling shifts burdens from climate to soil",
       "abstract": "Contamination from plastic packaging poses a key challenge for expanding organics recycling. Now, the impact of diverting all post-manufacturing food waste in the United States away from landfills is quantified in terms of greenhouse gas release, nutrient loading and plastic pollution.",
@@ -29,16 +39,6 @@
       "feedName": "Nature Food",
       "url": "https://www.nature.com/articles/s43016-026-01403-3",
       "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs43016-026-01403-3/MediaObjects/43016_2026_1403_Fig1_HTML.png",
-      "screen": "left"
-    },
-    {
-      "title": "Cropland deterioration widens yield gaps",
-      "abstract": "The degradation of agricultural land poses a vital threat to productivity and is, in some cases, hard to reverse. Curbing this trend is essential to avoid cascading impacts on natural ecosystems, biodiversity and human health.",
-      "authors": "Christian Folberth",
-      "published": "Jul 2026",
-      "feedName": "Nature Food",
-      "url": "https://www.nature.com/articles/s43016-026-01381-6",
-      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs43016-026-01381-6/MediaObjects/43016_2026_1381_Fig1_HTML.png",
       "screen": "left"
     },
     {

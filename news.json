@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-27T22:53:58Z",
+  "updated": "2026-07-28T01:46:14Z",
   "items": [
     {
       "title": "Food waste recycling shifts burdens from climate to soil",
@@ -282,6 +282,16 @@
       "screen": "left"
     },
     {
+      "title": "Water's local asymmetry drives proton hopping between molecules, simulations reveal",
+      "abstract": "Complex simulations—the most intricate of their kind to date—carried out by an international research team led by scientists at Heidelberg University's Institute for Physical Chemistry, have revealed how water governs the way protons move through it. Using their modeling, researchers from Cambridge (U.K.), Bochum, Dijon (France) and Heidelberg were able to trace, in full quantum detail, the movements of a proton shared among six water molecules. At its core, the work addresses how a proton moves through water: not as a single particle drifting along, but by \"hopping\" from one molecule to the next.",
+      "authors": "",
+      "published": "Jul 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-07-local-asymmetry-proton-molecules-simulations.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/complex-simulations-ne.jpg",
+      "screen": "right"
+    },
+    {
       "title": "Biomolecular condensates reveal surprising activity as catalysts",
       "abstract": "Biomolecular condensates are ubiquitous in living cells, including bacteria, viruses, plants and mammalian systems. These membraneless bodies, or molecular communities made up of DNA, RNA and proteins, are where molecules large and small within the cell come together to coordinate various biochemical reactions.",
       "authors": "",
@@ -309,16 +319,6 @@
       "feedName": "Phys.org Analytics",
       "url": "https://phys.org/news/2026-07-explores-rare-atom-natural-products.html",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/study-explores-rare-at-1.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "Gold-catalyzed chemical reaction advances next-generation anticancer prodrugs",
-      "abstract": "Anticancer prodrugs have attracted significant attention from the medical and scientific communities in recent years because of their potential to improve treatment precision while reducing side effects. These drugs are engineered to remain inactive until they are activated at specific sites or under particular physiological conditions within the body, at which point they release their therapeutic effect.",
-      "authors": "",
-      "published": "Jul 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-07-gold-catalyzed-chemical-reaction-advances.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/researchers-develop-bi-2.jpg",
       "screen": "right"
     },
     {

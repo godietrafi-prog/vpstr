@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-29T18:59:24Z",
+  "updated": "2026-07-29T20:43:49Z",
   "items": [
     {
       "title": "Improved data reveal the role of aquatic foods",
@@ -282,6 +282,16 @@
       "screen": "left"
     },
     {
+      "title": "Gold-MXene catalyst converts nitrate to ammonia using sunlight and 1.5 volts",
+      "abstract": "Plants need nitrogen fertilizers, which are usually ammonia-based. Ammonia is therefore one of the most important chemical products. However, its production is currently extremely energy-intensive. An international team from TU Wien and Soochow University in China has developed a novel catalyst that can convert nitrate from wastewater into ammonia much more efficiently than before—powered by sunlight and about 1.5 volts.",
+      "authors": "",
+      "published": "Jul 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-07-gold-mxene-catalyst-nitrate-ammonia.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/turning-nitrate-into-a.jpg",
+      "screen": "right"
+    },
+    {
       "title": "Advanced mass spectrometry technique breaks free from specialist hardware",
       "abstract": "Researchers at the University of Warwick and spinout company Verdel Instruments have successfully demonstrated two-dimensional mass spectrometry (2DMS) on a benchtop instrument, making this powerful technique practical and affordable for everyday laboratory use.",
       "authors": "",
@@ -309,16 +319,6 @@
       "feedName": "Phys.org Analytics",
       "url": "https://phys.org/news/2026-07-cuco-catalyst-nitrate-pollution-green.html",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/self-adaptive-cuco-cat.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "Nanomace catalyst boosts greenhouse gas breakdown up to 14.4-fold",
-      "abstract": "Seoul National University (SNU) College of Engineering announced that a research team led by Professor Jeong Woo Han of the Department of Materials Science and Engineering has developed a new nanostructured catalyst with up to 14.4 times the greenhouse gas decomposition performance of conventional commercial catalysts.",
-      "authors": "",
-      "published": "Jul 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-07-nanomace-catalyst-boosts-greenhouse-gas.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/snu-team-develops-nano.jpg",
       "screen": "right"
     },
     {

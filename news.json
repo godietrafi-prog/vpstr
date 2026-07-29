@@ -1,6 +1,26 @@
 {
-  "updated": "2026-07-29T15:45:28Z",
+  "updated": "2026-07-29T17:05:54Z",
   "items": [
+    {
+      "title": "Improved data reveal the role of aquatic foods",
+      "abstract": "Increasing seafood consumption could substantially contribute to overcoming widespread nutritional deficiencies in Brazil. Improving the availability of information on consumption and the nutrient content of aquatic foods is helping to highlight their role within broader food systems and ensure that their potential contribution is realized.",
+      "authors": "Anna K. Farmery",
+      "published": "Jul 2026",
+      "feedName": "Nature Food",
+      "url": "https://www.nature.com/articles/s43016-026-01407-z",
+      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs43016-026-01407-z/MediaObjects/43016_2026_1407_Fig1_HTML.png",
+      "screen": "left"
+    },
+    {
+      "title": "Seafood consumption could help fill nutrition gaps in Brazil",
+      "abstract": "Brazil’s seafood consumption remains low despite its rich marine biodiversity. The study suggests that better use of seafood could help address nutritional gaps, in combination with improved fisheries governance and sustainable seafood policies.",
+      "authors": "Maria L. X. Gallina, Cesar A. M. M. Cordeiro, Linda Eggertsen et al.",
+      "published": "Jul 2026",
+      "feedName": "Nature Food",
+      "url": "https://www.nature.com/articles/s43016-026-01402-4",
+      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs43016-026-01402-4/MediaObjects/43016_2026_1402_Fig1_HTML.png",
+      "screen": "left"
+    },
     {
       "title": "Adaptive policies balancing trade, productivity and cropland increases can support Zambia’s nutrition security under future climate shocks",
       "abstract": "Sub-Saharan Africa’s food systems are increasingly vulnerable to climate change. Using the integrated Future Estimator for Emissions and Diets (iFEED) framework, Zambian nutrition security and policy options are explored under average and extreme climate scenarios.",
@@ -19,26 +39,6 @@
       "feedName": "Nature Food",
       "url": "https://www.nature.com/articles/s43016-026-01404-2",
       "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs43016-026-01404-2/MediaObjects/43016_2026_1404_Fig1_HTML.png",
-      "screen": "left"
-    },
-    {
-      "title": "Food waste recycling in the USA can reduce climate and nutrient pollution impacts yet risks plastic accumulation in soils",
-      "abstract": "Life cycle assessment and mass balance modelling reveal trade-offs in diverting US food waste from landfills to composting and anaerobic digestion. Although climate impacts and nutrient loading would decline, risks of plastic pollution in agricultural soils are estimated to increase.",
-      "authors": "Katherine K. Porterfield, Micayla N. Schambura, Eric D. Roy",
-      "published": "Jul 2026",
-      "feedName": "Nature Food",
-      "url": "https://www.nature.com/articles/s43016-026-01396-z",
-      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs43016-026-01396-z/MediaObjects/43016_2026_1396_Fig1_HTML.png",
-      "screen": "left"
-    },
-    {
-      "title": "Dietary footprints across populations",
-      "abstract": "Diets affect both human and planetary health. Recent research reveals how dietary footprints vary across demographic groups and offers new data and methods for future studies.",
-      "authors": "",
-      "published": "Jul 2026",
-      "feedName": "Nature Food",
-      "url": "https://www.nature.com/articles/s43016-026-01403-3",
-      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs43016-026-01403-3/MediaObjects/43016_2026_1403_Fig1_HTML.png",
       "screen": "left"
     },
     {

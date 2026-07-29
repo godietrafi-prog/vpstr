@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-29T13:47:43Z",
+  "updated": "2026-07-29T15:45:28Z",
   "items": [
     {
       "title": "Adaptive policies balancing trade, productivity and cropland increases can support Zambia’s nutrition security under future climate shocks",
@@ -402,22 +402,22 @@
       "screen": "right"
     },
     {
-      "title": "Digital empowerment, subsidy coordination, and food security: a tripartite evolutionary game with simulation analysis",
-      "abstract": "Against the backdrop of the deep integration of digital technology and agriculture and the coordinated advancement of the national food security strategy, the effectiveness of digital technology in enhancing food security increasingly hinges on the interaction and coordination among local governments, digital agriculture service providers, and grain producers. This paper constructs a three-party evolutionary game model that incorporates key variables, including the digital empowerment coefficient, the technology accessibility coefficient, differentiated subsidy parameters, and central government incentives. It systematically analyzes the evolutionary trajectories of the three parties' strategies and the conditions for steady-state transitions under various parameter combinations. Furthermore, it conducts numerical simulations using benchmark parameters calibrated through multi-source data fusion. The research reveals four typical evolutionary scenarios. First, when the technology is effective and the service is profitable, the system converges toward an ideal steady state of tripartite collaboration. Second, when the technology is effective but the service is less profitable, the steady state hinges on whether subsidies can offset cost disadvantages and on the strength of government incentives. Third, when there is sufficient momentum on the service side, but the technology lacks appeal, the core bottleneck lies in stimulating key stakeholders' willingness to adopt it. Finally, when both technological effectiveness and market profitability are weak, the system risks becomin…",
-      "authors": "Qian Qu, Yuntao Tan, Liping He et al.",
+      "title": "Methyl jasmonate maintains postharvest quality of Gastrodia elata by coordinately regulating ROS homeostasis, phenylpropanoid biosynthesis, and energy metabolism",
+      "abstract": "Gastrodia elata is an economically important medicinal and edible plant, but its fresh tubers are highly susceptible to postharvest decay and quality deterioration during storage. Methyl jasmonate (MeJA) is well established as an effective postharvest treatment for preserving the quality of horticultural produce. In this investigation, we evaluated the potential of MeJA treatment to improve the postharvest quality of G. elata during storage. Our findings indicated that MeJA markedly lowered decay incidence and inhibited the elevation of respiration rate and malondialdehyde (MDA) accumulation. MeJA also decreased superoxide anion generation (O2•−) and hydrogen peroxide (H2O2) levels, while stimulating the activities and transcription levels of superoxide dismutase (SOD), catalase (CAT), peroxidase (POD), ascorbate peroxidase (APX), glutathione reductase (GR), monodehydroascorbate reductase (MDHAR), and dehydroascorbate reductase (DHAR). In parallel, the levels of the non-enzymatic antioxidants ascorbic acid (AsA) and glutathione (GSH) were elevated. Moreover, MeJA treatment elevated the contents of total phenolics, flavonoids, and lignin in G. elata, accompanied by increased activities and gene expression of major phenylpropanoid-pathway enzymes, including phenylalanine ammonia-lyase (PAL), cinnamate 4-hydroxylase (C4H), 4-coumarate ligase (4CL), and cinnamyl alcohol dehydrogenase (CAD). MeJA further enhanced the activities and transcription levels of H+-ATPase, succinate dehydrogenase (SDH), Ca2+-ATPase, and cytochrome c oxidase (CCO), thereby helping maintain cellular ener…",
+      "authors": "Qiong Wang, Yaru Zhao, Yun Zhou et al.",
       "published": "Jul 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1887202",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1873026",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Urinary bisphenol exposure and risk of type 1 diabetes and glycemic traits in Chinese children: a case–control study",
-      "abstract": "BackgroundBisphenol A (BPA) and its structural analogs, bisphenol F (BPF) and bisphenol S (BPS), are widely used in consumer products and increasingly detected in children. Although BPA has been linked to diabetes and impaired glucose metabolism in adults, evidence for BPF and BPS, particularly in the pediatric population, remains limited and inconsistent. This study examined the associations of individual and combined bisphenol exposures with type 1 diabetes mellitus (T1DM) risk and glucose homeostasis in children.MethodsWe conducted a case–control study including 122 children with T1DM and 287 controls from Shenyang, China. For biomarker analysis, a subset of 110 participants (55 cases and 55 controls) was selected. Urinary bisphenol concentrations were measured using high-performance liquid chromatography–tandem mass spectrometry. Associations with T1DM risk and glycemic outcomes were evaluated using multivariable logistic and linear regression models. Bayesian kernel machine regression (BKMR) and Restricted cubic spline (RCS) analyses were further used to explore potential nonlinear relationships and interaction effects.ResultsBPA was detected in all samples, with widespread exposure to BPF and BPS. Higher urinary BPA and BPF levels were significantly associated with increased odds of T1DM. BPS was not associated with T1DM status but was consistently linked to elevated fasting glucose (β = 0.987, 95% CI: 0.104–1.871) and HbA1c (β = 0.327, 95% CI: 0.012–0.642). BKMR characterized the joint associations of bisphenol mixtures with the study outcomes, whereas RCS analyses s…",
-      "authors": "Min Yang, Xinying Zhao, Yijie Wang et al.",
+      "title": "Editorial: Precision nutrition and dietary interventions in the management of metabolic dysfunction-associated steatotic liver disease (MASLD)",
+      "abstract": "",
+      "authors": "Berenice M. Román-Calleja, Bryan Adrian Priego-Parra, Carlos Fernando Martínez-Cabrera",
       "published": "Jul 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1880074",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1924585",
       "image": "",
       "screen": "right"
     },
@@ -432,12 +432,12 @@
       "screen": "right"
     },
     {
-      "title": "Methyl jasmonate maintains postharvest quality of Gastrodia elata by coordinately regulating ROS homeostasis, phenylpropanoid biosynthesis, and energy metabolism",
-      "abstract": "Gastrodia elata is an economically important medicinal and edible plant, but its fresh tubers are highly susceptible to postharvest decay and quality deterioration during storage. Methyl jasmonate (MeJA) is well established as an effective postharvest treatment for preserving the quality of horticultural produce. In this investigation, we evaluated the potential of MeJA treatment to improve the postharvest quality of G. elata during storage. Our findings indicated that MeJA markedly lowered decay incidence and inhibited the elevation of respiration rate and malondialdehyde (MDA) accumulation. MeJA also decreased superoxide anion generation (O2•−) and hydrogen peroxide (H2O2) levels, while stimulating the activities and transcription levels of superoxide dismutase (SOD), catalase (CAT), peroxidase (POD), ascorbate peroxidase (APX), glutathione reductase (GR), monodehydroascorbate reductase (MDHAR), and dehydroascorbate reductase (DHAR). In parallel, the levels of the non-enzymatic antioxidants ascorbic acid (AsA) and glutathione (GSH) were elevated. Moreover, MeJA treatment elevated the contents of total phenolics, flavonoids, and lignin in G. elata, accompanied by increased activities and gene expression of major phenylpropanoid-pathway enzymes, including phenylalanine ammonia-lyase (PAL), cinnamate 4-hydroxylase (C4H), 4-coumarate ligase (4CL), and cinnamyl alcohol dehydrogenase (CAD). MeJA further enhanced the activities and transcription levels of H+-ATPase, succinate dehydrogenase (SDH), Ca2+-ATPase, and cytochrome c oxidase (CCO), thereby helping maintain cellular ener…",
-      "authors": "Qiong Wang, Yaru Zhao, Yun Zhou et al.",
+      "title": "Achieving ≥70% of energy requirements during early enteral nutrition and short-term inflammatory–metabolic profiles in critically ill patients with sepsis: a prospective cohort study",
+      "abstract": "BackgroundSepsis is characterized by dysregulated inflammation, profound metabolic stress, and a high risk of protein–energy malnutrition in critically ill patients. This study examined the association between achieving ≥70% of estimated energy requirements during early enteral nutrition and short-term inflammatory–metabolic profiles in patients with sepsis.MethodsThis prospective observational cohort study was conducted between November 2024 and May 2025 in the intensive care unit of a state hospital in Turkey. A total of 201 patients with sepsis receiving enteral nutrition were classified according to whether they achieved < 70% or ≥70% of estimated energy requirements during the first 7 days. Biochemical and inflammatory parameters were assessed at baseline and on Day 7, and prognostic nutritional indices, including the Prognostic-Nutritional-Index (PNI) and C-reactive-protein–albumin–lymphocyte (CALLY) index, were calculated. Between-group changes and adjusted day 7 outcomes were evaluated using appropriate comparative tests and ANCOVA models adjusted for baseline values, age, sex, BMI, and NRS-2002.ResultsThe ≥70% energy adequacy group showed significant within-group reductions in CRP, urea, and creatinine by Day 7 (all p < 0.001). Between-group comparisons of days 7–0 changes showed significant differences for Δurea (p < 0.001), Δlymphocyte (p < 0.001), Δmonocyte (p < 0.001), and ΔPNI (p = 0.007), whereas ΔCRP (p = 0.083) and Δcreatinine (p = 0.156) did not differ significantly. In adjusted ANCOVA models, achieving ≥70% energy adequacy was associated with approximatel…",
+      "authors": "Hakan Toğuç, Ahmet Mustafa Altuntaş, Mehmet Çavdar",
       "published": "Jul 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1873026",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1878377",
       "image": "",
       "screen": "right"
     },

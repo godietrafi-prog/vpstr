@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-29T11:55:23Z",
+  "updated": "2026-07-29T13:47:43Z",
   "items": [
     {
       "title": "Adaptive policies balancing trade, productivity and cropland increases can support Zambia’s nutrition security under future climate shocks",
@@ -282,6 +282,16 @@
       "screen": "left"
     },
     {
+      "title": "Advanced mass spectrometry technique breaks free from specialist hardware",
+      "abstract": "Researchers at the University of Warwick and spinout company Verdel Instruments have successfully demonstrated two-dimensional mass spectrometry (2DMS) on a benchtop instrument, making this powerful technique practical and affordable for everyday laboratory use.",
+      "authors": "",
+      "published": "Jul 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-07-advanced-mass-spectrometry-technique-free.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/advanced-mass-spectrom-1.jpg",
+      "screen": "right"
+    },
+    {
       "title": "A new indicator to speed up metallic glass discovery",
       "abstract": "A research team led by Dongwoo Lee, an associate professor in the School of Mechanical Engineering at Sungkyunkwan University (SKKU), and Yanhui Liu of the Institute of Physics, Chinese Academy of Sciences (CAS), has developed a new electrical resistivity-based indicator for rapidly screening alloy compositions with high glass-forming ability.",
       "authors": "",
@@ -309,16 +319,6 @@
       "feedName": "Phys.org Analytics",
       "url": "https://phys.org/news/2026-07-nanomace-catalyst-boosts-greenhouse-gas.html",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/snu-team-develops-nano.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "Water's local asymmetry drives proton hopping between molecules, simulations reveal",
-      "abstract": "Complex simulations—the most intricate of their kind to date—carried out by an international research team led by scientists at Heidelberg University's Institute for Physical Chemistry, have revealed how water governs the way protons move through it. Using their modeling, researchers from Cambridge (U.K.), Bochum, Dijon (France) and Heidelberg were able to trace, in full quantum detail, the movements of a proton shared among six water molecules. At its core, the work addresses how a proton moves through water: not as a single particle drifting along, but by \"hopping\" from one molecule to the next.",
-      "authors": "",
-      "published": "Jul 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-07-local-asymmetry-proton-molecules-simulations.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/complex-simulations-ne.jpg",
       "screen": "right"
     },
     {
@@ -362,6 +362,26 @@
       "screen": "right"
     },
     {
+      "title": "New microwave frying method could make french fries much healthier",
+      "abstract": "A new cooking method could make French fries crispier in less time while significantly limiting how much oil they absorb. Researchers propose combining microwave heating, which keeps oil out, with conventional frying, which provides the crunch consumers expect.",
+      "authors": "",
+      "published": "Jul 2026",
+      "feedName": "ScienceDaily Nutrition",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260729044048.htm",
+      "image": "https://www.sciencedaily.com/images/1920/french-fries-flying.webp",
+      "screen": "right"
+    },
+    {
+      "title": "4 in 5 toddler foods are ultra-processed",
+      "abstract": "A grocery-store audit found that many foods marketed for toddlers may be far less healthy than parents expect. Of nearly 2,800 products examined in Texas, 81% were ultra-processed, and almost half failed at least one World Health Organization nutrient standard, often because they contained too much sugar, sodium, fat, or too many calories.",
+      "authors": "",
+      "published": "Jul 2026",
+      "feedName": "ScienceDaily Nutrition",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260727012128.htm",
+      "image": "https://www.sciencedaily.com/images/1920/mother-pushing-toddler-stroller-in-grocery-store-snack-aisle.webp",
+      "screen": "right"
+    },
+    {
       "title": "Scientists reveal what sparkling water really does to your teeth",
       "abstract": "Unsweetened sparkling water may offer a tooth-friendlier alternative to sugary soda, according to a small preliminary study tracking how different drinks change mouth acidity. Soda caused the strongest and longest drop in salivary pH, while sparkling water produced only a temporary decline before saliva restored normal conditions. Importantly, acidity remained above the level associated with enamel damage.",
       "authors": "",
@@ -379,26 +399,6 @@
       "feedName": "ScienceDaily Nutrition",
       "url": "https://www.sciencedaily.com/releases/2026/07/260727012125.htm",
       "image": "https://www.sciencedaily.com/images/1920/intermittent-fasting-eating-clock.webp",
-      "screen": "right"
-    },
-    {
-      "title": "Why losing the wrong fat can trigger diabetes",
-      "abstract": "Scientists discovered that damaged fat cells can become inflamed, lose their ability to store lipids, and eventually vanish, disrupting the body’s metabolism. The findings show that diabetes can result not only from excess fat, but also from losing the healthy fat tissue the body needs.",
-      "authors": "",
-      "published": "Jul 2026",
-      "feedName": "ScienceDaily Nutrition",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260726015259.htm",
-      "image": "https://www.sciencedaily.com/images/1920/skinny-woman-pinching-abdominal-fat.webp",
-      "screen": "right"
-    },
-    {
-      "title": "Your AI calorie-tracking app may be off by 345 calories",
-      "abstract": "Popular AI-powered food apps may make calorie counting easier, but they may also leave out a surprisingly large part of the meal. Four apps underestimated calories and fat by about one-third when tested against carefully prepared meals. High-fat ketogenic dishes appeared to cause the most trouble, while carbohydrates were measured more consistently.",
-      "authors": "",
-      "published": "Jul 2026",
-      "feedName": "ScienceDaily Nutrition",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260726015237.htm",
-      "image": "https://www.sciencedaily.com/images/1920/smartphone-ai-calorie-nutrition-tracking-app.webp",
       "screen": "right"
     },
     {

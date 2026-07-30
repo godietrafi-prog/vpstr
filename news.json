@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-30T08:11:36Z",
+  "updated": "2026-07-30T11:48:33Z",
   "items": [
     {
       "title": "Improved data reveal the role of aquatic foods",
@@ -82,6 +82,16 @@
       "screen": "left"
     },
     {
+      "title": "Artificial intelligence and digital twins: pathways to climate-resilient, traceable and equitable global food supply chains",
+      "abstract": "",
+      "authors": "Orlando Borrás-Hidalgo, Fei Ding, Aly El Sheikha",
+      "published": "Oct 2026",
+      "feedName": "Trends in Food Sci & Tech",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426004450?dgcid=rss_sd_all",
+      "image": "",
+      "screen": "left"
+    },
+    {
       "title": "Microscopy that still matters: The regulatory utility of the Howard Mold Count (HMC) for food decomposition",
       "abstract": "",
       "authors": "Monica Pava-Ripoll, Tim Jackson, Solomon Gebru et al.",
@@ -108,16 +118,6 @@
       "published": "Oct 2026",
       "feedName": "Trends in Food Sci & Tech",
       "url": "https://www.sciencedirect.com/science/article/pii/S0924224426003900?dgcid=rss_sd_all",
-      "image": "",
-      "screen": "left"
-    },
-    {
-      "title": "Pea protein and pea-derived bioactive peptides in healthy ageing: Evidence for sarcopenia prevention, metabolic health, and personalized nutrition in older adults",
-      "abstract": "",
-      "authors": "Jiajing Zhou, Huiru Shi, Di Sun et al.",
-      "published": "Oct 2026",
-      "feedName": "Trends in Food Sci & Tech",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426004383?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -412,22 +412,22 @@
       "screen": "right"
     },
     {
-      "title": "Efficacy and safety of probiotics in the treatment of iron deficiency anemia in Chinese children: a systematic review and meta-analysis",
-      "abstract": "ObjectiveThis meta-analysis, combined with trial sequential analysis (TSA), aimed to evaluate the effects of probiotics on hematologic parameters and iron-regulation biomarkers in Chinese children with iron deficiency anemia (IDA).MethodsTen electronic databases were systematically searched for eligible studies published up to April 30, 2026. Meta-analyses were conducted using RevMan (version 5.3), and TSA was performed with TSA software (version 0.9.5.10 beta). Dichotomous and continuous outcomes were pooled as risk ratios (RRs) and mean differences (MDs), respectively. Publication bias was assessed using Egger’s and Harbord’s tests.ResultsTwelve randomized controlled trials involving 1,342 children with IDA were included. In terms of efficacy, probiotics significantly increased hemoglobin (Hb) (MD 8.64 g/L, 95% CI 6.77–10.52), red blood cell (MD 0.47 × 1012/L, 95% CI 0.19–0.76), mean corpuscular hemoglobin concentration (MD 15.66 g/L, 95% CI 12.55–18.77), mean corpuscular volume (MCV) (MD 6.68 fL, 95% CI 4.69–8.67), mean corpuscular hemoglobin (MD 2.40 pg, 95% CI 1.57–3.22), and hematocrit (MD 3.36%, 95% CI 2.31–4.41), serum iron (MD 1.70 μmol/L, 95% CI 0.89–2.51), and serum ferritin (MD 5.62 μg/L, 95% CI 4.24–7.00), while significantly reducing transferrin levels (MD – 0.24 g/L, 95% CI –0.34 to –0.15). Regarding safety, probiotics significantly reduced the incidence of total adverse events (RR 0.52, 95% CI 0.28–0.97), with no significant effects observed on anorexia, nausea and vomiting, metallic taste, abdominal pain, diarrhea, or constipation. TSA demonstrated that all…",
-      "authors": "Gang Hu, Yunfeng Yu, Xinyu Yang et al.",
+      "title": "Malnutrition assessed by the mini nutritional assessment is associated with overall survival in patients with resectable non–small cell lung cancer",
+      "abstract": "BackgroundMalnutrition is common in non-small cell lung cancer (NSCLC) patients undergoing surgery and is associated with poor clinical outcomes. This study aimed to assess the prevalence and prognostic value of malnutrition using the Mini Nutritional Assessment (MNA) screening tool for patient survival.MethodsA total of 98 NSCLC patients (62.2% male, median age 67 years, range: 41–84) who underwent pulmonary resection between 2012 and 2019 were evaluated for nutritional status using MNA and BMI. Overall survival (OS) was analyzed using Kaplan-Meier curves and Cox regression models. Post-surgery complications were segmented according to MNA status.FindingsAccording to MNA, 66.3% of patients were well-nourished (MNA ≥ 24), 31.6% were at risk of malnutrition (MNA 17–23.5), and 2% were malnourished (MNA < 17). In patients at risk of malnutrition, 1-year OS was 67.86%, and 5-year OS was 7.14%. In contrast, well-nourished patients showed a 1-year OS of 73.77%, and a 5-year OS of 26.22%. Cox regression analysis showed that MNA was significantly associated with overall survival (HR = 0.214, 95% CI 0.060–0.765, p = 0.018).ConclusionNearly one-third of NSCLC patients were at risk of malnutrition and had a significantly worse survival outcome. MNA was independently associated with overall survival, emphasizing the importance of nutritional screening in this high-risk group.",
+      "authors": "Denis I. Trufa, Koblandy Khamitov, Lena Kopplin et al.",
       "published": "Jul 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1876092",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1864710",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Multi-omics profiling of microbial ecology and non-volatile compounds across fermentation stages of spontaneous litchi (Litchi chinensis Sonn.) fermented vinegar-like beverage",
-      "abstract": "IntroductionLitchi fruit vinegar-like beverages (LVBs) are notable processed products derived from litchi fruit, yet few studies have focused on the systematic characterization of microbial and metabolic dynamics during their natural fermentation process.MethodsThis work employed a comprehensive methodology integrating metagenomics and untargeted metabolomics based on UHPLC–MS/MS (Orbitrap Q Exactive HF-X) to elucidate the dynamic profiles of the microbial community and non-volatile metabolites, as well as their interrelations, across the various spontaneous fermentation stages of LVBs.ResultsMetagenomic analysis indicated reduced microbial diversity and substantial structural changes within the community. Bacteria dominated the fermentation, accounting for 69.16 – 99.04% of the microbial community based on the taxonomically classified reads at the kingdom level. During the preliminary stage, Leuconostoc, Enterobacter, and Klebsiella were the prevalent genera. During the mid-fermentation stage, Komagataeibacter and Lactiplantibacillus emerged as the predominant genera in acid production. In the final stage, the microbial community was dominated primarily by Zymomonas and the Acetobacteriaceae family, including Acetobacter and Komagataeibacter. The non-targeted metabolomics study identified 2,382 metabolites through comprehensive database matching (in-house library, HMDB, KEGG, and metDNA algorithm) and stringent quality filtering (identification score > 0.5 and QC CV < 0.5), which were categorized into 20 distinct groups. Thirty seven metabolites, including amino acids, org…",
-      "authors": "Ting Wang, Honglian Liang, Yanglin Wu et al.",
+      "title": "The gut microbiome as a plausible but unproven moderator of cinnamon trial outcomes in type 2 diabetes: toward phytochemical standardization and precision nutraceuticals",
+      "abstract": "Cinnamon (Cinnamomum spp.) has been widely investigated as an adjunctive nutraceutical for glycemic management in type 2 diabetes mellitus, yet clinical findings remain inconsistent. This variability is commonly attributed to differences in cinnamon species, dosage, intervention duration, baseline glycemic status and phytochemical standardization, alongside methodological factors such as trial quality, dietary patterns, medication use, adherence and endpoint selection. One potential contributor that has received limited attention is the gut microbiome. We propose a testable hypothesis that a substantial proportion of the marked inter-trial heterogeneity observed in cinnamon meta-analyses (I2 > 75%) may reflect underlying gut-microbial metabotypes differing in their ability to convert cinnamon polyphenols and procyanidins into bioactive metabolites. Type 2 diabetes is associated with altered microbial composition, reduced butyrate-producing taxa and disrupted metabolic pathways. Cinnamon phytochemicals, including polyphenols, cinnamaldehyde, procyanidins and coumarin, undergo microbial biotransformation that may influence their bioavailability and metabolic effects. Because cinnamaldehyde is rapidly absorbed in the proximal gastrointestinal tract, colon-targeted delivery systems may be required to rigorously evaluate microbiome-mediated mechanisms. No randomized controlled trial has directly examined whether microbiome composition modifies cinnamon’s glycemic effects in type 2 diabetes. Future studies should therefore incorporate microbiome-informed designs, including phytoc…",
+      "authors": "Eleje O. Okonta, Charles O. Nnadi, Ugwu Okechukwu Paul-Chima",
       "published": "Jul 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1908193",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1874182",
       "image": "",
       "screen": "right"
     },
@@ -440,6 +440,63 @@
       "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1809167",
       "image": "",
       "screen": "right"
+    },
+    {
+      "title": "Phosphorus in Balance: Evaluating the Costs and Benefits of a Circular Economy Approach",
+      "abstract": "This paper presents a comprehensive cost-benefit analysis of producing alternative phosphorus (P) fertilizers from recycled water treatment residuals (Fe-WTR) and cowshed effluents. The cost-benefit values of Fe-WTR are compared to the net costs of recycling P using a synthetic adsorbent (commonly used practice-layered double hydroxide, P-LDH) and the costs of commercial fertilizers. Dairy wastewater is used as a source of P. The cost of 1 ton P using the Fe-WTR process is €329. In contrast, synthetic adsorbents (P-LDH) incur significantly higher costs, amounting to €3329 per ton, underscoring the economic advantage of utilizing waste-derived materials. Adopting Fe-WTR fertilizer not only offers substantial cost savings by avoiding landfill fees (€40 per ton) and wastewater discharge fines (€500 per ton) but also reduces environmental impacts when compared to the use of commercial P fertilizers (non-recycled P). The Fe-WTR method mitigates eutrophication and pollution, presenting the dual benefit of cost-effectiveness and environmental protection, which exceeds the common P recycling practice (LDH). Our conclusions are based on production processes in Israel and compared to previous cost estimations at the world level, assessing the potential gain from such circular production of P globally. Recycling P from waste streams can be economically viable and environmentally preferable at small and large economic scales, supporting global sustainability goals.",
+      "authors": "H. E. Ganem, I. Zohar, M. Litaor et al.",
+      "published": "2024",
+      "venue": "Journal of Environmental Science Studies",
+      "feedName": "Lab Research",
+      "citationCount": 0,
+      "recentCitations": 0,
+      "s2_paper_id": "5a7645fb724f2527117a809194848a4b84de25da",
+      "url": "https://doi.org/10.20849/jess.v7i2.1469",
+      "image": "",
+      "screen": "both",
+      "lab_paper": true,
+      "researcher": {
+        "name": "Iris Zohar",
+        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=YVQd-pwAAAAJ"
+      }
+    },
+    {
+      "title": "The impact of alternative recycled and synthetic phosphorus sources on plant growth and responses, soil interactions and sustainable agriculture - lettuce (Lactuca sativa) as a case model.",
+      "abstract": "This research assesses the efficacy of two phosphorus (P) adsorbents as alternative fertilizers in promoting lettuce growth. A synthetic Mg/Al-layered double hydroxide (LDH) and an iron-based recycled water treatment residual (Fe-WTR), both enriched with P from dairy wastewater and added at three dosage levels. We hypothesized that the adsorbents' physicochemical nature will overshadow the biological efforts in the plant ecosystem to increase P solubility, impacting plant growth, nutritional composition, and metabolite profiles. Fe-WTR significantly enhanced lettuce biomass compared to LDH. Yet, elemental analysis revealed higher or equal P concentrations in the low-biomass LDH plants relative to other treatments. Phosphorus uptake appears to influence the assimilation of other nutrients that divided into two groups: calcium, magnesium, zinc, and copper with notable correlations to P and nitrogen, iron, aluminum, vanadium and manganese with low correlations to P. Conversely, P retained poor correlation with most metabolites whereas iron showed a higher correlation with numerous metabolites. Analysis of metabolites, encompassing carbohydrates, the Krebs cycle, amino acids, nucleic acids, and stress and regulatory pathways, revealed diminished levels in the LDH treatments. Overall, carbon assimilation (plant growth) was more effectively predicted by soil P availability (adsorbent type and dose) rather than by cellular P concentration, suggesting root signaling was at play, influencing carbohydrate translocation to the roots. Diminished levels of cellular sugars further affect…",
+      "authors": "I. Zohar, H. E. Ganem, D. DiSegni et al.",
+      "published": "2024",
+      "venue": "Science of the Total Environment",
+      "feedName": "Lab Research",
+      "citationCount": 7,
+      "recentCitations": 0,
+      "s2_paper_id": "716a87e9602f04f6b3d7fe6c3b411a15d1beaf4a",
+      "url": "https://doi.org/10.1016/j.scitotenv.2024.174719",
+      "image": "",
+      "screen": "both",
+      "lab_paper": true,
+      "researcher": {
+        "name": "Iris Zohar",
+        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=YVQd-pwAAAAJ"
+      }
+    },
+    {
+      "title": "Biogeochemical impacts on soil phosphorus and other macro- and micro elements solubility, ratios and forms during heatwaves",
+      "abstract": "Increased frequency and amplitude of extreme heat events can affect soil temperature, and biogeochemical processes. High temperatures may have contradicting geochemical and biological effects on essential elements solubility and forms. Endothermic behavior of minerals and oxides results in decreased solubility with increased temperature, while bio-mineralization is stimulated in response to high temperature. To elucidate heatwave impacts on soil biogeochemical processes, we performed a controlled soil incubation experiment and a field survey. Wet and dry alluvial soil sets were incubated at background temperature (33°C) for two weeks and then, a sequence of three heat events was induced (41°C/33°C alternations, five days each) followed by two short events of extreme heat (48°C for two days). Most soil indices changed trends after about 25-30 days. At the first part of the period, P, Al, Fe appeared to reflect endothermic behavior of (hydr)oxides and minerals in the dry soil (i.e., sorbed P was likely dependent on Fe (hydr)oxides dissolution), while trends of Fe/Al in the wet soil followed the dissolved organic C trend. Phosphatases enzymatic activities fluctuated positively with temperature, emphasizing the activity of residual extracellular enzymes sorbed to soil particles (dry soil) in addition to living cells excreted enzymes (wet soil). With the 3 rd heatwave, soluble P dramatically fluctuated with temperature, suggesting a sequence of temperature-enhanced bio-mineralization, releasing P to the soil solution, counteracted by geochemical sorption, removing P from solutio…",
+      "authors": "I. Zohar, M. Khoury, Yael Kirshenbaum et al.",
+      "published": "2023",
+      "venue": "Goldschmidt2023 abstracts",
+      "feedName": "Lab Research",
+      "citationCount": 0,
+      "recentCitations": 0,
+      "s2_paper_id": "e71980935a3dcce1c2b9257fe6bd261b6cf61461",
+      "url": "https://doi.org/10.7185/gold2023.18565",
+      "image": "",
+      "screen": "both",
+      "lab_paper": true,
+      "researcher": {
+        "name": "Iris Zohar",
+        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=YVQd-pwAAAAJ"
+      }
     },
     {
       "title": "Effect of Quinoa Protein Concentrate in Particulate and Fibrillar Forms on the Physico-Chemical Properties of Quinoa Starch Gels",
@@ -515,44 +572,6 @@
       "researcher": {
         "name": "Ofir Benjamin",
         "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=FsjV0oIAAAAJ"
-      }
-    },
-    {
-      "title": "Phosphorus in Balance: Evaluating the Costs and Benefits of a Circular Economy Approach",
-      "abstract": "This paper presents a comprehensive cost-benefit analysis of producing alternative phosphorus (P) fertilizers from recycled water treatment residuals (Fe-WTR) and cowshed effluents. The cost-benefit values of Fe-WTR are compared to the net costs of recycling P using a synthetic adsorbent (commonly used practice-layered double hydroxide, P-LDH) and the costs of commercial fertilizers. Dairy wastewater is used as a source of P. The cost of 1 ton P using the Fe-WTR process is €329. In contrast, synthetic adsorbents (P-LDH) incur significantly higher costs, amounting to €3329 per ton, underscoring the economic advantage of utilizing waste-derived materials. Adopting Fe-WTR fertilizer not only offers substantial cost savings by avoiding landfill fees (€40 per ton) and wastewater discharge fines (€500 per ton) but also reduces environmental impacts when compared to the use of commercial P fertilizers (non-recycled P). The Fe-WTR method mitigates eutrophication and pollution, presenting the dual benefit of cost-effectiveness and environmental protection, which exceeds the common P recycling practice (LDH). Our conclusions are based on production processes in Israel and compared to previous cost estimations at the world level, assessing the potential gain from such circular production of P globally. Recycling P from waste streams can be economically viable and environmentally preferable at small and large economic scales, supporting global sustainability goals.",
-      "authors": "H. E. Ganem, I. Zohar, M. Litaor et al.",
-      "published": "2024",
-      "venue": "Journal of Environmental Science Studies",
-      "feedName": "Lab Research",
-      "citationCount": 0,
-      "recentCitations": 0,
-      "s2_paper_id": "5a7645fb724f2527117a809194848a4b84de25da",
-      "url": "https://doi.org/10.20849/jess.v7i2.1469",
-      "image": "",
-      "screen": "both",
-      "lab_paper": true,
-      "researcher": {
-        "name": "Adi Jonas-Levi",
-        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=MbCf9l4AAAAJ"
-      }
-    },
-    {
-      "title": "The impact of alternative recycled and synthetic phosphorus sources on plant growth and responses, soil interactions and sustainable agriculture - lettuce (Lactuca sativa) as a case model.",
-      "abstract": "This research assesses the efficacy of two phosphorus (P) adsorbents as alternative fertilizers in promoting lettuce growth. A synthetic Mg/Al-layered double hydroxide (LDH) and an iron-based recycled water treatment residual (Fe-WTR), both enriched with P from dairy wastewater and added at three dosage levels. We hypothesized that the adsorbents' physicochemical nature will overshadow the biological efforts in the plant ecosystem to increase P solubility, impacting plant growth, nutritional composition, and metabolite profiles. Fe-WTR significantly enhanced lettuce biomass compared to LDH. Yet, elemental analysis revealed higher or equal P concentrations in the low-biomass LDH plants relative to other treatments. Phosphorus uptake appears to influence the assimilation of other nutrients that divided into two groups: calcium, magnesium, zinc, and copper with notable correlations to P and nitrogen, iron, aluminum, vanadium and manganese with low correlations to P. Conversely, P retained poor correlation with most metabolites whereas iron showed a higher correlation with numerous metabolites. Analysis of metabolites, encompassing carbohydrates, the Krebs cycle, amino acids, nucleic acids, and stress and regulatory pathways, revealed diminished levels in the LDH treatments. Overall, carbon assimilation (plant growth) was more effectively predicted by soil P availability (adsorbent type and dose) rather than by cellular P concentration, suggesting root signaling was at play, influencing carbohydrate translocation to the roots. Diminished levels of cellular sugars further affect…",
-      "authors": "I. Zohar, H. E. Ganem, D. DiSegni et al.",
-      "published": "2024",
-      "venue": "Science of the Total Environment",
-      "feedName": "Lab Research",
-      "citationCount": 7,
-      "recentCitations": 0,
-      "s2_paper_id": "716a87e9602f04f6b3d7fe6c3b411a15d1beaf4a",
-      "url": "https://doi.org/10.1016/j.scitotenv.2024.174719",
-      "image": "",
-      "screen": "both",
-      "lab_paper": true,
-      "researcher": {
-        "name": "Adi Jonas-Levi",
-        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=MbCf9l4AAAAJ"
       }
     },
     {

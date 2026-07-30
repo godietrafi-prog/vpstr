@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-30T13:29:16Z",
+  "updated": "2026-07-30T15:46:13Z",
   "items": [
     {
       "title": "Improved data reveal the role of aquatic foods",
@@ -242,6 +242,26 @@
       "screen": "left"
     },
     {
+      "title": "Antibacterial efficacy of recombinant phage lysin JD007-LY01 against Staphylococcus aureus in food matrices",
+      "abstract": "",
+      "authors": "Yonghua Huang, Jianlong Lao, Jiafu Zhang et al.",
+      "published": "Jan 2027",
+      "feedName": "Food Microbiology",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0740002026002182?dgcid=rss_sd_all",
+      "image": "",
+      "screen": "left"
+    },
+    {
+      "title": "Cinnamon essential oil synergizes with sodium hypochlorite to suppress VBNC formation in Escherichia coli O157:H7 by modulating the temporal expression of arcA/relA-associated stress regulators",
+      "abstract": "",
+      "authors": "Haoqing Zhao, Zongwei Bai, Jingfeng Zhang et al.",
+      "published": "Jan 2027",
+      "feedName": "Food Microbiology",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0740002026002200?dgcid=rss_sd_all",
+      "image": "",
+      "screen": "left"
+    },
+    {
       "title": "Biocontrol of postharvest citrus green mold by Meyerozyma caribbica : suppression of Penicillium digitatum development, enhanced ROS metabolism, induced resistance, and quality preservation",
       "abstract": "",
       "authors": "Meiqiu Xu, Jucai Wang, Solairaj Dhanasekaran et al.",
@@ -262,24 +282,14 @@
       "screen": "left"
     },
     {
-      "title": "FpNuc1α regulates phosphate signaling and pathogenicity in Fusarium proliferatum infection of jujube fruit by targeting FpGit1 via a novel BSN motif",
-      "abstract": "",
-      "authors": "Yizhou Gao, Yitong Wang, Zenghui Yang et al.",
-      "published": "Jan 2027",
-      "feedName": "Food Microbiology",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0740002026002169?dgcid=rss_sd_all",
-      "image": "",
-      "screen": "left"
-    },
-    {
-      "title": "Promiscuous activity of ornithine decarboxylase from Enterobacter hormaechei : An alternative pathway for histamine formation in fermented sausages",
-      "abstract": "",
-      "authors": "Wei He, Binbin Li, Kaidi Hu et al.",
-      "published": "Jan 2027",
-      "feedName": "Food Microbiology",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0740002026002121?dgcid=rss_sd_all",
-      "image": "",
-      "screen": "left"
+      "title": "Hiroshima blast debris reveals a previously unknown alloy",
+      "abstract": "The Hiroshima blast on Aug. 6, 1945, was one of the most devastating events in human history. Like all nuclear detonations, it created fleeting moments of extreme heat, pressure, mixing and cooling. These conditions can briefly produce materials that could never form under normal circumstances.",
+      "authors": "",
+      "published": "Jul 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-07-hiroshima-blast-debris-reveals-previously.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/scientists-discover-a-11.jpg",
+      "screen": "right"
     },
     {
       "title": "Gold-MXene catalyst converts nitrate to ammonia using sunlight and 1.5 volts",
@@ -309,16 +319,6 @@
       "feedName": "Phys.org Analytics",
       "url": "https://phys.org/news/2026-07-indicator-metallic-glass-discovery.html",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/researchers-develop-a-10.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "Self-adaptive Cu–Co catalyst converts nitrate pollution into green ammonia through dynamic catalyst reconstruction",
-      "abstract": "Nitrate contamination originating from agricultural runoff, industrial wastewater and municipal effluents is a growing global environmental problem. At the same time, ammonia has emerged as a key chemical feedstock and an attractive carbon-free energy carrier for a sustainable society.",
-      "authors": "",
-      "published": "Jul 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-07-cuco-catalyst-nitrate-pollution-green.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/self-adaptive-cuco-cat.jpg",
       "screen": "right"
     },
     {
@@ -372,6 +372,16 @@
       "screen": "right"
     },
     {
+      "title": "Rice bran compound may help ease irritable bowel symptoms",
+      "abstract": "A compound in rice bran may help calm an overactive gut by reducing the calcium signals that cause intestinal muscles to contract. Ferulic acid suppressed contractions triggered by several chemical messengers in laboratory experiments. The discovery could eventually support new dietary approaches for diarrhea-related digestive disorders, although it may make constipation worse.",
+      "authors": "",
+      "published": "Jul 2026",
+      "feedName": "ScienceDaily Nutrition",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260729010742.htm",
+      "image": "https://www.sciencedaily.com/images/1920/woman-holding-stomach-digestive-gut-health.webp",
+      "screen": "right"
+    },
+    {
       "title": "4 in 5 toddler foods are ultra-processed",
       "abstract": "A grocery-store audit found that many foods marketed for toddlers may be far less healthy than parents expect. Of nearly 2,800 products examined in Texas, 81% were ultra-processed, and almost half failed at least one World Health Organization nutrient standard, often because they contained too much sugar, sodium, fat, or too many calories.",
       "authors": "",
@@ -389,16 +399,6 @@
       "feedName": "ScienceDaily Nutrition",
       "url": "https://www.sciencedaily.com/releases/2026/07/260727012126.htm",
       "image": "https://www.sciencedaily.com/images/1920/woman-drinking-glass-of-sparkling-mineral-water.webp",
-      "screen": "right"
-    },
-    {
-      "title": "Eating within 8 hours may help keep the aging brain sharp",
-      "abstract": "Eating within a shorter daily window may help protect certain thinking skills as people age. In a small six-month trial, older women who limited eating to about 8 to 9 hours a day performed better on planning and problem-solving tests than those who ate over 12 hours. Both groups lost similar amounts of weight, hinting that when people eat could matter in addition to how much they eat.",
-      "authors": "",
-      "published": "Jul 2026",
-      "feedName": "ScienceDaily Nutrition",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260727012125.htm",
-      "image": "https://www.sciencedaily.com/images/1920/intermittent-fasting-eating-clock.webp",
       "screen": "right"
     },
     {

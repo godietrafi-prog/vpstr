@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-31T01:56:59Z",
+  "updated": "2026-07-31T05:31:18Z",
   "items": [
     {
       "title": "Improved data reveal the role of aquatic foods",
@@ -282,6 +282,16 @@
       "screen": "left"
     },
     {
+      "title": "Learning to better understand bone-like minerals",
+      "abstract": "A University of California San Diego research team has found a better way to understand and stabilize hydroxyapatite, the calcium phosphate mineral that makes up much of our teeth and bones. By adding tiny amounts of europium, a rare-earth element that mimics calcium, the team discovered a way to make the material potentially more useful for medical imaging.",
+      "authors": "",
+      "published": "Jul 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-07-bone-minerals.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/learning-to-better-und-1.jpg",
+      "screen": "right"
+    },
+    {
       "title": "Waste CO₂ converts into graphite through a newly observed two-step process",
       "abstract": "Graphite, the carbon core of a humble No. 2 pencil, is also an essential component in technologies such as batteries, smartphones, laptops and industrial power equipment. Today, nearly all of this critical mineral must be mined and processed and, in the United States, imported.",
       "authors": "",
@@ -309,16 +319,6 @@
       "feedName": "Phys.org Analytics",
       "url": "https://phys.org/news/2026-07-gold-mxene-catalyst-nitrate-ammonia.html",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/turning-nitrate-into-a.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "Advanced mass spectrometry technique breaks free from specialist hardware",
-      "abstract": "Researchers at the University of Warwick and spinout company Verdel Instruments have successfully demonstrated two-dimensional mass spectrometry (2DMS) on a benchtop instrument, making this powerful technique practical and affordable for everyday laboratory use.",
-      "authors": "",
-      "published": "Jul 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-07-advanced-mass-spectrometry-technique-free.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/advanced-mass-spectrom-1.jpg",
       "screen": "right"
     },
     {
@@ -402,42 +402,42 @@
       "screen": "right"
     },
     {
-      "title": "Multi-omics profiling of microbial ecology and non-volatile compounds across fermentation stages of spontaneous litchi (Litchi chinensis Sonn.) fermented vinegar-like beverage",
-      "abstract": "IntroductionLitchi fruit vinegar-like beverages (LVBs) are notable processed products derived from litchi fruit, yet few studies have focused on the systematic characterization of microbial and metabolic dynamics during their natural fermentation process.MethodsThis work employed a comprehensive methodology integrating metagenomics and untargeted metabolomics based on UHPLC–MS/MS (Orbitrap Q Exactive HF-X) to elucidate the dynamic profiles of the microbial community and non-volatile metabolites, as well as their interrelations, across the various spontaneous fermentation stages of LVBs.ResultsMetagenomic analysis indicated reduced microbial diversity and substantial structural changes within the community. Bacteria dominated the fermentation, accounting for 69.16 – 99.04% of the microbial community based on the taxonomically classified reads at the kingdom level. During the preliminary stage, Leuconostoc, Enterobacter, and Klebsiella were the prevalent genera. During the mid-fermentation stage, Komagataeibacter and Lactiplantibacillus emerged as the predominant genera in acid production. In the final stage, the microbial community was dominated primarily by Zymomonas and the Acetobacteriaceae family, including Acetobacter and Komagataeibacter. The non-targeted metabolomics study identified 2,382 metabolites through comprehensive database matching (in-house library, HMDB, KEGG, and metDNA algorithm) and stringent quality filtering (identification score > 0.5 and QC CV < 0.5), which were categorized into 20 distinct groups. Thirty seven metabolites, including amino acids, org…",
-      "authors": "Ting Wang, Honglian Liang, Yanglin Wu et al.",
+      "title": "Dietary α-linolenic acid improves skin blood flow following cold exposure and endothelial function in healthy adults: a randomized, double-blind, placebo-controlled, parallel-group comparative trial",
+      "abstract": "IntroductionPrevious studies have suggested that α-linolenic acid (ALA) improves vascular function and alleviates allergic symptoms. However, its effects on cold sensitivity, associated with peripheral vascular function, remain poorly understood. Furthermore, no studies have reported ALA’s efficacy alone in healthy humans regarding vascular endothelial function or allergic symptoms. This study aimed to clarify ALA intake effects on cold sensitivity, vascular endothelial function, and ocular/nasal allergy symptoms in healthy individualsMethodsThis randomized, double-blind, placebo-controlled, parallel-group trial enrolled 120 healthy Japanese adults experiencing cold sensitivity. Subjects consumed edible oils with different ALA contents (1.27 g or 2.03 g/day) or placebo for 12 weeks. Cold sensitivity (blood flow and skin temperature after cold exposure), vascular endothelial function, and allergy symptoms were measuredResultsSkin blood flow and skin surface temperature showed significantly higher values or trends toward higher values in ALA groups during early measurement period following cold exposure (p = 0.014 and 0.061, for skin surface temperature of the low- and high-dose groups, respectively). Overall flow-mediated dilation (FMD) analysis showed no significant differences between ALA groups (p = 0.128 and p = 0.412, for the low- and high-dose groups, respectively); however, subgroup analysis of subjects with pre-intervention values < 6% showed significant improvement (p = 0.038 and p = 0.043). No group differences were observed in allergy symptoms. Serum ALA concentra…",
+      "authors": "Nanaka Ando, Naohisa Nosaka, Mayu Hasegawa et al.",
       "published": "Jul 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1908193",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1878148",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Precision synbiotic intervention with 2′-fucosyllactose and infant-derived Bifidobacterium modulates gut-immune axis and reduces disease risk in toddlers: a randomized controlled trial",
-      "abstract": "BackgroundEarly childhood represents a critical window for nutritional programming of immune function and microbiome establishment. While human milk oligosaccharides (HMOs) and probiotics individually demonstrate health benefits, their synergistic integration as synbiotics remains underexplored in toddler populations. This study aimed to evaluate whether a precision synbiotic combining 2′-fucosyllactose (2’-FL) with infant-adapted Bifidobacterium strains provides superior protection against common pediatric conditions compared with probiotics alone or placebo, and to elucidate underlying gut-immune mechanisms.AimTo determine the efficacy of a 2’-FL-containing synbiotic on infectious and atopic disease incidence, gut microbiota composition, and intestinal immune markers in children aged 1–3 years.MethodsIn this multicenter, double-blind, placebo-controlled, three-arm trial, 390 healthy toddlers were randomized (1:1:1) to receive: (1) synbiotic (2’-FL 1.0 g/day + B. infantis R0033 1.5 × 1010 CFU + B. bifidum R0071 1.5 × 1010 CFU); (2) probiotic (identical strains/doses); or (3) placebo (maltodextrin 1.5 g/day) for 12 weeks, with 12-week follow-up. Primary outcome was upper respiratory tract infections (URTIs) incidence over 24 weeks. Secondary outcomes included pneumonia, diarrhea, eczema, antibiotic use, gut microbiota (16S rRNA V3-V4 sequencing), and fecal immune biomarkers (calprotectin, sIgA, HBD-2, LL-37). Dietary intake was monitored to control nutritional confounders.ResultSynbiotic vs. placebo: URTI incidence reduced from 85.4 to 55.4% (adjusted risk ratio (aRR) 0.64,…",
-      "authors": "Ke Chen, Xi Zhang, Shanshan Jin et al.",
+      "title": "Plant-derived bioactives in depression-related and antidepressant-associated sexual dysfunction: a narrative review",
+      "abstract": "Sexual dysfunction related to depression and antidepressant treatment is clinically important yet underrecognized, affecting adherence, intimate functioning and quality of life. Depression can impair desire, arousal, orgasm and satisfaction before pharmacotherapy, while serotonergic antidepressants may further disturb these domains during treatment, complicating causal attribution and underscoring the need to distinguish depression-related sexual dysfunction from antidepressant-associated sexual dysfunction (AISD). Plant-derived bioactives have attracted interest because several engage systems relevant to both mood and sexual response, including monoaminergic, inflammatory/oxidative, HPA-axis, autonomic and nitric oxide-mediated vascular pathways. We conducted a narrative review based on targeted searches of PubMed/MEDLINE, Web of Science and Scopus through June 2026, synthesizing mechanistic and clinical evidence for selected candidates by phenotype specificity to separate direct AISD studies from adjacent clinical or preclinical evidence and mechanistic plausibility. Saffron provides the most coherent AISD-specific signal, supported by small randomized trials in women and men with fluoxetine-associated sexual dysfunction. Maca shows a narrower signal in female SSRI/SNRI-associated sexual dysfunction, particularly in postmenopausal women. Rosa damascena remains preliminary, whereas Ginkgo biloba shows inconsistent controlled evidence and interaction concerns. Panax ginseng, pomegranate and dietary nitrates are mechanistically plausible through endothelial and nitric oxide …",
+      "authors": "Xue Liu, Zhirui Sun, Jia Gao et al.",
       "published": "Jul 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1856180",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1894055",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "A novel solid beverage RLMCR prevents obesity-related metabolic disorders through the gut-adipose axis",
-      "abstract": "BackgroundThe global obesity epidemic and associated metabolic comorbidities have imposed an insurmountable strain on healthcare systems, underscoring the urgent need for simple, early interventions to curb obesity at its onset. To address this problem, we developed a novel solid beverage RLMCR (Chinese National Invention Patent No. ZL 202410541939.2) and proved its therapeutic effects on established obesity, yet its preventive potential and underlying mechanisms remain unelucidated.PurposeThis study aimed to further explore the preventive role of RLMCR on diet-induced obesity and elucidate its mechanism via the gut-adipose axis.MethodsMale C57BL/6J mice were given RLMCR throughout high-fat diet (HFD) feeding to assess its preventive efficacy against obesity. Post-intervention, key metabolic indices, including body weight, fat percentage, and glucose tolerance, were measured. Subsequently, energy expenditure was monitored, and cold tolerance assays, adipose histomorphology, and thermogenic gene expression analysis were conducted. To characterize the modulatory effects of RLMCR on gut microbiota, 16S rDNA sequencing and untargeted metabolomics analysis were performed. Fecal microbiota transplantation (FMT) was finally conducted to verify the mediating role of gut microbiota in the beneficial effects of RLMCR.ResultsRLMCR markedly mitigated HFD-induced body weight gain and glucolipid metabolic disturbances, while significantly augmenting energy expenditure and cold tolerance. Besides, RLMCR facilitated white adipose tissue browning, as reflected by the emergence of multilocul…",
-      "authors": "Ying Wen, Yan-Mei Peng, Xuan-Yu Zhou et al.",
+      "title": "Development and validation of a nomogram for early nutritional risk stratification in elderly patients with pulmonary sepsis: a retrospective cohort study",
+      "abstract": "BackgroundMalnutrition is highly prevalent among elderly patients with sepsis and is associated with adverse outcomes; however, early identification of nutritional risk remains challenging. This study aimed to develop and validate a practical prediction model for early nutritional risk in elderly patients with pulmonary sepsis.MethodsIn this retrospective cohort study, 323 elderly patients with pulmonary sepsis were included. Nutritional risk was defined as a Nutritional Risk Screening 2002 (NRS-2002) score of ≥3. Candidate variables collected within 24 h of admission were screened using least absolute shrinkage and selection operator regression, followed by backward stepwise selection. A multivariable logistic regression model was constructed and visualized as a nomogram. Model performance was evaluated using discrimination, calibration, decision curve analysis, comparison with the modified Nutrition Risk in the Critically Ill (mNUTRIC) score, bootstrap internal validation, and sensitivity analysis using proxy Global Leadership Initiative on Malnutrition (GLIM) criteria.ResultsNutritional risk was identified in 115 patients (35.6%). Seven predictors, age, body mass index, Barthel Index, Sequential Organ Failure Assessment score, serum sodium, albumin, and hemoglobin–albumin–lymphocyte–platelet score, were retained in the final model. The nomogram demonstrated good discrimination (area under the curve [AUC] 0.803, 95% CI 0.755–0.852) and satisfactory calibration (Hosmer–Lemeshow P = 0.845). Decision curve analysis indicated a net clinical benefit across a wide range of thre…",
+      "authors": "Xiaoming Yang, Meiyan He, Zhongda Liu et al.",
       "published": "Jul 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1895261",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1878332",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Sleep duration, sleep quality, and daytime napping in relation to incident cardiometabolic multimorbidity across three national aging cohorts: a prospective, interpretable machine learning study",
-      "abstract": "BackgroundSleep disturbances are modifiable factors linked to metabolic dysregulation, adiposity, blood pressure abnormalities, and cardiometabolic risk. Evidence remains limited on whether nighttime sleep duration, sleep quality, and daytime napping predict cardiometabolic multimorbidity (CMM), defined as two or more of hypertension, type 2 diabetes mellitus, coronary heart disease, and stroke, across populations.MethodsUsing CHARLS, ELSA, and HRS, we examined associations between sleep patterns and incident CMM in prospective aging cohorts. Kaplan–Meier curves and Cox proportional hazards models were used for time-to-event analyses, adjusting for sociodemographic characteristics, physical activity, and clinical covariates. Restricted cubic splines explored nonlinear associations. Mediation analyses assessed whether blood pressure, lipid markers, and C-reactive protein mediated the association between nighttime sleep duration and CMM. Interpretable machine learning evaluated the contribution of sleep variables within the cardiometabolic risk profile. Because sleep measures differed across cohorts, harmonization was conducted at the construct rather than raw-score level, and cross-cohort effect-size comparisons should be interpreted cautiously.ResultsThe analysis included 13,859 participants: 4,145 from CHARLS, 4,268 from ELSA, and 5,446 from HRS. In fully adjusted Cox models, good sleep quality was associated with lower CMM risk than poor sleep quality in CHARLS and ELSA. A similar trend was observed in HRS, although significance appeared only in complete-case sensitivity …",
-      "authors": "Fanchang Wang, Hongyang Qiao, Yi Zheng et al.",
+      "title": "A dietary modelling approach to examine the impact on vitamin C intakes in the United Kingdom with varying consumption of fruit juice",
+      "abstract": "Vitamin C (Ascorbic acid) has many important roles in maintaining health and preventing disease. As a water-soluble vitamin, it cannot be synthesized endogenously or stored, therefore must be obtained regularly in sufficient amounts from the diet. The present study examined vitamin C intakes and contributors in a United Kingdom population and used dietary modelling to examine the impact of adding or replacing fruit juice (FJ) on vitamin C intakes in participants within the United Kingdom National Diet and Nutrition survey (NDNS 2016–2019; n = 3,558). Results indicated that 40% of this population consumed FJ which contributed to 25% of vitamin C intakes across all ages. Vitamin C from foods and drinks typically exceeded Reference Nutrient Intakes (RNI) (30–40 mg/day), although < 10% of the population fell below the Estimated Average Requirement (EAR) and < 2% were below lower RNI (LRNI). Theoretical modelling showed that increasing numbers of FJ consumers would increase mean intakes of vitamin C. However, a greater effect on the proportion meeting Dietary Reference Values (DRVs) for vitamin C was observed by broadening FJ consumption rather than by increasing the amounts consumed by existing consumers. This also had a minimal impact on free sugar intakes. Therefore encouraging more people to include a one daily 150 mL serving of FJ in their diet (as opposed to suggesting increased intake within current consumers), would positively impact on vitamin C intakes within the United Kingdom population, whilst also helping to achieve the national “5-a-day” recommendation via a conve…",
+      "authors": "Alyson J. Hill, Emily Royle, Graham Horgan et al.",
       "published": "Jul 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1850552",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1794774",
       "image": "",
       "screen": "right"
     },

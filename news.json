@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-31T13:44:12Z",
+  "updated": "2026-07-31T15:57:09Z",
   "items": [
     {
       "title": "Improved data reveal the role of aquatic foods",
@@ -282,6 +282,16 @@
       "screen": "left"
     },
     {
+      "title": "Chemists unlock Appel fluorination with potassium fluoride",
+      "abstract": "Alcohols are among the most abundant building blocks in chemistry. Fluorinated compounds, meanwhile, are essential for many modern medicines, crop protection products and advanced materials. Converting one into the other, however, has traditionally relied on toxic, thermally unstable reagents such as DAST (diethylaminosulfur trifluoride) that make large-scale manufacturing operationally demanding.",
+      "authors": "",
+      "published": "Jul 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-07-chemists-appel-fluorination-potassium-fluoride.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/oxford-chemists-unlock.jpg",
+      "screen": "right"
+    },
+    {
       "title": "Learning to better understand bone-like minerals",
       "abstract": "A University of California San Diego research team has found a better way to understand and stabilize hydroxyapatite, the calcium phosphate mineral that makes up much of our teeth and bones. By adding tiny amounts of europium, a rare-earth element that mimics calcium, the team discovered a way to make the material potentially more useful for medical imaging.",
       "authors": "",
@@ -309,16 +319,6 @@
       "feedName": "Phys.org Analytics",
       "url": "https://phys.org/news/2026-07-hiroshima-blast-debris-reveals-previously.html",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/scientists-discover-a-11.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "Gold-MXene catalyst converts nitrate to ammonia using sunlight and 1.5 volts",
-      "abstract": "Plants need nitrogen fertilizers, which are usually ammonia-based. Ammonia is therefore one of the most important chemical products. However, its production is currently extremely energy-intensive. An international team from TU Wien and Soochow University in China has developed a novel catalyst that can convert nitrate from wastewater into ammonia much more efficiently than before—powered by sunlight and about 1.5 volts.",
-      "authors": "",
-      "published": "Jul 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-07-gold-mxene-catalyst-nitrate-ammonia.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/turning-nitrate-into-a.jpg",
       "screen": "right"
     },
     {
@@ -402,26 +402,6 @@
       "screen": "right"
     },
     {
-      "title": "A dietary modelling approach to examine the impact on vitamin C intakes in the United Kingdom with varying consumption of fruit juice",
-      "abstract": "Vitamin C (Ascorbic acid) has many important roles in maintaining health and preventing disease. As a water-soluble vitamin, it cannot be synthesized endogenously or stored, therefore must be obtained regularly in sufficient amounts from the diet. The present study examined vitamin C intakes and contributors in a United Kingdom population and used dietary modelling to examine the impact of adding or replacing fruit juice (FJ) on vitamin C intakes in participants within the United Kingdom National Diet and Nutrition survey (NDNS 2016–2019; n = 3,558). Results indicated that 40% of this population consumed FJ which contributed to 25% of vitamin C intakes across all ages. Vitamin C from foods and drinks typically exceeded Reference Nutrient Intakes (RNI) (30–40 mg/day), although < 10% of the population fell below the Estimated Average Requirement (EAR) and < 2% were below lower RNI (LRNI). Theoretical modelling showed that increasing numbers of FJ consumers would increase mean intakes of vitamin C. However, a greater effect on the proportion meeting Dietary Reference Values (DRVs) for vitamin C was observed by broadening FJ consumption rather than by increasing the amounts consumed by existing consumers. This also had a minimal impact on free sugar intakes. Therefore encouraging more people to include a one daily 150 mL serving of FJ in their diet (as opposed to suggesting increased intake within current consumers), would positively impact on vitamin C intakes within the United Kingdom population, whilst also helping to achieve the national “5-a-day” recommendation via a conve…",
-      "authors": "Alyson J. Hill, Emily Royle, Graham Horgan et al.",
-      "published": "Jul 2026",
-      "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1794774",
-      "image": "",
-      "screen": "right"
-    },
-    {
-      "title": "The lactate-to-albumin ratio as a potential biomarker for acute kidney injury risk in critically ill patients with heart failure: a retrospective study with real-world external validation",
-      "abstract": "BackgroundThe lactate-to-albumin ratio (LAR) is a composite biomarker that integrates measures of nutritional status, systemic inflammation, and oxidative stress in critically ill patients. Although LAR has been validated as a predictor of acute kidney injury (AKI) in sepsis populations, its ability to identify AKI risk in the setting of heart failure has not been comprehensively evaluated.MethodsThis investigation utilized the eICU Collaborative Research Database (eICU) as the internal derivation cohort, with an independent clinical cohort employed for external validation. Analytical methods included multivariable logistic and Cox proportional hazards regression, restricted cubic spline (RCS) modeling, and Kaplan–Meier survival curve analysis to examine the relationship between LAR levels and AKI as well as other adverse outcomes in patients with heart failure. The stability of the results was assessed via prespecified subgroup analyses, interaction testing, and multiple sensitivity analyses.ResultsThe final study population consisted of 5,288 patients with heart failure [median (interquartile range) age 71.0 years (61.0, 80.0); 54.3% male]. The overall AKI incidence in this critically ill heart failure cohort was 23.1%. After multivariable adjustment, elevated LAR levels remained independently associated with increased AKI risk in both the primary and external validation cohorts. Patients in the highest LAR quartile (Q4) had an AKI incidence of 28.8%, compared with 18.4% in the lowest quartile (Q1), with an adjusted OR of 1.77 (95% CI 1.45–2.16; p < 0.001). Subgroup analy…",
-      "authors": "Gang Luo, WeiChao Li, Wang Xu",
-      "published": "Jul 2026",
-      "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1874267",
-      "image": "",
-      "screen": "right"
-    },
-    {
       "title": "The risk factors and predictive nomogram for postoperative hypoalbuminemia in elderly patients undergoing hip arthroplasty",
       "abstract": "BackgroundPostoperative hypoalbuminemia is a common nutritional-related complication in elderly patients undergoing hip replacement surgery, which is a common nutritional-related disorder that reflects nutritional imbalance during the perioperative period and is closely associated with adverse clinical outcomes, such as an increased risk of postoperative infection and prolonged hospital stay.ObjectiveThis study aimed to identify the independent risk factors for postoperative hypoalbuminemia in elderly patients undergoing hip arthroplasty, and to develop a nomogram-based risk prediction model for perioperative clinical application. The ultimate goal was to facilitate early identification of high-risk patients and guide targeted interventions to reduce postoperative complication rates.MethodsA retrospective cohort study was conducted, enrolling 308 elderly patients who underwent hip arthroplasty from January 2015 to September 2024. Univariate analysis was first performed to screen potential risk factors. Variables with a p value < 0.05 in univariate analysis were then included in multivariate stepwise logistic regression to identify independent predictors. A nomogram was constructed to visualize the prediction model. Model performance was assessed using three metrics: discrimination (via area under the receiver operating characteristic [ROC] curve, AUC), calibration (via Hosmer-Lemeshow test and Brier score), and clinical utility (via decision curve analysis [DCA]).ResultsPostoperative hypoalbuminemia occurred in 170 of 308 patients (55.19%). Multivariate regression identifie…",
       "authors": "Zhengyou Hou, Yiran Liu, Jingyuan Zhang et al.",
@@ -432,12 +412,32 @@
       "screen": "right"
     },
     {
-      "title": "Development and validation of a nomogram for early nutritional risk stratification in elderly patients with pulmonary sepsis: a retrospective cohort study",
-      "abstract": "BackgroundMalnutrition is highly prevalent among elderly patients with sepsis and is associated with adverse outcomes; however, early identification of nutritional risk remains challenging. This study aimed to develop and validate a practical prediction model for early nutritional risk in elderly patients with pulmonary sepsis.MethodsIn this retrospective cohort study, 323 elderly patients with pulmonary sepsis were included. Nutritional risk was defined as a Nutritional Risk Screening 2002 (NRS-2002) score of ≥3. Candidate variables collected within 24 h of admission were screened using least absolute shrinkage and selection operator regression, followed by backward stepwise selection. A multivariable logistic regression model was constructed and visualized as a nomogram. Model performance was evaluated using discrimination, calibration, decision curve analysis, comparison with the modified Nutrition Risk in the Critically Ill (mNUTRIC) score, bootstrap internal validation, and sensitivity analysis using proxy Global Leadership Initiative on Malnutrition (GLIM) criteria.ResultsNutritional risk was identified in 115 patients (35.6%). Seven predictors, age, body mass index, Barthel Index, Sequential Organ Failure Assessment score, serum sodium, albumin, and hemoglobin–albumin–lymphocyte–platelet score, were retained in the final model. The nomogram demonstrated good discrimination (area under the curve [AUC] 0.803, 95% CI 0.755–0.852) and satisfactory calibration (Hosmer–Lemeshow P = 0.845). Decision curve analysis indicated a net clinical benefit across a wide range of thre…",
-      "authors": "Xiaoming Yang, Meiyan He, Zhongda Liu et al.",
+      "title": "Efficacy and safety of higher versus lower protein provision with meaningful dose separation in critically ill adults: a systematic review and meta-analysis of randomized controlled trials",
+      "abstract": "BackgroundOptimal protein provision in critically ill patients remains uncertain. We conducted a systematic review and meta-analysis of randomized controlled trials to evaluate the efficacy and safety of higher versus lower or standard protein provision in critically ill adults.MethodsRandomized controlled trials comparing higher versus lower/standard protein provision in critically ill adults were included. The primary analysis focused on trials with a between-group protein difference of at least 0.3 g/kg/day. Mortality was analyzed separately by time point, including 28/30-day, 60-day, 90-day, in-hospital, and ICU mortality. Secondary outcomes included mechanical ventilation duration, ICU and hospital length of stay, nutrition/metabolic markers, muscle-related outcomes, and safety. Risk ratios (RRs) and mean differences (MDs) were pooled using random-effects models. Certainty of evidence was assessed using GRADE.ResultsTwenty-six studies were included. Higher protein provision did not significantly reduce mortality at any time point. For 28/30-day mortality, no statistically significant difference was observed, although the point estimate was lower with higher protein provision (RR = 0.82, 95% CI 0.58–1.17; I2 = 0%). No significant differences were observed for 60-day mortality (RR = 0.85, 95% CI 0.52–1.39; I2 = 51.1%), 90-day mortality (RR = 1.03, 95% CI 0.93–1.14; I2 = 0%), in-hospital mortality (RR = 1.04, 95% CI 0.78–1.39; I2 = 0%), or ICU mortality (RR = 0.84, 95% CI 0.57–1.26; I2 = 0%). Higher protein provision did not significantly shorten mechanical ventilation du…",
+      "authors": "Yun Zhou, Xiuxiu Hao, Run Pan et al.",
       "published": "Jul 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1878332",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1893988",
+      "image": "",
+      "screen": "right"
+    },
+    {
+      "title": "Impact of coexisting obesity and malnutrition on the clinical outcomes of acute ischemic stroke patients treated with intravenous thrombolysis: a cohort-based study",
+      "abstract": "BackgroundThe simultaneous presence of obesity and malnutrition, termed the double burden of malnutrition (DBM), has become a growing public health challenge. However, little is known about how the DBM influences patients with acute ischemic stroke (AIS) who receive intravenous thrombolysis (IVT). We aimed to investigate the associations between obesity and nutritional status and clinical characteristics and clinical outcomes among AIS patients receiving IVT.MethodsWe conducted a single-center, prospective cohort study at a Shanghai hospital, including AIS patients who received alteplase IVT therapy from January 2018 to December 2022. Patients were categorized into four distinct subgroups based on body mass index-based obesity and nutritional status, as assessed using the Controlling Nutritional Status score: (1) nourished non-obese; (2) malnourished non-obese; (3) nourished obese; and (4) malnourished obese. The primary endpoints of the study were poor outcomes and all-cause mortality within 3 months, while the secondary outcomes were early neurological deterioration (END) and hemorrhagic transformation (HT).ResultsThe overall stroke cohort consisted of 6,892 AIS admissions, of which 366 patients receiving IVT were included in this study. The median age was 68 ± 12 years, and 239 subjects (65.3%) were men. A total of 52.7% of patients were malnourished, and greater malnutrition severity independently predicted worse clinical outcomes after thrombolysis. During the follow-up period, the malnourished obese group had the highest rates of poor outcomes and END, followed by the…",
+      "authors": "Huicong Niu, Xuechun Wu, Yi Chen et al.",
+      "published": "Jul 2026",
+      "feedName": "Frontiers Nutrition",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1864875",
+      "image": "",
+      "screen": "right"
+    },
+    {
+      "title": "Application of the “oral simulated tube feeding method” in enteral nutrition for patients with moderately severe acute pancreatitis: a randomized controlled non-inferiority trial comparing the nasogastric feeding route",
+      "abstract": "ObjectiveTo evaluate the efficacy and safety of an “oral simulated tube feeding method” compared to nasogastric feeding in patients with moderately severe acute pancreatitis (MSAP).MethodsIn this randomized controlled non-inferiority trial, 60 MSAP patients were assigned to either the oral simulated tube feeding group (STREAM, n = 31) or the nasogastric group (NG, n = 29). The primary outcome was the 24-h enteral nutrition (EN) tolerance rate.ResultsThe 24-h tolerance rate in the STREAM group was non-inferior to the NG group (96.8% vs. 69.0%, P < 0.001). Secondary outcomes showed the STREAM group had lower 24-h tolerance scores (1.94 ± 0.26 vs. 3.59 ± 0.34, P < 0.001) and fewer occurrences of abdominal distension (P < 0.001) and nausea (P = 0.025). Additionally, the STREAM group had significantly lower hospitalization costs (P = 0.011), with only 12.9% of patients exceeding 10,000 ¥ compared to 48.3% in the NG group. No significant difference was observed in the length of hospital stay.ConclusionThe oral simulated tube feeding method is a non-inferior, safe, and cost-effective alternative to nasogastric feeding for MSAP patients.",
+      "authors": "Sainan Shi, Dan Yang, Yingxin Gao et al.",
+      "published": "Jul 2026",
+      "feedName": "Frontiers Nutrition",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1838503",
       "image": "",
       "screen": "right"
     },

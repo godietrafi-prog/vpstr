@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-31T11:53:51Z",
+  "updated": "2026-07-31T13:44:12Z",
   "items": [
     {
       "title": "Improved data reveal the role of aquatic foods",
@@ -242,6 +242,26 @@
       "screen": "left"
     },
     {
+      "title": "Enhancing pectin degradation and improving nutritional accessibility in potato pulp through co-fermentation: From molecular structure to nutrient release",
+      "abstract": "",
+      "authors": "Yang Zhao, Chenxi Li, Ziyi Guo et al.",
+      "published": "Jan 2027",
+      "feedName": "Food Microbiology",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0740002026002194?dgcid=rss_sd_all",
+      "image": "",
+      "screen": "left"
+    },
+    {
+      "title": "Physicochemical properties of plasma activated water and artificial plasma activated water and their bactericidal efficacy against Salmonella spp. over 21 days of storage",
+      "abstract": "",
+      "authors": "Tereza Měřínská, Mitchell Walker, Kevin Keener",
+      "published": "Jan 2027",
+      "feedName": "Food Microbiology",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0740002026002145?dgcid=rss_sd_all",
+      "image": "",
+      "screen": "left"
+    },
+    {
       "title": "Antibacterial efficacy of recombinant phage lysin JD007-LY01 against Staphylococcus aureus in food matrices",
       "abstract": "",
       "authors": "Yonghua Huang, Jianlong Lao, Jiafu Zhang et al.",
@@ -258,26 +278,6 @@
       "published": "Jan 2027",
       "feedName": "Food Microbiology",
       "url": "https://www.sciencedirect.com/science/article/pii/S0740002026002200?dgcid=rss_sd_all",
-      "image": "",
-      "screen": "left"
-    },
-    {
-      "title": "Biocontrol of postharvest citrus green mold by Meyerozyma caribbica : suppression of Penicillium digitatum development, enhanced ROS metabolism, induced resistance, and quality preservation",
-      "abstract": "",
-      "authors": "Meiqiu Xu, Jucai Wang, Solairaj Dhanasekaran et al.",
-      "published": "Jan 2027",
-      "feedName": "Food Microbiology",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0740002026002133?dgcid=rss_sd_all",
-      "image": "",
-      "screen": "left"
-    },
-    {
-      "title": "Phage-derived Hol49_Lys19/sodium alginate/chitosan composite green coating: Preparation, performance and preservation effect on refrigerated salmon",
-      "abstract": "",
-      "authors": "Shuxuan Li, Jing Li, Ming Zhang et al.",
-      "published": "Jan 2027",
-      "feedName": "Food Microbiology",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0740002026002091?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -402,22 +402,32 @@
       "screen": "right"
     },
     {
-      "title": "Dietary α-linolenic acid improves skin blood flow following cold exposure and endothelial function in healthy adults: a randomized, double-blind, placebo-controlled, parallel-group comparative trial",
-      "abstract": "IntroductionPrevious studies have suggested that α-linolenic acid (ALA) improves vascular function and alleviates allergic symptoms. However, its effects on cold sensitivity, associated with peripheral vascular function, remain poorly understood. Furthermore, no studies have reported ALA’s efficacy alone in healthy humans regarding vascular endothelial function or allergic symptoms. This study aimed to clarify ALA intake effects on cold sensitivity, vascular endothelial function, and ocular/nasal allergy symptoms in healthy individualsMethodsThis randomized, double-blind, placebo-controlled, parallel-group trial enrolled 120 healthy Japanese adults experiencing cold sensitivity. Subjects consumed edible oils with different ALA contents (1.27 g or 2.03 g/day) or placebo for 12 weeks. Cold sensitivity (blood flow and skin temperature after cold exposure), vascular endothelial function, and allergy symptoms were measuredResultsSkin blood flow and skin surface temperature showed significantly higher values or trends toward higher values in ALA groups during early measurement period following cold exposure (p = 0.014 and 0.061, for skin surface temperature of the low- and high-dose groups, respectively). Overall flow-mediated dilation (FMD) analysis showed no significant differences between ALA groups (p = 0.128 and p = 0.412, for the low- and high-dose groups, respectively); however, subgroup analysis of subjects with pre-intervention values < 6% showed significant improvement (p = 0.038 and p = 0.043). No group differences were observed in allergy symptoms. Serum ALA concentra…",
-      "authors": "Nanaka Ando, Naohisa Nosaka, Mayu Hasegawa et al.",
+      "title": "A dietary modelling approach to examine the impact on vitamin C intakes in the United Kingdom with varying consumption of fruit juice",
+      "abstract": "Vitamin C (Ascorbic acid) has many important roles in maintaining health and preventing disease. As a water-soluble vitamin, it cannot be synthesized endogenously or stored, therefore must be obtained regularly in sufficient amounts from the diet. The present study examined vitamin C intakes and contributors in a United Kingdom population and used dietary modelling to examine the impact of adding or replacing fruit juice (FJ) on vitamin C intakes in participants within the United Kingdom National Diet and Nutrition survey (NDNS 2016–2019; n = 3,558). Results indicated that 40% of this population consumed FJ which contributed to 25% of vitamin C intakes across all ages. Vitamin C from foods and drinks typically exceeded Reference Nutrient Intakes (RNI) (30–40 mg/day), although < 10% of the population fell below the Estimated Average Requirement (EAR) and < 2% were below lower RNI (LRNI). Theoretical modelling showed that increasing numbers of FJ consumers would increase mean intakes of vitamin C. However, a greater effect on the proportion meeting Dietary Reference Values (DRVs) for vitamin C was observed by broadening FJ consumption rather than by increasing the amounts consumed by existing consumers. This also had a minimal impact on free sugar intakes. Therefore encouraging more people to include a one daily 150 mL serving of FJ in their diet (as opposed to suggesting increased intake within current consumers), would positively impact on vitamin C intakes within the United Kingdom population, whilst also helping to achieve the national “5-a-day” recommendation via a conve…",
+      "authors": "Alyson J. Hill, Emily Royle, Graham Horgan et al.",
       "published": "Jul 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1878148",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1794774",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Plant-derived bioactives in depression-related and antidepressant-associated sexual dysfunction: a narrative review",
-      "abstract": "Sexual dysfunction related to depression and antidepressant treatment is clinically important yet underrecognized, affecting adherence, intimate functioning and quality of life. Depression can impair desire, arousal, orgasm and satisfaction before pharmacotherapy, while serotonergic antidepressants may further disturb these domains during treatment, complicating causal attribution and underscoring the need to distinguish depression-related sexual dysfunction from antidepressant-associated sexual dysfunction (AISD). Plant-derived bioactives have attracted interest because several engage systems relevant to both mood and sexual response, including monoaminergic, inflammatory/oxidative, HPA-axis, autonomic and nitric oxide-mediated vascular pathways. We conducted a narrative review based on targeted searches of PubMed/MEDLINE, Web of Science and Scopus through June 2026, synthesizing mechanistic and clinical evidence for selected candidates by phenotype specificity to separate direct AISD studies from adjacent clinical or preclinical evidence and mechanistic plausibility. Saffron provides the most coherent AISD-specific signal, supported by small randomized trials in women and men with fluoxetine-associated sexual dysfunction. Maca shows a narrower signal in female SSRI/SNRI-associated sexual dysfunction, particularly in postmenopausal women. Rosa damascena remains preliminary, whereas Ginkgo biloba shows inconsistent controlled evidence and interaction concerns. Panax ginseng, pomegranate and dietary nitrates are mechanistically plausible through endothelial and nitric oxide …",
-      "authors": "Xue Liu, Zhirui Sun, Jia Gao et al.",
+      "title": "The lactate-to-albumin ratio as a potential biomarker for acute kidney injury risk in critically ill patients with heart failure: a retrospective study with real-world external validation",
+      "abstract": "BackgroundThe lactate-to-albumin ratio (LAR) is a composite biomarker that integrates measures of nutritional status, systemic inflammation, and oxidative stress in critically ill patients. Although LAR has been validated as a predictor of acute kidney injury (AKI) in sepsis populations, its ability to identify AKI risk in the setting of heart failure has not been comprehensively evaluated.MethodsThis investigation utilized the eICU Collaborative Research Database (eICU) as the internal derivation cohort, with an independent clinical cohort employed for external validation. Analytical methods included multivariable logistic and Cox proportional hazards regression, restricted cubic spline (RCS) modeling, and Kaplan–Meier survival curve analysis to examine the relationship between LAR levels and AKI as well as other adverse outcomes in patients with heart failure. The stability of the results was assessed via prespecified subgroup analyses, interaction testing, and multiple sensitivity analyses.ResultsThe final study population consisted of 5,288 patients with heart failure [median (interquartile range) age 71.0 years (61.0, 80.0); 54.3% male]. The overall AKI incidence in this critically ill heart failure cohort was 23.1%. After multivariable adjustment, elevated LAR levels remained independently associated with increased AKI risk in both the primary and external validation cohorts. Patients in the highest LAR quartile (Q4) had an AKI incidence of 28.8%, compared with 18.4% in the lowest quartile (Q1), with an adjusted OR of 1.77 (95% CI 1.45–2.16; p < 0.001). Subgroup analy…",
+      "authors": "Gang Luo, WeiChao Li, Wang Xu",
       "published": "Jul 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1894055",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1874267",
+      "image": "",
+      "screen": "right"
+    },
+    {
+      "title": "The risk factors and predictive nomogram for postoperative hypoalbuminemia in elderly patients undergoing hip arthroplasty",
+      "abstract": "BackgroundPostoperative hypoalbuminemia is a common nutritional-related complication in elderly patients undergoing hip replacement surgery, which is a common nutritional-related disorder that reflects nutritional imbalance during the perioperative period and is closely associated with adverse clinical outcomes, such as an increased risk of postoperative infection and prolonged hospital stay.ObjectiveThis study aimed to identify the independent risk factors for postoperative hypoalbuminemia in elderly patients undergoing hip arthroplasty, and to develop a nomogram-based risk prediction model for perioperative clinical application. The ultimate goal was to facilitate early identification of high-risk patients and guide targeted interventions to reduce postoperative complication rates.MethodsA retrospective cohort study was conducted, enrolling 308 elderly patients who underwent hip arthroplasty from January 2015 to September 2024. Univariate analysis was first performed to screen potential risk factors. Variables with a p value < 0.05 in univariate analysis were then included in multivariate stepwise logistic regression to identify independent predictors. A nomogram was constructed to visualize the prediction model. Model performance was assessed using three metrics: discrimination (via area under the receiver operating characteristic [ROC] curve, AUC), calibration (via Hosmer-Lemeshow test and Brier score), and clinical utility (via decision curve analysis [DCA]).ResultsPostoperative hypoalbuminemia occurred in 170 of 308 patients (55.19%). Multivariate regression identifie…",
+      "authors": "Zhengyou Hou, Yiran Liu, Jingyuan Zhang et al.",
+      "published": "Jul 2026",
+      "feedName": "Frontiers Nutrition",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1912982",
       "image": "",
       "screen": "right"
     },
@@ -428,16 +438,6 @@
       "published": "Jul 2026",
       "feedName": "Frontiers Nutrition",
       "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1878332",
-      "image": "",
-      "screen": "right"
-    },
-    {
-      "title": "A dietary modelling approach to examine the impact on vitamin C intakes in the United Kingdom with varying consumption of fruit juice",
-      "abstract": "Vitamin C (Ascorbic acid) has many important roles in maintaining health and preventing disease. As a water-soluble vitamin, it cannot be synthesized endogenously or stored, therefore must be obtained regularly in sufficient amounts from the diet. The present study examined vitamin C intakes and contributors in a United Kingdom population and used dietary modelling to examine the impact of adding or replacing fruit juice (FJ) on vitamin C intakes in participants within the United Kingdom National Diet and Nutrition survey (NDNS 2016–2019; n = 3,558). Results indicated that 40% of this population consumed FJ which contributed to 25% of vitamin C intakes across all ages. Vitamin C from foods and drinks typically exceeded Reference Nutrient Intakes (RNI) (30–40 mg/day), although < 10% of the population fell below the Estimated Average Requirement (EAR) and < 2% were below lower RNI (LRNI). Theoretical modelling showed that increasing numbers of FJ consumers would increase mean intakes of vitamin C. However, a greater effect on the proportion meeting Dietary Reference Values (DRVs) for vitamin C was observed by broadening FJ consumption rather than by increasing the amounts consumed by existing consumers. This also had a minimal impact on free sugar intakes. Therefore encouraging more people to include a one daily 150 mL serving of FJ in their diet (as opposed to suggesting increased intake within current consumers), would positively impact on vitamin C intakes within the United Kingdom population, whilst also helping to achieve the national “5-a-day” recommendation via a conve…",
-      "authors": "Alyson J. Hill, Emily Royle, Graham Horgan et al.",
-      "published": "Jul 2026",
-      "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1794774",
       "image": "",
       "screen": "right"
     },

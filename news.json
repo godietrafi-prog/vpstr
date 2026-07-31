@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-30T22:57:27Z",
+  "updated": "2026-07-31T01:56:59Z",
   "items": [
     {
       "title": "Improved data reveal the role of aquatic foods",
@@ -282,6 +282,16 @@
       "screen": "left"
     },
     {
+      "title": "Waste CO₂ converts into graphite through a newly observed two-step process",
+      "abstract": "Graphite, the carbon core of a humble No. 2 pencil, is also an essential component in technologies such as batteries, smartphones, laptops and industrial power equipment. Today, nearly all of this critical mineral must be mined and processed and, in the United States, imported.",
+      "authors": "",
+      "published": "Jul 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-07-graphite-newly.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/pulling-graphite-out-o.jpg",
+      "screen": "right"
+    },
+    {
       "title": "Hiroshima blast debris reveals a previously unknown alloy",
       "abstract": "The Hiroshima blast on Aug. 6, 1945, was one of the most devastating events in human history. Like all nuclear detonations, it created fleeting moments of extreme heat, pressure, mixing and cooling. These conditions can briefly produce materials that could never form under normal circumstances.",
       "authors": "",
@@ -309,16 +319,6 @@
       "feedName": "Phys.org Analytics",
       "url": "https://phys.org/news/2026-07-advanced-mass-spectrometry-technique-free.html",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/advanced-mass-spectrom-1.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "A new indicator to speed up metallic glass discovery",
-      "abstract": "A research team led by Dongwoo Lee, an associate professor in the School of Mechanical Engineering at Sungkyunkwan University (SKKU), and Yanhui Liu of the Institute of Physics, Chinese Academy of Sciences (CAS), has developed a new electrical resistivity-based indicator for rapidly screening alloy compositions with high glass-forming ability.",
-      "authors": "",
-      "published": "Jul 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-07-indicator-metallic-glass-discovery.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/researchers-develop-a-10.jpg",
       "screen": "right"
     },
     {

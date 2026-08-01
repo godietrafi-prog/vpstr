@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-01T14:54:16Z",
+  "updated": "2026-08-01T16:50:45Z",
   "items": [
     {
       "title": "Improved data reveal the role of aquatic foods",
@@ -152,12 +152,12 @@
       "screen": "left"
     },
     {
-      "title": "Machine learning application in eye tracking data analysis to predict consumer preference: The case study of edible biofilm as yogurt packaging",
+      "title": "Sensory appeal motive prospectively predicts weight gain only in overweight/obese adolescents: A two-wave longitudinal study",
       "abstract": "",
-      "authors": "Georgios Anthimopoulos, Malamatenia Panagiotou, Danai Ioanna Koukoumaki et al.",
+      "authors": "Jingqiu Zhang, Yijun Luo, Hong Chen",
       "published": "Dec 2026",
       "feedName": "Food Quality & Preference",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0950329326002089?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0950329326002107?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -809,7 +809,7 @@
       "published": "2024",
       "venue": "Brain, Behavior, & Immunity - Health",
       "feedName": "Lab Research",
-      "citationCount": 19,
+      "citationCount": 20,
       "recentCitations": 0,
       "s2_paper_id": "e6bf6bc6dc39538aed6d5e9f0a2aad62f0702494",
       "url": "https://doi.org/10.1016/j.bbih.2024.100829",
@@ -999,8 +999,8 @@
       "published": "2022",
       "venue": "Water",
       "feedName": "Lab Research",
-      "citationCount": 6,
-      "recentCitations": 0,
+      "citationCount": 7,
+      "recentCitations": 1,
       "s2_paper_id": "ac6397222c96e268d9875d49caffce160835579a",
       "url": "https://doi.org/10.3390/w14132047",
       "image": "",

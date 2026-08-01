@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-01T12:59:08Z",
+  "updated": "2026-08-01T14:54:16Z",
   "items": [
     {
       "title": "Improved data reveal the role of aquatic foods",
@@ -362,6 +362,36 @@
       "screen": "right"
     },
     {
+      "title": "Eating one avocado a day may lower heart disease risk",
+      "abstract": "A daily avocado may help lower heart disease risk in adults with obesity by reducing the number of LDL particles circulating in the blood. After six months, participants who ate an avocado each day experienced a decline associated with an estimated 4% reduction in cardiovascular risk.",
+      "authors": "",
+      "published": "Aug 2026",
+      "feedName": "ScienceDaily Nutrition",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260731034155.htm",
+      "image": "https://www.sciencedaily.com/images/1920/ripe-green-avocado-close.webp",
+      "screen": "right"
+    },
+    {
+      "title": "A 42-year-old childhood obesity theory may be wrong",
+      "abstract": "New research challenges the decades-old idea that children experience an “adiposity rebound” when their BMI begins rising around age 6. Although BMI returns to earlier levels, a more reliable measure showed that body fat does not rebound at all. The increase appears to come from growing muscle and lean tissue as children prepare for later growth. Researchers say this normal process has been mistakenly treated as an obesity warning sign for 42 years.",
+      "authors": "",
+      "published": "Jul 2026",
+      "feedName": "ScienceDaily Nutrition",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260729051534.htm",
+      "image": "https://www.sciencedaily.com/images/1920/overweight-boy-behind-scale.webp",
+      "screen": "right"
+    },
+    {
+      "title": "Scientists discover how obesity may fuel Alzheimer’s disease",
+      "abstract": "Researchers have uncovered a possible biological pathway connecting obesity to Alzheimer’s disease. Obesity appears to raise levels of certain fat molecules that can travel to the brain, disrupt its immune defenses, and promote harmful amyloid buildup. Correcting this fat imbalance improved memory and brain function in Alzheimer’s models.",
+      "authors": "",
+      "published": "Jul 2026",
+      "feedName": "ScienceDaily Nutrition",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260729051531.htm",
+      "image": "https://www.sciencedaily.com/images/1920/obesity-and-brain.webp",
+      "screen": "right"
+    },
+    {
       "title": "New microwave frying method could make french fries much healthier",
       "abstract": "A new cooking method could make French fries crispier in less time while significantly limiting how much oil they absorb. Researchers propose combining microwave heating, which keeps oil out, with conventional frying, which provides the crunch consumers expect.",
       "authors": "",
@@ -369,36 +399,6 @@
       "feedName": "ScienceDaily Nutrition",
       "url": "https://www.sciencedaily.com/releases/2026/07/260729044048.htm",
       "image": "https://www.sciencedaily.com/images/1920/french-fries-flying.webp",
-      "screen": "right"
-    },
-    {
-      "title": "Rice bran compound may help ease irritable bowel symptoms",
-      "abstract": "A compound in rice bran may help calm an overactive gut by reducing the calcium signals that cause intestinal muscles to contract. Ferulic acid suppressed contractions triggered by several chemical messengers in laboratory experiments. The discovery could eventually support new dietary approaches for diarrhea-related digestive disorders, although it may make constipation worse.",
-      "authors": "",
-      "published": "Jul 2026",
-      "feedName": "ScienceDaily Nutrition",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260729010742.htm",
-      "image": "https://www.sciencedaily.com/images/1920/woman-holding-stomach-digestive-gut-health.webp",
-      "screen": "right"
-    },
-    {
-      "title": "4 in 5 toddler foods are ultra-processed",
-      "abstract": "A grocery-store audit found that many foods marketed for toddlers may be far less healthy than parents expect. Of nearly 2,800 products examined in Texas, 81% were ultra-processed, and almost half failed at least one World Health Organization nutrient standard, often because they contained too much sugar, sodium, fat, or too many calories.",
-      "authors": "",
-      "published": "Jul 2026",
-      "feedName": "ScienceDaily Nutrition",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260727012128.htm",
-      "image": "https://www.sciencedaily.com/images/1920/mother-pushing-toddler-stroller-in-grocery-store-snack-aisle.webp",
-      "screen": "right"
-    },
-    {
-      "title": "Scientists reveal what sparkling water really does to your teeth",
-      "abstract": "Unsweetened sparkling water may offer a tooth-friendlier alternative to sugary soda, according to a small preliminary study tracking how different drinks change mouth acidity. Soda caused the strongest and longest drop in salivary pH, while sparkling water produced only a temporary decline before saliva restored normal conditions. Importantly, acidity remained above the level associated with enamel damage.",
-      "authors": "",
-      "published": "Jul 2026",
-      "feedName": "ScienceDaily Nutrition",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260727012126.htm",
-      "image": "https://www.sciencedaily.com/images/1920/woman-drinking-glass-of-sparkling-mineral-water.webp",
       "screen": "right"
     },
     {

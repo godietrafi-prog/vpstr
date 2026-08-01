@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-01T18:57:42Z",
+  "updated": "2026-08-01T20:42:39Z",
   "items": [
     {
       "title": "Improved data reveal the role of aquatic foods",
@@ -42,42 +42,42 @@
       "screen": "left"
     },
     {
-      "title": "Synthesis and characterization of menthol- and thymol-loaded nanoliposomes with potent antibacterial, antifungal, antioxidant, and anticancer properties",
+      "title": "Antarctic krill phospholipid complexes of alkyl gallates as rheologically tunable systems with proposed dual-release behavior: chain length synergistically governs hydrolysis and transport for sustained gallic acid delivery",
       "abstract": "",
-      "authors": "Yasaman Davoudi, Armita Aryanmanesh, Seyed-Ehsan Fazayel-Hosseini et al.",
+      "authors": "Xu Guo, Qian Wang, Dong Cai et al.",
       "published": "Oct 2026",
       "feedName": "Food Chemistry",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626027287?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626027160?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
     {
-      "title": "Sensory interaction between ethyl acetate and fruity esters: molecular mechanisms governing solvent and fruity aroma balance in wine spirits",
+      "title": "1-MCP pretreatment combined with SO 2 preservation pad delays postharvest senescence and softening of ‘Shine Muscat’ grapes by regulating cell-wall metabolism and antioxidant activity",
       "abstract": "",
-      "authors": "Haoen Cai, Xiaofeng Xiang, Xu Zhao et al.",
+      "authors": "Chunrui Chen, Peili Lan, Zijia Nan et al.",
       "published": "Oct 2026",
       "feedName": "Food Chemistry",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626026439?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626027688?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
     {
-      "title": "Transglutaminase (TGase)-crosslinked Cyperus esculentus protein and whey protein complexes as Pickering stabilizers for melt-resistant ice cream",
+      "title": "Combined effects of chlorine dioxide, plasma-processed air, and modified atmosphere packaging on safety and quality of fresh walnuts",
       "abstract": "",
-      "authors": "Ziqiang Wang, Jie Liu, Shuzhou She et al.",
+      "authors": "Weinan Huang, Haiyang Li, Weihai Chen et al.",
       "published": "Oct 2026",
       "feedName": "Food Chemistry",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626027573?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626027755?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
     {
-      "title": "Balancing extraction efficiency and quality of coconut oil by innovative voltage-modulated cold plasma",
+      "title": "Rapid hydrolysis of kaempferol 3- O -rutinoside and characterization of kaempferol 3- O -rutinosidase in buckwheat dough",
       "abstract": "",
-      "authors": "Junxia Jiang, Siqi Zhao, Jingtao Cui et al.",
+      "authors": "Tatsuro Suzuki, Mizusa Katsuta, Kenjiro Katsu",
       "published": "Oct 2026",
       "feedName": "Food Chemistry",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626027652?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S030881462602707X?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -242,6 +242,16 @@
       "screen": "left"
     },
     {
+      "title": "Molecular mechanisms of the VBNC state induced by polyhexamethylene guanidine in biofilm-associated Staphylococcus aureus",
+      "abstract": "",
+      "authors": "Shuhao Zeng, Tianzheng Ma, Yuxuan Lu et al.",
+      "published": "Jan 2027",
+      "feedName": "Food Microbiology",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0740002026002212?dgcid=rss_sd_all",
+      "image": "",
+      "screen": "left"
+    },
+    {
       "title": "Enhancing pectin degradation and improving nutritional accessibility in potato pulp through co-fermentation: From molecular structure to nutrient release",
       "abstract": "",
       "authors": "Yang Zhao, Chenxi Li, Ziyi Guo et al.",
@@ -268,16 +278,6 @@
       "published": "Jan 2027",
       "feedName": "Food Microbiology",
       "url": "https://www.sciencedirect.com/science/article/pii/S0740002026002182?dgcid=rss_sd_all",
-      "image": "",
-      "screen": "left"
-    },
-    {
-      "title": "Cinnamon essential oil synergizes with sodium hypochlorite to suppress VBNC formation in Escherichia coli O157:H7 by modulating the temporal expression of arcA/relA-associated stress regulators",
-      "abstract": "",
-      "authors": "Haoqing Zhao, Zongwei Bai, Jingfeng Zhang et al.",
-      "published": "Jan 2027",
-      "feedName": "Food Microbiology",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0740002026002200?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -752,8 +752,8 @@
       "published": "2025",
       "venue": "BMC Medical Education",
       "feedName": "Lab Research",
-      "citationCount": 0,
-      "recentCitations": 0,
+      "citationCount": 1,
+      "recentCitations": 1,
       "s2_paper_id": "5ee7aceac233a82917e92f646d2284fffcfd28b2",
       "url": "https://doi.org/10.1186/s12909-025-07674-x",
       "image": "",

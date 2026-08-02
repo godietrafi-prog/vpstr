@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-02T14:54:52Z",
+  "updated": "2026-08-02T16:49:37Z",
   "items": [
     {
       "title": "Improved data reveal the role of aquatic foods",
@@ -242,6 +242,16 @@
       "screen": "left"
     },
     {
+      "title": "Isolation and identification of three antagonistic strains against kiwifruit soft rot, study on antibacterial mechanism, and preparation of composite biocontrol agents",
+      "abstract": "",
+      "authors": "Zhengfeng Liu, Longfei Wang, Zhangyang Wang et al.",
+      "published": "Jan 2027",
+      "feedName": "Food Microbiology",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0740002026002170?dgcid=rss_sd_all",
+      "image": "",
+      "screen": "left"
+    },
+    {
       "title": "Molecular mechanisms of the VBNC state induced by polyhexamethylene guanidine in biofilm-associated Staphylococcus aureus",
       "abstract": "",
       "authors": "Shuhao Zeng, Tianzheng Ma, Yuxuan Lu et al.",
@@ -272,14 +282,14 @@
       "screen": "left"
     },
     {
-      "title": "Antibacterial efficacy of recombinant phage lysin JD007-LY01 against Staphylococcus aureus in food matrices",
-      "abstract": "",
-      "authors": "Yonghua Huang, Jianlong Lao, Jiafu Zhang et al.",
-      "published": "Jan 2027",
-      "feedName": "Food Microbiology",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0740002026002182?dgcid=rss_sd_all",
-      "image": "",
-      "screen": "left"
+      "title": "Why some nitrogen-processing enzymes are more efficient than others",
+      "abstract": "Nitrogen gas is abundant in Earth's atmosphere, but most living organisms can't readily use it. Only a subset of microbes with enzymes known as nitrogenases can break nitrogen gas apart and convert it into ammonia.",
+      "authors": "",
+      "published": "Aug 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-07-nitrogen-enzymes-efficient.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/why-some-nitrogen-proc.jpg",
+      "screen": "right"
     },
     {
       "title": "Diego Rivera claimed his mural Creation was half wax, but chemical forensics says otherwise",
@@ -309,16 +319,6 @@
       "feedName": "Phys.org Analytics",
       "url": "https://phys.org/news/2026-07-bone-minerals.html",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/learning-to-better-und-1.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "Waste CO₂ converts into graphite through a newly observed two-step process",
-      "abstract": "Graphite, the carbon core of a humble No. 2 pencil, is also an essential component in technologies such as batteries, smartphones, laptops and industrial power equipment. Today, nearly all of this critical mineral must be mined and processed and, in the United States, imported.",
-      "authors": "",
-      "published": "Jul 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-07-graphite-newly.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/pulling-graphite-out-o.jpg",
       "screen": "right"
     },
     {

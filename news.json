@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-03T09:24:23Z",
+  "updated": "2026-08-03T12:51:41Z",
   "items": [
     {
       "title": "Improved data reveal the role of aquatic foods",
@@ -42,6 +42,26 @@
       "screen": "left"
     },
     {
+      "title": "From macroscopic phase separation to microscopic interactions: effects of pH, mass ratio, and ionic strength on phase behavior and thermodynamic mechanism of whey protein isolate – fucoidan complexes",
+      "abstract": "",
+      "authors": "Liyuan Zheng, Xing Chen, Guanxin Xie et al.",
+      "published": "Oct 2026",
+      "feedName": "Food Chemistry",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626027469?dgcid=rss_sd_all",
+      "image": "",
+      "screen": "left"
+    },
+    {
+      "title": "Patterns of flavonoid digestion influenced by molecular descriptors: machine learning reveals flavonoid structure-conversion rate relationships in blood orange juice",
+      "abstract": "",
+      "authors": "Xinyi Li, Weiyao Wu, Yuming Zhong et al.",
+      "published": "Oct 2026",
+      "feedName": "Food Chemistry",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626025525?dgcid=rss_sd_all",
+      "image": "",
+      "screen": "left"
+    },
+    {
       "title": "Enhanced functionality through conjugation: structural and functional characterization of chickpea albumin–hydrolyzed guar gum via Maillard reaction",
       "abstract": "",
       "authors": "Afsaneh Taheri, Wee Jian Cedric Sow, Juan Du",
@@ -58,26 +78,6 @@
       "published": "Oct 2026",
       "feedName": "Food Chemistry",
       "url": "https://www.sciencedirect.com/science/article/pii/S0308814626027780?dgcid=rss_sd_all",
-      "image": "",
-      "screen": "left"
-    },
-    {
-      "title": "Agri-food waste valorization through Monascus ruber fermentation for natural pigment production: bioconversion efficiency, neuroprotective potential, and functional food relevance",
-      "abstract": "",
-      "authors": "El-Sayed R. El-Sayed, Anna Dunal, Witold Pietrzak et al.",
-      "published": "Oct 2026",
-      "feedName": "Food Chemistry",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626027482?dgcid=rss_sd_all",
-      "image": "",
-      "screen": "left"
-    },
-    {
-      "title": "Direct chiral-selective detection of (3 S ,3′ S )-astaxanthin using hydrogel-based SERS chips",
-      "abstract": "",
-      "authors": "Liru Liu, Ping Cheng, Yingxiao Xiao et al.",
-      "published": "Oct 2026",
-      "feedName": "Food Chemistry",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626027433?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -402,42 +402,42 @@
       "screen": "right"
     },
     {
-      "title": "Dynamic associations among selected healthy dietary behaviors, physical activity, emotion, and fitness performance in adolescents: a four-wave random intercept cross-lagged panel study",
-      "abstract": "IntroductionAdolescent diet, physical activity, emotion, and fitness performance may develop together, yet they are often studied separately. This study examined within-person longitudinal associations among selected healthy dietary behaviors, physical activity, emotion, and fitness performance across one academic year.MethodsData came from a school-based four-wave longitudinal assessment conducted in March, June, September, and December 2025. The analytic sample included 2,209 junior secondary school adolescents with complete data across all waves (1,166 boys, 52.8%; 1,043 girls, 47.2%). Selected healthy dietary behaviors were assessed using four dietary indicators. Physical activity was measured using seven scored sections of the Physical Activity Questionnaire for Adolescents. Emotion was assessed using three emotional state items, and fitness performance using standardized endurance, standing long jump, and grip strength indicators. Random intercept cross-lagged panel models separated stable between-person differences from within-person changes. Sex-related patterns were examined using sex-stratified models and formal multigroup tests.ResultsThe final fully constrained model showed good fit. At the between-person level, random intercept correlations among the four domains were not statistically significant in the complete-case model. At the within-person level, selected healthy dietary behaviors and physical activity showed reciprocal temporal associations, as did physical activity and emotion. Fitness performance was associated with subsequent physical activity, wherea…",
-      "authors": "Yu Deng, Tong Liu, Ziliang Wen et al.",
+      "title": "Sex-specific nutritional and inflammatory trajectories during first-line chemotherapy in older adults with advanced non-small cell lung cancer",
+      "abstract": "BackgroundMalnutrition and systemic inflammation are closely interrelated determinants of treatment tolerance and prognosis in older adults with advanced non-small cell lung cancer. However, their sex-specific longitudinal patterns during chemotherapy remain insufficiently characterized. This study aimed to describe and compare sex-specific trajectories of nutritional status and systemic inflammation during first-line chemotherapy and to explore their longitudinal association from a clinical nutrition perspective.MethodsThis retrospective longitudinal cohort study included 323 patients aged 60 years or older with stage IIIB–IV non-small cell lung cancer who completed six cycles of first-line chemotherapy. Nutritional status and systemic inflammation were assessed at baseline and before each chemotherapy cycle using the Geriatric Nutritional Risk Index (GNRI) and the Systemic Inflammation Response Index (SIRI), respectively. Sex-specific trajectories were examined using linear mixed-effects models including time, sex, and time-by-sex interaction terms. Sex-stratified multivariable linear regression was then used to evaluate the association between overall changes in GNRI and SIRI after adjustment for tumor stage and histology.ResultsSignificant time-by-sex interactions were observed for both GNRI (P = 0.019) and SIRI (P = 0.002). In male patients, mean GNRI increased progressively across chemotherapy cycles, while mean SIRI decreased over time. Greater reductions in SIRI were independently associated with greater improvements in GNRI (β = −0.224, P < 0.001). In female patien…",
+      "authors": "Jinxian He, Mingjie Gu, Zhimei Chen et al.",
       "published": "Aug 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1900491",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1885061",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Associations between the gut microbiome and diet, body composition, and glycemic profiles: a cross-sectional post-hoc analysis of the Personal Diet Study",
-      "abstract": "BackgroundThe gut microbiome is implicated in obesity and type 2 diabetes (T2D), but how diet, body composition, glycemic status, and self-efficacy factors relate to the microbiome in high-risk individuals is not well characterized. The purpose of this post-hoc analysis is to examine the relationship between the gut microbiome and obesity-related metabolic factors, including body composition, resting energy expenditure (REE), and glycemic variability (GV).MethodsData for this post-hoc cross-sectional analysis were obtained from adults with prediabetes and obesity enrolled in The Personal Diet study, a 6-month behavioral weight loss study. Pre-intervention assessments (n = 95) included the collection of fecal microbiome profile, demographics, socioeconomic status, physical and metabolic characteristics [fat mass, fat free mass (FFM), continuous glucose monitoring–derived GV, REE], self-efficacy and dietary intake. Gut bacterial alpha diversity, beta diversity, and genus level abundances were associated with these host and lifestyle variables using multivariate regression, permutational multivariate analysis of variance, and correlation analyses.ResultsParticipants were a mean age of 58 years old, mostly female (75.8%), with a mean BMI of 34.6 kg/m2 and mean HbA1c of 5.7%. Higher FFM was associated with greater alpha diversity, whereas higher BMI was associated with lower diversity (p < 0.05). Dietary factors were the most consistent correlates of gut microbial beta diversity. At the genus level, associations were observed for sex, metformin use, BMI, protein intake, and REE.…",
-      "authors": "Chan Wang, Lauren Berube, Margaret Curran et al.",
+      "title": "Predictive value of nutritional biomarkers for immune checkpoint inhibitor efficacy in patients with non-small cell lung cancer",
+      "abstract": "BackgroundAlthough immune checkpoint inhibitors (ICIs) have revolutionized advanced non-small cell lung cancer (NSCLC) treatment, clinical benefits vary. This study evaluated the predictive value of baseline nutritional and hematological markers for ICI efficacy and survival.MethodsA retrospective cohort of 124 advanced NSCLC patients receiving ICIs was evaluated. Patients were stratified by median cut-offs: prognostic nutritional index (PNI: 45), albumin (ALB: 40.2 g/L), body mass index (BMI: 20.1 kg/m2), and hemoglobin (Hb: 114 g/L). Independent predictors of binary short-term efficacy outcomes (ORR and DCR) and time-to-event long-term survival outcomes (PFS and OS) were identified using multivariate logistic regression and Cox proportional hazards regression models.ResultsHigh baseline PNI and ALB were significantly associated with superior objective response and disease control rates (DCR). Multivariate analyses confirmed PNI (OR = 1.377, p = 0.014) and ALB (OR = 1.840, p = 0.003) as independent protective factors for DCR, alongside independent associations with prolonged progression-free and overall survival (OS) (all p < 0.05). BMI lost independent predictive value after multivariate adjustment. The combined PNI + ALB model consistently outperformed single markers, achieving 12-, 24-, and 36-month OS area under the curve (AUC) values of 0.802, 0.819, and 0.807, respectively.ConclusionBaseline PNI and ALB are non-invasive, independent predictors of short-term response and long-term survival in advanced NSCLC patients undergoing immunotherapy. Combining these markers im…",
+      "authors": "Wentao Zhang, Xia Liu",
       "published": "Aug 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1851439",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1882630",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Nutritional-C-reactive protein ratio as a prognostic marker in gastric cancer: a multicenter study",
-      "abstract": "PurposeThis study aimed to investigate the association of baseline Nutritional-C-reactive Protein Ratio (NCR) with overall survival (OS), severe malnutrition, and cachexia in patients with gastric cancer.MethodsBaseline NCR was calculated as BMI (kg/m2) × albumin (g/L) / C-reactive protein (mg/L) using measurements obtained at study enrollment and original continuous CRP values. The ROC-derived cutoff was used to classify patients into low- and high-NCR groups. Kaplan–Meier curves and log-rank tests were used to compare OS. Cox proportional hazards models assessed the association between NCR and OS, while logistic regression evaluated associations with severe malnutrition and cachexia.ResultsA total of 1,058 patients with pathologically confirmed gastric cancer were included. The exploratory ROC-derived cutoff value for NCR was 178. Patients with high NCR had significantly better OS than those with low NCR (65.3% vs. 48.4%, log-rank p < 0.001). In multivariable Cox regression, high NCR was independently associated with better OS (HR = 0.598, 95% CI: 0.478–0.747, p < 0.001), with a significant dose–response relationship across NCR quartiles (p for trend < 0.001). Logistic regression showed that high NCR was associated with lower odds of severe malnutrition (OR = 0.390, 95% CI: 0.300–0.505, p < 0.001) and cachexia (OR = 0.182, 95% CI: 0.137–0.242, p < 0.001).ConclusionBaseline NCR is a simple and clinically accessible composite biomarker integrating nutritional and inflammatory status. It may serve as a complementary marker for risk stratification in patients with gastric can…",
-      "authors": "Yibo Chen, Fuquan Yang, Changyang Chen et al.",
+      "title": "A preliminary study on the characterization of taste and odor attributes in commercial lager and ale beers using E-sensing techniques",
+      "abstract": "IntroductionThis study aimed to investigate the discrimination of taste attributes and volatile odor patterns among eight commercial canned beers representing lager and ale styles using electronic tongue (E-tongue) and electronic nose (E-nose) systems.MethodsTo achieve this, five taste-related E-sensors were evaluated across the eight beer samples, and a total of 34 volatile compounds, comprising 3 acids, 4 aldehydes, 7 alcohols, 9 esters, 4 hydrocarbons, 5 heterocyclics, and 2 ketones, were tentatively identified using an E-nose internal library. Principal component analysis (PCA) and hierarchical cluster analysis (HCA) were applied to map the flavor profiles. Furthermore, partial least squares discriminant analysis (PLS-DA) was conducted to identify key flavor drivers, and a debiased sparse partial correlation (DPSC) network analysis was utilized to model the interactions between taste attributes and volatile compounds.ResultsThe PCA and HCA of the E-sensing datasets successfully differentiated the beer samples into distinct groups according to their taste attributes and volatile compound profiles. The PLS-DA identified six critical flavor contributors based on a variable importance in projection threshold (VIP-score) of ≥1.0, which included sweetness from the E-tongue alongside five volatile groups—acids, hydrocarbons, alcohols, heterocyclics, and aldehydes. The DPSC network analysis further elucidated these intricate interactions, establishing a stable co-occurrence framework dominated by seven key flavor clusters (ketones, sweetness, alcohols, acids, esters, heterocycl…",
+      "authors": "Seong Jun Hong, Mi Jeong Sung, Gwang-Ju Jang et al.",
       "published": "Aug 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1840225",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1889963",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Low referral uptake, not patient adherence, limits implementation of early nutritional screening in head and neck and upper gastrointestinal cancers",
-      "abstract": "BackgroundMalnutrition is highly prevalent in patients with head and neck and upper gastrointestinal cancers and is associated with poorer clinical outcomes. Despite guideline recommendations, early nutritional screening remains inconsistently implemented in routine oncology care.MethodsThis single-center prospective feasibility study evaluated the implementation of an early nutritional screening and intervention pathway in newly diagnosed oncology patients with head and neck and upper gatrointestinal cancers. Eligible patients were enrolled within 7 days of their first oncology consultation and entered a structured nutritional pathway including baseline (T0), one-month (T1), and two-month (T2) assessments. Nutritional evaluation included MUST screening, anthropometric measures, bioelectrical impedance analysis, handgrip strength, biochemical parameters, and patient-reported outcomes (ESAS and FACT-G). Feasibility endpoints included referral, enrolment, and adherence rates.ResultsAmong 550 eligible patients, 77 were enrolled (14%). Once enrolled, adherence to the pathway was high (91%). At baseline, 47% of patients were classified as at high nutritional risk. Serum biochemical markers, available in a subset of patients, were consistent with mild nutritional alterations. During follow-up, body weight, handgrip strenght, biochemical and bioelectrical impedance parameters, and overall quality of life remained stable. Significant improvements were observed in selected symptoms, including fatigue, nausea, and well-being/malaise.ConclusionEarly nutritional screening is feasible a…",
-      "authors": "Irene Azzali, Debora Guerra, Monia Suzzi et al.",
+      "title": "Surface defect detection method for shawo radishes based on improved RT-DETR",
+      "abstract": "IntroductionSurface defect detection of shawo radishes is challenged by complex defect characteristics, large variations in defect scale, and insufficient feature representation, which can limit automated quality inspection and grading performance.MethodsTo address these challenges, this study proposes an improved RT-DETR-r18 framework based on a frequency–spatial collaborative modeling strategy. The proposed model incorporates a Wavelet Transform Block (WT_Block), an Attention-based Intra-scale Feature Interaction with High-Low Attention module (AIFI-HiLo), and a VoVGSCSP-PConv Cross-Scale Feature Fusion Module (VP_CCFM) to enhance feature extraction, feature interaction, and multi-scale representation.ResultsExperiments conducted on a self-constructed shawo radish surface defect dataset showed that the proposed method achieved a Precision of 94.5%, a Recall of 81.2%, and a mean Average Precision at an Intersection over Union threshold of 0.5 (mAP@50) of 85.3%, representing improvements of 2.9, 2.8, and 1.9 percentage points over the baseline RT-DETR-r18 model, respectively. Meanwhile, the parameter count and computational complexity were reduced by 7 and 12.7%, respectively. Comparative experiments further showed that the proposed model outperformed several mainstream object detection methods in overall detection performance.DiscussionThese results indicate that the proposed frequency–spatial collaborative framework can improve the accuracy, robustness, and efficiency of shawo radish surface defect detection, providing technical support for automated quality inspection an…",
+      "authors": "Liying Ma, Xufeng Hua, Na Zhang et al.",
       "published": "Aug 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1817590",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1890294",
       "image": "",
       "screen": "right"
     },

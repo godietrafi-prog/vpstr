@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-03T01:59:54Z",
+  "updated": "2026-08-03T05:37:02Z",
   "items": [
     {
       "title": "Improved data reveal the role of aquatic foods",
@@ -402,42 +402,42 @@
       "screen": "right"
     },
     {
-      "title": "The risk factors and predictive nomogram for postoperative hypoalbuminemia in elderly patients undergoing hip arthroplasty",
-      "abstract": "BackgroundPostoperative hypoalbuminemia is a common nutritional-related complication in elderly patients undergoing hip replacement surgery, which is a common nutritional-related disorder that reflects nutritional imbalance during the perioperative period and is closely associated with adverse clinical outcomes, such as an increased risk of postoperative infection and prolonged hospital stay.ObjectiveThis study aimed to identify the independent risk factors for postoperative hypoalbuminemia in elderly patients undergoing hip arthroplasty, and to develop a nomogram-based risk prediction model for perioperative clinical application. The ultimate goal was to facilitate early identification of high-risk patients and guide targeted interventions to reduce postoperative complication rates.MethodsA retrospective cohort study was conducted, enrolling 308 elderly patients who underwent hip arthroplasty from January 2015 to September 2024. Univariate analysis was first performed to screen potential risk factors. Variables with a p value < 0.05 in univariate analysis were then included in multivariate stepwise logistic regression to identify independent predictors. A nomogram was constructed to visualize the prediction model. Model performance was assessed using three metrics: discrimination (via area under the receiver operating characteristic [ROC] curve, AUC), calibration (via Hosmer-Lemeshow test and Brier score), and clinical utility (via decision curve analysis [DCA]).ResultsPostoperative hypoalbuminemia occurred in 170 of 308 patients (55.19%). Multivariate regression identifie…",
-      "authors": "Zhengyou Hou, Yiran Liu, Jingyuan Zhang et al.",
-      "published": "Jul 2026",
+      "title": "Dynamic associations among selected healthy dietary behaviors, physical activity, emotion, and fitness performance in adolescents: a four-wave random intercept cross-lagged panel study",
+      "abstract": "IntroductionAdolescent diet, physical activity, emotion, and fitness performance may develop together, yet they are often studied separately. This study examined within-person longitudinal associations among selected healthy dietary behaviors, physical activity, emotion, and fitness performance across one academic year.MethodsData came from a school-based four-wave longitudinal assessment conducted in March, June, September, and December 2025. The analytic sample included 2,209 junior secondary school adolescents with complete data across all waves (1,166 boys, 52.8%; 1,043 girls, 47.2%). Selected healthy dietary behaviors were assessed using four dietary indicators. Physical activity was measured using seven scored sections of the Physical Activity Questionnaire for Adolescents. Emotion was assessed using three emotional state items, and fitness performance using standardized endurance, standing long jump, and grip strength indicators. Random intercept cross-lagged panel models separated stable between-person differences from within-person changes. Sex-related patterns were examined using sex-stratified models and formal multigroup tests.ResultsThe final fully constrained model showed good fit. At the between-person level, random intercept correlations among the four domains were not statistically significant in the complete-case model. At the within-person level, selected healthy dietary behaviors and physical activity showed reciprocal temporal associations, as did physical activity and emotion. Fitness performance was associated with subsequent physical activity, wherea…",
+      "authors": "Yu Deng, Tong Liu, Ziliang Wen et al.",
+      "published": "Aug 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1912982",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1900491",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Efficacy and safety of higher versus lower protein provision with meaningful dose separation in critically ill adults: a systematic review and meta-analysis of randomized controlled trials",
-      "abstract": "BackgroundOptimal protein provision in critically ill patients remains uncertain. We conducted a systematic review and meta-analysis of randomized controlled trials to evaluate the efficacy and safety of higher versus lower or standard protein provision in critically ill adults.MethodsRandomized controlled trials comparing higher versus lower/standard protein provision in critically ill adults were included. The primary analysis focused on trials with a between-group protein difference of at least 0.3 g/kg/day. Mortality was analyzed separately by time point, including 28/30-day, 60-day, 90-day, in-hospital, and ICU mortality. Secondary outcomes included mechanical ventilation duration, ICU and hospital length of stay, nutrition/metabolic markers, muscle-related outcomes, and safety. Risk ratios (RRs) and mean differences (MDs) were pooled using random-effects models. Certainty of evidence was assessed using GRADE.ResultsTwenty-six studies were included. Higher protein provision did not significantly reduce mortality at any time point. For 28/30-day mortality, no statistically significant difference was observed, although the point estimate was lower with higher protein provision (RR = 0.82, 95% CI 0.58–1.17; I2 = 0%). No significant differences were observed for 60-day mortality (RR = 0.85, 95% CI 0.52–1.39; I2 = 51.1%), 90-day mortality (RR = 1.03, 95% CI 0.93–1.14; I2 = 0%), in-hospital mortality (RR = 1.04, 95% CI 0.78–1.39; I2 = 0%), or ICU mortality (RR = 0.84, 95% CI 0.57–1.26; I2 = 0%). Higher protein provision did not significantly shorten mechanical ventilation du…",
-      "authors": "Yun Zhou, Xiuxiu Hao, Run Pan et al.",
-      "published": "Jul 2026",
+      "title": "Associations between the gut microbiome and diet, body composition, and glycemic profiles: a cross-sectional post-hoc analysis of the Personal Diet Study",
+      "abstract": "BackgroundThe gut microbiome is implicated in obesity and type 2 diabetes (T2D), but how diet, body composition, glycemic status, and self-efficacy factors relate to the microbiome in high-risk individuals is not well characterized. The purpose of this post-hoc analysis is to examine the relationship between the gut microbiome and obesity-related metabolic factors, including body composition, resting energy expenditure (REE), and glycemic variability (GV).MethodsData for this post-hoc cross-sectional analysis were obtained from adults with prediabetes and obesity enrolled in The Personal Diet study, a 6-month behavioral weight loss study. Pre-intervention assessments (n = 95) included the collection of fecal microbiome profile, demographics, socioeconomic status, physical and metabolic characteristics [fat mass, fat free mass (FFM), continuous glucose monitoring–derived GV, REE], self-efficacy and dietary intake. Gut bacterial alpha diversity, beta diversity, and genus level abundances were associated with these host and lifestyle variables using multivariate regression, permutational multivariate analysis of variance, and correlation analyses.ResultsParticipants were a mean age of 58 years old, mostly female (75.8%), with a mean BMI of 34.6 kg/m2 and mean HbA1c of 5.7%. Higher FFM was associated with greater alpha diversity, whereas higher BMI was associated with lower diversity (p < 0.05). Dietary factors were the most consistent correlates of gut microbial beta diversity. At the genus level, associations were observed for sex, metformin use, BMI, protein intake, and REE.…",
+      "authors": "Chan Wang, Lauren Berube, Margaret Curran et al.",
+      "published": "Aug 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1893988",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1851439",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Impact of coexisting obesity and malnutrition on the clinical outcomes of acute ischemic stroke patients treated with intravenous thrombolysis: a cohort-based study",
-      "abstract": "BackgroundThe simultaneous presence of obesity and malnutrition, termed the double burden of malnutrition (DBM), has become a growing public health challenge. However, little is known about how the DBM influences patients with acute ischemic stroke (AIS) who receive intravenous thrombolysis (IVT). We aimed to investigate the associations between obesity and nutritional status and clinical characteristics and clinical outcomes among AIS patients receiving IVT.MethodsWe conducted a single-center, prospective cohort study at a Shanghai hospital, including AIS patients who received alteplase IVT therapy from January 2018 to December 2022. Patients were categorized into four distinct subgroups based on body mass index-based obesity and nutritional status, as assessed using the Controlling Nutritional Status score: (1) nourished non-obese; (2) malnourished non-obese; (3) nourished obese; and (4) malnourished obese. The primary endpoints of the study were poor outcomes and all-cause mortality within 3 months, while the secondary outcomes were early neurological deterioration (END) and hemorrhagic transformation (HT).ResultsThe overall stroke cohort consisted of 6,892 AIS admissions, of which 366 patients receiving IVT were included in this study. The median age was 68 ± 12 years, and 239 subjects (65.3%) were men. A total of 52.7% of patients were malnourished, and greater malnutrition severity independently predicted worse clinical outcomes after thrombolysis. During the follow-up period, the malnourished obese group had the highest rates of poor outcomes and END, followed by the…",
-      "authors": "Huicong Niu, Xuechun Wu, Yi Chen et al.",
-      "published": "Jul 2026",
+      "title": "Nutritional-C-reactive protein ratio as a prognostic marker in gastric cancer: a multicenter study",
+      "abstract": "PurposeThis study aimed to investigate the association of baseline Nutritional-C-reactive Protein Ratio (NCR) with overall survival (OS), severe malnutrition, and cachexia in patients with gastric cancer.MethodsBaseline NCR was calculated as BMI (kg/m2) × albumin (g/L) / C-reactive protein (mg/L) using measurements obtained at study enrollment and original continuous CRP values. The ROC-derived cutoff was used to classify patients into low- and high-NCR groups. Kaplan–Meier curves and log-rank tests were used to compare OS. Cox proportional hazards models assessed the association between NCR and OS, while logistic regression evaluated associations with severe malnutrition and cachexia.ResultsA total of 1,058 patients with pathologically confirmed gastric cancer were included. The exploratory ROC-derived cutoff value for NCR was 178. Patients with high NCR had significantly better OS than those with low NCR (65.3% vs. 48.4%, log-rank p < 0.001). In multivariable Cox regression, high NCR was independently associated with better OS (HR = 0.598, 95% CI: 0.478–0.747, p < 0.001), with a significant dose–response relationship across NCR quartiles (p for trend < 0.001). Logistic regression showed that high NCR was associated with lower odds of severe malnutrition (OR = 0.390, 95% CI: 0.300–0.505, p < 0.001) and cachexia (OR = 0.182, 95% CI: 0.137–0.242, p < 0.001).ConclusionBaseline NCR is a simple and clinically accessible composite biomarker integrating nutritional and inflammatory status. It may serve as a complementary marker for risk stratification in patients with gastric can…",
+      "authors": "Yibo Chen, Fuquan Yang, Changyang Chen et al.",
+      "published": "Aug 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1864875",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1840225",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Application of the “oral simulated tube feeding method” in enteral nutrition for patients with moderately severe acute pancreatitis: a randomized controlled non-inferiority trial comparing the nasogastric feeding route",
-      "abstract": "ObjectiveTo evaluate the efficacy and safety of an “oral simulated tube feeding method” compared to nasogastric feeding in patients with moderately severe acute pancreatitis (MSAP).MethodsIn this randomized controlled non-inferiority trial, 60 MSAP patients were assigned to either the oral simulated tube feeding group (STREAM, n = 31) or the nasogastric group (NG, n = 29). The primary outcome was the 24-h enteral nutrition (EN) tolerance rate.ResultsThe 24-h tolerance rate in the STREAM group was non-inferior to the NG group (96.8% vs. 69.0%, P < 0.001). Secondary outcomes showed the STREAM group had lower 24-h tolerance scores (1.94 ± 0.26 vs. 3.59 ± 0.34, P < 0.001) and fewer occurrences of abdominal distension (P < 0.001) and nausea (P = 0.025). Additionally, the STREAM group had significantly lower hospitalization costs (P = 0.011), with only 12.9% of patients exceeding 10,000 ¥ compared to 48.3% in the NG group. No significant difference was observed in the length of hospital stay.ConclusionThe oral simulated tube feeding method is a non-inferior, safe, and cost-effective alternative to nasogastric feeding for MSAP patients.",
-      "authors": "Sainan Shi, Dan Yang, Yingxin Gao et al.",
-      "published": "Jul 2026",
+      "title": "Low referral uptake, not patient adherence, limits implementation of early nutritional screening in head and neck and upper gastrointestinal cancers",
+      "abstract": "BackgroundMalnutrition is highly prevalent in patients with head and neck and upper gastrointestinal cancers and is associated with poorer clinical outcomes. Despite guideline recommendations, early nutritional screening remains inconsistently implemented in routine oncology care.MethodsThis single-center prospective feasibility study evaluated the implementation of an early nutritional screening and intervention pathway in newly diagnosed oncology patients with head and neck and upper gatrointestinal cancers. Eligible patients were enrolled within 7 days of their first oncology consultation and entered a structured nutritional pathway including baseline (T0), one-month (T1), and two-month (T2) assessments. Nutritional evaluation included MUST screening, anthropometric measures, bioelectrical impedance analysis, handgrip strength, biochemical parameters, and patient-reported outcomes (ESAS and FACT-G). Feasibility endpoints included referral, enrolment, and adherence rates.ResultsAmong 550 eligible patients, 77 were enrolled (14%). Once enrolled, adherence to the pathway was high (91%). At baseline, 47% of patients were classified as at high nutritional risk. Serum biochemical markers, available in a subset of patients, were consistent with mild nutritional alterations. During follow-up, body weight, handgrip strenght, biochemical and bioelectrical impedance parameters, and overall quality of life remained stable. Significant improvements were observed in selected symptoms, including fatigue, nausea, and well-being/malaise.ConclusionEarly nutritional screening is feasible a…",
+      "authors": "Irene Azzali, Debora Guerra, Monia Suzzi et al.",
+      "published": "Aug 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1838503",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1817590",
       "image": "",
       "screen": "right"
     },
@@ -743,6 +743,272 @@
       "researcher": {
         "name": "Gilad Davidson-Rozenfeld",
         "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=vh7tqKQAAAAJ"
+      }
+    },
+    {
+      "title": "The effect of simulation training on the counseling skills of nutritional science students in dietetic internships",
+      "abstract": "Simulations are a common tool in training aircrews, medical personnel and educators, providing experience in scenarios from the relevant content area and expanding the range of responses that simulation participants can acquire before they enter the field. Simulations have also been used in dietetic internships to improve clinical counseling skills. However, the use of structured simulations that involve progressive, multisession patient interactions has not been extensively studied in the context of dietetic internships. This study employed consecutive scenario models where interns developed ongoing interactions with the same simulated patient over multiple sessions, representing a significant methodological innovation in the field. A mixed method methodology was used to analyze closed and open-ended questionnaires which were administered to twenty-one interns, simulation actors and professional dietitians. This pilot study demonstrates the effectiveness of group and individual simulation training in enhancing dietetic interns’ counseling skills during their training and describes how simulation can contribute to both the professional skills and self-efficacy required to lead a counseling session. These findings will enable additional academic departments to examine the integration of simulation into the training programs of interns in tracks that include a practicum.",
+      "authors": "I. Linder, Zafit Lukach, Keren Pergament et al.",
+      "published": "2025",
+      "venue": "BMC Medical Education",
+      "feedName": "Lab Research",
+      "citationCount": 1,
+      "recentCitations": 1,
+      "s2_paper_id": "5ee7aceac233a82917e92f646d2284fffcfd28b2",
+      "url": "https://doi.org/10.1186/s12909-025-07674-x",
+      "image": "",
+      "screen": "both",
+      "lab_paper": true,
+      "researcher": {
+        "name": "Rafi Steckler",
+        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=BOhLTM0AAAAJ"
+      }
+    },
+    {
+      "title": "The Anticonvulsant Effects of Different Cannabis Extracts in a Zebrafish Model of Epilepsy",
+      "abstract": "Epilepsy is a widespread neurological disorder that remains a critical global public health challenge. While numerous antiepileptic drugs (AEDs) are available, many patients either fail to achieve adequate seizure control or experience significant side effects. One promising alternative is pure cannabidiol (CBD), but using a whole cannabis extract may be equally effective and preferred for some patients. In the current study, we employed the pentylenetetrazole (PTZ)-induced hyperactivity model in zebrafish to compare the effects of CBD with various cannabis extracts. We evaluated three cannabis strains, each subjected to three different extraction methods, and benchmarked the results against the commercially available AED valproic acid (VPA). Our findings revealed that 5.7 µg/mL of CBD and 10 µg/mL of different extracts significantly reduced movement compared to PTZ and VPA. In addition, effective extracts produced effects similar to pure CBD despite containing much lower molecule levels. These results reinforced and expanded previous evidence supporting the clinical potential of both CBD and whole cannabis extracts for seizure control while suggesting a possible entourage effect. Further research is necessary to determine which patients may benefit more from pure CBD versus those who might prefer whole cannabis extracts.",
+      "authors": "Karen Jackson, Maytal Shabat-Simon, J. Bar-on et al.",
+      "published": "2025",
+      "venue": "Biomolecules",
+      "feedName": "Lab Research",
+      "citationCount": 4,
+      "recentCitations": 0,
+      "s2_paper_id": "e8d95d5b119ba86262a480c8753459d85b64d105",
+      "url": "https://doi.org/10.3390/biom15050654",
+      "image": "",
+      "screen": "both",
+      "lab_paper": true,
+      "researcher": {
+        "name": "Rafi Steckler",
+        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=BOhLTM0AAAAJ"
+      }
+    },
+    {
+      "title": "Physiological Impacts of Energy Drink Consumption: A Clinical Analysis in Adolescents",
+      "abstract": "Energy drink (ED) consumption among Israeli-Arab adolescents is widespread. This study aimed to investigate the acute glycemic and insulin effects of EDs in healthy adolescents. Seventy-one Israeli-Arab adolescents (56% girls, average age 16.04 ± 1.03 years) participated in a non-randomized, case-controlled, open-label study. Participants consumed ED (n = 36) or a volume- and carbohydrate-matched non-caffeinated soft drink (SD, n = 35), followed by a 2 h glucose tolerance test. Blood glucose was measured at baseline and 15, 30, 60, and 120 min post-consumption (T0, T15, T30, T60 and T120, respectively). Serum insulin concentration and caffeine relative intensity were determined 45 min post-consumption (T45). Blood glucose levels peaked significantly at T15 and remained significantly higher at T30 in the ED group compared to the SD group (p = 0.005, p = 0.017, respectively). Insulin concentrations were substantially higher at T45 in the ED group (t [64] = 2.794, p = 0.001). This pattern was especially prominent in heavy ED consumers. A positive correlation emerged between the amount of caffeine consumed (mg/kg), blood glucose levels at T15 and T30, and insulin concentration at T45. This study is the first to demonstrate the glycemic and insulin responses to ED consumption in adolescents, suggesting that regulatory measures limiting ED sales to adolescents could improve their health.",
+      "authors": "Gilad Naveh, Bshara Mansour, Mahmoud Bader et al.",
+      "published": "2024",
+      "venue": "Nutrients",
+      "feedName": "Lab Research",
+      "citationCount": 6,
+      "recentCitations": 0,
+      "s2_paper_id": "b97e4acafc9606b86df3bd0c797faa7fbcf900b7",
+      "url": "https://doi.org/10.3390/nu16142328",
+      "image": "",
+      "screen": "both",
+      "lab_paper": true,
+      "researcher": {
+        "name": "Rafi Steckler",
+        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=BOhLTM0AAAAJ"
+      }
+    },
+    {
+      "title": "Disrupted gut harmony in attention-deficit/hyperactivity disorder: Dysbiosis and decreased short-chain fatty acids",
+      "abstract": "Background Attention-Deficit Hyperactivity Disorder (ADHD) is a prevalent neurodevelopmental disorder with complex genetic and environmental underpinnings. Emerging evidence suggests a significant role of gut microbiota in ADHD pathophysiology. This study investigates variations in gut microbiota composition and Short-Chain Fatty Acid (SCFA) profiles between children and adolescents with ADHD and healthy controls. Methods The study included 42 ADHD patients and 31 healthy controls, aged 6–18 years. Fecal samples were analyzed for microbial composition using 16S rRNA gene sequencing and for SCFA profiles through gas chromatography-mass spectrometry (GC-MS). The study assessed both α and β diversity of gut microbiota and quantified various SCFAs to compare between the groups. Results ADHD subjects demonstrated significantly reduced gut microbiota diversity, as indicated by lower α-diversity indices (Shannon index, Observed species, Faith PD index) and a trend towards significance in β-diversity (Weighted UniFrac). Notably, the ADHD group exhibited significantly lower levels of key SCFAs, including acetic, propionic, isobutyric, isovaleric, and valeric acids, highlighting a distinct microbial and metabolic profile in these individuals. Conclusion This study uncovers significant alterations in gut microbiota and SCFA profiles in children with ADHD, compared to healthy controls. The observed changes in SCFAs, known for their associations with other behavioral and neurologic pathologies, and for their role in neural signaling. These findings offer a metabolite fingerprint that co…",
+      "authors": "Rafi Steckler, F. Magzal, M. Kokot et al.",
+      "published": "2024",
+      "venue": "Brain, Behavior, & Immunity - Health",
+      "feedName": "Lab Research",
+      "citationCount": 20,
+      "recentCitations": 0,
+      "s2_paper_id": "e6bf6bc6dc39538aed6d5e9f0a2aad62f0702494",
+      "url": "https://doi.org/10.1016/j.bbih.2024.100829",
+      "image": "",
+      "screen": "both",
+      "lab_paper": true,
+      "researcher": {
+        "name": "Rafi Steckler",
+        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=BOhLTM0AAAAJ"
+      }
+    },
+    {
+      "title": "Application of Clay–Polymer Nanocomposites for the Removal of Toxic Cyanobacteria and Other Phytoplankton from Water—A Laboratory Scale Study",
+      "abstract": "The increasing global frequency of harmful cyanobacterial blooms (CyanoHABs), driven by nutrient enrichment and climate change, poses a severe threat to aquatic ecosystems and public health. This study evaluates the effectiveness of novel clay–polymer nanocomposites (CPCs) that combine the charge-neutralizing capabilities of polydiallyldimethylammonium chloride (polyDADMAC) with the high clay mineral density (kaolinite and sepiolite) for rapid removal of toxic cyanobacteria from water. Laboratory experiments were performed using Microcystis aeruginosa, Aphanizomenon ovalisporum, and Chlorella sp., with treatment doses determined by particle charge detector (PCD) measurements to identify the “nominal dose” required for full charge neutralization. Results show that clay–polymer nanocomposites achieve over 95% removal of turbidity and chlorophyll in M. aeruginosa at doses significantly lower (15–20%) than the calculated nominal dose, likely due to specific physical bridging interactions with the cyanobacteria’s external exopolysaccharide fibers. In contrast, A. ovalisporum and Chlorella sp. required doses closer to full charge neutralization for optimal removal. Among the materials tested, kaolinite-based nanocomposites (DKG24) showed slightly superior, more stable performance than sepiolite-based nanocomposites. Notably, application at or above the nominal dose was associated with increased soluble microcystin levels, suggesting that excessive polymer concentrations may compromise cell integrity and lead to toxin leakage. These findings suggest that engineered nanocomposites …",
+      "authors": "G. Rytwo, Yehezkel Tsveher, Yehudit Viner-Mozzini et al.",
+      "published": "2026",
+      "venue": "Water",
+      "feedName": "Lab Research",
+      "citationCount": 0,
+      "recentCitations": 0,
+      "s2_paper_id": "7af58f71f8874d10a7169cf91b9ccbf4b7e37d3d",
+      "url": "https://doi.org/10.3390/w18111301",
+      "image": "",
+      "screen": "both",
+      "lab_paper": true,
+      "researcher": {
+        "name": "Giora Rytwo",
+        "photo": "media/photos/giora_rytwo.jpg"
+      }
+    },
+    {
+      "title": "New azoxystrobin clay carrier to control corn late wilt disease",
+      "abstract": "Corn late wilt disease (LWD), caused by the fungus Magnaporthiopsis maydis, poses a significant threat to corn production in highly impacted regions. Its increasing global relevance is exacerbated by climate change, which facilitates the pathogen’s spread and prevalence. This research supports efforts to broaden LWD management beyond resistant varieties, whose effectiveness can fail within years under high disease pressure. In this study, a novel approach involving the slow release of azoxystrobin from clay carriers was assessed. Two growth-room experiments demonstrated that at the disease’s latent stage (up to 20 days), seed treatment with a clay-azoxystrobin (clay-AS) formulation had minimal impact on early growth indices. However, by day 40, the sepiolite-based treatment increased plant shoot weight by 61%, although pathogen infection levels, monitored via qPCR, remained elevated. A subsequent full-season potted trial revealed significant benefits from applying sepiolite-AS and bentonite-AS formulations directly to the seedbed. At 42 days post-planting, these treatments markedly enhanced plant survival (191% for sepiolite-AS and 64% for bentonite-AS) and improved phenological development (175% and 67%, respectively) compared to unprotected controls, alongside a notable 95% reduction in root infection. By harvest (78 days), bentonite-AS emerged as particularly effective, increasing shoot biomass by 128% and ear yield by 135%. Bentonite-AS treatment reduced cob and shoot symptoms by 23% and 42%, respectively, and nearly eradicated pathogen levels. This research demonstrate…",
+      "authors": "Ariel Hadad, Elhanan Dimant, Peleg Hadari et al.",
+      "published": "2026",
+      "venue": "World Journal of Microbiology & Biotechnology",
+      "feedName": "Lab Research",
+      "citationCount": 0,
+      "recentCitations": 0,
+      "s2_paper_id": "ada425bd709368161c46391fc1acfdf514b40df5",
+      "url": "https://doi.org/10.1007/s11274-026-04876-3",
+      "image": "",
+      "screen": "both",
+      "lab_paper": true,
+      "researcher": {
+        "name": "Giora Rytwo",
+        "photo": "media/photos/giora_rytwo.jpg"
+      }
+    },
+    {
+      "title": "Clay-based azoxystrobin formulation enhances cotton protection against charcoal rot disease",
+      "abstract": "Cotton charcoal rot disease, caused by Macrophomina phaseolina, is a major threat to cotton production in Israel and globally, leading to severe yield loss due to post-flowering plant collapse. Current management relies heavily on chemical fungicides. However, rising environmental concerns and fungicide resistance underscore the need for sustainable alternatives. This study evaluated novel clay-based formulations for the controlled release of azoxystrobin (AS). The approach aims to protect cotton during the sensitive early growth stages when pathogen penetration and colonization occur. Two types of clay carriers—bentonite (montmorillonite) and sepiolite—were tested for their ability to deliver AS effectively. While seedlings grown in the greenhouse showed minimal visible symptoms at the disease latent stage, quantitative real-time PCR analysis indicated that both formulations effectively suppressed root infection, reducing M. phaseolina DNA levels by 81%. In a full-season open-enclosure trial, bentonite-AS treatment exhibited reduced efficacy, possibly due to phytotoxicity at the tested concentration. In contrast, the sepiolite-AS treatment increased flower bud number by 87% and reduced pathogen infection by up to 92% at 68 days post-sowing, although these effects were not statistically significant due to high variability. At harvest, sepiolite-AS and bentonite alone increased shoot dry weight per plant by 129% and 128%, respectively, and reduced pathogen DNA levels by 63% and 69%, respectively. Overall, although environmental variability led to statistical insignificance, …",
+      "authors": "O. Degani, Ariel Hadad, Eden Etedgi et al.",
+      "published": "2026",
+      "venue": "Journal of Cotton Research",
+      "feedName": "Lab Research",
+      "citationCount": 1,
+      "recentCitations": 0,
+      "s2_paper_id": "fd23d143d0541f11b7073d0a8365f72546a8247f",
+      "url": "https://doi.org/10.1186/s42397-025-00254-w",
+      "image": "",
+      "screen": "both",
+      "lab_paper": true,
+      "researcher": {
+        "name": "Giora Rytwo",
+        "photo": "media/photos/giora_rytwo.jpg"
+      }
+    },
+    {
+      "title": "Effect of Quinoa Protein Concentrate in Particulate and Fibrillar Forms on the Physico-Chemical Properties of Quinoa Starch Gels",
+      "abstract": "The current study investigates the interactions between quinoa protein—both in particulate (protein concentrate, QPC) and fibrillar (QPF) forms—and quinoa starch (QS) gels, and how these interactions influence the thermal, pasting, and rheological properties of the gels. Gels were made by adding three different concentrations of QPC or QPF to a 10% QS dispersion (10, 25, and 50% w/w of starch). DSC results suggested an enhancement of amylopectin thermal stability and an acceleration of retrogradation upon a cooling stage by the addition of quinoa protein. FTIR spectra indicated that QS and QPC/QPF mostly interacted through hydrogen bonds. According to rheological measurements, in contrast to the increased G′ due to the addition of QPC (50%), only a slight increase in G′ was observed due to the addition of QPF (50%). Notably, this study is the first to directly compare the effects of QPC and QPF on starch gel properties, revealing that QPC markedly enhances gel elasticity. These findings highlight the potential application of the optimized quinoa starch-protein-based gels as functional ingredients in plant-based meat analogues, where improved textural and nutritional attributes are critical.",
+      "authors": "Shir T Segev, Eden Eran-Nagar, G. Rytwo et al.",
+      "published": "2025",
+      "venue": "Food and Bioprocess Technology",
+      "feedName": "Lab Research",
+      "citationCount": 4,
+      "recentCitations": 0,
+      "s2_paper_id": "034d8c4f0c0f5607a4e6727360aa5d7287e60d5b",
+      "url": "https://doi.org/10.1007/s11947-025-03873-y",
+      "image": "",
+      "screen": "both",
+      "lab_paper": true,
+      "researcher": {
+        "name": "Giora Rytwo",
+        "photo": "media/photos/giora_rytwo.jpg"
+      }
+    },
+    {
+      "title": "Sepiolite–Chitosan–Acetic Acid Biocomposite Attenuates the Development of Obesity and Nonalcoholic Fatty Liver Disease in Mice Fed a High-Fat Diet",
+      "abstract": "Background; obesity and nonalcoholic fatty liver disease (NAFLD) reduce life expectancy; nonoperative interventions show poor results. Individually, chitosan (1% w/w), acetic acid (AA 0.3–6.5% w/w), and sepiolite clay (5% w/w) attenuate high-fat-diet-induced obesity (DIO) via reduced energy digestibility and increased energy expenditure. Objectives; therefore, we hypothesized that a chitosan–sepiolite biocomposite suspended in AA would attenuate DIO and NAFLD to a greater extent than AA alone via its more substantial adsorption of nonpolar molecules. Methods; we tested this dietary supplement in C57BL/6J mice fed a high-fat diet (HFD) compared to an unsupplemented HFD and an HFD supplemented with a bile acid sequestrant (cholestyramine) or standalone AA. Results; biocomposite supplementation reduced DIO gain by 60% and abolished hepatic liver accumulation, whereas standalone AA showed mild attenuation of DIO gain and did not prevent HFD-induced hepatic fat accumulation. The biocomposite intake was accompanied by a lower digestibility (−4 point %) counterbalanced by increased intake; hence, it did not affect energy absorption. Therefore, DIO attenuation was suggested to be related to higher energy expenditure, a phenomenon not found with AA alone, as supported by calculated energy expenditure using the energy balance method. Conclusions; these results support further investigation of the biocomposite’s efficacy in attenuating obesity and NAFLD, specifically when applied with a restricted diet. Future studies are needed to determine this biocomposite’s safety, mechanism of ac…",
+      "authors": "Dalia Niv, Eli Anavi, Laris Yaval et al.",
+      "published": "2024",
+      "venue": "Nutrients",
+      "feedName": "Lab Research",
+      "citationCount": 2,
+      "recentCitations": 0,
+      "s2_paper_id": "a396dab71d51378ae0b00294bef4881c7caec2d7",
+      "url": "https://doi.org/10.3390/nu16223958",
+      "image": "",
+      "screen": "both",
+      "lab_paper": true,
+      "researcher": {
+        "name": "Giora Rytwo",
+        "photo": "media/photos/giora_rytwo.jpg"
+      }
+    },
+    {
+      "title": "Eddy correlation measurements to visualize CO2 and water vapor concentrations and fluxes",
+      "abstract": "Eddy correlation measures gas exchange between canopy and the overlying atmosphere by evaluating the correlation between fluctuations in the gas-of-interest’s mixing ratio and the vertical wind velocity and considered the most accurate approach for measuring gas fluxes, mostly carbon dioxide and water vapor under ideal homogeneous conditions.  It has been used in micrometeorology for decades to quantify mass and energy transfer between urban, natural and agricultural ecosystems and the atmosphere. We assessed its application under various—homogeneous and non-homogeneous—conditions. Our study indicates that fluxes of CO2 and H2O correlate well with plants activity only when turbulent conditions are present, in open fields. At such conditions, direct measurements of concentration of those gases are not an accurate indicator for plants activity. On the other hand, in closed systems (e.g. greenhouses)- fluxes as measured by an eddy correlation system can't accurately be related to the state of the vegetation, but the fluctuations in the concentrations of CO2 and H2O directly correlate to the actual plants activity. Adapting conditions in greenhouses to limiting factors as temperature, increases CO2 sequestration by plants, and may increase productivity",
+      "authors": "G. Rytwo, Dafna Eliyahou",
+      "published": "2023",
+      "venue": "Journal of Agrometeorology",
+      "feedName": "Lab Research",
+      "citationCount": 2,
+      "recentCitations": 0,
+      "s2_paper_id": "0677d7c4aa05cca3560eabfba60499a227c5d799",
+      "url": "https://doi.org/10.54386/jam.v25i2.2103",
+      "image": "",
+      "screen": "both",
+      "lab_paper": true,
+      "researcher": {
+        "name": "Giora Rytwo",
+        "photo": "media/photos/giora_rytwo.jpg"
+      }
+    },
+    {
+      "title": "Colorimetric Quantification for Residual Poly-DADMAC in Water Treatment",
+      "abstract": "Poly-DADMAC (PD) is a commonly used organic polymer in water treatment, known for its effectiveness as a coagulant. However, its presence as a residue in water raises concerns related to membrane fouling and the potential formation of carcinogenic compounds. Therefore, fast and simple quantification is necessary to efficiently control and monitor the optimal dose of poly-DADMAC with minimal negative effects. This study introduces a new colorimetric quantification method for poly-DADMAC, based on complexation with a cationic dye (fast green-FG). The method was examined through varying conditions, which included different analytical and commercial poly-DADMAC formulations and concentrations. These experiments confirm its effectiveness in quantifying poly-DADMAC with a detection limit of 3.22 µg L−1 (0.02 µM based on monomers’ molecular weight), which is one order of magnitude lower than regulatory requirements (50 µg L−1). To validate the method, the effect of pH was examined, and implementation demonstrations were conducted on cyanobacteria and cowshed-polluted water samples. This research introduces a fast, cost-effective innovative method to accurately quantify poly-DADMAC, enhancing water treatment strategies for high-quality purification and water reuse",
+      "authors": "Ilil Levakov, I. Maor, Chen Barak et al.",
+      "published": "2023",
+      "venue": "Water",
+      "feedName": "Lab Research",
+      "citationCount": 1,
+      "recentCitations": 0,
+      "s2_paper_id": "1539062d4801a1184ae479df3a17b3db49ea8d17",
+      "url": "https://doi.org/10.20944/preprints202308.1663.v1",
+      "image": "",
+      "screen": "both",
+      "lab_paper": true,
+      "researcher": {
+        "name": "Giora Rytwo",
+        "photo": "media/photos/giora_rytwo.jpg"
+      }
+    },
+    {
+      "title": "Elementary Steps in Steady State Kinetic Model Approximation for the Homo-Heterogeneous Photocatalysis of Carbamazepine",
+      "abstract": "Elucidating physicochemical processes in the degradation of pollutants may optimize their removal from water sources. Although the photodegradation of carbamazepine (CBZ) in Advanced Oxidation Processes (AOPs) has been widely studied, there is no detailed report on the elementary steps of the kinetics. This study proposes a set of elementary steps for the AOP of CBZ, combining short-wave ultraviolet radiation (UVC), a homogeneous reagent (H2O2), and a heterogeneous catalyst (TiO2), which includes the excitation of both reagents/catalysts by UVC photons, the adsorption of CBZ by the excited TiO2, or its oxidation by hydroxyl radicals. Assuming the steady-state approximation on the intermediate products (excited TiO2, CBZ-excited TiO2 complex, and hydroxyl radicals) leads to rate laws for the degradation of CBZ, in which UVC radiation, TiO2, and H2O2 are pseudo-first-order at all concentrations or intensities and have no direct influence on CBZ pseudo-order, whereas CBZ shifts from pseudo-first-order at low concentrations to pseudo-zero-order at high concentrations. Several experiments to test the mechanism were conducted by varying CBZ, H2O2, and TiO2 concentrations and UVC radiation intensities. The measured results indeed fit the suggested mechanism for the first three, but the irradiation intensity appears to shift the CBZ influence from pseudo-second- to pseudo-first-order with increased intensities. Part of the elementary steps were changed to fit the results.",
+      "authors": "Yuval Shahar, G. Rytwo",
+      "published": "2023",
+      "venue": "Clean Technology",
+      "feedName": "Lab Research",
+      "citationCount": 0,
+      "recentCitations": 0,
+      "s2_paper_id": "15c76846e92aceb5369881927ee2bf9a91d232a6",
+      "url": "https://doi.org/10.3390/cleantechnol5030043",
+      "image": "",
+      "screen": "both",
+      "lab_paper": true,
+      "researcher": {
+        "name": "Giora Rytwo",
+        "photo": "media/photos/giora_rytwo.jpg"
+      }
+    },
+    {
+      "title": "Ice nucleation by smectites: the role of the edges",
+      "abstract": "Abstract. Smectites, like other clay minerals, have been shown to promote ice\nnucleation in the immersion freezing mode and likely contribute to the\npopulation of ice-nucleating particles (INPs) in the atmosphere. Smectites\nare layered aluminosilicates, which form platelets that depending on\ncomposition might swell or even delaminate in water by intercalation of\nwater molecules between their layers. They comprise among others\nmontmorillonites, hectorites, beidellites, and nontronites. In this study,\nwe investigate the ice nucleation (IN) activity of a variety of natural and\nsynthetic smectite samples with different exchangeable cations. The\nmontmorillonites STx-1b and SAz-1, the nontronite SWa-1, and the hectorite\nSHCa-1 are all rich in Ca2+ as the exchangeable cation; the bentonite\nMX-80 is rich in Na+ with a minor contribution of Ca2+, and the\nsynthetic Laponite is a pure Na+ smectite. The bentonite SAu-1 is rich\nin Mg2+ with a minor contribution of Na+, and the synthetic\ninterstratified mica-montmorillonite Barasym carries\nNH4+ as the exchangeable cation. In\nemulsion freezing experiments, all samples except Laponite exhibited one or\ntwo heterogeneous freezing peaks with onsets between 239 and 248 K and a\nquite large variation in IN activity yet without clear correlation with the\nexchangeable cation, with the type of smectite, or with mineralogical\nimpurities in the samples. To further investigate the role of the\nexchangeable cation, we performed ion exchange experiments. Replacing\nNH4+ with Ca2+ in Barasym reduced\nits IN activity to that of other Ca-rich montmorillonites…",
+      "authors": "Amit Kumar, Kristian Klumpp, Chen Barak et al.",
+      "published": "2023",
+      "venue": "Atmospheric Chemistry and Physics",
+      "feedName": "Lab Research",
+      "citationCount": 10,
+      "recentCitations": 0,
+      "s2_paper_id": "d2f58630c5b33511a9ff3fe822b2154de726bbcb",
+      "url": "https://doi.org/10.5194/acp-23-4881-2023",
+      "image": "",
+      "screen": "both",
+      "lab_paper": true,
+      "researcher": {
+        "name": "Giora Rytwo",
+        "photo": "media/photos/giora_rytwo.jpg"
+      }
+    },
+    {
+      "title": "Carbamazepine Removal by Clay-Based Materials Using Adsorption and Photodegradation",
+      "abstract": "Carbamazepine (CBZ) is one of the most common emerging contaminants released to the aquatic environment through domestic and pharmaceutical wastewater. Due to its high persistence through conventional degradation treatments, CBZ is considered a typical indicator for anthropogenic activities. This study tested the removal of CBZ through two different clay-based purification techniques: adsorption of relatively large concentrations (20–500 μmol L−1) and photocatalysis of lower concentrations (<20 μmol L−1). The sorption mechanism was examined by FTIR measurements, exchangeable cations released, and colloidal charge of the adsorbing clay materials. Photocatalysis was performed in batch experiments under various conditions. Despite the neutral charge of carbamazepine, the highest adsorption was observed on negatively charged montmorillonite-based clays. Desorption tests indicate that adsorbed CBZ is not released by washing. The adsorption/desorption processes were confirmed by ATR-FTIR analysis of the clay-CBZ particles. A combination of synthetic montmorillonite or hectorite with low H2O2 concentrations under UVC irradiation exhibits efficient homo-heterogeneous photodegradation at μM CBZ levels. The two techniques presented in this study suggest solutions for both industrial and municipal wastewater, possibly enabling water reuse.",
+      "authors": "Ilil Levakov, Yuval Shahar, G. Rytwo",
+      "published": "2022",
+      "venue": "Water",
+      "feedName": "Lab Research",
+      "citationCount": 7,
+      "recentCitations": 1,
+      "s2_paper_id": "ac6397222c96e268d9875d49caffce160835579a",
+      "url": "https://doi.org/10.3390/w14132047",
+      "image": "",
+      "screen": "both",
+      "lab_paper": true,
+      "researcher": {
+        "name": "Giora Rytwo",
+        "photo": "media/photos/giora_rytwo.jpg"
       }
     }
   ]

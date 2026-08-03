@@ -1,6 +1,16 @@
 {
-  "updated": "2026-08-03T20:56:46Z",
+  "updated": "2026-08-03T22:53:23Z",
   "items": [
+    {
+      "title": "Author Correction: An agroecological perspective on systems-level transformations to keep current food systems from degrading the global commons",
+      "abstract": "",
+      "authors": "Kris A. G. Wyckhuys, Edmundo Barrios, Steven J. Fonte",
+      "published": "Aug 2026",
+      "feedName": "Nature Food",
+      "url": "https://www.nature.com/articles/s43016-026-01413-1",
+      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs43016-026-01413-1/MediaObjects/43016_2026_1413_Fig1_HTML.png",
+      "screen": "left"
+    },
     {
       "title": "Publisher Correction: Dietary environmental impacts and quality differ by socio-demographic characteristics",
       "abstract": "",
@@ -29,16 +39,6 @@
       "feedName": "Nature Food",
       "url": "https://www.nature.com/articles/s43016-026-01402-4",
       "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs43016-026-01402-4/MediaObjects/43016_2026_1402_Fig1_HTML.png",
-      "screen": "left"
-    },
-    {
-      "title": "Adaptive policies balancing trade, productivity and cropland increases can support Zambia’s nutrition security under future climate shocks",
-      "abstract": "Sub-Saharan Africa’s food systems are increasingly vulnerable to climate change. Using the integrated Future Estimator for Emissions and Diets (iFEED) framework, Zambian nutrition security and policy options are explored under average and extreme climate scenarios.",
-      "authors": "Stewart Jennings, Andrew Challinor, Jennie I. Macdiarmid et al.",
-      "published": "Jul 2026",
-      "feedName": "Nature Food",
-      "url": "https://www.nature.com/articles/s43016-026-01405-1",
-      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs43016-026-01405-1/MediaObjects/43016_2026_1405_Fig1_HTML.png",
       "screen": "left"
     },
     {
@@ -282,6 +282,16 @@
       "screen": "left"
     },
     {
+      "title": "AI models atom movement to predict solid-state reaction pathways, including impurities, in minutes",
+      "abstract": "A research team at the Department of Energy's Lawrence Berkeley National Laboratory (Berkeley Lab) has successfully demonstrated an AI modeling approach that accurately and rapidly predicts how reactions between solid materials unfold over time. It is the first predictive model that accounts for how atoms travel through materials during solid-state reactions. Importantly, its predictions provide practical insights into the best recipes for making advanced materials.",
+      "authors": "",
+      "published": "Aug 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-08-ai-atom-movement-solid-state.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/new-ai-modeling-approa.jpg",
+      "screen": "right"
+    },
+    {
       "title": "Researchers develop a new catalyst to convert CO₂ into ethanol using electricity",
       "abstract": "A research team led by Professor Hyoyoung Lee of the Department of Chemistry at Sungkyunkwan University has developed a new catalyst that converts carbon dioxide into ethanol with high selectivity. The study, titled \"Atomic-scale Cu–Zn synergy directs asymmetric C–C coupling for ethanol-selective CO2 electroreduction,\" was published in Applied Catalysis B: Environment and Energy.",
       "authors": "",
@@ -309,16 +319,6 @@
       "feedName": "Phys.org Analytics",
       "url": "https://phys.org/news/2026-07-nitrogen-enzymes-efficient.html",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/why-some-nitrogen-proc.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "Diego Rivera claimed his mural Creation was half wax, but chemical forensics says otherwise",
-      "abstract": "Adorning the walls of San Ildefonso College in Mexico City is artist Diego Rivera's masterpiece, rendered in fresco and gold leaf, The Creation, or La Creacioń. It depicts a man standing with his arms outstretched beneath a deep blue celestial disk studded with stars and constellations, while figures seated on clouds watch from either side. The work catalyzed the revival of the encaustic painting technique in the 1920s.",
-      "authors": "",
-      "published": "Jul 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-07-diego-rivera-mural-creation-wax.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/diego-rivera-claimed-h.jpg",
       "screen": "right"
     },
     {

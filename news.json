@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-03T12:51:41Z",
+  "updated": "2026-08-03T16:15:01Z",
   "items": [
     {
       "title": "Improved data reveal the role of aquatic foods",
@@ -152,12 +152,12 @@
       "screen": "left"
     },
     {
-      "title": "Sensory appeal motive prospectively predicts weight gain only in overweight/obese adolescents: A two-wave longitudinal study",
+      "title": "Understanding consumer resistance toward and acceptance of plant-based fish: An innovation resistance theory perspective",
       "abstract": "",
-      "authors": "Jingqiu Zhang, Yijun Luo, Hong Chen",
+      "authors": "Sina Ahmadi Kaliji, Marzieh Aminravan, Carola Grebitus",
       "published": "Dec 2026",
       "feedName": "Food Quality & Preference",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0950329326002107?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S095032932600217X?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -362,6 +362,16 @@
       "screen": "right"
     },
     {
+      "title": "A simple supplement could help the immune system fight cancer and viruses",
+      "abstract": "Low arginine levels may allow cancer cells and viruses to slip past the immune system by reducing production of a crucial cellular warning protein. In mice, arginine-rich diets led to fewer colon tumors and milder viral infections, suggesting a simple supplement could have powerful therapeutic potential.",
+      "authors": "",
+      "published": "Aug 2026",
+      "feedName": "ScienceDaily Nutrition",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260802223417.htm",
+      "image": "https://www.sciencedaily.com/images/1920/asian-man-taking-supplement-capsule.webp",
+      "screen": "right"
+    },
+    {
       "title": "This once-a-week workout may help cut belly fat, study shows",
       "abstract": "A surprisingly small dose of exercise may deliver major health benefits for adults carrying excess fat around the waist. In a four-month trial involving 315 adults with central obesity, researchers found that completing 75 minutes of brisk interval walking in a single weekly session reduced body fat, trimmed waistlines, and improved cardiovascular fitness about as effectively as splitting the same exercise across three days.",
       "authors": "",
@@ -392,32 +402,22 @@
       "screen": "right"
     },
     {
-      "title": "A 42-year-old childhood obesity theory may be wrong",
-      "abstract": "New research challenges the decades-old idea that children experience an “adiposity rebound” when their BMI begins rising around age 6. Although BMI returns to earlier levels, a more reliable measure showed that body fat does not rebound at all. The increase appears to come from growing muscle and lean tissue as children prepare for later growth. Researchers say this normal process has been mistakenly treated as an obesity warning sign for 42 years.",
-      "authors": "",
-      "published": "Jul 2026",
-      "feedName": "ScienceDaily Nutrition",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260729051534.htm",
-      "image": "https://www.sciencedaily.com/images/1920/overweight-boy-behind-scale.webp",
-      "screen": "right"
-    },
-    {
-      "title": "Sex-specific nutritional and inflammatory trajectories during first-line chemotherapy in older adults with advanced non-small cell lung cancer",
-      "abstract": "BackgroundMalnutrition and systemic inflammation are closely interrelated determinants of treatment tolerance and prognosis in older adults with advanced non-small cell lung cancer. However, their sex-specific longitudinal patterns during chemotherapy remain insufficiently characterized. This study aimed to describe and compare sex-specific trajectories of nutritional status and systemic inflammation during first-line chemotherapy and to explore their longitudinal association from a clinical nutrition perspective.MethodsThis retrospective longitudinal cohort study included 323 patients aged 60 years or older with stage IIIB–IV non-small cell lung cancer who completed six cycles of first-line chemotherapy. Nutritional status and systemic inflammation were assessed at baseline and before each chemotherapy cycle using the Geriatric Nutritional Risk Index (GNRI) and the Systemic Inflammation Response Index (SIRI), respectively. Sex-specific trajectories were examined using linear mixed-effects models including time, sex, and time-by-sex interaction terms. Sex-stratified multivariable linear regression was then used to evaluate the association between overall changes in GNRI and SIRI after adjustment for tumor stage and histology.ResultsSignificant time-by-sex interactions were observed for both GNRI (P = 0.019) and SIRI (P = 0.002). In male patients, mean GNRI increased progressively across chemotherapy cycles, while mean SIRI decreased over time. Greater reductions in SIRI were independently associated with greater improvements in GNRI (β = −0.224, P < 0.001). In female patien…",
-      "authors": "Jinxian He, Mingjie Gu, Zhimei Chen et al.",
+      "title": "Association between UMAP-identified body composition phenotypes and metabolic dysfunction-associated steatotic liver disease in the general population of China",
+      "abstract": "BackgroundMetabolic dysfunction-associated steatotic liver disease (MASLD) poses a critical global health challenge, yet traditional anthropometric indices fail to precisely capture its metabolic heterogeneity. This study aimed to identify novel body composition phenotypes using nonlinear dimensionality reduction and to develop a predictive model for MASLD.MethodsA total of 7,946 participants were enrolled. Uniform Manifold Approximation and Projection (UMAP) was applied to bioelectrical impedance analysis (BIA) data for unsupervised clustering to identify latent phenotypes. Key variables were selected using a combination of Boruta, XGBoost, and Random Forest algorithms, followed by the construction of a Logistic regression model to evaluate associations and predictive performance.ResultsUMAP robustly identified three distinct phenotypes: Low-Mass Lean (LML), High-Mass Obesogenic (HMO), and Fluid-Imbalanced, High-Parameters (FIHP). In terms of frequency, LML was the most common (47.7% in males, 49.2% in females), followed by HMO (45.8% and 44.8%, respectively) and the rare FIHP subtype (6.5% and 6.0%, respectively). LML exhibited normal size and metabolic balance, whereas HMO was characterized by high adiposity and metabolic risk, and FIHP by fluid imbalance. Compared to the LML group, HMO and FIHP phenotypes were associated with significantly higher risks of MASLD (adjusted OR: 3.10 [95% CI: 2.74–3.51] and 1.39 [95% CI: 1.08–1.78], respectively). The integrated model demonstrated superior predictive performance (AUC = 0.863) and favorable clinical utility in calibration an…",
+      "authors": "Huimin Yin, Yangtian Wang, Li Yuan et al.",
       "published": "Aug 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1885061",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1873472",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Predictive value of nutritional biomarkers for immune checkpoint inhibitor efficacy in patients with non-small cell lung cancer",
-      "abstract": "BackgroundAlthough immune checkpoint inhibitors (ICIs) have revolutionized advanced non-small cell lung cancer (NSCLC) treatment, clinical benefits vary. This study evaluated the predictive value of baseline nutritional and hematological markers for ICI efficacy and survival.MethodsA retrospective cohort of 124 advanced NSCLC patients receiving ICIs was evaluated. Patients were stratified by median cut-offs: prognostic nutritional index (PNI: 45), albumin (ALB: 40.2 g/L), body mass index (BMI: 20.1 kg/m2), and hemoglobin (Hb: 114 g/L). Independent predictors of binary short-term efficacy outcomes (ORR and DCR) and time-to-event long-term survival outcomes (PFS and OS) were identified using multivariate logistic regression and Cox proportional hazards regression models.ResultsHigh baseline PNI and ALB were significantly associated with superior objective response and disease control rates (DCR). Multivariate analyses confirmed PNI (OR = 1.377, p = 0.014) and ALB (OR = 1.840, p = 0.003) as independent protective factors for DCR, alongside independent associations with prolonged progression-free and overall survival (OS) (all p < 0.05). BMI lost independent predictive value after multivariate adjustment. The combined PNI + ALB model consistently outperformed single markers, achieving 12-, 24-, and 36-month OS area under the curve (AUC) values of 0.802, 0.819, and 0.807, respectively.ConclusionBaseline PNI and ALB are non-invasive, independent predictors of short-term response and long-term survival in advanced NSCLC patients undergoing immunotherapy. Combining these markers im…",
-      "authors": "Wentao Zhang, Xia Liu",
+      "title": "Low referral uptake, not patient adherence, limits implementation of early nutritional screening in head and neck and upper gastrointestinal cancers",
+      "abstract": "BackgroundMalnutrition is highly prevalent in patients with head and neck and upper gastrointestinal cancers and is associated with poorer clinical outcomes. Despite guideline recommendations, early nutritional screening remains inconsistently implemented in routine oncology care.MethodsThis single-center prospective feasibility study evaluated the implementation of an early nutritional screening and intervention pathway in newly diagnosed oncology patients with head and neck and upper gatrointestinal cancers. Eligible patients were enrolled within 7 days of their first oncology consultation and entered a structured nutritional pathway including baseline (T0), one-month (T1), and two-month (T2) assessments. Nutritional evaluation included MUST screening, anthropometric measures, bioelectrical impedance analysis, handgrip strength, biochemical parameters, and patient-reported outcomes (ESAS and FACT-G). Feasibility endpoints included referral, enrolment, and adherence rates.ResultsAmong 550 eligible patients, 77 were enrolled (14%). Once enrolled, adherence to the pathway was high (91%). At baseline, 47% of patients were classified as at high nutritional risk. Serum biochemical markers, available in a subset of patients, were consistent with mild nutritional alterations. During follow-up, body weight, handgrip strenght, biochemical and bioelectrical impedance parameters, and overall quality of life remained stable. Significant improvements were observed in selected symptoms, including fatigue, nausea, and well-being/malaise.ConclusionEarly nutritional screening is feasible a…",
+      "authors": "Irene Azzali, Debora Guerra, Monia Suzzi et al.",
       "published": "Aug 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1882630",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1817590",
       "image": "",
       "screen": "right"
     },
@@ -432,12 +432,12 @@
       "screen": "right"
     },
     {
-      "title": "Surface defect detection method for shawo radishes based on improved RT-DETR",
-      "abstract": "IntroductionSurface defect detection of shawo radishes is challenged by complex defect characteristics, large variations in defect scale, and insufficient feature representation, which can limit automated quality inspection and grading performance.MethodsTo address these challenges, this study proposes an improved RT-DETR-r18 framework based on a frequency–spatial collaborative modeling strategy. The proposed model incorporates a Wavelet Transform Block (WT_Block), an Attention-based Intra-scale Feature Interaction with High-Low Attention module (AIFI-HiLo), and a VoVGSCSP-PConv Cross-Scale Feature Fusion Module (VP_CCFM) to enhance feature extraction, feature interaction, and multi-scale representation.ResultsExperiments conducted on a self-constructed shawo radish surface defect dataset showed that the proposed method achieved a Precision of 94.5%, a Recall of 81.2%, and a mean Average Precision at an Intersection over Union threshold of 0.5 (mAP@50) of 85.3%, representing improvements of 2.9, 2.8, and 1.9 percentage points over the baseline RT-DETR-r18 model, respectively. Meanwhile, the parameter count and computational complexity were reduced by 7 and 12.7%, respectively. Comparative experiments further showed that the proposed model outperformed several mainstream object detection methods in overall detection performance.DiscussionThese results indicate that the proposed frequency–spatial collaborative framework can improve the accuracy, robustness, and efficiency of shawo radish surface defect detection, providing technical support for automated quality inspection an…",
-      "authors": "Liying Ma, Xufeng Hua, Na Zhang et al.",
+      "title": "Associations between the gut microbiome and diet, body composition, and glycemic profiles: a cross-sectional post-hoc analysis of the Personal Diet Study",
+      "abstract": "BackgroundThe gut microbiome is implicated in obesity and type 2 diabetes (T2D), but how diet, body composition, glycemic status, and self-efficacy factors relate to the microbiome in high-risk individuals is not well characterized. The purpose of this post-hoc analysis is to examine the relationship between the gut microbiome and obesity-related metabolic factors, including body composition, resting energy expenditure (REE), and glycemic variability (GV).MethodsData for this post-hoc cross-sectional analysis were obtained from adults with prediabetes and obesity enrolled in The Personal Diet study, a 6-month behavioral weight loss study. Pre-intervention assessments (n = 95) included the collection of fecal microbiome profile, demographics, socioeconomic status, physical and metabolic characteristics [fat mass, fat free mass (FFM), continuous glucose monitoring–derived GV, REE], self-efficacy and dietary intake. Gut bacterial alpha diversity, beta diversity, and genus level abundances were associated with these host and lifestyle variables using multivariate regression, permutational multivariate analysis of variance, and correlation analyses.ResultsParticipants were a mean age of 58 years old, mostly female (75.8%), with a mean BMI of 34.6 kg/m2 and mean HbA1c of 5.7%. Higher FFM was associated with greater alpha diversity, whereas higher BMI was associated with lower diversity (p < 0.05). Dietary factors were the most consistent correlates of gut microbial beta diversity. At the genus level, associations were observed for sex, metformin use, BMI, protein intake, and REE.…",
+      "authors": "Chan Wang, Lauren Berube, Margaret Curran et al.",
       "published": "Aug 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1890294",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1851439",
       "image": "",
       "screen": "right"
     },

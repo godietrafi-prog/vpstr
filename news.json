@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-03T19:21:43Z",
+  "updated": "2026-08-03T20:56:46Z",
   "items": [
     {
       "title": "Publisher Correction: Dietary environmental impacts and quality differ by socio-demographic characteristics",
@@ -282,6 +282,26 @@
       "screen": "left"
     },
     {
+      "title": "Researchers develop a new catalyst to convert CO₂ into ethanol using electricity",
+      "abstract": "A research team led by Professor Hyoyoung Lee of the Department of Chemistry at Sungkyunkwan University has developed a new catalyst that converts carbon dioxide into ethanol with high selectivity. The study, titled \"Atomic-scale Cu–Zn synergy directs asymmetric C–C coupling for ethanol-selective CO2 electroreduction,\" was published in Applied Catalysis B: Environment and Energy.",
+      "authors": "",
+      "published": "Aug 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-08-catalyst-ethanol-electricity.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/skku-researchers-devel.jpg",
+      "screen": "right"
+    },
+    {
+      "title": "Mechanical recycling contamination risks the circular plastics economy, but quality control analytics can help",
+      "abstract": "A study from the University of Manchester into the effects of polymer cross-contamination on the outcome of mechanically recycling plastics has found that the presence of contaminants radically alters degradation mechanisms.",
+      "authors": "",
+      "published": "Aug 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-08-mechanical-recycling-contamination-circular-plastics.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/mechanical-recycling-c.jpg",
+      "screen": "right"
+    },
+    {
       "title": "Why some nitrogen-processing enzymes are more efficient than others",
       "abstract": "Nitrogen gas is abundant in Earth's atmosphere, but most living organisms can't readily use it. Only a subset of microbes with enzymes known as nitrogenases can break nitrogen gas apart and convert it into ammonia.",
       "authors": "",
@@ -299,26 +319,6 @@
       "feedName": "Phys.org Analytics",
       "url": "https://phys.org/news/2026-07-diego-rivera-mural-creation-wax.html",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/diego-rivera-claimed-h.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "Chemists unlock Appel fluorination with potassium fluoride",
-      "abstract": "Alcohols are among the most abundant building blocks in chemistry. Fluorinated compounds, meanwhile, are essential for many modern medicines, crop protection products and advanced materials. Converting one into the other, however, has traditionally relied on toxic, thermally unstable reagents such as DAST (diethylaminosulfur trifluoride) that make large-scale manufacturing operationally demanding.",
-      "authors": "",
-      "published": "Jul 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-07-chemists-appel-fluorination-potassium-fluoride.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/oxford-chemists-unlock.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "Learning to better understand bone-like minerals",
-      "abstract": "A University of California San Diego research team has found a better way to understand and stabilize hydroxyapatite, the calcium phosphate mineral that makes up much of our teeth and bones. By adding tiny amounts of europium, a rare-earth element that mimics calcium, the team discovered a way to make the material potentially more useful for medical imaging.",
-      "authors": "",
-      "published": "Jul 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-07-bone-minerals.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/learning-to-better-und-1.jpg",
       "screen": "right"
     },
     {

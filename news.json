@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-04T11:59:44Z",
+  "updated": "2026-08-04T14:00:09Z",
   "items": [
     {
       "title": "Author Correction: An agroecological perspective on systems-level transformations to keep current food systems from degrading the global commons",
@@ -42,42 +42,42 @@
       "screen": "left"
     },
     {
-      "title": "From macroscopic phase separation to microscopic interactions: effects of pH, mass ratio, and ionic strength on phase behavior and thermodynamic mechanism of whey protein isolate – fucoidan complexes",
+      "title": "MOF-based controlled-release patches for nitric oxide: fabrication, gas release profile, and preservation efficacy on cherry tomatoes",
       "abstract": "",
-      "authors": "Liyuan Zheng, Xing Chen, Guanxin Xie et al.",
+      "authors": "Mengting Zhao, Yingxue Tang, Xiaoyu Yin et al.",
       "published": "Oct 2026",
       "feedName": "Food Chemistry",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626027469?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626028141?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
     {
-      "title": "Patterns of flavonoid digestion influenced by molecular descriptors: machine learning reveals flavonoid structure-conversion rate relationships in blood orange juice",
+      "title": "Linkage-specific fucosylation patterns in human and bovine milk N -glycomes and their association with anti-inflammatory activity assessed in Caco-2 cells",
       "abstract": "",
-      "authors": "Xinyi Li, Weiyao Wu, Yuming Zhong et al.",
+      "authors": "Huibo Song, Bingqian Wei, Pengfei Li et al.",
       "published": "Oct 2026",
       "feedName": "Food Chemistry",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626025525?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626027421?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
     {
-      "title": "Enhanced functionality through conjugation: structural and functional characterization of chickpea albumin–hydrolyzed guar gum via Maillard reaction",
+      "title": "Lipidomics and volatilomics reveal lipid oxidation mechanisms in foxtail millet flour during storage",
       "abstract": "",
-      "authors": "Afsaneh Taheri, Wee Jian Cedric Sow, Juan Du",
+      "authors": "Rongjie Wen, Ligang Yu, Yongqiang Liang et al.",
       "published": "Oct 2026",
       "feedName": "Food Chemistry",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626027706?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626027913?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
     {
-      "title": "Pesticide residues in juice and wine: validation of a multi-method and a market survey with consumer risk assessment",
+      "title": "A plant protein-based fat texturizer: Enzymatic bioproduction and application in non-fat yogurt",
       "abstract": "",
-      "authors": "Helena Baša Česnik",
+      "authors": "Ishita Ghosh, Federico Harte, Yi Zhang",
       "published": "Oct 2026",
       "feedName": "Food Chemistry",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626027780?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626028025?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -152,12 +152,12 @@
       "screen": "left"
     },
     {
-      "title": "Understanding consumer resistance toward and acceptance of plant-based fish: An innovation resistance theory perspective",
+      "title": "SweetScope: An investigation of sweet taste perception in Dutch and UK consumers",
       "abstract": "",
-      "authors": "Sina Ahmadi Kaliji, Marzieh Aminravan, Carola Grebitus",
+      "authors": "Leoné Pretorius, Eva M. Čad, Monica Mars et al.",
       "published": "Dec 2026",
       "feedName": "Food Quality & Preference",
-      "url": "https://www.sciencedirect.com/science/article/pii/S095032932600217X?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0950329326002065?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -372,6 +372,16 @@
       "screen": "right"
     },
     {
+      "title": "A common sugar may help cancer cells break free and spread",
+      "abstract": "Chemotherapy-surviving ovarian cancer cells may release fructose to help neighboring tumor cells loosen, escape, and spread. The discovery suggests that sugary diets and cholesterol-lowering drugs could influence cancer progression, though the effects have not yet been confirmed in patients.",
+      "authors": "",
+      "published": "Aug 2026",
+      "feedName": "ScienceDaily Nutrition",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260802223426.htm",
+      "image": "https://www.sciencedaily.com/images/1920/cancer-cell-infecting-healthy-tissue.webp",
+      "screen": "right"
+    },
+    {
       "title": "A simple supplement could help the immune system fight cancer and viruses",
       "abstract": "Low arginine levels may allow cancer cells and viruses to slip past the immune system by reducing production of a crucial cellular warning protein. In mice, arginine-rich diets led to fewer colon tumors and milder viral infections, suggesting a simple supplement could have powerful therapeutic potential.",
       "authors": "",
@@ -389,16 +399,6 @@
       "feedName": "ScienceDaily Nutrition",
       "url": "https://www.sciencedaily.com/releases/2026/08/260801042831.htm",
       "image": "https://www.sciencedaily.com/images/1920/woman-measuring-tape-belly-fat-weight-loss.webp",
-      "screen": "right"
-    },
-    {
-      "title": "Eating less protein could slow aging, major review finds",
-      "abstract": "A sweeping review of more than 350 studies suggests that the protein boom may be overselling what many people actually need. Eating less protein appears to improve metabolism, reduce inflammation and cellular damage, and activate pathways linked to healthier aging and longer life.",
-      "authors": "",
-      "published": "Aug 2026",
-      "feedName": "ScienceDaily Nutrition",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260801042811.htm",
-      "image": "https://www.sciencedaily.com/images/1920/woman-holding-birthday-cake-for-100-year-old.webp",
       "screen": "right"
     },
     {
@@ -1000,7 +1000,7 @@
       "venue": "Water",
       "feedName": "Lab Research",
       "citationCount": 7,
-      "recentCitations": 0,
+      "recentCitations": 1,
       "s2_paper_id": "ac6397222c96e268d9875d49caffce160835579a",
       "url": "https://doi.org/10.3390/w14132047",
       "image": "",

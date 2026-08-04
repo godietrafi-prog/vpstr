@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-04T14:00:09Z",
+  "updated": "2026-08-04T16:13:43Z",
   "items": [
     {
       "title": "Author Correction: An agroecological perspective on systems-level transformations to keep current food systems from degrading the global commons",
@@ -282,6 +282,16 @@
       "screen": "left"
     },
     {
+      "title": "Unexpected bond-breaking order reveals a new path to bioluminescence",
+      "abstract": "The dancing lights of fireflies and the eerie blue sparkle in crashing waves get their glow when a molecular square of carbon and oxygen atoms breaks. New research from Stanford University has shown that mechanical force can cause that break to happen in a way different from what was previously known. The study, published in the Journal of the American Chemical Society, has implications for developing light sensors and understanding luminescence in nature.",
+      "authors": "",
+      "published": "Aug 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-08-unexpected-bond-reveals-path-bioluminescence.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/new-mechanism-explains-1.jpg",
+      "screen": "right"
+    },
+    {
       "title": "Four labs find experimental differences can undermine AI catalyst predictions",
       "abstract": "To turn abundant carbon dioxide into valuable fuel, we need a fast and efficient way to determine which catalysts work best over the longest time. AI models have the potential to help guide catalyst selection, but as with internet chatbots, AI models are only as good as the data you put into them.",
       "authors": "",
@@ -309,16 +319,6 @@
       "feedName": "Phys.org Analytics",
       "url": "https://phys.org/news/2026-08-catalyst-ethanol-electricity.html",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/skku-researchers-devel.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "Mechanical recycling contamination risks the circular plastics economy, but quality control analytics can help",
-      "abstract": "A study from the University of Manchester into the effects of polymer cross-contamination on the outcome of mechanically recycling plastics has found that the presence of contaminants radically alters degradation mechanisms.",
-      "authors": "",
-      "published": "Aug 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-08-mechanical-recycling-contamination-circular-plastics.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/mechanical-recycling-c.jpg",
       "screen": "right"
     },
     {
@@ -412,12 +412,12 @@
       "screen": "right"
     },
     {
-      "title": "The lancet commission obesity categories, excess adiposity, and BMI discordance in urban Chinese adults: a cross-sectional survey in Beijing",
-      "abstract": "IntroductionBMI remains central to obesity surveillance, but it does not distinguish excess adiposity from obesity-related disease. The Lancet Commission framework first confirms excess adiposity and then classifies individuals as having no obesity, preclinical obesity, or clinical obesity. We applied this framework using China-specific anthropometric cut points to estimate Lancet obesity categories, characterize clinical obesity, assess discordance with BMI categories, and examine related demographic and lifestyle factors in urban Chinese adults.MethodsWe analyzed data from the 2024 Haidian Chronic Disease and Risk Factor Surveillance, a stratified multistage probability cluster survey in urban Beijing. Excess adiposity was confirmed using BMI, waist circumference, and waist-to-height ratio. Lancet obesity categories were assigned after assessment of obesity-related complications. Survey-weighted prevalence estimates and ordinal logistic regression were used.ResultsThe final analytic sample included 8,130 adults aged 18–79 years. The weighted prevalence of excess adiposity was 41.2%, and the prevalence of clinical and preclinical obesity was 37.3% and 3.9%, respectively. The most frequent complications among participants with clinical obesity were metabolic impairment and hypertension. BMI categories were substantially discordant with Lancet obesity categories: clinical obesity was present in 5.3% of participants with BMI < 24 kg/m2 and 41.6% of those with BMI 24.0–27.9 kg/m2, whereas 3.4% of participants with BMI ≥28 kg/m2 had no obesity. Female sex was associated with lo…",
-      "authors": "Zhenyu Liu, Wendong Wang, Wendong Cao et al.",
+      "title": "Associations of the unhealthy plant-based diet index with hsCRP and BMI in Korean adults",
+      "abstract": "BackgroundThis study investigated the associations of the unhealthy Plant-based Diet Index (uPDI) with high-sensitivity C-reactive protein (hsCRP) and body mass index (BMI) using data from the 2022–2023 Korea National Health and Nutrition Examination Survey.MethodsThe study included adults aged 19–64 years, excluding individuals with implausible energy intake ( < 500 or >5,000 kcal/day), underweight status, or missing data, resulting in a final sample of 5,610 participants. The uPDI was calculated by summing energy-adjusted, quintile-based scores across 19 predefined food groups. Elevated hsCRP was defined as ≥3 mg/L, and obesity as BMI ≥ 25 kg/m2. Survey-weighted regression analyses were performed after adjustment for demographic and lifestyle covariates.ResultsAmong women, higher uPDI scores were positively associated with both hsCRP (p < 0.001) and BMI (p < 0.001) in multivariable-adjusted linear regression models. Logistic regression analyses revealed that higher uPDI scores correlated with elevated hsCRP (odds ratio [OR]: 2.043; 95% confidence interval [CI], 1.298–3.217; P-trend = 0.006) and obesity (OR: 1.876; 95% CI, 1.440–2.444; P-trend < 0.001). In contrast, no significant associations were identified in men across any model.ConclusionGreater adherence to an unhealthy plant-based dietary pattern was associated with increased inflammation and adiposity among Korean women. While sensitivity analyses consistently supported these findings, the cross-sectional design means these results indicate associations, not causal relationships.",
+      "authors": "Ara Yoo, Injoong Shin, Hyoyeon Son et al.",
       "published": "Aug 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1883408",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1836622",
       "image": "",
       "screen": "right"
     },

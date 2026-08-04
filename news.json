@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-04T16:13:43Z",
+  "updated": "2026-08-04T19:19:40Z",
   "items": [
     {
       "title": "Author Correction: An agroecological perspective on systems-level transformations to keep current food systems from degrading the global commons",
@@ -282,6 +282,16 @@
       "screen": "left"
     },
     {
+      "title": "AI tool may fix chemical plants' blueprints",
+      "abstract": "When Northeastern University industrial engineering student Sierre Ternoey started her research position in Aachen, Germany, she was challenged to fix an issue that frustrates chemical engineers worldwide.",
+      "authors": "",
+      "published": "Aug 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-08-ai-tool-chemical-blueprints.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/ai-tool-may-fix-chemic.jpg",
+      "screen": "right"
+    },
+    {
       "title": "Unexpected bond-breaking order reveals a new path to bioluminescence",
       "abstract": "The dancing lights of fireflies and the eerie blue sparkle in crashing waves get their glow when a molecular square of carbon and oxygen atoms breaks. New research from Stanford University has shown that mechanical force can cause that break to happen in a way different from what was previously known. The study, published in the Journal of the American Chemical Society, has implications for developing light sensors and understanding luminescence in nature.",
       "authors": "",
@@ -309,16 +319,6 @@
       "feedName": "Phys.org Analytics",
       "url": "https://phys.org/news/2026-08-ai-atom-movement-solid-state.html",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/new-ai-modeling-approa.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "Researchers develop a new catalyst to convert CO₂ into ethanol using electricity",
-      "abstract": "A research team led by Professor Hyoyoung Lee of the Department of Chemistry at Sungkyunkwan University has developed a new catalyst that converts carbon dioxide into ethanol with high selectivity. The study, titled \"Atomic-scale Cu–Zn synergy directs asymmetric C–C coupling for ethanol-selective CO2 electroreduction,\" was published in Applied Catalysis B: Environment and Energy.",
-      "authors": "",
-      "published": "Aug 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-08-catalyst-ethanol-electricity.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/skku-researchers-devel.jpg",
       "screen": "right"
     },
     {

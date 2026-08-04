@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-03T22:53:23Z",
+  "updated": "2026-08-04T01:43:20Z",
   "items": [
     {
       "title": "Author Correction: An agroecological perspective on systems-level transformations to keep current food systems from degrading the global commons",
@@ -282,6 +282,16 @@
       "screen": "left"
     },
     {
+      "title": "Four labs find experimental differences can undermine AI catalyst predictions",
+      "abstract": "To turn abundant carbon dioxide into valuable fuel, we need a fast and efficient way to determine which catalysts work best over the longest time. AI models have the potential to help guide catalyst selection, but as with internet chatbots, AI models are only as good as the data you put into them.",
+      "authors": "",
+      "published": "Aug 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-08-labs-experimental-differences-undermine-ai.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/for-ai-to-drive-scienc.jpg",
+      "screen": "right"
+    },
+    {
       "title": "AI models atom movement to predict solid-state reaction pathways, including impurities, in minutes",
       "abstract": "A research team at the Department of Energy's Lawrence Berkeley National Laboratory (Berkeley Lab) has successfully demonstrated an AI modeling approach that accurately and rapidly predicts how reactions between solid materials unfold over time. It is the first predictive model that accounts for how atoms travel through materials during solid-state reactions. Importantly, its predictions provide practical insights into the best recipes for making advanced materials.",
       "authors": "",
@@ -309,16 +319,6 @@
       "feedName": "Phys.org Analytics",
       "url": "https://phys.org/news/2026-08-mechanical-recycling-contamination-circular-plastics.html",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/mechanical-recycling-c.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "Why some nitrogen-processing enzymes are more efficient than others",
-      "abstract": "Nitrogen gas is abundant in Earth's atmosphere, but most living organisms can't readily use it. Only a subset of microbes with enzymes known as nitrogenases can break nitrogen gas apart and convert it into ammonia.",
-      "authors": "",
-      "published": "Aug 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-07-nitrogen-enzymes-efficient.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/why-some-nitrogen-proc.jpg",
       "screen": "right"
     },
     {

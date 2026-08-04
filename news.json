@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-04T21:02:59Z",
+  "updated": "2026-08-04T22:53:50Z",
   "items": [
     {
       "title": "Author Correction: An agroecological perspective on systems-level transformations to keep current food systems from degrading the global commons",
@@ -282,6 +282,26 @@
       "screen": "left"
     },
     {
+      "title": "New catalyst design selectively suppresses competing hydrogen reaction in ammonia synthesis",
+      "abstract": "A research team led by professor Yousung Jung from the Department of Chemical and Biological Engineering at Seoul National University College of Engineering has developed a new catalyst design principle that suppresses the hydrogen evolution reaction, which interferes with ammonia production, while maintaining the nitrogen reduction reaction that produces ammonia.",
+      "authors": "",
+      "published": "Aug 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-08-catalyst-suppresses-hydrogen-reaction-ammonia.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/snu-researchers-enhanc.jpg",
+      "screen": "right"
+    },
+    {
+      "title": "Electrocatalytic method could purify wastewater by converting pollutants into recoverable polymers",
+      "abstract": "Wastewater treatment is a critical issue for global environmental protection and public health. Researchers from The Hong Kong University of Science and Technology (HKUST) have recently achieved a major breakthrough with the discovery of a novel oxidant-free electrocatalytic mechanism, opening a new direction for water purification technologies. The findings are set to significantly improve pollutant identification efficiency and potentially double the economic feasibility compared with existing methods.",
+      "authors": "",
+      "published": "Aug 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-08-electrocatalytic-method-purify-wastewater-pollutants.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/hkust-pioneers-novel-w.jpg",
+      "screen": "right"
+    },
+    {
       "title": "AI tool may fix chemical plants' blueprints",
       "abstract": "When Northeastern University industrial engineering student Sierre Ternoey started her research position in Aachen, Germany, she was challenged to fix an issue that frustrates chemical engineers worldwide.",
       "authors": "",
@@ -299,26 +319,6 @@
       "feedName": "Phys.org Analytics",
       "url": "https://phys.org/news/2026-08-unexpected-bond-reveals-path-bioluminescence.html",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/new-mechanism-explains-1.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "Four labs find experimental differences can undermine AI catalyst predictions",
-      "abstract": "To turn abundant carbon dioxide into valuable fuel, we need a fast and efficient way to determine which catalysts work best over the longest time. AI models have the potential to help guide catalyst selection, but as with internet chatbots, AI models are only as good as the data you put into them.",
-      "authors": "",
-      "published": "Aug 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-08-labs-experimental-differences-undermine-ai.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/for-ai-to-drive-scienc.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "AI models atom movement to predict solid-state reaction pathways, including impurities, in minutes",
-      "abstract": "A research team at the Department of Energy's Lawrence Berkeley National Laboratory (Berkeley Lab) has successfully demonstrated an AI modeling approach that accurately and rapidly predicts how reactions between solid materials unfold over time. It is the first predictive model that accounts for how atoms travel through materials during solid-state reactions. Importantly, its predictions provide practical insights into the best recipes for making advanced materials.",
-      "authors": "",
-      "published": "Aug 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-08-ai-atom-movement-solid-state.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/new-ai-modeling-approa.jpg",
       "screen": "right"
     },
     {

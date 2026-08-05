@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-05T13:45:34Z",
+  "updated": "2026-08-05T15:56:26Z",
   "items": [
     {
       "title": "Author Correction: An agroecological perspective on systems-level transformations to keep current food systems from degrading the global commons",
@@ -282,6 +282,16 @@
       "screen": "left"
     },
     {
+      "title": "Noisy bubbles hinder ultrasound-boosted chemical reactions, sonochemistry model shows",
+      "abstract": "Ultrasound is a powerful way to drive chemical reactions. When high-frequency sound waves pass through a liquid, tiny bubbles form and then violently collapse in a process called acoustic cavitation. During this collapse, gas particles are forced together, creating temperatures inside the bubbles that can exceed 5,000 K—hotter than the surface of the sun—and driving chemical reactions.",
+      "authors": "",
+      "published": "Aug 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-08-noisy-hinder-ultrasound-boosted-chemical.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/noisy-bubbles-hinder-u.jpg",
+      "screen": "right"
+    },
+    {
       "title": "New catalyst design selectively suppresses competing hydrogen reaction in ammonia synthesis",
       "abstract": "A research team led by professor Yousung Jung from the Department of Chemical and Biological Engineering at Seoul National University College of Engineering has developed a new catalyst design principle that suppresses the hydrogen evolution reaction, which interferes with ammonia production, while maintaining the nitrogen reduction reaction that produces ammonia.",
       "authors": "",
@@ -309,16 +319,6 @@
       "feedName": "Phys.org Analytics",
       "url": "https://phys.org/news/2026-08-ai-tool-chemical-blueprints.html",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/ai-tool-may-fix-chemic.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "Unexpected bond-breaking order reveals a new path to bioluminescence",
-      "abstract": "The dancing lights of fireflies and the eerie blue sparkle in crashing waves get their glow when a molecular square of carbon and oxygen atoms breaks. New research from Stanford University has shown that mechanical force can cause that break to happen in a way different from what was previously known. The study, published in the Journal of the American Chemical Society, has implications for developing light sensors and understanding luminescence in nature.",
-      "authors": "",
-      "published": "Aug 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-08-unexpected-bond-reveals-path-bioluminescence.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/new-mechanism-explains-1.jpg",
       "screen": "right"
     },
     {
@@ -402,6 +402,16 @@
       "screen": "right"
     },
     {
+      "title": "Preoperative lactate dehydrogenase-to-albumin ratio as a nutrition–inflammation index associated with postoperative pneumonia after McKeown esophagectomy: a retrospective cohort study",
+      "abstract": "BackgroundPostoperative pneumonia is a frequent and clinically consequential complication after esophagectomy. The lactate dehydrogenase (LDH)-to-albumin ratio (LAR) integrates LDH-associated metabolic-inflammatory burden and albumin-associated nutritional-inflammatory reserve, but its association with postoperative pneumonia after McKeown esophagectomy remains unclear. This study evaluated whether preoperative LAR is associated with postoperative pneumonia in a clinically homogeneous, surgery-first cohort.MethodsWe retrospectively analyzed 467 consecutive patients with esophageal cancer who underwent curative-intent McKeown esophagectomy without neoadjuvant therapy between January 2022 and December 2024. LAR was calculated from LDH and albumin levels measured within 7 days before surgery and was analyzed primarily as a continuous variable. ROC-derived binary LAR was retained as a supplementary sensitivity analysis. The primary endpoint was postoperative pneumonia within 30 days. Discrimination was assessed using ROC analysis and DeLong’s test. Associations were evaluated using staged multivariable logistic regression analyses, restricted cubic spline analyses, decision curve analyses, subgroup and timing analyses, and LDH–albumin joint-effect analyses.ResultsPostoperative pneumonia occurred in 147 of 467 patients (31.5%). The median onset time was postoperative day (POD) 6 [interquartile range (IQR), 4–9], and 98 events (66.7%) occurred within the first postoperative week. LAR showed good discrimination for postoperative pneumonia (AUC = 0.803), with an optimal Youden inde…",
+      "authors": "Chao Liu, Xiang Gao, Bo Feng et al.",
+      "published": "Aug 2026",
+      "feedName": "Frontiers Nutrition",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1823767",
+      "image": "",
+      "screen": "right"
+    },
+    {
       "title": "Stevia-derived sweeteners in reduced-sugar foods: formulation strategies, sensory optimization, nutritional evidence, and safety perspectives",
       "abstract": "BackgroundExcessive intake of added sugars is an important contributor to obesity, type 2 diabetes mellitus (T2DM), dental caries, cardiovascular disease, and other metabolism-related disorders in humans. Stevia-derived sweeteners, particularly high-purity steviol glycosides (SGs), have been widely used in reduced-sugar and sugar-free foods because of their high sweetness intensity, low energy contribution, and plant-derived origin. However, their broader application remains limited by bitterness, lingering sweetness, licorice-like or herbal aftertaste, thin mouthfeel, and food-matrix dependence.MethodsThis narrative review critically summarizes the current evidence on stevia-derived sweeteners, focusing on taste perception and sensory-related signaling, sensory optimization, nutritional and metabolic evidence, food applications, safety, and regulatory requirements. This review also discusses the challenges and prospects of developing reduced-sugar foods.ResultsCurrent evidence indicates that high-purity SGs are important sucrose substitutes; however, their application performance is influenced by glycoside structure, sweet and bitter taste receptor interactions, central sensory processing, and food-matrix characteristics. Glycoside blending, enzymatic conversion, microbial fermentation, biocatalysis, structural modification, and food-matrix optimization can improve the sensory quality, acceptability, mouthfeel, and formulation compatibility of SGs. Nutritional and metabolic evidence suggests that SGs mainly reduce sugar and energy intake by substituting sucrose. At the sam…",
       "authors": "Lisha Wang, Tianying Chang, Wenkang Jia et al.",
@@ -412,12 +422,12 @@
       "screen": "right"
     },
     {
-      "title": "Artificial intelligence-driven food and nutrition systems: from smart food production to personalized nutrition",
-      "abstract": "Artificial Intelligence (AI) is rapidly emerging as a technology that integrates sectors such as food production, manufacturing, supply-chain management, diet-related information, and personalized nutrition. By integrating machine learning, computer vision, predictive analytics, robotics, and large language models, AI is reshaping how food is produced, processed, evaluated, and consumed. In primary production, it enhances precision agriculture and resource optimization. During processing and distribution, AI-driven automation, quality control, and predictive systems enhance efficiency, safety, and supply-chain resilience. At the consumer interface, adaptive dietary recommendation systems integrate user profiles, food composition databases, clinical biomarkers, omics profiles, and behavioral feedback to generate personalized recommendations. Emerging hybrid AI approaches that combine computational intelligence with established nutritional science are also improving dietary assessment. For example, image-based systems using convolutional neural networks and transformer architectures demonstrate promising capabilities in automated food recognition and intake estimation. Despite these advances, AI-driven food and nutrition systems remain in an early translational phase, with substantial challenges limiting widespread adoption. These include heterogeneous and incomplete datasets, limited real-world validation, insufficient model transparency, regulatory and ethical uncertainties, and unequal accessibility among small-scale producers and vulnerable populations. Addressing these b…",
-      "authors": "Xi Chen, Zimeng Cheng, Wenshuo Wang et al.",
+      "title": "Predictive value of preoperative and postoperative controlling nutritional status scores and their changes in older patients with large vessel occlusion stroke after endovascular thrombectomy",
+      "abstract": "BackgroundOver the past decade, endovascular thrombectomy (EVT) for acute large vessel occlusion (LVO) has advanced significantly. However, older patients who present with large-vessel occlusion and are treated with EVT tend to have poorer outcomes compared to younger individuals. This study aims to investigate whether preoperative and postoperative controlling nutritional status (CONUT) scores can predict clinical outcomes and their dynamic changes in older patients with large vessel occlusion stroke following EVT.MethodsA total of 441 patients with LVO who underwent EVT were enrolled from two stroke units. These patients were divided into a prospective training cohort and a prospective validation cohort. Based on the 90-day modified Rankin Scale (mRS) score, patients were categorized into either a favorable outcome group or an unfavorable outcome group. Univariate analysis and logistic regression were used to screen candidate predictors. A nomogram was developed to predict the risk of unfavorable outcomes. The predictive performance of the model was evaluated using receiver operating characteristic (ROC) curve analysis. Model calibration was assessed with the Hosmer–Lemeshow (H-L) test and calibration curves. Decision curve analysis (DCA) was applied to evaluate the clinical utility of the model.ResultsMultivariable logistic regression analysis revealed that admission NIHSS (OR = 1.096; 95% CI: 1.031–1.166; p = 0.005), ASPECTS on NCCT (OR = 0.598; 95% CI: 0.426–0.839; p = 0.001), LKW-to-puncture time (OR = 1.017; 95% CI: 1.012–1.022; p < 0.001) and CONUT (OR = 1.498; 95% …",
+      "authors": "Shiyuan Tian, Xuefang Ma, Xiaoyang Liu et al.",
       "published": "Aug 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1922164",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1838003",
       "image": "",
       "screen": "right"
     },
@@ -428,16 +438,6 @@
       "published": "Aug 2026",
       "feedName": "Frontiers Nutrition",
       "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1899085",
-      "image": "",
-      "screen": "right"
-    },
-    {
-      "title": "Preoperative lactate dehydrogenase-to-albumin ratio as a nutrition–inflammation index associated with postoperative pneumonia after McKeown esophagectomy: a retrospective cohort study",
-      "abstract": "BackgroundPostoperative pneumonia is a frequent and clinically consequential complication after esophagectomy. The lactate dehydrogenase (LDH)-to-albumin ratio (LAR) integrates LDH-associated metabolic-inflammatory burden and albumin-associated nutritional-inflammatory reserve, but its association with postoperative pneumonia after McKeown esophagectomy remains unclear. This study evaluated whether preoperative LAR is associated with postoperative pneumonia in a clinically homogeneous, surgery-first cohort.MethodsWe retrospectively analyzed 467 consecutive patients with esophageal cancer who underwent curative-intent McKeown esophagectomy without neoadjuvant therapy between January 2022 and December 2024. LAR was calculated from LDH and albumin levels measured within 7 days before surgery and was analyzed primarily as a continuous variable. ROC-derived binary LAR was retained as a supplementary sensitivity analysis. The primary endpoint was postoperative pneumonia within 30 days. Discrimination was assessed using ROC analysis and DeLong’s test. Associations were evaluated using staged multivariable logistic regression analyses, restricted cubic spline analyses, decision curve analyses, subgroup and timing analyses, and LDH–albumin joint-effect analyses.ResultsPostoperative pneumonia occurred in 147 of 467 patients (31.5%). The median onset time was postoperative day (POD) 6 [interquartile range (IQR), 4–9], and 98 events (66.7%) occurred within the first postoperative week. LAR showed good discrimination for postoperative pneumonia (AUC = 0.803), with an optimal Youden inde…",
-      "authors": "Chao Liu, Xiang Gao, Bo Feng et al.",
-      "published": "Aug 2026",
-      "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1823767",
       "image": "",
       "screen": "right"
     },

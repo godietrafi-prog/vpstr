@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-05T19:16:19Z",
+  "updated": "2026-08-05T21:00:12Z",
   "items": [
     {
       "title": "Targeting yield constraints with soil carbon",
@@ -282,6 +282,36 @@
       "screen": "left"
     },
     {
+      "title": "Catalyst converts CO₂ into high-value industrial chemical at room temperature with record efficiency",
+      "abstract": "A research team has developed a highly efficient catalyst that directly converts carbon dioxide—a major contributor to global warming—into high-value industrial 2-propanol. The research was published online in Applied Catalysis B: Environment and Energy.",
+      "authors": "",
+      "published": "Aug 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-08-catalyst-high-industrial-chemical-room.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/developing-world-leadi-4.jpg",
+      "screen": "right"
+    },
+    {
+      "title": "Accelerating the discovery of ceramic materials using cellulose nanofiber dispersions",
+      "abstract": "Ceramic materials are used everywhere, from smartphones and computers to electric vehicles and renewable energy systems. These materials are used in a wide range of technologies because of their unique electrical, magnetic and thermal properties. However, discovering new ceramic compositions with better performance remains a significant challenge because each candidate material must typically be synthesized and tested individually, involving multiple labor-intensive steps.",
+      "authors": "",
+      "published": "Aug 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-08-discovery-ceramic-materials-cellulose-nanofiber.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/accelerating-discovery.jpg",
+      "screen": "right"
+    },
+    {
+      "title": "How hydrogen can be produced from bio-based formic acid in a continuous process",
+      "abstract": "With annual production of around 1 million metric tons (1.1 million tons), formic acid is one of the most important basic chemicals and is used, among other things, as an additive in the animal feed industry. It is also increasingly attracting attention as an H2 carrier. To date, its production has relied on fossil raw materials, which are to be replaced in the long term by sustainable raw materials.",
+      "authors": "",
+      "published": "Aug 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-08-hydrogen-bio-based-formic-acid.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/how-hydrogen-can-be-pr.jpg",
+      "screen": "right"
+    },
+    {
       "title": "Noisy bubbles hinder ultrasound-boosted chemical reactions, sonochemistry model shows",
       "abstract": "Ultrasound is a powerful way to drive chemical reactions. When high-frequency sound waves pass through a liquid, tiny bubbles form and then violently collapse in a process called acoustic cavitation. During this collapse, gas particles are forced together, creating temperatures inside the bubbles that can exceed 5,000 K—hotter than the surface of the sun—and driving chemical reactions.",
       "authors": "",
@@ -289,36 +319,6 @@
       "feedName": "Phys.org Analytics",
       "url": "https://phys.org/news/2026-08-noisy-hinder-ultrasound-boosted-chemical.html",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/noisy-bubbles-hinder-u.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "New catalyst design selectively suppresses competing hydrogen reaction in ammonia synthesis",
-      "abstract": "A research team led by professor Yousung Jung from the Department of Chemical and Biological Engineering at Seoul National University College of Engineering has developed a new catalyst design principle that suppresses the hydrogen evolution reaction, which interferes with ammonia production, while maintaining the nitrogen reduction reaction that produces ammonia.",
-      "authors": "",
-      "published": "Aug 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-08-catalyst-suppresses-hydrogen-reaction-ammonia.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/snu-researchers-enhanc.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "Electrocatalytic method could purify wastewater by converting pollutants into recoverable polymers",
-      "abstract": "Wastewater treatment is a critical issue for global environmental protection and public health. Researchers from The Hong Kong University of Science and Technology (HKUST) have recently achieved a major breakthrough with the discovery of a novel oxidant-free electrocatalytic mechanism, opening a new direction for water purification technologies. The findings are set to significantly improve pollutant identification efficiency and potentially double the economic feasibility compared with existing methods.",
-      "authors": "",
-      "published": "Aug 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-08-electrocatalytic-method-purify-wastewater-pollutants.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/hkust-pioneers-novel-w.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "AI tool may fix chemical plants' blueprints",
-      "abstract": "When Northeastern University industrial engineering student Sierre Ternoey started her research position in Aachen, Germany, she was challenged to fix an issue that frustrates chemical engineers worldwide.",
-      "authors": "",
-      "published": "Aug 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-08-ai-tool-chemical-blueprints.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/ai-tool-may-fix-chemic.jpg",
       "screen": "right"
     },
     {

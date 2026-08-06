@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-06T04:57:58Z",
+  "updated": "2026-08-06T08:17:04Z",
   "items": [
     {
       "title": "Targeting yield constraints with soil carbon",
@@ -402,12 +402,22 @@
       "screen": "right"
     },
     {
-      "title": "Effect of high-dose intravenous vitamin C on organ support-free days within the first 14 days in severe acute pancreatitis patients: a multicenter, randomized, double-blind, placebo-controlled clinical trial protocol",
-      "abstract": "BackgroundThe global incidence of severe acute pancreatitis (SAP) is increasing, yet mortality rates remain persistently high. Novel therapeutic approaches are urgently needed to improve outcomes. The aim of this study is to evaluate the efficacy of high-dose intravenous vitamin C in improving organ support-free days within the first 14 days and other clinical outcomes in patients with SAP.MethodThis is a prospective, randomized, double-blind, multicenter clinical trial. Participants will be stratified and randomly assigned to either the HDIVC group or the control group. Data will be analyzed using SAS 9.4 with two-sided tests and a significance threshold of p < 0.05. This study will be conduct at eight hospitals in China, including Shanghai Jiao Tong University School of Medicine Affiliated Ruijin Hospital, Shanghai General Hospital, Changhai Hospital, Sichuan Provincial People’s Hospital, Chongqing Daping Hospital, The Second People’s Hospital of Chengdu, Guanghan People’s Hospital and Chongqing Emergency Medical Center. Eligible patients are adults (age ≥ 18 years) diagnosed with severe acute pancreatitis according to 2012 Atlanta classification within 7 days of onset. HDIVC (500 mg/kg, 2 g/h) or placebo (normal saline) will be administered via central vein for 7 days. The primary outcome is organ support-free days within the first 14 days. Secondary outcomes include ICU all-cause mortality, changes in inflammatory biomarkers, and organ failure scores.DiscussionIf proven effective, the results of this trial could establish high-dose intravenous vitamin C as a cost-effect…",
-      "authors": "Bing Zhao, Xianxian Yu, Haibo Zhang et al.",
+      "title": "Development and validation of a prognostic nutritional-inflammatory-immune score and web-based dynamic nomogram for gastric cancer following radical gastrectomy: a multicenter study",
+      "abstract": "IntroductionAlthough nutritional, inflammatory, and immune status are key factors in gastric cancer (GC) prognosis, tools integrating these three dimensions for survival prediction remain limited. We developed and internally validated a prognostic nutritional-inflammatory-immune (PNII) score and a dynamic nomogram to predict overall survival (OS) after radical gastrectomy.MethodsA total of 841 patients from five centers who underwent radical gastrectomy were randomly divided into a training cohort (n = 588) and an internal validation cohort (n = 253). The PNII score was constructed from 12 candidate preoperative biomarkers using LASSO Cox regression. A prognostic nomogram integrating the PNII score with clinicopathological variables was developed and internally validated.ResultsThe PNII score, comprising nutritional, inflammatory, and immune markers, was identified as an independent prognostic factor. High PNII scores were associated with adverse tumor characteristics and poorer OS. The nomogram incorporating PNII, age, pT stage, pN stage, and CA125 achieved a C-index of 0.754 in both cohorts and outperformed the base clinical model without PNII (ΔAUC = 0.014; DeLong p = 0.0325). Time-dependent ROC analysis yielded 5-year AUCs of 0.831 (training) and 0.823 (validation), and decision curve analysis indicated net clinical benefit.ConclusionThe PNII-based dynamic nomogram may serve as a promising postoperative risk-stratification tool for patients with GC. Independent external validation and prospective clinical evaluation are required before routine clinical use.",
+      "authors": "Changxin Yu, Zhen Wang, Shanshan Feng et al.",
       "published": "Aug 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1850105",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1858192",
+      "image": "",
+      "screen": "right"
+    },
+    {
+      "title": "Dose–structure–population interactions of protein supplementation combined with resistance training on body composition: a Bayesian network meta-analysis with dose–response modeling",
+      "abstract": "BackgroundProtein supplementation is frequently utilized in conjunction with resistance training for the purpose of enhancing muscle mass and strength. Nevertheless, the efficacy of different protein types, dosing thresholds, and population-specific effects is debatable.MethodsA systematic search was performed on PubMed, Web of Science, Scopus, SPORTDiscus, Cochrane CENTRAL, EMBASE databases through February 2026. RCTs comparing protein supplements (whey, casein, soy, pea, rice, milk, or blend) with placebo during supervised RT (≥6 weeks) were eligible. A Bayesian random-effects NMA was conducted using gemtc and JAGS. Dose–response curves were fitted with restricted cubic splines. The protocol was registered on PROSPERO (CRD420261340515).ResultsThirty-six RCTs (1,552 participants; 89 trial arms) formed a fully connected network of eight nodes. For LBM, whey protein ranked first (SUCRA = 0.91; MD vs. placebo: +1.24 kg, 95% CrI 0.61–1.87), followed by milk (SUCRA = 0.78; +1.18 kg) and casein (SUCRA = 0.72; +0.92 kg). The dose–response curve for whey indicated a plateau at 30–35 g/d. In older adults (≥65 years), the superiority of whey narrowed (SUCRA = 0.89 vs. 0.92 in younger adults), while casein’s SUCRA increased from 0.68 in younger adults to 0.76 in older adults. However, this subgroup analysis was based on only nine trials, and the observed ranking changes may be unstable. Model convergence was satisfactory (R̂̂ = 1.01; ESS = 3,420), and node-splitting detected no significant inconsistency (all p > 0.10).ConclusionAmong commonly available protein supplements, whey prote…",
+      "authors": "Yunxia Li, Gang Qin, Ziyu Wang et al.",
+      "published": "Aug 2026",
+      "feedName": "Frontiers Nutrition",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1860234",
       "image": "",
       "screen": "right"
     },
@@ -422,22 +432,12 @@
       "screen": "right"
     },
     {
-      "title": "Participant food tracking in psychiatric ketogenic metabolic therapy: an unresolved clinical, psychosocial, and implementation question",
-      "abstract": "Participant food tracking in psychiatric ketogenic metabolic therapy (KMT) varies across the metabolic psychiatry literature but is reported inconsistently rather than examined as a delivery decision with its own clinical rationale and consequences. This conceptual analysis develops a framework for participant food tracking in psychiatric KMT using metabolic psychiatry literature to identify variation in delivery models and draws on adjacent literatures relevant to dietary recording and reporting guidance for complex nonpharmacologic interventions. The framework is organized around three unresolved clinical questions: what assumptions about patient capacity shape who is taught to track and why; whether tracking functions as burden and/or treatment work, with implications for treatment ownership and continuity; and how short-term professional management relates to long-term treatment independence. Research priorities and potential methodologies are organized across ten interrelated domains that follow from these questions. To situate these questions, a supporting continuum maps variation in participant involvement across delivery approaches, from professionally managed models with no participant-generated record to higher levels of participant involvement in dietary recording. The framework offers a shared way to examine how participant food tracking is understood, assigned, and used in psychiatric KMT, and to investigate the clinical and psychosocial functions it serves within treatment.",
-      "authors": "Nicole Laurent",
+      "title": "Unveiling functional heterogeneity in pasteurized Akkermansia muciniphila identifies AKK2645 as a superior postbiotic for metabolic syndrome",
+      "abstract": "Metabolic syndrome (MetS) represents an escalating global health burden, underscoring an urgent need for innovative microbiome-targeted therapeutics. This investigation involved a systematic functional evaluation of 42 pasteurized Akkermansia muciniphila strains, providing the first direct evidence of significant differences among strains in their ability to alleviate MetS. Through systematic screening using cell and mouse models, we identified strain Akkermansia muciniphila YGMCC2645 (AKK2645) emerged as the lead candidate. Furthermore, it demonstrated superior and reproducible efficacy in attenuating diet-induced obesity, restoring glucose homeostasis, and ameliorating hepatic steatosis. AKK2645 uniquely modulated host immunity, decreasing pro-inflammatory cytokines (IL-6, IL-1β) and increasing anti-inflammatory markers (Il4, Il10, and Foxp3) in both adipose and hepatic tissues. It also favorably altered gut microbiota (increasing Akkermansia, Lactobacillus,and Bifidobacterium) and activated intestinal GLP-1 signaling. Collectively, these findings establish strain-specific functional heterogeneity as a fundamental principle governing postbiotic efficacy and identify AKK2645 as a high-potency, precision postbiotic for MetS intervention.",
+      "authors": "Yaqiong Li, Wenfang Song, Xiaoli Liu et al.",
       "published": "Aug 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1879746",
-      "image": "",
-      "screen": "right"
-    },
-    {
-      "title": "Development and validation of a prognostic nutritional-inflammatory-immune score and web-based dynamic nomogram for gastric cancer following radical gastrectomy: a multicenter study",
-      "abstract": "IntroductionAlthough nutritional, inflammatory, and immune status are key factors in gastric cancer (GC) prognosis, tools integrating these three dimensions for survival prediction remain limited. We developed and internally validated a prognostic nutritional-inflammatory-immune (PNII) score and a dynamic nomogram to predict overall survival (OS) after radical gastrectomy.MethodsA total of 841 patients from five centers who underwent radical gastrectomy were randomly divided into a training cohort (n = 588) and an internal validation cohort (n = 253). The PNII score was constructed from 12 candidate preoperative biomarkers using LASSO Cox regression. A prognostic nomogram integrating the PNII score with clinicopathological variables was developed and internally validated.ResultsThe PNII score, comprising nutritional, inflammatory, and immune markers, was identified as an independent prognostic factor. High PNII scores were associated with adverse tumor characteristics and poorer OS. The nomogram incorporating PNII, age, pT stage, pN stage, and CA125 achieved a C-index of 0.754 in both cohorts and outperformed the base clinical model without PNII (ΔAUC = 0.014; DeLong p = 0.0325). Time-dependent ROC analysis yielded 5-year AUCs of 0.831 (training) and 0.823 (validation), and decision curve analysis indicated net clinical benefit.ConclusionThe PNII-based dynamic nomogram may serve as a promising postoperative risk-stratification tool for patients with GC. Independent external validation and prospective clinical evaluation are required before routine clinical use.",
-      "authors": "Changxin Yu, Zhen Wang, Shanshan Feng et al.",
-      "published": "Aug 2026",
-      "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1858192",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1908600",
       "image": "",
       "screen": "right"
     },

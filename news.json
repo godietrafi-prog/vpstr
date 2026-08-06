@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-06T11:58:20Z",
+  "updated": "2026-08-06T14:02:38Z",
   "items": [
     {
       "title": "Targeting yield constraints with soil carbon",
@@ -82,6 +82,16 @@
       "screen": "left"
     },
     {
+      "title": "Ionic liquid and deep eutectic solvent-enabled food freshness sensing: From molecular interactions to integrated intelligent monitoring systems",
+      "abstract": "",
+      "authors": "Xinhui Zhou, Yuan Huang, Yuping Liu et al.",
+      "published": "Nov 2026",
+      "feedName": "Trends in Food Sci & Tech",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426004577?dgcid=rss_sd_all",
+      "image": "",
+      "screen": "left"
+    },
+    {
       "title": "Artificial intelligence and digital twins: pathways to climate-resilient, traceable and equitable global food supply chains",
       "abstract": "",
       "authors": "Orlando Borrás-Hidalgo, Fei Ding, Aly El Sheikha",
@@ -112,26 +122,6 @@
       "screen": "left"
     },
     {
-      "title": "From advanced food microbiology to regulatory decision-making: Translating omics and NGS findings into useable regulatory signals",
-      "abstract": "",
-      "authors": "Foteini F. Parlapani, Stephen O'Rourke, Ioannis S. Boziaris",
-      "published": "Oct 2026",
-      "feedName": "Trends in Food Sci & Tech",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426003900?dgcid=rss_sd_all",
-      "image": "",
-      "screen": "left"
-    },
-    {
-      "title": "Sweet and salty taste perception and acceptance in autistic and neurotypical Brazilian children and their relationships with eating behavior and dietary intake",
-      "abstract": "",
-      "authors": "Gabriella Roberta Correia Fonseca, Wanderson Roberto da Silva, Ana Carolina Conti",
-      "published": "Jan 2027",
-      "feedName": "Food Quality & Preference",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0950329326002247?dgcid=rss_sd_all",
-      "image": "",
-      "screen": "left"
-    },
-    {
       "title": "Normalizing eye-tracking metrics: Correcting area bias in visual attention studies",
       "abstract": "",
       "authors": "Alexandre Henrique Silas Souza, Katiúcia Alves Amorim, Louise Paiva Passos et al.",
@@ -158,6 +148,16 @@
       "published": "Dec 2026",
       "feedName": "Food Quality & Preference",
       "url": "https://www.sciencedirect.com/science/article/pii/S0950329326002144?dgcid=rss_sd_all",
+      "image": "",
+      "screen": "left"
+    },
+    {
+      "title": "SweetScope: An investigation of sweet taste perception in Dutch and UK consumers",
+      "abstract": "",
+      "authors": "Leoné Pretorius, Eva M. Čad, Monica Mars et al.",
+      "published": "Dec 2026",
+      "feedName": "Food Quality & Preference",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0950329326002065?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -402,32 +402,32 @@
       "screen": "right"
     },
     {
-      "title": "Development and validation of a prognostic nutritional-inflammatory-immune score and web-based dynamic nomogram for gastric cancer following radical gastrectomy: a multicenter study",
-      "abstract": "IntroductionAlthough nutritional, inflammatory, and immune status are key factors in gastric cancer (GC) prognosis, tools integrating these three dimensions for survival prediction remain limited. We developed and internally validated a prognostic nutritional-inflammatory-immune (PNII) score and a dynamic nomogram to predict overall survival (OS) after radical gastrectomy.MethodsA total of 841 patients from five centers who underwent radical gastrectomy were randomly divided into a training cohort (n = 588) and an internal validation cohort (n = 253). The PNII score was constructed from 12 candidate preoperative biomarkers using LASSO Cox regression. A prognostic nomogram integrating the PNII score with clinicopathological variables was developed and internally validated.ResultsThe PNII score, comprising nutritional, inflammatory, and immune markers, was identified as an independent prognostic factor. High PNII scores were associated with adverse tumor characteristics and poorer OS. The nomogram incorporating PNII, age, pT stage, pN stage, and CA125 achieved a C-index of 0.754 in both cohorts and outperformed the base clinical model without PNII (ΔAUC = 0.014; DeLong p = 0.0325). Time-dependent ROC analysis yielded 5-year AUCs of 0.831 (training) and 0.823 (validation), and decision curve analysis indicated net clinical benefit.ConclusionThe PNII-based dynamic nomogram may serve as a promising postoperative risk-stratification tool for patients with GC. Independent external validation and prospective clinical evaluation are required before routine clinical use.",
-      "authors": "Changxin Yu, Zhen Wang, Shanshan Feng et al.",
+      "title": "Lifestyle interventions targeting adiposity in adults with psoriasis: a systematic review and network meta-analysis",
+      "abstract": "ObjectiveExcess adiposity drives inflammation and impairs treatment response in psoriasis. We compared the effectiveness of dietary energy restriction, aerobic exercise, and combined diet–exercise interventions in adults with psoriasis and overweight or obesity.MethodsWe searched four English- and four Chinese-language databases from inception to 15 January 2026 for randomized controlled trials of low-energy diet (LED), aerobic exercise (AE), diet plus aerobic exercise (D+AE), or usual care (UC). Primary outcomes were body mass index (BMI), body weight, and waist circumference; secondary outcomes included Psoriasis Area and Severity Index (PASI). A Bayesian random-effects network meta-analysis was performed with UC as the reference; certainty of evidence was assessed with Confidence in Network Meta-Analysis (CINeMA).ResultsNine trials (1,066 participants) were included. Versus UC, LED produced the most consistent reductions in BMI (mean difference −2.89 kg/m2; 95% credible interval −4.78 to −0.73) and body weight (−7.97 kg; −13.07 to −0.81). The AE estimate was informed by only one trial and was highly uncertain. D+AE yielded the most favorable numerical PASI estimate (−2.48; −6.26 to 1.46), although the credible interval crossed the null. Certainty of evidence was low across outcomes.ConclusionLow-energy diet showed the most consistent short-term reductions in BMI and body weight, whereas effects on waist circumference and PASI remained uncertain. Given the sparse network and low certainty of evidence, comparisons between lifestyle strategies should be regarded as hypothes…",
+      "authors": "Ran Huo, Wenhao Li, Haoran Luo et al.",
       "published": "Aug 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1858192",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1912400",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Dose–structure–population interactions of protein supplementation combined with resistance training on body composition: a Bayesian network meta-analysis with dose–response modeling",
-      "abstract": "BackgroundProtein supplementation is frequently utilized in conjunction with resistance training for the purpose of enhancing muscle mass and strength. Nevertheless, the efficacy of different protein types, dosing thresholds, and population-specific effects is debatable.MethodsA systematic search was performed on PubMed, Web of Science, Scopus, SPORTDiscus, Cochrane CENTRAL, EMBASE databases through February 2026. RCTs comparing protein supplements (whey, casein, soy, pea, rice, milk, or blend) with placebo during supervised RT (≥6 weeks) were eligible. A Bayesian random-effects NMA was conducted using gemtc and JAGS. Dose–response curves were fitted with restricted cubic splines. The protocol was registered on PROSPERO (CRD420261340515).ResultsThirty-six RCTs (1,552 participants; 89 trial arms) formed a fully connected network of eight nodes. For LBM, whey protein ranked first (SUCRA = 0.91; MD vs. placebo: +1.24 kg, 95% CrI 0.61–1.87), followed by milk (SUCRA = 0.78; +1.18 kg) and casein (SUCRA = 0.72; +0.92 kg). The dose–response curve for whey indicated a plateau at 30–35 g/d. In older adults (≥65 years), the superiority of whey narrowed (SUCRA = 0.89 vs. 0.92 in younger adults), while casein’s SUCRA increased from 0.68 in younger adults to 0.76 in older adults. However, this subgroup analysis was based on only nine trials, and the observed ranking changes may be unstable. Model convergence was satisfactory (R̂̂ = 1.01; ESS = 3,420), and node-splitting detected no significant inconsistency (all p > 0.10).ConclusionAmong commonly available protein supplements, whey prote…",
-      "authors": "Yunxia Li, Gang Qin, Ziyu Wang et al.",
+      "title": "Early, midday, and late time-restricted eating impact on anthropometry and cardiometabolic health: a network meta-analysis of RCTs",
+      "abstract": "ObjectiveThis network meta-analysis (NMA) evaluates the physiological effects of early time-restricted eating (eTRE), midday TRE (mTRE), and late TRE (lTRE), with and without exercise (EX), calorie restriction (CR), and control on anthropometric and metabolic indices in adults with cardiometabolic risk factors.MethodsA comprehensive literature search was conducted in PubMed, Web of Science, Scopus, and Embase up to April 24, 2025. A Bayesian NMA was performed. Treatment effects were expressed as mean differences (MD) with 95% credible intervals (CrI). Intervention rankings were assessed using the surface under the cumulative ranking curve (SUCRA). Certainty of evidence was evaluated using the GRADE approach.ResultsThirty-nine randomized controlled trials including 3,236 participants were analyzed. Most interventions, except mTRE + EX, reduced anthropometric measures compared with control. eTRE reduced fasting blood glucose (MD −3.64 mg/dL, 95% CrI −5.93 to −1.36) and HOMA-IR (MD −0.42, 95% CrI −0.83 to −0.03), compared with control group. eTRE + EX reduced HOMA-IR (MD −1.33, 95% CrI −2.58 to −0.08). Across outcomes, eTRE + EX and eTRE consistently ranked highest according to SUCRA. Certainty of evidence ranged from very low to moderate for most anthropometric and metabolic outcomes.ConclusionAlthough clear differences between TRE patterns and CR were limited, consistent SUCRA rankings favored eTRE, particularly when combined with exercise, which may suggest a potential role of meal timing in metabolic regulation. However, these rankings should be interpreted cautiously, as …",
+      "authors": "Mohammed Hamsho, Wijdan Shkorfu, Merve Terzi et al.",
       "published": "Aug 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1860234",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1887087",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Age-specific association between dietary nutrient adequacy and self-rated health in Korean adolescents: a cross-sectional study based on the Korea National Health and Nutrition Examination Survey 2022–2024",
-      "abstract": "BackgroundSelf-rated health (SRH) reliably predicts mortality and chronic disease risk, yet the association between the mean adequacy ratio (MAR), a nutrient adequacy index, and SRH in Korean adolescents remains underexplored.MethodsThis cross-sectional study analyzed 1,053 adolescents aged 12–18 years from Korea National Health and Nutrition Examination Survey (KNHANES) 2022–2024, excluding those with extreme energy intakes for their sex and age group. MAR was calculated as the mean of nine nutrient adequacy ratios, each capped at 1.0 using the 2020 Korean Dietary Reference Intakes (KDRI). The dietary diversity score (DDS) was calculated from five food groups. SRH was dichotomized as good (1–2) or fair-to-poor (3–5), and associations were estimated using complex-sample logistic regression with a quasibinomial family.ResultsIn the fully adjusted model, higher MAR was associated with lower odds of fair-to-poor SRH (OR: 0.88, 95% CI: 0.78–0.99; p = 0.040). In exploratory analyses, this association was observed in adolescents aged 15–18 years (OR: 0.79, 95% CI: 0.68–0.93; p = 0.005) but not 12–14 years (OR: 1.02, 95% CI: 0.85–1.22; p = 0.851; age group interaction p = 0.017). DDS showed no association with fair-to-poor SRH (OR: 1.00, 95% CI: 0.83–1.21; p = 0.960). MAR was not associated with overweight (OR: 1.06, 95% CI: 0.91–1.23; p = 0.477) or abdominal obesity (OR: 1.03, 95% CI: 0.88–1.20; p = 0.737). A sensitivity analysis using the 2025 KDRI yielded consistent results: the primary association remained significant (OR: 0.87, 95% CI: 0.78–0.98; p = 0.027), and the age group…",
-      "authors": "Dongyoun Woo",
+      "title": "Participant food tracking in psychiatric ketogenic metabolic therapy: an unresolved clinical, psychosocial, and implementation question",
+      "abstract": "Participant food tracking in psychiatric ketogenic metabolic therapy (KMT) varies across the metabolic psychiatry literature but is reported inconsistently rather than examined as a delivery decision with its own clinical rationale and consequences. This conceptual analysis develops a framework for participant food tracking in psychiatric KMT using metabolic psychiatry literature to identify variation in delivery models and draws on adjacent literatures relevant to dietary recording and reporting guidance for complex nonpharmacologic interventions. The framework is organized around three unresolved clinical questions: what assumptions about patient capacity shape who is taught to track and why; whether tracking functions as burden and/or treatment work, with implications for treatment ownership and continuity; and how short-term professional management relates to long-term treatment independence. Research priorities and potential methodologies are organized across ten interrelated domains that follow from these questions. To situate these questions, a supporting continuum maps variation in participant involvement across delivery approaches, from professionally managed models with no participant-generated record to higher levels of participant involvement in dietary recording. The framework offers a shared way to examine how participant food tracking is understood, assigned, and used in psychiatric KMT, and to investigate the clinical and psychosocial functions it serves within treatment.",
+      "authors": "Nicole Laurent",
       "published": "Aug 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1880706",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1879746",
       "image": "",
       "screen": "right"
     },

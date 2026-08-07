@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-07T10:45:12Z",
+  "updated": "2026-08-07T12:42:05Z",
   "items": [
     {
       "title": "Responsible use of artificial intelligence and machine learning for food security early warning systems",
@@ -42,42 +42,52 @@
       "screen": "left"
     },
     {
-      "title": "Characterization of decolorized Chlorella pyrenoidosa protein foaming solution and its application in foam coffee",
+      "title": "Impact of nonthermal plasma on the nutritional and phenolic bioaccessibility characteristics of wheat bran",
       "abstract": "",
-      "authors": "Xinrui Tian, Mingzhang Zhao, Yu Zhou et al.",
+      "authors": "Reham Ahmed Khashaba, Yue Li, Bowen Cai et al.",
       "published": "Oct 2026",
       "feedName": "Food Chemistry",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626027846?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626027615?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
     {
-      "title": "Interactions mechanisms decoding of macadamia protein isolate-procyanidins dimer complexes and synergistic effect for high internal phase Pickering emulsions stabilization",
+      "title": "Does vegetable colour matter? A comparative assessment of bioactive composition and biological properties",
       "abstract": "",
-      "authors": "Tingting Chen, Zhipan Wang, Mingfeng Fang et al.",
+      "authors": "Aneta Wojdyło, Patrycja Wesołowska, Igor Piotr Turkiewicz et al.",
       "published": "Oct 2026",
       "feedName": "Food Chemistry",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626028177?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626027962?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
     {
-      "title": "Structure-property correlation of scheelite SrAO 4 (A = Mo and W) for electrochemical detection of quercetin: Experimental and DFT insights into the oxidation mechanism",
+      "title": "Lipid droplet remodeling during salt curing-induced lipolysis in porcine muscle: Insights from lipidomics",
       "abstract": "",
-      "authors": "Dhanashri D. Khandagale, Sea-Fue Wang",
+      "authors": "Jiajing Pan, Yiying Yu, Guofeng Jin et al.",
       "published": "Oct 2026",
       "feedName": "Food Chemistry",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626028104?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626028517?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
     {
-      "title": "Enhancing composite emulsion stability through electrostatic modulation of polysaccharides-whey protein isolate interactions for probiotic encapsulation",
+      "title": "Investigation of the effect of storage duration on aroma transformation in Shoumei white tea",
       "abstract": "",
-      "authors": "Wei-Gang Xin, Yu-Hang Jiang, Yu-Han Dong et al.",
+      "authors": "Zhiyuan Lin, Han Yan, Longyu Guo et al.",
       "published": "Oct 2026",
       "feedName": "Food Chemistry",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626028414?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626028323?dgcid=rss_sd_all",
+      "image": "",
+      "screen": "left"
+    },
+    {
+      "title": "Listening to fracture: A critical review of acoustic signature analysis in the objective assessment and sensory prediction of food crispness and crunchiness",
+      "abstract": "",
+      "authors": "Jalal Dehghannya, Michael Ngadi",
+      "published": "Nov 2026",
+      "feedName": "Trends in Food Sci & Tech",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426004723?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -108,16 +118,6 @@
       "published": "Oct 2026",
       "feedName": "Trends in Food Sci & Tech",
       "url": "https://www.sciencedirect.com/science/article/pii/S092422442600419X?dgcid=rss_sd_all",
-      "image": "",
-      "screen": "left"
-    },
-    {
-      "title": "The exclusion paradox: why food system reform requires conditional engagement with industry in policy deliberation for healthy and sustainable diets",
-      "abstract": "",
-      "authors": "Jimmy Chun Yu Louie",
-      "published": "Oct 2026",
-      "feedName": "Trends in Food Sci & Tech",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426004188?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -734,7 +734,7 @@
       "venue": "Advanced Functional Materials",
       "feedName": "Lab Research",
       "citationCount": 22,
-      "recentCitations": 0,
+      "recentCitations": 1,
       "s2_paper_id": "f8de42bddd0ecab555075b5f1e2cdce6f18f1a56",
       "url": "https://doi.org/10.1002/adfm.202306586",
       "image": "",

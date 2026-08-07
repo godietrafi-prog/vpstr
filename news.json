@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-07T12:42:05Z",
+  "updated": "2026-08-07T14:46:12Z",
   "items": [
     {
       "title": "Responsible use of artificial intelligence and machine learning for food security early warning systems",
@@ -122,6 +122,16 @@
       "screen": "left"
     },
     {
+      "title": "Explicit and indirect behavioral responses to plant-based foods across processing levels: An adaptation of the Leeds Food Preference Questionnaire",
+      "abstract": "",
+      "authors": "Juliana Melendrez-Ruiz, Laurence Dujourdy, Michel Visalli et al.",
+      "published": "Jan 2027",
+      "feedName": "Food Quality & Preference",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0950329326002259?dgcid=rss_sd_all",
+      "image": "",
+      "screen": "left"
+    },
+    {
       "title": "Sweet and salty taste perception and acceptance in autistic and neurotypical Brazilian children and their relationships with eating behavior and dietary intake",
       "abstract": "",
       "authors": "Gabriella Roberta Correia Fonseca, Wanderson Roberto da Silva, Ana Carolina Conti",
@@ -132,32 +142,22 @@
       "screen": "left"
     },
     {
+      "title": "Our culture tells us what, why and how to eat’: exploring food and nutrition literacy among Arab immigrants/refugees in Ontario, Canada- a community-based participatory research study",
+      "abstract": "",
+      "authors": "Sarah Elshahat, Tina Moffat, K. Bruce Newbold et al.",
+      "published": "Jan 2027",
+      "feedName": "Food Quality & Preference",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0950329326002211?dgcid=rss_sd_all",
+      "image": "",
+      "screen": "left"
+    },
+    {
       "title": "Normalizing eye-tracking metrics: Correcting area bias in visual attention studies",
       "abstract": "",
       "authors": "Alexandre Henrique Silas Souza, Katiúcia Alves Amorim, Louise Paiva Passos et al.",
       "published": "Dec 2026",
       "feedName": "Food Quality & Preference",
       "url": "https://www.sciencedirect.com/science/article/pii/S0950329326002120?dgcid=rss_sd_all",
-      "image": "",
-      "screen": "left"
-    },
-    {
-      "title": "Understanding consumer acceptance of meat alternatives: a literature review",
-      "abstract": "",
-      "authors": "John Deely, Maeve Henchion, Mary McCarthy",
-      "published": "Dec 2026",
-      "feedName": "Food Quality & Preference",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0950329326001886?dgcid=rss_sd_all",
-      "image": "",
-      "screen": "left"
-    },
-    {
-      "title": "Nudging healthier food choices among low socioeconomic position consumers: a field study in an Italian social supermarket",
-      "abstract": "",
-      "authors": "Cristina Mora, Rungsaran Wongprawmas, Davide Menozzi et al.",
-      "published": "Dec 2026",
-      "feedName": "Food Quality & Preference",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0950329326002144?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -362,6 +362,16 @@
       "screen": "right"
     },
     {
+      "title": "Vitamin C may fight cancer — but not the way scientists once thought",
+      "abstract": "Linus Pauling was widely mocked for claiming that vitamin C could fight cancer, especially after trials using vitamin C pills showed no benefit. Researchers now know that intravenous vitamin C reaches vastly higher concentrations and can behave more like an experimental cancer drug than an ordinary supplement. Early studies suggest it may damage vulnerable cancer cells, reduce treatment side effects, and possibly improve outcomes for some patients.",
+      "authors": "",
+      "published": "Aug 2026",
+      "feedName": "ScienceDaily Nutrition",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260806050717.htm",
+      "image": "https://www.sciencedaily.com/images/1920/vitamin-c-iv-drip.webp",
+      "screen": "right"
+    },
+    {
       "title": "Your brain may be wired to regain lost weight",
       "abstract": "Weight loss is not simply a test of willpower. The human brain evolved to protect body fat during times of scarcity, and it can treat a previously higher weight as the new normal, triggering stronger hunger, cravings, and lower energy use after weight loss. This biological “memory” helps explain why many people regain weight after dieting and why medications such as Wegovy and Mounjaro can help by reducing appetite signals, although their effects may fade when treatment ends.",
       "authors": "",
@@ -392,42 +402,32 @@
       "screen": "right"
     },
     {
-      "title": "This once-a-week workout may help cut belly fat, study shows",
-      "abstract": "A surprisingly small dose of exercise may deliver major health benefits for adults carrying excess fat around the waist. In a four-month trial involving 315 adults with central obesity, researchers found that completing 75 minutes of brisk interval walking in a single weekly session reduced body fat, trimmed waistlines, and improved cardiovascular fitness about as effectively as splitting the same exercise across three days.",
-      "authors": "",
-      "published": "Aug 2026",
-      "feedName": "ScienceDaily Nutrition",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260801042831.htm",
-      "image": "https://www.sciencedaily.com/images/1920/woman-measuring-tape-belly-fat-weight-loss.webp",
-      "screen": "right"
-    },
-    {
-      "title": "Harnessing diet to modulate inflammation and symptom progression in endometriosis",
-      "abstract": "Endometriosis (EMS) is an estrogen-dependent inflammatory disease affecting 10% of reproductive-age women, with up to 50% experiencing infertility. As primary care providers (PCPs) are often the first point of care, understanding dietary factors that influence EMS is crucial. This integrative review identifies dietary components that can modulate the inflammatory environment in EMS. Polyphenols like quercetin, apigenin, and curcumin demonstrated anti-inflammatory and anti-angiogenic effects by inhibiting key mediators like prostaglandins, cytokines, and matrix metalloproteinases. Phytoestrogens, vitamins (A, C, D, E), and minerals (magnesium, selenium, zinc) also exhibited protective effects by reducing oxidative stress and modulating immune function. Conversely, omega-6 fatty acids, trans fats, high glycemic index foods, and red meat consumption were associated with increased inflammation and EMS risk. Increasing intake of fruits, vegetables, omega-3 fatty acids, and dairy products may help alleviate EMS symptoms and progression. These dietary insights can empower PCPs to provide holistic, preventive care for EMS patients, even in areas that lack specialized resources.",
-      "authors": "Tyler Thompson, Valerie McAllister, Amanda Strong et al.",
+      "title": "Association of postoperative delayed bowel function recovery with weight and muscle loss at 6 months in colorectal cancer patients",
+      "abstract": "BackgroundDelayed bowel function recovery (DBFR) is a common postoperative complication after colorectal cancer (CRC) resection. This study aimed to investigate the association between postoperative DBFR and 6-month weight and muscle mass loss in patients with CRC, to inform optimized postoperative prognostic management.MethodsA total of 618 patients with CRC were prospectively enrolled. Body weight and five anthropometric parameters (including mid-upper arm circumference) were measured within 3 days before surgery. Skeletal muscle cross-sectional area at the L3 vertebral level was quantified using preoperative abdominal CT scans, with the skeletal muscle index (SMI) subsequently calculated. DBFR was defined as the absence of first flatus and defecation within 72 postoperative hours. All participants completed a 6-month follow-up, and body weight, SMI and the five anthropometric measurements were reassessed at the follow-up endpoint. Multivariate linear regression models were applied for statistical analyses.ResultsPostoperative DBFR was nominally or significantly correlated with lower final body weight, reduced SMI, decreased mid-upper arm circumference, calf circumference and hip circumference, as well as reduced triceps skinfold thickness at 6-month follow-up. Notably, DBFR was significantly associated with larger declines from baseline to follow-up in body weight, SMI, mid-upper arm circumference, calf circumference, waist circumference, hip circumference and triceps skinfold thickness.ConclusionPostoperative DBFR correlates with medium-term weight and skeletal muscle l…",
+      "authors": "Shuaichao Li, Shaoying Li, Tao Meng et al.",
       "published": "Aug 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1776512",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1827831",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Appetite for coping: a latent profile analysis of typological heterogeneity in nurse burnout and emotional eating",
-      "abstract": "ObjectiveTo identify the latent heterogeneous subtypes of burnout and emotional eating among Chinese clinical nurses, and to examine the predictive effects of monthly night shift frequency and years of work experience on subtype membership.MethodsA convenience and snowball sampling method was used to survey 360 practicing nurses in China from August 2025 to January 2026. Burnout and emotional eating/emotional undereating were measured using the Maslach Burnout Inventory-Human Services Survey (MBI-HSS) and the Adult Eating Behavior Questionnaire (AEBQ), respectively. Latent profile analysis (LPA) was conducted to identify subtypes, and multinomial logistic regression was used to examine predictors.ResultsLPA identified three distinct profiles: “Low Burnout-Adaptive Eating” (36.1%), “Moderate Burnout-Emotional Reactive” (47.8%), and “Severe Burnout-Maladaptive Coping” (16.1%). Multinomial logistic regression showed that each one-level increase in monthly night shift frequency was associated with a 72.6% higher risk of belonging to the severe burnout profile (OR = 1.726, p = 0.014). Each one-level increase in work experience significantly reduced the odds of being classified into the severe burnout profile by 28.2% (OR = 0.718, p = 0.026). Body Mass Index (BMI) was not a significant predictor.ConclusionThere is a substantial co-occurrence of burnout and emotional eating among Chinese nurses. Frequent night shifts serve as a key driver of resource depletion, while professional experience provides a stepwise protective effect. Nursing administrators should implement refined sche…",
-      "authors": "Xin Liang, Xiaoru Wu, Hanqing Zhang et al.",
+      "title": "Millet: a functional powerhouse against chronic lifestyle disease",
+      "abstract": "Chronic lifestyle diseases such as cardiovascular disease, type 2 diabetes, and obesity are increasing globally, now accounting for more than two-thirds of deaths worldwide. In this context, millets are regaining attention as nutrient-dense, climate-resilient grains from traditional diets. They are rich in protein, dietary fiber, essential vitamins, minerals, and bioactive compounds that contribute to improved metabolic health and overall well-being. This review compiles and synthesizes current scientific evidence on the nutritional composition, bioactive profile, and disease-modulating mechanisms of millets. It also explores the role of millets in gut microbiome modulation, particularly their prebiotic potential in stimulating the production of short-chain fatty acids (SCFAs) and enhancing gut barrier integrity. Furthermore, the review highlights innovative food applications, including the incorporation of millets into modern food products such as fortified flours, breakfast cereals, snack bars, and beverages. Millets have demonstrated the ability to blunt postprandial blood glucose spikes by up to 15%, reduce cholesterol levels by nearly 10%, and promote natural calorie regulation, thereby supporting weight management and metabolic balance. Their prebiotic fibers nourish beneficial gut bacteria, contributing to improved gut health and immune defense. By integrating traditional knowledge with modern nutritional science, millets emerge as promising functional foods for preventing and managing chronic lifestyle disorders. Promoting millet-based diets offers a sustainable and…",
+      "authors": "Suryapratap Ray, Gracy Anu Francis, Sri Sneha Jeyakumar et al.",
       "published": "Aug 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1884663",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1884184",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "The predictive value of malnutrition on the prognosis of severe respiratory failure in elderly patients: a multicenter retrospective study based on interpretable machine learning",
-      "abstract": "BackgroundElderly patients (≥65 years) with respiratory failure in the ICU have high mortality. Malnutrition worsens outcomes but is often overlooked. This study investigates nutritional status as a predictor of 28-day mortality and develops an interpretable machine learning-based model for early risk stratification.Materials and methodsThis multicenter retrospective study enrolled elderly patients (≥65 years) with respiratory failure. The internal cohort came from the MIMIC-IV database, and the external validation cohort from Binzhou Medical University Hospital. Multivariable Cox regression analyzed the associations of the Prognostic Nutritional Index (PNI), Hemoglobin-Albumin-Lymphocyte-Platelet (HALP) score, and Geriatric Nutritional Risk Index (GNRI) with 28-day all-cause mortality. Restricted cubic spline and Kaplan–Meier curves explored dose–response relationships and survival differences. The internal cohort was randomly split into training (70%) and testing (30%) sets. The Boruta algorithm combined with LASSO regression selected prognostic features from laboratory tests, vital signs, and demographics. Six machine learning algorithms were built and validated by five-fold cross-validation. Model performance was assessed using calibration curves and decision curve analysis. SHAP was used for interpretability.ResultAmong 1,385 patients, the 28-day mortality was 29.03%. In fully adjusted Cox models, all three indices as continuous variables were significantly inversely associated with mortality risk (PNI: HR = 0.966, 95% CI: 0.952–0.979, p < 0.001; HALP: HR = 0.994, 95% …",
-      "authors": "Xi Wang, Shipeng Ma, Henglu Wang",
+      "title": "Correction: Adaptation of the orthorexia beliefs scale into Turkish: a validity and reliability study",
+      "abstract": "",
+      "authors": "Selen Köksal, İlayda Temizarabacı, Sevde Cantürk et al.",
       "published": "Aug 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1833732",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1947568",
       "image": "",
       "screen": "right"
     },

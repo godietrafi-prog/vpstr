@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-07T20:31:32Z",
+  "updated": "2026-08-07T22:27:12Z",
   "items": [
     {
       "title": "Responsible use of artificial intelligence and machine learning for food security early warning systems",
@@ -282,6 +282,16 @@
       "screen": "left"
     },
     {
+      "title": "Creating cleaner chemical reactions that run on oxygen and produce only water as waste",
+      "abstract": "Oxygen provides the driving force for many vital chemical reactions. Two well-known examples include respiration, the process that allows living things to break down food to release its energy, and combustion, reactions that produce heat and light. But oxygen has an unusual electronic configuration that tends to slow reactions with organic matter, so reactions often need help to get started. In nature, specialized proteins called enzymes can activate oxygen on demand by first rearranging its electrons.",
+      "authors": "",
+      "published": "Aug 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-08-cleaner-chemical-reactions-oxygen.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/creating-chemical-reac-1.jpg",
+      "screen": "right"
+    },
+    {
       "title": "Photocatalytic method cleaves strong C–H bonds while preserving weaker C–Si bonds",
       "abstract": "α-Silyl alcohols are unique organosilicon compounds bearing a silyl group and a hydroxy group on the same carbon atom. Because these compounds serve as precursors to reactive species, such as carbanions and carbon radicals, they are pivotal building blocks for synthesizing pharmaceuticals and functional materials. However, their synthesis often requires multistep procedures and suffers from poor functional group tolerance. Developing simpler and more versatile synthetic methodologies has therefore become increasingly important.",
       "authors": "",
@@ -309,16 +319,6 @@
       "feedName": "Phys.org Analytics",
       "url": "https://phys.org/news/2026-08-black-silicon-catalyst-carbon-dioxide.html",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/turning-carbon-dioxide.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "Catalyst converts CO₂ into high-value industrial chemical at room temperature with record efficiency",
-      "abstract": "A research team has developed a highly efficient catalyst that directly converts carbon dioxide—a major contributor to global warming—into high-value industrial 2-propanol. The research was published online in Applied Catalysis B: Environment and Energy.",
-      "authors": "",
-      "published": "Aug 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-08-catalyst-high-industrial-chemical-room.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/developing-world-leadi-4.jpg",
       "screen": "right"
     },
     {

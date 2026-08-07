@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-07T14:46:12Z",
+  "updated": "2026-08-07T16:42:56Z",
   "items": [
     {
       "title": "Responsible use of artificial intelligence and machine learning for food security early warning systems",
@@ -242,6 +242,26 @@
       "screen": "left"
     },
     {
+      "title": "Chlorine dioxide injures Shigella flexneri , weakens biofilms, and produces a VBNC-like phenotype under cold stress: matrix-limited efficacy in broccoli wash water",
+      "abstract": "",
+      "authors": "Yalin Li, Yongqi Chen, Yanling Gao et al.",
+      "published": "Jan 2027",
+      "feedName": "Food Microbiology",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0740002026002224?dgcid=rss_sd_all",
+      "image": "",
+      "screen": "left"
+    },
+    {
+      "title": "Genomic sequencing reveals htpX is a novel spoilage factor from foodborne pathogen Aeromonas veronii : Insights into extracellular enzymes, biofilm formation, stress tolerance, virulence and spoilage",
+      "abstract": "",
+      "authors": "Xiaoqi Tang, Guihong He, Desheng Wang et al.",
+      "published": "Jan 2027",
+      "feedName": "Food Microbiology",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0740002026002248?dgcid=rss_sd_all",
+      "image": "",
+      "screen": "left"
+    },
+    {
       "title": "Isolation and identification of three antagonistic strains against kiwifruit soft rot, study on antibacterial mechanism, and preparation of composite biocontrol agents",
       "abstract": "",
       "authors": "Zhengfeng Liu, Longfei Wang, Zhangyang Wang et al.",
@@ -258,26 +278,6 @@
       "published": "Jan 2027",
       "feedName": "Food Microbiology",
       "url": "https://www.sciencedirect.com/science/article/pii/S0740002026002212?dgcid=rss_sd_all",
-      "image": "",
-      "screen": "left"
-    },
-    {
-      "title": "Enhancing pectin degradation and improving nutritional accessibility in potato pulp through co-fermentation: From molecular structure to nutrient release",
-      "abstract": "",
-      "authors": "Yang Zhao, Chenxi Li, Ziyi Guo et al.",
-      "published": "Jan 2027",
-      "feedName": "Food Microbiology",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0740002026002194?dgcid=rss_sd_all",
-      "image": "",
-      "screen": "left"
-    },
-    {
-      "title": "Physicochemical properties of plasma activated water and artificial plasma activated water and their bactericidal efficacy against Salmonella spp. over 21 days of storage",
-      "abstract": "",
-      "authors": "Tereza Měřínská, Mitchell Walker, Kevin Keener",
-      "published": "Jan 2027",
-      "feedName": "Food Microbiology",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0740002026002145?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -402,32 +402,22 @@
       "screen": "right"
     },
     {
-      "title": "Association of postoperative delayed bowel function recovery with weight and muscle loss at 6 months in colorectal cancer patients",
-      "abstract": "BackgroundDelayed bowel function recovery (DBFR) is a common postoperative complication after colorectal cancer (CRC) resection. This study aimed to investigate the association between postoperative DBFR and 6-month weight and muscle mass loss in patients with CRC, to inform optimized postoperative prognostic management.MethodsA total of 618 patients with CRC were prospectively enrolled. Body weight and five anthropometric parameters (including mid-upper arm circumference) were measured within 3 days before surgery. Skeletal muscle cross-sectional area at the L3 vertebral level was quantified using preoperative abdominal CT scans, with the skeletal muscle index (SMI) subsequently calculated. DBFR was defined as the absence of first flatus and defecation within 72 postoperative hours. All participants completed a 6-month follow-up, and body weight, SMI and the five anthropometric measurements were reassessed at the follow-up endpoint. Multivariate linear regression models were applied for statistical analyses.ResultsPostoperative DBFR was nominally or significantly correlated with lower final body weight, reduced SMI, decreased mid-upper arm circumference, calf circumference and hip circumference, as well as reduced triceps skinfold thickness at 6-month follow-up. Notably, DBFR was significantly associated with larger declines from baseline to follow-up in body weight, SMI, mid-upper arm circumference, calf circumference, waist circumference, hip circumference and triceps skinfold thickness.ConclusionPostoperative DBFR correlates with medium-term weight and skeletal muscle l…",
-      "authors": "Shuaichao Li, Shaoying Li, Tao Meng et al.",
+      "title": "Appetite for coping: a latent profile analysis of typological heterogeneity in nurse burnout and emotional eating",
+      "abstract": "ObjectiveTo identify the latent heterogeneous subtypes of burnout and emotional eating among Chinese clinical nurses, and to examine the predictive effects of monthly night shift frequency and years of work experience on subtype membership.MethodsA convenience and snowball sampling method was used to survey 360 practicing nurses in China from August 2025 to January 2026. Burnout and emotional eating/emotional undereating were measured using the Maslach Burnout Inventory-Human Services Survey (MBI-HSS) and the Adult Eating Behavior Questionnaire (AEBQ), respectively. Latent profile analysis (LPA) was conducted to identify subtypes, and multinomial logistic regression was used to examine predictors.ResultsLPA identified three distinct profiles: “Low Burnout-Adaptive Eating” (36.1%), “Moderate Burnout-Emotional Reactive” (47.8%), and “Severe Burnout-Maladaptive Coping” (16.1%). Multinomial logistic regression showed that each one-level increase in monthly night shift frequency was associated with a 72.6% higher risk of belonging to the severe burnout profile (OR = 1.726, p = 0.014). Each one-level increase in work experience significantly reduced the odds of being classified into the severe burnout profile by 28.2% (OR = 0.718, p = 0.026). Body Mass Index (BMI) was not a significant predictor.ConclusionThere is a substantial co-occurrence of burnout and emotional eating among Chinese nurses. Frequent night shifts serve as a key driver of resource depletion, while professional experience provides a stepwise protective effect. Nursing administrators should implement refined sche…",
+      "authors": "Xin Liang, Xiaoru Wu, Hanqing Zhang et al.",
       "published": "Aug 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1827831",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1884663",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Millet: a functional powerhouse against chronic lifestyle disease",
-      "abstract": "Chronic lifestyle diseases such as cardiovascular disease, type 2 diabetes, and obesity are increasing globally, now accounting for more than two-thirds of deaths worldwide. In this context, millets are regaining attention as nutrient-dense, climate-resilient grains from traditional diets. They are rich in protein, dietary fiber, essential vitamins, minerals, and bioactive compounds that contribute to improved metabolic health and overall well-being. This review compiles and synthesizes current scientific evidence on the nutritional composition, bioactive profile, and disease-modulating mechanisms of millets. It also explores the role of millets in gut microbiome modulation, particularly their prebiotic potential in stimulating the production of short-chain fatty acids (SCFAs) and enhancing gut barrier integrity. Furthermore, the review highlights innovative food applications, including the incorporation of millets into modern food products such as fortified flours, breakfast cereals, snack bars, and beverages. Millets have demonstrated the ability to blunt postprandial blood glucose spikes by up to 15%, reduce cholesterol levels by nearly 10%, and promote natural calorie regulation, thereby supporting weight management and metabolic balance. Their prebiotic fibers nourish beneficial gut bacteria, contributing to improved gut health and immune defense. By integrating traditional knowledge with modern nutritional science, millets emerge as promising functional foods for preventing and managing chronic lifestyle disorders. Promoting millet-based diets offers a sustainable and…",
-      "authors": "Suryapratap Ray, Gracy Anu Francis, Sri Sneha Jeyakumar et al.",
+      "title": "Assessing maladaptive sugar-rich food consumption: development and preliminary validation of the sugar misuse questionnaire",
+      "abstract": "ObjectiveExcessive consumption of sugar-rich foods is associated with adverse metabolic and health outcomes. Beyond the amount of sugar consumed, growing evidence suggests that some individuals experience maladaptive patterns of sugar-rich food consumption characterized by craving, loss of control, and persistence despite negative consequences. However, existing instruments primarily assess general food addiction or eating disorders and may not adequately capture behavioral patterns specifically related to sugar-rich products.MethodThe sugar misuse questionnaire (SuMQ) was developed using a mixed-methods approach. First, a qualitative study was conducted with individuals reporting severe difficulties related to sugar-rich food consumption to identify salient experiential dimensions of sugar misuse (SuM). Key themes were extracted through thematic analysis and used to generate questionnaire items. Second, the psychometric properties of the SuMQ were evaluated in a general population sample. Item functioning and scale structure were examined using Rasch modeling, followed by dimensionality analyses. ROC analyses were conducted to explore preliminary severity thresholds.ResultsQualitative analyses identified 25 recurrent concepts related to maladaptive sugar-rich food consumption, which informed the initial version of the questionnaire. Rasch analysis supported a reduced 11-item version with strong internal consistency and a unidimensional structure. Exploratory threshold analyses identified score ranges associated with higher self-reported severity of SuM.DiscussionThe SuMQ p…",
+      "authors": "Pascal Perney, Raphaël Trouillet, Sophie Schuldiner et al.",
       "published": "Aug 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1884184",
-      "image": "",
-      "screen": "right"
-    },
-    {
-      "title": "Correction: Adaptation of the orthorexia beliefs scale into Turkish: a validity and reliability study",
-      "abstract": "",
-      "authors": "Selen Köksal, İlayda Temizarabacı, Sevde Cantürk et al.",
-      "published": "Aug 2026",
-      "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1947568",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1855019",
       "image": "",
       "screen": "right"
     },
@@ -438,6 +428,16 @@
       "published": "Aug 2026",
       "feedName": "Frontiers Nutrition",
       "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1784385",
+      "image": "",
+      "screen": "right"
+    },
+    {
+      "title": "Probiotics and iron bioavailability: mechanisms, clinical evidence, and translational applications—a comprehensive review of the probiotic strain Lactiplantibacillus plantarum 299v (LP299V®)",
+      "abstract": "Iron deficiency remains the most prevalent micronutrient deficiency globally, driven in large part by the limited bioavailability of non-heme iron and compounded by dietary inhibitors, inflammation-mediated hepcidin regulation, and challenges associated with conventional iron supplementation. Health effects of prolonged iron deficiency include heart irregularities, weakened immunity, and cognitive impairment. Growing evidence highlights the gut microbiome as a key modulator of nutrient absorption, with probiotics emerging as a promising adjunctive strategy. Among these, the Lactiplantibacillus plantarum strain Lp299v (LP299V®, proprietary strain of Probi®) has demonstrated consistent efficacy in enhancing non-heme iron bioavailability through multiple complementary mechanisms, including luminal acidification via organic acid production, stabilization and chelation of soluble iron complexes, facilitation of ferric-to-ferrous reduction, and potential mitigation of inhibitors such as phytates. Additional effects on host physiology, such as improved intestinal barrier function, increased short-chain fatty acid production, and attenuation of inflammation, further support its role in optimizing iron uptake. The present review gives an overview of how probiotic strains may modulate iron absorption, and more specifically focuses on describing effects obtained with the Lp299v strain. Ten peer-reviewed clinical studies have described the effects of Lp299v for increasing iron absorption. Human isotope studies show that Lp299v increases fractional iron absorption by approximately 20–50…",
+      "authors": "Brandy Webb, Mary Farrell, Caroline Montelius et al.",
+      "published": "Aug 2026",
+      "feedName": "Frontiers Nutrition",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1905459",
       "image": "",
       "screen": "right"
     },
@@ -714,8 +714,8 @@
       "published": "2023",
       "venue": "ACS Applied Materials and Interfaces",
       "feedName": "Lab Research",
-      "citationCount": 17,
-      "recentCitations": 0,
+      "citationCount": 18,
+      "recentCitations": 1,
       "s2_paper_id": "0cd0b8a2502ea570ed30a29089c9004f8ad62735",
       "url": "https://doi.org/10.1021/acsami.3c06230",
       "image": "",

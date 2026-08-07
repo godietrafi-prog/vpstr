@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-07T16:42:56Z",
+  "updated": "2026-08-07T18:41:21Z",
   "items": [
     {
       "title": "Responsible use of artificial intelligence and machine learning for food security early warning systems",
@@ -282,6 +282,16 @@
       "screen": "left"
     },
     {
+      "title": "Photocatalytic method cleaves strong C–H bonds while preserving weaker C–Si bonds",
+      "abstract": "α-Silyl alcohols are unique organosilicon compounds bearing a silyl group and a hydroxy group on the same carbon atom. Because these compounds serve as precursors to reactive species, such as carbanions and carbon radicals, they are pivotal building blocks for synthesizing pharmaceuticals and functional materials. However, their synthesis often requires multistep procedures and suffers from poor functional group tolerance. Developing simpler and more versatile synthetic methodologies has therefore become increasingly important.",
+      "authors": "",
+      "published": "Aug 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-08-photocatalytic-method-cleaves-strong-ch.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/radical-but-selective.jpg",
+      "screen": "right"
+    },
+    {
       "title": "Observing key material properties atom by atom for the first time",
       "abstract": "Many material properties depend on how electrons are arranged inside a material. Their distribution determines, for example, whether a material conducts electricity or displays magnetic behavior. Understanding how electrons organize themselves at the atomic scale is therefore one of the major challenges in materials science. Now, a team led by researchers at the Institute of Materials Science of Barcelona (ICMAB-CSIC) has developed a new technique that, for the first time, reveals how electrons are organized inside materials with an unprecedented level of detail.",
       "authors": "",
@@ -309,16 +319,6 @@
       "feedName": "Phys.org Analytics",
       "url": "https://phys.org/news/2026-08-catalyst-high-industrial-chemical-room.html",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/developing-world-leadi-4.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "Accelerating the discovery of ceramic materials using cellulose nanofiber dispersions",
-      "abstract": "Ceramic materials are used everywhere, from smartphones and computers to electric vehicles and renewable energy systems. These materials are used in a wide range of technologies because of their unique electrical, magnetic and thermal properties. However, discovering new ceramic compositions with better performance remains a significant challenge because each candidate material must typically be synthesized and tested individually, involving multiple labor-intensive steps.",
-      "authors": "",
-      "published": "Aug 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-08-discovery-ceramic-materials-cellulose-nanofiber.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/accelerating-discovery.jpg",
       "screen": "right"
     },
     {

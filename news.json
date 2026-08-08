@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-08T14:23:42Z",
+  "updated": "2026-08-08T16:21:47Z",
   "items": [
     {
       "title": "Responsible use of artificial intelligence and machine learning for food security early warning systems",
@@ -82,6 +82,26 @@
       "screen": "left"
     },
     {
+      "title": "Tropical fruit-derived starches as emerging bioeconomic resources: Extraction, physicochemical properties, and applications (2020–2025): A systematic review",
+      "abstract": "",
+      "authors": "Rosely Carvalho do Rosario, Ana Jhennyfer da Silva Moreira, Orquidea Vasconcelos dos Santos",
+      "published": "Nov 2026",
+      "feedName": "Trends in Food Sci & Tech",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426004449?dgcid=rss_sd_all",
+      "image": "",
+      "screen": "left"
+    },
+    {
+      "title": "Bio-based gas-responsive food packaging: From dynamic microenvironment regulation to real-time freshness monitoring",
+      "abstract": "",
+      "authors": "Ruiting Tao, Chenrui Ouyang, Jiangbo Wang et al.",
+      "published": "Nov 2026",
+      "feedName": "Trends in Food Sci & Tech",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426004590?dgcid=rss_sd_all",
+      "image": "",
+      "screen": "left"
+    },
+    {
       "title": "Listening to fracture: A critical review of acoustic signature analysis in the objective assessment and sensory prediction of food crispness and crunchiness",
       "abstract": "",
       "authors": "Jalal Dehghannya, Michael Ngadi",
@@ -98,26 +118,6 @@
       "published": "Nov 2026",
       "feedName": "Trends in Food Sci & Tech",
       "url": "https://www.sciencedirect.com/science/article/pii/S0924224426004577?dgcid=rss_sd_all",
-      "image": "",
-      "screen": "left"
-    },
-    {
-      "title": "Artificial intelligence and digital twins: pathways to climate-resilient, traceable and equitable global food supply chains",
-      "abstract": "",
-      "authors": "Orlando Borrás-Hidalgo, Fei Ding, Aly El Sheikha",
-      "published": "Oct 2026",
-      "feedName": "Trends in Food Sci & Tech",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426004450?dgcid=rss_sd_all",
-      "image": "",
-      "screen": "left"
-    },
-    {
-      "title": "Microscopy that still matters: The regulatory utility of the Howard Mold Count (HMC) for food decomposition",
-      "abstract": "",
-      "authors": "Monica Pava-Ripoll, Tim Jackson, Solomon Gebru et al.",
-      "published": "Oct 2026",
-      "feedName": "Trends in Food Sci & Tech",
-      "url": "https://www.sciencedirect.com/science/article/pii/S092422442600419X?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -362,6 +362,26 @@
       "screen": "right"
     },
     {
+      "title": "Cutting sweet foods doesn’t curb cravings or improve health",
+      "abstract": "Changing how much sweet-tasting food people eat may not change how much they crave or enjoy sweetness after all. In a six-month trial, researchers found that people assigned to high-, low-, or average-sweetness diets showed no meaningful differences in their preference for sweet foods, body weight, or markers linked to diabetes and heart disease. Many participants also drifted back toward their previous eating habits once the trial ended.",
+      "authors": "",
+      "published": "Aug 2026",
+      "feedName": "ScienceDaily Nutrition",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260807235103.htm",
+      "image": "https://www.sciencedaily.com/images/1920/woman-eating-cake-refrigerator.webp",
+      "screen": "right"
+    },
+    {
+      "title": "Scientists reveal how much exercise you really need to protect your heart",
+      "abstract": "Getting the recommended 150 minutes of moderate-to-vigorous exercise each week may offer only modest protection against heart attacks and strokes. A large study suggests that substantially greater benefits may require roughly 560 to 610 minutes a week—nearly 9 to 10 hours of brisk walking, running, cycling, or similar activity.",
+      "authors": "",
+      "published": "Aug 2026",
+      "feedName": "ScienceDaily Nutrition",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260806050724.htm",
+      "image": "https://www.sciencedaily.com/images/1920/cardiology-heart-attack-disease-prevention.webp",
+      "screen": "right"
+    },
+    {
       "title": "Vitamin C may fight cancer — but not the way scientists once thought",
       "abstract": "Linus Pauling was widely mocked for claiming that vitamin C could fight cancer, especially after trials using vitamin C pills showed no benefit. Researchers now know that intravenous vitamin C reaches vastly higher concentrations and can behave more like an experimental cancer drug than an ordinary supplement. Early studies suggest it may damage vulnerable cancer cells, reduce treatment side effects, and possibly improve outcomes for some patients.",
       "authors": "",
@@ -379,26 +399,6 @@
       "feedName": "ScienceDaily Nutrition",
       "url": "https://www.sciencedaily.com/releases/2026/08/260803080902.htm",
       "image": "https://www.sciencedaily.com/images/1920/male-brain-obesity.webp",
-      "screen": "right"
-    },
-    {
-      "title": "A common sugar may help cancer cells break free and spread",
-      "abstract": "Chemotherapy-surviving ovarian cancer cells may release fructose to help neighboring tumor cells loosen, escape, and spread. The discovery suggests that sugary diets and cholesterol-lowering drugs could influence cancer progression, though the effects have not yet been confirmed in patients.",
-      "authors": "",
-      "published": "Aug 2026",
-      "feedName": "ScienceDaily Nutrition",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260802223426.htm",
-      "image": "https://www.sciencedaily.com/images/1920/cancer-cell-infecting-healthy-tissue.webp",
-      "screen": "right"
-    },
-    {
-      "title": "A simple supplement could help the immune system fight cancer and viruses",
-      "abstract": "Low arginine levels may allow cancer cells and viruses to slip past the immune system by reducing production of a crucial cellular warning protein. In mice, arginine-rich diets led to fewer colon tumors and milder viral infections, suggesting a simple supplement could have powerful therapeutic potential.",
-      "authors": "",
-      "published": "Aug 2026",
-      "feedName": "ScienceDaily Nutrition",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260802223417.htm",
-      "image": "https://www.sciencedaily.com/images/1920/asian-man-taking-supplement-capsule.webp",
       "screen": "right"
     },
     {

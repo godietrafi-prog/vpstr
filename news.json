@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-09T10:24:48Z",
+  "updated": "2026-08-09T12:32:06Z",
   "items": [
     {
       "title": "Responsible use of artificial intelligence and machine learning for food security early warning systems",
@@ -242,6 +242,16 @@
       "screen": "left"
     },
     {
+      "title": "From nutrient release to bioavailability in potato pulp co-fermentation: controls and microbial attribution",
+      "abstract": "",
+      "authors": "Zhichao Zhao, Xin Zhang, Ting Shen",
+      "published": "Jan 2027",
+      "feedName": "Food Microbiology",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0740002026002236?dgcid=rss_sd_all",
+      "image": "",
+      "screen": "left"
+    },
+    {
       "title": "Chlorine dioxide injures Shigella flexneri , weakens biofilms, and produces a VBNC-like phenotype under cold stress: matrix-limited efficacy in broccoli wash water",
       "abstract": "",
       "authors": "Yalin Li, Yongqi Chen, Yanling Gao et al.",
@@ -268,16 +278,6 @@
       "published": "Jan 2027",
       "feedName": "Food Microbiology",
       "url": "https://www.sciencedirect.com/science/article/pii/S0740002026002170?dgcid=rss_sd_all",
-      "image": "",
-      "screen": "left"
-    },
-    {
-      "title": "Molecular mechanisms of the VBNC state induced by polyhexamethylene guanidine in biofilm-associated Staphylococcus aureus",
-      "abstract": "",
-      "authors": "Shuhao Zeng, Tianzheng Ma, Yuxuan Lu et al.",
-      "published": "Jan 2027",
-      "feedName": "Food Microbiology",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0740002026002212?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-09T16:23:32Z",
+  "updated": "2026-08-09T18:26:30Z",
   "items": [
     {
       "title": "Responsible use of artificial intelligence and machine learning for food security early warning systems",
@@ -282,6 +282,16 @@
       "screen": "left"
     },
     {
+      "title": "New catalyst with 75% less platinum promises to reduce the cost of hydrogen fuel cells",
+      "abstract": "The high cost of platinum is one of the main barriers to the wider adoption of hydrogen fuel cells. Now, researchers at IMDEA Materials Institute have developed a catalyst that delivers the same performance while using 75% less of this expensive metal. The study, published in Electrochimica Acta, demonstrates a breakthrough made possible by applying controlled mechanical compression to the catalyst. This modifies its atomic-scale structure, enabling it to achieve energy efficiency comparable to that of pure platinum.",
+      "authors": "",
+      "published": "Aug 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-08-catalyst-platinum-hydrogen-fuel-cells.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/new-catalyst-with-75-l.jpg",
+      "screen": "right"
+    },
+    {
       "title": "Creating cleaner chemical reactions that run on oxygen and produce only water as waste",
       "abstract": "Oxygen provides the driving force for many vital chemical reactions. Two well-known examples include respiration, the process that allows living things to break down food to release its energy, and combustion, reactions that produce heat and light. But oxygen has an unusual electronic configuration that tends to slow reactions with organic matter, so reactions often need help to get started. In nature, specialized proteins called enzymes can activate oxygen on demand by first rearranging its electrons.",
       "authors": "",
@@ -309,16 +319,6 @@
       "feedName": "Phys.org Analytics",
       "url": "https://phys.org/news/2026-08-key-material-properties-atom.html",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/a-new-technique-allows-1.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "Black silicon catalyst turns carbon dioxide into methane with sunlight",
-      "abstract": "Carbon dioxide is often viewed as a major contributor to climate change, but it can also become a valuable raw material. If scientists can efficiently convert carbon dioxide into useful fuels using sunlight, it would provide a sustainable way to store solar energy while reducing greenhouse gas emissions.",
-      "authors": "",
-      "published": "Aug 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-08-black-silicon-catalyst-carbon-dioxide.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/turning-carbon-dioxide.jpg",
       "screen": "right"
     },
     {

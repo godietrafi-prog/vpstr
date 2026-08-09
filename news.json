@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-09T12:32:06Z",
+  "updated": "2026-08-09T14:26:07Z",
   "items": [
     {
       "title": "Responsible use of artificial intelligence and machine learning for food security early warning systems",
@@ -42,42 +42,42 @@
       "screen": "left"
     },
     {
-      "title": "A spectrophotometric assay for caffeoylquinic acids quantification in coffee using N α -Boc- l -lysine.",
+      "title": "Production of a novel black soldier fly larvae ( Hermetia illucens ) protein hydrolysate-zinc chelate: Characterization, chelation mechanism, and zinc solubility",
       "abstract": "",
-      "authors": "Veronica Vida, Cristian Verona, Cristina Forzato et al.",
+      "authors": "Minhui Luo, Cunwen Wang, Fang Yang et al.",
       "published": "Oct 2026",
       "feedName": "Food Chemistry",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626028451?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626028712?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
     {
-      "title": "Explainable machine learning for assessing the metabolomic and elemental profiles of tomatoes irrigated with treated wastewater",
+      "title": "Engineered Fe₃O₄/SiO₂/TiO₂/rGO nanocomposites as high-efficiency magnetic adsorbents for cd(II) determination",
       "abstract": "",
-      "authors": "Anja Vehar, Jan Drole, Tome Eftimov et al.",
+      "authors": "Hilal Akbiyik, Nagehan Kübra Zeytinci, Buse Tuğba Zaman et al.",
       "published": "Oct 2026",
       "feedName": "Food Chemistry",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626027767?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626028530?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
     {
-      "title": "Chitosan/indole-3-acetic acid/silver nanoparticle composite films: Preparation, characterization and efficacy in inhibiting postharvest potato dry rot",
+      "title": "Multi-omics insights into aroma formation in congou black tea during fermentation",
       "abstract": "",
-      "authors": "Hongze Lv, Ke Shi, Chuchu Zhang et al.",
+      "authors": "Jingtao Zhou, Muxue Qin, Jiasi Li et al.",
       "published": "Oct 2026",
       "feedName": "Food Chemistry",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626028001?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626028876?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
     {
-      "title": "Scientific analysis of ice-cooked lamb: regulation of edible quality and protein aggregation through unique thermal processing",
+      "title": "Metal-organic framework integrated SPR sensor with enhanced sensitivity for selective chlorpyrifos detection in foods",
       "abstract": "",
-      "authors": "Zichun Jin, Lei Zhang, Yani Yin et al.",
+      "authors": "Duygu Çimen, Fatma Yılmaz, Süleyman Çalışkan et al.",
       "published": "Oct 2026",
       "feedName": "Food Chemistry",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626028505?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626028098?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -362,6 +362,26 @@
       "screen": "right"
     },
     {
+      "title": "Wine, beer, or spirits? Massive study finds a surprising health divide",
+      "abstract": "A study tracking more than 340,000 adults for over a decade found that heavy drinking increased the risk of death regardless of beverage type. At lower levels, however, the picture became more surprising: beer, cider, and spirits were linked to higher mortality, while wine was associated with lower risk. Moderate wine drinkers had a 21% lower risk of cardiovascular death compared with people who rarely or never drank.",
+      "authors": "",
+      "published": "Aug 2026",
+      "feedName": "ScienceDaily Nutrition",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260808235008.htm",
+      "image": "https://www.sciencedaily.com/images/1920/friends-night-out-drinking-alcohol.webp",
+      "screen": "right"
+    },
+    {
+      "title": "For decades, we were told to choose low-fat dairy. New research says otherwise",
+      "abstract": "Full-fat dairy may be healthier than conventional advice has suggested. In a 12-week study, adults who ate three servings a day showed no meaningful increases in weight, body fat, cholesterol, or insulin resistance. They also experienced improved blood pressure and consumed more calcium, protein, and vitamin D. The findings suggest dairy’s complex structure may matter more than its saturated fat content alone.",
+      "authors": "",
+      "published": "Aug 2026",
+      "feedName": "ScienceDaily Nutrition",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260808234948.htm",
+      "image": "https://www.sciencedaily.com/images/1920/woman-nutritionist-doctor-drinking-milk.webp",
+      "screen": "right"
+    },
+    {
       "title": "Cutting sweet foods doesn’t curb cravings or improve health",
       "abstract": "Changing how much sweet-tasting food people eat may not change how much they crave or enjoy sweetness after all. In a six-month trial, researchers found that people assigned to high-, low-, or average-sweetness diets showed no meaningful differences in their preference for sweet foods, body weight, or markers linked to diabetes and heart disease. Many participants also drifted back toward their previous eating habits once the trial ended.",
       "authors": "",
@@ -379,26 +399,6 @@
       "feedName": "ScienceDaily Nutrition",
       "url": "https://www.sciencedaily.com/releases/2026/08/260806050724.htm",
       "image": "https://www.sciencedaily.com/images/1920/cardiology-heart-attack-disease-prevention.webp",
-      "screen": "right"
-    },
-    {
-      "title": "Vitamin C may fight cancer — but not the way scientists once thought",
-      "abstract": "Linus Pauling was widely mocked for claiming that vitamin C could fight cancer, especially after trials using vitamin C pills showed no benefit. Researchers now know that intravenous vitamin C reaches vastly higher concentrations and can behave more like an experimental cancer drug than an ordinary supplement. Early studies suggest it may damage vulnerable cancer cells, reduce treatment side effects, and possibly improve outcomes for some patients.",
-      "authors": "",
-      "published": "Aug 2026",
-      "feedName": "ScienceDaily Nutrition",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260806050717.htm",
-      "image": "https://www.sciencedaily.com/images/1920/vitamin-c-iv-drip.webp",
-      "screen": "right"
-    },
-    {
-      "title": "Your brain may be wired to regain lost weight",
-      "abstract": "Weight loss is not simply a test of willpower. The human brain evolved to protect body fat during times of scarcity, and it can treat a previously higher weight as the new normal, triggering stronger hunger, cravings, and lower energy use after weight loss. This biological “memory” helps explain why many people regain weight after dieting and why medications such as Wegovy and Mounjaro can help by reducing appetite signals, although their effects may fade when treatment ends.",
-      "authors": "",
-      "published": "Aug 2026",
-      "feedName": "ScienceDaily Nutrition",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260803080902.htm",
-      "image": "https://www.sciencedaily.com/images/1920/male-brain-obesity.webp",
       "screen": "right"
     },
     {

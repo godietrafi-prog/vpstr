@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-10T20:33:01Z",
+  "updated": "2026-08-10T22:28:05Z",
   "items": [
     {
       "title": "Considerations for maximizing the effectiveness of debt-for-food swaps",
@@ -282,6 +282,16 @@
       "screen": "left"
     },
     {
+      "title": "Engineered enzymes forge carbon-carbon and carbon-nitrogen bonds with high selectivity",
+      "abstract": "Researchers from the Manchester Institute of Biotechnology, including Dr. Zachary Birch-Price and professor Anthony Green, have developed a new family of engineered enzymes that can create several different types of chemical bonds used to build complex molecules. This work demonstrates how artificial enzymes can be adapted to carry out a broad range of carbon-carbon (C-C) and carbon-nitrogen (C-N) bond-forming reactions with high selectivity, offering new possibilities for biocatalysis.",
+      "authors": "",
+      "published": "Aug 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-08-enzymes-forge-carbon-nitrogen-bonds.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/engineered-enzymes-bui.jpg",
+      "screen": "right"
+    },
+    {
       "title": "New catalyst with 75% less platinum promises to reduce the cost of hydrogen fuel cells",
       "abstract": "The high cost of platinum is one of the main barriers to the wider adoption of hydrogen fuel cells. Now, researchers at IMDEA Materials Institute have developed a catalyst that delivers the same performance while using 75% less of this expensive metal. The study, published in Electrochimica Acta, demonstrates a breakthrough made possible by applying controlled mechanical compression to the catalyst. This modifies its atomic-scale structure, enabling it to achieve energy efficiency comparable to that of pure platinum.",
       "authors": "",
@@ -309,16 +319,6 @@
       "feedName": "Phys.org Analytics",
       "url": "https://phys.org/news/2026-08-photocatalytic-method-cleaves-strong-ch.html",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/radical-but-selective.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "Observing key material properties atom by atom for the first time",
-      "abstract": "Many material properties depend on how electrons are arranged inside a material. Their distribution determines, for example, whether a material conducts electricity or displays magnetic behavior. Understanding how electrons organize themselves at the atomic scale is therefore one of the major challenges in materials science. Now, a team led by researchers at the Institute of Materials Science of Barcelona (ICMAB-CSIC) has developed a new technique that, for the first time, reveals how electrons are organized inside materials with an unprecedented level of detail.",
-      "authors": "",
-      "published": "Aug 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-08-key-material-properties-atom.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/a-new-technique-allows-1.jpg",
       "screen": "right"
     },
     {

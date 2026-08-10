@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-10T11:00:49Z",
+  "updated": "2026-08-10T12:50:25Z",
   "items": [
     {
       "title": "Responsible use of artificial intelligence and machine learning for food security early warning systems",
@@ -42,26 +42,6 @@
       "screen": "left"
     },
     {
-      "title": "Dual-role ultrasonication in fabricating a zein-resveratrol/pectin complex: From particle engineering to interface activation for superior pickering emulsion stability",
-      "abstract": "",
-      "authors": "Qiufang Liang, Panpan Cao, Yunxia Du et al.",
-      "published": "Oct 2026",
-      "feedName": "Food Chemistry",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626028621?dgcid=rss_sd_all",
-      "image": "",
-      "screen": "left"
-    },
-    {
-      "title": "Mechanism of non-emulsifying system establishment by NaCl soaking-microwave combined with hexanoic acid in aqueous enzymatic extraction of peanut oil",
-      "abstract": "",
-      "authors": "Nan Hai, Dingyang Lv, Fusheng Chen et al.",
-      "published": "Oct 2026",
-      "feedName": "Food Chemistry",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626028943?dgcid=rss_sd_all",
-      "image": "",
-      "screen": "left"
-    },
-    {
       "title": "Production of a novel black soldier fly larvae ( Hermetia illucens ) protein hydrolysate-zinc chelate: Characterization, chelation mechanism, and zinc solubility",
       "abstract": "",
       "authors": "Minhui Luo, Cunwen Wang, Fang Yang et al.",
@@ -78,6 +58,26 @@
       "published": "Oct 2026",
       "feedName": "Food Chemistry",
       "url": "https://www.sciencedirect.com/science/article/pii/S0308814626028530?dgcid=rss_sd_all",
+      "image": "",
+      "screen": "left"
+    },
+    {
+      "title": "Multi-omics insights into aroma formation in congou black tea during fermentation",
+      "abstract": "",
+      "authors": "Jingtao Zhou, Muxue Qin, Jiasi Li et al.",
+      "published": "Oct 2026",
+      "feedName": "Food Chemistry",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626028876?dgcid=rss_sd_all",
+      "image": "",
+      "screen": "left"
+    },
+    {
+      "title": "Metal-organic framework integrated SPR sensor with enhanced sensitivity for selective chlorpyrifos detection in foods",
+      "abstract": "",
+      "authors": "Duygu Çimen, Fatma Yılmaz, Süleyman Çalışkan et al.",
+      "published": "Oct 2026",
+      "feedName": "Food Chemistry",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626028098?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -242,6 +242,16 @@
       "screen": "left"
     },
     {
+      "title": "Impact of takeaway packaging and storage conditions on microbial safety and cereulide production in grilled pork",
+      "abstract": "",
+      "authors": "Anahita Arki, Nadja Jessberger, Manar Albahri et al.",
+      "published": "Jan 2027",
+      "feedName": "Food Microbiology",
+      "url": "https://www.sciencedirect.com/science/article/pii/S074000202600225X?dgcid=rss_sd_all",
+      "image": "",
+      "screen": "left"
+    },
+    {
       "title": "From nutrient release to bioavailability in potato pulp co-fermentation: controls and microbial attribution",
       "abstract": "",
       "authors": "Zhichao Zhao, Xin Zhang, Ting Shen",
@@ -268,16 +278,6 @@
       "published": "Jan 2027",
       "feedName": "Food Microbiology",
       "url": "https://www.sciencedirect.com/science/article/pii/S0740002026002248?dgcid=rss_sd_all",
-      "image": "",
-      "screen": "left"
-    },
-    {
-      "title": "Isolation and identification of three antagonistic strains against kiwifruit soft rot, study on antibacterial mechanism, and preparation of composite biocontrol agents",
-      "abstract": "",
-      "authors": "Zhengfeng Liu, Longfei Wang, Zhangyang Wang et al.",
-      "published": "Jan 2027",
-      "feedName": "Food Microbiology",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0740002026002170?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -468,7 +468,7 @@
       "venue": "Science of the Total Environment",
       "feedName": "Lab Research",
       "citationCount": 8,
-      "recentCitations": 1,
+      "recentCitations": 0,
       "s2_paper_id": "716a87e9602f04f6b3d7fe6c3b411a15d1beaf4a",
       "url": "https://doi.org/10.1016/j.scitotenv.2024.174719",
       "image": "",

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-10T14:55:08Z",
+  "updated": "2026-08-10T16:45:14Z",
   "items": [
     {
       "title": "Considerations for maximizing the effectiveness of debt-for-food swaps",
@@ -372,6 +372,16 @@
       "screen": "right"
     },
     {
+      "title": "A daily glass of fruit juice was linked to lower depression scores",
+      "abstract": "A daily glass of 100% fruit juice or a smoothie may help improve more than just fruit intake. In a small four-week trial, participants who added one to a healthier diet showed significantly lower depression scores, hinting that a simple dietary change could also support mental well-being.",
+      "authors": "",
+      "published": "Aug 2026",
+      "feedName": "ScienceDaily Nutrition",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260808235003.htm",
+      "image": "https://www.sciencedaily.com/images/1920/fresh-orange-juice-and-fruits-on-wooden-table.webp",
+      "screen": "right"
+    },
+    {
       "title": "For decades, we were told to choose low-fat dairy. New research says otherwise",
       "abstract": "Full-fat dairy may be healthier than conventional advice has suggested. In a 12-week study, adults who ate three servings a day showed no meaningful increases in weight, body fat, cholesterol, or insulin resistance. They also experienced improved blood pressure and consumed more calcium, protein, and vitamin D. The findings suggest dairy’s complex structure may matter more than its saturated fat content alone.",
       "authors": "",
@@ -392,32 +402,32 @@
       "screen": "right"
     },
     {
-      "title": "Scientists reveal how much exercise you really need to protect your heart",
-      "abstract": "Getting the recommended 150 minutes of moderate-to-vigorous exercise each week may offer only modest protection against heart attacks and strokes. A large study suggests that substantially greater benefits may require roughly 560 to 610 minutes a week—nearly 9 to 10 hours of brisk walking, running, cycling, or similar activity.",
-      "authors": "",
-      "published": "Aug 2026",
-      "feedName": "ScienceDaily Nutrition",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260806050724.htm",
-      "image": "https://www.sciencedaily.com/images/1920/cardiology-heart-attack-disease-prevention.webp",
-      "screen": "right"
-    },
-    {
-      "title": "Commentary: Impact of prognostic nutritional index and geriatric nutritional risk index on prognosis in elderly patients with early-stage prostate cancer",
-      "abstract": "",
-      "authors": "Tingting Bai, Tong Liu, Peng Zhang",
+      "title": "Flavonoid-rich dietary patterns and incident hospital-recorded Parkinson's disease: a prospective UK Biobank study",
+      "abstract": "IntroductionEvidence linking flavonoid-rich dietary patterns to the risk of Parkinson's disease (PD) remains limited and inconsistent, and molecular clues to this association remain scarce. This study examined the association between a flavonoid diet score (FDS) and incident hospital-recorded PD and explored related plasma proteomic and cellular expression patterns.MethodsIn this prospective analysis of 123,655 UK Biobank participants, we used multivariable Cox proportional hazards models to estimate hazard ratios (HRs) and 95% confidence intervals (CIs) for the association between FDS and incident hospital-recorded PD. In an exploratory analysis, we integrated a plasma proteomic screen with publicly available single-cell and single-nucleus transcriptomic data to provide preliminary molecular and cellular context.ResultsDuring follow-up, 796 incident hospital-recorded PD cases were identified. Higher FDS was associated with a lower risk of incident hospital-recorded PD per 1-standard deviation (SD) increase (HR, 0.93; 95% CI, 0.86–1.00), and the risk was lower in the highest than in the lowest FDS quartile (HR, 0.75; 95% CI, 0.61–0.93). In decomposition analyses, no individual food source or flavonoid subclass remained associated with incident hospital-recorded PD after multiple-testing correction. The inverse association was directionally consistent across most sensitivity analyses and in 1–5-year lag analyses, but the evidence became borderline after adjustment for coffee intake (HR, 0.93; 95% CI, 0.86–1.00) and was no longer statistically supported in 6–10-year lag analy…",
+      "authors": "Wen Yang, Zhetian Chen, Yuanyuan Zhang et al.",
       "published": "Aug 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1863187",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1893517",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Editorial: Dietary bioactive compounds as coadjuvants in antiviral preventive and curative strategies",
-      "abstract": "",
-      "authors": "João C. M. Barreira, M. Beatriz P. P. Oliveira, M. A. Prieto et al.",
+      "title": "Nutrition-related clinical laboratory indicators in perioperative management of geriatric hip fractures: a narrative review from risk stratification to precision intervention",
+      "abstract": "Geriatric hip fracture represents a major global public health crisis that extends far beyond acute skeletal trauma, reflecting and accelerating systemic physiological decline in older adults. Malnutrition, affecting up to 46% of these patients depending on diagnostic criteria, has been established as a pivotal modifiable determinant of adverse postoperative outcomes including complications, functional decline, and mortality. Against this backdrop, nutrition-related clinical laboratory indicators have gained increasing recognition as objective, quantifiable, and readily accessible tools with potential dual utility in prognostic risk stratification and therapeutic monitoring, yet a comprehensive synthesis of their comparative performance and clinical translation remains lacking. This narrative review therefore aims to systematically synthesize current evidence on the spectrum of nutrition-related laboratory biomarkers ranging from classical protein markers (serum albumin and prealbumin), through inflammatory-nutritional composite indices (Prognostic Nutritional Index, Controlling Nutritional Status score, C-reactive protein/albumin ratio, glucose/albumin ratio, and systemic immune-inflammation index), to emerging proteomic and bone turnover biomarkers, and to critically appraise their predictive value for postoperative complications, functional recovery trajectories, and short- to long-term mortality. We further examine the pathophysiological nexus linking malnutrition, sarcopenia, and osteoporosis, and evaluate evidence-based perioperative nutritional interventions includin…",
+      "authors": "Xin Xu, Ying Pan, Xuehong Zheng et al.",
       "published": "Aug 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1940194",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1846471",
+      "image": "",
+      "screen": "right"
+    },
+    {
+      "title": "Nutrition phenotypes in inflammatory bowel disease: emerging concepts and future directions to guide clinical practice",
+      "abstract": "Nutrition occupies a central and dynamic role across the inflammatory bowel disease (IBD) care continuum, from disease risk reduction and prevention, through induction and maintenance of remission, to the mitigation of disease-related and unrelated complications and the preservation of quality of life – yet translating this evidence into individualized clinical practice remains a persistent challenge. To address this gap, we conducted a narrative review of the current literature and propose the concept of the nutrition phenotype: a structured framework that integrates disease-specific characteristics, nutritional status, body composition, dietary patterns, and lifestyle factors to define clinically distinct patient profiles. Applying this framework to six phenotypes: malnutrition, overnutrition, dietary therapeutics, functional symptoms, high enteric loss, and complication prevention, we synthesize the evidence supporting targeted nutritional interventions for each and present an integrated clinical algorithm plus a proposed hierarchy for managing patients with overlapping phenotypes to guide prioritization and decision-making. This phenotype-driven approach provides a practical, personalized structure for nutrition care in inflammatory bowel disease, with the aim of improving implementation feasibility and patient outcomes across real-world clinical settings.",
+      "authors": "Stephanie Gold, Natasha Haskey, Hannah Freid et al.",
+      "published": "Aug 2026",
+      "feedName": "Frontiers Nutrition",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1895716",
       "image": "",
       "screen": "right"
     },
@@ -428,16 +438,6 @@
       "published": "Aug 2026",
       "feedName": "Frontiers Nutrition",
       "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1783774",
-      "image": "",
-      "screen": "right"
-    },
-    {
-      "title": "Flavonoid-rich dietary patterns and incident hospital-recorded Parkinson's disease: a prospective UK Biobank study",
-      "abstract": "IntroductionEvidence linking flavonoid-rich dietary patterns to the risk of Parkinson's disease (PD) remains limited and inconsistent, and molecular clues to this association remain scarce. This study examined the association between a flavonoid diet score (FDS) and incident hospital-recorded PD and explored related plasma proteomic and cellular expression patterns.MethodsIn this prospective analysis of 123,655 UK Biobank participants, we used multivariable Cox proportional hazards models to estimate hazard ratios (HRs) and 95% confidence intervals (CIs) for the association between FDS and incident hospital-recorded PD. In an exploratory analysis, we integrated a plasma proteomic screen with publicly available single-cell and single-nucleus transcriptomic data to provide preliminary molecular and cellular context.ResultsDuring follow-up, 796 incident hospital-recorded PD cases were identified. Higher FDS was associated with a lower risk of incident hospital-recorded PD per 1-standard deviation (SD) increase (HR, 0.93; 95% CI, 0.86–1.00), and the risk was lower in the highest than in the lowest FDS quartile (HR, 0.75; 95% CI, 0.61–0.93). In decomposition analyses, no individual food source or flavonoid subclass remained associated with incident hospital-recorded PD after multiple-testing correction. The inverse association was directionally consistent across most sensitivity analyses and in 1–5-year lag analyses, but the evidence became borderline after adjustment for coffee intake (HR, 0.93; 95% CI, 0.86–1.00) and was no longer statistically supported in 6–10-year lag analy…",
-      "authors": "Wen Yang, Zhetian Chen, Yuanyuan Zhang et al.",
-      "published": "Aug 2026",
-      "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1893517",
       "image": "",
       "screen": "right"
     },

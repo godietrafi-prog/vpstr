@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-11T05:03:07Z",
+  "updated": "2026-08-11T06:51:14Z",
   "items": [
     {
       "title": "Considerations for maximizing the effectiveness of debt-for-food swaps",
@@ -402,32 +402,22 @@
       "screen": "right"
     },
     {
-      "title": "Development of camellia oil-based beverage and its anti-atherosclerotic effects in ApoE−/− mice",
-      "abstract": "BackgroundAtherosclerosis remains a leading cause of cardiovascular morbidity and mortality worldwide. Although camellia oil exhibits promising anti-atherosclerotic properties, its direct consumption is often limited by its strong flavor and greasy texture.ObjectiveThis study aimed to develop a camellia oil-based beverage with a milky appearance, reduced greasiness, and enhanced palatability. In addition, the anti-atherosclerotic effects of the beverage were examined in ApoE−/− mice.MethodsA camellia oil-based oil-in-water emulsion was optimized and characterized for stability, particle size, and zeta potential. Its anti-atherosclerotic effects were evaluated in high-fat diet-fed ApoE−/− mice after 8 weeks of treatment using aortic Oil Red O staining, serum lipid assays, and UHPLC-Q-TOF/MS-based metabolomics.Results and conclusionIn ApoE−/− mice, the beverage treatment significantly reduced aortic plaque burden, achieving an efficacy comparable to that of unprocessed camellia oil, thereby demonstrating that emulsification preserved its bioactivity. Additionally, the beverage significantly lowered serum total cholesterol, triglycerides, and low-density lipoprotein cholesterol (p < 0.05). Untargeted metabolomic profiling further indicated that its protective effects were associated with the modulation of metabolic pathways involved in lipid regulation. Taken together, these findings highlight the camellia oil-based beverage as a promising dietary strategy for mitigating atherosclerosis and improving lipid homeostasis.",
-      "authors": "Weihua Zhang, Ning Yang, Boyu Wen et al.",
+      "title": "Linear association between atherogenic index of plasma and diabetic kidney disease: evidence from a large clinical cohort and NHANES",
+      "abstract": "BackgroundDiabetic kidney disease (DKD) is a prevalent microvascular complication of type 2 diabetes mellitus (T2DM) and contributes substantially to end-stage renal disease. The atherogenic index of plasma (AIP) has exhibited biomarker utility. However, its relationship with DKD remains uncertain.MethodsThis cross-sectional investigation included 10,112 T2DM subjects from the National Metabolic Management Center of Yuhuan Second People’s Hospital between September 2017 and February 2025 and 5,573 individuals in NHANES cohort (1999–2020). AIP values were calculated and categorized into quartiles. Multivariable logistic regression, restricted cubic spline, and stratified subgroup analyses were applied for assessing the link between AIP and DKD. The area under the curve (AUC), net reclassification improvement (NRI) and integrated discrimination improvement (IDI) was used to assess the discriminative ability of AIP.ResultsAfter adjustment for confounding factors, each one-unit AIP rise resulted in a 72% higher likelihood of DKD (OR: 1.72, 95% CI: 1.51–1.96, p < 0.001). Relative to the lowest AIP quartile, the highest quartile showed a 54% higher odds DKD (OR: 1.54, 95% CI: 1.36–1.75, p < 0.001), with a clear dose–response effect (P for trend < 0.001). Spline modeling indicated a positive linear link between AIP and DKD, which was apparent in all examined subgroups (all P for interaction >0.05) and externally validated in NHANES. Incorporating AIP into the baseline model modestly improved discrimination, increasing the area under the curve from 68.42 to 68.76%, with a continuou…",
+      "authors": "Jinghan Zheng, Jingwei Chi, Kui Che et al.",
       "published": "Aug 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1883934",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1853881",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Interleukin-6, anxiety, and pre-treatment malnutrition in locally advanced head and neck cancer: a psychoneuroimmunological analysis",
-      "abstract": "BackgroundMalnutrition and psychological distress are highly prevalent in patients with locally advanced head and neck cancer (LAHNC), although the biological mechanisms linking these conditions remain poorly understood. We investigated associations between systemic inflammation, gut–brain axis hormones, anxiety, and pre-treatment malnutrition within a psychoneuroimmunological framework.MethodsA cross-sectional study was conducted in 74 patients with LAHNC prior to treatment initiation. Nutritional status was assessed using the Global Leadership Initiative on Malnutrition (GLIM) criteria, and anxiety using the Hospital Anxiety and Depression Scale (HADS-A). Circulating inflammatory cytokines and appetite-regulating hormones were quantified using multiplex immunoassays. Multivariable logistic regression and exploratory bootstrap mediation analyses were performed, together with an exploratory, bootstrap-based mediation analysis to evaluate whether anxiety represented a potential indirect pathway linking IL-6 and pre-treatment malnutrition.ResultsPre-treatment malnutrition was identified in 40.5% of patients and clinically relevant anxiety in 36.5%. Elevated IL-6 and lower BMI were independently associated with malnutrition (OR 6.16, 95% CI 1.35–28.18; and OR 0.83, 95% CI 0.72–0.97, respectively). Elevated IL-6 was also independently associated with anxiety (OR 11.23, 95% CI 2.09–60.40). Elevated glucose-dependent insulinotropic polypeptide (GIP) levels were also associated with malnutrition after false discovery rate correction (q = 0.003). The exploratory mediation analysis …",
-      "authors": "Lucía Aránega-Martín, Lidia Sánchez-Alcoholado, Alicia González-González et al.",
+      "title": "Network pharmacology-based prediction and experimental validation of the anti-hyperuricemic effects of oolong tea polyphenols",
+      "abstract": "ObjectiveThis study aimed to identify candidate therapeutic targets of oolong tea polyphenols (TP) against hyperuricemia (HUA) using network pharmacology and bioinformatics, and to validate the predicted molecular mechanism through in vivo experimentation.MethodsDrug and disease targets were retrieved from public databases, and overlapping targets were identified by Venn diagram analysis. Gene Ontology (GO) and Kyoto Encyclopedia of Genes and Genomes (KEGG) enrichment analyses were performed on the shared targets, and a protein-protein interaction (PPI) network was constructed to identify hub genes. For in vivo validation, an HUA mouse model was established by 15 days of oral potassium oxonate (PO) administration. Model mice then received TP by gavage at low (0.5 g⋅kg−1⋅d−1), medium (1 g⋅kg−1⋅d−1), or high (2 g⋅kg−1⋅d−1) doses for an additional 15 days. Serum biochemical markers, histopathological changes, and pathway-related protein expression were assessed by enzyme-linked immunosorbent assay (ELISA), hematoxylin and eosin (HE) staining, and western blot analysis, respectively.ResultsNetwork pharmacology analysis identified 59 overlapping targets between TP and HUA; GO and KEGG enrichment analyses revealed that these targets were primarily associated with hormone metabolism and the PI3K-AKT signaling pathway. In the animal experiment, TP dose-dependently reduced serum uric acid (SUA) levels in hyperuricemic mice. At the molecular level, low and medium doses of TP suppressed phosphorylation of phosphatidylinositol 3-kinase (PI3K), protein kinase B (AKT), and mammalian targ…",
+      "authors": "Fenqi Lin, Duoer Lu, Jia Chen et al.",
       "published": "Aug 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1918262",
-      "image": "",
-      "screen": "right"
-    },
-    {
-      "title": "Glucosamine for knee osteoarthritis: an umbrella review",
-      "abstract": "BackgroundKnee osteoarthritis (OA) is a common cause of pain and disability without a cure. Glucosamine is widely used as a symptomatic treatment owing to its safety, yet its clinical efficacy remains uncertain amid mixed trial results and conflicting guidelines. This umbrella review synthesized evidence from published systematic reviews and meta-analyses on the effectiveness and safety of glucosamine in knee OA.MethodsWe searched MEDLINE (via PubMed), Embase, Web of Science, and the Cochrane Library up to November 2025. Eligible studies were systematic reviews or meta-analyses of randomized trials in adults with knee OA comparing glucosamine (any formulation) with placebo or other non-surgical comparators and reporting pain, physical function, or joint structure. Two reviewers independently screened, extracted data, and assessed quality (AMSTAR-2). Key outcomes were pain (visual analog scale [VAS] and WOMAC [Western Ontario and McMaster Universities Osteoarthritis Index]), functional measures, joint space narrowing (JSN), and adverse events. Overlap among shared primary trials was quantified using the corrected covered area, and the resulting dependence was addressed using robust variance estimation to pool standardized mean differences (SMDs), with p < 0.05 considered significant. Effect sizes were interpreted against minimal clinically important difference (MCID) thresholds.ResultsNineteen reviews were included (most low or critically low quality). Glucosamine produced a small but statistically significant reduction in VAS pain (SMD − 0.36, p = 0.02), whereas WOMAC pain …",
-      "authors": "Yanfei Li, Ruixin Wang, Jia Xu et al.",
-      "published": "Aug 2026",
-      "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1806413",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1845074",
       "image": "",
       "screen": "right"
     },
@@ -438,6 +428,16 @@
       "published": "Aug 2026",
       "feedName": "Frontiers Nutrition",
       "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1874945",
+      "image": "",
+      "screen": "right"
+    },
+    {
+      "title": "Glucosamine for knee osteoarthritis: an umbrella review",
+      "abstract": "BackgroundKnee osteoarthritis (OA) is a common cause of pain and disability without a cure. Glucosamine is widely used as a symptomatic treatment owing to its safety, yet its clinical efficacy remains uncertain amid mixed trial results and conflicting guidelines. This umbrella review synthesized evidence from published systematic reviews and meta-analyses on the effectiveness and safety of glucosamine in knee OA.MethodsWe searched MEDLINE (via PubMed), Embase, Web of Science, and the Cochrane Library up to November 2025. Eligible studies were systematic reviews or meta-analyses of randomized trials in adults with knee OA comparing glucosamine (any formulation) with placebo or other non-surgical comparators and reporting pain, physical function, or joint structure. Two reviewers independently screened, extracted data, and assessed quality (AMSTAR-2). Key outcomes were pain (visual analog scale [VAS] and WOMAC [Western Ontario and McMaster Universities Osteoarthritis Index]), functional measures, joint space narrowing (JSN), and adverse events. Overlap among shared primary trials was quantified using the corrected covered area, and the resulting dependence was addressed using robust variance estimation to pool standardized mean differences (SMDs), with p < 0.05 considered significant. Effect sizes were interpreted against minimal clinically important difference (MCID) thresholds.ResultsNineteen reviews were included (most low or critically low quality). Glucosamine produced a small but statistically significant reduction in VAS pain (SMD − 0.36, p = 0.02), whereas WOMAC pain …",
+      "authors": "Yanfei Li, Ruixin Wang, Jia Xu et al.",
+      "published": "Aug 2026",
+      "feedName": "Frontiers Nutrition",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1806413",
       "image": "",
       "screen": "right"
     },
@@ -753,7 +753,7 @@
       "venue": "BMC Medical Education",
       "feedName": "Lab Research",
       "citationCount": 1,
-      "recentCitations": 0,
+      "recentCitations": 1,
       "s2_paper_id": "5ee7aceac233a82917e92f646d2284fffcfd28b2",
       "url": "https://doi.org/10.1186/s12909-025-07674-x",
       "image": "",

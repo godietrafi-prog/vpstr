@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-11T03:32:20Z",
+  "updated": "2026-08-11T05:03:07Z",
   "items": [
     {
       "title": "Considerations for maximizing the effectiveness of debt-for-food swaps",
@@ -402,42 +402,42 @@
       "screen": "right"
     },
     {
-      "title": "Flavonoid-rich dietary patterns and incident hospital-recorded Parkinson's disease: a prospective UK Biobank study",
-      "abstract": "IntroductionEvidence linking flavonoid-rich dietary patterns to the risk of Parkinson's disease (PD) remains limited and inconsistent, and molecular clues to this association remain scarce. This study examined the association between a flavonoid diet score (FDS) and incident hospital-recorded PD and explored related plasma proteomic and cellular expression patterns.MethodsIn this prospective analysis of 123,655 UK Biobank participants, we used multivariable Cox proportional hazards models to estimate hazard ratios (HRs) and 95% confidence intervals (CIs) for the association between FDS and incident hospital-recorded PD. In an exploratory analysis, we integrated a plasma proteomic screen with publicly available single-cell and single-nucleus transcriptomic data to provide preliminary molecular and cellular context.ResultsDuring follow-up, 796 incident hospital-recorded PD cases were identified. Higher FDS was associated with a lower risk of incident hospital-recorded PD per 1-standard deviation (SD) increase (HR, 0.93; 95% CI, 0.86–1.00), and the risk was lower in the highest than in the lowest FDS quartile (HR, 0.75; 95% CI, 0.61–0.93). In decomposition analyses, no individual food source or flavonoid subclass remained associated with incident hospital-recorded PD after multiple-testing correction. The inverse association was directionally consistent across most sensitivity analyses and in 1–5-year lag analyses, but the evidence became borderline after adjustment for coffee intake (HR, 0.93; 95% CI, 0.86–1.00) and was no longer statistically supported in 6–10-year lag analy…",
-      "authors": "Wen Yang, Zhetian Chen, Yuanyuan Zhang et al.",
+      "title": "Development of camellia oil-based beverage and its anti-atherosclerotic effects in ApoE−/− mice",
+      "abstract": "BackgroundAtherosclerosis remains a leading cause of cardiovascular morbidity and mortality worldwide. Although camellia oil exhibits promising anti-atherosclerotic properties, its direct consumption is often limited by its strong flavor and greasy texture.ObjectiveThis study aimed to develop a camellia oil-based beverage with a milky appearance, reduced greasiness, and enhanced palatability. In addition, the anti-atherosclerotic effects of the beverage were examined in ApoE−/− mice.MethodsA camellia oil-based oil-in-water emulsion was optimized and characterized for stability, particle size, and zeta potential. Its anti-atherosclerotic effects were evaluated in high-fat diet-fed ApoE−/− mice after 8 weeks of treatment using aortic Oil Red O staining, serum lipid assays, and UHPLC-Q-TOF/MS-based metabolomics.Results and conclusionIn ApoE−/− mice, the beverage treatment significantly reduced aortic plaque burden, achieving an efficacy comparable to that of unprocessed camellia oil, thereby demonstrating that emulsification preserved its bioactivity. Additionally, the beverage significantly lowered serum total cholesterol, triglycerides, and low-density lipoprotein cholesterol (p < 0.05). Untargeted metabolomic profiling further indicated that its protective effects were associated with the modulation of metabolic pathways involved in lipid regulation. Taken together, these findings highlight the camellia oil-based beverage as a promising dietary strategy for mitigating atherosclerosis and improving lipid homeostasis.",
+      "authors": "Weihua Zhang, Ning Yang, Boyu Wen et al.",
       "published": "Aug 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1893517",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1883934",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Nutrition-related clinical laboratory indicators in perioperative management of geriatric hip fractures: a narrative review from risk stratification to precision intervention",
-      "abstract": "Geriatric hip fracture represents a major global public health crisis that extends far beyond acute skeletal trauma, reflecting and accelerating systemic physiological decline in older adults. Malnutrition, affecting up to 46% of these patients depending on diagnostic criteria, has been established as a pivotal modifiable determinant of adverse postoperative outcomes including complications, functional decline, and mortality. Against this backdrop, nutrition-related clinical laboratory indicators have gained increasing recognition as objective, quantifiable, and readily accessible tools with potential dual utility in prognostic risk stratification and therapeutic monitoring, yet a comprehensive synthesis of their comparative performance and clinical translation remains lacking. This narrative review therefore aims to systematically synthesize current evidence on the spectrum of nutrition-related laboratory biomarkers ranging from classical protein markers (serum albumin and prealbumin), through inflammatory-nutritional composite indices (Prognostic Nutritional Index, Controlling Nutritional Status score, C-reactive protein/albumin ratio, glucose/albumin ratio, and systemic immune-inflammation index), to emerging proteomic and bone turnover biomarkers, and to critically appraise their predictive value for postoperative complications, functional recovery trajectories, and short- to long-term mortality. We further examine the pathophysiological nexus linking malnutrition, sarcopenia, and osteoporosis, and evaluate evidence-based perioperative nutritional interventions includin…",
-      "authors": "Xin Xu, Ying Pan, Xuehong Zheng et al.",
+      "title": "Interleukin-6, anxiety, and pre-treatment malnutrition in locally advanced head and neck cancer: a psychoneuroimmunological analysis",
+      "abstract": "BackgroundMalnutrition and psychological distress are highly prevalent in patients with locally advanced head and neck cancer (LAHNC), although the biological mechanisms linking these conditions remain poorly understood. We investigated associations between systemic inflammation, gut–brain axis hormones, anxiety, and pre-treatment malnutrition within a psychoneuroimmunological framework.MethodsA cross-sectional study was conducted in 74 patients with LAHNC prior to treatment initiation. Nutritional status was assessed using the Global Leadership Initiative on Malnutrition (GLIM) criteria, and anxiety using the Hospital Anxiety and Depression Scale (HADS-A). Circulating inflammatory cytokines and appetite-regulating hormones were quantified using multiplex immunoassays. Multivariable logistic regression and exploratory bootstrap mediation analyses were performed, together with an exploratory, bootstrap-based mediation analysis to evaluate whether anxiety represented a potential indirect pathway linking IL-6 and pre-treatment malnutrition.ResultsPre-treatment malnutrition was identified in 40.5% of patients and clinically relevant anxiety in 36.5%. Elevated IL-6 and lower BMI were independently associated with malnutrition (OR 6.16, 95% CI 1.35–28.18; and OR 0.83, 95% CI 0.72–0.97, respectively). Elevated IL-6 was also independently associated with anxiety (OR 11.23, 95% CI 2.09–60.40). Elevated glucose-dependent insulinotropic polypeptide (GIP) levels were also associated with malnutrition after false discovery rate correction (q = 0.003). The exploratory mediation analysis …",
+      "authors": "Lucía Aránega-Martín, Lidia Sánchez-Alcoholado, Alicia González-González et al.",
       "published": "Aug 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1846471",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1918262",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Nutrition phenotypes in inflammatory bowel disease: emerging concepts and future directions to guide clinical practice",
-      "abstract": "Nutrition occupies a central and dynamic role across the inflammatory bowel disease (IBD) care continuum, from disease risk reduction and prevention, through induction and maintenance of remission, to the mitigation of disease-related and unrelated complications and the preservation of quality of life – yet translating this evidence into individualized clinical practice remains a persistent challenge. To address this gap, we conducted a narrative review of the current literature and propose the concept of the nutrition phenotype: a structured framework that integrates disease-specific characteristics, nutritional status, body composition, dietary patterns, and lifestyle factors to define clinically distinct patient profiles. Applying this framework to six phenotypes: malnutrition, overnutrition, dietary therapeutics, functional symptoms, high enteric loss, and complication prevention, we synthesize the evidence supporting targeted nutritional interventions for each and present an integrated clinical algorithm plus a proposed hierarchy for managing patients with overlapping phenotypes to guide prioritization and decision-making. This phenotype-driven approach provides a practical, personalized structure for nutrition care in inflammatory bowel disease, with the aim of improving implementation feasibility and patient outcomes across real-world clinical settings.",
-      "authors": "Stephanie Gold, Natasha Haskey, Hannah Freid et al.",
+      "title": "Glucosamine for knee osteoarthritis: an umbrella review",
+      "abstract": "BackgroundKnee osteoarthritis (OA) is a common cause of pain and disability without a cure. Glucosamine is widely used as a symptomatic treatment owing to its safety, yet its clinical efficacy remains uncertain amid mixed trial results and conflicting guidelines. This umbrella review synthesized evidence from published systematic reviews and meta-analyses on the effectiveness and safety of glucosamine in knee OA.MethodsWe searched MEDLINE (via PubMed), Embase, Web of Science, and the Cochrane Library up to November 2025. Eligible studies were systematic reviews or meta-analyses of randomized trials in adults with knee OA comparing glucosamine (any formulation) with placebo or other non-surgical comparators and reporting pain, physical function, or joint structure. Two reviewers independently screened, extracted data, and assessed quality (AMSTAR-2). Key outcomes were pain (visual analog scale [VAS] and WOMAC [Western Ontario and McMaster Universities Osteoarthritis Index]), functional measures, joint space narrowing (JSN), and adverse events. Overlap among shared primary trials was quantified using the corrected covered area, and the resulting dependence was addressed using robust variance estimation to pool standardized mean differences (SMDs), with p < 0.05 considered significant. Effect sizes were interpreted against minimal clinically important difference (MCID) thresholds.ResultsNineteen reviews were included (most low or critically low quality). Glucosamine produced a small but statistically significant reduction in VAS pain (SMD − 0.36, p = 0.02), whereas WOMAC pain …",
+      "authors": "Yanfei Li, Ruixin Wang, Jia Xu et al.",
       "published": "Aug 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1895716",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1806413",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Prevalence and risk factors of malnutrition in elderly patients with diabetes mellitus: a meta-analysis and systematic review",
-      "abstract": "BackgroundThe prevalence and risk factors of malnutrition in elderly patients with diabetes are unclear, a knowledge gap that this meta-analysis aimed to explore.MethodsStudies published in the PubMed, Embase, Web of Science, Medline, EBSCO, CNKI, Wanfang, VIP, and Sinomed databases from 1 January 2010, to 31 December 2024 were searched using the following terms with a combination of subject headings and free text: “diabetes,” “malnutrition,” “prevalence,” “risk factors,” “associated factor,” and “influencing factor.” Age filters (age ≥ 60 years) were applied where available. All retrieved studies were manually screened for age criteria. The term “elderly” was not used as a search term to avoid missing studies that enrolled older adults without mentioning “elderly” in the title or abstract. Cohort studies, case–control studies, and cross-sectional studies meeting the inclusion criteria were analyzed. Meta-analysis was performed using Stata 15.0 software.ResultsThis meta-analysis included 30 studies involving 12,564 cases from 9 countries (namely China, South Korea, Japan, Thailand, Turkey, Nigeria, Spain, Brazil, and India). Based on 21 studies, the overall prevalence rate of malnutrition in elderly patients with diabetes was 29% (95% confidence interval (CI): 0.19–0.39). The analysis of 20 studies revealed that the prevalence rate of high malnutrition risk was 42% (95% CI: 0.31–0.53). This study identified 14 risk factors for malnutrition in elderly patients with diabetes.ConclusionThis meta-analysis improved our understanding of the prevalence and risk factors of malnutri…",
-      "authors": "Lingling Tang, Yushan Shen, Run Li et al.",
+      "title": "When the body changes faster than the brain: a narrative and theoretical review of body schema updating after bariatric surgery",
+      "abstract": "As indicated by the guidelines of the National Institutes of Health (NIH) and the Italian Society of Obesity Surgery and Metabolic Diseases (SICOB), bariatric surgery is the treatment of choice for severe obesity due to its effectiveness in achieving long-term weight loss and improving associated comorbidities. Many individuals with obesity exhibit profound body dissatisfaction, which often represents a primary motivation for seeking bariatric surgery, sometimes outweighing health-related reasons. Following surgery, a significant reduction in body weight is typically observed; however, perceived body image does not always change in parallel with physical transformation. Some individuals experience difficulties adapting to bodily changes, with a persistent perception of themselves as people with obesity despite substantial weight loss. This phenomenon is typically interpreted in terms of body image disturbances; however, it may also indirectly point to difficulties in updating body representations, potentially involving body schema mechanisms, although this has not yet been directly investigated in bariatric populations. Given the limited number of studies on body schema in this context, this article provides a narrative and theory-driven review of body representation following bariatric surgery. Specifically, it integrates findings from body image research, obesity studies, and embodied cognition to explore whether body schema updating may contribute to the mismatch between physical and perceived body. This interpretation remains hypothetical and highlights a critical gap i…",
+      "authors": "Beatrice Fava, Chiara Spiezia, Claudia Di Rosa et al.",
       "published": "Aug 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1783774",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1874945",
       "image": "",
       "screen": "right"
     },
@@ -468,7 +468,7 @@
       "venue": "Science of the Total Environment",
       "feedName": "Lab Research",
       "citationCount": 8,
-      "recentCitations": 0,
+      "recentCitations": 1,
       "s2_paper_id": "716a87e9602f04f6b3d7fe6c3b411a15d1beaf4a",
       "url": "https://doi.org/10.1016/j.scitotenv.2024.174719",
       "image": "",
@@ -753,7 +753,7 @@
       "venue": "BMC Medical Education",
       "feedName": "Lab Research",
       "citationCount": 1,
-      "recentCitations": 1,
+      "recentCitations": 0,
       "s2_paper_id": "5ee7aceac233a82917e92f646d2284fffcfd28b2",
       "url": "https://doi.org/10.1186/s12909-025-07674-x",
       "image": "",

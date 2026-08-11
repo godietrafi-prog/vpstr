@@ -198,16 +198,10 @@ def extract_date(entry, raw_html: str) -> str:
 # ── Lab researchers ────────────────────────────────────────────────────────
 LAB_YEARS_BACK = 4   # dynamic window: current_year - LAB_YEARS_BACK
 
-_GS = "https://scholar.googleusercontent.com/citations?view_op=view_photo&user="
-RESEARCHERS = [
-    {"name": "Iris Zohar",       "s2_id": "38522818",    "photo": _GS + "YVQd-pwAAAAJ"},
-    {"name": "Ofir Benjamin",    "s2_id": "72231484",    "photo": _GS + "FsjV0oIAAAAJ"},
-    {"name": "Adi Jonas-Levi",   "s2_id": "2311554993",  "photo": _GS + "MbCf9l4AAAAJ"},
-    {"name": "Loai Basheer",     "s2_id": "4157421",     "photo": "media/photos/loai_basheer.png"},
-    {"name": "Gilad Davidson-Rozenfeld", "s2_id": "1410646763", "photo": _GS + "vh7tqKQAAAAJ"},
-    {"name": "Rafi Steckler",    "s2_id": "1403949953",  "photo": _GS + "BOhLTM0AAAAJ"},
-    {"name": "Giora Rytwo",      "s2_id": "4960911",     "photo": "media/photos/giora_rytwo.jpg"},
-]
+_SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
+
+with open(os.path.join(_SCRIPT_DIR, "researchers_config.json"), encoding="utf-8") as _f:
+    RESEARCHERS = json.load(_f)
 
 _S2_FIELDS = "title,year,venue,authors,abstract,externalIds,citationCount"
 
@@ -301,38 +295,8 @@ def fetch_recent_citations(paper_id: str, days: int = 30) -> int:
 
 
 # ── Feed configuration ─────────────────────────────────────────────────────
-FEEDS = [
-    # ── Left screen — academic journals ───────────────────────────────────
-    {"url": "https://www.nature.com/natfood.rss",
-     "name": "Nature Food",              "type": "nature",    "screen": "left"},
-    {"url": "https://rss.sciencedirect.com/publication/science/03088146",
-     "name": "Food Chemistry",           "type": "elsevier",  "screen": "left"},
-    {"url": "https://rss.sciencedirect.com/publication/science/09242244",
-     "name": "Trends in Food Sci & Tech","type": "elsevier",  "screen": "left"},
-    {"url": "https://rss.sciencedirect.com/publication/science/09503293",
-     "name": "Food Quality & Preference","type": "elsevier",  "screen": "left"},
-    {"url": "https://www.frontiersin.org/journals/analytical-science/rss",
-     "name": "Frontiers Anal. Science",  "type": "frontiers", "screen": "left"},
-    {"url": "https://www.frontiersin.org/journals/food-science-and-technology/rss",
-     "name": "Frontiers Food Science",   "type": "frontiers", "screen": "left"},
-    {"url": "https://rss.sciencedirect.com/publication/science/07400020",
-     "name": "Food Microbiology",        "type": "elsevier",  "screen": "left"},
-    # ── Right screen — science news + applied ─────────────────────────────
-    {"url": "https://phys.org/rss-feed/chemistry-news/analytical-chemistry/",
-     "name": "Phys.org Analytics",       "type": "generic",   "screen": "right"},
-    {"url": "https://www.sciencedaily.com/rss/plants_animals/biotechnology_and_bioengineering.xml",
-     "name": "ScienceDaily Biotech",     "type": "generic",   "screen": "right"},
-    {"url": "https://www.sciencedaily.com/rss/health_medicine/nutrition.xml",
-     "name": "ScienceDaily Nutrition",   "type": "generic",   "screen": "right"},
-    {"url": "https://www.sciencedaily.com/rss/plants_animals/food_agriculture.xml",
-     "name": "ScienceDaily Food & Agri", "type": "generic",   "screen": "right"},
-    {"url": "https://www.frontiersin.org/journals/nutrition/rss",
-     "name": "Frontiers Nutrition",      "type": "frontiers", "screen": "right"},
-    {"url": "https://www.mdpi.com/rss/journal/nutrients",
-     "name": "Nutrients (MDPI)",         "type": "generic",   "screen": "right"},
-    {"url": "https://link.springer.com/search.rss?facet-journal-id=394",
-     "name": "Eur. J. Nutrition",        "type": "generic",   "screen": "right"},
-]
+with open(os.path.join(_SCRIPT_DIR, "feeds_config.json"), encoding="utf-8") as _f:
+    FEEDS = json.load(_f)
 
 MAX_PER_FEED = 4   # cards shown per feed
 ABSTRACT_MAX = 1600 # characters (~15 lines)

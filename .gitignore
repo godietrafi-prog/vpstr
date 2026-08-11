@@ -2,3 +2,10 @@ __pycache__/
 *.pdf
 screenshots/
 Screenshot *.png
+MEMORY.md
+tomorrow.md
+_archive/
+process_video_left.bat
+process_video_left_portrait.bat
+process_video_right.bat
+process_video_right_portrait.bat

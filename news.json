@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-12T20:33:58Z",
+  "updated": "2026-08-12T22:32:01Z",
   "items": [
     {
       "title": "Considerations for maximizing the effectiveness of debt-for-food swaps",
@@ -282,6 +282,26 @@
       "screen": "left"
     },
     {
+      "title": "Greener processing cuts cost of novel material for water decontamination",
+      "abstract": "University of Birmingham scientists who used green chemistry to make a next-generation metal-organic framework (MOF) for capturing heavy metals from wastewater have shown that it is cheaper and more resource-efficient to produce than a similar MOF processed conventionally.",
+      "authors": "",
+      "published": "Aug 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-08-greener-material-decontamination.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/greener-processing-mak.jpg",
+      "screen": "right"
+    },
+    {
+      "title": "An open-source tool for automated consolidation of lipid data",
+      "abstract": "In collaboration with the University of Vienna, the Technical University of Munich (TUM), and Heidelberg University, researchers at the TUD Dresden University of Technology have developed an innovative tool that significantly simplifies lipid research. The new open-source platform, LipidLibrarian, enables the automated consolidation of fragmented data from international lipid databases, such as LIPID MAPS, SwissLipids, and ALEX123, into a single, user-friendly interface for the first time. This enables researchers to identify new diagnostic markers more quickly, and to develop personalized therapies and innovative medicines. A study published in the Journal of Lipid Research details the platform's functionality and potential",
+      "authors": "",
+      "published": "Aug 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-08-source-tool-automated-lipid.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/researchers-introduce.jpg",
+      "screen": "right"
+    },
+    {
       "title": "Sugar swap simplifies production of promising targeted cancer therapies",
       "abstract": "Researchers at the University of Wisconsin–Madison have developed a simpler way to produce a fast-growing class of targeted cancer therapies, a discovery that could make the medicines easier to manufacture consistently while driving the development of new treatment options.",
       "authors": "",
@@ -299,26 +319,6 @@
       "feedName": "Phys.org Analytics",
       "url": "https://phys.org/news/2026-08-porous-material-disordered-gas-molecules.html",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/kaist-shapes-a-templat.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "Engineered enzymes forge carbon-carbon and carbon-nitrogen bonds with high selectivity",
-      "abstract": "Researchers from the Manchester Institute of Biotechnology, including Dr. Zachary Birch-Price and professor Anthony Green, have developed a new family of engineered enzymes that can create several different types of chemical bonds used to build complex molecules. This work demonstrates how artificial enzymes can be adapted to carry out a broad range of carbon-carbon (C-C) and carbon-nitrogen (C-N) bond-forming reactions with high selectivity, offering new possibilities for biocatalysis.",
-      "authors": "",
-      "published": "Aug 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-08-enzymes-forge-carbon-nitrogen-bonds.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/engineered-enzymes-bui.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "New catalyst with 75% less platinum promises to reduce the cost of hydrogen fuel cells",
-      "abstract": "The high cost of platinum is one of the main barriers to the wider adoption of hydrogen fuel cells. Now, researchers at IMDEA Materials Institute have developed a catalyst that delivers the same performance while using 75% less of this expensive metal. The study, published in Electrochimica Acta, demonstrates a breakthrough made possible by applying controlled mechanical compression to the catalyst. This modifies its atomic-scale structure, enabling it to achieve energy efficiency comparable to that of pure platinum.",
-      "authors": "",
-      "published": "Aug 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-08-catalyst-platinum-hydrogen-fuel-cells.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/new-catalyst-with-75-l.jpg",
       "screen": "right"
     },
     {

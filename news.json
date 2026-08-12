@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-12T14:50:28Z",
+  "updated": "2026-08-12T16:49:21Z",
   "items": [
     {
       "title": "Considerations for maximizing the effectiveness of debt-for-food swaps",
@@ -82,6 +82,16 @@
       "screen": "left"
     },
     {
+      "title": "Programmable yeasts for future food systems: A strain–function–application–safety framework",
+      "abstract": "",
+      "authors": "Qin Cao, Dongyuan Zhou, Ying Wang et al.",
+      "published": "Nov 2026",
+      "feedName": "Trends in Food Sci & Tech",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426004760?dgcid=rss_sd_all",
+      "image": "",
+      "screen": "left"
+    },
+    {
       "title": "Bile acid metabolic remodeling induced by foodborne contaminants: Mechanistic interfaces and implications for food safety risk assessment",
       "abstract": "",
       "authors": "Mengmeng Chen, Jing Cao, Shiyao Fu et al.",
@@ -108,16 +118,6 @@
       "published": "Nov 2026",
       "feedName": "Trends in Food Sci & Tech",
       "url": "https://www.sciencedirect.com/science/article/pii/S0924224426004504?dgcid=rss_sd_all",
-      "image": "",
-      "screen": "left"
-    },
-    {
-      "title": "Bacterial surface interfaces in food systems: a programmable regulatory layer",
-      "abstract": "",
-      "authors": "Hao-Ran Zhang, Jun Meng, Yun-Peng Hao et al.",
-      "published": "Nov 2026",
-      "feedName": "Trends in Food Sci & Tech",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426004772?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -322,6 +322,16 @@
       "screen": "right"
     },
     {
+      "title": "Scientists find evidence for two origins of life on Earth",
+      "abstract": "Scientists probing life’s deepest origins have uncovered evidence that the first free-living cells may have emerged not once, but twice. The findings suggest a striking possibility: life may share one ancient genetic code, yet have undergone two separate transitions into free-living existence.",
+      "authors": "",
+      "published": "Aug 2026",
+      "feedName": "ScienceDaily Biotech",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260811011134.htm",
+      "image": "https://www.sciencedaily.com/images/1920/origin-of-life-first-cells-biochemistry.webp",
+      "screen": "right"
+    },
+    {
       "title": "Scientists just found what keeps plant cells from growing out of control",
       "abstract": "Before seedlings can photosynthesize, they depend on fatty acids—and on peroxisomes to process them. Researchers discovered that the protein PEX11 not only helps these structures divide but also controls their size during early growth. When key genes were altered, peroxisomes grew abnormally large, suggesting internal vesicles normally keep them in balance. Remarkably, a yeast version of the protein fixed the problem, pointing to a deeply conserved mechanism across species.",
       "authors": "",
@@ -352,13 +362,13 @@
       "screen": "right"
     },
     {
-      "title": "The 4x rule: Why some people’s DNA is more unstable than others",
-      "abstract": "A large genetic study shows that many people carry DNA sequences that slowly expand as they get older. Common genetic variants can dramatically alter how fast this expansion happens, sometimes multiplying the pace by four. Researchers also identified specific DNA expansions linked to severe kidney and liver disease. The findings suggest that age-related DNA instability is far more common than previously realized.",
+      "title": "Ozempic may have revealed the brain’s hidden “craving center”",
+      "abstract": "Ozempic-like drugs appear to weaken more than hunger—they may also reduce cravings for alcohol and other addictive substances. Scientists are increasingly tracing this effect to the lateral septum, a brain region that helps connect memories and surroundings with rewarding experiences. Packed with GLP-1 receptors, it may act as a crucial control point between thinking about a reward and feeling compelled to pursue it. The discovery could open new approaches to treating addiction as well as obesity.",
       "authors": "",
-      "published": "Jan 2026",
-      "feedName": "ScienceDaily Biotech",
-      "url": "https://www.sciencedaily.com/releases/2026/01/260109080214.htm",
-      "image": "https://www.sciencedaily.com/images/1920/dna-mutation-genetic-damage.webp",
+      "published": "Aug 2026",
+      "feedName": "ScienceDaily Nutrition",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260811011138.htm",
+      "image": "https://www.sciencedaily.com/images/1920/neuroscience-addiction-brain-cravings.webp",
       "screen": "right"
     },
     {
@@ -392,13 +402,13 @@
       "screen": "right"
     },
     {
-      "title": "Cutting sweet foods doesn’t curb cravings or improve health",
-      "abstract": "Changing how much sweet-tasting food people eat may not change how much they crave or enjoy sweetness after all. In a six-month trial, researchers found that people assigned to high-, low-, or average-sweetness diets showed no meaningful differences in their preference for sweet foods, body weight, or markers linked to diabetes and heart disease. Many participants also drifted back toward their previous eating habits once the trial ended.",
-      "authors": "",
+      "title": "Nutrition and allergic rhinitis: progress and perspectives on vitamin-mediated regulation",
+      "abstract": "Allergic rhinitis (AR) is a highly prevalent chronic inflammatory disease that imposes a substantial socioeconomic burden. Although conventional pharmacotherapy often provides symptomatic relief, recurrent exacerbations remain common in some patients. Micronutrients, particularly vitamins, have attracted increasing attention as potential immunomodulatory factors in AR. In this review, we identified relevant literature on vitamins, allergic airway inflammation, and immune-cell regulation from PubMed and Web of Science. Both direct evidence specific to allergic rhinitis and indirect evidence derived from asthma, broader allergic airway diseases, animal models, and in vitro cellular experiments were included, with a primary focus on distinguishing three categories of evidence: mechanistic rationale, observational associations, and clinical therapeutic efficacy. Vitamins A and D have been reported to promote regulatory T cell (Treg) differentiation and expansion while suppressing pathogenic T helper 17 (Th17) responses. Vitamin D may further stabilize mast cells, drive dendritic cells toward a tolerogenic phenotype, and enhance interleukin-10 (IL-10) production in B cells. Vitamin E and its isoforms exert anti-inflammatory effects by inhibiting mast cell activation, modulating group 2 innate lymphoid cell (ILC2) activity, and reducing Th2-type cytokine production. Extending beyond these classical immune-cell pathways, this review also discusses the potential role of vitamin-regulated microRNAs (miRNAs) in allergic inflammation. However, the strength of evidence varies substanti…",
+      "authors": "Jingwen Zhang, Yixi Xiao, Hengkang He et al.",
       "published": "Aug 2026",
-      "feedName": "ScienceDaily Nutrition",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260807235103.htm",
-      "image": "https://www.sciencedaily.com/images/1920/woman-eating-cake-refrigerator.webp",
+      "feedName": "Frontiers Nutrition",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1885368",
+      "image": "",
       "screen": "right"
     },
     {
@@ -412,22 +422,12 @@
       "screen": "right"
     },
     {
-      "title": "Gastrointestinal microbiota alterations associated with pediatric gastroesophageal reflux disease and proton pump inhibitor exposure: a systematic review of microbiome changes, dysbiosis markers, and associated clinical outcomes",
-      "abstract": "IntroductionGastroesophageal reflux disease (GERD) and proton pump inhibitor (PPI) therapy have both been associated with alterations of the developing gastrointestinal microbiome and potential downstream clinical consequences in children. However, available evidence is fragmented across disease-related, treatment-related, and mechanistic studies, making the overall biological relationship difficult to interpret.MethodsPubMed, Web of Science, and Scopus databases were queried for the period January 2000 to May 2026 to synthesize evidence across the pathophysiological continuum linking pediatric GERD, microbiota alterations, inflammatory mechanisms, PPI exposure, and microbiota-associated clinical outcomes.ResultsThe review included studies evaluating children with GERD as well as mechanistic studies involving pediatric upper gastrointestinal conditions requiring PPI therapy when microbiota-related outcomes were relevant to the review objective. Study selection was performed according to PRISMA guidelines, 31 of which were included in the final analysis. The data indicate that pediatric exposure to GERD and PPI is associated with changes in the gastrointestinal microbiota at multiple levels (oral, esophageal, gastric, and intestinal). These changes include reduced microbial diversity, changes in bacterial composition (particularly Firmicutes, Proteobacteria, Bacteroidetes, and Actinobacteria), and increased similarity of microbiota between aerodigestive compartments, suggesting possible microbial transfer associated with reflux or aspiration. PPI exposure has been frequently…",
-      "authors": "Vasile Valeriu Lupu, Elena Jechel, Anca Adam Raileanu et al.",
+      "title": "The interaction between sugar-sweetened beverage consumption and emotional status with subjective cognitive decline among rural older adults: a cross-sectional study",
+      "abstract": "ObjectivesThis study explored the interactive and joint effects of Sugar-Sweetened Beverage (SSB) consumption, positive and negative affect with Subjective Cognitive Decline (SCD) among rural older adults, providing empirical evidence for formulating targeted strategies for the early intervention of cognitive decline in the rural older population.MethodsThis cross-sectional study recruited 485 valid participants from rural areas of Ningxia, China, using a stratified cluster sampling method. Key indicators were assessed with the subjective cognitive decline questionnaire, the positive and negative affect schedule, the sugar-sweetened beverage consumption questionnaire, and sociodemographic covariates. Data analysis included independent-samples t-test, analysis of variance, correlation analysis, and linear regression models with the PROCESS macro in SPSS for examining interaction effects.ResultsGender, education, and self-rated health were independent associated factors of SCD among rural older adults. Positive affect was negatively correlated with SCD (β = −0.238, P < 0.001), while negative affect was positively correlated with SCD (β = 0.377, P < 0.042). There was an interactive effect between SSB consumption and positive affect on SCD (β = 0.082, P = 0.012). Simple slope analysis showed that higher positive affect was associated with less severe SCD among no SSB consumers, whereas the protective effect of positive affect against SCD was significantly attenuated among SSB consumers. The joint effect analysis revealed that compared with the reference group (no SSB consumptio…",
+      "authors": "Yahong Guo, Jing Shi, Xinjin Li et al.",
       "published": "Aug 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1909690",
-      "image": "",
-      "screen": "right"
-    },
-    {
-      "title": "Nutrition and allergic rhinitis: progress and perspectives on vitamin-mediated regulation",
-      "abstract": "Allergic rhinitis (AR) is a highly prevalent chronic inflammatory disease that imposes a substantial socioeconomic burden. Although conventional pharmacotherapy often provides symptomatic relief, recurrent exacerbations remain common in some patients. Micronutrients, particularly vitamins, have attracted increasing attention as potential immunomodulatory factors in AR. In this review, we identified relevant literature on vitamins, allergic airway inflammation, and immune-cell regulation from PubMed and Web of Science. Both direct evidence specific to allergic rhinitis and indirect evidence derived from asthma, broader allergic airway diseases, animal models, and in vitro cellular experiments were included, with a primary focus on distinguishing three categories of evidence: mechanistic rationale, observational associations, and clinical therapeutic efficacy. Vitamins A and D have been reported to promote regulatory T cell (Treg) differentiation and expansion while suppressing pathogenic T helper 17 (Th17) responses. Vitamin D may further stabilize mast cells, drive dendritic cells toward a tolerogenic phenotype, and enhance interleukin-10 (IL-10) production in B cells. Vitamin E and its isoforms exert anti-inflammatory effects by inhibiting mast cell activation, modulating group 2 innate lymphoid cell (ILC2) activity, and reducing Th2-type cytokine production. Extending beyond these classical immune-cell pathways, this review also discusses the potential role of vitamin-regulated microRNAs (miRNAs) in allergic inflammation. However, the strength of evidence varies substanti…",
-      "authors": "Jingwen Zhang, Yixi Xiao, Hengkang He et al.",
-      "published": "Aug 2026",
-      "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1885368",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1879896",
       "image": "",
       "screen": "right"
     },

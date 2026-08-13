@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-13T18:50:37Z",
+  "updated": "2026-08-13T20:32:35Z",
   "items": [
     {
       "title": "Considerations for maximizing the effectiveness of debt-for-food swaps",
@@ -282,6 +282,26 @@
       "screen": "left"
     },
     {
+      "title": "Rechargeable nickel reservoir enables nitrile production in organic solvents",
+      "abstract": "Inspired by pumped-storage hydropower, a nickel-based redox reservoir enables spontaneous nitrile synthesis in organic solvents, while hydrogen gas is produced separately.",
+      "authors": "",
+      "published": "Aug 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-08-rechargeable-nickel-reservoir-enables-nitrile.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/a-redox-reservoir-sepa.jpg",
+      "screen": "right"
+    },
+    {
+      "title": "Magnetic mystery in thorium clusters resolved by new study",
+      "abstract": "Scientists from the University of Manchester's Department of Chemistry, Centre for Radiochemistry Research and Photon Science Institute, led by Professor Steve Liddle, have uncovered why a rare class of metal clusters appears to behave differently in experiments and theoretical calculations, resolving a debate about the nature of chemical aromaticity and revealing a previously overlooked type of magnetic response.",
+      "authors": "",
+      "published": "Aug 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-08-magnetic-mystery-thorium-clusters.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/magnetic-mystery-in-th.jpg",
+      "screen": "right"
+    },
+    {
       "title": "One-step synthesis of catalysts that turn carbon dioxide into useful methane",
       "abstract": "A simple flame-synthesis method can produce highly active catalysts for converting carbon dioxide into methane, as reported by researchers from Science Tokyo. The team used flame-assisted spray pyrolysis to manufacture nickel–cerium oxide catalysts with finer nanoparticles and more active sites than conventional methods. These catalysts achieved outstanding methanation performance while remaining suitable for large-scale production, offering a practical route toward carbon-neutral fuel technologies.",
       "authors": "",
@@ -299,26 +319,6 @@
       "feedName": "Phys.org Analytics",
       "url": "https://phys.org/news/2026-08-nature-dimmer-algae-photosynthesis-ph.html",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/understanding-natures-2.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "Greener processing cuts cost of novel material for water decontamination",
-      "abstract": "University of Birmingham scientists who used green chemistry to make a next-generation metal-organic framework (MOF) for capturing heavy metals from wastewater have shown that it is cheaper and more resource-efficient to produce than a similar MOF processed conventionally.",
-      "authors": "",
-      "published": "Aug 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-08-greener-material-decontamination.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/greener-processing-mak.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "An open-source tool for automated consolidation of lipid data",
-      "abstract": "In collaboration with the University of Vienna, the Technical University of Munich (TUM), and Heidelberg University, researchers at the TUD Dresden University of Technology have developed an innovative tool that significantly simplifies lipid research. The new open-source platform, LipidLibrarian, enables the automated consolidation of fragmented data from international lipid databases, such as LIPID MAPS, SwissLipids, and ALEX123, into a single, user-friendly interface for the first time. This enables researchers to identify new diagnostic markers more quickly, and to develop personalized therapies and innovative medicines. A study published in the Journal of Lipid Research details the platform's functionality and potential",
-      "authors": "",
-      "published": "Aug 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-08-source-tool-automated-lipid.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/researchers-introduce.jpg",
       "screen": "right"
     },
     {

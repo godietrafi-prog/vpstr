@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-13T14:51:01Z",
+  "updated": "2026-08-13T16:46:09Z",
   "items": [
     {
       "title": "Considerations for maximizing the effectiveness of debt-for-food swaps",
@@ -82,42 +82,42 @@
       "screen": "left"
     },
     {
+      "title": "High pressure processing for UK shellfish: Yield, safety and the case for shared infrastructure",
+      "abstract": "",
+      "authors": "Mark Tupper, Andrew Williams, Harry Norman",
+      "published": "Nov 2026",
+      "feedName": "Trends in Food Sci & Tech",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426004796?dgcid=rss_sd_all",
+      "image": "",
+      "screen": "left"
+    },
+    {
+      "title": "Regulatory effects of chitosan and chito-oligosaccharides on gut microbiota and application in ameliorating inflammatory bowel disease",
+      "abstract": "",
+      "authors": "Rao Dai, Hang Li, Song Liu et al.",
+      "published": "Nov 2026",
+      "feedName": "Trends in Food Sci & Tech",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426004620?dgcid=rss_sd_all",
+      "image": "",
+      "screen": "left"
+    },
+    {
+      "title": "Applications of nanozymes in food packaging: From antibacterial preservation to intelligent monitoring",
+      "abstract": "",
+      "authors": "Can Zhou, Qian Wu, Bing Liu et al.",
+      "published": "Nov 2026",
+      "feedName": "Trends in Food Sci & Tech",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426004589?dgcid=rss_sd_all",
+      "image": "",
+      "screen": "left"
+    },
+    {
       "title": "Programmable yeasts for future food systems: A strain–function–application–safety framework",
       "abstract": "",
       "authors": "Qin Cao, Dongyuan Zhou, Ying Wang et al.",
       "published": "Nov 2026",
       "feedName": "Trends in Food Sci & Tech",
       "url": "https://www.sciencedirect.com/science/article/pii/S0924224426004760?dgcid=rss_sd_all",
-      "image": "",
-      "screen": "left"
-    },
-    {
-      "title": "Bile acid metabolic remodeling induced by foodborne contaminants: Mechanistic interfaces and implications for food safety risk assessment",
-      "abstract": "",
-      "authors": "Mengmeng Chen, Jing Cao, Shiyao Fu et al.",
-      "published": "Nov 2026",
-      "feedName": "Trends in Food Sci & Tech",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426004632?dgcid=rss_sd_all",
-      "image": "",
-      "screen": "left"
-    },
-    {
-      "title": "Decoding the chemical signatures of Chinese specialty honeys via multi-omics approaches: A review",
-      "abstract": "",
-      "authors": "Xintong Hou, Benyan Tang, Longfei Chen et al.",
-      "published": "Nov 2026",
-      "feedName": "Trends in Food Sci & Tech",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426004437?dgcid=rss_sd_all",
-      "image": "",
-      "screen": "left"
-    },
-    {
-      "title": "PRPP allocation-centered microbial biomanufacturing of Nucleosides: Metabolic engineering, AI-DBTL, and food-grade industrialization challenges",
-      "abstract": "",
-      "authors": "Tong Ye, Junnan Xu, Xiaobo Wei et al.",
-      "published": "Nov 2026",
-      "feedName": "Trends in Food Sci & Tech",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426004504?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -402,22 +402,32 @@
       "screen": "right"
     },
     {
-      "title": "Dietary melatonin, chronotype, and night eating syndrome in relation to sleep quality among adults",
-      "abstract": "ObjectiveDietary melatonin has attracted increasing interest because of its potential relevance to circadian regulation and sleep health. However, evidence regarding its relationship with chronotype, night eating behaviors, and sleep quality remains limited. This study aimed to examine the associations among estimated dietary melatonin intake, chronotype, night eating behaviors, and sleep quality in adults and to explore the cross-sectional indirect association among chronotype, night eating behaviors, and sleep quality.MethodsThis cross-sectional study was conducted in Istanbul, Türkiye, between November 2024 and June 2025 and included 325 adults aged 18–65 years. Sleep quality was assessed using the Pittsburgh Sleep Quality Index (PSQI), chronotype using the Morningness–Eveningness Questionnaire (MEQ), and night eating behaviors using the Night Eating Questionnaire (NEQ). Dietary melatonin intake was estimated using a modified food frequency questionnaire based on melatonin-containing foods. Pearson correlation analysis, multiple linear regression, binary logistic regression, and an exploratory cross-sectional indirect-association analysis using PROCESS Model 4 were performed.ResultsMean total dietary melatonin intake was 10.485 ± 13.306 μg/day. PSQI scores were positively correlated with NEQ scores (r = 0.537, p < 0.001) and negatively correlated with MEQ scores (r = −0.159, p = 0.004). In the multiple linear regression model, NEQ score was positively associated with PSQI score (B = 0.198, standardized β = 0.491, 95% CI: 0.156–0.239, p < 0.001), whereas MEQ score was neg…",
-      "authors": "Selda Gelyani, Yagmur Demirel Ozbek, Nurgul Arslan",
+      "title": "Timing, continuity, and energy dose of oral nutritional supplements in older coronary care unit patients: associations with prognostic nutritional index trajectory and hospitalization burden",
+      "abstract": "ObjectivesOlder adults account for a disproportionate share of coronary care unit (CCU) admissions, where acute cardiovascular instability, systemic inflammation, and nutritional deterioration converge. This single-center retrospective cohort study explored whether the timing, continuity, and daily energy dose of oral nutritional supplements (ONS) carry distinct associations with nutritional recovery and hospitalization burden in older CCU patients, to generate hypotheses for prospective investigation.MethodsThis single-center retrospective cohort study included 98 CCU patients (median age 80 years, IQR 73–86; 56.1% male) who received nutrition consultation-guided ONS between January 2023 and January 2026. Three delivery characteristics were examined: time from admission to ONS initiation, the ratio of ONS duration to total hospital stay, and average daily energy dose. Prognostic nutritional index (PNI) was tracked at admission, ONS initiation, and discharge or ONS cessation. Multivariable linear regression was used across three hierarchical models, supplemented by restricted cubic spline modeling and inverse probability weighting.ResultsPNI followed a V-shaped trajectory—declining from 37.65 ± 6.07 at admission to 35.24 ± 5.01 at ONS initiation, then rising to 36.26 ± 5.08 at discharge. Earlier initiation was independently associated with shorter hospital stay (β = 0.066 per day of delay, 95% CI: 0.043–0.088, p < 0.001) and lower total expenses (β = 0.056, p < 0.001). Greater continuity was similarly associated with reduced burden (β = −1.055, p < 0.001). Higher daily ener…",
+      "authors": "Shengquan Wang, Yu Zhang, Yanyu Yuan et al.",
       "published": "Aug 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1890075",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1916756",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "FN1-associated cavernous endothelial remodeling induced by bisphenol A: relevance to erectile dysfunction and attenuation by baicalin",
-      "abstract": "BackgroundPrevious studies suggest that bisphenol A (BPA) exposure may impair erectile function, but the underlying cavernous endothelial mechanisms remain unclear. Whether BPA induces endothelial alterations resembling those in diabetic erectile dysfunction (DMED) is unknown.MethodsBPA targets, DMED-related genes, and self-generated DMED corpus cavernosum transcriptomic data were integrated to identify candidate genes. Protein–protein interaction analysis and machine-learning-assisted feature selection were used to prioritize consensus candidate genes. Human corpus cavernosum single-cell and normal spatial transcriptomic data were analyzed to characterize cell-type-specific expression and endothelial remodeling. Molecular docking and 100-ns molecular dynamics simulations evaluated the predicted structural compatibility of BPA and baicalin with an available FN1 domain. BPA exposure, FN1 knockdown, and delayed baicalin intervention were then evaluated in immortalized rat corpus cavernosum endothelial cells by RT-qPCR, Western blotting, and CCK-8 assays.ResultsForty-three BPA–DMED-associated candidate genes were identified, with FN1 consistently prioritized by network topology and machine-learning analyses. FN1 was enriched in fibroblasts and a subset of endothelial cells, and FN1-high DMED endothelial cells showed enhanced endothelial-to-mesenchymal transition-like remodeling. Spatial reference analysis showed a positive association between FN1 expression and remodeling scores. In vitro, BPA increased FN1, reduced endothelial markers, increased mesenchymal-related markers, a…",
-      "authors": "Xinyao Zhu, Zhen Luo, Qilong Wu et al.",
+      "title": "Prognostic value of albumin-related inflammatory ratios for 30-day mortality in rheumatic heart disease: a dual-cohort study with external validation",
+      "abstract": "BackgroundRheumatic heart disease (RHD) is a chronic valvular condition characterized by persistent autoimmune inflammation and nutritional deficiencies. Albumin not only reflects the body’s nutritional status but also eliminates pro-inflammatory stimuli and mitigates inflammatory responses. This study aimed to evaluate the prognostic value of novel albumin-related inflammatory biomarkers for short-term mortality in patients with RHD.MethodsThis retrospective dual-cohort study included 496 RHD patients from the MIMIC-IV database and 268 patients from Shaanxi Provincial People’s Hospital. The primary outcome was all-cause mortality within 30 days. Cox proportional hazards regression, restricted cubic spline analysis, time-dependent ROC curves, and integrated discrimination improvement (IDI) were performed to assess the independent associations, dose–response relationships, discriminative ability, and incremental predictive value of each biomarker.ResultsRAR consistently demonstrated the strongest association with 30-day mortality across both cohorts. In fully adjusted Cox models, RAR remained significantly associated with mortality (MIMIC: HR 4.12, 95% CI 1.79–9.49; external validation: HR 3.20, 95% CI 1.25–8.23). RAR also showed significant positive linear dose–response relationships, achieved the highest time-dependent AUC, and provided significant incremental predictive value beyond SOFA, SAPS II, and OASIS in both cohorts (all IDI p < 0.05). LAR was protective in the validation cohort (HR 0.61, 95% CI 0.43–0.88), while NAR and PAR showed cohort-specific associations. MAR…",
+      "authors": "Wen Li, Zhanfang Zhu, Jinxia Hao et al.",
       "published": "Aug 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1920479",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1916028",
+      "image": "",
+      "screen": "right"
+    },
+    {
+      "title": "The joint association of insulin resistance index and neutrophil percentage to albumin ratio with acute kidney injury after orthopedic surgery: a retrospective cohort study",
+      "abstract": "BackgroundPostoperative acute kidney injury (AKI) is a serious complication following orthopedic surgery. Both insulin resistance (IR) and inflammation have been implicated as risk factors for AKI in surgical populations. This study aimed to evaluate the joint association of IR and inflammatory markers for postoperative AKI after orthopedic surgery.MethodsThis retrospective cohort study enrolled 4,665 adult patients undergoing orthopedic surgery at Nanfang Hospital, Southern Medical University, between January 2018 and October 2023. The primary outcome was AKI; secondary outcomes included intensive care unit (ICU) admission and the length of hospital stay after surgery. IR was evaluated using triglyceride-glucose index (TyG) and TyG-body mass index (TyG-BMI), while inflammatory status was assessed by neutrophil-percentage-to-albumin ratio (NPAR). Multivariable logistic regression models and restricted cubic splines were used to estimate AKI risk. Discriminatory ability was assessed through receiver operating characteristic (ROC) curves with area under curves (AUC). Sensitivity analyses were performed by sequentially excluding predefined high-risk subgroups (e.g., spinal/deformity correction, emergency surgery, diabetes, hyperlipemia, acute trauma/infection) and through a best-case scenario analysis assuming missing creatinine values as non-events.ResultsAmong 4,665 patients, 232 (4.97%) developed AKI. In fully adjusted models, both IR indicators and NPAR were linearly associated with an increased risk of AKI. The combination of elevated IR indicators and NPAR demonstrated a…",
+      "authors": "Fu Zhang, Xiaomin Hou, Chengwei Tan et al.",
+      "published": "Aug 2026",
+      "feedName": "Frontiers Nutrition",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1866149",
       "image": "",
       "screen": "right"
     },
@@ -428,16 +438,6 @@
       "published": "Aug 2026",
       "feedName": "Frontiers Nutrition",
       "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1844650",
-      "image": "",
-      "screen": "right"
-    },
-    {
-      "title": "Gas-liquid partitioning and olfactory interplay between isoamyl alcohol and typical odorants in binary hydroalcoholic models of navel orange brandy",
-      "abstract": "Intermolecular interactions among volatile typical odorants define the characteristic sensory profile of navel orange brandy, with isoamyl alcohol-the dominant fusel higher alcohol-functioning as a pivotal flavor regulator. Excess isoamyl alcohol blunts distinct citrus fruity notes and destroys organoleptic harmony; nevertheless, systematic mechanistic explorations targeting citrus brandy remain insufficient. Herein, simplified 54% (v/v) binary hydroalcoholic models were established to exclude complicated coexisting matrix interference, allowing exclusive dissection of pairwise odorant interactions. A dual analytical workflow combining HS-SPME-GC-MS quantification and sigmoidal olfactory threshold fitting was constructed to elucidate concentration-dependent (0–800 mg/L isoamyl alcohol) variations in gas-liquid partitioning and olfactory interplay across 18 citrus typical odorants. In binary hydroalcoholic systems, isoamyl alcohol continuously hampered the volatilization of fatty acid ethyl esters, and inhibitory potency declined progressively as carbon chains elongated. This fusel alcohol imposed dual concentration-mediated effects on linear aliphatic alcohols: concentrations ≤ 400 mg/L boosted odorant release into the headspace, while higher dosages suppressed partitioning, and such bidirectional shifts were more prominent for short-chain analogs. Acyclic terpenols suffered steady volatility attenuation with elevated isoamyl alcohol, whereas monocyclic D-limonene and α-terpineol underwent initial promotion followed by inhibition, with respective turning points at 400 mg/L …",
-      "authors": "Zhenzhen Huang, Zhuoyue Wu, Shasha Qu et al.",
-      "published": "Aug 2026",
-      "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1927483",
       "image": "",
       "screen": "right"
     },

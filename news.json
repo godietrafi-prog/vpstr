@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-14T14:45:57Z",
+  "updated": "2026-08-14T16:42:16Z",
   "items": [
     {
       "title": "Considerations for maximizing the effectiveness of debt-for-food swaps",
@@ -92,6 +92,16 @@
       "screen": "left"
     },
     {
+      "title": "Citrus essential oils: Extraction, composition, biological activities, and applications",
+      "abstract": "",
+      "authors": "Xinyi Liu, Ke Fang, Xianzhong Lv et al.",
+      "published": "Nov 2026",
+      "feedName": "Trends in Food Sci & Tech",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426004814?dgcid=rss_sd_all",
+      "image": "",
+      "screen": "left"
+    },
+    {
       "title": "Regulatory effects of chitosan and chito-oligosaccharides on gut microbiota and application in ameliorating inflammatory bowel disease",
       "abstract": "",
       "authors": "Rao Dai, Hang Li, Song Liu et al.",
@@ -108,16 +118,6 @@
       "published": "Nov 2026",
       "feedName": "Trends in Food Sci & Tech",
       "url": "https://www.sciencedirect.com/science/article/pii/S0924224426004589?dgcid=rss_sd_all",
-      "image": "",
-      "screen": "left"
-    },
-    {
-      "title": "Programmable yeasts for future food systems: A strain–function–application–safety framework",
-      "abstract": "",
-      "authors": "Qin Cao, Dongyuan Zhou, Ying Wang et al.",
-      "published": "Nov 2026",
-      "feedName": "Trends in Food Sci & Tech",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426004760?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -402,42 +402,42 @@
       "screen": "right"
     },
     {
-      "title": "Dietary resveratrol improves meat quality and antioxidant capacity of Tibetan sheep by regulating muscle fiber characteristics and mitochondrial function",
-      "abstract": "ObjectiveCombining metabolomics and proteomics, this study aimed to investigate the effects of resveratrol (RES) on meat quality, antioxidant capacity, muscle fiber characteristics and mitochondrial function in Tibetan sheep.MethodsThirty healthy, 10-month-old male Tibetan sheep (33.87 ± 1.65 kg) were divided into three treatments: CON (basal diet), ResL (basal diet + 80 mg/kg RES), and ResH (basal diet + 360 mg/kg RES; n = 10). The experiment had a prefeeding period of 10 d and a treatment period of 84 d.ResultsDietary RES supplementation significantly improved meat quality by decreasing shear force and drip loss, and increasing crude protein content (P < 0.05). For antioxidant capacity, RES enhanced SOD and GSH-Px activities (P < 0.05), upregulated SOD1, SOD2, and Nrf2 (P < 0.05), and downregulated Keap1 expression (P < 0.01). Regarding muscle fiber traits, RES promoted slow-twitch fiber proportion, upregulated MyHC IIa, IGF-1 and mTOR, while downregulating MyHC IIx and FoxO3 expression (P < 0.05). For metabolic regulation, RES did not alter lactate or glycogen levels (P > 0.05), but increased glucose content, reduced pyruvate kinase (PK) activity, and enhanced hexokinase (HK), succinic dehydrogenase (SDH), NAD-dependent malate dehydrogenase (NAD-MDH), and mitochondrial respiratory chain complex (MRCC) II/III activities, along with upregulating NRF1 and TFAM expression (P < 0.05). Metabolomic and proteomic analyses revealed that key proteins (PKM, PFKM, PGM1, PGAM2, HADHB, NDUFA8, NDUFS4, and GOT2) and differential metabolites (4-methylene-L-glutamine, anserine, betaine a…",
-      "authors": "Xiongxiong Li, Zengkui Lu, Chao Yuan et al.",
+      "title": "Editorial: Empowering cancer care: the power of nutrition and fitness from prevention to recovery",
+      "abstract": "",
+      "authors": "Irene Lidoriki, Maximos Frountzas, Panagiotis Sakarellos et al.",
       "published": "Aug 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1905065",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1938940",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "An evaluation based on explainable machine learning: analysis of risk factors for enteral nutrition-related diarrhea in patients with severe stroke",
-      "abstract": "ObjectiveThis study systematically examines the clinical factors associated with enteral nutrition-related diarrhea (ENAD) in patients with severe stroke and uses interpretable machine learning methods to assess the strength of these associations.MethodsThis retrospective study included 766 patients with severe stroke from two hospitals between January 2021 and December 2025; data were sourced from electronic medical records and nursing notes. The study compared eight machine learning algorithms: logistic regression (Logistic), support vector machines (SVM), random forests (RF), extreme gradient boosting (XGBoost), lightweight gradient boosting (LightGBM), classification gradient boosting (CatBoost), k-nearest neighbors (KNN), and decision trees (DT); model performance was evaluated using 10-fold cross-validation (CV); The optimal model was selected, with SHAP (Shapley Additive exPlanations) analysis used to provide feature importance and the Delong test for feature selection; the final model was evaluated and validated using metrics from calibration curves, decision curve analysis curves, and the model confusion matrix; SHAP analysis was used to interpret the final model.ResultsA total of 292 patients (38.1%) in the study cohort developed diarrhea. The random forest model was identified as the optimal model and served as the feature selection model. Following the Delong test, 10 variables most closely associated with ENAD were ultimately included: duration of mechanical ventilation, number of days on enteral nutrition (EN) and formula type, C-reactive protein, white blood …",
-      "authors": "Caiyue Xu, Wei Hu, Yuhong Wang et al.",
+      "title": "Comparative effects of plant-derived anthocyanin- and flavanol-rich supplements on recovery outcomes after exercise-induced muscle damage: a systematic review and network meta-analysis",
+      "abstract": "BackgroundExercise-induced muscle damage (EIMD) commonly follows strenuous exercise and is marked by delayed onset muscle soreness (DOMS), reduced muscle strength, and increased creatine kinase (CK) and C-reactive protein (CRP), which may impair recovery and subsequent training. Plant-derived polyphenols such as anthocyanins or flavanols are widely used to support recovery, but their comparative effects remain uncertain.MethodsWe conducted a systematic review and network meta-analysis (NMA) following established methodological guidance. PubMed, Web of Science, CENTRAL, and Embase were searched from inception to January 2026 for randomized controlled trials in healthy adults with acute EIMD that compared plant-derived anthocyanin- or flavanol-rich supplements with placebo or control conditions. Primary outcomes were DOMS, muscle strength, CK, and CRP at 48 h post-exercise; 24 h and 72 h outcomes were secondary. Frequentist random-effects network meta-analysis was performed in Stata 19.5, with interventions ranked using SUCRA. Pairwise meta-analyses, subgroup analyses, and sensitivity analyses were conducted for the main 48 h outcomes. Risk of bias and certainty of evidence were assessed using RoB 2.0 and CINeMA.ResultsThirty trials involving 595 participants and eight supplement types were included. In the primary analysis, only pomegranate and tart cherry significantly reduced 48 h DOMS vs. the placebo node, ranking first and second, respectively. No intervention showed a clear advantage for 48 h muscle strength, CK, or CRP. Pairwise meta-analyses were generally consistent …",
+      "authors": "Kai-Xuan Xu, Juan Chang, Yi-Jia Wu et al.",
       "published": "Aug 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1893280",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1857527",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Nutrition label literacy and adolescent mental well-being: a three-wave longitudinal study of healthy eating self-efficacy and physical activity as a moderator",
-      "abstract": "BackgroundNutrition label literacy may help adolescents interpret packaged-food information and develop confidence in healthier food choices, but its longitudinal association with positive mental well-being remains insufficiently understood. This study examined whether healthy eating self-efficacy statistically mediated the prospective association between nutrition label literacy and mental well-being among Chinese adolescents and whether physical activity moderated the second stage of this pathway.MethodsA three-wave longitudinal survey was conducted among Chinese adolescents aged 12–18 years. Data were collected at T1 in November 2025, T2 in January 2026, and T3 in March 2026. The final matched sample included 2,412 adolescents. Nutrition label literacy was assessed at T1, healthy eating self-efficacy at T1 and T2, mental well-being at T1 and T3, and physical activity at T2. Longitudinal mediation and moderated mediation were examined using PROCESS Model 14 logic with 5,000 bootstrap resamples, adjusting for age, gender, only-child status, residence, T1 healthy eating self-efficacy, and T1 mental well-being.ResultsT1 nutrition label literacy was positively associated with T2 healthy eating self-efficacy (β = 0.231, p < 0.001). T2 healthy eating self-efficacy was positively associated with T3 mental well-being (β = 0.201, p < 0.001) in the longitudinal mediation model. The indirect association from T1 nutrition label literacy to T3 mental well-being through T2 healthy eating self-efficacy was significant (β = 0.046, 95% CI [0.036, 0.058]). In the moderated mediation model,…",
-      "authors": "Jiale Wang, Xianqun Zuo, Huiteng Xu et al.",
+      "title": "Acute gastrointestinal injury severity assessment informs nutritional support and prognostic evaluation in critically ill children: a narrative review",
+      "abstract": "Acute gastrointestinal injury (AGI) affects 41–65% of children admitted to pediatric intensive care units (PICUs) and is associated with prolonged mechanical ventilation, extended hospital stays, multiple organ dysfunction, and increased mortality. Although the 2012 European Society of Intensive Care Medicine (ESICM) AGI grading system provides standardized gastrointestinal assessment for adults, no validated pediatric-specific tool currently exists. This narrative review critically synthesizes the prognostic and nutritional relevance of AGI severity assessment in critically ill children. A structured literature search of PubMed, Embase, Web of Science, Google Scholar, Cochrane Library, CINAHL, CNKI, and Wanfang Data through December 2025 yielded 78 peer-reviewed articles, guidelines, and consensus statements. Two reviewers independently screened records; evidence was appraised narratively with explicit attention to study design and methodological quality, assigning greater weight to multicenter prospective studies, pediatric guidelines, and meta-analyses (level I–II evidence). No formal quality assessment, consensus methodology, or systematic evidence synthesis was performed, consistent with narrative review methodology. Existing pediatric adaptations of adult AGI criteria have been reported in single-center and observational studies and include reported thresholds for gastric residual volume (>5 mL/kg), intra-abdominal pressure gradations, and feeding intolerance definitions. Higher AGI severity is consistently associated with increased mortality, prolonged mechanical ven…",
+      "authors": "Cizheng Zeng, Tufeng Li, Jiayuan Wu et al.",
       "published": "Aug 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1906815",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1911973",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Nomothetic and idiographic determinants of dietary lapses and adherence: an exploratory mixed methods ecological momentary assessment study of open-text responses",
-      "abstract": "ObjectiveDietary interventions often fail to achieve sustained behavior change, partly due to limited understanding of momentary factors driving dietary lapses and instances of goal adherence. Given constrained item pools in ecological momentary assessment (EMA), it remains unclear which factors are most relevant to individuals in daily life. This study therefore examined dieters’ self-reported momentary reasons for lapses and adherence and whether these are broadly applicable (nomothetic) or individual-specific (idiographic).MethodsData were drawn from two EMA studies (N = 199) in which participants reported lapses and adherence every 3.5 h (over 1 or 2 weeks) and provided open-text explanations. In total, 5,402 reasons were analyzed using AI-assisted qualitative content analysis. Categories were evaluated with three indices to assess their nomothetic versus idiographic relevance.ResultsOverarching categories were similar for lapses and adherence (self-regulation, food availability, social influences, lack of opportunity, unplanned circumstances, emotional, physiological, craving-related factors), but subcategories differed (e.g., deliberate exceptions vs. routines and strategies). No lapse category was reported by >47.73% of participants, indicating substantial idiographic variability. The most broadly applicable factors across participants were cravings, physiological factors (especially hunger), and social influences for lapses, and lack of opportunity (especially being occupied) for goal adherence.ConclusionParticipants highlighted (sub)categories typically underrepres…",
-      "authors": "Hannah van Alebeek, Anna Schröder, Dennis John et al.",
+      "title": "The association between a body shape index and cardiorespiratory fitness among adolescents in rural China: a sex-specific cross-sectional study",
+      "abstract": "BackgroundCardiorespiratory fitness (CRF) among Chinese adolescents has been declining year by year, with the decline being particularly pronounced in rural areas. As a novel indicator of body composition, the a body shape index (ABSI) has rarely been examined in previous studies regarding its association with CRF among adolescents in rural areas. This study aims to guide the improvement and enhancement of CRF among adolescents in rural China.MethodsUsing a stratified random cluster sampling method, we conducted a cross-sectional assessment of height, weight, waist circumference, and 20-m shuttle run test (20-m SRT) performance among 18,948 adolescents aged 6–17 years in rural areas of China. We analyzed the association between ABSI and 20-meters SRT using methods such as one-way analysis of variance (ANOVA) and linear regression analysis.ResultsAmong adolescents aged 6–17 years in rural China, the ABSI was (0.069 ± 0.013) and the 20-m SRT was (29.69 ± 17.16) laps. Overall, there were statistically significant differences in the interquartile ranges of the 20-m SRT across the 6–8, 9–11, 12–14, and 15–17 age groups (F = 33.841, 14.916, 13.858, 7.715; P < 0.001). Curvilinear regression analysis showed an inverted U-shaped relationship between ABSI and 20-m SRT. Overall, in the 6–8 years, 9–11 years, 12–14 years, and 15–17 years age groups, the 20-m SRT was highest when the ABSI was 0.056, 0.070, 0.094, and 0.054, respectively, reaching 18.673, 26.226, 38.328, and 40.499 laps, respectively.ConclusionsThere is an inverted U-shaped relationship between ABSI and 20-meter SRT amon…",
+      "authors": "Chaogong Zeng, Chengjun Chai, Jiali Xu et al.",
       "published": "Aug 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1869531",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1871460",
       "image": "",
       "screen": "right"
     },
@@ -619,8 +619,8 @@
       "published": "2024",
       "venue": "Toxins",
       "feedName": "Lab Research",
-      "citationCount": 17,
-      "recentCitations": 0,
+      "citationCount": 18,
+      "recentCitations": 1,
       "s2_paper_id": "e6a6854e55ee8f5a8ace3025ba0d32e33a650343",
       "url": "https://doi.org/10.3390/toxins16030163",
       "image": "",

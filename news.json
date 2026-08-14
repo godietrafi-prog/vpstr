@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-14T12:43:50Z",
+  "updated": "2026-08-14T14:45:57Z",
   "items": [
     {
       "title": "Considerations for maximizing the effectiveness of debt-for-food swaps",
@@ -42,42 +42,42 @@
       "screen": "left"
     },
     {
-      "title": "Enhancing the inhibitory effect of epigallocatechin gallate on formation of heterocyclic amines via protein complexation",
+      "title": "Integrating fluorescence enhancement and adsorption enrichment: Nanofibrous mat sensor with deep learning-assisted data analysis for real-time monitoring of shrimp freshness",
       "abstract": "",
-      "authors": "Xiulan Dang, Xiaoting Hu, Yan Yan et al.",
+      "authors": "Ningge Jian, Yi Cheng, Niu Wu et al.",
       "published": "Oct 2026",
       "feedName": "Food Chemistry",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626026609?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626029225?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
     {
-      "title": "Comparison of plant and microbial protein particles fabricated by heat-induced aggregation or enzymatic cross-linking: structure, physicochemical properties, and stability",
+      "title": "Influence of faba bean extraction and calcium fortification on the physicochemical, structural, and sensory characteristics of faba bean-based milk",
       "abstract": "",
-      "authors": "Xinyu Zhang, Xiaojie Ma, Tianlong Xiao et al.",
+      "authors": "Olaide A. Akintayo, Olivia G. Cormack, Robert J. Falconer et al.",
       "published": "Oct 2026",
       "feedName": "Food Chemistry",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626026403?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S030881462602875X?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
     {
-      "title": "Inhibitory mechanism of anthocyanin B-ring substituents on advanced glycation end-product formation through bovine serum albumin binding: Insights from multispectral, molecular docking and proteomics approaches",
+      "title": "Volatile compounds and sensory attributes that drive the flavor of cooked sweetpotato",
       "abstract": "",
-      "authors": "Yu Zhang, Yang Ding, Kexin Zheng et al.",
+      "authors": "Modesta Abugu, Suzanne D. Johanningsmeier, Matthew C. Allan et al.",
       "published": "Oct 2026",
       "feedName": "Food Chemistry",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626028773?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626028578?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
     {
-      "title": "Computational identification of cathepsin B and L inhibitors and their role in modulating protein degradation and gelation of unwashed grass carp ( Ctenopharyngodon idella ) mince",
+      "title": "Investigating flavor characteristics in orange juice from three new bud mutation varieties of longleaf orange using molecular sensory science",
       "abstract": "",
-      "authors": "Jian Lyu, Qianhui Yu, Huawei Ma et al.",
+      "authors": "Yujiao Cheng, Tianpeng Xiao, Jiying Zhang et al.",
       "published": "Oct 2026",
       "feedName": "Food Chemistry",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626028797?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626028633?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -362,6 +362,36 @@
       "screen": "right"
     },
     {
+      "title": "This common vitamin deficiency becomes far more dangerous when paired with belly fat",
+      "abstract": "A large study of more than 5,500 adults over 50 found a striking combination of risk factors: abdominal obesity paired with vitamin D deficiency was linked to a 123% higher risk of death over six years. Each condition was associated with increased risk on its own, but together they appeared to create a dangerous feedback loop, with belly fat reducing the amount of vitamin D available in the bloodstream while low vitamin D may worsen inflammation and other health problems.",
+      "authors": "",
+      "published": "Aug 2026",
+      "feedName": "ScienceDaily Nutrition",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260813045554.htm",
+      "image": "https://www.sciencedaily.com/images/1920/heavy-woman-pinching-belly-fat.webp",
+      "screen": "right"
+    },
+    {
+      "title": "Drinking orange juice every day may change thousands of genes",
+      "abstract": "Orange juice may have a much bigger effect on the body than scientists once realized. Drinking it regularly appears to influence genes tied to inflammation, blood pressure, metabolism, and blood sugar control, while studies have also found improvements in cholesterol and blood vessel health. Researchers suspect natural citrus compounds such as hesperidin may be partly responsible. Even the gut microbiome may benefit.",
+      "authors": "",
+      "published": "Aug 2026",
+      "feedName": "ScienceDaily Nutrition",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260813045548.htm",
+      "image": "https://www.sciencedaily.com/images/1920/young-happy-woman-drinking-orange-juice.webp",
+      "screen": "right"
+    },
+    {
+      "title": "A surprising brain discovery could help explain why we overeat fatty foods",
+      "abstract": "A protein inside appetite-controlling brain cells may play an important role in preventing overeating and obesity, particularly when high-fat foods are readily available. Unexpected differences between males and females could also help explain why obesity risk—and responses to weight-loss drugs—can vary.",
+      "authors": "",
+      "published": "Aug 2026",
+      "feedName": "ScienceDaily Nutrition",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260813045531.htm",
+      "image": "https://www.sciencedaily.com/images/1920/woman-eating-cake-refrigerator.webp",
+      "screen": "right"
+    },
+    {
       "title": "Ozempic may have revealed the brain’s hidden “craving center”",
       "abstract": "Ozempic-like drugs appear to weaken more than hunger—they may also reduce cravings for alcohol and other addictive substances. Scientists are increasingly tracing this effect to the lateral septum, a brain region that helps connect memories and surroundings with rewarding experiences. Packed with GLP-1 receptors, it may act as a crucial control point between thinking about a reward and feeling compelled to pursue it. The discovery could open new approaches to treating addiction as well as obesity.",
       "authors": "",
@@ -369,36 +399,6 @@
       "feedName": "ScienceDaily Nutrition",
       "url": "https://www.sciencedaily.com/releases/2026/08/260811011138.htm",
       "image": "https://www.sciencedaily.com/images/1920/neuroscience-addiction-brain-cravings.webp",
-      "screen": "right"
-    },
-    {
-      "title": "Wine, beer, or spirits? Massive study finds a surprising health divide",
-      "abstract": "A study tracking more than 340,000 adults for over a decade found that heavy drinking increased the risk of death regardless of beverage type. At lower levels, however, the picture became more surprising: beer, cider, and spirits were linked to higher mortality, while wine was associated with lower risk. Moderate wine drinkers had a 21% lower risk of cardiovascular death compared with people who rarely or never drank.",
-      "authors": "",
-      "published": "Aug 2026",
-      "feedName": "ScienceDaily Nutrition",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260808235008.htm",
-      "image": "https://www.sciencedaily.com/images/1920/friends-night-out-drinking-alcohol.webp",
-      "screen": "right"
-    },
-    {
-      "title": "A daily glass of fruit juice was linked to lower depression scores",
-      "abstract": "A daily glass of 100% fruit juice or a smoothie may help improve more than just fruit intake. In a small four-week trial, participants who added one to a healthier diet showed significantly lower depression scores, hinting that a simple dietary change could also support mental well-being.",
-      "authors": "",
-      "published": "Aug 2026",
-      "feedName": "ScienceDaily Nutrition",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260808235003.htm",
-      "image": "https://www.sciencedaily.com/images/1920/fresh-orange-juice-and-fruits-on-wooden-table.webp",
-      "screen": "right"
-    },
-    {
-      "title": "For decades, we were told to choose low-fat dairy. New research says otherwise",
-      "abstract": "Full-fat dairy may be healthier than conventional advice has suggested. In a 12-week study, adults who ate three servings a day showed no meaningful increases in weight, body fat, cholesterol, or insulin resistance. They also experienced improved blood pressure and consumed more calcium, protein, and vitamin D. The findings suggest dairy’s complex structure may matter more than its saturated fat content alone.",
-      "authors": "",
-      "published": "Aug 2026",
-      "feedName": "ScienceDaily Nutrition",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260808234948.htm",
-      "image": "https://www.sciencedaily.com/images/1920/woman-nutritionist-doctor-drinking-milk.webp",
       "screen": "right"
     },
     {

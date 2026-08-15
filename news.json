@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-15T14:14:08Z",
+  "updated": "2026-08-15T16:17:19Z",
   "items": [
     {
       "title": "Considerations for maximizing the effectiveness of debt-for-food swaps",
@@ -42,42 +42,42 @@
       "screen": "left"
     },
     {
-      "title": "Integrating fluorescence enhancement and adsorption enrichment: Nanofibrous mat sensor with deep learning-assisted data analysis for real-time monitoring of shrimp freshness",
+      "title": "Enhanced oxidative stability of O/W Pickering emulsions based on whey protein nanogels",
       "abstract": "",
-      "authors": "Ningge Jian, Yi Cheng, Niu Wu et al.",
+      "authors": "Zhaoshuo Yu, Raquel Cama-Moncunill, Jean-Christophe Jacquier",
       "published": "Oct 2026",
       "feedName": "Food Chemistry",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626029225?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626027986?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
     {
-      "title": "Influence of faba bean extraction and calcium fortification on the physicochemical, structural, and sensory characteristics of faba bean-based milk",
+      "title": "Clean-label basil seed gum-date seed extract coatings for reduced oil uptake and enhanced lipid quality in deep-fat-fried chicken nuggets: A physicochemical, lipidomic, and machine learning approach",
       "abstract": "",
-      "authors": "Olaide A. Akintayo, Olivia G. Cormack, Robert J. Falconer et al.",
+      "authors": "Janaki Senthil Murugan, Kandi Sridhar, Kaliyan Barathikannan et al.",
       "published": "Oct 2026",
       "feedName": "Food Chemistry",
-      "url": "https://www.sciencedirect.com/science/article/pii/S030881462602875X?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S030881462602902X?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
     {
-      "title": "Volatile compounds and sensory attributes that drive the flavor of cooked sweetpotato",
+      "title": "Mechanistic insights into ochratoxin A biodetoxification by Pediococcus acidilactici NX8 involving a multi-hydrolase toolbox",
       "abstract": "",
-      "authors": "Modesta Abugu, Suzanne D. Johanningsmeier, Matthew C. Allan et al.",
+      "authors": "Qionglian Fang, Xiufu Wan, Lanping Guo et al.",
       "published": "Oct 2026",
       "feedName": "Food Chemistry",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626028578?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626029389?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
     {
-      "title": "Investigating flavor characteristics in orange juice from three new bud mutation varieties of longleaf orange using molecular sensory science",
+      "title": "Comparative assessment of iodine biofortification in two kale cultivars ( Brassica oleracea L. var. sabellica): Effects on glucosinolates, water-soluble vitamins, antioxidants, and preliminary in vitro cytotoxicity screening",
       "abstract": "",
-      "authors": "Yujiao Cheng, Tianpeng Xiao, Jiying Zhang et al.",
+      "authors": "Katarzyna Karolina Krawczyk, Barbara Kusznierewicz, Iwona Kowalska et al.",
       "published": "Oct 2026",
       "feedName": "Food Chemistry",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626028633?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626029420?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -88,6 +88,16 @@
       "published": "Nov 2026",
       "feedName": "Trends in Food Sci & Tech",
       "url": "https://www.sciencedirect.com/science/article/pii/S0924224426004796?dgcid=rss_sd_all",
+      "image": "",
+      "screen": "left"
+    },
+    {
+      "title": "Oral numbing sensation (Má, Chinese): Compounds, sensory evaluation methods, perception mechanisms and biological activity",
+      "abstract": "",
+      "authors": "Zhilin Hao, Fuqiang Liu, Lulu guo et al.",
+      "published": "Nov 2026",
+      "feedName": "Trends in Food Sci & Tech",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426004826?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -108,16 +118,6 @@
       "published": "Nov 2026",
       "feedName": "Trends in Food Sci & Tech",
       "url": "https://www.sciencedirect.com/science/article/pii/S0924224426004620?dgcid=rss_sd_all",
-      "image": "",
-      "screen": "left"
-    },
-    {
-      "title": "Applications of nanozymes in food packaging: From antibacterial preservation to intelligent monitoring",
-      "abstract": "",
-      "authors": "Can Zhou, Qian Wu, Bing Liu et al.",
-      "published": "Nov 2026",
-      "feedName": "Trends in Food Sci & Tech",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426004589?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -362,6 +362,16 @@
       "screen": "right"
     },
     {
+      "title": "When gut microbes run low on fiber, they may start eating you",
+      "abstract": "Gut microbes need something to eat, and when fiber is limited, they may begin consuming proteins from the mucus lining that protects the gut. Researchers found that fiber can suppress this process, while indigestible plant proteins help microbes produce more beneficial compounds.",
+      "authors": "",
+      "published": "Aug 2026",
+      "feedName": "ScienceDaily Nutrition",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260814235842.htm",
+      "image": "https://www.sciencedaily.com/images/1920/intestinal-villi-with-bacteria-and-viruses-in-human-digestive-system.webp",
+      "screen": "right"
+    },
+    {
       "title": "Scientists solve the mystery of a brain “switch” that can trigger weight loss in opposite ways",
       "abstract": "Scientists have uncovered why two seemingly opposite ways of targeting the same brain receptor can both promote weight loss. In mice, activating the GIP receptor in the brainstem reduced appetite, while blocking it in the hypothalamus removed a kind of “brake” on fullness signals. The discovery helps explain why very different obesity drugs can achieve similar results and suggests that carefully combining GIP-targeting treatments with GLP-1 drugs like those related to Wegovy and Ozempic could produce stronger effects.",
       "authors": "",
@@ -389,16 +399,6 @@
       "feedName": "ScienceDaily Nutrition",
       "url": "https://www.sciencedaily.com/releases/2026/08/260813045548.htm",
       "image": "https://www.sciencedaily.com/images/1920/young-happy-woman-drinking-orange-juice.webp",
-      "screen": "right"
-    },
-    {
-      "title": "A surprising brain discovery could help explain why we overeat fatty foods",
-      "abstract": "A protein inside appetite-controlling brain cells may play an important role in preventing overeating and obesity, particularly when high-fat foods are readily available. Unexpected differences between males and females could also help explain why obesity risk—and responses to weight-loss drugs—can vary.",
-      "authors": "",
-      "published": "Aug 2026",
-      "feedName": "ScienceDaily Nutrition",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260813045531.htm",
-      "image": "https://www.sciencedaily.com/images/1920/woman-eating-cake-refrigerator.webp",
       "screen": "right"
     },
     {
@@ -610,44 +610,6 @@
       "researcher": {
         "name": "Adi Jonas-Levi",
         "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=MbCf9l4AAAAJ"
-      }
-    },
-    {
-      "title": "New Analytical Approach to Quinolizidine Alkaloids and Their Assumed Biosynthesis Pathways in Lupin Seeds",
-      "abstract": "Alkaloids play an essential role in protecting plants against herbivores. Humans can also benefit from the pharmacological effects of these compounds. Plants produce an immense variety of structurally different alkaloids, including quinolizidine alkaloids, a group of bi-, tri-, and tetracyclic compounds produced by Lupinus species. Various lupin species produce different alkaloid profiles. To study the composition of quinolizidine alkaloids in lupin seeds, we collected 31 populations of two wild species native to Israel, L. pilosus and L. palaestinus, and analyzed their quinolizidine alkaloid contents. Our goal was to study the alkaloid profiles of these two wild species to better understand the challenges and prospective uses of wild lupins. We compared their profiles with those of other commercial and wild lupin species. To this end, a straightforward method for extracting alkaloids from seeds and determining the quinolizidine alkaloid profile by LC–MS/MS was developed and validated in-house. For the quantification of quinolizidine alkaloids, 15 analytical reference standards were used. We used GC–MS to verify and cross-reference the identity of certain alkaloids for which no analytical standards were available. The results enabled further exploration of quinolizidine alkaloid biosynthesis. We reviewed and re-analyzed the suggested quinolizidine alkaloid biosynthesis pathway, including the relationship between the amino acid precursor l-lysine and the different quinolizidine alkaloids occurring in seeds of lupin species. Revealing alkaloid compositions and highlighting so…",
-      "authors": "D. Namdar, Patrick P J Mulder, E. Ben-Simchon et al.",
-      "published": "2024",
-      "venue": "Toxins",
-      "feedName": "Lab Research",
-      "citationCount": 18,
-      "recentCitations": 1,
-      "s2_paper_id": "e6a6854e55ee8f5a8ace3025ba0d32e33a650343",
-      "url": "https://doi.org/10.3390/toxins16030163",
-      "image": "",
-      "screen": "both",
-      "lab_paper": true,
-      "researcher": {
-        "name": "Loai Basheer",
-        "photo": "media/photos/loai_basheer.png"
-      }
-    },
-    {
-      "title": "Valorization of Local Legumes and Nuts as Key Components of the Mediterranean Diet",
-      "abstract": "Legumes and nuts are components of high importance in the diet of many countries, mainly those in the Mediterranean region. They are also very versatile and culturally diverse foods found all over the world, acting as a basic protein source in certain countries. Their genetic diversity is needed to sustain the food supply and security for humans and livestock, especially because of the current loss of habitats, species, and genetic diversity worldwide, but also because of the ever present need to feed the increasing human population. Even though both legumes and nuts are considered as high-protein food and environmentally friendly crops, developed countries have lower consumption rates when compared to Asia or Africa. With a view to increasing the consumption of legumes and nuts, the objective of this review is to present the advantages on the use of autochthonous varieties from different countries around the world, thus providing a boost to the local market in the area. The consumption of these varieties could be helped by their use in ready-to-eat foods (RTE), which are now on the rise thanks to today’s fast-paced lifestyles and the search for more nutritious and sustainable foods. The versatility of legumes and nuts covers a wide range of possibilities through their use in plant-based dairy analogues, providing alternative-protein and maximal amounts of nutrients and bioactive compounds, potential plant-based flours for bakery and pasta, and added-value traditional RTE meals. For this reason, information about legume and nut nutrition could possibly increase its acceptan…",
-      "authors": "Israel Hernández-López, J. Ortiz-Solà, C. Alamprese et al.",
-      "published": "2022",
-      "venue": "Foods",
-      "feedName": "Lab Research",
-      "citationCount": 40,
-      "recentCitations": 0,
-      "s2_paper_id": "58107c8058774580a57d044f21566325035de229",
-      "url": "https://doi.org/10.3390/foods11233858",
-      "image": "",
-      "screen": "both",
-      "lab_paper": true,
-      "researcher": {
-        "name": "Loai Basheer",
-        "photo": "media/photos/loai_basheer.png"
       }
     },
     {

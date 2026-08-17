@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-16T22:12:18Z",
+  "updated": "2026-08-17T00:42:35Z",
   "items": [
     {
       "title": "Considerations for maximizing the effectiveness of debt-for-food swaps",
@@ -496,6 +496,82 @@
       "researcher": {
         "name": "Iris Zohar",
         "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=YVQd-pwAAAAJ"
+      }
+    },
+    {
+      "title": "Effect of Quinoa Protein Concentrate in Particulate and Fibrillar Forms on the Physico-Chemical Properties of Quinoa Starch Gels",
+      "abstract": "The current study investigates the interactions between quinoa protein—both in particulate (protein concentrate, QPC) and fibrillar (QPF) forms—and quinoa starch (QS) gels, and how these interactions influence the thermal, pasting, and rheological properties of the gels. Gels were made by adding three different concentrations of QPC or QPF to a 10% QS dispersion (10, 25, and 50% w/w of starch). DSC results suggested an enhancement of amylopectin thermal stability and an acceleration of retrogradation upon a cooling stage by the addition of quinoa protein. FTIR spectra indicated that QS and QPC/QPF mostly interacted through hydrogen bonds. According to rheological measurements, in contrast to the increased G′ due to the addition of QPC (50%), only a slight increase in G′ was observed due to the addition of QPF (50%). Notably, this study is the first to directly compare the effects of QPC and QPF on starch gel properties, revealing that QPC markedly enhances gel elasticity. These findings highlight the potential application of the optimized quinoa starch-protein-based gels as functional ingredients in plant-based meat analogues, where improved textural and nutritional attributes are critical.",
+      "authors": "Shir T Segev, Eden Eran-Nagar, G. Rytwo et al.",
+      "published": "2025",
+      "venue": "Food and Bioprocess Technology",
+      "feedName": "Lab Research",
+      "citationCount": 4,
+      "recentCitations": 0,
+      "s2_paper_id": "034d8c4f0c0f5607a4e6727360aa5d7287e60d5b",
+      "url": "https://doi.org/10.1007/s11947-025-03873-y",
+      "image": "",
+      "screen": "both",
+      "lab_paper": true,
+      "researcher": {
+        "name": "Ofir Benjamin",
+        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=FsjV0oIAAAAJ"
+      }
+    },
+    {
+      "title": "Relationships Between Chemical Compounds and Sensory Properties of Virgin Olive Oil in the US and Israel: Development of a Prediction Model for Defects",
+      "abstract": "Virgin olive oil (VOO) quality is defined by both chemical and sensory parameters. While the chemical parameters are objective and measured using instrument-based methods, sensory quality evaluation is based upon human panels, which can be subjective, have less repeatability, suffer from fatigue, and require long and costly training. Tasting biases could be minimized by a trained panel, but using humans as a testing instrument is inevitably prone to various psychological biases, stimulus-related factors, and carry-over effects. The objectives of this study were to evaluate instrumental methodologies that will assist the existing human panel in assessing the sensory characteristics of VOO and to develop chemistry-based predicting models for sensory properties in the oil using VOO samples originating from the US and Israel. Our results indicated that oil rancidity highly correlated with the contents of chemical components contents; 1-penten-3-one, 3-hexen-1-ol, (E)-2-pentanal, and 1-octen-3-ol are the major volatiles associated with rancidity defects (low concentrations of these compounds). Positive sensory attributes, such as fruitiness, correlated with 1- acetoxypinoresinol and hexanal, while bitterness correlated with pinoresinol, the aldehydic form of oleuropein aglycones, and the dialdehydic form of oleuropein aglycone. The random forest model suggested that luteolin, (E)-2-hexenal, 1-penten-3-one, and C18:0 are the most useful measurements in predicting the occurrence of sensory defects in the olive oil samples included. In other words, when these compounds are below or…",
+      "authors": "M. Calatayud, Xueqi Li, Arnon Dag et al.",
+      "published": "2024",
+      "venue": "Journal of Agricultural and Food Chemistry",
+      "feedName": "Lab Research",
+      "citationCount": 4,
+      "recentCitations": 0,
+      "s2_paper_id": "2daf7bffd81d6b4f740d63bf18644047b1466c1f",
+      "url": "https://doi.org/10.1021/acs.jafc.4c06012",
+      "image": "",
+      "screen": "both",
+      "lab_paper": true,
+      "researcher": {
+        "name": "Ofir Benjamin",
+        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=FsjV0oIAAAAJ"
+      }
+    },
+    {
+      "title": "Quality and Flavor of ‘Aliza’ Fruit: A Unique Pomelo × Mandarin Hybrid",
+      "abstract": "‘Aliza’ is a new pomelo × mandarin hybrid (Citrus maxima, cv. Red Chandler × Citrus reticulata, cv. Ora) developed by the Israeli citrus breeding program at the Volcani Institute. Here, we aimed to characterize the quality and flavor of ‘Aliza’ fruit as compared to other commercial citrus fruit, specifically pomelo (C. maxima), grapefruit (Citrus paradisi), orange (Citrus sinensis) and mandarin (C. reticulata). ‘Aliza’ fruits have a similar size as grapefruits, but have a thinner peel and a unique yellowish/golden color. ‘Aliza’ fruits are completely seedless and have especially high juice contents. They also have a unique, highly preferred flavor, characterized by high sweetness and moderate bitterness and acidity, with strong citrusy and tropical fruity aromas. Sensory analyses conducted with the aid of a trained panel and an electronic tongue revealed that the flavor of ‘Aliza’ fruits is different from the flavors of other citrus species. Consumer acceptance and preference tests revealed that ‘Aliza’ fruit are highly appreciated and favored. The aroma volatile profile of ‘Aliza’ fruit was somewhat similar to those of pomelo and grapefruit, but very different from those of orange and mandarin. Overall, ‘Aliza’ fruits can be distinguished from other citrus fruits by their unique color, high juice content and exceptional, unique flavor.",
+      "authors": "Hagar Pardo, A. Owoyemi, Livnat Goldenberg et al.",
+      "published": "2023",
+      "venue": "Horticulturae",
+      "feedName": "Lab Research",
+      "citationCount": 4,
+      "recentCitations": 0,
+      "s2_paper_id": "8fc9e49f80c03192aa54947839aa56e8d90f9d36",
+      "url": "https://doi.org/10.3390/horticulturae9040420",
+      "image": "",
+      "screen": "both",
+      "lab_paper": true,
+      "researcher": {
+        "name": "Ofir Benjamin",
+        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=FsjV0oIAAAAJ"
+      }
+    },
+    {
+      "title": "Flavor release and stability comparison between nano and conventional emulsion as influenced by saliva",
+      "abstract": "Flavour release and emulsion stability depend on volatile organic compounds' environmental conditions, food microstructure, and physicochemical properties. The effect of pH (3.5 vs 7.0) and saliva addition on stability and flavour release from nano and conventional emulsions was investigated using particle size, charge and Lumisizer measurments. Larger particle sizes were observed at lower pressures and in saliva-containing emulsions. At 1700 bar, nano-emulsions (below 150 nm) were created at pH 3.5 and 7.0 including saliva-containing emulsions. As was clear from the creaming velocity measurements, saliva addition decreased the emulsion stability by reducing particle charges and increased viscosity by more than 50%, especially when prepared at pH 3.5 closer to the isoelectric point of the used emulsifier β-lactoglobulin (pH 5.2). (5.2). Flavour release from emulsions was measured at equilibrium using a phase ratio variation to determine partition coefficients and dynamically using an electronic nose. Partition coefficients of the flavour compounds for most conditions were two to four times lower in emulsions prepared at pH 7.0 than at pH 3.5 and in emulsions without saliva. Emulsions prepared with higher pressures showed stronger flavor release rates, while additional salvia dropped the release rate for ethyl acetate at pH 3.5. The physicochemical properties of flavour compounds, saliva addition and pH of emulsions influenced flavour release more than homogenization pressures. The potential in using nano-emulsions in food applications an be attributed higher stability and e…",
+      "authors": "O. Sanni, C. Lakemond, O. Benjamin",
+      "published": "2022",
+      "venue": "Journal of food science and technology",
+      "feedName": "Lab Research",
+      "citationCount": 9,
+      "recentCitations": 0,
+      "s2_paper_id": "435cee3aeeb4f44de0a7eef6197bce01a348c990",
+      "url": "https://doi.org/10.1007/s13197-022-05534-w",
+      "image": "",
+      "screen": "both",
+      "lab_paper": true,
+      "researcher": {
+        "name": "Ofir Benjamin",
+        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=FsjV0oIAAAAJ"
       }
     },
     {

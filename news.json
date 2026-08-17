@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-17T12:25:49Z",
+  "updated": "2026-08-17T14:19:39Z",
   "items": [
     {
       "title": "Considerations for maximizing the effectiveness of debt-for-food swaps",
@@ -242,6 +242,16 @@
       "screen": "left"
     },
     {
+      "title": "Control of Alicyclobacillus acidoterrestris spore and Byssochlamys ascospore growth in ambient acid dairy products through organic acid and heat treatments",
+      "abstract": "",
+      "authors": "Amila S.N.W. Pahalagedara, Elissavet Gkogka, Lasse Glinvad-Ravn et al.",
+      "published": "Jan 2027",
+      "feedName": "Food Microbiology",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0740002026002388?dgcid=rss_sd_all",
+      "image": "",
+      "screen": "left"
+    },
+    {
       "title": "Risk prioritization of household food handling practices in China: a fuzzy failure mode and effect analysis",
       "abstract": "",
       "authors": "Shounan Zhang, Yan Qi, Wenhui He et al.",
@@ -268,16 +278,6 @@
       "published": "Jan 2027",
       "feedName": "Food Microbiology",
       "url": "https://www.sciencedirect.com/science/article/pii/S0740002026002297?dgcid=rss_sd_all",
-      "image": "",
-      "screen": "left"
-    },
-    {
-      "title": "Impact of takeaway packaging and storage conditions on microbial safety and cereulide production in grilled pork",
-      "abstract": "",
-      "authors": "Anahita Arki, Nadja Jessberger, Manar Albahri et al.",
-      "published": "Jan 2027",
-      "feedName": "Food Microbiology",
-      "url": "https://www.sciencedirect.com/science/article/pii/S074000202600225X?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -362,6 +362,16 @@
       "screen": "right"
     },
     {
+      "title": "Low-fat vegan diet helps people lose weight without eating less",
+      "abstract": "A low-fat vegan diet may help people lose weight without counting calories, shrinking portions, or feeling constantly hungry. In a 16-week clinical trial, people eating mostly fruits, vegetables, grains, and legumes consumed about 357 fewer calories per day even though the total amount of food they ate barely changed.",
+      "authors": "",
+      "published": "Aug 2026",
+      "feedName": "ScienceDaily Nutrition",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260815064825.htm",
+      "image": "https://www.sciencedaily.com/images/1920/woman-after-losing-weight-big-jeans.webp",
+      "screen": "right"
+    },
+    {
       "title": "When gut microbes run low on fiber, they may start eating you",
       "abstract": "Gut microbes need something to eat, and when fiber is limited, they may begin consuming proteins from the mucus lining that protects the gut. Researchers found that fiber can suppress this process, while indigestible plant proteins help microbes produce more beneficial compounds.",
       "authors": "",
@@ -392,52 +402,42 @@
       "screen": "right"
     },
     {
-      "title": "Drinking orange juice every day may change thousands of genes",
-      "abstract": "Orange juice may have a much bigger effect on the body than scientists once realized. Drinking it regularly appears to influence genes tied to inflammation, blood pressure, metabolism, and blood sugar control, while studies have also found improvements in cholesterol and blood vessel health. Researchers suspect natural citrus compounds such as hesperidin may be partly responsible. Even the gut microbiome may benefit.",
-      "authors": "",
-      "published": "Aug 2026",
-      "feedName": "ScienceDaily Nutrition",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260813045548.htm",
-      "image": "https://www.sciencedaily.com/images/1920/young-happy-woman-drinking-orange-juice.webp",
-      "screen": "right"
-    },
-    {
-      "title": "Pandemic-related changes in seasonal vitamin D disparities among preschool children: a community-based cross-sectional study",
-      "abstract": "BackgroundPreschool children are particularly vulnerable to vitamin D (VD) insufficiency owing to rapid skeletal development and limited dietary sources. Although COVID-19 restrictions reduced outdoor activity and theoretically increased deficiency risk, emerging evidence suggests that behavioral adaptations—especially intensified supplementation—may have offset these effects. Yet serial cross-sectional data spanning the pre-, during-, and post-pandemic periods in this population remain scarce, and age-specific vulnerabilities and seasonal disparities are poorly characterized. This study evaluated temporal trends in serum 25-hydroxyvitamin D [25(OH)D] status across three pandemic phases in children under 6 years, examining age-stratified associations and seasonal variations.MethodsIn a community-based cross-sectional study, serum 25(OH)D was quantified by liquid chromatography-mass spectrometry in 6,681 children ( < 6 years). Participants were stratified into Pre-COVID (2019), During-COVID (2020–2022), and Post-COVID (2022–2023) phases. Multivariable linear and logistic regression models, adjusted for sex, age, and season, assessed pandemic phase associations on continuous 25(OH)D and sufficiency rates (≥30 ng/mL). Subgroup and interaction analyses were conducted by age and season.ResultsMedian 25(OH)D rose progressively across phases (30.3 → 34.7 → 37.1 ng/mL; P for trend < 0.001). Post-COVID versus pre-COVID, fully adjusted models showed a 5.24 ng/mL increase (95% CI 4.51–5.97) and 2.25-fold higher odds of sufficiency (95% CI 1.93–2.63). Infants ( < 1 year) exhibited the …",
-      "authors": "Yue Bi, Qiao Wang, Jiaxing Yi et al.",
-      "published": "Aug 2026",
-      "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1893922",
-      "image": "",
-      "screen": "right"
-    },
-    {
-      "title": "Physicochemical characteristics and metabolomic profiling of representative rice cultivars distinct in eating quality",
-      "abstract": "This study aimed to identify shared physicochemical disparities between high eating quality rice and conventional high-yield cultivars across indica and japonica subspecies, and screen core taste-related trait indicators, while characterizing intrasubtype metabolic variation in indica rice. Four representative rice cultivars (two premium fragrant rice: Yuzhenxiang, Daohuaxiang No. 2; two high-yield rice: Huanghuazhan, Kendao 2066) were comprehensively evaluated via sensory, texture, RVA and multi-component quantitative detection; Untargeted metabolomics was further performed on the two indica cultivars Yuzhenxiang and Huanghuazhan. Rice with superior eating quality featured low protein, amino acids and citric acid, moderate soluble sugars, abundant 2-AP, elevated amylopectin long/short chain ratio and low gelatinization temperature. A total of 1,318 differential metabolites were identified, with arginine biosynthesis and linoleic acid metabolism as the most significantly enriched pathways. A three-indicator multiple linear regression model with R2 = 0.972 was constructed for preliminary quantitative prediction only within tested materials. Findings from this multi-indicator integrated analysis revealed that starch structure, aroma compound 2-AP and small-molecule flavor substances jointly regulate rice taste across subspecies; among them, 2-AP, amylopectin long/short chain ratio and RVA consistency viscosity act as core regulators of rice eating quality for both indica and japonica rice, while differential metabolites mainly account for taste variation within indica varieti…",
-      "authors": "Dongping Yao, Siyu Peng, Xiaomei Li et al.",
-      "published": "Aug 2026",
-      "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1914365",
-      "image": "",
-      "screen": "right"
-    },
-    {
-      "title": "Combined L-carnosine and L-tyrosine supplementation as an ergogenic strategy for physical and cognitive performance under fatigue in professional football players",
-      "abstract": "Background/objectivesFootball performance depends on the integration of high-intensity neuromuscular output with rapid decision-making and executive control. Although L-carnosine (L-CAR) and L-tyrosine (L-TYR) have independently demonstrated ergogenic and neurocognitive benefits, evidence regarding their combined effects on both physical and cognitive performance under post-exercise fatigue in football-specific contexts remains limited. This study aimed to investigate the acute effects of L-CAR, L-TYR, and their combined supplementation on physical and cognitive performance following high-intensity exercise in professional football players.MethodsTwenty-four male professionals completed a randomized, double-blind, placebo-controlled crossover trial involving four conditions (L-CAR, L-TYR, L-CAR+L-TYR, placebo). After supplementation, participants completed a Wingate-based fatigue protocol to assess anaerobic performance (peak power, mean power), followed by sprint tests (10–30 m; sprint time), an agility assessment (completion time), and football-specific passing accuracy tasks (execution time and accuracy). Executive function was evaluated using the Stroop test, including reaction time and error rates under neutral, congruent, and incongruent conditions.ResultsL-CAR significantly enhanced anaerobic power and agility, whereas L-TYR primarily improved cognitive performance. The combined condition produced the most pronounced effects, increasing peak power by ~17% and average power by ~16% versus placebo, reducing sprint and agility times by ~7–13%, and shortening incongruent…",
-      "authors": "Süleyman Bilgin, Eren Bozyılan, Yusuf Buzdağlı et al.",
-      "published": "Aug 2026",
-      "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1868802",
-      "image": "",
-      "screen": "right"
-    },
-    {
       "title": "Association between prognostic nutritional index and complications in children with immunoglobulin A vasculitis",
       "abstract": "ObjectiveThis study aimed to evaluate the correlation between prognostic nutritional index (PNI) and complications in immunoglobulin A vasculitis (IgAV) children, including vomiting, abdominal pain, bloody stools, and proteinuria.MethodsA retrospective study was conducted on 732 children diagnosed with IgAV at the Xiangtan Central Hospital of the Hunan University between 2014 and 2025. Logistic regression analyses, subgroup analysis, sensitivity analysis, and receiver operating characteristic (ROC) curves were employed to evaluate the association between PNI and vomiting, abdominal pain, bloody stool, and proteinuria.ResultsMultivariate logistic regression analysis indicated that, each unit increase and one standard deviation (SD) increase in the PNI was associated with a 9.4% reduction (OR = 0.906) and a 50.5% reduction (OR = 0.495) in the risk of vomiting, respectively. Compared to the low PNI group, the high PNI group exhibited a 55.4% reduction in the risk of vomiting (OR = 0.446). Additionally, each unit increase and one SD increase in PNI were linked to a 6.7% (OR = 0.933) and a 38.9% (OR = 0.611) reduction in the risk of abdominal pain, respectively. Furthermore, the high PNI group demonstrated a 60.4% reduction in the risk of abdominal pain (OR = 0.396). For each unit increase and one SD increase in PNI, the risk of bloody stools decreased by 4.9% (OR = 0.951) and 30.3% (OR = 0.697), respectively. Moreover, the high PNI group exhibited a 52.2% reduction in the risk of bloody stools (OR = 0.478). Additionally, for each unit increase and one SD increase in PNI, the ri…",
       "authors": "Xiao Xiong, Zezheng Liu, Huan Li et al.",
       "published": "Aug 2026",
       "feedName": "Frontiers Nutrition",
       "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1853071",
+      "image": "",
+      "screen": "right"
+    },
+    {
+      "title": "Computed tomography-defined sarcopenia is associated with nutritional vulnerability and short-term clinical burden in hospitalized patients with lymphoma",
+      "abstract": "IntroductionSarcopenia in lymphoma remains insufficiently characterized, particularly when defined by both computed tomography-derived skeletal muscle mass and muscle strength. This study aimed to investigate the prevalence, nutritional correlates, auxiliary discriminatory indicators, and short-term clinical implications of computed tomography-defined sarcopenia in hospitalized patients with lymphoma.MethodsThis single-center cohort study included 136 hospitalized patients with lymphoma. Sarcopenia was defined as reduced skeletal muscle index at the third lumbar vertebra combined with low handgrip strength. Clinical, nutritional, laboratory, lymphoma-specific, and short-term outcome variables were compared between patients with and without sarcopenia. Multivariable logistic regression, receiver operating characteristic curve analysis, and Spearman correlation analysis were performed.ResultsComputed tomography-defined sarcopenia was present in 24.26% of patients. Patients with sarcopenia more frequently had reduced recent food intake, reduced protein intake, poorer performance status, nutritional risk, and Global Leadership Initiative on Malnutrition-defined malnutrition. In the nutritional extension model, Geriatric Nutritional Risk Index below 98 (OR 8.238, 95% CI 2.748–24.690, p < 0.001) and reduced food intake during the previous week (OR 10.189, 95% CI 2.926–35.478, p < 0.001) were independently associated with sarcopenia. Geriatric Nutritional Risk Index and Patient-Generated Subjective Global Assessment showed comparable auxiliary discriminatory performance, with AUCs…",
+      "authors": "Ruoxiang Sun, Hua Jiang, Xu Li et al.",
+      "published": "Aug 2026",
+      "feedName": "Frontiers Nutrition",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1920154",
+      "image": "",
+      "screen": "right"
+    },
+    {
+      "title": "Association of controlling nutritional status with fecal incontinence and fecal incontinence severity index in individuals with spinal cord injury: mediating roles of interleukin-6 and uric acid",
+      "abstract": "BackgroundFecal incontinence (FI) is common after spinal cord injury (SCI), but modifiable risk factors are unclear. The association between malnutrition and FI in patients with SCI remains unclear.MethodsThis cross-sectional study included 2,256 SCI patients. Nutritional status was assessed using the CONUT score (albumin, cholesterol, lymphocytes). FI was self-reported, and the fecal incontinence severity index (FISI) was used to quantify severity. Logistic and linear regressions tested CONUT associations with FI and FISI. Restricted cubic splines examined the dose–response. Exploratory mediation analyses assessed IL-6 and uric acid (UA). The predictive performance of CONUT was evaluated using AUC, NRI, and IDI.ResultsAmong 2,256 patients, 267 (11.8%) reported FI. After fully adjusting for covariates, higher CONUT was linked to increased FI odds (OR per 1-unit increase, 1.27; 95%CI, 1.09–1.67) and higher FISI (β = 0.51; 95%CI, 0.32–0.74) in a near-linear dose–response manner. The findings were consistent across subgroups and sensitivity analyses. CONUT showed moderate predictive ability for FI (AUC = 0.788; 95%CI, 0.759–0.818), outperforming the geriatric nutritional risk index (AUC = 0.632) and prognostic nutritional index (AUC = 0.626). Adding CONUT improved reclassification (NRI = 0.19; 95%CI, 0.11–0.30; IDI = 0.12; 95%CI, 0.06–0.20). In exploratory mediation analyses, IL-6 accounted for 16.37 and 18.21% of the total association with FI and FISI, respectively; UA accounted for 14.89 and 10.11%, respectively.ConclusionCONUT was positively and nearly linear-dose-responsiv…",
+      "authors": "Ying Yu, Hao Xiong, Di Wang et al.",
+      "published": "Aug 2026",
+      "feedName": "Frontiers Nutrition",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1842981",
+      "image": "",
+      "screen": "right"
+    },
+    {
+      "title": "Dynamic albumin-to–RDW trajectories for time-dependent risk stratification in acute brain injury",
+      "abstract": "BackgroundAcute brain injury (ABI) requires early, interpretable risk stratification to support ICU risk assessment. We evaluated whether longitudinal albumin-to–red cell distribution width ratio (ARR) trajectories provide time-dependent prognostic information and support prediction with multicenter validation.MethodsIn this multicenter, retrospective cohort study (NSICU, MIMIC-IV, eICU), latent class growth modeling identified ARR trajectories. Nonproportional hazards were addressed with time-stratified Cox models (0–7, 7–14, >14 days) and restricted mean survival time (RMST) at 7, 14, and 28 days. Multiple machine-learning classifiers were benchmarked to develop an interpretable prediction model with internal and external validation. Performance assessment included discrimination, calibration, decision-curve analysis, and SHAP-based interpretability.ResultsAmong 8,270 ICU patients (NSICU n = 5,093; MIMIC-IV n = 744; eICU n = 2,433), four ARR trajectories were identified. Relative to Gradual Decline, recovery-type trajectories were associated with lower early mortality risk (0–7 days: HRs 0.29 and 0.14; 7–14 days: HRs 0.43 and 0.50), whereas the Sustained High-Risk trajectory showed excess hazard primarily beyond 14 days (HR 1.42). These time-dependent patterns were broadly supported by RMST and sensitivity analyses. The final ExtraTrees model achieved AUROC 0.869 and Brier score 0.066 on the internal hold-out set; external validation yielded AUROC 0.731, PR AUC 0.429, and Brier score 0.161, indicating attenuated but informative external performance with modest decision-cu…",
+      "authors": "Juan Wang, Man-Man Xu, Zheng Peng et al.",
+      "published": "Aug 2026",
+      "feedName": "Frontiers Nutrition",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1855636",
       "image": "",
       "screen": "right"
     },

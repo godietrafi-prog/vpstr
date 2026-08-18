@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18T04:27:34Z",
+  "updated": "2026-08-18T06:27:10Z",
   "items": [
     {
       "title": "Considerations for maximizing the effectiveness of debt-for-food swaps",
@@ -202,6 +202,16 @@
       "screen": "left"
     },
     {
+      "title": "Hash-anchored quality-control evidence for food-production digital twins: a Solana-based LIMS-compatible framework",
+      "abstract": "IntroductionDigital twins in food production increasingly support quality monitoring, traceability, and operational decision-making. However, a digital twin can only be as reliable as the quality-control evidence used to update its state. In many food-production settings, laboratory quality information is stored in laboratory information management systems (LIMS), supplier certificates, or external laboratory reports, while blockchain-based food studies mainly focus on supply-chain traceability rather than verified laboratory event integration. This paper proposes a minimal Solana-based hash-anchoring framework that allows food-production digital twins to verify whether LIMS-compatible quality-control evidence is original, modified, or missing before accepting it as batch quality-state evidence.MethodsLaboratory data remain off-chain, while Solana stores only event identifiers, cryptographic hashes, and minimal metadata. The framework is evaluated using an anonymized bakery flour quality-control case based on two flour certificates and generated LIMS-like events derived from the same field structure. Experiments evaluate tamper detection, anchoring and verification latency, benchmark repeatability, and digital twin state classification.ResultsIn the primary 1,000-event local-validator benchmark, Solana per-event anchoring detected 100% of post-validation modifications under a local-store compromise threat model, with mean anchoring latency of 474.7862 ms per event and mean verification latency of 1.5945 ms. A repeat 1,000-event run produced the same order of overhead, with …",
+      "authors": "Meruert Sakypbekova, Gulshat Amirkhanova, Alikhan Amirkhanov et al.",
+      "published": "Aug 2026",
+      "feedName": "Frontiers Food Science",
+      "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.1873959",
+      "image": "",
+      "screen": "left"
+    },
+    {
       "title": "Unlocking the opportunities and challenges of green strategies for bioavailability enhancement of polyphenols",
       "abstract": "Polyphenols are among the most versatile secondary metabolites of plants, with significant therapeutic potential, including anti-inflammatory, cardioprotective, and antioxidant properties. However, limited bioavailability impedes their clinical application. These improvements have led to the use of synthetic stabilizers, toxic solvents, and high-energy inputs, raising concerns about the sustainability, scalability, and environmental impact of these techniques. The bioavailability of polyphenolic bioactives is an emerging area of interest, and green strategies have been developed to address it. Recently, a series of carrier-free delivery systems have also been developed, such as edible colloidal architectures, biopolymer nanoparticles, self-assembled nanostructures, and protein/polysaccharide conjugate nanocarriers, which can enhance solubility, stability, gastrointestinal performance, and release profiles. This review offers a critical analysis of approaches to improve polyphenol bioavailability, as well as recent developments in sustainable formulation design, physicochemical characterization, and translational considerations. This review critically examines the potential, limitations, and future research directions for developing safe, scalable, and environmentally friendly polyphenol delivery systems for therapeutic applications.",
       "authors": "Arya Ojha, Sweta Acharya, Adarsh Sharma et al.",
@@ -228,16 +238,6 @@
       "published": "Aug 2026",
       "feedName": "Frontiers Food Science",
       "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.1795841",
-      "image": "",
-      "screen": "left"
-    },
-    {
-      "title": "Turning up the heat: evaluating thermal treatments for phage management in dairy plants",
-      "abstract": "Bacteriophages remain a major cause of fermentation failure in dairy processing, generating significant economic losses through starter culture disruption. Although thermal treatments are central to microbial control, their effectiveness against dairy-relevant phages is highly inconsistent and frequently overestimated. This review synthesizes over 1,000 phage heat-inactivation observations spanning more than six decades, encompassing multiple host species, phage taxa, temperature regimes, and dairy matrices. Across studies, phage inactivation exhibited pronounced non-linear kinetics, strong isolate-specific variability, and persistent survivor tails, particularly in protein- and fat-rich environments such as milk, whey, and whey-derived ingredients. The data demonstrate that standard pasteurization and commonly applied “phage kill steps” fail to ensure reliable phage elimination, especially against thermoresistant lactococcal skunaviruses. Matrix composition, heating dynamics, and phage population heterogeneity exerted greater influence on survival than host physiology alone. Mechanistic evidence indicates that extreme thermotolerance arises from both intrinsic viral adaptations and reversible matrix-mediated protection. Collectively, these findings argue against fixed thermal recipes and support matrix-aware, isolate-specific validation strategies that account for non-linear kinetics and evolutionary selection pressures inherent to modern dairy processing.",
-      "authors": "Gwendoline Parigi, Dennis A. Romero, Piotr Kolakowski et al.",
-      "published": "Jul 2026",
-      "feedName": "Frontiers Food Science",
-      "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.1894844",
       "image": "",
       "screen": "left"
     },
@@ -362,6 +362,16 @@
       "screen": "right"
     },
     {
+      "title": "The bacteria that make cheese taste so good may also benefit your gut",
+      "abstract": "Scientists studying three artisan British cheeses found that the microbes responsible for their distinctive flavors may also offer surprising benefits for gut health. As the cheeses matured, helpful bacteria transformed their aromas and textures while potentially producing compounds linked to reduced inflammation, cholesterol regulation, and appetite control.",
+      "authors": "",
+      "published": "Aug 2026",
+      "feedName": "ScienceDaily Nutrition",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260816044847.htm",
+      "image": "https://www.sciencedaily.com/images/1920/french-brie-cheese.webp",
+      "screen": "right"
+    },
+    {
       "title": "Low-fat vegan diet helps people lose weight without eating less",
       "abstract": "A low-fat vegan diet may help people lose weight without counting calories, shrinking portions, or feeling constantly hungry. In a 16-week clinical trial, people eating mostly fruits, vegetables, grains, and legumes consumed about 357 fewer calories per day even though the total amount of food they ate barely changed.",
       "authors": "",
@@ -392,52 +402,42 @@
       "screen": "right"
     },
     {
-      "title": "This common vitamin deficiency becomes far more dangerous when paired with belly fat",
-      "abstract": "A large study of more than 5,500 adults over 50 found a striking combination of risk factors: abdominal obesity paired with vitamin D deficiency was linked to a 123% higher risk of death over six years. Each condition was associated with increased risk on its own, but together they appeared to create a dangerous feedback loop, with belly fat reducing the amount of vitamin D available in the bloodstream while low vitamin D may worsen inflammation and other health problems.",
-      "authors": "",
-      "published": "Aug 2026",
-      "feedName": "ScienceDaily Nutrition",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260813045554.htm",
-      "image": "https://www.sciencedaily.com/images/1920/heavy-woman-pinching-belly-fat.webp",
-      "screen": "right"
-    },
-    {
-      "title": "Correlation analysis between eight anthropometric indicators and arterial stiffness in relatively healthy Chinese adults",
-      "abstract": "BackgroundThis study aimed to compare the ability of eight commonly used anthropometric indices to identify arterial stiffness (AS) in relatively healthy Chinese adults, providing evidence for early cardiovascular risk screening.MethodsA total of 1,425 participants were included in this cross-sectional investigation. Eight anthropometric indices [body mass index (BMI), waist-to-hip ratio (WHR), waist-to-height ratio (WHtR), body roundness index (BRI), body adiposity index (BAI), conicity index (CI), body shape index (ABSI), and weight-adjusted waist index (WWI)] were evaluated for their association with brachial-ankle pulse wave velocity (baPWV) using Pearson’s and age-adjusted partial correlations. Logistic regression models were used to evaluate the associations between standardized anthropometric indices and AS. Receiver operating characteristic curves and area under the curve (AUC) were used to assess discriminative ability.ResultsPearson’s correlation analysis revealed that, except for BMI, the other seven anthropometric indices were significantly positively associated with baPWV, with WWI showing the strongest association, and these associations persisted after adjusting for metabolic syndrome (MetS)-related factors. Notably, WWI exhibited the strongest association with baPWV. Logistic regression analysis showed that, when the variables were not adjusted or only age or MetS components were adjusted, the odds ratios (ORs) for WWI were the largest compared with the other seven indices, at 1.808 (1.542–2.120), 1.282 (1.070–1.537), and 1.839 (1.451–2.330), respectively. A…",
-      "authors": "Yuting Duan, Hui Lu, Qun Liu et al.",
+      "title": "A functional food approach: probiotic-fermented Angelica spp. improves skin hyperpigmentation via gut-skin axis and its microbial metabolite hippuric acid",
+      "abstract": "BackgroundAngelica dahurica (Bai-zhi) and A. sinensis (Dang-gui) are traditional food-medicines used for skin disorders, but the mechanism of their oral efficacy remains unclear. Probiotic fermentation is a promising strategy to enhance the bioactivity of plant-based foods.ObjectiveThis study aimed to investigate the functional nutritional properties of probiotic-fermented Angelica spp., evaluate its anti-melanogenic efficacy, and elucidate the role of gut microbiota remodeling and the microbial metabolite hippuric acid (HA) in mediating these effects via the gut-skin axis.MethodsThe aqueous extract of A. dahurica and A. sinensis was fermented with L. plantarum. The fermented broth (FB) was chemically profiled and assessed for antioxidant and anti-melanogenic activity in B16F10 cells. Its efficacy was evaluated in a UVB/progesterone-induced hyperpigmentation mouse model treated with FB orally (GI) or topically (EI). Gut microbiota (16S rRNA sequencing) and metabolomic profiles were analyzed. The role of the key metabolite, hippuric acid (HA), was further investigated in vitro using HT-29 cells.ResultsFermentation enriched bioactive constituents such as salicylic acid and vitamin B2. FB exerted direct anti-melanogenic effects in vitro and exhibited notable in vitro antioxidant activity. In vivo, it relieved UVB/progesterone-induced hyperpigmentation primarily by remodeling gut microbiota and boosting circulating HA. HA modulates transcription of intestinal immune-related genes including NR1H4 and IL-1β, and its concentration positively correlated with beneficial gut taxa. Th…",
+      "authors": "Yuyuan Li, Dandan Xiang, Xingda Huang et al.",
       "published": "Aug 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1873108",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1890406",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Association between prognostic nutritional index and complications in children with immunoglobulin A vasculitis",
-      "abstract": "ObjectiveThis study aimed to evaluate the correlation between prognostic nutritional index (PNI) and complications in immunoglobulin A vasculitis (IgAV) children, including vomiting, abdominal pain, bloody stools, and proteinuria.MethodsA retrospective study was conducted on 732 children diagnosed with IgAV at the Xiangtan Central Hospital of the Hunan University between 2014 and 2025. Logistic regression analyses, subgroup analysis, sensitivity analysis, and receiver operating characteristic (ROC) curves were employed to evaluate the association between PNI and vomiting, abdominal pain, bloody stool, and proteinuria.ResultsMultivariate logistic regression analysis indicated that, each unit increase and one standard deviation (SD) increase in the PNI was associated with a 9.4% reduction (OR = 0.906) and a 50.5% reduction (OR = 0.495) in the risk of vomiting, respectively. Compared to the low PNI group, the high PNI group exhibited a 55.4% reduction in the risk of vomiting (OR = 0.446). Additionally, each unit increase and one SD increase in PNI were linked to a 6.7% (OR = 0.933) and a 38.9% (OR = 0.611) reduction in the risk of abdominal pain, respectively. Furthermore, the high PNI group demonstrated a 60.4% reduction in the risk of abdominal pain (OR = 0.396). For each unit increase and one SD increase in PNI, the risk of bloody stools decreased by 4.9% (OR = 0.951) and 30.3% (OR = 0.697), respectively. Moreover, the high PNI group exhibited a 52.2% reduction in the risk of bloody stools (OR = 0.478). Additionally, for each unit increase and one SD increase in PNI, the ri…",
-      "authors": "Xiao Xiong, Zezheng Liu, Huan Li et al.",
+      "title": "Eumelanin from the skin of farm-raised giant salamanders promotes coagulation system homeostasis: a nutritional intervention for postoperative hemorrhage",
+      "abstract": "BackgroundPostoperative hemorrhage is a serious problem that impacts patient recovery. While current hemostatic agents are effective, they also pose a thrombosis risk. Therefore, it is critical to develop safe and natural nutritional intervention strategies.ObjectiveThis study examines the regulatory effect of eumelanin from the skin of farm-raised giant salamanders (GS) on coagulation homeostasis and assesses its potential as a dietary supplement for postoperative recovery.MethodsThe structure and biosafety of GS eumelanin were analyzed using SEM-EDS and FTIR, along with various other detection methods. Male Wistar rats (114) were used to evaluate coagulation function and for metabolomic analysis. We assessed tail bleeding parameters and coagulation indices at 2 and 24 h after treatment and analyzed intestinal metabolites 2 h after gavage.ResultsSEM-EDS analysis reveals that the GS eumelanin has an irregular aggregated structure with Ca2+ involved in its formation. Multi-technique characterization (UV–Vis, FTIR, and XPS) confirmed the material as eumelanin, with characteristic optical absorption, surface functional groups, and elemental composition. Untargeted and targeted metabolomic analyses revealed that tranexamic acid and aminocaproic acid were detected in the intestinal metabolites of GS eumelanin. It also increases the levels of several other amino acids, including lysine, aspartic acid, and arginine, as well as the Ca2+ release. At 2 h post-gavage, the H-GS eumelanin group showed a 38.2% reduction in hemorrhage volume and a 27.0% reduction in hemostasis time compar…",
+      "authors": "Haobo Yuan, Yifei Zhang, Ruiqi Gong et al.",
       "published": "Aug 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1853071",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1896739",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Association between dietary B vitamin intakes and advanced cardiovascular-kidney-metabolic syndrome: insights from the National Health and Nutrition Examination Survey and an external hospital-based dataset",
-      "abstract": "BackgroundAdvanced cardiovascular-kidney-metabolic (CKM) syndrome is highly prevalent. Diet is increasingly considered as a modifiable risk factor for advanced CKM syndrome. This study aims to evaluate the associations of B vitamin intakes with advanced CKM syndrome.MethodsA cross-sectional study was performed on participants in 2011 to 2020 National Health and Nutrition Examination Survey. Participants were categorized into five CKM stages (0–4) according to the different clinical severities of CKM syndrome, with stages 3 and 4 considered advanced. B vitamin intakes were assessed through two 24-h dietary recall interviews. Multivariable weighted logistic regression, restricted cubic spline analysis, weighted quantile sum (WQS) regression and quantile-based g-computation (QG-comp) were used to explore the associations of single B vitamin intake and mixed B vitamin intakes with advanced CKM syndrome. The primary findings were then externally validated in an independent Chinese cohort.ResultsA total of 14,576 CKM syndrome patients were included in the final analysis, of which 2,486 were categorized into advanced CKM syndrome. Multivariable weighted logistic regression showed that higher intakes of vitamin B2 (odds ratio [OR], 0.87; 95% confidence interval [CI], 0.81–0.93) and B6 (OR, 0.88; 95% CI, 0.82–0.95) were associated with a lower likelihood of advanced stages in CKM syndrome patients. Meanwhile, WQS regression and QG-comp analyses consistently indicated a negative association between mixed B vitamin intakes and advanced CKM syndrome, highlighting that vitamin B2 and vi…",
-      "authors": "Dingyuan Tu, Jinru Li, Li Luo et al.",
+      "title": "Long-term safety and clinical effects of probiotic supplementation in at-risk populations: a systematic review and meta-analysis",
+      "abstract": "BackgroundEvidence regarding the long-term safety and effectiveness of probiotic supplementation in at-risk populations remains limited despite increasing use among elderly, immunocompromised, and gastrointestinal patients.MethodsWe performed a systematic review and meta-analysis of randomized and controlled studies evaluating probiotic supplementation for ≥12 weeks in at-risk populations. PubMed, Scopus, and Web of Science were searched. Pooled risk ratios (RRs) were calculated using random-effects models, and heterogeneity, sensitivity analyses, and risk of bias were assessed.ResultsFive studies involving 920 participants met the inclusion criteria. Probiotic supplementation showed a non-significant trend toward clinical improvement (RR = 1.25, 95% CI: 0.99–1.56; p = 0.059) with low observed heterogeneity (I2 = 0%). No increase in reported adverse events was observed, although safety outcomes were inconsistently reported and could not be quantitatively pooled. Sensitivity analyses supported the stability of the overall findings.ConclusionThe pooled estimate was compatible with a possible clinical benefit but did not reach conventional statistical significance. The available evidence does not permit conclusions about long-term safety because adverse-event reporting was inconsistent, follow-up was limited, and rare or strain-specific harms could not be assessed. Larger, prospectively registered trials are required.",
+      "authors": "Sumaya Alshatari, Malgorzata Ziarno",
       "published": "Aug 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1901987",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1895136",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Combined L-carnosine and L-tyrosine supplementation as an ergogenic strategy for physical and cognitive performance under fatigue in professional football players",
-      "abstract": "Background/objectivesFootball performance depends on the integration of high-intensity neuromuscular output with rapid decision-making and executive control. Although L-carnosine (L-CAR) and L-tyrosine (L-TYR) have independently demonstrated ergogenic and neurocognitive benefits, evidence regarding their combined effects on both physical and cognitive performance under post-exercise fatigue in football-specific contexts remains limited. This study aimed to investigate the acute effects of L-CAR, L-TYR, and their combined supplementation on physical and cognitive performance following high-intensity exercise in professional football players.MethodsTwenty-four male professionals completed a randomized, double-blind, placebo-controlled crossover trial involving four conditions (L-CAR, L-TYR, L-CAR+L-TYR, placebo). After supplementation, participants completed a Wingate-based fatigue protocol to assess anaerobic performance (peak power, mean power), followed by sprint tests (10–30 m; sprint time), an agility assessment (completion time), and football-specific passing accuracy tasks (execution time and accuracy). Executive function was evaluated using the Stroop test, including reaction time and error rates under neutral, congruent, and incongruent conditions.ResultsL-CAR significantly enhanced anaerobic power and agility, whereas L-TYR primarily improved cognitive performance. The combined condition produced the most pronounced effects, increasing peak power by ~17% and average power by ~16% versus placebo, reducing sprint and agility times by ~7–13%, and shortening incongruent…",
-      "authors": "Süleyman Bilgin, Eren Bozyılan, Yusuf Buzdağlı et al.",
+      "title": "Pachymic acid alleviates hepatic lipid accumulation and oxidative stress in MASLD via regulation of the Keap1–Nrf2–HO-1 signaling axis",
+      "abstract": "BackgroundMetabolic dysfunction-associated steatotic liver disease (MASLD) is a rapidly growing metabolic disorder with no FDA-approved treatment. Pachymic acid (PA; synonym: 3-O-acetyltumulosic acid), a lanostane-type triterpenoid, shows potential for treating MASLD. However, its mechanisms remain underexplored.ObjectiveThis work evaluated the therapeutic efficacy and mechanisms of PA in treating MASLD.MethodsThe high-cholesterol diet (HCD)-induced zebrafish model, high-fat diet induced C57BL/6 mice model and free fatty acid (FFA)-treated BRL-3A cells was used to assess PA’s anti- MASLD effects in vivo and in vitro.ResultsPA improved lipid metabolism disrupted by HCD, reduced hepatic oxidative stress, as indicated by decreased MDA levels and increased SOD activity, and lowered inflammatory markers, including TNF-α, IL-6, and IL-1β. PA also enhanced antioxidant activity by regulating the Keap1-Nrf2-HO-1 pathway. PA decreased Keap1 mRNA expression induced by reactive oxygen species (ROS), upregulated Nrf2 and HO-1 expression, and promoted Nrf2 nuclear translocation. These effects suggest that PA inhibits ROS production by activating the Keap1-Nrf2-HO-1 pathway and possibly by inhibiting Nrf2 degradation.ConclusionPA improves MASLD through lipid metabolism regulation and antioxidant effects, primarily by activating the Keap1-Nrf2-HO-1 pathway. These findings highlight PA’s potential as a therapeutic agent for MASLD.",
+      "authors": "Maoru Li, Zefeng Wang, Huan Zhai et al.",
       "published": "Aug 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1868802",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1887176",
       "image": "",
       "screen": "right"
     },

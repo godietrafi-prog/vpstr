@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18T16:23:00Z",
+  "updated": "2026-08-18T18:25:19Z",
   "items": [
     {
       "title": "Considerations for maximizing the effectiveness of debt-for-food swaps",
@@ -282,6 +282,16 @@
       "screen": "left"
     },
     {
+      "title": "End-to-end design creates two low-cost materials to capture methane",
+      "abstract": "Developing new materials to tackle pressing global issues is a gap-filled process that can leave potential climate solutions lost in unread academic papers and forgotten dissertations.",
+      "authors": "",
+      "published": "Aug 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-08-materials-capture-methane.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/research-outlines-a-ne.jpg",
+      "screen": "right"
+    },
+    {
       "title": "Dynamic surface reconstruction explains how copper sulfide catalysts tune CO₂ reduction",
       "abstract": "Copper sulfide (CuS) catalysts continuously reconstruct their surface during electrochemical CO2 reduction, reports a study from the Institute of Science Tokyo, Japan. By uncovering the mechanism behind the dynamic surface changes that occur during potential-step electrolysis, the researchers revealed how sulfur and oxygen play distinct roles in catalyst activity and product selectivity, paving the way for improved CO2 conversion technologies.",
       "authors": "",
@@ -309,16 +319,6 @@
       "feedName": "Phys.org Analytics",
       "url": "https://phys.org/news/2026-08-magnetic-mystery-thorium-clusters.html",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/magnetic-mystery-in-th.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "One-step synthesis of catalysts that turn carbon dioxide into useful methane",
-      "abstract": "A simple flame-synthesis method can produce highly active catalysts for converting carbon dioxide into methane, as reported by researchers from Science Tokyo. The team used flame-assisted spray pyrolysis to manufacture nickel–cerium oxide catalysts with finer nanoparticles and more active sites than conventional methods. These catalysts achieved outstanding methanation performance while remaining suitable for large-scale production, offering a practical route toward carbon-neutral fuel technologies.",
-      "authors": "",
-      "published": "Aug 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-08-synthesis-catalysts-carbon-dioxide-methane.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/one-step-synthesis-of.jpg",
       "screen": "right"
     },
     {

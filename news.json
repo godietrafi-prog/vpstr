@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18T20:15:11Z",
+  "updated": "2026-08-18T22:14:01Z",
   "items": [
     {
       "title": "Considerations for maximizing the effectiveness of debt-for-food swaps",
@@ -282,6 +282,16 @@
       "screen": "left"
     },
     {
+      "title": "Deep-learning approach rapidly predicts where metals bind within proteins",
+      "abstract": "In the living world, roughly a third of all proteins we know rely on metals to function. Zinc helps enzymes break down molecules, iron helps carry oxygen in the blood, calcium helps relay signals in cells and potassium flows through channels that help keep our hearts beating. But despite the important role they play, scientists have long struggled to pinpoint exactly where metal ions bind in a protein to get the job done.",
+      "authors": "",
+      "published": "Aug 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-08-deep-approach-rapidly-metals-proteins.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/a-better-way-to-find-w.jpg",
+      "screen": "right"
+    },
+    {
       "title": "Moving nitrogen within pyridine opens a new path for molecular editing",
       "abstract": "A research team has developed a new molecular editing strategy that can directly convert pyridine compounds into their positional isomers. Instead of moving individual substituents around the molecule, the method relocates the nitrogen atom within the pyridine ring itself, allowing existing molecular structures to be reorganized while preserving their substituents.",
       "authors": "",
@@ -309,16 +319,6 @@
       "feedName": "Phys.org Analytics",
       "url": "https://phys.org/news/2026-08-dynamic-surface-reconstruction-copper-sulfide.html",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/uncovering-the-dynamic-1.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "Rechargeable nickel reservoir enables nitrile production in organic solvents",
-      "abstract": "Inspired by pumped-storage hydropower, a nickel-based redox reservoir enables spontaneous nitrile synthesis in organic solvents, while hydrogen gas is produced separately.",
-      "authors": "",
-      "published": "Aug 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-08-rechargeable-nickel-reservoir-enables-nitrile.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/a-redox-reservoir-sepa.jpg",
       "screen": "right"
     },
     {

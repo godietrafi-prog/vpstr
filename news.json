@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18T14:24:29Z",
+  "updated": "2026-08-18T16:23:00Z",
   "items": [
     {
       "title": "Considerations for maximizing the effectiveness of debt-for-food swaps",
@@ -102,22 +102,22 @@
       "screen": "left"
     },
     {
-      "title": "Purple corn anthocyanins from an integral valorization perspective: advances in extraction, stabilization, biological activities, and emerging food and packaging applications",
+      "title": "Food safety trust as a governance mechanism for Chinese school canteens: A game-theoretic and survey-based analysis",
       "abstract": "",
-      "authors": "Gabriela del Milagro Barreto-Tarrillo, David Aminagat Callirgos Romero, Yuliza Ruiz-Barboza et al.",
+      "authors": "Dong-Ming Gao, Ming Chen, Zong-Qiang Fu",
       "published": "Nov 2026",
       "feedName": "Trends in Food Sci & Tech",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426004802?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426004784?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
     {
-      "title": "Exploring the new prospects in food application with a special emphasis on Antarctic bacterial exopolysaccharides - A review",
+      "title": "Electrospun nanofiber-based food packaging at end-of-life: Degradation pathways, secondary nanoplastics, nanoparticle fate, and circular design strategies",
       "abstract": "",
-      "authors": "Rajdeep Shaw, Anushri Mondal, Oendril Das et al.",
+      "authors": "Prashant Pandey, Devika Tripathi",
       "published": "Nov 2026",
       "feedName": "Trends in Food Sci & Tech",
-      "url": "https://www.sciencedirect.com/science/article/pii/S092422442600484X?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426004851?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -282,6 +282,16 @@
       "screen": "left"
     },
     {
+      "title": "Dynamic surface reconstruction explains how copper sulfide catalysts tune CO₂ reduction",
+      "abstract": "Copper sulfide (CuS) catalysts continuously reconstruct their surface during electrochemical CO2 reduction, reports a study from the Institute of Science Tokyo, Japan. By uncovering the mechanism behind the dynamic surface changes that occur during potential-step electrolysis, the researchers revealed how sulfur and oxygen play distinct roles in catalyst activity and product selectivity, paving the way for improved CO2 conversion technologies.",
+      "authors": "",
+      "published": "Aug 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-08-dynamic-surface-reconstruction-copper-sulfide.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/uncovering-the-dynamic-1.jpg",
+      "screen": "right"
+    },
+    {
       "title": "Rechargeable nickel reservoir enables nitrile production in organic solvents",
       "abstract": "Inspired by pumped-storage hydropower, a nickel-based redox reservoir enables spontaneous nitrile synthesis in organic solvents, while hydrogen gas is produced separately.",
       "authors": "",
@@ -309,16 +319,6 @@
       "feedName": "Phys.org Analytics",
       "url": "https://phys.org/news/2026-08-synthesis-catalysts-carbon-dioxide-methane.html",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/one-step-synthesis-of.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "Understanding nature's 'dimmer switch': Study sheds new light on how algae regulate photosynthesis with pH",
-      "abstract": "A new joint study from Constructor University and Princeton University in the Journal of the American Chemical Society focuses on PC645, a protein complex that contributes to cryptophyte algae's ability to photosynthesize efficiently using specialized light-harvesting pigments that can capture energy from dim, blue-green underwater light. During photosynthesis, the pH inside the algae can fluctuate significantly, affecting how they manage light energy.",
-      "authors": "",
-      "published": "Aug 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-08-nature-dimmer-algae-photosynthesis-ph.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/understanding-natures-2.jpg",
       "screen": "right"
     },
     {
@@ -402,22 +402,22 @@
       "screen": "right"
     },
     {
-      "title": "Bioavailability of dietary polyphenols and plant bioactives in functional foods: insights and limitations from in vitro digestion models",
-      "abstract": "This review provides a comprehensive evaluation of how bioactive compounds within plant- and animal-derived food matrices interact with human physiology and metabolic pathways, with a particular focus on secondary metabolites synthesized or transformed via microbial pathways. The manuscript covers a diverse range of lipophilic and hydrophilic bioactive molecules, critically analysing these components from biological and technological perspectives. From a processing perspective, the mechanisms by which fermentation enhances antioxidant capacity by converting complex molecular structures into highly active aglycone forms are detailed. Concurrently, from an engineering perspective, the efficiency of nanoliposomes, solid lipid nanoparticles (SLNP), and biopolymeric carrier systems is assessed. Rather than claiming that encapsulation technologies can entirely overcome bioavailability limitations, this review critically assesses their potential to improve the stability, bioaccessibility and targeted release of sensitive components during gastrointestinal transit. Ultimately, by bridging microbial biotransformation with advanced delivery systems, this study offers a unified framework for optimizing the bioaccessibility of complex dietary compounds under simulated gastrointestinal conditions.",
-      "authors": "Marwa Ezz El-Din Ibrahim, Utku Benan Usta, Seydi Yıkmış et al.",
+      "title": "A functional food approach: probiotic-fermented Angelica spp. improves skin hyperpigmentation via gut-skin axis and its microbial metabolite hippuric acid",
+      "abstract": "BackgroundAngelica dahurica (Bai-zhi) and A. sinensis (Dang-gui) are traditional food-medicines used for skin disorders, but the mechanism of their oral efficacy remains unclear. Probiotic fermentation is a promising strategy to enhance the bioactivity of plant-based foods.ObjectiveThis study aimed to investigate the functional nutritional properties of probiotic-fermented Angelica spp., evaluate its anti-melanogenic efficacy, and elucidate the role of gut microbiota remodeling and the microbial metabolite hippuric acid (HA) in mediating these effects via the gut-skin axis.MethodsThe aqueous extract of A. dahurica and A. sinensis was fermented with L. plantarum. The fermented broth (FB) was chemically profiled and assessed for antioxidant and anti-melanogenic activity in B16F10 cells. Its efficacy was evaluated in a UVB/progesterone-induced hyperpigmentation mouse model treated with FB orally (GI) or topically (EI). Gut microbiota (16S rRNA sequencing) and metabolomic profiles were analyzed. The role of the key metabolite, hippuric acid (HA), was further investigated in vitro using HT-29 cells.ResultsFermentation enriched bioactive constituents such as salicylic acid and vitamin B2. FB exerted direct anti-melanogenic effects in vitro and exhibited notable in vitro antioxidant activity. In vivo, it relieved UVB/progesterone-induced hyperpigmentation primarily by remodeling gut microbiota and boosting circulating HA. HA modulates transcription of intestinal immune-related genes including NR1H4 and IL-1β, and its concentration positively correlated with beneficial gut taxa. Th…",
+      "authors": "Yuyuan Li, Dandan Xiang, Xingda Huang et al.",
       "published": "Aug 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1900532",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1890406",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Skeletal muscle mitochondrial–methylation–neurotransmitter crosstalk: a novel synergistic model of betaine, tyrosine, and Cordyceps for exercise performance in older adults, individuals with metabolic disorders, and healthy populations",
-      "abstract": "Athletic performance and exercise adaptation are influenced by intricately coordinated interactions among mitochondrial bioenergetics, methylation-dependent metabolic pathways, and the regulation of central neurotransmitters. The potential of Cordyceps-based supplementation to enhance mitochondrial ATP production, optimize oxygen utilization, and improve fatigue resistance has been extensively studied. Nevertheless, the exploration of its integration with complementary metabolic modulators remains inadequately addressed. This review introduces an innovative systems-level model that synthesizes Cordyceps with betaine and tyrosine, aiming to target both peripheral and central determinants of athletic performance. Betaine acts as a methyl donor and osmolyte, facilitating creatine synthesis, enhancing cellular hydration, and promoting metabolic resilience, thereby improving muscle power output and fostering adaptations in body composition. Tyrosine, serving as a precursor for catecholamines, significantly influences dopaminergic and noradrenergic signaling, with the potential to mitigate central fatigue and enhance cognitive endurance in the presence of physiological stress. We propose a comprehensive integrative framework of mitochondrial–methylation–neurotransmitter interactions to elucidate how these agents may collectively augment ATP efficiency, redox equilibrium, neuromuscular performance, and recovery processes. Notably, this model may possess translational implications not solely for healthy athletes but also for elderly populations and individuals experiencing metaboli…",
-      "authors": "Chunhong Xu, Weilu Cai, Jing Li et al.",
+      "title": "Enteral feeding tube use among pediatric patients and nurses’ knowledge in China: a 52-hospital point-prevalence and cross-sectional survey study",
+      "abstract": "BackgroundEnteral feeding tubes are widely used in pediatric patients, but tube-related complications remain a safety concern. Understanding current practice and nurses’ knowledge is essential for improving the safety of enteral feeding tube placement and guiding evidence-based pediatric care.AimTo investigate the current status of enteral feeding tube placements in hospitalized children in China and to evaluate nurses’ knowledge and experience of enteral feeding tube management.MethodsA cross-sectional point-prevalence study was conducted between 4 and 20 December 2024 across 52 hospitals in China to identify hospitalized children with enteral feeding tubes. Data were collected by trained nurses. Concurrently, a survey was conducted among 11,787 pediatric nurses in the same hospitals. Descriptive statistics and binary logistic regression analysis were used.ResultsA total of 2,875 children with enteral feeding tubes were included. The national prevalence of enteral feeding tube placement was 7.7% (2,875/37,114) of all hospitalized children. The highest rates were observed in general hospitals with pediatric departments (14.4%), followed by maternal and child health hospitals (11.6%) and children’s hospitals (6.4%). Pediatric intensive care units (PICUs) (39.2%) and neonatal units (35.5%) were the primary units where patients with enteral feeding tubes were located. Orogastric (54.9%) and nasogastric (41.1%) tubes constituted the majority of feeding tube types. Among 11,787 nurses, 91.0% reported gastric tube placement experience, yet only 19.2% knew the nasal-tip-earlobe-mi…",
+      "authors": "Zhuowen Yu, Yuyan Huang, Yiwen Zhou et al.",
       "published": "Aug 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1812286",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1854191",
       "image": "",
       "screen": "right"
     },
@@ -432,12 +432,12 @@
       "screen": "right"
     },
     {
-      "title": "A functional food approach: probiotic-fermented Angelica spp. improves skin hyperpigmentation via gut-skin axis and its microbial metabolite hippuric acid",
-      "abstract": "BackgroundAngelica dahurica (Bai-zhi) and A. sinensis (Dang-gui) are traditional food-medicines used for skin disorders, but the mechanism of their oral efficacy remains unclear. Probiotic fermentation is a promising strategy to enhance the bioactivity of plant-based foods.ObjectiveThis study aimed to investigate the functional nutritional properties of probiotic-fermented Angelica spp., evaluate its anti-melanogenic efficacy, and elucidate the role of gut microbiota remodeling and the microbial metabolite hippuric acid (HA) in mediating these effects via the gut-skin axis.MethodsThe aqueous extract of A. dahurica and A. sinensis was fermented with L. plantarum. The fermented broth (FB) was chemically profiled and assessed for antioxidant and anti-melanogenic activity in B16F10 cells. Its efficacy was evaluated in a UVB/progesterone-induced hyperpigmentation mouse model treated with FB orally (GI) or topically (EI). Gut microbiota (16S rRNA sequencing) and metabolomic profiles were analyzed. The role of the key metabolite, hippuric acid (HA), was further investigated in vitro using HT-29 cells.ResultsFermentation enriched bioactive constituents such as salicylic acid and vitamin B2. FB exerted direct anti-melanogenic effects in vitro and exhibited notable in vitro antioxidant activity. In vivo, it relieved UVB/progesterone-induced hyperpigmentation primarily by remodeling gut microbiota and boosting circulating HA. HA modulates transcription of intestinal immune-related genes including NR1H4 and IL-1β, and its concentration positively correlated with beneficial gut taxa. Th…",
-      "authors": "Yuyuan Li, Dandan Xiang, Xingda Huang et al.",
+      "title": "Edible interfaces based on chitosan, cellulose, and hemicellulose: from food preservation to bioactive delivery and post-consumption relevance",
+      "abstract": "The increasing demand for sustainable, functional, and safe food packaging has driven the development of edible polysaccharide-based films and coatings. Cellulose, hemicellulose, and chitosan serve as versatile platforms for constructing multifunctional interfaces that integrate preservation, bioactive delivery, and post-consumption functionality. This review systematically examines strategies to enhance mechanical strength, barrier performance, water resistance, and controlled release through nanoreinforcement, polymer blending, plasticization, crosslinking, and processing optimization. Active preservation functions, including antimicrobial, antifungal, and antioxidant activities, are contextualized with real food applications such as fruits, vegetables, meat, dairy, and lipid-rich products. Special attention is given to bioactive loading and controlled release of phenolics, flavonoids, essential oils, probiotics, and prebiotic xylooligosaccharides, while critically distinguishing formulation-level evidence, such as release in food simulants or simulated gastrointestinal fluids, from unvalidated claims of gut microbiota modulation or nutritional benefit. Food matrix-specific validation illustrates how interface design must match the dominant spoilage pathways of target foods. The post-consumption fate and microbiota-oriented relevance of edible films are discussed as emerging possibilities, with emphasis on the current lack of direct colonic fermentation, animal, or human intervention evidence for many reported systems. Furthermore, advances in intelligent, responsive, and…",
+      "authors": "Bing Zhang",
       "published": "Aug 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1890406",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1877948",
       "image": "",
       "screen": "right"
     },

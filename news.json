@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18T12:31:45Z",
+  "updated": "2026-08-18T14:24:29Z",
   "items": [
     {
       "title": "Considerations for maximizing the effectiveness of debt-for-food swaps",
@@ -142,22 +142,22 @@
       "screen": "left"
     },
     {
-      "title": "Sensory Driven Conjoint Analysis: How experiencing sensory stimuli differs from simply imagining them",
+      "title": "Expecting the worst: empathic forecasting errors and vegetarian meal requests",
       "abstract": "",
-      "authors": "Rogelio Cianchini, Alina Stelick, Robin Dando",
+      "authors": "Kate Laffan, Emma Howard",
       "published": "Jan 2027",
       "feedName": "Food Quality & Preference",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0950329326002326?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0950329326002314?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
     {
-      "title": "Food preference learning strategies for toddlers with high food fussiness: a pilot study",
+      "title": "How information framing shapes consumer preferences for sustainability indicators: a Best-Worst Scaling experiment on the Sustainable Rice Platform standard",
       "abstract": "",
-      "authors": "Stephanie Anzman-Frasca, Kameron J. Moding, Rachel Fan et al.",
+      "authors": "Thuy Ung-Pham, Carolina Chaya, Amparo Tárrega et al.",
       "published": "Jan 2027",
       "feedName": "Food Quality & Preference",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0950329326002260?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0950329326002338?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -402,12 +402,22 @@
       "screen": "right"
     },
     {
-      "title": "A functional food approach: probiotic-fermented Angelica spp. improves skin hyperpigmentation via gut-skin axis and its microbial metabolite hippuric acid",
-      "abstract": "BackgroundAngelica dahurica (Bai-zhi) and A. sinensis (Dang-gui) are traditional food-medicines used for skin disorders, but the mechanism of their oral efficacy remains unclear. Probiotic fermentation is a promising strategy to enhance the bioactivity of plant-based foods.ObjectiveThis study aimed to investigate the functional nutritional properties of probiotic-fermented Angelica spp., evaluate its anti-melanogenic efficacy, and elucidate the role of gut microbiota remodeling and the microbial metabolite hippuric acid (HA) in mediating these effects via the gut-skin axis.MethodsThe aqueous extract of A. dahurica and A. sinensis was fermented with L. plantarum. The fermented broth (FB) was chemically profiled and assessed for antioxidant and anti-melanogenic activity in B16F10 cells. Its efficacy was evaluated in a UVB/progesterone-induced hyperpigmentation mouse model treated with FB orally (GI) or topically (EI). Gut microbiota (16S rRNA sequencing) and metabolomic profiles were analyzed. The role of the key metabolite, hippuric acid (HA), was further investigated in vitro using HT-29 cells.ResultsFermentation enriched bioactive constituents such as salicylic acid and vitamin B2. FB exerted direct anti-melanogenic effects in vitro and exhibited notable in vitro antioxidant activity. In vivo, it relieved UVB/progesterone-induced hyperpigmentation primarily by remodeling gut microbiota and boosting circulating HA. HA modulates transcription of intestinal immune-related genes including NR1H4 and IL-1β, and its concentration positively correlated with beneficial gut taxa. Th…",
-      "authors": "Yuyuan Li, Dandan Xiang, Xingda Huang et al.",
+      "title": "Bioavailability of dietary polyphenols and plant bioactives in functional foods: insights and limitations from in vitro digestion models",
+      "abstract": "This review provides a comprehensive evaluation of how bioactive compounds within plant- and animal-derived food matrices interact with human physiology and metabolic pathways, with a particular focus on secondary metabolites synthesized or transformed via microbial pathways. The manuscript covers a diverse range of lipophilic and hydrophilic bioactive molecules, critically analysing these components from biological and technological perspectives. From a processing perspective, the mechanisms by which fermentation enhances antioxidant capacity by converting complex molecular structures into highly active aglycone forms are detailed. Concurrently, from an engineering perspective, the efficiency of nanoliposomes, solid lipid nanoparticles (SLNP), and biopolymeric carrier systems is assessed. Rather than claiming that encapsulation technologies can entirely overcome bioavailability limitations, this review critically assesses their potential to improve the stability, bioaccessibility and targeted release of sensitive components during gastrointestinal transit. Ultimately, by bridging microbial biotransformation with advanced delivery systems, this study offers a unified framework for optimizing the bioaccessibility of complex dietary compounds under simulated gastrointestinal conditions.",
+      "authors": "Marwa Ezz El-Din Ibrahim, Utku Benan Usta, Seydi Yıkmış et al.",
       "published": "Aug 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1890406",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1900532",
+      "image": "",
+      "screen": "right"
+    },
+    {
+      "title": "Skeletal muscle mitochondrial–methylation–neurotransmitter crosstalk: a novel synergistic model of betaine, tyrosine, and Cordyceps for exercise performance in older adults, individuals with metabolic disorders, and healthy populations",
+      "abstract": "Athletic performance and exercise adaptation are influenced by intricately coordinated interactions among mitochondrial bioenergetics, methylation-dependent metabolic pathways, and the regulation of central neurotransmitters. The potential of Cordyceps-based supplementation to enhance mitochondrial ATP production, optimize oxygen utilization, and improve fatigue resistance has been extensively studied. Nevertheless, the exploration of its integration with complementary metabolic modulators remains inadequately addressed. This review introduces an innovative systems-level model that synthesizes Cordyceps with betaine and tyrosine, aiming to target both peripheral and central determinants of athletic performance. Betaine acts as a methyl donor and osmolyte, facilitating creatine synthesis, enhancing cellular hydration, and promoting metabolic resilience, thereby improving muscle power output and fostering adaptations in body composition. Tyrosine, serving as a precursor for catecholamines, significantly influences dopaminergic and noradrenergic signaling, with the potential to mitigate central fatigue and enhance cognitive endurance in the presence of physiological stress. We propose a comprehensive integrative framework of mitochondrial–methylation–neurotransmitter interactions to elucidate how these agents may collectively augment ATP efficiency, redox equilibrium, neuromuscular performance, and recovery processes. Notably, this model may possess translational implications not solely for healthy athletes but also for elderly populations and individuals experiencing metaboli…",
+      "authors": "Chunhong Xu, Weilu Cai, Jing Li et al.",
+      "published": "Aug 2026",
+      "feedName": "Frontiers Nutrition",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1812286",
       "image": "",
       "screen": "right"
     },
@@ -422,22 +432,12 @@
       "screen": "right"
     },
     {
-      "title": "Long-term safety and clinical effects of probiotic supplementation in at-risk populations: a systematic review and meta-analysis",
-      "abstract": "BackgroundEvidence regarding the long-term safety and effectiveness of probiotic supplementation in at-risk populations remains limited despite increasing use among elderly, immunocompromised, and gastrointestinal patients.MethodsWe performed a systematic review and meta-analysis of randomized and controlled studies evaluating probiotic supplementation for ≥12 weeks in at-risk populations. PubMed, Scopus, and Web of Science were searched. Pooled risk ratios (RRs) were calculated using random-effects models, and heterogeneity, sensitivity analyses, and risk of bias were assessed.ResultsFive studies involving 920 participants met the inclusion criteria. Probiotic supplementation showed a non-significant trend toward clinical improvement (RR = 1.25, 95% CI: 0.99–1.56; p = 0.059) with low observed heterogeneity (I2 = 0%). No increase in reported adverse events was observed, although safety outcomes were inconsistently reported and could not be quantitatively pooled. Sensitivity analyses supported the stability of the overall findings.ConclusionThe pooled estimate was compatible with a possible clinical benefit but did not reach conventional statistical significance. The available evidence does not permit conclusions about long-term safety because adverse-event reporting was inconsistent, follow-up was limited, and rare or strain-specific harms could not be assessed. Larger, prospectively registered trials are required.",
-      "authors": "Sumaya Alshatari, Malgorzata Ziarno",
+      "title": "A functional food approach: probiotic-fermented Angelica spp. improves skin hyperpigmentation via gut-skin axis and its microbial metabolite hippuric acid",
+      "abstract": "BackgroundAngelica dahurica (Bai-zhi) and A. sinensis (Dang-gui) are traditional food-medicines used for skin disorders, but the mechanism of their oral efficacy remains unclear. Probiotic fermentation is a promising strategy to enhance the bioactivity of plant-based foods.ObjectiveThis study aimed to investigate the functional nutritional properties of probiotic-fermented Angelica spp., evaluate its anti-melanogenic efficacy, and elucidate the role of gut microbiota remodeling and the microbial metabolite hippuric acid (HA) in mediating these effects via the gut-skin axis.MethodsThe aqueous extract of A. dahurica and A. sinensis was fermented with L. plantarum. The fermented broth (FB) was chemically profiled and assessed for antioxidant and anti-melanogenic activity in B16F10 cells. Its efficacy was evaluated in a UVB/progesterone-induced hyperpigmentation mouse model treated with FB orally (GI) or topically (EI). Gut microbiota (16S rRNA sequencing) and metabolomic profiles were analyzed. The role of the key metabolite, hippuric acid (HA), was further investigated in vitro using HT-29 cells.ResultsFermentation enriched bioactive constituents such as salicylic acid and vitamin B2. FB exerted direct anti-melanogenic effects in vitro and exhibited notable in vitro antioxidant activity. In vivo, it relieved UVB/progesterone-induced hyperpigmentation primarily by remodeling gut microbiota and boosting circulating HA. HA modulates transcription of intestinal immune-related genes including NR1H4 and IL-1β, and its concentration positively correlated with beneficial gut taxa. Th…",
+      "authors": "Yuyuan Li, Dandan Xiang, Xingda Huang et al.",
       "published": "Aug 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1895136",
-      "image": "",
-      "screen": "right"
-    },
-    {
-      "title": "Pachymic acid alleviates hepatic lipid accumulation and oxidative stress in MASLD via regulation of the Keap1–Nrf2–HO-1 signaling axis",
-      "abstract": "BackgroundMetabolic dysfunction-associated steatotic liver disease (MASLD) is a rapidly growing metabolic disorder with no FDA-approved treatment. Pachymic acid (PA; synonym: 3-O-acetyltumulosic acid), a lanostane-type triterpenoid, shows potential for treating MASLD. However, its mechanisms remain underexplored.ObjectiveThis work evaluated the therapeutic efficacy and mechanisms of PA in treating MASLD.MethodsThe high-cholesterol diet (HCD)-induced zebrafish model, high-fat diet induced C57BL/6 mice model and free fatty acid (FFA)-treated BRL-3A cells was used to assess PA’s anti- MASLD effects in vivo and in vitro.ResultsPA improved lipid metabolism disrupted by HCD, reduced hepatic oxidative stress, as indicated by decreased MDA levels and increased SOD activity, and lowered inflammatory markers, including TNF-α, IL-6, and IL-1β. PA also enhanced antioxidant activity by regulating the Keap1-Nrf2-HO-1 pathway. PA decreased Keap1 mRNA expression induced by reactive oxygen species (ROS), upregulated Nrf2 and HO-1 expression, and promoted Nrf2 nuclear translocation. These effects suggest that PA inhibits ROS production by activating the Keap1-Nrf2-HO-1 pathway and possibly by inhibiting Nrf2 degradation.ConclusionPA improves MASLD through lipid metabolism regulation and antioxidant effects, primarily by activating the Keap1-Nrf2-HO-1 pathway. These findings highlight PA’s potential as a therapeutic agent for MASLD.",
-      "authors": "Maoru Li, Zefeng Wang, Huan Zhai et al.",
-      "published": "Aug 2026",
-      "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1887176",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1890406",
       "image": "",
       "screen": "right"
     },
@@ -696,7 +696,7 @@
       "venue": "Journal of the American Chemical Society",
       "feedName": "Lab Research",
       "citationCount": 20,
-      "recentCitations": 0,
+      "recentCitations": 2,
       "s2_paper_id": "e8f95caa1e8ece0c16f246b34ead0788c6d4b146",
       "url": "https://doi.org/10.1021/jacs.4c00625",
       "image": "",
@@ -791,7 +791,7 @@
       "venue": "Nutrients",
       "feedName": "Lab Research",
       "citationCount": 7,
-      "recentCitations": 0,
+      "recentCitations": 1,
       "s2_paper_id": "b97e4acafc9606b86df3bd0c797faa7fbcf900b7",
       "url": "https://doi.org/10.3390/nu16142328",
       "image": "",

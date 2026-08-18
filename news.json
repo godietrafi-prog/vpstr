@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18T18:25:19Z",
+  "updated": "2026-08-18T20:15:11Z",
   "items": [
     {
       "title": "Considerations for maximizing the effectiveness of debt-for-food swaps",
@@ -282,6 +282,16 @@
       "screen": "left"
     },
     {
+      "title": "Moving nitrogen within pyridine opens a new path for molecular editing",
+      "abstract": "A research team has developed a new molecular editing strategy that can directly convert pyridine compounds into their positional isomers. Instead of moving individual substituents around the molecule, the method relocates the nitrogen atom within the pyridine ring itself, allowing existing molecular structures to be reorganized while preserving their substituents.",
+      "authors": "",
+      "published": "Aug 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-08-nitrogen-pyridine-path-molecular.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/moving-nitrogen-within.jpg",
+      "screen": "right"
+    },
+    {
       "title": "End-to-end design creates two low-cost materials to capture methane",
       "abstract": "Developing new materials to tackle pressing global issues is a gap-filled process that can leave potential climate solutions lost in unread academic papers and forgotten dissertations.",
       "authors": "",
@@ -309,16 +319,6 @@
       "feedName": "Phys.org Analytics",
       "url": "https://phys.org/news/2026-08-rechargeable-nickel-reservoir-enables-nitrile.html",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/a-redox-reservoir-sepa.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "Magnetic mystery in thorium clusters resolved by new study",
-      "abstract": "Scientists from the University of Manchester's Department of Chemistry, Centre for Radiochemistry Research and Photon Science Institute, led by Professor Steve Liddle, have uncovered why a rare class of metal clusters appears to behave differently in experiments and theoretical calculations, resolving a debate about the nature of chemical aromaticity and revealing a previously overlooked type of magnetic response.",
-      "authors": "",
-      "published": "Aug 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-08-magnetic-mystery-thorium-clusters.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/magnetic-mystery-in-th.jpg",
       "screen": "right"
     },
     {

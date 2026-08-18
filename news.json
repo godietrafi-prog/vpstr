@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18T10:20:10Z",
+  "updated": "2026-08-18T12:31:45Z",
   "items": [
     {
       "title": "Considerations for maximizing the effectiveness of debt-for-food swaps",
@@ -242,6 +242,16 @@
       "screen": "left"
     },
     {
+      "title": "Metabolomics-based analysis of dynamic metabolic trajectories and regulatory networks in two-stage fermentation of kiwifruit wine",
+      "abstract": "",
+      "authors": "Wangsheng Sun, Pengfei Bi, Wanju Yan et al.",
+      "published": "Jan 2027",
+      "feedName": "Food Microbiology",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0740002026002303?dgcid=rss_sd_all",
+      "image": "",
+      "screen": "left"
+    },
+    {
       "title": "Control of Alicyclobacillus acidoterrestris spore and Byssochlamys ascospore growth in ambient acid dairy products through organic acid and heat treatments",
       "abstract": "",
       "authors": "Amila S.N.W. Pahalagedara, Elissavet Gkogka, Lasse Glinvad-Ravn et al.",
@@ -268,16 +278,6 @@
       "published": "Jan 2027",
       "feedName": "Food Microbiology",
       "url": "https://www.sciencedirect.com/science/article/pii/S0740002026002261?dgcid=rss_sd_all",
-      "image": "",
-      "screen": "left"
-    },
-    {
-      "title": "Cereulide on adjacent meat: toxin transfer or de novo production?",
-      "abstract": "",
-      "authors": "Junyang Li, Xin Zhang",
-      "published": "Jan 2027",
-      "feedName": "Food Microbiology",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0740002026002297?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -696,7 +696,7 @@
       "venue": "Journal of the American Chemical Society",
       "feedName": "Lab Research",
       "citationCount": 20,
-      "recentCitations": 2,
+      "recentCitations": 0,
       "s2_paper_id": "e8f95caa1e8ece0c16f246b34ead0788c6d4b146",
       "url": "https://doi.org/10.1021/jacs.4c00625",
       "image": "",
@@ -791,7 +791,7 @@
       "venue": "Nutrients",
       "feedName": "Lab Research",
       "citationCount": 7,
-      "recentCitations": 1,
+      "recentCitations": 0,
       "s2_paper_id": "b97e4acafc9606b86df3bd0c797faa7fbcf900b7",
       "url": "https://doi.org/10.3390/nu16142328",
       "image": "",

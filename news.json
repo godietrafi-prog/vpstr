@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19T16:21:05Z",
+  "updated": "2026-08-19T18:20:38Z",
   "items": [
     {
       "title": "Considerations for maximizing the effectiveness of debt-for-food swaps",
@@ -282,6 +282,16 @@
       "screen": "left"
     },
     {
+      "title": "Foldamer–protein pair unlocks precise building blocks for artificial molecular materials",
+      "abstract": "Proteins form complex three-dimensional shapes and can join together to create larger structures. Researchers want to use these properties to make artificial materials. However, arranging proteins and synthetic molecules together with a high level of structural precision is no easy task. This is partly because of the lack of large, clearly defined contact surfaces between the two components.",
+      "authors": "",
+      "published": "Aug 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-08-foldamerprotein-pair-precise-blocks-artificial.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/new-building-block-com.jpg",
+      "screen": "right"
+    },
+    {
       "title": "Deep-learning approach rapidly predicts where metals bind within proteins",
       "abstract": "In the living world, roughly a third of all proteins we know rely on metals to function. Zinc helps enzymes break down molecules, iron helps carry oxygen in the blood, calcium helps relay signals in cells and potassium flows through channels that help keep our hearts beating. But despite the important role they play, scientists have long struggled to pinpoint exactly where metal ions bind in a protein to get the job done.",
       "authors": "",
@@ -309,16 +319,6 @@
       "feedName": "Phys.org Analytics",
       "url": "https://phys.org/news/2026-08-materials-capture-methane.html",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/research-outlines-a-ne.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "Dynamic surface reconstruction explains how copper sulfide catalysts tune CO₂ reduction",
-      "abstract": "Copper sulfide (CuS) catalysts continuously reconstruct their surface during electrochemical CO2 reduction, reports a study from the Institute of Science Tokyo, Japan. By uncovering the mechanism behind the dynamic surface changes that occur during potential-step electrolysis, the researchers revealed how sulfur and oxygen play distinct roles in catalyst activity and product selectivity, paving the way for improved CO2 conversion technologies.",
-      "authors": "",
-      "published": "Aug 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-08-dynamic-surface-reconstruction-copper-sulfide.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/uncovering-the-dynamic-1.jpg",
       "screen": "right"
     },
     {

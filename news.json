@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19T04:35:51Z",
+  "updated": "2026-08-19T06:29:30Z",
   "items": [
     {
       "title": "Considerations for maximizing the effectiveness of debt-for-food swaps",
@@ -202,6 +202,26 @@
       "screen": "left"
     },
     {
+      "title": "Comparative evaluation of nutritional composition, functional activity, and sensory profile of cashew apple (Anacardium occidentale L.) from improved clones and local varieties",
+      "abstract": "The cashew apple (Anacardium occidentale L.), the pseudofruit of the cashew tree, is a valuable source of dietary fiber, vitamins, sugars, and bioactive compounds with recognized antioxidant potential. Despite its nutritional and functional properties, its agroindustrial utilization remains limited compared with the cashew nut, resulting in the underutilization of a valuable agricultural resource. Therefore, this study aimed to provide a comparative evaluation of the physicochemical, nutritional, functional, and sensory characteristics of four Colombian cashew apple varieties (Clon Mapiria, Clon Agrosavia Caribe, Criollo Amarillo, and Criollo Rojo). Composite samples representative of each variety were prepared by pooling fruits harvested at commercial maturity from several healthy trees growing under the same agroecological conditions. Physicochemical, proximate, and functional analyses were performed using a Completely Randomized Design (CRD) with three analytical replicates per composite sample. Consumer acceptance was assessed using a nine-point hedonic test. Marked variation was observed among the evaluated varieties in their physicochemical, nutritional, functional, and sensory characteristics. The results indicated that soluble solids ranged from 7.90 to 11.47 °Brix, total phenolic content from 282.95 to 370.89 mg GAE/100 g, and antioxidant capacity from 370.55 to 390.60 mg TE/100 g. Clon Mapiria exhibited the highest soluble solids content and antioxidant capacity, whereas Criollo Amarillo showed the highest total phenolic and condensed tannin contents. Clon Agrosav…",
+      "authors": "Diego Segura-Bermudez, Claudia De Paula, Ricardo Andrade-Pizarro et al.",
+      "published": "Aug 2026",
+      "feedName": "Frontiers Food Science",
+      "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.1874327",
+      "image": "",
+      "screen": "left"
+    },
+    {
+      "title": "Shelf-life evaluation of precooked millet couscous (Pennisetum glaucum) during ambient storage, in Senegal",
+      "abstract": "IntroductionMillet couscous occupies a significant place in the Senegalese diet and contributes to the valorization and promotion of local cereals. However, information regarding shelf life, physicochemical characteristics, microbiological safety, and sensory quality remains limited. Nevertheless, these properties are often overlooked, can play a key role in the promotion and economical and nutritional competitiveness of precooked millet couscous. This study aimed to determine, through scientific knowledge, the shelf life of precooked millet couscous packaged in polyethylene bags under ambient storage conditions in order to establish its minimum durability date (MDD).MethodsPrecooked couscous was produced in three samples, packaged at 500g per bag and then stored at laboratory ambient temperature (23 °C–30 °C) with relative humidity varying between 46% and 51% during storage. Samples of precooked millet couscous were taken regularly from T0 to T20 months to assess microbiological quality, pH, moisture content (humidity), water activity and sensory properties during storage. Data were analyzed using analysis of variance (ANOVA), and mean comparisons were performed using Fisher’s Least Significant Difference (LSD) test at a significance level of p < 0.05.Results and DiscussionFinding showed pathogenic microorganism including, Salmonella, E. coli, sulfite-reducing Clostridium, Bacillus cereus, and Staphylococcus aureus were not detected in precooked couscous millet during the entire storage period. However, aerobic mesophilic flora at 30 °C, yeasts and molds remained below the…",
+      "authors": "Adjaratou Basse, Abdou Diouf, Eliasse Diémé et al.",
+      "published": "Aug 2026",
+      "feedName": "Frontiers Food Science",
+      "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.1898623",
+      "image": "",
+      "screen": "left"
+    },
+    {
       "title": "Hash-anchored quality-control evidence for food-production digital twins: a Solana-based LIMS-compatible framework",
       "abstract": "IntroductionDigital twins in food production increasingly support quality monitoring, traceability, and operational decision-making. However, a digital twin can only be as reliable as the quality-control evidence used to update its state. In many food-production settings, laboratory quality information is stored in laboratory information management systems (LIMS), supplier certificates, or external laboratory reports, while blockchain-based food studies mainly focus on supply-chain traceability rather than verified laboratory event integration. This paper proposes a minimal Solana-based hash-anchoring framework that allows food-production digital twins to verify whether LIMS-compatible quality-control evidence is original, modified, or missing before accepting it as batch quality-state evidence.MethodsLaboratory data remain off-chain, while Solana stores only event identifiers, cryptographic hashes, and minimal metadata. The framework is evaluated using an anonymized bakery flour quality-control case based on two flour certificates and generated LIMS-like events derived from the same field structure. Experiments evaluate tamper detection, anchoring and verification latency, benchmark repeatability, and digital twin state classification.ResultsIn the primary 1,000-event local-validator benchmark, Solana per-event anchoring detected 100% of post-validation modifications under a local-store compromise threat model, with mean anchoring latency of 474.7862 ms per event and mean verification latency of 1.5945 ms. A repeat 1,000-event run produced the same order of overhead, with …",
       "authors": "Meruert Sakypbekova, Gulshat Amirkhanova, Alikhan Amirkhanov et al.",
@@ -218,26 +238,6 @@
       "published": "Aug 2026",
       "feedName": "Frontiers Food Science",
       "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.1911918",
-      "image": "",
-      "screen": "left"
-    },
-    {
-      "title": "Understanding the techno-functionality of ghee as a cooking medium",
-      "abstract": "Ghee has a distinctive techno-functionality to be used as a cooking/ frying medium. Ghee is relatively stable at the higher temperature due to its higher smoke point as compared with conventional cooking oils, thereby preventing thermal breakdown when exposed to high temperature. Due to higher saturated fatty acid composition, the chances of lipid oxidation during cooking are lower for ghee. Hence, the ideal fatty acid composition, grainy texture, rich nutty flavour, excellent taste makes it a suitable cooking medium. Consumption of ghee is also associated with many health benefits due to presence of conjugated linoleic acid, fat soluble vitamins, medium chain fatty acids, essential fatty acids, short chain fatty acids and antioxidants. The present review focuses on understanding the techno-functional properties of ghee making it suitable as a cooking medium, chemistry of ghee in terms of fatty acid profile, comparative assessment of ghee and conventional oil as a cooking medium. The review will be of great importance to the food scientist and the food entrepreneurs presently working in this domain.",
-      "authors": "Dheeraj Kumar, Harsh B. Jadhav",
-      "published": "Aug 2026",
-      "feedName": "Frontiers Food Science",
-      "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.1826916",
-      "image": "",
-      "screen": "left"
-    },
-    {
-      "title": "Bibliometric insights into fruit waste valorization for pectin- based sustainable packaging within the circular economy paradigm",
-      "abstract": "The fruit waste and food processing residues are rich in pectin that can be valorized into pectin-based packaging materials aligned with sustainable for circular economy standards. Agro-industrial waste is earning consideration as a potential pectin sources. This review synthesizes the recent progress across the pectin’s green processing technologies for the extraction, fabrication methods and sustainability packaging credentials. The development of pectin-based films are focused on the physiochemical properties such as mechanical, barrier, flexibility, water resistance and bioactive functionalization for excellent film formation in sustainable packaging. This approach aligns with Sustainable Development Goals (SDGs) emphasizing on the responsible consumption and production of the sustainable product. Despite the prominent progress, challenges remain in the large-scale production and extraction process that safeguards the fabricated film competitiveness compared to conventional plastics, and circumnavigating market regulations. The convergence of NTFPs (Non-Timber Forest Products) utilization towards the fruit waste pectin valorisation for bio-based packaging application has also been approached. By addressing the crises, research is deliberately looking on improving packaging performance through multi-component blends of polymers, nanoparticles, plant derived compounds and NTFPs derived forest polysaccharides to enhance the safety and food wastage reduction. The synergy of technological, conservational, and lucrative drivers highlights in this review on the potential of pe…",
-      "authors": "Rakshana R, Aanchal Mittal, Arkajyoti Dutta",
-      "published": "Aug 2026",
-      "feedName": "Frontiers Food Science",
-      "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.1795841",
       "image": "",
       "screen": "left"
     },
@@ -402,12 +402,12 @@
       "screen": "right"
     },
     {
-      "title": "Bacterial-microplastic interaction can affect disinfection efficiency of methods routinely used in the food industry",
-      "abstract": "High abundance of microplastics in the environment and its potential dangers have been an increasingly emerging topic in the last decade. Thus far, research on microplastics has focused mainly on water systems, sewage, and soil, where they have been described as additional surfaces and vectors for microorganism growth and transmission. In our study we hypothesized that microplastics play a role in aiding the survival of bacteria in clinical or food production environments by influencing effectiveness of routine disinfection. To test this hypothesis, two typical foodborne pathogens, Listeria monocytogenes and Escherichia coli, were exposed to different disinfection methods, physical (heat and ultraviolet (UV) radiation) and chemical (lactic acid and benzalkonium chloride), in presence of microplastics. Two experimental groups were tested and subsequently compared with the control group: bacteria incubated overnight in presence of microplastics, and bacteria mixed with microplastics shortly before exposure to disinfectant methods. Our study included two different types and sizes of microplastics: 1–5 μm thermoset amino-formaldehyde (TAFP) polymers and 425–500 μm polyethylene (PE). Disinfection efficiency was determined from the log₁₀ reduction in bacterial counts after 10, 30 or 60 min of exposure to physical and chemical disinfectants, and after 60 min of exposure to UV. Our results indicate that, while microplastics do not shield the bacteria from heat-shock, they can support their survival in presence of benzalkonium chloride and under the exposure of UV light. More specif…",
-      "authors": "Tea Movsesijan, Natalie Gawin, Nina Gruber et al.",
+      "title": "Adherence to the Mediterranean diet and incident cardiovascular outcomes among older adults",
+      "abstract": "AimThe present study examined the prospective associations between adherence to the Mediterranean (MED) diet, its individual components, and incident cardiovascular disease (CVD) among community-dwelling older adults.MethodsData were obtained from the English Longitudinal Study of Ageing (ELSA). Participants aged ≥65 years without hypertension at baseline (Wave 9, 2018–2019) were followed through Wave 11 (2023–2024). Adherence to the MED diet was assessed using the Medi-Lite score. Incident hypertension, myocardial infarction, and stroke were identified through self-reported physician diagnoses. Logistic regression analyses were performed to examine the prospective associations between MED diet adherence, individual dietary components, and cardiovascular outcomes, adjusting for age, sex, and caloric intake.ResultsA total of 338 participants (74.6 ± 6.2 years; 56.6% women) were included. During follow-up, the incidence of hypertension, myocardial infarction, and stroke was 12.4%, 2.6%, and 2.6%, respectively. No statistically significant associations were detected between overall MED diet adherence and incident hypertension (OR = 0.992, 95% CI = 0.586–1.679), myocardial infarction (OR = 1.422, 95% CI = 0.381–5.302), or stroke (OR = 0.808, 95% CI = 0.360–1.811). Likewise, none of the individual MED diet components was significantly associated with incident CVD outcomes.ConclusionIn conclusion, no statistically significant associations were detected between adherence to the MED diet and incident CVD among community-dwelling older adults in England. However, given the relativel…",
+      "authors": "Emanuele Marzetti, Riccardo Calvani, Isabel Rodriguez-Sanchez et al.",
       "published": "Aug 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1812387",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1926159",
       "image": "",
       "screen": "right"
     },
@@ -422,22 +422,22 @@
       "screen": "right"
     },
     {
-      "title": "When ultra-processing obscures sustainable dietary transitions",
+      "title": "Individual polyphenol metabotypes and longevity: microbial biotransformation and personalized nutrition interventions",
       "abstract": "",
-      "authors": "Miguel López-Moreno, José Francisco López-Gil",
+      "authors": "Gözde Çalışkan Akımal, Özlem Baran, Meryem Saban Güler et al.",
       "published": "Aug 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1908823",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1913308",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Digital food environments, food literacy, and sustainable eating among children in China: evidence from National Panel Data on supermarket availability and nutritional status",
-      "abstract": "Children’s dietary behavior in China is increasingly shaped by digital food environments, yet how digital exposure interacts with physical food access and food literacy in relation to child nutrition remains unclear at a national scale. This study utilized a longitudinal province-year panel covering 31 mainland Chinese provinces from 2006 to 2025 (N = 620). Core variables—specifically the health-promoting and risk-enhancing digital food environments, food literacy, supermarket availability, and sustainable eating—were operationalized as macro-level indices using the entropy weighting method based on regional statistical and household consumption data. To evaluate these constructs against child nutritional outcomes, we estimated two-way fixed-effects models, mediation and moderation pathways, and geographically weighted regressions. Health-promoting digital food environments were positively associated with sustainable eating (β = 0.115), with food literacy mediating 21.8% of the total association. Supermarket availability strengthened this beneficial association (β = 0.073), while food literacy buffered the risk-enhancing digital pathway toward unhealthy eating tendencies (β = −0.087). In lagged models, sustainable eating was associated with lower child nutritional risk (β = −0.124). Regional heterogeneity indicated that digital pathways were stronger in more developed provinces, whereas physical food retail availability mattered more in western regions. These findings support integrated, region-sensitive strategies that combine digital health access, food literacy promotion…",
-      "authors": "Bin Liang, Liang Tian",
+      "title": "Diagnostic value of geriatric nutritional risk index and phase angle for malnutrition in patients with COPD: a retrospective cohort study",
+      "abstract": "BackgroundThe incidence of malnutrition is relatively high among patients with chronic obstructive pulmonary disease (COPD). The main objective of this study was to explore and compare the discriminative ability of phase angle (PhA) and geriatric nutritional risk index (GNRI) tools for assessing malnutrition among hospitalized patients with COPD who underwent BIA assessment and had available serum albumin data based on the GLIM criteria.MethodsThis single-center retrospective study included 121 patients with hospitalized COPD with BIA measurement and valid serum albumin. All patients underwent body composition analysis and biochemical measurements. Based on the global leadership initiative on malnutrition (GLIM) criteria, patients were categorized into COPD patients with malnutrition and COPD patients without malnutrition. Bootstrap resampling with 1,000 iterations and Hosmer-Lemeshow test evaluate the stability and reliability of the two tools and malnutrition in COPD. More importantly, the exploratory diagnostic efficacies and net clinical benefit of PhA and GNRI tools were assessed for identifying COPD patients with malnutrition using ROC, DeLong test, Decision-curve analysis (DCA).ResultsUsing the GLIM malnutrition criteria as the reference, a diagnostic efficacy analysis was conducted using the preset cutoff values of PhA = 4.25° and GNRI = 98. The sensitivity of PhA was 0.691, the specificity was 0.625, the accuracy was 0.669, and the K value was 0.298. The sensitivity, specificity, accuracy and K value were 0.753, 0.700, 0.736 and 0.431 for GNRI. The ROC results show…",
+      "authors": "Xinxin Li, Yaying Yu, Lijing Cao et al.",
       "published": "Aug 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1908801",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1887430",
       "image": "",
       "screen": "right"
     },
@@ -601,7 +601,7 @@
       "venue": "Science of the Total Environment",
       "feedName": "Lab Research",
       "citationCount": 8,
-      "recentCitations": 0,
+      "recentCitations": 1,
       "s2_paper_id": "716a87e9602f04f6b3d7fe6c3b411a15d1beaf4a",
       "url": "https://doi.org/10.1016/j.scitotenv.2024.174719",
       "image": "",
@@ -753,7 +753,7 @@
       "venue": "BMC Medical Education",
       "feedName": "Lab Research",
       "citationCount": 1,
-      "recentCitations": 0,
+      "recentCitations": 1,
       "s2_paper_id": "5ee7aceac233a82917e92f646d2284fffcfd28b2",
       "url": "https://doi.org/10.1186/s12909-025-07674-x",
       "image": "",

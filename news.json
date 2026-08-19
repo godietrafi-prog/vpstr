@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19T10:20:44Z",
+  "updated": "2026-08-19T12:27:00Z",
   "items": [
     {
       "title": "Considerations for maximizing the effectiveness of debt-for-food swaps",
@@ -242,6 +242,26 @@
       "screen": "left"
     },
     {
+      "title": "Strain-level identification and quantitative detection of Lactiplantibacillus plantarum in fermented milk using MALDI-TOF MS",
+      "abstract": "",
+      "authors": "Zhongfa Tan, Yanrong Liu, Zhihao Wang et al.",
+      "published": "Jan 2027",
+      "feedName": "Food Microbiology",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0740002026002315?dgcid=rss_sd_all",
+      "image": "",
+      "screen": "left"
+    },
+    {
+      "title": "From intervention priority to microbiological risk: interpreting Fuzzy-FMEA in household food safety",
+      "abstract": "",
+      "authors": "Xueyi Lin, Xin Zhang",
+      "published": "Jan 2027",
+      "feedName": "Food Microbiology",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0740002026002364?dgcid=rss_sd_all",
+      "image": "",
+      "screen": "left"
+    },
+    {
       "title": "Metabolomics-based analysis of dynamic metabolic trajectories and regulatory networks in two-stage fermentation of kiwifruit wine",
       "abstract": "",
       "authors": "Wangsheng Sun, Pengfei Bi, Wanju Yan et al.",
@@ -258,26 +278,6 @@
       "published": "Jan 2027",
       "feedName": "Food Microbiology",
       "url": "https://www.sciencedirect.com/science/article/pii/S0740002026002388?dgcid=rss_sd_all",
-      "image": "",
-      "screen": "left"
-    },
-    {
-      "title": "Risk prioritization of household food handling practices in China: a fuzzy failure mode and effect analysis",
-      "abstract": "",
-      "authors": "Shounan Zhang, Yan Qi, Wenhui He et al.",
-      "published": "Jan 2027",
-      "feedName": "Food Microbiology",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0740002026002273?dgcid=rss_sd_all",
-      "image": "",
-      "screen": "left"
-    },
-    {
-      "title": "Whole-genome analysis and molecular docking reveal how nucleotide variations in the aprX gene drive the differential spoilage potential of Pseudomonas in milk",
-      "abstract": "",
-      "authors": "Lijiao Liang, Ping Wang, Xiaomei Zhao et al.",
-      "published": "Jan 2027",
-      "feedName": "Food Microbiology",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0740002026002261?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -372,6 +372,16 @@
       "screen": "right"
     },
     {
+      "title": "Japanese scientists use tiny silver particles to make DNA assembly up to 5x more efficient",
+      "abstract": "Silver nanoparticles can precisely slice DNA and create longer “sticky ends,” helping genetic fragments join up to five times more efficiently than conventional methods. The breakthrough could eventually simplify the construction of large DNA sequences for gene therapies, cancer vaccines, engineered drugs, and advanced crops.",
+      "authors": "",
+      "published": "Aug 2026",
+      "feedName": "ScienceDaily Nutrition",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260816044842.htm",
+      "image": "https://www.sciencedaily.com/images/1920/dna-break-replace-assemble-genetic-engineering.webp",
+      "screen": "right"
+    },
+    {
       "title": "Low-fat vegan diet helps people lose weight without eating less",
       "abstract": "A low-fat vegan diet may help people lose weight without counting calories, shrinking portions, or feeling constantly hungry. In a 16-week clinical trial, people eating mostly fruits, vegetables, grains, and legumes consumed about 357 fewer calories per day even though the total amount of food they ate barely changed.",
       "authors": "",
@@ -389,16 +399,6 @@
       "feedName": "ScienceDaily Nutrition",
       "url": "https://www.sciencedaily.com/releases/2026/08/260814235842.htm",
       "image": "https://www.sciencedaily.com/images/1920/intestinal-villi-with-bacteria-and-viruses-in-human-digestive-system.webp",
-      "screen": "right"
-    },
-    {
-      "title": "Scientists solve the mystery of a brain “switch” that can trigger weight loss in opposite ways",
-      "abstract": "Scientists have uncovered why two seemingly opposite ways of targeting the same brain receptor can both promote weight loss. In mice, activating the GIP receptor in the brainstem reduced appetite, while blocking it in the hypothalamus removed a kind of “brake” on fullness signals. The discovery helps explain why very different obesity drugs can achieve similar results and suggests that carefully combining GIP-targeting treatments with GLP-1 drugs like those related to Wegovy and Ozempic could produce stronger effects.",
-      "authors": "",
-      "published": "Aug 2026",
-      "feedName": "ScienceDaily Nutrition",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260814011039.htm",
-      "image": "https://www.sciencedaily.com/images/1920/woman-measuring-tape-belly-fat-weight-loss.webp",
       "screen": "right"
     },
     {

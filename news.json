@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19T18:20:38Z",
+  "updated": "2026-08-19T20:17:35Z",
   "items": [
     {
       "title": "Considerations for maximizing the effectiveness of debt-for-food swaps",
@@ -282,6 +282,16 @@
       "screen": "left"
     },
     {
+      "title": "AI screens 100,000+ membrane combinations, predicting carbon capture performance within seconds",
+      "abstract": "Reducing carbon dioxide emissions from industrial processes and energy production remains one of the major technological challenges in addressing climate change. Membrane-based gas separation offers an energy-efficient alternative to conventional separation technologies, but identifying membranes that allow gases to pass through rapidly while also separating them effectively has long presented a major materials-design challenge.",
+      "authors": "",
+      "published": "Aug 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-08-ai-screens-membrane-combinations-carbon.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/ai-screens-over-100000.jpg",
+      "screen": "right"
+    },
+    {
       "title": "Foldamer–protein pair unlocks precise building blocks for artificial molecular materials",
       "abstract": "Proteins form complex three-dimensional shapes and can join together to create larger structures. Researchers want to use these properties to make artificial materials. However, arranging proteins and synthetic molecules together with a high level of structural precision is no easy task. This is partly because of the lack of large, clearly defined contact surfaces between the two components.",
       "authors": "",
@@ -309,16 +319,6 @@
       "feedName": "Phys.org Analytics",
       "url": "https://phys.org/news/2026-08-nitrogen-pyridine-path-molecular.html",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/moving-nitrogen-within.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "End-to-end design creates two low-cost materials to capture methane",
-      "abstract": "Developing new materials to tackle pressing global issues is a gap-filled process that can leave potential climate solutions lost in unread academic papers and forgotten dissertations.",
-      "authors": "",
-      "published": "Aug 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-08-materials-capture-methane.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/research-outlines-a-ne.jpg",
       "screen": "right"
     },
     {

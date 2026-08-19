@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19T14:24:18Z",
+  "updated": "2026-08-19T16:21:05Z",
   "items": [
     {
       "title": "Considerations for maximizing the effectiveness of debt-for-food swaps",
@@ -102,22 +102,22 @@
       "screen": "left"
     },
     {
+      "title": "From bean to bar 5.0: Artificial intelligence, sensing technologies and robotics across the cocoa–chocolate value chain",
+      "abstract": "",
+      "authors": "Sunidhi Milind Wader, Shaik Basha, Krishna Kishore Mahato",
+      "published": "Nov 2026",
+      "feedName": "Trends in Food Sci & Tech",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426004954?dgcid=rss_sd_all",
+      "image": "",
+      "screen": "left"
+    },
+    {
       "title": "Food safety trust as a governance mechanism for Chinese school canteens: A game-theoretic and survey-based analysis",
       "abstract": "",
       "authors": "Dong-Ming Gao, Ming Chen, Zong-Qiang Fu",
       "published": "Nov 2026",
       "feedName": "Trends in Food Sci & Tech",
       "url": "https://www.sciencedirect.com/science/article/pii/S0924224426004784?dgcid=rss_sd_all",
-      "image": "",
-      "screen": "left"
-    },
-    {
-      "title": "Electrospun nanofiber-based food packaging at end-of-life: Degradation pathways, secondary nanoplastics, nanoparticle fate, and circular design strategies",
-      "abstract": "",
-      "authors": "Prashant Pandey, Devika Tripathi",
-      "published": "Nov 2026",
-      "feedName": "Trends in Food Sci & Tech",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426004851?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -402,22 +402,22 @@
       "screen": "right"
     },
     {
-      "title": "Individual polyphenol metabotypes and longevity: microbial biotransformation and personalized nutrition interventions",
+      "title": "When ultra-processing obscures sustainable dietary transitions",
       "abstract": "",
-      "authors": "Gözde Çalışkan Akımal, Özlem Baran, Meryem Saban Güler et al.",
+      "authors": "Miguel López-Moreno, José Francisco López-Gil",
       "published": "Aug 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1913308",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1908823",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Daily fiber supplementation after bariatric surgery demonstrates tolerability and influence on the fecal gut microbiome",
-      "abstract": "IntroductionThis study assessed the feasibility and tolerance of a 30-day resistant potato starch (RPS) supplement in patients who recently underwent bariatric surgery and its effect on microbial production of fecal short-chain fatty acids (SCFA).MethodsThis clinical trial (ClinicalTrials.gov, identifier: NCT05653648), conducted at Dartmouth Hitchcock Medical Center, provided 30-days of RPS supplement (titration: 24 g for 15 days; 48 g for 15 days) starting 90-days post-op and assessed gastrointestinal symptoms, dietary intake (24 h recall), fecal SCFAs, and fecal gut microbiome (n = 30).ResultsThe RPS supplement was well tolerated by participants (77% achieving consumption goal), with modest, but significant increases in self-reported gas (p = 0.004) and abdominal rumbling (p = 0.047). It was associated with an increase in the Bifidobacterium genus (LDA score >4, p < 0.001) and specifically, an enrichment of B. faecale/adolescentis (p = 0.006), one of two known primary degraders of RPS. No changes were observed in the abundance of cross-feeders or in SCFA concentrations. Alpha diversity measures were significantly lower post-RPS, and there was no change in species richness.DiscussionThis study demonstrated that a RPS supplement is tolerable in post-op bariatric patients and that the gut microbiome is responsive to fiber interventions. RPS increased the abundance of SCFA-producing bacteria but did not alter fecal SCFAs, likely due to competition among cross-feeders.",
-      "authors": "Brandy Moser, Solange M. Saxby, Stephanie Lebby et al.",
+      "title": "Effects of oral fenugreek-derived preparations on testosterone-related outcomes in adult men: a systematic review and meta-analysis of randomized placebo-controlled trials",
+      "abstract": "BackgroundFenugreek (Trigonella foenum-graecum)-derived preparations are widely marketed for male-health benefits related to testosterone, sexual function, body composition, and exercise performance, yet the certainty, target population, and clinical interpretability of the available randomized evidence remain unclear.ObjectiveTo systematically evaluate the effects of oral fenugreek-derived preparations on testosterone-axis outcomes in adult men and to descriptively summarize related male-health outcomes, including sexual function, symptoms, body composition, exercise performance, and safety.MethodsWe included randomized placebo-controlled trials in adult men that evaluated oral fenugreek-derived preparations. Two authors independently searched PubMed, Embase, the Cochrane Central Register of Controlled Trials, Web of Science, and Scopus from inception to May 11, 2026, and additionally searched ClinicalTrials.gov and the World Health Organization International Clinical Trials Registry Platform (WHO ICTRP) for unpublished or grey evidence. Total testosterone and free testosterone were the primary outcomes. Risk of bias was assessed with the Cochrane Risk of Bias 2 (RoB 2) tool, certainty of evidence was graded using the Grading of Recommendations Assessment, Development and Evaluation (GRADE) approach, and the main pooled estimates were synthesized as standardized mean differences (SMDs) using random-effects models with restricted maximum likelihood (REML) estimation.ResultsThirteen studies were included, of which eight reported primary testosterone-axis data and five provid…",
+      "authors": "Pengyu Yang, Zeyu Niu, Jianlong Guo et al.",
       "published": "Aug 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1912097",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1903508",
       "image": "",
       "screen": "right"
     },
@@ -432,12 +432,12 @@
       "screen": "right"
     },
     {
-      "title": "When ultra-processing obscures sustainable dietary transitions",
-      "abstract": "",
-      "authors": "Miguel López-Moreno, José Francisco López-Gil",
+      "title": "Exploring finger millet as an underutilised African indigenous grain crop for functional food development, sustainable nutrition, and health",
+      "abstract": "IntroductionFood insecurity and malnutrition remain major challenges in Sub-Saharan Africa, driven by climate change and agricultural systems that rely heavily on a few staple crops, including maize, rice, and wheat. The prioritisation of these crops during the Green Revolution has contributed to the neglect of nutrient-rich indigenous grains. Finger millet (Eleusine coracana), an indigenous African cereal, has attracted increasing attention because of its exceptional nutritional composition, climate resilience, and potential for functional food development. This review evaluated the role of finger millet in promoting sustainable nutrition, health, and food security.MethodsA semi-systematic narrative review was conducted following Snyder’s review framework and guided by PRISMA principles for literature identification and screening. Literature published between March 2025 and April 2026 was retrieved from Google Scholar, PubMed, ScienceDirect, Scopus, JSTOR, and ResearchGate using predefined search terms related to finger millet, indigenous grains, nutrition, food security, and functional foods amongst others. An initial 245 articles were identified; after removing 86 duplicates and excluding 12 studies during screening, 147 peer-reviewed articles met the inclusion criteria and were qualitatively synthesised.ResultsThe reviewed evidence demonstrates that finger millet is rich in calcium, iron, magnesium, zinc, dietary fibre, and bioactive phytochemicals with antioxidant properties. The crop exhibits excellent drought tolerance and adapts well to marginal environments, making…",
+      "authors": "Mihle Bham, Siphamandla Qhubekani Njabuliso Lamula, Lisa Valencia Buwa et al.",
       "published": "Aug 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1908823",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1893035",
       "image": "",
       "screen": "right"
     },
@@ -695,8 +695,8 @@
       "published": "2024",
       "venue": "Journal of the American Chemical Society",
       "feedName": "Lab Research",
-      "citationCount": 20,
-      "recentCitations": 2,
+      "citationCount": 21,
+      "recentCitations": 3,
       "s2_paper_id": "e8f95caa1e8ece0c16f246b34ead0788c6d4b146",
       "url": "https://doi.org/10.1021/jacs.4c00625",
       "image": "",

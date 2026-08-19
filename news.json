@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19T12:27:00Z",
+  "updated": "2026-08-19T14:24:18Z",
   "items": [
     {
       "title": "Considerations for maximizing the effectiveness of debt-for-food swaps",
@@ -142,22 +142,22 @@
       "screen": "left"
     },
     {
+      "title": "There are other worlds than these: why sensory and consumer science should embrace Bayesian inference",
+      "abstract": "",
+      "authors": "Elizabeth S. Collier, Kathryn L. Harris, Jun Niimi et al.",
+      "published": "Jan 2027",
+      "feedName": "Food Quality & Preference",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0950329326002351?dgcid=rss_sd_all",
+      "image": "",
+      "screen": "left"
+    },
+    {
       "title": "Expecting the worst: empathic forecasting errors and vegetarian meal requests",
       "abstract": "",
       "authors": "Kate Laffan, Emma Howard",
       "published": "Jan 2027",
       "feedName": "Food Quality & Preference",
       "url": "https://www.sciencedirect.com/science/article/pii/S0950329326002314?dgcid=rss_sd_all",
-      "image": "",
-      "screen": "left"
-    },
-    {
-      "title": "How information framing shapes consumer preferences for sustainability indicators: a Best-Worst Scaling experiment on the Sustainable Rice Platform standard",
-      "abstract": "",
-      "authors": "Thuy Ung-Pham, Carolina Chaya, Amparo Tárrega et al.",
-      "published": "Jan 2027",
-      "feedName": "Food Quality & Preference",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0950329326002338?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -362,6 +362,16 @@
       "screen": "right"
     },
     {
+      "title": "Coffee drinkers have less fat, more muscle, and surprising hormone differences",
+      "abstract": "Coffee drinkers may be getting more than an energy boost. A Finnish study found that people who drank more coffee tended to have less total and abdominal fat, more muscle, and healthier metabolic markers despite having similar BMIs. Higher coffee intake was also linked to lower levels of certain amino acids associated with insulin resistance and type 2 diabetes risk.",
+      "authors": "",
+      "published": "Aug 2026",
+      "feedName": "ScienceDaily Nutrition",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260819041228.htm",
+      "image": "https://www.sciencedaily.com/images/1920/man-pouring-black-coffee.webp",
+      "screen": "right"
+    },
+    {
       "title": "The bacteria that make cheese taste so good may also benefit your gut",
       "abstract": "Scientists studying three artisan British cheeses found that the microbes responsible for their distinctive flavors may also offer surprising benefits for gut health. As the cheeses matured, helpful bacteria transformed their aromas and textures while potentially producing compounds linked to reduced inflammation, cholesterol regulation, and appetite control.",
       "authors": "",
@@ -392,36 +402,6 @@
       "screen": "right"
     },
     {
-      "title": "When gut microbes run low on fiber, they may start eating you",
-      "abstract": "Gut microbes need something to eat, and when fiber is limited, they may begin consuming proteins from the mucus lining that protects the gut. Researchers found that fiber can suppress this process, while indigestible plant proteins help microbes produce more beneficial compounds.",
-      "authors": "",
-      "published": "Aug 2026",
-      "feedName": "ScienceDaily Nutrition",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260814235842.htm",
-      "image": "https://www.sciencedaily.com/images/1920/intestinal-villi-with-bacteria-and-viruses-in-human-digestive-system.webp",
-      "screen": "right"
-    },
-    {
-      "title": "Adherence to the Mediterranean diet and incident cardiovascular outcomes among older adults",
-      "abstract": "AimThe present study examined the prospective associations between adherence to the Mediterranean (MED) diet, its individual components, and incident cardiovascular disease (CVD) among community-dwelling older adults.MethodsData were obtained from the English Longitudinal Study of Ageing (ELSA). Participants aged ≥65 years without hypertension at baseline (Wave 9, 2018–2019) were followed through Wave 11 (2023–2024). Adherence to the MED diet was assessed using the Medi-Lite score. Incident hypertension, myocardial infarction, and stroke were identified through self-reported physician diagnoses. Logistic regression analyses were performed to examine the prospective associations between MED diet adherence, individual dietary components, and cardiovascular outcomes, adjusting for age, sex, and caloric intake.ResultsA total of 338 participants (74.6 ± 6.2 years; 56.6% women) were included. During follow-up, the incidence of hypertension, myocardial infarction, and stroke was 12.4%, 2.6%, and 2.6%, respectively. No statistically significant associations were detected between overall MED diet adherence and incident hypertension (OR = 0.992, 95% CI = 0.586–1.679), myocardial infarction (OR = 1.422, 95% CI = 0.381–5.302), or stroke (OR = 0.808, 95% CI = 0.360–1.811). Likewise, none of the individual MED diet components was significantly associated with incident CVD outcomes.ConclusionIn conclusion, no statistically significant associations were detected between adherence to the MED diet and incident CVD among community-dwelling older adults in England. However, given the relativel…",
-      "authors": "Emanuele Marzetti, Riccardo Calvani, Isabel Rodriguez-Sanchez et al.",
-      "published": "Aug 2026",
-      "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1926159",
-      "image": "",
-      "screen": "right"
-    },
-    {
-      "title": "Clinical and prognostic value of dynapenia in patients with head and neck cancer: a multicenter cohort study. VALOR group",
-      "abstract": "BackgroundHead and neck cancer (HNC), particularly in patients requiring intensive multimodal treatment, may substantially impair nutritional and functional status due to tumor burden and treatment-related toxicity. Dynapenia, defined as reduced muscle strength independent of muscle mass, has emerged as a critical prognostic marker in cancer, yet its role in HNC remains underexplored. This study aimed to assess the utility of handgrip strength (HGS) in identifying dynapenia and predicting clinical outcomes, in conjunction with advanced morphofunctional tools.MethodsIn this prospective multicenter observational cohort study, 514 HNC patients undergoing active radiotherapy were evaluated. Muscle strength was assessed via HGS. Dynapenia was defined using two criteria: EWGSOP2 cut-offs and sex- and age-adjusted percentiles (P10) from Spanish normative data (dynapenia-PCO). Complementary assessments included bioelectrical impedance analysis (phase angle [PA], standardized phase angle [SPA], body cell mass [BCM], and fat-free mass index [FFMI]), nutritional ultrasound® (rectus femoris cross-sectional area [RF-CSA]), the Timed Up and Go test (TUG), and routine biochemical parameters. Logistic regression, ROC curves, Cox proportional hazards models, and machine learning techniques (random forest and decision trees) were used to identify predictors of dynapenia and overall survival.ResultsDynapenic patients presented significantly lower values of SPA, FFMI, BCM, and RF-CSA, as well as poorer performance (TUG) and nutritional biomarkers (e.g., albumin, total proteins). In multivariat…",
-      "authors": "María García Olivares, María Teresa Zarco Martín, Rocío Fernández Jiménez et al.",
-      "published": "Aug 2026",
-      "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1894028",
-      "image": "",
-      "screen": "right"
-    },
-    {
       "title": "Individual polyphenol metabotypes and longevity: microbial biotransformation and personalized nutrition interventions",
       "abstract": "",
       "authors": "Gözde Çalışkan Akımal, Özlem Baran, Meryem Saban Güler et al.",
@@ -432,12 +412,32 @@
       "screen": "right"
     },
     {
-      "title": "Diagnostic value of geriatric nutritional risk index and phase angle for malnutrition in patients with COPD: a retrospective cohort study",
-      "abstract": "BackgroundThe incidence of malnutrition is relatively high among patients with chronic obstructive pulmonary disease (COPD). The main objective of this study was to explore and compare the discriminative ability of phase angle (PhA) and geriatric nutritional risk index (GNRI) tools for assessing malnutrition among hospitalized patients with COPD who underwent BIA assessment and had available serum albumin data based on the GLIM criteria.MethodsThis single-center retrospective study included 121 patients with hospitalized COPD with BIA measurement and valid serum albumin. All patients underwent body composition analysis and biochemical measurements. Based on the global leadership initiative on malnutrition (GLIM) criteria, patients were categorized into COPD patients with malnutrition and COPD patients without malnutrition. Bootstrap resampling with 1,000 iterations and Hosmer-Lemeshow test evaluate the stability and reliability of the two tools and malnutrition in COPD. More importantly, the exploratory diagnostic efficacies and net clinical benefit of PhA and GNRI tools were assessed for identifying COPD patients with malnutrition using ROC, DeLong test, Decision-curve analysis (DCA).ResultsUsing the GLIM malnutrition criteria as the reference, a diagnostic efficacy analysis was conducted using the preset cutoff values of PhA = 4.25° and GNRI = 98. The sensitivity of PhA was 0.691, the specificity was 0.625, the accuracy was 0.669, and the K value was 0.298. The sensitivity, specificity, accuracy and K value were 0.753, 0.700, 0.736 and 0.431 for GNRI. The ROC results show…",
-      "authors": "Xinxin Li, Yaying Yu, Lijing Cao et al.",
+      "title": "Daily fiber supplementation after bariatric surgery demonstrates tolerability and influence on the fecal gut microbiome",
+      "abstract": "IntroductionThis study assessed the feasibility and tolerance of a 30-day resistant potato starch (RPS) supplement in patients who recently underwent bariatric surgery and its effect on microbial production of fecal short-chain fatty acids (SCFA).MethodsThis clinical trial (ClinicalTrials.gov, identifier: NCT05653648), conducted at Dartmouth Hitchcock Medical Center, provided 30-days of RPS supplement (titration: 24 g for 15 days; 48 g for 15 days) starting 90-days post-op and assessed gastrointestinal symptoms, dietary intake (24 h recall), fecal SCFAs, and fecal gut microbiome (n = 30).ResultsThe RPS supplement was well tolerated by participants (77% achieving consumption goal), with modest, but significant increases in self-reported gas (p = 0.004) and abdominal rumbling (p = 0.047). It was associated with an increase in the Bifidobacterium genus (LDA score >4, p < 0.001) and specifically, an enrichment of B. faecale/adolescentis (p = 0.006), one of two known primary degraders of RPS. No changes were observed in the abundance of cross-feeders or in SCFA concentrations. Alpha diversity measures were significantly lower post-RPS, and there was no change in species richness.DiscussionThis study demonstrated that a RPS supplement is tolerable in post-op bariatric patients and that the gut microbiome is responsive to fiber interventions. RPS increased the abundance of SCFA-producing bacteria but did not alter fecal SCFAs, likely due to competition among cross-feeders.",
+      "authors": "Brandy Moser, Solange M. Saxby, Stephanie Lebby et al.",
       "published": "Aug 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1887430",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1912097",
+      "image": "",
+      "screen": "right"
+    },
+    {
+      "title": "Effects of carbohydrate, caffeine and menthol mouth rinses on exercise performance and ratings of perceived exertion: a systematic review and network meta-analysis",
+      "abstract": "BackgroundMouth rinsing with carbohydrate (CHO), caffeine (CAF), or menthol (MEN) is a non-ingestive strategy that may enhance exercise performance and alter ratings of perceived exertion (RPE), but findings remain inconsistent. This systematic review and network meta-analysis (NMA) compared their relative effects.MethodsThis prospectively registered review (PROSPERO CRD420261282363) followed PRISMA-NMA. PubMed, Embase, Web of Science, the Cochrane Library, and SPORTDiscus were searched to 3 April 2026. Randomized controlled and crossover trials were eligible. RoB 2 and Confidence in Network Meta-Analysis (CINeMA) were used to assess risk of bias and certainty of evidence. Pairwise and network meta-analyses were performed in Stata 18.0, effects were expressed as standardized mean differences (SMDs), and rankings were based on the surface under the cumulative ranking curve (SUCRA).ResultsFifty-seven studies involving 609 participants were included. The evidence base primarily comprised trained or physically active individuals, and the exercise protocols predominantly involved cycling- or running-based endurance tasks. CAF ranked first for time to exhaustion (SUCRA = 85.1%), work done during a fixed-time test (83.4%), and RPE (74.0%). MEN ranked first for time to complete a fixed amount of work (79.8%) and mean power (77.3%), whereas CHO ranked second across all five outcomes. The NMA showed no statistically significant differences among CHO, CAF, and MEN. Compared with placebo (PLA), CAF (SMD = 0.57, 95% CI: 0.13, 1.01) and CHO (SMD = 0.43, 95% CI: 0.11, 0.75) significantly …",
+      "authors": "Qing Li, Shichao Liu, Cheng Miao et al.",
+      "published": "Aug 2026",
+      "feedName": "Frontiers Nutrition",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1877453",
+      "image": "",
+      "screen": "right"
+    },
+    {
+      "title": "When ultra-processing obscures sustainable dietary transitions",
+      "abstract": "",
+      "authors": "Miguel López-Moreno, José Francisco López-Gil",
+      "published": "Aug 2026",
+      "feedName": "Frontiers Nutrition",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1908823",
       "image": "",
       "screen": "right"
     },

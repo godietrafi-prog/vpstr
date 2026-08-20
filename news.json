@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-20T16:25:31Z",
+  "updated": "2026-08-20T18:24:57Z",
   "items": [
     {
       "title": "The scale of change",
@@ -202,16 +202,6 @@
       "screen": "left"
     },
     {
-      "title": "Comparative evaluation of nutritional composition, functional activity, and sensory profile of cashew apple (Anacardium occidentale L.) from improved clones and local varieties",
-      "abstract": "The cashew apple (Anacardium occidentale L.), the pseudofruit of the cashew tree, is a valuable source of dietary fiber, vitamins, sugars, and bioactive compounds with recognized antioxidant potential. Despite its nutritional and functional properties, its agroindustrial utilization remains limited compared with the cashew nut, resulting in the underutilization of a valuable agricultural resource. Therefore, this study aimed to provide a comparative evaluation of the physicochemical, nutritional, functional, and sensory characteristics of four Colombian cashew apple varieties (Clon Mapiria, Clon Agrosavia Caribe, Criollo Amarillo, and Criollo Rojo). Composite samples representative of each variety were prepared by pooling fruits harvested at commercial maturity from several healthy trees growing under the same agroecological conditions. Physicochemical, proximate, and functional analyses were performed using a Completely Randomized Design (CRD) with three analytical replicates per composite sample. Consumer acceptance was assessed using a nine-point hedonic test. Marked variation was observed among the evaluated varieties in their physicochemical, nutritional, functional, and sensory characteristics. The results indicated that soluble solids ranged from 7.90 to 11.47 °Brix, total phenolic content from 282.95 to 370.89 mg GAE/100 g, and antioxidant capacity from 370.55 to 390.60 mg TE/100 g. Clon Mapiria exhibited the highest soluble solids content and antioxidant capacity, whereas Criollo Amarillo showed the highest total phenolic and condensed tannin contents. Clon Agrosav…",
-      "authors": "Diego Segura-Bermudez, Claudia De Paula, Ricardo Andrade-Pizarro et al.",
-      "published": "Aug 2026",
-      "feedName": "Frontiers Food Science",
-      "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.1874327",
-      "image": "",
-      "screen": "left"
-    },
-    {
       "title": "From plant compounds to packaging: recent advances in phytochemical added edible films and coatings",
       "abstract": "Global food supply chain faces major challenges due to post-harvest losses, along with synthetic packaging waste accumulating in ecosystems, necessitating the engineering of bioactive edible films and coatings (ECFs). This review assesses the recent advances achieved by incorporating phytochemicals into bio-polymeric carriers to advance contemporary knowledge regarding phenolic compounds flavonoids and terpenoids. Special emphasis is placed on upcycling agricultural processing discards like pomegranate rinds, carrot pomace, and avocado seeds to create renewable origins for generating high-value functional additives. This review discusses the transition process from laboratory solvent casting methods to industrial manufacturing methods, which use hot-melt extrusion (HME) electrospinning, and roll-to-roll (R2R) coating together with advanced stabilization techniques that use microencapsulation in β-cyclodextrin (β-CD) for protecting heat-sensitive bioactive. The phytochemical-loaded packaging systems effectively mitigate microbial proliferation and lipid oxidation across produce, meat, dairy, and bakery sectors, extending product longevity. The creation of intelligent colorimetric sensors involves using pH-responsive anthocyanins, which enable real-time non-invasive monitoring of quality changes. Thus, there is significant potential for phytochemical-loaded edible packaging films or coatings in the field of food packaging.",
       "authors": "Janani V, Praveen Kumar Dubey, Swarup Roy",
@@ -228,6 +218,16 @@
       "published": "Aug 2026",
       "feedName": "Frontiers Food Science",
       "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.1898623",
+      "image": "",
+      "screen": "left"
+    },
+    {
+      "title": "Comparative evaluation of nutritional composition, functional activity, and sensory profile of cashew apple (Anacardium occidentale L.) from improved clones and local varieties",
+      "abstract": "The cashew apple (Anacardium occidentale L.), the pseudofruit of the cashew tree, is a valuable source of dietary fiber, vitamins, sugars, and bioactive compounds with recognized antioxidant potential. Despite its nutritional and functional properties, its agroindustrial utilization remains limited compared with the cashew nut, resulting in the underutilization of a valuable agricultural resource. Therefore, this study aimed to provide a comparative evaluation of the physicochemical, nutritional, functional, and sensory characteristics of four Colombian cashew apple varieties (Clon Mapiria, Clon Agrosavia Caribe, Criollo Amarillo, and Criollo Rojo). Composite samples representative of each variety were prepared by pooling fruits harvested at commercial maturity from several healthy trees growing under the same agroecological conditions. Physicochemical, proximate, and functional analyses were performed using a Completely Randomized Design (CRD) with three analytical replicates per composite sample. Consumer acceptance was assessed using a nine-point hedonic test. Marked variation was observed among the evaluated varieties in their physicochemical, nutritional, functional, and sensory characteristics. The results indicated that soluble solids ranged from 7.90 to 11.47 °Brix, total phenolic content from 282.95 to 370.89 mg GAE/100 g, and antioxidant capacity from 370.55 to 390.60 mg TE/100 g. Clon Mapiria exhibited the highest soluble solids content and antioxidant capacity, whereas Criollo Amarillo showed the highest total phenolic and condensed tannin contents. Clon Agrosav…",
+      "authors": "Diego Segura-Bermudez, Claudia De Paula, Ricardo Andrade-Pizarro et al.",
+      "published": "Aug 2026",
+      "feedName": "Frontiers Food Science",
+      "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.1874327",
       "image": "",
       "screen": "left"
     },
@@ -282,6 +282,26 @@
       "screen": "left"
     },
     {
+      "title": "Blocc chemistry could automate molecular discovery and democratize access to new materials",
+      "abstract": "A paper published in the journal Science lays out a roadmap for broadening access to the process of discovering molecular tools that can benefit society, including medicines, materials and a wide range of everyday consumer products.",
+      "authors": "",
+      "published": "Aug 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-08-blocc-chemistry-automate-molecular-discovery.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/publication-in-science.jpg",
+      "screen": "right"
+    },
+    {
+      "title": "Oxygen vacancies unlock fast lithium-ion transport in battery material",
+      "abstract": "Lithium titanate (LTO, Li4Ti5O12) is a well-established battery material that in its pristine state is a poor conductor of lithium ions. It develops high ionic conductivity only during charging, when additional lithium ions and electrons are incorporated into the material.",
+      "authors": "",
+      "published": "Aug 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-08-oxygen-vacancies-fast-lithium-ion.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/battery-material-oxyge.jpg",
+      "screen": "right"
+    },
+    {
       "title": "International review standardizes selenosugar nomenclature and selenium metabolism",
       "abstract": "Selenosugars are the major urinary metabolites responsible for the physiological excretion of selenium. Understanding selenium metabolism relies on accurately detecting and identifying selenosugars. However, research has been hindered by inconsistent terminology used for selenosugars, varying analytical practices and an incomplete understanding of the biological pathway for selenosugar biosynthesis.",
       "authors": "",
@@ -299,26 +319,6 @@
       "feedName": "Phys.org Analytics",
       "url": "https://phys.org/news/2026-08-perovskite-based-sensor-ammonia-leaks.html",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/detecting-ammonia-leak.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "AI screens 100,000+ membrane combinations, predicting carbon capture performance within seconds",
-      "abstract": "Reducing carbon dioxide emissions from industrial processes and energy production remains one of the major technological challenges in addressing climate change. Membrane-based gas separation offers an energy-efficient alternative to conventional separation technologies, but identifying membranes that allow gases to pass through rapidly while also separating them effectively has long presented a major materials-design challenge.",
-      "authors": "",
-      "published": "Aug 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-08-ai-screens-membrane-combinations-carbon.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/ai-screens-over-100000.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "Foldamer–protein pair unlocks precise building blocks for artificial molecular materials",
-      "abstract": "Proteins form complex three-dimensional shapes and can join together to create larger structures. Researchers want to use these properties to make artificial materials. However, arranging proteins and synthetic molecules together with a high level of structural precision is no easy task. This is partly because of the lack of large, clearly defined contact surfaces between the two components.",
-      "authors": "",
-      "published": "Aug 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-08-foldamerprotein-pair-precise-blocks-artificial.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/new-building-block-com.jpg",
       "screen": "right"
     },
     {

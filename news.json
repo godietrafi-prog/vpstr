@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19T22:15:48Z",
+  "updated": "2026-08-20T00:42:59Z",
   "items": [
     {
       "title": "Considerations for maximizing the effectiveness of debt-for-food swaps",
@@ -282,6 +282,16 @@
       "screen": "left"
     },
     {
+      "title": "Perovskite-based sensor detects ammonia leaks at concentrations as low as 1 ppm",
+      "abstract": "A team led by principal researcher Myungkwan Song of the Energy & Environment Materials Research Division at the Korea Institute of Materials Science (KIMS) has developed an ultrasensitive ammonia gas sensor using an environmentally friendly, lead-free perovskite material.",
+      "authors": "",
+      "published": "Aug 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-08-perovskite-based-sensor-ammonia-leaks.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/detecting-ammonia-leak.jpg",
+      "screen": "right"
+    },
+    {
       "title": "AI screens 100,000+ membrane combinations, predicting carbon capture performance within seconds",
       "abstract": "Reducing carbon dioxide emissions from industrial processes and energy production remains one of the major technological challenges in addressing climate change. Membrane-based gas separation offers an energy-efficient alternative to conventional separation technologies, but identifying membranes that allow gases to pass through rapidly while also separating them effectively has long presented a major materials-design challenge.",
       "authors": "",
@@ -309,16 +319,6 @@
       "feedName": "Phys.org Analytics",
       "url": "https://phys.org/news/2026-08-deep-approach-rapidly-metals-proteins.html",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/a-better-way-to-find-w.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "Moving nitrogen within pyridine opens a new path for molecular editing",
-      "abstract": "A research team has developed a new molecular editing strategy that can directly convert pyridine compounds into their positional isomers. Instead of moving individual substituents around the molecule, the method relocates the nitrogen atom within the pyridine ring itself, allowing existing molecular structures to be reorganized while preserving their substituents.",
-      "authors": "",
-      "published": "Aug 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-08-nitrogen-pyridine-path-molecular.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/moving-nitrogen-within.jpg",
       "screen": "right"
     },
     {

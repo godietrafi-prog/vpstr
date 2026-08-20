@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-20T18:24:57Z",
+  "updated": "2026-08-20T20:19:01Z",
   "items": [
     {
       "title": "The scale of change",
@@ -282,6 +282,16 @@
       "screen": "left"
     },
     {
+      "title": "Hypersonic impact rapidly transforms diamond into graphite, revealing energy-absorbing mechanism",
+      "abstract": "Rice University researchers have developed a way to stabilize diamond during high-temperature and low-pressure processing, creating a strong bulk composite and discovering that high-speed collisions can rapidly transform diamond into graphite. Their study is published in Materials Today.",
+      "authors": "",
+      "published": "Aug 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-08-hypersonic-impact-rapidly-diamond-graphite.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/rice-researchers-unloc-1.jpg",
+      "screen": "right"
+    },
+    {
       "title": "Blocc chemistry could automate molecular discovery and democratize access to new materials",
       "abstract": "A paper published in the journal Science lays out a roadmap for broadening access to the process of discovering molecular tools that can benefit society, including medicines, materials and a wide range of everyday consumer products.",
       "authors": "",
@@ -309,16 +319,6 @@
       "feedName": "Phys.org Analytics",
       "url": "https://phys.org/news/2026-08-international-standardizes-selenosugar-nomenclature-selenium.html",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/international-review-s.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "Perovskite-based sensor detects ammonia leaks at concentrations as low as 1 ppm",
-      "abstract": "A team led by principal researcher Myungkwan Song of the Energy & Environment Materials Research Division at the Korea Institute of Materials Science (KIMS) has developed an ultrasensitive ammonia gas sensor using an environmentally friendly, lead-free perovskite material.",
-      "authors": "",
-      "published": "Aug 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-08-perovskite-based-sensor-ammonia-leaks.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/detecting-ammonia-leak.jpg",
       "screen": "right"
     },
     {

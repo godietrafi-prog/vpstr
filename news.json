@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-20T10:21:12Z",
+  "updated": "2026-08-20T12:28:39Z",
   "items": [
     {
       "title": "The scale of change",
@@ -242,6 +242,26 @@
       "screen": "left"
     },
     {
+      "title": "Nationwide surveillance of pESI-positive Salmonella Infantis ST32 in South Korea: Endemic establishment of a dominant lineage across the broiler production chain, 2020–2023",
+      "abstract": "",
+      "authors": "Hee-Seung Kang, Md.Sekendar Ali, Bo-Youn Moon et al.",
+      "published": "Jan 2027",
+      "feedName": "Food Microbiology",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0740002026002352?dgcid=rss_sd_all",
+      "image": "",
+      "screen": "left"
+    },
+    {
+      "title": "Lactate-enhanced production of a cyclic β-1,2-glucan in Acetobacter pasteurianus",
+      "abstract": "",
+      "authors": "Yong Chen, Yihang Qi, Zhongya Zhou et al.",
+      "published": "Jan 2027",
+      "feedName": "Food Microbiology",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0740002026002418?dgcid=rss_sd_all",
+      "image": "",
+      "screen": "left"
+    },
+    {
       "title": "Strain-level identification and quantitative detection of Lactiplantibacillus plantarum in fermented milk using MALDI-TOF MS",
       "abstract": "",
       "authors": "Zhongfa Tan, Yanrong Liu, Zhihao Wang et al.",
@@ -258,26 +278,6 @@
       "published": "Jan 2027",
       "feedName": "Food Microbiology",
       "url": "https://www.sciencedirect.com/science/article/pii/S0740002026002364?dgcid=rss_sd_all",
-      "image": "",
-      "screen": "left"
-    },
-    {
-      "title": "Metabolomics-based analysis of dynamic metabolic trajectories and regulatory networks in two-stage fermentation of kiwifruit wine",
-      "abstract": "",
-      "authors": "Wangsheng Sun, Pengfei Bi, Wanju Yan et al.",
-      "published": "Jan 2027",
-      "feedName": "Food Microbiology",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0740002026002303?dgcid=rss_sd_all",
-      "image": "",
-      "screen": "left"
-    },
-    {
-      "title": "Control of Alicyclobacillus acidoterrestris spore and Byssochlamys ascospore growth in ambient acid dairy products through organic acid and heat treatments",
-      "abstract": "",
-      "authors": "Amila S.N.W. Pahalagedara, Elissavet Gkogka, Lasse Glinvad-Ravn et al.",
-      "published": "Jan 2027",
-      "feedName": "Food Microbiology",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0740002026002388?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -362,6 +362,16 @@
       "screen": "right"
     },
     {
+      "title": "Knee osteoarthritis isn’t inevitable — here’s what you can do",
+      "abstract": "Knee osteoarthritis can seriously affect mobility and quality of life, but its progression isn’t completely out of your control. Exercise, stronger leg muscles, a healthier diet, and even modest weight loss can dramatically reduce stress on the knees and help keep pain in check.",
+      "authors": "",
+      "published": "Aug 2026",
+      "feedName": "ScienceDaily Nutrition",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260820002420.htm",
+      "image": "https://www.sciencedaily.com/images/1920/arthritic-knee-joint.webp",
+      "screen": "right"
+    },
+    {
       "title": "Coffee drinkers have less fat, more muscle, and surprising hormone differences",
       "abstract": "Coffee drinkers may be getting more than an energy boost. A Finnish study found that people who drank more coffee tended to have less total and abdominal fat, more muscle, and healthier metabolic markers despite having similar BMIs. Higher coffee intake was also linked to lower levels of certain amino acids associated with insulin resistance and type 2 diabetes risk.",
       "authors": "",
@@ -389,16 +399,6 @@
       "feedName": "ScienceDaily Nutrition",
       "url": "https://www.sciencedaily.com/releases/2026/08/260816044842.htm",
       "image": "https://www.sciencedaily.com/images/1920/dna-break-replace-assemble-genetic-engineering.webp",
-      "screen": "right"
-    },
-    {
-      "title": "Low-fat vegan diet helps people lose weight without eating less",
-      "abstract": "A low-fat vegan diet may help people lose weight without counting calories, shrinking portions, or feeling constantly hungry. In a 16-week clinical trial, people eating mostly fruits, vegetables, grains, and legumes consumed about 357 fewer calories per day even though the total amount of food they ate barely changed.",
-      "authors": "",
-      "published": "Aug 2026",
-      "feedName": "ScienceDaily Nutrition",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260815064825.htm",
-      "image": "https://www.sciencedaily.com/images/1920/woman-after-losing-weight-big-jeans.webp",
       "screen": "right"
     },
     {

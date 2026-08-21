@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T14:25:58Z",
+  "updated": "2026-08-21T16:22:06Z",
   "items": [
     {
       "title": "The scale of change",
@@ -142,22 +142,22 @@
       "screen": "left"
     },
     {
-      "title": "There are other worlds than these: why sensory and consumer science should embrace Bayesian inference",
+      "title": "Health anxiety and cross-border functional food purchase decisions: The roles of perceived information overload, cross-border trust, and country-of-origin image",
       "abstract": "",
-      "authors": "Elizabeth S. Collier, Kathryn L. Harris, Jun Niimi et al.",
+      "authors": "Wenxin Wang, Linghua Zhang",
       "published": "Jan 2027",
       "feedName": "Food Quality & Preference",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0950329326002351?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0950329326002272?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
     {
-      "title": "Expecting the worst: empathic forecasting errors and vegetarian meal requests",
+      "title": "A methodological comparison of polarized sensory positioning (PSP) and polarized projective mapping (PPM): Evaluating physical and theoretical poles as applied to a product with a complex sensory profile",
       "abstract": "",
-      "authors": "Kate Laffan, Emma Howard",
+      "authors": "B.V.P. du Preez, M. Muller, E.I. Moelich et al.",
       "published": "Jan 2027",
       "feedName": "Food Quality & Preference",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0950329326002314?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0950329326002363?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -402,32 +402,12 @@
       "screen": "right"
     },
     {
-      "title": "Ergothioneine, collagen peptides, and sodium hyaluronate ameliorate facial skin aging via modulating oxidative stress, inflammation, and extracellular matrix homeostasis",
-      "abstract": "BackgroundSkin aging involves intrinsic chronological aging and extrinsic photoaging, characterized by impaired barrier function, extracellular matrix (ECM) degradation, and chronic inflammation.MethodsThis study evaluated anti-aging efficacy and mechanisms of ergothioneine (EGT), collagen peptides (CP) and sodium hyaluronate (NaHA) using an ex vivo human skin model and a clinical trial.ResultsEx vivo results showed that the EGT+CP+NaHA triple combination (TC) attenuated UV-induced epithelial thinning and collagen fiber disruption. Mechanistically, TC enhanced antioxidant capacity by up-regulating Nrf2 and SOD2 expression, modulated the senescence-associated secretory phenotype (SASP) via restoring TGF-β1 and suppressing IL-1α, IL-6, and MMP1 levels, and preserved ECM integrity by reversing reductions in collagen I, III, IV, VII, XVII, and hyaluronic acid (HA) contents. Clinically, oral TC to Chinese women improved skin hydration, elasticity, and barrier function, while reducing the number, depth, area, and volume of crow's feet wrinkles, nasolabial folds and marionette lines.ConclusionThese findings demonstrate that TC exerts multifaceted anti-aging effects by targeting oxidative stress, inflammatory pathways, and ECM homeostasis, providing a scientific basis for the development of novel oral nutricosmetics for facial skin anti-aging.",
-      "authors": "Zhiqing Zhou, Lingling Zhao, Lei Chen et al.",
+      "title": "Routine metabolic and nutrition-related composite indices for identifying adverse cardiovascular-kidney-metabolic phenotypes: a cross-sectional study",
+      "abstract": "BackgroundCardiovascular-kidney-metabolic (CKM) syndrome provides an integrated framework for capturing the overlap of adiposity, metabolic dysfunction, kidney impairment, and cardiovascular risk. Whether low-cost composite biomarkers derived entirely from routine health examinations and brief questionnaires can identify adverse CKM phenotypes in preventive-care populations remains insufficiently characterized.MethodsWe conducted a single-center, hospital-based cross-sectional study of adults who underwent routine health examinations at the Health Examination Center of the Second Affiliated Hospital of Shandong First Medical University between 2024 and 2025. Participants were included in the complete-case analysis based on complete data availability. Demographic, lifestyle, anthropometric, blood pressure, complete blood count, and fasting biochemical variables were used to construct anthropometric, insulin-resistance, lipid-metabolic, inflammatory, and nutrition-related indices. The primary outcome was prevalent adverse CKM phenotype, defined as CKM stage > = 2. Multivariable logistic regression, receiver operating characteristic analysis, restricted cubic spline modeling, and internally validated machine-learning models were used to evaluate associations, discrimination, non-linearity, and model interpretability.ResultsAmong 1,226 participants (mean [SD] age, 47.42 [13.14] years; 631 men [51.47%]), 718 (58.56%) had adverse CKM phenotype. CKM stage 2 accounted for most adverse CKM cases (693/718, 96.52%), whereas stages 3 and 4 were uncommon (9 [0.73%] and 16 [1.31%] of the…",
+      "authors": "Jing Lin, Guangre Xu, FuLi Chen et al.",
       "published": "Aug 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1888269",
-      "image": "",
-      "screen": "right"
-    },
-    {
-      "title": "Effects of peanut consumption on task-related brain activation, cognition and neuroinflammation in older adults with memory complaints: a randomized controlled trial",
-      "abstract": "ObjectivePeanuts are rich in unsaturated fats, antioxidants like polyphenols, and other bioactive compounds that may reduce neuroinflammation and support cognitive health. Although limited evidence suggests potential cognitive benefits of peanut intake, none have explored these effects in older adults at risk for cognitive decline or assessed brain activity using functional magnetic resonance imaging (fMRI). This study explored the effects of daily peanut consumption on task-related brain activation, cognition, and neuroinflammation biomarkers in older adults with cardiovascular disease (CVD) risk factors and memory complaints.MethodsIn this 12-week, controlled, parallel-design, open-label randomized trial registered at ClinicalTrials.gov (NCT05532007), 30 overweight or obese older adults with memory complaints and CVD risk factors were randomized to a peanut group (PG), which consumed 42–86 g/d of peanuts and peanut butter, or a control group (CG), which abstained from peanuts. The final analyzed sample included 27 participants (PG, n = 12; CG, n = 15). Assessments at baseline and 12 weeks included fMRI during an n-back working memory task; a comprehensive neurocognitive battery assessing global cognition and specific domains (memory, processing speed, verbal fluency, and executive function); and selected serum markers of inflammation and oxidative stress. Cognitive outcomes were analyzed using analysis of covariance, and biomarker outcomes using repeated-measures models, adjusting for baseline values (cognitive outcomes only), age, sex, baseline BMI, and change in body we…",
-      "authors": "Gabriela Chiriac, Samuel R. Barnes, Jonathan H. Venezia et al.",
-      "published": "Aug 2026",
-      "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1817518",
-      "image": "",
-      "screen": "right"
-    },
-    {
-      "title": "Appetite measures during ketamine administration in treatment-resistant mood disorders: a naturalistic study",
-      "abstract": "This study evaluated the acute and short-term effects of repeated ketamine treatment on appetite in adult inpatients with treatment-resistant mood disorders, including major depressive disorder and bipolar disorder. Appetite, hunger, and desire to eat were assessed using the Visual Analog Scales (VAS) and the Simplified Nutritional Appetite Questionnaire (SNAQ) at baseline and at multiple time points up to 7 days following ketamine administration. No significant changes were observed over the course of treatment, and results were consistent across diagnostic groups and body mass index (BMI) categories. No increased risk of appetite-related undernutrition or clinically relevant weight loss was identified. These findings do not suggest a substantial short-term impact of ketamine on appetite regulation or body weight and are consistent with a favorable metabolic safety profile, supporting its clinical use in patients with treatment-resistant depression (TRD) and treatment-resistant bipolar disorder (TRBD).",
-      "authors": "Agnieszka Mechlińska, Mariusz Wiglusz, Jakub Słupski et al.",
-      "published": "Aug 2026",
-      "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1858899",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1872579",
       "image": "",
       "screen": "right"
     },
@@ -438,6 +418,26 @@
       "published": "Aug 2026",
       "feedName": "Frontiers Nutrition",
       "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1909900",
+      "image": "",
+      "screen": "right"
+    },
+    {
+      "title": "Exclusive human milk diet and mortality before discharge in premature and very low birthweight infants: a systematic review and meta-analysis",
+      "abstract": "BackgroundSurvival to hospital discharge remains a critical outcome for premature and very low birthweight infants (VLBW), who often require fortification of human milk to meet nutritional needs within tolerated feeding volumes. Although exclusive human milk diets (EHMD) that include human milk-derived fortifiers have been proposed as an alternative to cow milk-derived fortification or formula supplementation, evidence for their association with improved survival remains inconsistent across studies.ObjectiveTo evaluate the association between an EHMD and survival to hospital discharge among premature and low birthweight infants, synthesizing evidence from randomized and non-randomized studies.MethodsPubMed, Scopus, and Web of Science were searched through July 2025 for studies comparing an EHMD (human milk fortified with human milk-derived fortifier) with diets containing cow milk-derived products. Two reviewers independently screened studies, extracted data, and assessed risk of bias. Pooled odds ratios (OR) were calculated using random-effects meta-analysis, with subgroup analyses by study design.ResultsFive randomized and 9 non-randomized studies were included, encompassing 4,713 infants born between 2004 and 2021. Mean birthweights ranged from 741 to 1,361 g, and mean gestational ages ranged from 25.5 to 29.7 weeks. In pooled analyses, EHMD was associated with lower odds of death before discharge (pooled OR 0.80, 95% CI 0.65–0.98; I2 = 0%, tau2 = 0.00, p = 0.03). Directionally similar associations were observed in randomized (OR 0.62, 95% CI 0.28–1.38) and non-randomize…",
+      "authors": "Sarah M. Reyes, Tristen L. Paul, Jenelle Ferry",
+      "published": "Aug 2026",
+      "feedName": "Frontiers Nutrition",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1898548",
+      "image": "",
+      "screen": "right"
+    },
+    {
+      "title": "Appetite measures during ketamine administration in treatment-resistant mood disorders: a naturalistic study",
+      "abstract": "This study evaluated the acute and short-term effects of repeated ketamine treatment on appetite in adult inpatients with treatment-resistant mood disorders, including major depressive disorder and bipolar disorder. Appetite, hunger, and desire to eat were assessed using the Visual Analog Scales (VAS) and the Simplified Nutritional Appetite Questionnaire (SNAQ) at baseline and at multiple time points up to 7 days following ketamine administration. No significant changes were observed over the course of treatment, and results were consistent across diagnostic groups and body mass index (BMI) categories. No increased risk of appetite-related undernutrition or clinically relevant weight loss was identified. These findings do not suggest a substantial short-term impact of ketamine on appetite regulation or body weight and are consistent with a favorable metabolic safety profile, supporting its clinical use in patients with treatment-resistant depression (TRD) and treatment-resistant bipolar disorder (TRBD).",
+      "authors": "Agnieszka Mechlińska, Mariusz Wiglusz, Jakub Słupski et al.",
+      "published": "Aug 2026",
+      "feedName": "Frontiers Nutrition",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1858899",
       "image": "",
       "screen": "right"
     },

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T20:15:51Z",
+  "updated": "2026-08-21T22:14:35Z",
   "items": [
     {
       "title": "The scale of change",
@@ -282,6 +282,16 @@
       "screen": "left"
     },
     {
+      "title": "Complex odors prove easier to map than expected with machine learning",
+      "abstract": "If you want to describe a particular color, you could look to the Pantone color wheel to find its exact hue, saturation and brightness, and how it compares with other colors. But nothing like that has existed for complex odors.",
+      "authors": "",
+      "published": "Aug 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-08-complex-odors-easier-machine.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2020/humansmell.jpg",
+      "screen": "right"
+    },
+    {
       "title": "New Monte Carlo method accelerates simulations of densely entangled polymer melts",
       "abstract": "Long polymer chains are everywhere: in synthetic materials, soft matter, biological systems such as chromosomes, and mathematical models of filaments and knots. When many such chains are densely packed, they form what physicists call a polymer melt. In this crowded environment, each chain is constrained by the others around it. These entanglements are central to the behavior of polymeric materials, but they also make the systems extremely difficult to simulate. As chain length increases, the time needed to obtain a new independent configuration grows very rapidly. For very large systems, conventional simulations can therefore become computationally prohibitive.",
       "authors": "",
@@ -309,16 +319,6 @@
       "feedName": "Phys.org Analytics",
       "url": "https://phys.org/news/2026-08-fibrinogen-discovery-reshapes-wounds.html",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/fibrinogen-discovery-r.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "Hypersonic impact rapidly transforms diamond into graphite, revealing energy-absorbing mechanism",
-      "abstract": "Rice University researchers have developed a way to stabilize diamond during high-temperature and low-pressure processing, creating a strong bulk composite and discovering that high-speed collisions can rapidly transform diamond into graphite. Their study is published in Materials Today.",
-      "authors": "",
-      "published": "Aug 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-08-hypersonic-impact-rapidly-diamond-graphite.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/rice-researchers-unloc-1.jpg",
       "screen": "right"
     },
     {

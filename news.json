@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-20T22:17:25Z",
+  "updated": "2026-08-21T00:45:16Z",
   "items": [
     {
       "title": "The scale of change",
@@ -282,6 +282,16 @@
       "screen": "left"
     },
     {
+      "title": "Fibrinogen discovery reshapes understanding of how wounds heal",
+      "abstract": "Scientists have redefined how the key blood-clotting protein fibrinogen behaves when it contacts air, overturning two decades of scientific consensus on wound healing. It is the culmination of more than a decade of international collaboration by Dr. Richard Campbell of The University of Manchester, Professor Juan Ruso of the University of Santiago de Compostela in Spain and Dr. Natalia Hassan of the Metropolitan Technological University in Chile.",
+      "authors": "",
+      "published": "Aug 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-08-fibrinogen-discovery-reshapes-wounds.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/fibrinogen-discovery-r.jpg",
+      "screen": "right"
+    },
+    {
       "title": "Hypersonic impact rapidly transforms diamond into graphite, revealing energy-absorbing mechanism",
       "abstract": "Rice University researchers have developed a way to stabilize diamond during high-temperature and low-pressure processing, creating a strong bulk composite and discovering that high-speed collisions can rapidly transform diamond into graphite. Their study is published in Materials Today.",
       "authors": "",
@@ -309,16 +319,6 @@
       "feedName": "Phys.org Analytics",
       "url": "https://phys.org/news/2026-08-oxygen-vacancies-fast-lithium-ion.html",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/battery-material-oxyge.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "International review standardizes selenosugar nomenclature and selenium metabolism",
-      "abstract": "Selenosugars are the major urinary metabolites responsible for the physiological excretion of selenium. Understanding selenium metabolism relies on accurately detecting and identifying selenosugars. However, research has been hindered by inconsistent terminology used for selenosugars, varying analytical practices and an incomplete understanding of the biological pathway for selenosugar biosynthesis.",
-      "authors": "",
-      "published": "Aug 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-08-international-standardizes-selenosugar-nomenclature-selenium.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/international-review-s.jpg",
       "screen": "right"
     },
     {
@@ -696,7 +696,7 @@
       "venue": "Journal of the American Chemical Society",
       "feedName": "Lab Research",
       "citationCount": 21,
-      "recentCitations": 3,
+      "recentCitations": 2,
       "s2_paper_id": "e8f95caa1e8ece0c16f246b34ead0788c6d4b146",
       "url": "https://doi.org/10.1021/jacs.4c00625",
       "image": "",

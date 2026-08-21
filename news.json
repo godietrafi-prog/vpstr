@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T00:45:16Z",
+  "updated": "2026-08-21T02:55:30Z",
   "items": [
     {
       "title": "The scale of change",
@@ -282,6 +282,16 @@
       "screen": "left"
     },
     {
+      "title": "AI-driven literature mining speeds discovery of heat-stable lead-free dielectric materials",
+      "abstract": "Artificial intelligence has analyzed data scattered across hundreds of research papers to discover new lead-free dielectric materials that maintain stable performance even at high temperatures. The study presents a new approach that could transform materials discovery from a trial-and-error process into a data-driven one.",
+      "authors": "",
+      "published": "Aug 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-08-ai-driven-literature-discovery-stable.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/ai-mines-research-pape.jpg",
+      "screen": "right"
+    },
+    {
       "title": "Fibrinogen discovery reshapes understanding of how wounds heal",
       "abstract": "Scientists have redefined how the key blood-clotting protein fibrinogen behaves when it contacts air, overturning two decades of scientific consensus on wound healing. It is the culmination of more than a decade of international collaboration by Dr. Richard Campbell of The University of Manchester, Professor Juan Ruso of the University of Santiago de Compostela in Spain and Dr. Natalia Hassan of the Metropolitan Technological University in Chile.",
       "authors": "",
@@ -309,16 +319,6 @@
       "feedName": "Phys.org Analytics",
       "url": "https://phys.org/news/2026-08-blocc-chemistry-automate-molecular-discovery.html",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/publication-in-science.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "Oxygen vacancies unlock fast lithium-ion transport in battery material",
-      "abstract": "Lithium titanate (LTO, Li4Ti5O12) is a well-established battery material that in its pristine state is a poor conductor of lithium ions. It develops high ionic conductivity only during charging, when additional lithium ions and electrons are incorporated into the material.",
-      "authors": "",
-      "published": "Aug 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-08-oxygen-vacancies-fast-lithium-ion.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/battery-material-oxyge.jpg",
       "screen": "right"
     },
     {

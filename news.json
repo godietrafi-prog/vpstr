@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T10:20:56Z",
+  "updated": "2026-08-21T12:27:54Z",
   "items": [
     {
       "title": "The scale of change",
@@ -142,22 +142,22 @@
       "screen": "left"
     },
     {
-      "title": "There are other worlds than these: why sensory and consumer science should embrace Bayesian inference",
+      "title": "Health anxiety and cross-border functional food purchase decisions: The roles of perceived information overload, cross-border trust, and country-of-origin image",
       "abstract": "",
-      "authors": "Elizabeth S. Collier, Kathryn L. Harris, Jun Niimi et al.",
+      "authors": "Wenxin Wang, Linghua Zhang",
       "published": "Jan 2027",
       "feedName": "Food Quality & Preference",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0950329326002351?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0950329326002272?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
     {
-      "title": "Expecting the worst: empathic forecasting errors and vegetarian meal requests",
+      "title": "A methodological comparison of polarized sensory positioning (PSP) and polarized projective mapping (PPM): Evaluating physical and theoretical poles as applied to a product with a complex sensory profile",
       "abstract": "",
-      "authors": "Kate Laffan, Emma Howard",
+      "authors": "B.V.P. du Preez, M. Muller, E.I. Moelich et al.",
       "published": "Jan 2027",
       "feedName": "Food Quality & Preference",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0950329326002314?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0950329326002363?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -362,6 +362,36 @@
       "screen": "right"
     },
     {
+      "title": "3 minutes of sprinting does something 90 minutes of exercise does not",
+      "abstract": "A few minutes of sprinting may reshape the bloodstream far more dramatically than a much longer moderate workout. Six 30-second sprints altered nearly a quarter of the blood proteins measured and more than 200 metabolites, while 90 minutes of moderate cycling produced far smaller immediate changes. Many of the proteins affected by sprinting were also associated with lower risks of obesity, type 2 diabetes, and other metabolic diseases.",
+      "authors": "",
+      "published": "Aug 2026",
+      "feedName": "ScienceDaily Nutrition",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260821012208.htm",
+      "image": "https://www.sciencedaily.com/images/1920/body-rejuvenation-strength-boost.webp",
+      "screen": "right"
+    },
+    {
+      "title": "This weight-loss hormone may protect the liver even without weight loss",
+      "abstract": "A hormone already known for curbing appetite and supporting weight loss may have a surprising second job: protecting the liver from inflammation and scarring. Researchers at McMaster University found that GDF15 activates a previously unknown brain-to-liver pathway that triggers the release of glucocorticoids, helping calm immune activity in the liver.",
+      "authors": "",
+      "published": "Aug 2026",
+      "feedName": "ScienceDaily Nutrition",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260820202854.htm",
+      "image": "https://www.sciencedaily.com/images/1920/3d-human-liver-anatomy.webp",
+      "screen": "right"
+    },
+    {
+      "title": "Ozempic does something unexpected to the brain’s hunger neurons",
+      "abstract": "Ozempic may work in the brain in almost the opposite way scientists expected, activating hunger-linked neurons that appear essential for sustaining fat loss. The surprising discovery in mice could reveal new targets for developing even more effective obesity drugs.",
+      "authors": "",
+      "published": "Aug 2026",
+      "feedName": "ScienceDaily Nutrition",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260820002436.htm",
+      "image": "https://www.sciencedaily.com/images/1920/human-brain-activity-neuron-close-up.webp",
+      "screen": "right"
+    },
+    {
       "title": "Knee osteoarthritis isn’t inevitable — here’s what you can do",
       "abstract": "Knee osteoarthritis can seriously affect mobility and quality of life, but its progression isn’t completely out of your control. Exercise, stronger leg muscles, a healthier diet, and even modest weight loss can dramatically reduce stress on the knees and help keep pain in check.",
       "authors": "",
@@ -369,36 +399,6 @@
       "feedName": "ScienceDaily Nutrition",
       "url": "https://www.sciencedaily.com/releases/2026/08/260820002420.htm",
       "image": "https://www.sciencedaily.com/images/1920/arthritic-knee-joint.webp",
-      "screen": "right"
-    },
-    {
-      "title": "Coffee drinkers have less fat, more muscle, and surprising hormone differences",
-      "abstract": "Coffee drinkers may be getting more than an energy boost. A Finnish study found that people who drank more coffee tended to have less total and abdominal fat, more muscle, and healthier metabolic markers despite having similar BMIs. Higher coffee intake was also linked to lower levels of certain amino acids associated with insulin resistance and type 2 diabetes risk.",
-      "authors": "",
-      "published": "Aug 2026",
-      "feedName": "ScienceDaily Nutrition",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260819041228.htm",
-      "image": "https://www.sciencedaily.com/images/1920/man-pouring-black-coffee.webp",
-      "screen": "right"
-    },
-    {
-      "title": "The bacteria that make cheese taste so good may also benefit your gut",
-      "abstract": "Scientists studying three artisan British cheeses found that the microbes responsible for their distinctive flavors may also offer surprising benefits for gut health. As the cheeses matured, helpful bacteria transformed their aromas and textures while potentially producing compounds linked to reduced inflammation, cholesterol regulation, and appetite control.",
-      "authors": "",
-      "published": "Aug 2026",
-      "feedName": "ScienceDaily Nutrition",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260816044847.htm",
-      "image": "https://www.sciencedaily.com/images/1920/french-brie-cheese.webp",
-      "screen": "right"
-    },
-    {
-      "title": "Japanese scientists use tiny silver particles to make DNA assembly up to 5x more efficient",
-      "abstract": "Silver nanoparticles can precisely slice DNA and create longer “sticky ends,” helping genetic fragments join up to five times more efficiently than conventional methods. The breakthrough could eventually simplify the construction of large DNA sequences for gene therapies, cancer vaccines, engineered drugs, and advanced crops.",
-      "authors": "",
-      "published": "Aug 2026",
-      "feedName": "ScienceDaily Nutrition",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260816044842.htm",
-      "image": "https://www.sciencedaily.com/images/1920/dna-break-replace-assemble-genetic-engineering.webp",
       "screen": "right"
     },
     {

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T04:29:30Z",
+  "updated": "2026-08-21T06:30:32Z",
   "items": [
     {
       "title": "The scale of change",
@@ -202,6 +202,16 @@
       "screen": "left"
     },
     {
+      "title": "Storage duration impact on the nutritional quality of honey from Burkina Faso",
+      "abstract": "Beekeeping is a rapidly expanding income-generating activity in several countries. Since 2003, good honey-harvesting practices, implemented with support from beekeeping centers, have yielded honey of high physicochemical quality. However, honey preservation remains a challenge to maintain its bioactive compounds. This study aimed to evaluate the impact of storage time on the quality of honey produced at the Koudougou beekeeping center in Burkina Faso. Fifteen samples, harvested at different times between 2020 and 2022, were collected and analyzed. Physicochemical, biochemical, and antioxidant properties were determined using standard methods, including direct and spectrophotometric methods. The results showed relative stability in the physicochemical features, although the 2020 honeys exhibited higher electrical conductivity and free acidity, and a lower pH, compared with those of 2021 and 2022. The highest moisture content (22.30% ± 0.17%) was recorded in batch n°4 of the 2022 honeys (HN4-2022), while the highest Brix level (82.00% ± 0.1%) was observed in batch n°13 of the 2021 honeys (HN13-2021). In contrast, storage time significantly influenced biochemical composition and antioxidant capacity. The highest concentrations of 5-Hydroxymethylfurfural (5-HMF), total polyphenols, and total sugars were 1,270.63 ± 6.72 mg/kg) (HN13-2021), 2,037.64 ± 4.28 mg GAE/100 g (HN18-2020) and 88.74 ± 2.03 mg, E.G.,/100 mg (HN8-2020) respectively. The highest antioxidant capacity was recorded at 4.07 ± 0.06 mg GAE/mL (HN8-2020) for free radical scavenging capacity (IC50) and 4.22 ± 0.16 m…",
+      "authors": "Wouléyon Tiéné, Samson Guenné, Hemayoro Sama et al.",
+      "published": "Aug 2026",
+      "feedName": "Frontiers Food Science",
+      "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.1839150",
+      "image": "",
+      "screen": "left"
+    },
+    {
       "title": "From plant compounds to packaging: recent advances in phytochemical added edible films and coatings",
       "abstract": "Global food supply chain faces major challenges due to post-harvest losses, along with synthetic packaging waste accumulating in ecosystems, necessitating the engineering of bioactive edible films and coatings (ECFs). This review assesses the recent advances achieved by incorporating phytochemicals into bio-polymeric carriers to advance contemporary knowledge regarding phenolic compounds flavonoids and terpenoids. Special emphasis is placed on upcycling agricultural processing discards like pomegranate rinds, carrot pomace, and avocado seeds to create renewable origins for generating high-value functional additives. This review discusses the transition process from laboratory solvent casting methods to industrial manufacturing methods, which use hot-melt extrusion (HME) electrospinning, and roll-to-roll (R2R) coating together with advanced stabilization techniques that use microencapsulation in β-cyclodextrin (β-CD) for protecting heat-sensitive bioactive. The phytochemical-loaded packaging systems effectively mitigate microbial proliferation and lipid oxidation across produce, meat, dairy, and bakery sectors, extending product longevity. The creation of intelligent colorimetric sensors involves using pH-responsive anthocyanins, which enable real-time non-invasive monitoring of quality changes. Thus, there is significant potential for phytochemical-loaded edible packaging films or coatings in the field of food packaging.",
       "authors": "Janani V, Praveen Kumar Dubey, Swarup Roy",
@@ -228,16 +238,6 @@
       "published": "Aug 2026",
       "feedName": "Frontiers Food Science",
       "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.1874327",
-      "image": "",
-      "screen": "left"
-    },
-    {
-      "title": "Hash-anchored quality-control evidence for food-production digital twins: a Solana-based LIMS-compatible framework",
-      "abstract": "IntroductionDigital twins in food production increasingly support quality monitoring, traceability, and operational decision-making. However, a digital twin can only be as reliable as the quality-control evidence used to update its state. In many food-production settings, laboratory quality information is stored in laboratory information management systems (LIMS), supplier certificates, or external laboratory reports, while blockchain-based food studies mainly focus on supply-chain traceability rather than verified laboratory event integration. This paper proposes a minimal Solana-based hash-anchoring framework that allows food-production digital twins to verify whether LIMS-compatible quality-control evidence is original, modified, or missing before accepting it as batch quality-state evidence.MethodsLaboratory data remain off-chain, while Solana stores only event identifiers, cryptographic hashes, and minimal metadata. The framework is evaluated using an anonymized bakery flour quality-control case based on two flour certificates and generated LIMS-like events derived from the same field structure. Experiments evaluate tamper detection, anchoring and verification latency, benchmark repeatability, and digital twin state classification.ResultsIn the primary 1,000-event local-validator benchmark, Solana per-event anchoring detected 100% of post-validation modifications under a local-store compromise threat model, with mean anchoring latency of 474.7862 ms per event and mean verification latency of 1.5945 ms. A repeat 1,000-event run produced the same order of overhead, with …",
-      "authors": "Meruert Sakypbekova, Gulshat Amirkhanova, Alikhan Amirkhanov et al.",
-      "published": "Aug 2026",
-      "feedName": "Frontiers Food Science",
-      "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.1873959",
       "image": "",
       "screen": "left"
     },
@@ -402,6 +402,16 @@
       "screen": "right"
     },
     {
+      "title": "Ergothioneine, collagen peptides, and sodium hyaluronate ameliorate facial skin aging via modulating oxidative stress, inflammation, and extracellular matrix homeostasis",
+      "abstract": "BackgroundSkin aging involves intrinsic chronological aging and extrinsic photoaging, characterized by impaired barrier function, extracellular matrix (ECM) degradation, and chronic inflammation.MethodsThis study evaluated anti-aging efficacy and mechanisms of ergothioneine (EGT), collagen peptides (CP) and sodium hyaluronate (NaHA) using an ex vivo human skin model and a clinical trial.ResultsEx vivo results showed that the EGT+CP+NaHA triple combination (TC) attenuated UV-induced epithelial thinning and collagen fiber disruption. Mechanistically, TC enhanced antioxidant capacity by up-regulating Nrf2 and SOD2 expression, modulated the senescence-associated secretory phenotype (SASP) via restoring TGF-β1 and suppressing IL-1α, IL-6, and MMP1 levels, and preserved ECM integrity by reversing reductions in collagen I, III, IV, VII, XVII, and hyaluronic acid (HA) contents. Clinically, oral TC to Chinese women improved skin hydration, elasticity, and barrier function, while reducing the number, depth, area, and volume of crow's feet wrinkles, nasolabial folds and marionette lines.ConclusionThese findings demonstrate that TC exerts multifaceted anti-aging effects by targeting oxidative stress, inflammatory pathways, and ECM homeostasis, providing a scientific basis for the development of novel oral nutricosmetics for facial skin anti-aging.",
+      "authors": "Zhiqing Zhou, Lingling Zhao, Lei Chen et al.",
+      "published": "Aug 2026",
+      "feedName": "Frontiers Nutrition",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1888269",
+      "image": "",
+      "screen": "right"
+    },
+    {
       "title": "Tea and liver fibrosis: a bibliometric analysis of mechanisms, translational challenges, and emerging trends",
       "abstract": "ObjectiveAlthough tea and its bioactive constituents, particularly epigallocatechin gallate (EGCG), demonstrate promising anti-liver fibrotic potential, the global research landscape has yet to be systematically characterized through quantitative visualization, leaving research priorities and clinical translational barriers unclear. This bibliometric analysis aims to delineate the current status, emerging hotspots, and developmental trends in tea-related liver fibrosis research, providing strategic insights for future studies.MethodsA dual-database search with reciprocal verification was conducted in the Web of Science Core Collection (WoSCC) and Scopus using refined search strategies. Bibliometric analyses and visualizations were performed using R (v4.5.1), VOSviewer (v1.6.19), and CiteSpace (v6.4.R1).ResultsAnnual publication output in this field has increased steadily. China led in publications (n = 120), with Nutrients and Frontiers in Pharmacology as the leading journals. Tea bioactives exert anti-fibrotic effects through: (1) molecular mechanisms, including inhibition of hepatic stellate cell activation via TGF-β/Smad, Nrf2, NF-κB, AMPK, and MAPK pathways; (2) gut-liver axis modulation, such as intestinal microbiota remodeling, bile acid homeostasis restoration, and barrier integrity enhancement; (3) synergistic effects with other natural products; and (4) epidemiological evidence showing that regular tea/caffeine intake reduces fibrosis progression, cirrhosis, and hepatocellular carcinoma risk. However, EGCG clinical translation is limited by poor solubility, environ…",
       "authors": "Fei Yu, Sihan Yin, Jiayu Zhu et al.",
@@ -412,32 +422,22 @@
       "screen": "right"
     },
     {
-      "title": "Exclusive human milk diet and mortality before discharge in premature and very low birthweight infants: a systematic review and meta-analysis",
-      "abstract": "BackgroundSurvival to hospital discharge remains a critical outcome for premature and very low birthweight infants (VLBW), who often require fortification of human milk to meet nutritional needs within tolerated feeding volumes. Although exclusive human milk diets (EHMD) that include human milk-derived fortifiers have been proposed as an alternative to cow milk-derived fortification or formula supplementation, evidence for their association with improved survival remains inconsistent across studies.ObjectiveTo evaluate the association between an EHMD and survival to hospital discharge among premature and low birthweight infants, synthesizing evidence from randomized and non-randomized studies.MethodsPubMed, Scopus, and Web of Science were searched through July 2025 for studies comparing an EHMD (human milk fortified with human milk-derived fortifier) with diets containing cow milk-derived products. Two reviewers independently screened studies, extracted data, and assessed risk of bias. Pooled odds ratios (OR) were calculated using random-effects meta-analysis, with subgroup analyses by study design.ResultsFive randomized and 9 non-randomized studies were included, encompassing 4,713 infants born between 2004 and 2021. Mean birthweights ranged from 741 to 1,361 g, and mean gestational ages ranged from 25.5 to 29.7 weeks. In pooled analyses, EHMD was associated with lower odds of death before discharge (pooled OR 0.80, 95% CI 0.65–0.98; I2 = 0%, tau2 = 0.00, p = 0.03). Directionally similar associations were observed in randomized (OR 0.62, 95% CI 0.28–1.38) and non-randomize…",
-      "authors": "Sarah M. Reyes, Tristen L. Paul, Jenelle Ferry",
+      "title": "Appetite measures during ketamine administration in treatment-resistant mood disorders: a naturalistic study",
+      "abstract": "This study evaluated the acute and short-term effects of repeated ketamine treatment on appetite in adult inpatients with treatment-resistant mood disorders, including major depressive disorder and bipolar disorder. Appetite, hunger, and desire to eat were assessed using the Visual Analog Scales (VAS) and the Simplified Nutritional Appetite Questionnaire (SNAQ) at baseline and at multiple time points up to 7 days following ketamine administration. No significant changes were observed over the course of treatment, and results were consistent across diagnostic groups and body mass index (BMI) categories. No increased risk of appetite-related undernutrition or clinically relevant weight loss was identified. These findings do not suggest a substantial short-term impact of ketamine on appetite regulation or body weight and are consistent with a favorable metabolic safety profile, supporting its clinical use in patients with treatment-resistant depression (TRD) and treatment-resistant bipolar disorder (TRBD).",
+      "authors": "Agnieszka Mechlińska, Mariusz Wiglusz, Jakub Słupski et al.",
       "published": "Aug 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1898548",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1858899",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Can ‘local public food procurement’ extend to healthcare? – A policy content analysis",
-      "abstract": "IntroductionLocal public food procurement (LPFP) by hospital foodservice offers governments an opportunity to support local food systems and capitalise on multiple co-benefits. Policy is a potential lever to shift procurement practices. This study aims to identify and analyse food policy documents that promote LPFP, to explore how LPFP is represented, and the extent to which it extends to healthcare.MethodsPolicies from the World Health Organisation (WHO), Global Database on the Implementation of Food and Nutrition Action (GIFNA) were screened for eligibility, descriptively characterised and qualitatively analysed.ResultsForty-two policies relating to LPFP were identified; almost 70% targeted schools, half were from Europe and a third were from Latin America and The Caribbean. Five overarching themes described how LPFP was represented in policies: LPFP benefits nutrition and local food culture, social economic development, and environmental sustainability; a multiplier effect where LPFP offers greater value than its initial investment; and variable policy commitment to LPFP. The representation of LPFP was influenced by regional, cultural and context specific factors. Ten policies (24%) included reference to hospitals, mostly described as one of many public institutions that could potentially support LPFP. Just one policy was specific for hospitals which represented LPFP for its environmental benefit.ConclusionOverall, the extent to which local food procurement was recommended in healthcare was minimal. Findings suggest, that to establish LPFP in healthcare and realise its m…",
-      "authors": "Kathy Faulkner, Jorja Collins, Heather Gilbertson et al.",
+      "title": "Frailty, social disconnection, metabolomic signatures, and incident peripheral artery disease in type 2 diabetes: a prospective cohort study",
+      "abstract": "BackgroundFrailty and social disconnection may increase vascular risk in type 2 diabetes mellitus (T2DM), but their associations with peripheral artery disease (PAD) and related metabolic pathways remain unclear.MethodsThis secondary analysis of prospectively collected data from the UK Biobank included 22,582 participants with T2DM and without PAD at baseline. Frailty was defined using an adapted Fried phenotype, and social disconnection was assessed using measures of loneliness and social isolation. Cox proportional hazards models examined their separate and joint associations with incident PAD. Among 21,986 participants with nuclear magnetic resonance (NMR) metabolomic data, exposure-specific metabolomic risk scores (MRSs) were developed using least absolute shrinkage and selection operator Cox (LASSO-Cox) regression in a 70% training set and evaluated in a 30% validation set. Exploratory mediation analyses were performed in the validation set. Extreme gradient boosting (XGBoost) models with Shapley additive explanations (SHAP) were used to explore predictive patterns.ResultsDuring a mean follow-up of 14.43 years, 1,873 incident PAD cases occurred. In the mutually adjusted model, loneliness [hazard ratio (HR), 1.19; 95% confidence interval (CI), 1.03–1.38], social isolation (HR, 1.24; 95% CI, 1.10–1.41), pre-frailty (HR, 1.22; 95% CI, 1.10–1.36), and frailty (HR, 2.02; 95% CI, 1.75–2.34) remained associated with incident PAD. Participants with frailty and either loneliness or social isolation had the highest PAD risk. In the validation set, the frailty-, loneliness-, and …",
+      "authors": "Li Zhao, Xinrui Xue, Tianjiao Li et al.",
       "published": "Aug 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1906366",
-      "image": "",
-      "screen": "right"
-    },
-    {
-      "title": "Association between ultra-processed food consumption and perceived stress among teaching professionals: a gender-stratified cross-sectional study from Urban India",
-      "abstract": "BackgroundUltra-processed foods (UPFs) have become deeply embedded in contemporary dietary patterns, particularly among urban working populations. Concurrently, perceived stress especially in high-demand occupations such as teaching has emerged as a significant public health concern. Understanding the relationship between UPF consumption and perceived stress is essential for designing targeted nutritional and mental health interventions.ObjectiveThis study investigated the association between ultra-processed food consumption and perceived stress levels among teaching professionals, with specific attention to gender-related differences in dietary behavior and stress experience.MethodsA cross-sectional analytical study was conducted among 549 teaching professionals from educational institutions across urban India. UPF consumption was quantified using a validated 20-item binary-scored instrument aligned with the NOVA classification system. Participants were stratified into Low ( ≤ 8 items; n = 149), Moderate (9–12 items; n = 241), and High (≥13 items; n = 159) UPF consumption groups. Perceived stress was assessed using the validated 10-item Perceived Stress Scale (PSS-10). Analytical methods included Welch-corrected independent samples t-tests, Pearson and Spearman correlation analyses, simple and multivariable linear regression.ResultsMean PSS-10 scores increased progressively across Low (2.77 ± 0.54), Moderate (3.01 ± 0.36), and High (2.97 ± 0.32) UPF consumption groups. Welch-corrected t-test demonstrated significantly higher perceived stress in the High versus Low group [t…",
-      "authors": "Anindita Ghosh, Arti Muley, Reena Verma et al.",
-      "published": "Aug 2026",
-      "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1889456",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1909900",
       "image": "",
       "screen": "right"
     },

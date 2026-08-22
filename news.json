@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-22T20:13:12Z",
+  "updated": "2026-08-22T22:12:44Z",
   "items": [
     {
       "title": "The scale of change",
@@ -282,6 +282,16 @@
       "screen": "left"
     },
     {
+      "title": "Computer models pinpoint catalysts for replacing fossil-fueled ammonia production",
+      "abstract": "Ammonia is one of the most important chemicals produced in the world, ranking second only to sulfuric acid in the total volume produced each year. It is used mostly to make fertilizer, which is essential to feeding the world's population. Yet its production accounts for up to 2% of the world's energy consumption and about 1.5% of greenhouse gas emissions, so the search has been underway for ways to produce ammonia more sustainably.",
+      "authors": "",
+      "published": "Aug 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-08-catalysts-fossil-fueled-ammonia-production.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/computer-models-pinpoi.jpg",
+      "screen": "right"
+    },
+    {
       "title": "Complex odors prove easier to map than expected with machine learning",
       "abstract": "If you want to describe a particular color, you could look to the Pantone color wheel to find its exact hue, saturation and brightness, and how it compares with other colors. But nothing like that has existed for complex odors.",
       "authors": "",
@@ -309,16 +319,6 @@
       "feedName": "Phys.org Analytics",
       "url": "https://phys.org/news/2026-08-ai-driven-literature-discovery-stable.html",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/ai-mines-research-pape.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "Fibrinogen discovery reshapes understanding of how wounds heal",
-      "abstract": "Scientists have redefined how the key blood-clotting protein fibrinogen behaves when it contacts air, overturning two decades of scientific consensus on wound healing. It is the culmination of more than a decade of international collaboration by Dr. Richard Campbell of The University of Manchester, Professor Juan Ruso of the University of Santiago de Compostela in Spain and Dr. Natalia Hassan of the Metropolitan Technological University in Chile.",
-      "authors": "",
-      "published": "Aug 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-08-fibrinogen-discovery-reshapes-wounds.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/fibrinogen-discovery-r.jpg",
       "screen": "right"
     },
     {

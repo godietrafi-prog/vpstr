@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-23T04:28:31Z",
+  "updated": "2026-08-23T06:25:25Z",
   "items": [
     {
       "title": "The scale of change",
@@ -212,6 +212,16 @@
       "screen": "left"
     },
     {
+      "title": "From plant compounds to packaging: recent advances in phytochemical added edible films and coatings",
+      "abstract": "Global food supply chain faces major challenges due to post-harvest losses, along with synthetic packaging waste accumulating in ecosystems, necessitating the engineering of bioactive edible films and coatings (ECFs). This review assesses the recent advances achieved by incorporating phytochemicals into bio-polymeric carriers to advance contemporary knowledge regarding phenolic compounds flavonoids and terpenoids. Special emphasis is placed on upcycling agricultural processing discards like pomegranate rinds, carrot pomace, and avocado seeds to create renewable origins for generating high-value functional additives. This review discusses the transition process from laboratory solvent casting methods to industrial manufacturing methods, which use hot-melt extrusion (HME) electrospinning, and roll-to-roll (R2R) coating together with advanced stabilization techniques that use microencapsulation in β-cyclodextrin (β-CD) for protecting heat-sensitive bioactive. The phytochemical-loaded packaging systems effectively mitigate microbial proliferation and lipid oxidation across produce, meat, dairy, and bakery sectors, extending product longevity. The creation of intelligent colorimetric sensors involves using pH-responsive anthocyanins, which enable real-time non-invasive monitoring of quality changes. Thus, there is significant potential for phytochemical-loaded edible packaging films or coatings in the field of food packaging.",
+      "authors": "Janani V, Praveen Kumar Dubey, Swarup Roy",
+      "published": "Aug 2026",
+      "feedName": "Frontiers Food Science",
+      "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.1898006",
+      "image": "",
+      "screen": "left"
+    },
+    {
       "title": "Shelf-life evaluation of precooked millet couscous (Pennisetum glaucum) during ambient storage, in Senegal",
       "abstract": "IntroductionMillet couscous occupies a significant place in the Senegalese diet and contributes to the valorization and promotion of local cereals. However, information regarding shelf life, physicochemical characteristics, microbiological safety, and sensory quality remains limited. Nevertheless, these properties are often overlooked, can play a key role in the promotion and economical and nutritional competitiveness of precooked millet couscous. This study aimed to determine, through scientific knowledge, the shelf life of precooked millet couscous packaged in polyethylene bags under ambient storage conditions in order to establish its minimum durability date (MDD).MethodsPrecooked couscous was produced in three samples, packaged at 500g per bag and then stored at laboratory ambient temperature (23 °C–30 °C) with relative humidity varying between 46% and 51% during storage. Samples of precooked millet couscous were taken regularly from T0 to T20 months to assess microbiological quality, pH, moisture content (humidity), water activity and sensory properties during storage. Data were analyzed using analysis of variance (ANOVA), and mean comparisons were performed using Fisher’s Least Significant Difference (LSD) test at a significance level of p < 0.05.Results and DiscussionFinding showed pathogenic microorganism including, Salmonella, E. coli, sulfite-reducing Clostridium, Bacillus cereus, and Staphylococcus aureus were not detected in precooked couscous millet during the entire storage period. However, aerobic mesophilic flora at 30 °C, yeasts and molds remained below the…",
       "authors": "Adjaratou Basse, Abdou Diouf, Eliasse Diémé et al.",
@@ -228,16 +238,6 @@
       "published": "Aug 2026",
       "feedName": "Frontiers Food Science",
       "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.1874327",
-      "image": "",
-      "screen": "left"
-    },
-    {
-      "title": "From plant compounds to packaging: recent advances in phytochemical added edible films and coatings",
-      "abstract": "Global food supply chain faces major challenges due to post-harvest losses, along with synthetic packaging waste accumulating in ecosystems, necessitating the engineering of bioactive edible films and coatings (ECFs). This review assesses the recent advances achieved by incorporating phytochemicals into bio-polymeric carriers to advance contemporary knowledge regarding phenolic compounds flavonoids and terpenoids. Special emphasis is placed on upcycling agricultural processing discards like pomegranate rinds, carrot pomace, and avocado seeds to create renewable origins for generating high-value functional additives. This review discusses the transition process from laboratory solvent casting methods to industrial manufacturing methods, which use hot-melt extrusion (HME) electrospinning, and roll-to-roll (R2R) coating together with advanced stabilization techniques that use microencapsulation in β-cyclodextrin (β-CD) for protecting heat-sensitive bioactive. The phytochemical-loaded packaging systems effectively mitigate microbial proliferation and lipid oxidation across produce, meat, dairy, and bakery sectors, extending product longevity. The creation of intelligent colorimetric sensors involves using pH-responsive anthocyanins, which enable real-time non-invasive monitoring of quality changes. Thus, there is significant potential for phytochemical-loaded edible packaging films or coatings in the field of food packaging.",
-      "authors": "Janani V, Praveen Kumar Dubey, Swarup Roy",
-      "published": "Aug 2026",
-      "feedName": "Frontiers Food Science",
-      "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.1898006",
       "image": "",
       "screen": "left"
     },
@@ -362,6 +362,26 @@
       "screen": "right"
     },
     {
+      "title": "Quitting alcohol may prime the brain for relapse",
+      "abstract": "Mice that developed compulsive drinking after alcohol abstinence showed more than double the activity in a brain region associated with stress and addiction. Because the signal appeared before they drank again, researchers think it could eventually help predict who is most at risk of relapse.",
+      "authors": "",
+      "published": "Aug 2026",
+      "feedName": "ScienceDaily Nutrition",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260822015148.htm",
+      "image": "https://www.sciencedaily.com/images/1920/human-brain-in-alcohol-glass.webp",
+      "screen": "right"
+    },
+    {
+      "title": "This common vitamin was linked to 13% better cognitive scores",
+      "abstract": "Older adults with mild cognitive impairment and sleep problems who took at least 5,000 IU of vitamin D daily scored more than 13% higher on a cognitive test than those taking none. The preliminary findings suggest vitamin D could be worth studying as a potentially modifiable factor during an early window of cognitive decline.",
+      "authors": "",
+      "published": "Aug 2026",
+      "feedName": "ScienceDaily Nutrition",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260822015138.htm",
+      "image": "https://www.sciencedaily.com/images/1920/hand-holding-vitamin-d-pill-in-sunlight.webp",
+      "screen": "right"
+    },
+    {
       "title": "Exercise may work better for keeping weight off than losing it",
       "abstract": "Exercise may not be a powerful weight-loss tool on its own, but it appears to play a much bigger role in preventing lost weight from returning. By preserving muscle, supporting metabolism, improving fat burning, and regulating appetite and blood sugar, regular activity can make long-term weight maintenance easier.",
       "authors": "",
@@ -379,26 +399,6 @@
       "feedName": "ScienceDaily Nutrition",
       "url": "https://www.sciencedaily.com/releases/2026/08/260821012230.htm",
       "image": "https://www.sciencedaily.com/images/1920/body-immune-response-lymphocytes-t-cells-cancer-immunotherapy.webp",
-      "screen": "right"
-    },
-    {
-      "title": "Tooth count may predict survival after pancreatic cancer surgery",
-      "abstract": "Pancreatic cancer patients with at least 21 natural teeth survived nearly two years longer after surgery than those with fewer teeth in a study of 339 people. Researchers suspect tooth loss may reflect decades of inflammation, frailty, nutrition, and other factors tied to the body’s overall resilience.",
-      "authors": "",
-      "published": "Aug 2026",
-      "feedName": "ScienceDaily Nutrition",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260821012218.htm",
-      "image": "https://www.sciencedaily.com/images/1920/senior-man-missing-teeth.webp",
-      "screen": "right"
-    },
-    {
-      "title": "3 minutes of sprinting does something 90 minutes of exercise does not",
-      "abstract": "A few minutes of sprinting may reshape the bloodstream far more dramatically than a much longer moderate workout. Six 30-second sprints altered nearly a quarter of the blood proteins measured and more than 200 metabolites, while 90 minutes of moderate cycling produced far smaller immediate changes. Many of the proteins affected by sprinting were also associated with lower risks of obesity, type 2 diabetes, and other metabolic diseases.",
-      "authors": "",
-      "published": "Aug 2026",
-      "feedName": "ScienceDaily Nutrition",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260821012208.htm",
-      "image": "https://www.sciencedaily.com/images/1920/body-rejuvenation-strength-boost.webp",
       "screen": "right"
     },
     {

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-23T14:14:50Z",
+  "updated": "2026-08-23T16:14:52Z",
   "items": [
     {
       "title": "The scale of change",
@@ -112,12 +112,12 @@
       "screen": "left"
     },
     {
-      "title": "How do food-derived satiety peptides regulate appetite? Insights into efficacy, assessment and mechanism",
+      "title": "From foods to sleep: Dietary γ-aminobutyric acid enrichment and evidence-based multi-pathway regulation of sleep health",
       "abstract": "",
-      "authors": "Ruiyang Yuan, Yuer Zhang, Yujia Lu et al.",
+      "authors": "Shiwen Li, Xinzhuo Qu, Yu Xi et al.",
       "published": "Nov 2026",
       "feedName": "Trends in Food Sci & Tech",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426005066?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426004991?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -362,6 +362,16 @@
       "screen": "right"
     },
     {
+      "title": "Experimental compound helps burn fat without muscle loss",
+      "abstract": "A decades-old compound may point to a new way of treating obesity by making the body burn more energy rather than simply reducing appetite. In mice, TOFA increased energy use by as much as 18%, reduced body fat without significant muscle loss, and improved blood sugar, triglycerides, and fatty liver disease. It also produced stronger results when combined with GLP-1 drugs such as Ozempic, Wegovy, Mounjaro, and Zepbound.",
+      "authors": "",
+      "published": "Aug 2026",
+      "feedName": "ScienceDaily Nutrition",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260823014953.htm",
+      "image": "https://www.sciencedaily.com/images/1920/fat-burning-human-tissue-cells.webp",
+      "screen": "right"
+    },
+    {
       "title": "Quitting alcohol may prime the brain for relapse",
       "abstract": "Mice that developed compulsive drinking after alcohol abstinence showed more than double the activity in a brain region associated with stress and addiction. Because the signal appeared before they drank again, researchers think it could eventually help predict who is most at risk of relapse.",
       "authors": "",
@@ -389,16 +399,6 @@
       "feedName": "ScienceDaily Nutrition",
       "url": "https://www.sciencedaily.com/releases/2026/08/260821012240.htm",
       "image": "https://www.sciencedaily.com/images/1920/woman-weight-loss-flat-belly-oversized-jeans.webp",
-      "screen": "right"
-    },
-    {
-      "title": "This yeast supplement may boost cancer-fighting immunity",
-      "abstract": "A simple yeast-based food supplement may help restore the immune system’s ability to fight cancer, according to new research in mice. Scientists found that yeast beta-glucan reprogrammed early immune cells in the bone marrow, leading to stronger, longer-lasting cancer-fighting responses against colorectal, skin, and breast cancer cells.",
-      "authors": "",
-      "published": "Aug 2026",
-      "feedName": "ScienceDaily Nutrition",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260821012230.htm",
-      "image": "https://www.sciencedaily.com/images/1920/body-immune-response-lymphocytes-t-cells-cancer-immunotherapy.webp",
       "screen": "right"
     },
     {

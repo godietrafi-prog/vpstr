@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-24T18:27:13Z",
+  "updated": "2026-08-24T20:20:45Z",
   "items": [
     {
       "title": "The scale of change",
@@ -282,6 +282,16 @@
       "screen": "left"
     },
     {
+      "title": "What happens inside a wildfire? A Ph.D. student is finding out",
+      "abstract": "What happens during a wildfire? The short answer is: much more than we know. As wildfires burn through trees, grasses and other vegetation, heat from the flames sets off thousands of chemical reactions at once. Molecules break apart, recombine and transform into new compounds, releasing gases, soot and other carbon-rich particles into the air.",
+      "authors": "",
+      "published": "Aug 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-08-wildfire-phd-student.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/what-happens-inside-a.jpg",
+      "screen": "right"
+    },
+    {
       "title": "Computer models pinpoint catalysts for replacing fossil-fueled ammonia production",
       "abstract": "Ammonia is one of the most important chemicals produced in the world, ranking second only to sulfuric acid in the total volume produced each year. It is used mostly to make fertilizer, which is essential to feeding the world's population. Yet its production accounts for up to 2% of the world's energy consumption and about 1.5% of greenhouse gas emissions, so the search has been underway for ways to produce ammonia more sustainably.",
       "authors": "",
@@ -309,16 +319,6 @@
       "feedName": "Phys.org Analytics",
       "url": "https://phys.org/news/2026-08-monte-carlo-method-simulations-densely.html",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/a-new-twist-in-a-tangl.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "AI-driven literature mining speeds discovery of heat-stable lead-free dielectric materials",
-      "abstract": "Artificial intelligence has analyzed data scattered across hundreds of research papers to discover new lead-free dielectric materials that maintain stable performance even at high temperatures. The study presents a new approach that could transform materials discovery from a trial-and-error process into a data-driven one.",
-      "authors": "",
-      "published": "Aug 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-08-ai-driven-literature-discovery-stable.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/ai-mines-research-pape.jpg",
       "screen": "right"
     },
     {

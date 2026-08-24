@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-24T20:20:45Z",
+  "updated": "2026-08-24T22:16:49Z",
   "items": [
     {
       "title": "The scale of change",
@@ -282,6 +282,26 @@
       "screen": "left"
     },
     {
+      "title": "Molecular trick opens the door to a new generation of glass",
+      "abstract": "Researchers at TU Dortmund University, Paderborn University, the University of Duisburg-Essen, and the University of Oxford have developed a new method for selectively modifying the internal structure of specific types of glass. The study, published in the journal Nature Materials, shows how adding an organic molecule during melting causes the chemical bonds in the material to rearrange. The process reduces the required processing temperature, prevents the substance from decomposing, and allows the magnetic and optical properties to be precisely tuned. These specialized glasses are used, among other things, in gas storage, batteries, optical applications and catalysis.",
+      "authors": "",
+      "published": "Aug 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-08-molecular-door-generation-glass.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/researchers-crack-the-2.jpg",
+      "screen": "right"
+    },
+    {
+      "title": "Metal ceramics under AI control: A new approach for calculating the mechanical properties of materials",
+      "abstract": "Researchers from the Skoltech Materials Center have proposed a new approach to modeling the mechanical properties of heterogeneous materials, combining machine learning with active learning on local chemical configurations. The method enables calculations of large systems containing tens of thousands of atoms with accuracy comparable to direct quantum-mechanical calculations (DFT), but without requiring extensive computational resources.",
+      "authors": "",
+      "published": "Aug 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-08-metal-ceramics-ai-approach-mechanical.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/metal-ceramics-under-a.jpg",
+      "screen": "right"
+    },
+    {
       "title": "What happens inside a wildfire? A Ph.D. student is finding out",
       "abstract": "What happens during a wildfire? The short answer is: much more than we know. As wildfires burn through trees, grasses and other vegetation, heat from the flames sets off thousands of chemical reactions at once. Molecules break apart, recombine and transform into new compounds, releasing gases, soot and other carbon-rich particles into the air.",
       "authors": "",
@@ -299,26 +319,6 @@
       "feedName": "Phys.org Analytics",
       "url": "https://phys.org/news/2026-08-catalysts-fossil-fueled-ammonia-production.html",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/computer-models-pinpoi.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "Complex odors prove easier to map than expected with machine learning",
-      "abstract": "If you want to describe a particular color, you could look to the Pantone color wheel to find its exact hue, saturation and brightness, and how it compares with other colors. But nothing like that has existed for complex odors.",
-      "authors": "",
-      "published": "Aug 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-08-complex-odors-easier-machine.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2020/humansmell.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "New Monte Carlo method accelerates simulations of densely entangled polymer melts",
-      "abstract": "Long polymer chains are everywhere: in synthetic materials, soft matter, biological systems such as chromosomes, and mathematical models of filaments and knots. When many such chains are densely packed, they form what physicists call a polymer melt. In this crowded environment, each chain is constrained by the others around it. These entanglements are central to the behavior of polymeric materials, but they also make the systems extremely difficult to simulate. As chain length increases, the time needed to obtain a new independent configuration grows very rapidly. For very large systems, conventional simulations can therefore become computationally prohibitive.",
-      "authors": "",
-      "published": "Aug 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-08-monte-carlo-method-simulations-densely.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/a-new-twist-in-a-tangl.jpg",
       "screen": "right"
     },
     {

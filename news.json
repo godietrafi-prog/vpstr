@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-24T12:29:15Z",
+  "updated": "2026-08-24T14:34:35Z",
   "items": [
     {
       "title": "The scale of change",
@@ -242,6 +242,16 @@
       "screen": "left"
     },
     {
+      "title": "Correlation between microbial communities, metabolites, and bioactivities in fermented mare's milk revealed by metagenomics and metabolomics",
+      "abstract": "",
+      "authors": "Xiaoxiao Huang, Rongrong Luo, Yanrong Wang et al.",
+      "published": "Jan 2027",
+      "feedName": "Food Microbiology",
+      "url": "https://www.sciencedirect.com/science/article/pii/S074000202600242X?dgcid=rss_sd_all",
+      "image": "",
+      "screen": "left"
+    },
+    {
       "title": "Microbial succession is linked to phenylpropanoid remodeling, aroma softening, and quality improvement in naturally aged Artemisia argyi leaves",
       "abstract": "",
       "authors": "Wenbin Xiao, Xinyue Hu, Hongbing Wang et al.",
@@ -268,16 +278,6 @@
       "published": "Jan 2027",
       "feedName": "Food Microbiology",
       "url": "https://www.sciencedirect.com/science/article/pii/S0740002026002285?dgcid=rss_sd_all",
-      "image": "",
-      "screen": "left"
-    },
-    {
-      "title": "Nationwide surveillance of pESI-positive Salmonella Infantis ST32 in South Korea: Endemic establishment of a dominant lineage across the broiler production chain, 2020–2023",
-      "abstract": "",
-      "authors": "Hee-Seung Kang, Md.Sekendar Ali, Bo-Youn Moon et al.",
-      "published": "Jan 2027",
-      "feedName": "Food Microbiology",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0740002026002352?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -362,6 +362,16 @@
       "screen": "right"
     },
     {
+      "title": "Bird flu is spreading. Your backyard feeder could make it worse",
+      "abstract": "Backyard bird feeders could become unexpected hotspots for H5N1 as Australia’s bird flu outbreak spreads, bringing species together in ways that rarely occur naturally. Experts say stopping feeding is safest, while smaller amounts of food, no hand-feeding, and careful cleaning can reduce the danger.",
+      "authors": "",
+      "published": "Aug 2026",
+      "feedName": "ScienceDaily Nutrition",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260824065519.htm",
+      "image": "https://www.sciencedaily.com/images/1920/two-eastern-rosella-birds-perched-on-feeder.webp",
+      "screen": "right"
+    },
+    {
       "title": "Experimental compound helps burn fat without muscle loss",
       "abstract": "A decades-old compound may point to a new way of treating obesity by making the body burn more energy rather than simply reducing appetite. In mice, TOFA increased energy use by as much as 18%, reduced body fat without significant muscle loss, and improved blood sugar, triglycerides, and fatty liver disease. It also produced stronger results when combined with GLP-1 drugs such as Ozempic, Wegovy, Mounjaro, and Zepbound.",
       "authors": "",
@@ -382,23 +392,13 @@
       "screen": "right"
     },
     {
-      "title": "This common vitamin was linked to 13% better cognitive scores",
-      "abstract": "Older adults with mild cognitive impairment and sleep problems who took at least 5,000 IU of vitamin D daily scored more than 13% higher on a cognitive test than those taking none. The preliminary findings suggest vitamin D could be worth studying as a potentially modifiable factor during an early window of cognitive decline.",
+      "title": "Gut bacteria may unlock a hidden benefit of vegetables",
+      "abstract": "Gut bacteria can transform nitrate and plant-based iron from vegetables and other foods into protective molecules that may benefit the heart and metabolism. In experimental models, higher levels of these compounds were linked to lower blood pressure, better blood sugar control, healthier blood vessels, and less liver fat.",
       "authors": "",
       "published": "Aug 2026",
       "feedName": "ScienceDaily Nutrition",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260822015138.htm",
-      "image": "https://www.sciencedaily.com/images/1920/hand-holding-vitamin-d-pill-in-sunlight.webp",
-      "screen": "right"
-    },
-    {
-      "title": "Exercise may work better for keeping weight off than losing it",
-      "abstract": "Exercise may not be a powerful weight-loss tool on its own, but it appears to play a much bigger role in preventing lost weight from returning. By preserving muscle, supporting metabolism, improving fat burning, and regulating appetite and blood sugar, regular activity can make long-term weight maintenance easier.",
-      "authors": "",
-      "published": "Aug 2026",
-      "feedName": "ScienceDaily Nutrition",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260821012240.htm",
-      "image": "https://www.sciencedaily.com/images/1920/woman-weight-loss-flat-belly-oversized-jeans.webp",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260822015145.htm",
+      "image": "https://www.sciencedaily.com/images/1920/intestinal-bacteria-gut-microbiome.webp",
       "screen": "right"
     },
     {
@@ -819,196 +819,6 @@
       "researcher": {
         "name": "Rafi Steckler",
         "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=BOhLTM0AAAAJ"
-      }
-    },
-    {
-      "title": "Application of Clay–Polymer Nanocomposites for the Removal of Toxic Cyanobacteria and Other Phytoplankton from Water—A Laboratory Scale Study",
-      "abstract": "The increasing global frequency of harmful cyanobacterial blooms (CyanoHABs), driven by nutrient enrichment and climate change, poses a severe threat to aquatic ecosystems and public health. This study evaluates the effectiveness of novel clay–polymer nanocomposites (CPCs) that combine the charge-neutralizing capabilities of polydiallyldimethylammonium chloride (polyDADMAC) with the high clay mineral density (kaolinite and sepiolite) for rapid removal of toxic cyanobacteria from water. Laboratory experiments were performed using Microcystis aeruginosa, Aphanizomenon ovalisporum, and Chlorella sp., with treatment doses determined by particle charge detector (PCD) measurements to identify the “nominal dose” required for full charge neutralization. Results show that clay–polymer nanocomposites achieve over 95% removal of turbidity and chlorophyll in M. aeruginosa at doses significantly lower (15–20%) than the calculated nominal dose, likely due to specific physical bridging interactions with the cyanobacteria’s external exopolysaccharide fibers. In contrast, A. ovalisporum and Chlorella sp. required doses closer to full charge neutralization for optimal removal. Among the materials tested, kaolinite-based nanocomposites (DKG24) showed slightly superior, more stable performance than sepiolite-based nanocomposites. Notably, application at or above the nominal dose was associated with increased soluble microcystin levels, suggesting that excessive polymer concentrations may compromise cell integrity and lead to toxin leakage. These findings suggest that engineered nanocomposites …",
-      "authors": "G. Rytwo, Yehezkel Tsveher, Yehudit Viner-Mozzini et al.",
-      "published": "2026",
-      "venue": "Water",
-      "feedName": "Lab Research",
-      "citationCount": 0,
-      "recentCitations": 0,
-      "s2_paper_id": "7af58f71f8874d10a7169cf91b9ccbf4b7e37d3d",
-      "url": "https://doi.org/10.3390/w18111301",
-      "image": "",
-      "screen": "both",
-      "lab_paper": true,
-      "researcher": {
-        "name": "Giora Rytwo",
-        "photo": "media/photos/giora_rytwo.jpg"
-      }
-    },
-    {
-      "title": "New azoxystrobin clay carrier to control corn late wilt disease",
-      "abstract": "Corn late wilt disease (LWD), caused by the fungus Magnaporthiopsis maydis, poses a significant threat to corn production in highly impacted regions. Its increasing global relevance is exacerbated by climate change, which facilitates the pathogen’s spread and prevalence. This research supports efforts to broaden LWD management beyond resistant varieties, whose effectiveness can fail within years under high disease pressure. In this study, a novel approach involving the slow release of azoxystrobin from clay carriers was assessed. Two growth-room experiments demonstrated that at the disease’s latent stage (up to 20 days), seed treatment with a clay-azoxystrobin (clay-AS) formulation had minimal impact on early growth indices. However, by day 40, the sepiolite-based treatment increased plant shoot weight by 61%, although pathogen infection levels, monitored via qPCR, remained elevated. A subsequent full-season potted trial revealed significant benefits from applying sepiolite-AS and bentonite-AS formulations directly to the seedbed. At 42 days post-planting, these treatments markedly enhanced plant survival (191% for sepiolite-AS and 64% for bentonite-AS) and improved phenological development (175% and 67%, respectively) compared to unprotected controls, alongside a notable 95% reduction in root infection. By harvest (78 days), bentonite-AS emerged as particularly effective, increasing shoot biomass by 128% and ear yield by 135%. Bentonite-AS treatment reduced cob and shoot symptoms by 23% and 42%, respectively, and nearly eradicated pathogen levels. This research demonstrate…",
-      "authors": "Ariel Hadad, Elhanan Dimant, Peleg Hadari et al.",
-      "published": "2026",
-      "venue": "World Journal of Microbiology & Biotechnology",
-      "feedName": "Lab Research",
-      "citationCount": 0,
-      "recentCitations": 0,
-      "s2_paper_id": "ada425bd709368161c46391fc1acfdf514b40df5",
-      "url": "https://doi.org/10.1007/s11274-026-04876-3",
-      "image": "",
-      "screen": "both",
-      "lab_paper": true,
-      "researcher": {
-        "name": "Giora Rytwo",
-        "photo": "media/photos/giora_rytwo.jpg"
-      }
-    },
-    {
-      "title": "Clay-based azoxystrobin formulation enhances cotton protection against charcoal rot disease",
-      "abstract": "Cotton charcoal rot disease, caused by Macrophomina phaseolina, is a major threat to cotton production in Israel and globally, leading to severe yield loss due to post-flowering plant collapse. Current management relies heavily on chemical fungicides. However, rising environmental concerns and fungicide resistance underscore the need for sustainable alternatives. This study evaluated novel clay-based formulations for the controlled release of azoxystrobin (AS). The approach aims to protect cotton during the sensitive early growth stages when pathogen penetration and colonization occur. Two types of clay carriers—bentonite (montmorillonite) and sepiolite—were tested for their ability to deliver AS effectively. While seedlings grown in the greenhouse showed minimal visible symptoms at the disease latent stage, quantitative real-time PCR analysis indicated that both formulations effectively suppressed root infection, reducing M. phaseolina DNA levels by 81%. In a full-season open-enclosure trial, bentonite-AS treatment exhibited reduced efficacy, possibly due to phytotoxicity at the tested concentration. In contrast, the sepiolite-AS treatment increased flower bud number by 87% and reduced pathogen infection by up to 92% at 68 days post-sowing, although these effects were not statistically significant due to high variability. At harvest, sepiolite-AS and bentonite alone increased shoot dry weight per plant by 129% and 128%, respectively, and reduced pathogen DNA levels by 63% and 69%, respectively. Overall, although environmental variability led to statistical insignificance, …",
-      "authors": "O. Degani, Ariel Hadad, Eden Etedgi et al.",
-      "published": "2026",
-      "venue": "Journal of Cotton Research",
-      "feedName": "Lab Research",
-      "citationCount": 1,
-      "recentCitations": 0,
-      "s2_paper_id": "fd23d143d0541f11b7073d0a8365f72546a8247f",
-      "url": "https://doi.org/10.1186/s42397-025-00254-w",
-      "image": "",
-      "screen": "both",
-      "lab_paper": true,
-      "researcher": {
-        "name": "Giora Rytwo",
-        "photo": "media/photos/giora_rytwo.jpg"
-      }
-    },
-    {
-      "title": "Effect of Quinoa Protein Concentrate in Particulate and Fibrillar Forms on the Physico-Chemical Properties of Quinoa Starch Gels",
-      "abstract": "The current study investigates the interactions between quinoa protein—both in particulate (protein concentrate, QPC) and fibrillar (QPF) forms—and quinoa starch (QS) gels, and how these interactions influence the thermal, pasting, and rheological properties of the gels. Gels were made by adding three different concentrations of QPC or QPF to a 10% QS dispersion (10, 25, and 50% w/w of starch). DSC results suggested an enhancement of amylopectin thermal stability and an acceleration of retrogradation upon a cooling stage by the addition of quinoa protein. FTIR spectra indicated that QS and QPC/QPF mostly interacted through hydrogen bonds. According to rheological measurements, in contrast to the increased G′ due to the addition of QPC (50%), only a slight increase in G′ was observed due to the addition of QPF (50%). Notably, this study is the first to directly compare the effects of QPC and QPF on starch gel properties, revealing that QPC markedly enhances gel elasticity. These findings highlight the potential application of the optimized quinoa starch-protein-based gels as functional ingredients in plant-based meat analogues, where improved textural and nutritional attributes are critical.",
-      "authors": "Shir T Segev, Eden Eran-Nagar, G. Rytwo et al.",
-      "published": "2025",
-      "venue": "Food and Bioprocess Technology",
-      "feedName": "Lab Research",
-      "citationCount": 4,
-      "recentCitations": 0,
-      "s2_paper_id": "034d8c4f0c0f5607a4e6727360aa5d7287e60d5b",
-      "url": "https://doi.org/10.1007/s11947-025-03873-y",
-      "image": "",
-      "screen": "both",
-      "lab_paper": true,
-      "researcher": {
-        "name": "Giora Rytwo",
-        "photo": "media/photos/giora_rytwo.jpg"
-      }
-    },
-    {
-      "title": "Sepiolite–Chitosan–Acetic Acid Biocomposite Attenuates the Development of Obesity and Nonalcoholic Fatty Liver Disease in Mice Fed a High-Fat Diet",
-      "abstract": "Background; obesity and nonalcoholic fatty liver disease (NAFLD) reduce life expectancy; nonoperative interventions show poor results. Individually, chitosan (1% w/w), acetic acid (AA 0.3–6.5% w/w), and sepiolite clay (5% w/w) attenuate high-fat-diet-induced obesity (DIO) via reduced energy digestibility and increased energy expenditure. Objectives; therefore, we hypothesized that a chitosan–sepiolite biocomposite suspended in AA would attenuate DIO and NAFLD to a greater extent than AA alone via its more substantial adsorption of nonpolar molecules. Methods; we tested this dietary supplement in C57BL/6J mice fed a high-fat diet (HFD) compared to an unsupplemented HFD and an HFD supplemented with a bile acid sequestrant (cholestyramine) or standalone AA. Results; biocomposite supplementation reduced DIO gain by 60% and abolished hepatic liver accumulation, whereas standalone AA showed mild attenuation of DIO gain and did not prevent HFD-induced hepatic fat accumulation. The biocomposite intake was accompanied by a lower digestibility (−4 point %) counterbalanced by increased intake; hence, it did not affect energy absorption. Therefore, DIO attenuation was suggested to be related to higher energy expenditure, a phenomenon not found with AA alone, as supported by calculated energy expenditure using the energy balance method. Conclusions; these results support further investigation of the biocomposite’s efficacy in attenuating obesity and NAFLD, specifically when applied with a restricted diet. Future studies are needed to determine this biocomposite’s safety, mechanism of ac…",
-      "authors": "Dalia Niv, Eli Anavi, Laris Yaval et al.",
-      "published": "2024",
-      "venue": "Nutrients",
-      "feedName": "Lab Research",
-      "citationCount": 2,
-      "recentCitations": 0,
-      "s2_paper_id": "a396dab71d51378ae0b00294bef4881c7caec2d7",
-      "url": "https://doi.org/10.3390/nu16223958",
-      "image": "",
-      "screen": "both",
-      "lab_paper": true,
-      "researcher": {
-        "name": "Giora Rytwo",
-        "photo": "media/photos/giora_rytwo.jpg"
-      }
-    },
-    {
-      "title": "Eddy correlation measurements to visualize CO2 and water vapor concentrations and fluxes",
-      "abstract": "Eddy correlation measures gas exchange between canopy and the overlying atmosphere by evaluating the correlation between fluctuations in the gas-of-interest’s mixing ratio and the vertical wind velocity and considered the most accurate approach for measuring gas fluxes, mostly carbon dioxide and water vapor under ideal homogeneous conditions.  It has been used in micrometeorology for decades to quantify mass and energy transfer between urban, natural and agricultural ecosystems and the atmosphere. We assessed its application under various—homogeneous and non-homogeneous—conditions. Our study indicates that fluxes of CO2 and H2O correlate well with plants activity only when turbulent conditions are present, in open fields. At such conditions, direct measurements of concentration of those gases are not an accurate indicator for plants activity. On the other hand, in closed systems (e.g. greenhouses)- fluxes as measured by an eddy correlation system can't accurately be related to the state of the vegetation, but the fluctuations in the concentrations of CO2 and H2O directly correlate to the actual plants activity. Adapting conditions in greenhouses to limiting factors as temperature, increases CO2 sequestration by plants, and may increase productivity",
-      "authors": "G. Rytwo, Dafna Eliyahou",
-      "published": "2023",
-      "venue": "Journal of Agrometeorology",
-      "feedName": "Lab Research",
-      "citationCount": 2,
-      "recentCitations": 0,
-      "s2_paper_id": "0677d7c4aa05cca3560eabfba60499a227c5d799",
-      "url": "https://doi.org/10.54386/jam.v25i2.2103",
-      "image": "",
-      "screen": "both",
-      "lab_paper": true,
-      "researcher": {
-        "name": "Giora Rytwo",
-        "photo": "media/photos/giora_rytwo.jpg"
-      }
-    },
-    {
-      "title": "Colorimetric Quantification for Residual Poly-DADMAC in Water Treatment",
-      "abstract": "Poly-DADMAC (PD) is a commonly used organic polymer in water treatment, known for its effectiveness as a coagulant. However, its presence as a residue in water raises concerns related to membrane fouling and the potential formation of carcinogenic compounds. Therefore, fast and simple quantification is necessary to efficiently control and monitor the optimal dose of poly-DADMAC with minimal negative effects. This study introduces a new colorimetric quantification method for poly-DADMAC, based on complexation with a cationic dye (fast green-FG). The method was examined through varying conditions, which included different analytical and commercial poly-DADMAC formulations and concentrations. These experiments confirm its effectiveness in quantifying poly-DADMAC with a detection limit of 3.22 µg L−1 (0.02 µM based on monomers’ molecular weight), which is one order of magnitude lower than regulatory requirements (50 µg L−1). To validate the method, the effect of pH was examined, and implementation demonstrations were conducted on cyanobacteria and cowshed-polluted water samples. This research introduces a fast, cost-effective innovative method to accurately quantify poly-DADMAC, enhancing water treatment strategies for high-quality purification and water reuse",
-      "authors": "Ilil Levakov, I. Maor, Chen Barak et al.",
-      "published": "2023",
-      "venue": "Water",
-      "feedName": "Lab Research",
-      "citationCount": 1,
-      "recentCitations": 0,
-      "s2_paper_id": "1539062d4801a1184ae479df3a17b3db49ea8d17",
-      "url": "https://doi.org/10.20944/preprints202308.1663.v1",
-      "image": "",
-      "screen": "both",
-      "lab_paper": true,
-      "researcher": {
-        "name": "Giora Rytwo",
-        "photo": "media/photos/giora_rytwo.jpg"
-      }
-    },
-    {
-      "title": "Elementary Steps in Steady State Kinetic Model Approximation for the Homo-Heterogeneous Photocatalysis of Carbamazepine",
-      "abstract": "Elucidating physicochemical processes in the degradation of pollutants may optimize their removal from water sources. Although the photodegradation of carbamazepine (CBZ) in Advanced Oxidation Processes (AOPs) has been widely studied, there is no detailed report on the elementary steps of the kinetics. This study proposes a set of elementary steps for the AOP of CBZ, combining short-wave ultraviolet radiation (UVC), a homogeneous reagent (H2O2), and a heterogeneous catalyst (TiO2), which includes the excitation of both reagents/catalysts by UVC photons, the adsorption of CBZ by the excited TiO2, or its oxidation by hydroxyl radicals. Assuming the steady-state approximation on the intermediate products (excited TiO2, CBZ-excited TiO2 complex, and hydroxyl radicals) leads to rate laws for the degradation of CBZ, in which UVC radiation, TiO2, and H2O2 are pseudo-first-order at all concentrations or intensities and have no direct influence on CBZ pseudo-order, whereas CBZ shifts from pseudo-first-order at low concentrations to pseudo-zero-order at high concentrations. Several experiments to test the mechanism were conducted by varying CBZ, H2O2, and TiO2 concentrations and UVC radiation intensities. The measured results indeed fit the suggested mechanism for the first three, but the irradiation intensity appears to shift the CBZ influence from pseudo-second- to pseudo-first-order with increased intensities. Part of the elementary steps were changed to fit the results.",
-      "authors": "Yuval Shahar, G. Rytwo",
-      "published": "2023",
-      "venue": "Clean Technology",
-      "feedName": "Lab Research",
-      "citationCount": 0,
-      "recentCitations": 0,
-      "s2_paper_id": "15c76846e92aceb5369881927ee2bf9a91d232a6",
-      "url": "https://doi.org/10.3390/cleantechnol5030043",
-      "image": "",
-      "screen": "both",
-      "lab_paper": true,
-      "researcher": {
-        "name": "Giora Rytwo",
-        "photo": "media/photos/giora_rytwo.jpg"
-      }
-    },
-    {
-      "title": "Ice nucleation by smectites: the role of the edges",
-      "abstract": "Abstract. Smectites, like other clay minerals, have been shown to promote ice\nnucleation in the immersion freezing mode and likely contribute to the\npopulation of ice-nucleating particles (INPs) in the atmosphere. Smectites\nare layered aluminosilicates, which form platelets that depending on\ncomposition might swell or even delaminate in water by intercalation of\nwater molecules between their layers. They comprise among others\nmontmorillonites, hectorites, beidellites, and nontronites. In this study,\nwe investigate the ice nucleation (IN) activity of a variety of natural and\nsynthetic smectite samples with different exchangeable cations. The\nmontmorillonites STx-1b and SAz-1, the nontronite SWa-1, and the hectorite\nSHCa-1 are all rich in Ca2+ as the exchangeable cation; the bentonite\nMX-80 is rich in Na+ with a minor contribution of Ca2+, and the\nsynthetic Laponite is a pure Na+ smectite. The bentonite SAu-1 is rich\nin Mg2+ with a minor contribution of Na+, and the synthetic\ninterstratified mica-montmorillonite Barasym carries\nNH4+ as the exchangeable cation. In\nemulsion freezing experiments, all samples except Laponite exhibited one or\ntwo heterogeneous freezing peaks with onsets between 239 and 248 K and a\nquite large variation in IN activity yet without clear correlation with the\nexchangeable cation, with the type of smectite, or with mineralogical\nimpurities in the samples. To further investigate the role of the\nexchangeable cation, we performed ion exchange experiments. Replacing\nNH4+ with Ca2+ in Barasym reduced\nits IN activity to that of other Ca-rich montmorillonites…",
-      "authors": "Amit Kumar, Kristian Klumpp, Chen Barak et al.",
-      "published": "2023",
-      "venue": "Atmospheric Chemistry and Physics",
-      "feedName": "Lab Research",
-      "citationCount": 10,
-      "recentCitations": 0,
-      "s2_paper_id": "d2f58630c5b33511a9ff3fe822b2154de726bbcb",
-      "url": "https://doi.org/10.5194/acp-23-4881-2023",
-      "image": "",
-      "screen": "both",
-      "lab_paper": true,
-      "researcher": {
-        "name": "Giora Rytwo",
-        "photo": "media/photos/giora_rytwo.jpg"
-      }
-    },
-    {
-      "title": "Carbamazepine Removal by Clay-Based Materials Using Adsorption and Photodegradation",
-      "abstract": "Carbamazepine (CBZ) is one of the most common emerging contaminants released to the aquatic environment through domestic and pharmaceutical wastewater. Due to its high persistence through conventional degradation treatments, CBZ is considered a typical indicator for anthropogenic activities. This study tested the removal of CBZ through two different clay-based purification techniques: adsorption of relatively large concentrations (20–500 μmol L−1) and photocatalysis of lower concentrations (<20 μmol L−1). The sorption mechanism was examined by FTIR measurements, exchangeable cations released, and colloidal charge of the adsorbing clay materials. Photocatalysis was performed in batch experiments under various conditions. Despite the neutral charge of carbamazepine, the highest adsorption was observed on negatively charged montmorillonite-based clays. Desorption tests indicate that adsorbed CBZ is not released by washing. The adsorption/desorption processes were confirmed by ATR-FTIR analysis of the clay-CBZ particles. A combination of synthetic montmorillonite or hectorite with low H2O2 concentrations under UVC irradiation exhibits efficient homo-heterogeneous photodegradation at μM CBZ levels. The two techniques presented in this study suggest solutions for both industrial and municipal wastewater, possibly enabling water reuse.",
-      "authors": "Ilil Levakov, Yuval Shahar, G. Rytwo",
-      "published": "2022",
-      "venue": "Water",
-      "feedName": "Lab Research",
-      "citationCount": 7,
-      "recentCitations": 1,
-      "s2_paper_id": "ac6397222c96e268d9875d49caffce160835579a",
-      "url": "https://doi.org/10.3390/w14132047",
-      "image": "",
-      "screen": "both",
-      "lab_paper": true,
-      "researcher": {
-        "name": "Giora Rytwo",
-        "photo": "media/photos/giora_rytwo.jpg"
       }
     }
   ]

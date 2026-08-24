@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-24T08:37:52Z",
+  "updated": "2026-08-24T10:29:36Z",
   "items": [
     {
       "title": "The scale of change",
@@ -112,12 +112,12 @@
       "screen": "left"
     },
     {
-      "title": "From foods to sleep: Dietary γ-aminobutyric acid enrichment and evidence-based multi-pathway regulation of sleep health",
+      "title": "Recent advances in biomimetic fusion strategies for multi-source heterogeneous data in food detection and safety assessment: A critical review",
       "abstract": "",
-      "authors": "Shiwen Li, Xinzhuo Qu, Yu Xi et al.",
+      "authors": "Zhijun Chen, Jingwen Yang, Kang Du et al.",
       "published": "Nov 2026",
       "feedName": "Trends in Food Sci & Tech",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426004991?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426004875?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -402,42 +402,42 @@
       "screen": "right"
     },
     {
-      "title": "Nutritional supplements for migraine prevention: evaluating evidence sufficiency and effect modifiers through network meta-analysis, trial sequential analysis, and meta-regression",
-      "abstract": "BackgroundThis network meta-analysis (NMA) integrated trial sequential analysis (TSA) limited to eligible direct pairwise comparisons and network meta-regression to compare efficacy and safety of nutritional supplements for migraine prevention, assess evidence maturity and identify potential effect modifiers.MethodsWe retrieved randomized controlled trials (RCTs) of nutritional supplements for adult migraineurs from four databases up to January 2025. Primary outcomes were migraine frequency, duration and severity; adverse events were the secondary outcome. Frequentist random-effects NMA calculated mean differences (MD) for continuous indicators and odds ratios (OR) for adverse events with 95% confidence intervals (CIs). Treatment rankings were assessed using rank probabilities and the surface under the cumulative ranking curve but were interpreted as exploratory. Inconsistency was tested where network structure allowed valid evaluation. Network meta-regression detected between-study heterogeneity, TSA was restricted to eligible direct pairwise comparisons and the CINeMA framework evaluated overall evidence certainty.ResultsFourteen RCTs (791 participants) formed a six-node network: vitamins, magnesium, coenzyme Q10, probiotics, vitamin-probiotic combinations and placebo. For migraine frequency, probiotics produced the largest frequency reduction vs. placebo (MD = −2.60 attacks/month, 95% CI − 3.96 to −1.20; 72% top-rank probability), followed by vitamin-probiotics (MD = −1.92, 95% CI: −3.12 to −0.73), coenzyme Q10 (MD = −1.91, 95% CI: −2.51 to −1.00) and vitamins (MD = −1.8…",
-      "authors": "Jingjing Peng, Ling Zhou, Yuxian Chen et al.",
-      "published": "Aug 2026",
-      "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1911863",
-      "image": "",
-      "screen": "right"
-    },
-    {
-      "title": "A multidimensional muscle-fat-metabolism model for severity stratification in COPD: a multi-center cross-sectional study",
-      "abstract": "BackgroundChronic obstructive pulmonary disease (COPD) is a systemic disorder characterized by significant body composition alterations, including muscle loss (sarcopenia) and abnormal fat distribution. These changes contribute to a high metabolic burden, with increased resting energy expenditure and systemic inflammation accelerating disease progression. Traditional assessments like body mass index (BMI) fail to capture these complex interactions. This study aimed to evaluate a multidimensional “muscle-fat-metabolism” framework for stratifying COPD risk and severity.MethodsIn this multi-center, cross-sectional study, 377 participants (213 stable COPD patients, 164 healthy controls) underwent bioelectrical impedance analysis (BIA) to assess body composition parameters, including fat-free mass index (FFMI), appendicular skeletal muscle mass index (ASMI), visceral fat area (VFA), and basal metabolic rate (BMR) and other indicators. Spirometry was used to confirm COPD diagnosis and grade severity according to GOLD criteria. Statistical analyses included between-group comparisons, correlation analyses, and multivariate logistic regression to develop predictive models.ResultsCOPD patients exhibited significantly lower skeletal muscle mass (FFMI, ASMI) and higher systemic fat levels (FM, BFP) compared with controls. Logistic regression analysis suggested that FFMI and ASMI may be protective against COPD risk and severity, whereas FM and BFP may be risk factors for it. Appendicular and truncal fat decreased progressively with advancing GOLD stage. The integrated muscle-fat-metabol…",
-      "authors": "Qianlian Xu, Anjie Yao, Hengxing Sun et al.",
-      "published": "Aug 2026",
-      "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1835742",
-      "image": "",
-      "screen": "right"
-    },
-    {
-      "title": "Development and multi-cohort validation of a sarcopenia-inflammation index for predicting all-cause mortality in patients with chronic kidney disease",
-      "abstract": "PurposeSarcopenia and chronic systemic inflammation frequently co-occur in chronic kidney disease (CKD), collectively driving poor prognosis. Yet current clinical practice lacks an integrated metric to quantify their combined prognostic impact. This study aimed to develop and validate a novel Sarcopenia-Inflammation (SI) Index for predicting all-cause mortality in CKD patients.MethodsThis prospective multi-cohort study utilized the C-OPTION cohort (N = 539) as both the discovery and primary validation dataset. To assess cross-population generalizability across distinct ethnic groups and healthcare settings, the SI Index was further evaluated in two large population-representative datasets: NHANES (N = 1,731) and CHARLS (N = 2,625). The SI Index was constructed as a weighted linear combination of sarcopenia status and inflammatory markers derived from multivariate Cox regression coefficients. Predictive performance was evaluated using time-dependent ROC curves, C-index, and AIC/BIC. Incremental prognostic value, 10-fold cross-validation, and subgroup analyses were performed to confirm model robustness.ResultsAmong 4,895 CKD patients, multivariate Cox regression identified sarcopenia (HR: 4.582–5.947) and high inflammatory status (HR: 1.43–2.41) as independent mortality determinants with additive effects (interaction p > 0.05). The SI Index was established as: 1.522 × Sarcopenia + 1.300 × Abnormal Muscle Traits + 0.880 × High Inflammation. External validation demonstrated superior prognostic discrimination over single-dimension markers, elevating the C-index from 0.623–0.684 …",
-      "authors": "Xiaolong Wang, Jian Yang, Yanjun Liang et al.",
-      "published": "Aug 2026",
-      "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1852039",
-      "image": "",
-      "screen": "right"
-    },
-    {
       "title": "Low vitamin D status and long-term risk of incident fibromyalgia: a propensity score–matched cohort study",
       "abstract": "BackgroundCross-sectional studies have reported lower serum vitamin D concentrations in patients with fibromyalgia, but whether vitamin D deficiency (VDD) precedes fibromyalgia onset remains uncertain. We conducted a large retrospective cohort study to evaluate the association between VDD and the long-term risk of incident fibromyalgia.MethodsWithin the TriNetX Network, we identified adults (≥18 years of age) whose serum 25-hydroxyvitamin D was below 20 ng/mL and paired them 1:1 with controls having levels ≥30 ng/mL through propensity score matching. A 1-year landmark period was applied to reduce reverse causation, and outcomes were assessed within an analytic window of up to 10 years. The primary outcome was incident fibromyalgia. The secondary outcome was chronic pain–related diagnoses. All-cause mortality was examined separately as a contextual outcome reflecting overall prognostic burden and the competing risk of death. Sensitivity, sex- and age-stratified subgroup, and severity and chronicity analyses were performed, including severe deficiency defined as 25(OH)D < 10 ng/mL and chronic deficiency defined as two serum 25-hydroxyvitamin D measurements < 20 ng/mL recorded within 1 year.ResultsAfter matching, 561,418 patients were included in both cohorts. VDD conferred an elevated risk of incident fibromyalgia (hazard ratio [HR], 1.63; 95% confidence interval [CI], 1.56–1.71; p < 0.001) and chronic pain–related diagnosis (HR, 1.30; 95% CI, 1.28–1.31; p < 0.001). All-cause mortality was also higher in the VDD cohort. The association with fibromyalgia was consistent across …",
       "authors": "Kuo-Chuan Hung, Li-Chen Chang, Kuei-Fen Wang et al.",
       "published": "Aug 2026",
       "feedName": "Frontiers Nutrition",
       "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1889243",
+      "image": "",
+      "screen": "right"
+    },
+    {
+      "title": "A DGA-aligned pulse-protein diet may support iron homeostasis in older adults: an exploratory analysis of the PRODMED1 trial",
+      "abstract": "Background/objectivesIron homeostasis is essential for healthy aging, yet whether Dietary Guidelines for Americans (DGA)–aligned diets support iron status in older adults remains unclear, particularly when iron is provided exclusively as non-heme iron. This exploratory secondary analysis of PRODMED1 examined iron-related outcomes, and nutrient-responsive signals involving methionine and FGF21 in older adults consuming DGA-aligned meat- and pulse-protein diets.MethodsIn an 18-week randomized crossover controlled-feeding trial, adults aged ≥60 years (n = 47) consumed a meat-protein diet (MPD) and a pulse-protein diet (PPD) for 8 weeks each, separated by a ≥ 2-week washout. Diets were matched for total iron but differed in heme iron exposure and sulfur amino acid content. Exploratory correlation analyses were first used to identify nutrient–iron biomarker relationships, followed by multivariable predictive analyses (MVPA) evaluating methionine and FGF21 as nutrient-responsive predictors of iron-related outcomes.ResultsPPD provided iron exclusively as non-heme iron and had lower methionine content than MPD. MPD increased serum methionine, cystine, and homocysteine (all p ≤ 0.004), whereas FGF21 increased significantly only after PPD (p = 0.038). Exploratory correlations identified diet-specific nutrient–iron biomarker relationships, supporting the selection of methionine and FGF21 for MVPA. In MVPA models, ferritin was the only iron-related outcome associated with nutrient-responsive predictors; methionine (β = +15.2 ± 3.6, p ≤ 0.0001) and FGF21 (β = +26.2 ± 10.5, p = 0.012) we…",
+      "authors": "Bruna O. de Vargas, Jessica L. Freeling, Saba Vaezi et al.",
+      "published": "Aug 2026",
+      "feedName": "Frontiers Nutrition",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1889521",
+      "image": "",
+      "screen": "right"
+    },
+    {
+      "title": "Interactive associations of daily music engagement and nutritional behavior with psychological performance in competitive athletes: a 14-day naturalistic diary study",
+      "abstract": "BackgroundMusic engagement and nutrition are each linked to athletes’ mental states, yet their combined, day-to-day influence under real training conditions remains poorly understood.ObjectiveTo determine whether daily music engagement and nutritional behavior are independently and interactively associated with psychological performance in competitive athletes.MethodsIn a 14-day naturalistic digital diary study, 180 competitive athletes (≥18 years) from university teams and sports clubs reported daily music engagement, nutritional behavior, training load, sleep quality, and psychological performance. The primary analyses used multilevel mixed-effects models to separate within-person from between-person variation and to test the music × nutrition interaction. The final reported dataset comprised 2,184 athlete-day observations from 156 athletes; the handling of excluded participants and missing records is described in the Methods.ResultsWithin-person increases in music engagement (β = 0.19, p < 0.001) and nutritional behavior (β = 0.24, p < 0.001) were each independently associated with higher same-day psychological performance. The music × nutrition interaction was positive (β = 0.11, p = 0.003), indicating that the association between music engagement and psychological performance was stronger on days characterized by more favorable nutritional behavior.ConclusionMore favorable daily music engagement and nutritional behavior were jointly associated with greater psychological readiness. Because the design was observational and concurrent, the findings should be interpreted a…",
+      "authors": "Dekun Peng",
+      "published": "Aug 2026",
+      "feedName": "Frontiers Nutrition",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1921086",
+      "image": "",
+      "screen": "right"
+    },
+    {
+      "title": "The mediating role of psychological factors in the relationship between body image dissatisfaction and eating disorders: a cross-sectional study in adults",
+      "abstract": "Background/objectivesBody image disturbance is a well-established risk factor for eating disorders; however, the psychological mechanisms through which it exerts its influence remain insufficiently understood. This study examined the mediating roles of guilt, shame, anxiety, depression, and distress in the relationship between body image disturbance and eating disorder behaviors in adults.MethodsThis cross-sectional study included 1,576 adults aged 19–64 years from Elazığ province, Turkey. Participants completed the Body Image Disturbance Questionnaire (BIDQ), Eating Disorder Examination Questionnaire short form (EDE-Q-13), Guilt and Shame Proneness Scale (GASP), and Depression Anxiety Stress Scale-21 (DASS-21). Hierarchical regression and path analyses were conducted to identify predictors and mediators of eating disorder symptoms, with gender, location, and BMI as covariates.ResultsBody image disturbance was the strongest independent predictor of eating disorder symptoms, explaining 24% of the variance (β = 0.89). Higher symptom scores were significantly associated with elevated depression, anxiety, and distress levels, with moderate-to-large effect sizes. Path analyses demonstrated that guilt oriented toward negative behavioral evaluation (Guilt-NBE), shame-related withdrawal, and depression partially mediated the BIDQ–EDE-Q relationship, with the depression model accounting for 28.3% of total variance. Anxiety similarly mediated this relationship (28.3%), whereas distress explained a slightly lower proportion (27.3%).ConclusionBody image disturbance was statistically as…",
+      "authors": "Nazlı Nur Aslan Çin, Murat Açık, Lina Begdache",
+      "published": "Aug 2026",
+      "feedName": "Frontiers Nutrition",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1881290",
       "image": "",
       "screen": "right"
     },

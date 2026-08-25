@@ -1,6 +1,16 @@
 {
-  "updated": "2026-08-25T20:19:40Z",
+  "updated": "2026-08-25T20:45:48Z",
   "items": [
+    {
+      "title": "Power representation in food systems",
+      "abstract": "Systems modelling and power mapping illuminate different dimensions of power in food systems but are rarely used to interrogate one another. This Comment proposes recursive representational revision, a methodological approach that organizes iterative engagement between the two so that each becomes a resource for revising assumptions about power embedded in the other.",
+      "authors": "Michael Carolan",
+      "published": "Aug 2026",
+      "feedName": "Nature Food",
+      "url": "https://www.nature.com/articles/s43016-026-01423-z",
+      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs43016-026-01423-z/MediaObjects/43016_2026_1423_Fig1_HTML.png",
+      "screen": "left"
+    },
     {
       "title": "The scale of change",
       "abstract": "",
@@ -29,16 +39,6 @@
       "feedName": "Nature Food",
       "url": "https://www.nature.com/articles/s43016-026-01379-0",
       "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs43016-026-01379-0/MediaObjects/43016_2026_1379_Fig1_HTML.png",
-      "screen": "left"
-    },
-    {
-      "title": "Responsible use of artificial intelligence and machine learning for food security early warning systems",
-      "abstract": "Artificial intelligence and machine learning are already enhancing food security early warning systems by improving data collection, event monitoring and forecasting. However, to avoid costly errors, artificial intelligence and machine learning should be applied selectively alongside expert oversight, robust governance and transparent practices to maintain accountable and effective humanitarian decision-making.",
-      "authors": "Weston Anderson, Inbal Becker-Reshef, Nicholas Bodanac et al.",
-      "published": "Aug 2026",
-      "feedName": "Nature Food",
-      "url": "https://www.nature.com/articles/s43016-026-01400-6",
-      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs43016-026-01400-6/MediaObjects/43016_2026_1400_Fig1_HTML.png",
       "screen": "left"
     },
     {
@@ -279,6 +279,46 @@
       "feedName": "Food Microbiology",
       "url": "https://www.sciencedirect.com/science/article/pii/S0740002026002327?dgcid=rss_sd_all",
       "image": "",
+      "screen": "left"
+    },
+    {
+      "title": "Composite multilayer nanomaterials for photothermal sterilization of pathogenic bacteria in milk and water",
+      "abstract": "",
+      "authors": "Xuening Shi, Huiqian Zhang, Jingying Zheng et al.",
+      "published": "Aug 2026",
+      "feedName": "npj Science of Food",
+      "url": "https://www.nature.com/articles/s41538-026-01104-y",
+      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01104-y/MediaObjects/41538_2026_1104_Fig1_HTML.png",
+      "screen": "left"
+    },
+    {
+      "title": "From metabolomics dark matter to bioactivity: a computational framework for prioritizing food-derived bioactive compounds",
+      "abstract": "",
+      "authors": "Pranav Gupta, Michael Gunning, Selena Ahmed et al.",
+      "published": "Aug 2026",
+      "feedName": "npj Science of Food",
+      "url": "https://www.nature.com/articles/s41538-026-01066-1",
+      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01066-1/MediaObjects/41538_2026_1066_Fig1_HTML.png",
+      "screen": "left"
+    },
+    {
+      "title": "Integrated food safety indicator for proactive evaluation of foods - application to plant-based protein foods",
+      "abstract": "",
+      "authors": "M. Milana, E. D. van Asselt, H. J. van der Fels-Klerx",
+      "published": "Aug 2026",
+      "feedName": "npj Science of Food",
+      "url": "https://www.nature.com/articles/s41538-026-01098-7",
+      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01098-7/MediaObjects/41538_2026_1098_Fig1_HTML.png",
+      "screen": "left"
+    },
+    {
+      "title": "Integrated proteomics and metabolomics reveal how functional protein supplementation enhances salt tolerance in Zygosaccharomyces rouxii",
+      "abstract": "",
+      "authors": "Dingkang Wang, Yu Jiang, Dan Li et al.",
+      "published": "Aug 2026",
+      "feedName": "npj Science of Food",
+      "url": "https://www.nature.com/articles/s41538-026-00976-4",
+      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-00976-4/MediaObjects/41538_2026_976_Fig1_HTML.png",
       "screen": "left"
     },
     {

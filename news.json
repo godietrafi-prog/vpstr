@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T12:30:35Z",
+  "updated": "2026-08-25T14:35:56Z",
   "items": [
     {
       "title": "The scale of change",
@@ -112,12 +112,12 @@
       "screen": "left"
     },
     {
-      "title": "Enhancement of calcium bioavailability in dairy-plant hybrid foods: Formulation, physical, and biological approaches",
+      "title": "Recent advances in biomimetic fusion strategies for multi-source heterogeneous data in food detection and safety assessment: A critical review",
       "abstract": "",
-      "authors": "Bhashika Sithijanee Senevirathne, Xiaobin Ma, Aylin W. Sahin et al.",
+      "authors": "Zhijun Chen, Jingwen Yang, Kang Du et al.",
       "published": "Nov 2026",
       "feedName": "Trends in Food Sci & Tech",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426004899?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426004875?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -242,6 +242,26 @@
       "screen": "left"
     },
     {
+      "title": "Antifungal mechanisms of volatile organic compounds and lactic acid produced by Lactiplantibacillus pentosus and their biocontrol application in fresh corn against Fusarium graminearum",
+      "abstract": "",
+      "authors": "Yuhuan Zhang, Jiang Li, Ye Qiu et al.",
+      "published": "Jan 2027",
+      "feedName": "Food Microbiology",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0740002026002431?dgcid=rss_sd_all",
+      "image": "",
+      "screen": "left"
+    },
+    {
+      "title": "Multi-omics integration deciphered microbial and metabolite dynamics during flavor development of probiotic-fermented Gastrodia elata Blume",
+      "abstract": "",
+      "authors": "Chaoqi Zhang, Wenhao Liu, Xiaocui Meng et al.",
+      "published": "Jan 2027",
+      "feedName": "Food Microbiology",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0740002026002339?dgcid=rss_sd_all",
+      "image": "",
+      "screen": "left"
+    },
+    {
       "title": "Correlation between microbial communities, metabolites, and bioactivities in fermented mare's milk revealed by metagenomics and metabolomics",
       "abstract": "",
       "authors": "Xiaoxiao Huang, Rongrong Luo, Yanrong Wang et al.",
@@ -258,26 +278,6 @@
       "published": "Jan 2027",
       "feedName": "Food Microbiology",
       "url": "https://www.sciencedirect.com/science/article/pii/S0740002026002327?dgcid=rss_sd_all",
-      "image": "",
-      "screen": "left"
-    },
-    {
-      "title": "CRISPR-Cas9 mediated adiA knockout in Hafnia paralvei : Implications for agmatine production and acid stress survival in a fermented dairy matrix",
-      "abstract": "",
-      "authors": "Angel Casado, Sandra M. Wellner, Alejandro Quirós et al.",
-      "published": "Jan 2027",
-      "feedName": "Food Microbiology",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0740002026002340?dgcid=rss_sd_all",
-      "image": "",
-      "screen": "left"
-    },
-    {
-      "title": "Synergistic effects of binary probiotics and oat β-glucan on brown yogurt quality: Physicochemical, flavor, sensory, and metabolomic evaluation",
-      "abstract": "",
-      "authors": "Zihan Wang, Xu Zhou, Chen Wang et al.",
-      "published": "Jan 2027",
-      "feedName": "Food Microbiology",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0740002026002285?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },

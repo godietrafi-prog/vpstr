@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T21:02:21Z",
+  "updated": "2026-08-25T22:17:30Z",
   "items": [
     {
       "title": "Power representation in food systems",
@@ -362,6 +362,16 @@
       "screen": "left"
     },
     {
+      "title": "3D atomic imaging reveals a new pathway to crystal formation",
+      "abstract": "The most common scientific approach for thinking about how condensation, freezing and other phase transitions begin is based in classical nucleation theory, which was developed about a century ago. Thousands of experiments have supported a key equation describing how initial ordered seeds, called nuclei, form within disordered matter.",
+      "authors": "",
+      "published": "Aug 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-08-3d-atomic-imaging-reveals-pathway.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/update-the-textbooks-u.jpg",
+      "screen": "right"
+    },
+    {
       "title": "Blood-clotting protein may be SARS-CoV-2's hidden accomplice, helping it hide from antibodies and reach blood vessels",
       "abstract": "Fibrinogen, the abundant plasma protein best known for forming blood clots, may play a second and far less benign role during SARS-CoV-2 infection: acting as a molecular bridge that simultaneously hides the virus from neutralizing antibodies and delivers it to the cells lining blood vessels.",
       "authors": "",
@@ -389,16 +399,6 @@
       "feedName": "Phys.org Analytics",
       "url": "https://phys.org/news/2026-08-metal-ceramics-ai-approach-mechanical.html",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/metal-ceramics-under-a.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "What happens inside a wildfire? A Ph.D. student is finding out",
-      "abstract": "What happens during a wildfire? The short answer is: much more than we know. As wildfires burn through trees, grasses and other vegetation, heat from the flames sets off thousands of chemical reactions at once. Molecules break apart, recombine and transform into new compounds, releasing gases, soot and other carbon-rich particles into the air.",
-      "authors": "",
-      "published": "Aug 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-08-wildfire-phd-student.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/what-happens-inside-a.jpg",
       "screen": "right"
     },
     {

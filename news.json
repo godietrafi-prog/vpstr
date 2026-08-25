@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T16:26:14Z",
+  "updated": "2026-08-25T18:26:38Z",
   "items": [
     {
       "title": "The scale of change",
@@ -152,12 +152,12 @@
       "screen": "left"
     },
     {
-      "title": "Oral physiological drivers of bolus formation and polarity-dependent aroma release in cheese: Effects of bite force and saliva flow in the bio-inspired oral mastication system (iBOMS-III)",
+      "title": "Health anxiety and cross-border functional food purchase decisions: The roles of perceived information overload, cross-border trust, and country-of-origin image",
       "abstract": "",
-      "authors": "Yuanhao Xu, Boya Lv, Peng Wu et al.",
+      "authors": "Wenxin Wang, Linghua Zhang",
       "published": "Jan 2027",
       "feedName": "Food Quality & Preference",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0950329326002375?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0950329326002272?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -242,6 +242,26 @@
       "screen": "left"
     },
     {
+      "title": "Antifungal mechanisms of volatile organic compounds and lactic acid produced by Lactiplantibacillus pentosus and their biocontrol application in fresh corn against Fusarium graminearum",
+      "abstract": "",
+      "authors": "Yuhuan Zhang, Jiang Li, Ye Qiu et al.",
+      "published": "Jan 2027",
+      "feedName": "Food Microbiology",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0740002026002431?dgcid=rss_sd_all",
+      "image": "",
+      "screen": "left"
+    },
+    {
+      "title": "Multi-omics integration deciphered microbial and metabolite dynamics during flavor development of probiotic-fermented Gastrodia elata Blume",
+      "abstract": "",
+      "authors": "Chaoqi Zhang, Wenhao Liu, Xiaocui Meng et al.",
+      "published": "Jan 2027",
+      "feedName": "Food Microbiology",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0740002026002339?dgcid=rss_sd_all",
+      "image": "",
+      "screen": "left"
+    },
+    {
       "title": "Correlation between microbial communities, metabolites, and bioactivities in fermented mare's milk revealed by metagenomics and metabolomics",
       "abstract": "",
       "authors": "Xiaoxiao Huang, Rongrong Luo, Yanrong Wang et al.",
@@ -258,26 +278,6 @@
       "published": "Jan 2027",
       "feedName": "Food Microbiology",
       "url": "https://www.sciencedirect.com/science/article/pii/S0740002026002327?dgcid=rss_sd_all",
-      "image": "",
-      "screen": "left"
-    },
-    {
-      "title": "CRISPR-Cas9 mediated adiA knockout in Hafnia paralvei : Implications for agmatine production and acid stress survival in a fermented dairy matrix",
-      "abstract": "",
-      "authors": "Angel Casado, Sandra M. Wellner, Alejandro Quirós et al.",
-      "published": "Jan 2027",
-      "feedName": "Food Microbiology",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0740002026002340?dgcid=rss_sd_all",
-      "image": "",
-      "screen": "left"
-    },
-    {
-      "title": "Synergistic effects of binary probiotics and oat β-glucan on brown yogurt quality: Physicochemical, flavor, sensory, and metabolomic evaluation",
-      "abstract": "",
-      "authors": "Zihan Wang, Xu Zhou, Chen Wang et al.",
-      "published": "Jan 2027",
-      "feedName": "Food Microbiology",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0740002026002285?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -402,22 +402,32 @@
       "screen": "right"
     },
     {
-      "title": "Comparative efficacy of dietary interventions and enteral nutrition in adults with ulcerative colitis: a network meta-analysis",
-      "abstract": "ObjectiveTo compare the effects of dietary and enteral nutrition interventions on clinical effectiveness, albumin, C reactive protein, and quality of life in adults with ulcerative colitis.MethodsPubMed, Web of Science, Embase, CNKI, SinoMed, and Wanfang were searched from inception to January 2026. Randomized controlled trials evaluating dietary or enteral nutrition interventions in adults with ulcerative colitis were included. Bayesian network meta analysis was performed using odds ratios or mean differences with 95% credible intervals. Risk of bias and confidence in the evidence were assessed using RoB 2 and CINeMA.ResultsFourteen trials involving 1,039 participants and 10 interventions were included. Enteral nutrition was associated with greater clinical effectiveness than a low residue diet (OR 4.80, 95% CrI 1.21–23.52), and the finding remained consistent in sensitivity analyses. Compared with a low residue diet, enteral nutrition, an IgG guided exclusion diet, a low-FODMAP diet, and a regular diet were associated with higher albumin levels. No statistically significant differences were found for quality of life or C-reactive protein. Confidence in all network estimates was low or very low.ConclusionEnteral nutrition may improve clinical effectiveness compared with a low residue diet, while several interventions may increase albumin levels. However, the limited evidence precludes firm conclusions. Further large and rigorously designed randomized controlled trials are required.Systematic review registrationhttps://www.crd.york.ac.uk/PROSPERO/view/CRD420251076943.",
-      "authors": "Tingting Wang, Ling Ji, Chunyan Sun et al.",
+      "title": "Association between prognostic nutritional index and 90-day readmission in patients with acute exacerbation of chronic obstructive pulmonary disease: a multicenter study",
+      "abstract": "BackgroundChronic obstructive pulmonary disease (COPD) is marked by chronic airway inflammation and obstructive ventilation dysfunction. The prognostic nutritional index (PNI), an indicator for evaluating nutritional and immune status with confirmed prognostic value in most diseases, has an unclear association with short-term acute re-exacerbation of COPD. This study thus investigated the correlation between PNI levels and 90-day acute re-exacerbation in COPD patients.MethodsA cohort analysis was conducted on AECOPD patients, who were grouped by PNI tertiles. The primary outcome was 90-day readmission for acute re-exacerbation. Cox proportional hazards regression, Kaplan–Meier survival curves (Log-rank test), restricted cubic spline plots and subgroup analysis were applied for statistical assessment and conclusion verification.ResultsA total of 112 patients had acute re-exacerbation. Fully adjusted multivariate Cox regression identified PNI as a protective factor (HR = 0.914, 95% CI: 0.877 ~ 0.952, p < 0.001). Restricted cubic spline analysis confirmed a linear dose–response between PNI and 90-day readmission risk (overall p = 0.0002, non-linear p = 0.737), with an inflection point at PNI = 43.05. The cumulative incidence of readmission showed a significant difference across PNI tertile groups (Log-rank p = 0.003). Subgroup analysis revealed consistent protective trends across all subgroups, with no significant interaction effects detected (all interaction p > 0.05).ConclusionPNI is an independent protective factor for short-term readmission in AECOPD patients, with a signi…",
+      "authors": "Yong Jiang, Hongmei Liu, Bicui Liu",
       "published": "Aug 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1886706",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1835781",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Alginate oligosaccharides attenuate obesity-associated kidney injury through modulation of the intestinal environment with renoprotection transferable by small intestinal contents",
-      "abstract": "BackgroundHigh-fat diet (HFD)-induced obesity is closely associated with metabolic imbalance and kidney injury. Alginate oligosaccharides (AOS) are considered promising dietary bioactive compounds; however, whether they protect against obesity-associated renal damage has not been fully clarified. In this study, we investigated whether AOS ameliorates renal injury in HFD-fed mice and further used transplantation of small intestinal contents to explore the possible involvement of gut-derived factors.MethodsAfter AOS treatment, metabolic parameters, renal function, kidney histopathology, and related pathological alterations were evaluated. For the transplantation experiment, small intestinal contents collected from control or AOS-treated donor mice were administered to HFD-fed recipient mice, after which renal and metabolic phenotypes were assessed.ResultsAOS improved HFD-induced metabolic disorders and alleviated renal injury. Mice treated with AOS showed lower serum blood urea nitrogen and creatinine levels, reduced renal lipid accumulation, and attenuated inflammatory and oxidative stress-related changes. Notably, recipient mice receiving small intestinal contents from AOS-treated donors also exhibited partial improvement in these abnormalities, whereas contents from control donors showed weaker or less consistent effects. These findings suggest that AOS-associated alterations in small intestinal contents may contribute to the observed renoprotective effects.ConclusionAOS attenuated obesity-associated renal injury in HFD-fed mice, and this effect was at least partially tran…",
-      "authors": "Zhijie Song, Kaiyuan Yang, Yuqing Cao et al.",
+      "title": "Association of the cholesterol-high-density lipoprotein-glucose index with coronary atherosclerotic burden in patients with coronary artery disease",
+      "abstract": "BackgroundThe cholesterol-high-density lipoprotein-glucose (CHG) index is a novel composite metabolic marker, but its association with coronary atherosclerotic burden in patients with coronary artery disease (CAD) remains unclear. This study aimed to investigate the association between the CHG index and the Gensini score in patients with CAD.MethodsWe included patients with CAD admitted between January 2024 and January 2025. Multivariable linear regression and restricted cubic spline (RCS) analyses were performed to evaluate the association and dose–response relationship between the CHG index and log-transformed (Gensini score + 1). Subgroup and sensitivity analyses assessed the robustness of the findings. Receiver operating characteristic (ROC) curve analysis was used to evaluate discriminative ability for identifying high coronary atherosclerotic burden. Net reclassification improvement (NRI), integrated discrimination improvement (IDI), and decision curve analysis (DCA) were used to assess the incremental value of the CHG index.ResultsA total of 758 participants were included. In the fully adjusted model, each 1-SD increase in the CHG index was associated with a 0.121-unit increase in log-transformed (Gensini score + 1) (β = 0.121, 95% CI, 0.036–0.205, p = 0.005). RCS analysis further indicated an approximately linear dose–response relationship. Quartile-based analyses showed an overall positive gradient. The association was directionally consistent across subgroups, with no significant interactions, despite not reaching statistical significance in some strata. Sensitivi…",
+      "authors": "Jiayuan Zhang, Hongxin Dong, Shengyi Lei et al.",
       "published": "Aug 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1915255",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1906236",
+      "image": "",
+      "screen": "right"
+    },
+    {
+      "title": "Effects of probiotics and synbiotics on liver enzymes, glucose and lipid metabolism, and inflammatory markers in patients with metabolic dysfunction-associated steatotic liver disease: a systematic review and meta-analysis",
+      "abstract": "ObjectiveThe potential of probiotics and synbiotics as a targeted microbiome intervention for metabolic dysfunction-associated steatotic liver disease (MASLD/NAFLD) has garnered significant attention; however, their clinical efficacy exhibits substantial heterogeneity. This study aimed to systematically evaluate the clinical efficacy of adjunctive probiotic and synbiotic therapy in MASLD/NAFLD and explore the sources of this heterogeneity.MethodsA systematic search was conducted across PubMed, Web of Science, Embase, and The Cochrane Library for randomized controlled trials (RCTs) published up to June 2026. RevMan 5.3 and Stata 17.0 were utilized to pool effect sizes [mean difference (MD)/standardized mean difference (SMD)]. Subgroup analyses and the GRADE system were employed to investigate heterogeneity and assess the quality of evidence.ResultsA total of 30 RCT publications encompassing 1,516 unique patients were included. The meta-analysis demonstrated that probiotics and synbiotics significantly mitigated liver injury (ALT, AST) and systemic inflammation (TNF-α), while improving specific metabolic parameters (FPG, TC, HDL-C) (p < 0.05). Although the overall effects on triglycerides (TG) and insulin resistance (HOMA-IR) were not statistically significant, subgroup analyses revealed more pronounced benefits in glucolipid metabolism among younger populations ( < 50 years), Asian cohorts, and those receiving short-to-medium-term interventions ( < 24 weeks). Furthermore, insulin resistance was significantly ameliorated in non-diabetic MASLD/NAFLD patients.ConclusionAs an ad…",
+      "authors": "Ying Jiang, Yaru Shi, Jianzhong Cao",
+      "published": "Aug 2026",
+      "feedName": "Frontiers Nutrition",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1940415",
       "image": "",
       "screen": "right"
     },
@@ -428,16 +438,6 @@
       "published": "Aug 2026",
       "feedName": "Frontiers Nutrition",
       "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1892302",
-      "image": "",
-      "screen": "right"
-    },
-    {
-      "title": "Association between prognostic nutritional index and 90-day readmission in patients with acute exacerbation of chronic obstructive pulmonary disease: a multicenter study",
-      "abstract": "BackgroundChronic obstructive pulmonary disease (COPD) is marked by chronic airway inflammation and obstructive ventilation dysfunction. The prognostic nutritional index (PNI), an indicator for evaluating nutritional and immune status with confirmed prognostic value in most diseases, has an unclear association with short-term acute re-exacerbation of COPD. This study thus investigated the correlation between PNI levels and 90-day acute re-exacerbation in COPD patients.MethodsA cohort analysis was conducted on AECOPD patients, who were grouped by PNI tertiles. The primary outcome was 90-day readmission for acute re-exacerbation. Cox proportional hazards regression, Kaplan–Meier survival curves (Log-rank test), restricted cubic spline plots and subgroup analysis were applied for statistical assessment and conclusion verification.ResultsA total of 112 patients had acute re-exacerbation. Fully adjusted multivariate Cox regression identified PNI as a protective factor (HR = 0.914, 95% CI: 0.877 ~ 0.952, p < 0.001). Restricted cubic spline analysis confirmed a linear dose–response between PNI and 90-day readmission risk (overall p = 0.0002, non-linear p = 0.737), with an inflection point at PNI = 43.05. The cumulative incidence of readmission showed a significant difference across PNI tertile groups (Log-rank p = 0.003). Subgroup analysis revealed consistent protective trends across all subgroups, with no significant interaction effects detected (all interaction p > 0.05).ConclusionPNI is an independent protective factor for short-term readmission in AECOPD patients, with a signi…",
-      "authors": "Yong Jiang, Hongmei Liu, Bicui Liu",
-      "published": "Aug 2026",
-      "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1835781",
       "image": "",
       "screen": "right"
     },

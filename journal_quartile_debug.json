@@ -1,0 +1,14 @@
+{
+  "Horticulturae": {
+    "scopus": null,
+    "wos": "wos: no hits for issn"
+  },
+  "Toxins": {
+    "scopus": null,
+    "wos": "wos: no jif in any year; HTTP 404: {\"error\":{\"status\":404,\"title\":\"Resource couldn't be found\",\"details\":\"There is no information in Web of Science Journals API about the identifier J_NAT_TOXINS and the year 2026 for the Journals conte | HTTP 404: {\"error\":{\"status\":404,\"title\":\"Resource couldn't be found\",\"details\":\"There is no information in Web of Science Journals API about the identifier J_NAT_TOXINS and the year 2025 for the Journals conte | HTTP 404: {\"error\":{\"status\":404,\"title\":\"Resource couldn't be found\",\"details\":\"There is no information in Web of Science Journals API about the identifier J_NAT_TOXINS and the year 2024 for the Journals conte"
+  },
+  "Journal of Agrometeorology": {
+    "scopus": null,
+    "wos": "wos: no hits for issn"
+  }
+}

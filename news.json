@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T14:35:56Z",
+  "updated": "2026-08-25T16:26:14Z",
   "items": [
     {
       "title": "The scale of change",
@@ -112,12 +112,12 @@
       "screen": "left"
     },
     {
-      "title": "Recent advances in biomimetic fusion strategies for multi-source heterogeneous data in food detection and safety assessment: A critical review",
+      "title": "Enhancement of calcium bioavailability in dairy-plant hybrid foods: Formulation, physical, and biological approaches",
       "abstract": "",
-      "authors": "Zhijun Chen, Jingwen Yang, Kang Du et al.",
+      "authors": "Bhashika Sithijanee Senevirathne, Xiaobin Ma, Aylin W. Sahin et al.",
       "published": "Nov 2026",
       "feedName": "Trends in Food Sci & Tech",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426004875?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426004899?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -152,12 +152,12 @@
       "screen": "left"
     },
     {
-      "title": "Health anxiety and cross-border functional food purchase decisions: The roles of perceived information overload, cross-border trust, and country-of-origin image",
+      "title": "Oral physiological drivers of bolus formation and polarity-dependent aroma release in cheese: Effects of bite force and saliva flow in the bio-inspired oral mastication system (iBOMS-III)",
       "abstract": "",
-      "authors": "Wenxin Wang, Linghua Zhang",
+      "authors": "Yuanhao Xu, Boya Lv, Peng Wu et al.",
       "published": "Jan 2027",
       "feedName": "Food Quality & Preference",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0950329326002272?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0950329326002375?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -242,26 +242,6 @@
       "screen": "left"
     },
     {
-      "title": "Antifungal mechanisms of volatile organic compounds and lactic acid produced by Lactiplantibacillus pentosus and their biocontrol application in fresh corn against Fusarium graminearum",
-      "abstract": "",
-      "authors": "Yuhuan Zhang, Jiang Li, Ye Qiu et al.",
-      "published": "Jan 2027",
-      "feedName": "Food Microbiology",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0740002026002431?dgcid=rss_sd_all",
-      "image": "",
-      "screen": "left"
-    },
-    {
-      "title": "Multi-omics integration deciphered microbial and metabolite dynamics during flavor development of probiotic-fermented Gastrodia elata Blume",
-      "abstract": "",
-      "authors": "Chaoqi Zhang, Wenhao Liu, Xiaocui Meng et al.",
-      "published": "Jan 2027",
-      "feedName": "Food Microbiology",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0740002026002339?dgcid=rss_sd_all",
-      "image": "",
-      "screen": "left"
-    },
-    {
       "title": "Correlation between microbial communities, metabolites, and bioactivities in fermented mare's milk revealed by metagenomics and metabolomics",
       "abstract": "",
       "authors": "Xiaoxiao Huang, Rongrong Luo, Yanrong Wang et al.",
@@ -278,6 +258,26 @@
       "published": "Jan 2027",
       "feedName": "Food Microbiology",
       "url": "https://www.sciencedirect.com/science/article/pii/S0740002026002327?dgcid=rss_sd_all",
+      "image": "",
+      "screen": "left"
+    },
+    {
+      "title": "CRISPR-Cas9 mediated adiA knockout in Hafnia paralvei : Implications for agmatine production and acid stress survival in a fermented dairy matrix",
+      "abstract": "",
+      "authors": "Angel Casado, Sandra M. Wellner, Alejandro Quirós et al.",
+      "published": "Jan 2027",
+      "feedName": "Food Microbiology",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0740002026002340?dgcid=rss_sd_all",
+      "image": "",
+      "screen": "left"
+    },
+    {
+      "title": "Synergistic effects of binary probiotics and oat β-glucan on brown yogurt quality: Physicochemical, flavor, sensory, and metabolomic evaluation",
+      "abstract": "",
+      "authors": "Zihan Wang, Xu Zhou, Chen Wang et al.",
+      "published": "Jan 2027",
+      "feedName": "Food Microbiology",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0740002026002285?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -412,12 +412,12 @@
       "screen": "right"
     },
     {
-      "title": "Association of the cholesterol-high-density lipoprotein-glucose index with coronary atherosclerotic burden in patients with coronary artery disease",
-      "abstract": "BackgroundThe cholesterol-high-density lipoprotein-glucose (CHG) index is a novel composite metabolic marker, but its association with coronary atherosclerotic burden in patients with coronary artery disease (CAD) remains unclear. This study aimed to investigate the association between the CHG index and the Gensini score in patients with CAD.MethodsWe included patients with CAD admitted between January 2024 and January 2025. Multivariable linear regression and restricted cubic spline (RCS) analyses were performed to evaluate the association and dose–response relationship between the CHG index and log-transformed (Gensini score + 1). Subgroup and sensitivity analyses assessed the robustness of the findings. Receiver operating characteristic (ROC) curve analysis was used to evaluate discriminative ability for identifying high coronary atherosclerotic burden. Net reclassification improvement (NRI), integrated discrimination improvement (IDI), and decision curve analysis (DCA) were used to assess the incremental value of the CHG index.ResultsA total of 758 participants were included. In the fully adjusted model, each 1-SD increase in the CHG index was associated with a 0.121-unit increase in log-transformed (Gensini score + 1) (β = 0.121, 95% CI, 0.036–0.205, p = 0.005). RCS analysis further indicated an approximately linear dose–response relationship. Quartile-based analyses showed an overall positive gradient. The association was directionally consistent across subgroups, with no significant interactions, despite not reaching statistical significance in some strata. Sensitivi…",
-      "authors": "Jiayuan Zhang, Hongxin Dong, Shengyi Lei et al.",
+      "title": "Alginate oligosaccharides attenuate obesity-associated kidney injury through modulation of the intestinal environment with renoprotection transferable by small intestinal contents",
+      "abstract": "BackgroundHigh-fat diet (HFD)-induced obesity is closely associated with metabolic imbalance and kidney injury. Alginate oligosaccharides (AOS) are considered promising dietary bioactive compounds; however, whether they protect against obesity-associated renal damage has not been fully clarified. In this study, we investigated whether AOS ameliorates renal injury in HFD-fed mice and further used transplantation of small intestinal contents to explore the possible involvement of gut-derived factors.MethodsAfter AOS treatment, metabolic parameters, renal function, kidney histopathology, and related pathological alterations were evaluated. For the transplantation experiment, small intestinal contents collected from control or AOS-treated donor mice were administered to HFD-fed recipient mice, after which renal and metabolic phenotypes were assessed.ResultsAOS improved HFD-induced metabolic disorders and alleviated renal injury. Mice treated with AOS showed lower serum blood urea nitrogen and creatinine levels, reduced renal lipid accumulation, and attenuated inflammatory and oxidative stress-related changes. Notably, recipient mice receiving small intestinal contents from AOS-treated donors also exhibited partial improvement in these abnormalities, whereas contents from control donors showed weaker or less consistent effects. These findings suggest that AOS-associated alterations in small intestinal contents may contribute to the observed renoprotective effects.ConclusionAOS attenuated obesity-associated renal injury in HFD-fed mice, and this effect was at least partially tran…",
+      "authors": "Zhijie Song, Kaiyuan Yang, Yuqing Cao et al.",
       "published": "Aug 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1906236",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1915255",
       "image": "",
       "screen": "right"
     },

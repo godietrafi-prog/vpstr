@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-24T22:16:49Z",
+  "updated": "2026-08-25T00:43:21Z",
   "items": [
     {
       "title": "The scale of change",
@@ -282,6 +282,16 @@
       "screen": "left"
     },
     {
+      "title": "Blood-clotting protein may be SARS-CoV-2's hidden accomplice, helping it hide from antibodies and reach blood vessels",
+      "abstract": "Fibrinogen, the abundant plasma protein best known for forming blood clots, may play a second and far less benign role during SARS-CoV-2 infection: acting as a molecular bridge that simultaneously hides the virus from neutralizing antibodies and delivers it to the cells lining blood vessels.",
+      "authors": "",
+      "published": "Aug 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-08-blood-clotting-protein-sars-cov.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/blood-clotting-protein.jpg",
+      "screen": "right"
+    },
+    {
       "title": "Molecular trick opens the door to a new generation of glass",
       "abstract": "Researchers at TU Dortmund University, Paderborn University, the University of Duisburg-Essen, and the University of Oxford have developed a new method for selectively modifying the internal structure of specific types of glass. The study, published in the journal Nature Materials, shows how adding an organic molecule during melting causes the chemical bonds in the material to rearrange. The process reduces the required processing temperature, prevents the substance from decomposing, and allows the magnetic and optical properties to be precisely tuned. These specialized glasses are used, among other things, in gas storage, batteries, optical applications and catalysis.",
       "authors": "",
@@ -309,16 +319,6 @@
       "feedName": "Phys.org Analytics",
       "url": "https://phys.org/news/2026-08-wildfire-phd-student.html",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/what-happens-inside-a.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "Computer models pinpoint catalysts for replacing fossil-fueled ammonia production",
-      "abstract": "Ammonia is one of the most important chemicals produced in the world, ranking second only to sulfuric acid in the total volume produced each year. It is used mostly to make fertilizer, which is essential to feeding the world's population. Yet its production accounts for up to 2% of the world's energy consumption and about 1.5% of greenhouse gas emissions, so the search has been underway for ways to produce ammonia more sustainably.",
-      "authors": "",
-      "published": "Aug 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-08-catalysts-fossil-fueled-ammonia-production.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/computer-models-pinpoi.jpg",
       "screen": "right"
     },
     {

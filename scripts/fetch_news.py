@@ -198,10 +198,16 @@ def extract_date(entry, raw_html: str) -> str:
 # ── Lab researchers ────────────────────────────────────────────────────────
 LAB_YEARS_BACK = 4   # dynamic window: current_year - LAB_YEARS_BACK
 
-_SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
-
-with open(os.path.join(_SCRIPT_DIR, "researchers_config.json"), encoding="utf-8") as _f:
-    RESEARCHERS = json.load(_f)
+_GS = "https://scholar.googleusercontent.com/citations?view_op=view_photo&user="
+RESEARCHERS = [
+    {"name": "Iris Zohar",       "s2_id": "38522818",    "photo": _GS + "YVQd-pwAAAAJ"},
+    {"name": "Ofir Benjamin",    "s2_id": "72231484",    "photo": _GS + "FsjV0oIAAAAJ"},
+    {"name": "Adi Jonas-Levi",   "s2_id": "2311554993",  "photo": _GS + "MbCf9l4AAAAJ"},
+    {"name": "Loai Basheer",     "s2_id": "4157421",     "photo": "media/photos/loai_basheer.png"},
+    {"name": "Gilad Davidson-Rozenfeld", "s2_id": "1410646763", "photo": _GS + "vh7tqKQAAAAJ"},
+    {"name": "Rafi Steckler",    "s2_id": "1403949953",  "photo": _GS + "BOhLTM0AAAAJ"},
+    {"name": "Giora Rytwo",      "s2_id": "4960911",     "photo": "media/photos/giora_rytwo.jpg"},
+]
 
 _S2_FIELDS = "title,year,venue,authors,abstract,externalIds,citationCount"
 
@@ -255,6 +261,7 @@ def fetch_s2_papers(researcher: dict, cutoff_year: int) -> list:
             "feedName":        "Lab Research",
             "citationCount":   citations,
             "recentCitations": 0,
+            "quartile":        None,
             "s2_paper_id":     p.get("paperId", ""),
             "url":             f"https://doi.org/{doi}" if doi else "",
             "image":           "",
@@ -294,9 +301,159 @@ def fetch_recent_citations(paper_id: str, days: int = 30) -> int:
     return count
 
 
+# ── Journal quartile (Scopus CiteScore + WoS JIF, "best of both") ──────────
+# Reuses the same two institutional API keys as the sister publications-tracking
+# project (Analysis_Workspace/Inner_research_budjets/Publications of researchers),
+# but looked up by journal TITLE/ISSN only — institution-agnostic, since lab
+# researchers here can appear with papers that carry no Tel-Hai/Migal affiliation
+# at all (confirmed 2026-08-25: e.g. most of Gilad Davidson-Rozenfeld's papers).
+# Cached to journal_quartile_cache.json, committed by the GitHub Action, so a
+# journal is only ever looked up once across all future runs.
+WOS_JOURNALS_KEY = os.environ.get("WOS_JOURNALS_API_KEY", "")
+WOS_JOURNALS_SEARCH = "https://api.clarivate.com/apis/wos-journals/v1/journals"
+SCOPUS_KEY = os.environ.get("SCOPUS_API_KEY", "")
+SCOPUS_SERIAL_TITLE = "https://api.elsevier.com/content/serial/title"
+QUARTILE_CACHE_FILE = "journal_quartile_cache.json"
+
+
+def load_quartile_cache() -> dict:
+    if os.path.exists(QUARTILE_CACHE_FILE):
+        try:
+            with open(QUARTILE_CACHE_FILE, encoding="utf-8") as f:
+                return json.load(f)
+        except Exception:
+            return {}
+    return {}
+
+
+def scopus_journal_lookup(title: str) -> dict:
+    """Scopus CiteScore quartile + ISSN, by journal title. Returns {} on any failure
+    or missing key -- quartile lookup is a nice-to-have, never worth failing the run."""
+    if not SCOPUS_KEY or not title:
+        return {}
+    url = SCOPUS_SERIAL_TITLE + "?" + urllib.parse.urlencode(
+        {"title": title, "view": "CITESCORE", "count": 5})
+    req = urllib.request.Request(url, headers={
+        "X-ELS-APIKey": SCOPUS_KEY, "Accept": "application/json", "User-Agent": BROWSER_UA})
+    try:
+        with urllib.request.urlopen(req, timeout=20) as resp:
+            data = json.loads(resp.read())
+    except Exception:
+        return {}
+    entries = data.get("serial-metadata-response", {}).get("entry", [])
+    if not entries:
+        return {}
+    exact = [e for e in entries if (e.get("dc:title") or "").strip().lower() == title.strip().lower()]
+    entry = exact[0] if exact else entries[0]
+    issn = entry.get("prism:eIssn") or entry.get("prism:issn")
+    year_infos = (entry.get("citeScoreYearInfoList") or {}).get("citeScoreYearInfo") or []
+    complete = [y for y in year_infos if y.get("@status") == "Complete"]
+    best_year = complete[0] if complete else (year_infos[0] if year_infos else None)
+    best_percentile = None
+    if best_year:
+        cil = best_year.get("citeScoreInformationList") or []
+        if cil:
+            info = (cil[0].get("citeScoreInfo") or [{}])[0]
+            percentiles = [int(sr["percentile"]) for sr in info.get("citeScoreSubjectRank") or []
+                           if sr.get("percentile")]
+            if percentiles:
+                best_percentile = max(percentiles)
+    quartile = None
+    if best_percentile is not None:
+        quartile = ("Q1" if best_percentile >= 75 else "Q2" if best_percentile >= 50
+                     else "Q3" if best_percentile >= 25 else "Q4")
+    return {"issn": issn, "quartile": quartile}
+
+
+def wos_journal_lookup(issn: str) -> dict:
+    """WoS Journal Impact Factor quartile, by ISSN -- a separate ranking system from
+    Scopus, so a journal can rank differently (or have no JIF at all) under each."""
+    if not WOS_JOURNALS_KEY or not issn:
+        return {}
+    url = WOS_JOURNALS_SEARCH + "?" + urllib.parse.urlencode({"q": issn})
+    req = urllib.request.Request(url, headers={"X-ApiKey": WOS_JOURNALS_KEY})
+    try:
+        with urllib.request.urlopen(req, timeout=20) as resp:
+            data = json.loads(resp.read())
+    except Exception:
+        return {}
+    hits = data.get("hits") or []
+    if not hits:
+        return {}
+    journal_id = hits[0]["id"]
+    current_year = datetime.now().year
+    for year in (current_year, current_year - 1, current_year - 2):
+        req2 = urllib.request.Request(
+            f"{WOS_JOURNALS_SEARCH}/{journal_id}/reports/year/{year}",
+            headers={"X-ApiKey": WOS_JOURNALS_KEY})
+        try:
+            with urllib.request.urlopen(req2, timeout=20) as resp2:
+                report = json.loads(resp2.read())
+        except Exception:
+            continue
+        jif = (report.get("metrics") or {}).get("impactMetrics", {}).get("jif")
+        ranks = (report.get("ranks") or {}).get("jif") or []
+        if jif:
+            quartiles = [rk["quartile"] for rk in ranks if rk.get("quartile")]
+            return {"quartile": min(quartiles) if quartiles else None}
+    return {}
+
+
+def best_quartile(venue: str, cache: dict):
+    """Best-of-both-systems quartile for a journal (Q1 beats Q2 beats nothing),
+    cached by venue name so each journal is only ever looked up once."""
+    if not venue:
+        return None
+    if venue in cache:
+        return cache[venue]
+    sc = scopus_journal_lookup(venue)
+    time.sleep(0.2)
+    wos = wos_journal_lookup(sc.get("issn")) if sc.get("issn") else {}
+    if sc.get("issn"):
+        time.sleep(0.2)
+    quartiles = [q for q in (sc.get("quartile"), wos.get("quartile")) if q]
+    result = "Q1" if "Q1" in quartiles else ("Q2" if "Q2" in quartiles else None)
+    cache[venue] = result
+    return result
+
+
 # ── Feed configuration ─────────────────────────────────────────────────────
-with open(os.path.join(_SCRIPT_DIR, "feeds_config.json"), encoding="utf-8") as _f:
-    FEEDS = json.load(_f)
+FEEDS = [
+    # ── Left screen — academic journals ───────────────────────────────────
+    {"url": "https://www.nature.com/natfood.rss",
+     "name": "Nature Food",              "type": "nature",    "screen": "left"},
+    {"url": "https://rss.sciencedirect.com/publication/science/03088146",
+     "name": "Food Chemistry",           "type": "elsevier",  "screen": "left"},
+    {"url": "https://rss.sciencedirect.com/publication/science/09242244",
+     "name": "Trends in Food Sci & Tech","type": "elsevier",  "screen": "left"},
+    {"url": "https://rss.sciencedirect.com/publication/science/09503293",
+     "name": "Food Quality & Preference","type": "elsevier",  "screen": "left"},
+    {"url": "https://www.frontiersin.org/journals/analytical-science/rss",
+     "name": "Frontiers Anal. Science",  "type": "frontiers", "screen": "left"},
+    {"url": "https://www.frontiersin.org/journals/food-science-and-technology/rss",
+     "name": "Frontiers Food Science",   "type": "frontiers", "screen": "left"},
+    {"url": "https://rss.sciencedirect.com/publication/science/07400020",
+     "name": "Food Microbiology",        "type": "elsevier",  "screen": "left"},
+    {"url": "https://www.nature.com/npjscifood.rss",
+     "name": "npj Science of Food",      "type": "nature",    "screen": "left"},
+    {"url": "https://rss.sciencedirect.com/publication/science/25897217",
+     "name": "AI in Agriculture",        "type": "elsevier",  "screen": "left"},
+    # ── Right screen — science news + applied ─────────────────────────────
+    {"url": "https://phys.org/rss-feed/chemistry-news/analytical-chemistry/",
+     "name": "Phys.org Analytics",       "type": "generic",   "screen": "right"},
+    {"url": "https://www.sciencedaily.com/rss/plants_animals/biotechnology_and_bioengineering.xml",
+     "name": "ScienceDaily Biotech",     "type": "generic",   "screen": "right"},
+    {"url": "https://www.sciencedaily.com/rss/health_medicine/nutrition.xml",
+     "name": "ScienceDaily Nutrition",   "type": "generic",   "screen": "right"},
+    {"url": "https://www.sciencedaily.com/rss/plants_animals/food_agriculture.xml",
+     "name": "ScienceDaily Food & Agri", "type": "generic",   "screen": "right"},
+    {"url": "https://www.frontiersin.org/journals/nutrition/rss",
+     "name": "Frontiers Nutrition",      "type": "frontiers", "screen": "right"},
+    {"url": "https://www.mdpi.com/rss/journal/nutrients",
+     "name": "Nutrients (MDPI)",         "type": "generic",   "screen": "right"},
+    {"url": "https://link.springer.com/search.rss?facet-journal-id=394",
+     "name": "Eur. J. Nutrition",        "type": "generic",   "screen": "right"},
+]
 
 MAX_PER_FEED = 4   # cards shown per feed
 ABSTRACT_MAX = 1600 # characters (~15 lines)
@@ -417,6 +574,19 @@ for item in items:
     if recent:
         print(f"  ▲{recent} recent: {item['title'][:50]}")
     time.sleep(1.0)  # respect S2 rate limit
+
+# ── Journal quartile per lab paper (best of Scopus CiteScore / WoS JIF) ─────
+print("\nFetching journal quartiles...")
+quartile_cache = load_quartile_cache()
+for item in items:
+    if not item.get("lab_paper") or not item.get("venue"):
+        continue
+    q = best_quartile(item["venue"], quartile_cache)
+    item["quartile"] = q
+    if q:
+        print(f"  {q}: {item['venue']}")
+with open(QUARTILE_CACHE_FILE, "w", encoding="utf-8") as f:
+    json.dump(quartile_cache, f, ensure_ascii=False, indent=2)
 
 result = {
     "updated": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),

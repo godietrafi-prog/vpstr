@@ -22,13 +22,16 @@
         - name: Install dependencies                                                                            
           run: pip install feedparser
                                                                                                                 
-        - name: Fetch RSS and generate news.json                                                                
-          run: python scripts/fetch_news.py                                                                   
-                                                                                                                
-        - name: Commit and push                             
-          run: |                                                                                              
-            git config user.name "github-actions[bot]"                                                        
-            git config user.email "github-actions[bot]@users.noreply.github.com"                                
-            git add news.json
-            git diff --quiet --exit-code --cached || git commit -m "chore: update news.json [skip ci]"          
-            git push 
+        - name: Fetch RSS and generate news.json
+          env:
+            WOS_JOURNALS_API_KEY: ${{ secrets.WOS_JOURNALS_API_KEY }}
+            SCOPUS_API_KEY: ${{ secrets.SCOPUS_API_KEY }}
+          run: python scripts/fetch_news.py
+
+        - name: Commit and push
+          run: |
+            git config user.name "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git add news.json journal_quartile_cache.json
+            git diff --quiet --exit-code --cached || git commit -m "chore: update news.json [skip ci]"
+            git push

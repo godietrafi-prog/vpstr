@@ -361,6 +361,67 @@
             flex-shrink: 0;
             gap: 3%;
         }
+        .lab-card-right-group {
+            display: flex;
+            align-items: flex-start;
+            gap: 0.6em;
+            flex-shrink: 0;
+        }
+        .lab-quartile-badge {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            padding: 0.3em 0.65em;
+            border-radius: 0.6em;
+            font-family: Arial, sans-serif;
+            flex-shrink: 0;
+            position: relative;
+        }
+        .lab-quartile-star {
+            font-size: 1.15em;
+            line-height: 1;
+        }
+        .lab-quartile-label {
+            font-size: 0.55em;
+            letter-spacing: 0.08em;
+            text-transform: uppercase;
+            font-weight: 700;
+            line-height: 1.4;
+            white-space: nowrap;
+        }
+        .lab-quartile-badge.q1 {
+            background: linear-gradient(155deg, rgba(180,120,255,0.18), rgba(80,190,255,0.10));
+            border: 1.5px solid rgba(190,150,255,0.70);
+            box-shadow: 0 0 12px rgba(160,120,255,0.30);
+            animation: quartile-shimmer 3s ease-in-out infinite;
+        }
+        .lab-quartile-badge.q1 .lab-quartile-star { color: #CFAEFF; }
+        .lab-quartile-badge.q1 .lab-quartile-label { color: rgba(207,174,255,0.90); }
+        @keyframes quartile-shimmer {
+            0%, 100% { box-shadow: 0 0 10px rgba(160,120,255,0.25); }
+            50%       { box-shadow: 0 0 20px rgba(160,120,255,0.50); }
+        }
+        .lab-quartile-sparkle {
+            position: absolute;
+            color: #E7D6FF;
+            font-size: 0.7em;
+            pointer-events: none;
+            animation: quartile-twinkle 2.4s ease-in-out infinite;
+            text-shadow: 0 0 4px rgba(210,180,255,0.9);
+        }
+        .lab-quartile-sparkle.s1 { top: -0.5em; left: -0.4em; animation-delay: 0s; }
+        .lab-quartile-sparkle.s2 { top: -0.7em; right: 0.6em; font-size: 0.5em; animation-delay: 0.8s; }
+        .lab-quartile-sparkle.s3 { bottom: -0.3em; left: 55%; font-size: 0.55em; animation-delay: 1.5s; }
+        @keyframes quartile-twinkle {
+            0%, 100% { opacity: 0; transform: scale(0.4) rotate(0deg); }
+            50%       { opacity: 1; transform: scale(1) rotate(20deg); }
+        }
+        .lab-quartile-badge.q2 {
+            background: rgba(255,255,255,0.05);
+            border: 1.5px solid rgba(255,255,255,0.25);
+        }
+        .lab-quartile-badge.q2 .lab-quartile-label { color: rgba(255,255,255,0.60); }
         .lab-citation-badge {
             display: flex;
             flex-direction: column;
@@ -1077,13 +1138,40 @@
             return ph;
         }
 
-        // Top row: [LAB RESEARCH badge] [citation badge — right]
+        // Top row: [LAB RESEARCH badge] [quartile badge + citation badge — right]
         var topRow = document.createElement('div');
         topRow.className = 'lab-card-top-row';
         var labBadge = document.createElement('div');
         labBadge.className = 'lab-card-badge';
         labBadge.textContent = 'LAB RESEARCH · TEL-HAI';
         topRow.appendChild(labBadge);
+
+        var rightGroup = document.createElement('div');
+        rightGroup.className = 'lab-card-right-group';
+
+        var quartile = item.quartile || '';
+        if (quartile === 'Q1' || quartile === 'Q2') {
+            var qBadge = document.createElement('div');
+            qBadge.className = 'lab-quartile-badge ' + quartile.toLowerCase();
+            if (quartile === 'Q1') {
+                ['s1', 's2', 's3'].forEach(function(cls) {
+                    var sparkle = document.createElement('span');
+                    sparkle.className = 'lab-quartile-sparkle ' + cls;
+                    sparkle.textContent = '✦';
+                    qBadge.appendChild(sparkle);
+                });
+                var star = document.createElement('div');
+                star.className = 'lab-quartile-star';
+                star.textContent = '★';
+                qBadge.appendChild(star);
+            }
+            var qLabel = document.createElement('div');
+            qLabel.className = 'lab-quartile-label';
+            qLabel.textContent = quartile + ' JOURNAL';
+            qBadge.appendChild(qLabel);
+            rightGroup.appendChild(qBadge);
+        }
+
         var cites = item.citationCount || 0;
         if (cites > 0) {
             var citeBadge = document.createElement('div');
@@ -1106,8 +1194,9 @@
                 recentEl.textContent = '▲ ' + recent + ' this month';
                 citeBadge.appendChild(recentEl);
             }
-            topRow.appendChild(citeBadge);
+            rightGroup.appendChild(citeBadge);
         }
+        topRow.appendChild(rightGroup);
         div.appendChild(topRow);
 
         // Researcher name (byline)

@@ -32,6 +32,6 @@
           run: |
             git config user.name "github-actions[bot]"
             git config user.email "github-actions[bot]@users.noreply.github.com"
-            git add news.json journal_quartile_cache.json
+            git add news.json journal_quartile_cache.json journal_quartile_debug.json
             git diff --quiet --exit-code --cached || git commit -m "chore: update news.json [skip ci]"
             git push

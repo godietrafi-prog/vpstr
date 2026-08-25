@@ -338,8 +338,11 @@ def scopus_journal_lookup(title: str) -> dict:
     try:
         with urllib.request.urlopen(req, timeout=20) as resp:
             data = json.loads(resp.read())
-    except Exception:
-        return {}
+    except urllib.error.HTTPError as e:
+        body = e.read()[:300].decode("utf-8", errors="replace")
+        return {"error": f"scopus HTTP {e.code}: {body}"}
+    except Exception as e:
+        return {"error": f"scopus {type(e).__name__}: {e}"}
     entries = data.get("serial-metadata-response", {}).get("entry", [])
     if not entries:
         return {}
@@ -375,13 +378,17 @@ def wos_journal_lookup(issn: str) -> dict:
     try:
         with urllib.request.urlopen(req, timeout=20) as resp:
             data = json.loads(resp.read())
-    except Exception:
-        return {}
+    except urllib.error.HTTPError as e:
+        body = e.read()[:300].decode("utf-8", errors="replace")
+        return {"error": f"wos HTTP {e.code}: {body}"}
+    except Exception as e:
+        return {"error": f"wos {type(e).__name__}: {e}"}
     hits = data.get("hits") or []
     if not hits:
-        return {}
+        return {"error": "wos: no hits for issn"}
     journal_id = hits[0]["id"]
     current_year = datetime.now().year
+    errors = []
     for year in (current_year, current_year - 1, current_year - 2):
         req2 = urllib.request.Request(
             f"{WOS_JOURNALS_SEARCH}/{journal_id}/reports/year/{year}",
@@ -389,19 +396,32 @@ def wos_journal_lookup(issn: str) -> dict:
         try:
             with urllib.request.urlopen(req2, timeout=20) as resp2:
                 report = json.loads(resp2.read())
-        except Exception:
+        except urllib.error.HTTPError as e:
+            body = e.read()[:200].decode("utf-8", errors="replace")
+            errors.append(f"HTTP {e.code}: {body}")
+            continue
+        except Exception as e:
+            errors.append(f"{type(e).__name__}: {e}")
             continue
         jif = (report.get("metrics") or {}).get("impactMetrics", {}).get("jif")
         ranks = (report.get("ranks") or {}).get("jif") or []
         if jif:
             quartiles = [rk["quartile"] for rk in ranks if rk.get("quartile")]
             return {"quartile": min(quartiles) if quartiles else None}
-    return {}
+    return {"error": "wos: no jif in any year; " + " | ".join(errors)} if errors else {"error": "wos: no jif found"}
 
 
-def best_quartile(venue: str, cache: dict):
+QUARTILE_DEBUG_FILE = "journal_quartile_debug.json"
+
+
+def best_quartile(venue: str, cache: dict, debug: dict):
     """Best-of-both-systems quartile for a journal (Q1 beats Q2 beats nothing),
-    cached by venue name so each journal is only ever looked up once."""
+    cached by venue name so each journal is only ever looked up once. Any lookup
+    failure (bad key, IP restriction, rate limit, etc.) is recorded in `debug`
+    instead of silently disappearing into a plain None, since a GitHub Actions
+    runner's IP is not the same as the machine these institutional keys were
+    tested from, and a None here is otherwise indistinguishable from "this
+    journal genuinely has no CiteScore/JIF ranking"."""
     if not venue:
         return None
     if venue in cache:
@@ -413,7 +433,12 @@ def best_quartile(venue: str, cache: dict):
         time.sleep(0.2)
     quartiles = [q for q in (sc.get("quartile"), wos.get("quartile")) if q]
     result = "Q1" if "Q1" in quartiles else ("Q2" if "Q2" in quartiles else None)
-    cache[venue] = result
+    if sc.get("error") or wos.get("error"):
+        # Don't cache a failed lookup as a permanent "no ranking" -- an IP
+        # restriction or rate limit is transient, unlike a genuine no-data result.
+        debug[venue] = {"scopus": sc.get("error"), "wos": wos.get("error")}
+    else:
+        cache[venue] = result
     return result
 
 
@@ -578,15 +603,20 @@ for item in items:
 # ── Journal quartile per lab paper (best of Scopus CiteScore / WoS JIF) ─────
 print("\nFetching journal quartiles...")
 quartile_cache = load_quartile_cache()
+quartile_debug = {}
 for item in items:
     if not item.get("lab_paper") or not item.get("venue"):
         continue
-    q = best_quartile(item["venue"], quartile_cache)
+    q = best_quartile(item["venue"], quartile_cache, quartile_debug)
     item["quartile"] = q
     if q:
         print(f"  {q}: {item['venue']}")
 with open(QUARTILE_CACHE_FILE, "w", encoding="utf-8") as f:
     json.dump(quartile_cache, f, ensure_ascii=False, indent=2)
+with open(QUARTILE_DEBUG_FILE, "w", encoding="utf-8") as f:
+    json.dump(quartile_debug, f, ensure_ascii=False, indent=2)
+if quartile_debug:
+    print(f"  {len(quartile_debug)} journal(s) had a lookup error -- see {QUARTILE_DEBUG_FILE}")
 
 result = {
     "updated": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),

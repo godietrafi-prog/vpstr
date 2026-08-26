@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-26T06:34:21Z",
+  "updated": "2026-08-26T08:36:25Z",
   "items": [
     {
       "title": "Power representation in food systems",
@@ -362,6 +362,16 @@
       "screen": "left"
     },
     {
+      "title": "Plant-like chemical gardens show how simple reactions build complex structures",
+      "abstract": "The famous quote by Cicero, \"If you have a garden and a library, you have everything you need,\" reminds us that the beauty of life lies in the harmony between nature and knowledge. More than 2,000 years later, this idea still resonates, particularly with a group of European researchers who have created a unique type of \"garden\": one that grows from chemistry itself.",
+      "authors": "",
+      "published": "Aug 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-08-chemical-gardens-simple-reactions-complex.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/cbrio-growing-knowledg.jpg",
+      "screen": "right"
+    },
+    {
       "title": "Four ζ-carotene isomers reveal light-driven shifts and skin-protective potential",
       "abstract": "ζ-Carotene, a key intermediate in lycopene biosynthesis, is widely found in plants and photosynthetic microorganisms, but its isomer-specific properties remain poorly understood due to isolation and purification challenges. Researchers have now developed a purification strategy to obtain high-purity geometric isomers and systematically characterized, for the first time, their isomer-specific spectral properties, photoisomerization behavior, UV-shielding capacity, antioxidant activity and skin-related biological activities—highlighting ζ-carotene's promise as a natural ingredient for skin health and photoprotection.",
       "authors": "",
@@ -389,16 +399,6 @@
       "feedName": "Phys.org Analytics",
       "url": "https://phys.org/news/2026-08-blood-clotting-protein-sars-cov.html",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/blood-clotting-protein.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "Molecular trick opens the door to a new generation of glass",
-      "abstract": "Researchers at TU Dortmund University, Paderborn University, the University of Duisburg-Essen, and the University of Oxford have developed a new method for selectively modifying the internal structure of specific types of glass. The study, published in the journal Nature Materials, shows how adding an organic molecule during melting causes the chemical bonds in the material to rearrange. The process reduces the required processing temperature, prevents the substance from decomposing, and allows the magnetic and optical properties to be precisely tuned. These specialized glasses are used, among other things, in gas storage, batteries, optical applications and catalysis.",
-      "authors": "",
-      "published": "Aug 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-08-molecular-door-generation-glass.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/researchers-crack-the-2.jpg",
       "screen": "right"
     },
     {

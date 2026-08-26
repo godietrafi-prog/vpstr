@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-26T04:34:16Z",
+  "updated": "2026-08-26T06:34:21Z",
   "items": [
     {
       "title": "Power representation in food systems",
@@ -202,22 +202,22 @@
       "screen": "left"
     },
     {
+      "title": "Algerian honeybee venom antioxidant and antimicrobial activities: molecular docking of melittin as a dual inhibitor of PBP2a and Keap1",
+      "abstract": "IntroductionHoneybee venom is a complex bioactive secretion dominated by melittin, with recognized antioxidant and antimicrobial therapeutic potential. This study characterized Algerian honeybee venom (AHBV) through biochemical profiling, in vitro antioxidant and antimicrobial assays, and in silico molecular docking to explore melittin’s dual targeting capacity.MethodsAHBV was characterized using size-exclusion fast protein liquid chromatography, Fourier-transform infrared spectroscopy, the Bradford assay, the ABTS radical-scavenging assay, antimicrobial evaluation, and molecular docking of melittin against PBP2a and Keap1 using pyDock.ResultsSize-exclusion fast protein liquid chromatography revealed a protein profile dominated by low-molecular-weight peptides ( < 5 kDa), with only minor higher-molecular-weight components, consistent with the known composition of Apis mellifera venom. Fourier-transform infrared spectroscopy confirmed the proteinaceous, peptide-rich nature of the venom through characteristic amide I and II bands. Total protein content, determined by the Bradford assay, was 204.8 ± 16.26 μg BSA equivalents/mL. AHBV exhibited marked antioxidant activity in the ABTS radical-scavenging assay (727.0 ± 4.9 μmol Trolox equivalents/mg). Antimicrobial evaluation demonstrated significant activity against Gram-positive bacteria, particularly Staphylococcus aureus (MIC 15.62–62.5 μg/mL), moderate efficacy against Gram-negative strains (MIC 125–500 μg/mL), and measurable antifungal activity against Candida albicans (MIC 250 μg/mL). Molecular docking of melittin against P…",
+      "authors": "Djedjiga Bellouche, Abdenacer Mouffok, Abdelali Boussif et al.",
+      "published": "Aug 2026",
+      "feedName": "Frontiers Food Science",
+      "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.1919918",
+      "image": "",
+      "screen": "left"
+    },
+    {
       "title": "Storage duration impact on the nutritional quality of honey from Burkina Faso",
       "abstract": "Beekeeping is a rapidly expanding income-generating activity in several countries. Since 2003, good honey-harvesting practices, implemented with support from beekeeping centers, have yielded honey of high physicochemical quality. However, honey preservation remains a challenge to maintain its bioactive compounds. This study aimed to evaluate the impact of storage time on the quality of honey produced at the Koudougou beekeeping center in Burkina Faso. Fifteen samples, harvested at different times between 2020 and 2022, were collected and analyzed. Physicochemical, biochemical, and antioxidant properties were determined using standard methods, including direct and spectrophotometric methods. The results showed relative stability in the physicochemical features, although the 2020 honeys exhibited higher electrical conductivity and free acidity, and a lower pH, compared with those of 2021 and 2022. The highest moisture content (22.30% ± 0.17%) was recorded in batch n°4 of the 2022 honeys (HN4-2022), while the highest Brix level (82.00% ± 0.1%) was observed in batch n°13 of the 2021 honeys (HN13-2021). In contrast, storage time significantly influenced biochemical composition and antioxidant capacity. The highest concentrations of 5-Hydroxymethylfurfural (5-HMF), total polyphenols, and total sugars were 1,270.63 ± 6.72 mg/kg) (HN13-2021), 2,037.64 ± 4.28 mg GAE/100 g (HN18-2020) and 88.74 ± 2.03 mg, E.G.,/100 mg (HN8-2020) respectively. The highest antioxidant capacity was recorded at 4.07 ± 0.06 mg GAE/mL (HN8-2020) for free radical scavenging capacity (IC50) and 4.22 ± 0.16 m…",
       "authors": "Wouléyon Tiéné, Samson Guenné, Hemayoro Sama et al.",
       "published": "Aug 2026",
       "feedName": "Frontiers Food Science",
       "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.1839150",
-      "image": "",
-      "screen": "left"
-    },
-    {
-      "title": "From plant compounds to packaging: recent advances in phytochemical added edible films and coatings",
-      "abstract": "Global food supply chain faces major challenges due to post-harvest losses, along with synthetic packaging waste accumulating in ecosystems, necessitating the engineering of bioactive edible films and coatings (ECFs). This review assesses the recent advances achieved by incorporating phytochemicals into bio-polymeric carriers to advance contemporary knowledge regarding phenolic compounds flavonoids and terpenoids. Special emphasis is placed on upcycling agricultural processing discards like pomegranate rinds, carrot pomace, and avocado seeds to create renewable origins for generating high-value functional additives. This review discusses the transition process from laboratory solvent casting methods to industrial manufacturing methods, which use hot-melt extrusion (HME) electrospinning, and roll-to-roll (R2R) coating together with advanced stabilization techniques that use microencapsulation in β-cyclodextrin (β-CD) for protecting heat-sensitive bioactive. The phytochemical-loaded packaging systems effectively mitigate microbial proliferation and lipid oxidation across produce, meat, dairy, and bakery sectors, extending product longevity. The creation of intelligent colorimetric sensors involves using pH-responsive anthocyanins, which enable real-time non-invasive monitoring of quality changes. Thus, there is significant potential for phytochemical-loaded edible packaging films or coatings in the field of food packaging.",
-      "authors": "Janani V, Praveen Kumar Dubey, Swarup Roy",
-      "published": "Aug 2026",
-      "feedName": "Frontiers Food Science",
-      "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.1898006",
       "image": "",
       "screen": "left"
     },
@@ -232,12 +232,12 @@
       "screen": "left"
     },
     {
-      "title": "Comparative evaluation of nutritional composition, functional activity, and sensory profile of cashew apple (Anacardium occidentale L.) from improved clones and local varieties",
-      "abstract": "The cashew apple (Anacardium occidentale L.), the pseudofruit of the cashew tree, is a valuable source of dietary fiber, vitamins, sugars, and bioactive compounds with recognized antioxidant potential. Despite its nutritional and functional properties, its agroindustrial utilization remains limited compared with the cashew nut, resulting in the underutilization of a valuable agricultural resource. Therefore, this study aimed to provide a comparative evaluation of the physicochemical, nutritional, functional, and sensory characteristics of four Colombian cashew apple varieties (Clon Mapiria, Clon Agrosavia Caribe, Criollo Amarillo, and Criollo Rojo). Composite samples representative of each variety were prepared by pooling fruits harvested at commercial maturity from several healthy trees growing under the same agroecological conditions. Physicochemical, proximate, and functional analyses were performed using a Completely Randomized Design (CRD) with three analytical replicates per composite sample. Consumer acceptance was assessed using a nine-point hedonic test. Marked variation was observed among the evaluated varieties in their physicochemical, nutritional, functional, and sensory characteristics. The results indicated that soluble solids ranged from 7.90 to 11.47 °Brix, total phenolic content from 282.95 to 370.89 mg GAE/100 g, and antioxidant capacity from 370.55 to 390.60 mg TE/100 g. Clon Mapiria exhibited the highest soluble solids content and antioxidant capacity, whereas Criollo Amarillo showed the highest total phenolic and condensed tannin contents. Clon Agrosav…",
-      "authors": "Diego Segura-Bermudez, Claudia De Paula, Ricardo Andrade-Pizarro et al.",
+      "title": "From plant compounds to packaging: recent advances in phytochemical added edible films and coatings",
+      "abstract": "Global food supply chain faces major challenges due to post-harvest losses, along with synthetic packaging waste accumulating in ecosystems, necessitating the engineering of bioactive edible films and coatings (ECFs). This review assesses the recent advances achieved by incorporating phytochemicals into bio-polymeric carriers to advance contemporary knowledge regarding phenolic compounds flavonoids and terpenoids. Special emphasis is placed on upcycling agricultural processing discards like pomegranate rinds, carrot pomace, and avocado seeds to create renewable origins for generating high-value functional additives. This review discusses the transition process from laboratory solvent casting methods to industrial manufacturing methods, which use hot-melt extrusion (HME) electrospinning, and roll-to-roll (R2R) coating together with advanced stabilization techniques that use microencapsulation in β-cyclodextrin (β-CD) for protecting heat-sensitive bioactive. The phytochemical-loaded packaging systems effectively mitigate microbial proliferation and lipid oxidation across produce, meat, dairy, and bakery sectors, extending product longevity. The creation of intelligent colorimetric sensors involves using pH-responsive anthocyanins, which enable real-time non-invasive monitoring of quality changes. Thus, there is significant potential for phytochemical-loaded edible packaging films or coatings in the field of food packaging.",
+      "authors": "Janani V, Praveen Kumar Dubey, Swarup Roy",
       "published": "Aug 2026",
       "feedName": "Frontiers Food Science",
-      "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.1874327",
+      "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.1898006",
       "image": "",
       "screen": "left"
     },
@@ -482,6 +482,16 @@
       "screen": "right"
     },
     {
+      "title": "Lactobacillus paracasei from koumiss mediates intestinal stem cells to promote intestinal mucosal recovery through intestinal microbiota-metabolites",
+      "abstract": "BackgroundInfectious diarrhea caused by Salmonella typhimurium (S. typhimurium) leads to intestinal barrier dysfunction, dysbiosis, and impaired epithelial regeneration. Current antibiotic therapies are prone to adverse effects such as drug resistance and drug residues, whereas probiotic interventions have shown beneficial effects. In this context, the study focused on a traditional fermented product called koumiss, from which a strain of Lactobacillus paracasei (L. paracasei) was isolated. Previous studies have demonstrated that this strain is capable of repairing the damaged intestinal mucosal barrier. However, its underlying mechanism of action remains unclear.MethodsSeventy Kunming mice were randomly divided into control group, model group, L. paracasei intervention group, and Lactobacillus plantarum (L. plantarum) intervention group. Except for the control group, the diarrhea model induced by S. typhimurium was established in the other groups. Serum inflammatory factors, intestinal permeability, and immune indexes were detected by enzyme-linked immunosorbent assay. Hematoxylin eosin, Alcian blue-periodic acid–Schiff, electron microscopy, immunofluorescence, reverse transcription quantitative polymerase chain reaction, and Western blot were used to evaluate the intestinal barrier function and the ability of intestinal stem cells to proliferate and differentiate into Paneth cells and goblet cells. The structure of the intestinal flora and the content of short-chain fatty acids (SCFAs) were detected by 16S ribosomal ribonucleic acid, and gas chromatography–mass spectromet…",
+      "authors": "Shunan Ren, Jincheng Li, Qi Zhang et al.",
+      "published": "Aug 2026",
+      "feedName": "Frontiers Nutrition",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1893728",
+      "image": "",
+      "screen": "right"
+    },
+    {
       "title": "Prognostic value of nutritional assessment tools in patients with sepsis: a systematic review with meta-analysis of PNI and GNRI",
       "abstract": "BackgroundMalnutrition is common in patients with sepsis and is associated with prolonged hospitalization and increased mortality. Early assessment of nutritional status using standardized nutritional assessment tools may be important for risk stratification and outcome prediction.MethodsWe searched PubMed, Embase, Web of Science, and the Cochrane Library from database inception to November 2025. Two reviewers independently performed study selection, data extraction, and risk-of-bias assessment, with disagreements resolved through discussion. Cohort and case-control studies evaluating nutritional assessment tools in patients with sepsis and reporting mortality-related outcomes were included.ResultsA total of 11 studies involving 34,810 patients were included. All included studies had a Newcastle-Ottawa Scale (NOS) score of ≥7. Seven nutritional assessment tools were evaluated: the Prognostic Nutritional Index (PNI), Nutrition Risk in the Critically Ill (NUTRIC) score, modified NUTRIC (mNUTRIC) score, Controlling Nutritional Status (CONUT) score, Geriatric Nutritional Risk Index (GNRI), Nutritional Risk Screening 2002 (NRS 2002), and blood urea nitrogen-to-albumin ratio (BAR). Quantitative synthesis was feasible only for PNI and GNRI because of the limited number and heterogeneity of studies evaluating the other tools. A random-effects meta-analysis of studies evaluating PNI showed a pooled hazard ratio (HR) of 0.57 (95% CI: 0.51–0.64), indicating that higher PNI scores were associated with lower short-term mortality in patients with sepsis. The remaining tools were therefor…",
       "authors": "Zanzan Sun, Jiajing Liu, Liqun Zhu et al.",
@@ -492,32 +502,22 @@
       "screen": "right"
     },
     {
-      "title": "Day-7 caloric intake as an early dynamic prognostic marker for subsequent mortality in older patients with dysphagia: a landmark cohort analysis",
-      "abstract": "BackgroundEarly nutritional status may influence prognosis in older adults with dysphagia receiving artificial nutrition. However, the predictive value of caloric intake shortly after initiation of enteral or parenteral nutrition remains unclear. This study aimed to investigate the association between day-7 caloric intake and subsequent all-cause mortality in older Japanese patients with dysphagia and assess its potential as an early dynamic prognostic marker.MethodsWe conducted a day-7 landmark cohort analysis of 246 older adults who survived beyond 7 days after initiation of percutaneous endoscopic gastrostomy (PEG) or total parenteral nutrition (TPN). Day-7 caloric intake was analyzed both as a continuous variable (per 100 kcal/day) and categorically ( < 900 vs. ≥900 kcal/day). Multivariable Cox proportional hazards models adjusted for age, sex, nutritional route, severe dementia, aspiration pneumonia, chronic heart failure, serum albumin, hemoglobin, C-reactive protein, and Clinical Frailty Scale were used to estimate hazard ratios (HRs) for subsequent all-cause mortality. Kaplan–Meier survival curves, subgroup analyses, and time-dependent receiver operating characteristic (ROC) curves at 365 days were applied to evaluate robustness and predictive discrimination.ResultsHigher day-7 caloric intake was consistently associated with lower subsequent all-cause mortality across all models. Each 100 kcal/day increase was associated with lower subsequent mortality in the fully adjusted model (HR, 0.82; 95% CI 0.72–0.93; P = 0.002). In secondary categorical analysis, patients re…",
-      "authors": "Jianxian Zhang, Xiaojing Yun, Yan Xue",
+      "title": "Central adiposity and sex influence lipid and glucose indices in Mexican adults: implications for metabolic risk assessment",
+      "abstract": "IntroductionCentral adiposity is a major determinant of cardiometabolic risk. However, routinely used composite lipid–glucose indices are often interpreted to indicate a uniform metabolic signal across individuals with different body fat distributions. This study examined whether the interpretive behavior of the atherogenic index of plasma (AIP) and the triglyceride–glucose (TyG) index varies with central adiposity and the evaluated three-variant triglyceride-weighted genetic risk score (wGRS) in Mexican adults.MethodsA cross-sectional analytical design was applied to data from 396 participants stratified by waist-to-height ratio (WHtR), incorporating correlation structure, an exploratory WHtR × wGRS interaction, and distributional analyses.ResultsAcross WHtR tertiles, AIP was higher in the upper tertiles than in the lowest, with minimal additional separation between the intermediate and highest groups, and TyG showed the same upper-versus-lower tertile pattern. Sex-stratified predictions from the continuous interaction models showed that the absolute difference in AIP between wGRS levels of −1 SD and +1 SD narrowed from 0.91 to 0.15 z-score units in men and from 0.32 to 0.03 in women as WHtR increased from −1 SD to +1 SD. Distributional analyses revealed persistent within-stratum overlap, indicating metabolic heterogeneity despite similar anthropometric classifications.DiscussionIdentical AIP or TyG values may occur across different adiposity levels and degrees of wGRS-related separation within the evaluated population, supporting interpretation of these indices in relatio…",
+      "authors": "César Hernández-Guerrero, José P. Tejeda-Miramontes, Edgar J. Mendivil et al.",
       "published": "Aug 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1887101",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1834724",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Digital technology innovation and agricultural industry chain resilience: implications for food security",
-      "abstract": "Food security is increasingly threatened by climate shocks, market volatility, and geopolitical disruptions. A resilient agricultural industry chain is critical to ensuring a stable food supply, yet empirical evidence on how firm-level digital technology innovation enhances such resilience remains scarce. Using micro-level data from Chinese agricultural firms over the period 2010–2025, which comprise 69 listed agricultural firms with 714 firm-year unbalanced panel observations, this study examines the impact of digital technology innovation on agricultural industry chain resilience. The results show that digital technology innovation significantly improves chain resilience, a finding that remains robust across multiple tests. Mediation analysis confirms that this effect operates through firm operational efficiency and market expectations. Heterogeneity analysis is conducted along two dimensions, namely regional heterogeneity and firm heterogeneity. Significant positive effects are found in eastern regions, urban agglomerations, and non-old-industrial bases from the regional perspective, and in non-state-owned, large-scale, and mature enterprises from the firm perspective. These findings provide empirical evidence for food-security-oriented policies that promote agricultural digitalization while addressing structural weak links in the food system.",
-      "authors": "Jie Chen, Jiayi Xu, Xintong Xiong et al.",
+      "title": "Usual dietary intake estimation in the German National Cohort (NAKO)",
+      "abstract": "IntroductionAccurate measurement of dietary intake remains challenging in large-scale nutritional studies. This study aimed to develop and evaluate both a practical dietary assessment strategy and a computationally efficient statistical method for estimating usual dietary intake in the German National Cohort (NAKO Gesundheitsstudie).MethodsWe developed a blended approach using data from NAKO. During baseline (2014–2019) and first follow-up examinations (2019–2024), up to four 24-h food lists (24 h-FLs) and one food frequency questionnaire (FFQ) were collected. We combined these dietary intake data sources using an adapted Multiple Source Method (MSM) and supplemented them with estimated consumption amounts based on data from the German National Nutrition Survey II (NVS II, 2005–2007) to generate measurement-error-corrected estimates of dietary intake. The adapted MSM was empirically evaluated against conventional logistic linear mixed-effects model (LLMM), which can be computationally complex for large datasets due to lengthy processing times. Additionally, a simulation study evaluated how varying the number of 24 h-FLs and FFQ assessments affected the consumption probability estimates.ResultsThe adapted MSM showed high statistical agreement with LLMM (correlation ≥0.97). The usual intake of 90 EPIC-SOFT food groups, 124 nutrients, and energy intake was estimated for 152,304 participants (75% of the cohort) who had at least one 24 h-FL and an FFQ available. Furthermore, the simulation showed that including repeated 24 h-FLs alongside an FFQ improved the accuracy of individu…",
+      "authors": "Nina Wawro, Sylvia Gastell, Rafael Mikolajczyk et al.",
       "published": "Aug 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1915856",
-      "image": "",
-      "screen": "right"
-    },
-    {
-      "title": "Prognostic nutritional index and geriatric nutritional risk index as predictors of in-hospital major adverse cardiovascular events after percutaneous coronary intervention in acute coronary syndrome patients: a multicenter retrospective cohort study",
-      "abstract": "ObjectiveTo evaluate the association between PNI and GNRI with in-hospital MACE after PCI in patients with ACS, and to compare the predictive value of these two nutritional assessment tools. The optimal cutoff values of PNI and GNRI were determined by calculating the maximum Youden’s index based on ROC curve analysis in the training cohort.MethodsThis multicenter retrospective cohort study included ACS patients who underwent PCI at three hospitals between January 2021 and December 2024. The training cohort consisted of 638 patients from Anhui Provincial Hospital, while the validation cohort included 212 patients from Hefei Second People’s Hospital and 238 patients from Ma’anshan People’s Hospital. PNI was calculated based on serum albumin and lymphocyte count at admission, while GNRI was calculated using serum albumin and body mass index. The primary endpoint was in-hospital MACE, including all-cause mortality, myocardial infarction, stroke, and target vessel revascularization. Multivariate logistic regression analysis was used to assess the association of PNI and GNRI with in-hospital MACE, and the predictive abilities of the two indices were compared using ROC curve analysis.ResultsIn the training cohort, 63 patients (9.9%) experienced in-hospital MACE. Multivariate analysis showed that low PNI ( < 45.2) and low GNRI ( < 98.0) were both independent predictors of in-hospital MACE (PNI: adjusted OR = 2.37, 95%CI: 1.42–3.96, p = 0.001; GNRI: adjusted OR = 2.18, 95%CI: 1.31–3.64, p = 0.003). ROC analysis revealed that PNI (AUC = 0.721, 95%CI: 0.653–0.789) and GNRI (AUC = 0.70…",
-      "authors": "Jun Li, Fachao Shi, Zheng Wang et al.",
-      "published": "Aug 2026",
-      "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1848510",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1894787",
       "image": "",
       "screen": "right"
     },
@@ -889,7 +889,7 @@
       "venue": "Nutrients",
       "feedName": "Lab Research",
       "citationCount": 7,
-      "recentCitations": 0,
+      "recentCitations": 1,
       "quartile": "Q1",
       "s2_paper_id": "b97e4acafc9606b86df3bd0c797faa7fbcf900b7",
       "url": "https://doi.org/10.3390/nu16142328",

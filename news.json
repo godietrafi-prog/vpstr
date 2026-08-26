@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T22:17:30Z",
+  "updated": "2026-08-26T00:44:36Z",
   "items": [
     {
       "title": "Power representation in food systems",
@@ -212,16 +212,6 @@
       "screen": "left"
     },
     {
-      "title": "From plant compounds to packaging: recent advances in phytochemical added edible films and coatings",
-      "abstract": "Global food supply chain faces major challenges due to post-harvest losses, along with synthetic packaging waste accumulating in ecosystems, necessitating the engineering of bioactive edible films and coatings (ECFs). This review assesses the recent advances achieved by incorporating phytochemicals into bio-polymeric carriers to advance contemporary knowledge regarding phenolic compounds flavonoids and terpenoids. Special emphasis is placed on upcycling agricultural processing discards like pomegranate rinds, carrot pomace, and avocado seeds to create renewable origins for generating high-value functional additives. This review discusses the transition process from laboratory solvent casting methods to industrial manufacturing methods, which use hot-melt extrusion (HME) electrospinning, and roll-to-roll (R2R) coating together with advanced stabilization techniques that use microencapsulation in β-cyclodextrin (β-CD) for protecting heat-sensitive bioactive. The phytochemical-loaded packaging systems effectively mitigate microbial proliferation and lipid oxidation across produce, meat, dairy, and bakery sectors, extending product longevity. The creation of intelligent colorimetric sensors involves using pH-responsive anthocyanins, which enable real-time non-invasive monitoring of quality changes. Thus, there is significant potential for phytochemical-loaded edible packaging films or coatings in the field of food packaging.",
-      "authors": "Janani V, Praveen Kumar Dubey, Swarup Roy",
-      "published": "Aug 2026",
-      "feedName": "Frontiers Food Science",
-      "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.1898006",
-      "image": "",
-      "screen": "left"
-    },
-    {
       "title": "Shelf-life evaluation of precooked millet couscous (Pennisetum glaucum) during ambient storage, in Senegal",
       "abstract": "IntroductionMillet couscous occupies a significant place in the Senegalese diet and contributes to the valorization and promotion of local cereals. However, information regarding shelf life, physicochemical characteristics, microbiological safety, and sensory quality remains limited. Nevertheless, these properties are often overlooked, can play a key role in the promotion and economical and nutritional competitiveness of precooked millet couscous. This study aimed to determine, through scientific knowledge, the shelf life of precooked millet couscous packaged in polyethylene bags under ambient storage conditions in order to establish its minimum durability date (MDD).MethodsPrecooked couscous was produced in three samples, packaged at 500g per bag and then stored at laboratory ambient temperature (23 °C–30 °C) with relative humidity varying between 46% and 51% during storage. Samples of precooked millet couscous were taken regularly from T0 to T20 months to assess microbiological quality, pH, moisture content (humidity), water activity and sensory properties during storage. Data were analyzed using analysis of variance (ANOVA), and mean comparisons were performed using Fisher’s Least Significant Difference (LSD) test at a significance level of p < 0.05.Results and DiscussionFinding showed pathogenic microorganism including, Salmonella, E. coli, sulfite-reducing Clostridium, Bacillus cereus, and Staphylococcus aureus were not detected in precooked couscous millet during the entire storage period. However, aerobic mesophilic flora at 30 °C, yeasts and molds remained below the…",
       "authors": "Adjaratou Basse, Abdou Diouf, Eliasse Diémé et al.",
@@ -238,6 +228,16 @@
       "published": "Aug 2026",
       "feedName": "Frontiers Food Science",
       "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.1874327",
+      "image": "",
+      "screen": "left"
+    },
+    {
+      "title": "From plant compounds to packaging: recent advances in phytochemical added edible films and coatings",
+      "abstract": "Global food supply chain faces major challenges due to post-harvest losses, along with synthetic packaging waste accumulating in ecosystems, necessitating the engineering of bioactive edible films and coatings (ECFs). This review assesses the recent advances achieved by incorporating phytochemicals into bio-polymeric carriers to advance contemporary knowledge regarding phenolic compounds flavonoids and terpenoids. Special emphasis is placed on upcycling agricultural processing discards like pomegranate rinds, carrot pomace, and avocado seeds to create renewable origins for generating high-value functional additives. This review discusses the transition process from laboratory solvent casting methods to industrial manufacturing methods, which use hot-melt extrusion (HME) electrospinning, and roll-to-roll (R2R) coating together with advanced stabilization techniques that use microencapsulation in β-cyclodextrin (β-CD) for protecting heat-sensitive bioactive. The phytochemical-loaded packaging systems effectively mitigate microbial proliferation and lipid oxidation across produce, meat, dairy, and bakery sectors, extending product longevity. The creation of intelligent colorimetric sensors involves using pH-responsive anthocyanins, which enable real-time non-invasive monitoring of quality changes. Thus, there is significant potential for phytochemical-loaded edible packaging films or coatings in the field of food packaging.",
+      "authors": "Janani V, Praveen Kumar Dubey, Swarup Roy",
+      "published": "Aug 2026",
+      "feedName": "Frontiers Food Science",
+      "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.1898006",
       "image": "",
       "screen": "left"
     },
@@ -362,6 +362,16 @@
       "screen": "left"
     },
     {
+      "title": "Four ζ-carotene isomers reveal light-driven shifts and skin-protective potential",
+      "abstract": "ζ-Carotene, a key intermediate in lycopene biosynthesis, is widely found in plants and photosynthetic microorganisms, but its isomer-specific properties remain poorly understood due to isolation and purification challenges. Researchers have now developed a purification strategy to obtain high-purity geometric isomers and systematically characterized, for the first time, their isomer-specific spectral properties, photoisomerization behavior, UV-shielding capacity, antioxidant activity and skin-related biological activities—highlighting ζ-carotene's promise as a natural ingredient for skin health and photoprotection.",
+      "authors": "",
+      "published": "Aug 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-08-carotene-isomers-reveal-driven-shifts.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/purification-and-chara-1.jpg",
+      "screen": "right"
+    },
+    {
       "title": "3D atomic imaging reveals a new pathway to crystal formation",
       "abstract": "The most common scientific approach for thinking about how condensation, freezing and other phase transitions begin is based in classical nucleation theory, which was developed about a century ago. Thousands of experiments have supported a key equation describing how initial ordered seeds, called nuclei, form within disordered matter.",
       "authors": "",
@@ -389,16 +399,6 @@
       "feedName": "Phys.org Analytics",
       "url": "https://phys.org/news/2026-08-molecular-door-generation-glass.html",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/researchers-crack-the-2.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "Metal ceramics under AI control: A new approach for calculating the mechanical properties of materials",
-      "abstract": "Researchers from the Skoltech Materials Center have proposed a new approach to modeling the mechanical properties of heterogeneous materials, combining machine learning with active learning on local chemical configurations. The method enables calculations of large systems containing tens of thousands of atoms with accuracy comparable to direct quantum-mechanical calculations (DFT), but without requiring extensive computational resources.",
-      "authors": "",
-      "published": "Aug 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-08-metal-ceramics-ai-approach-mechanical.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/metal-ceramics-under-a.jpg",
       "screen": "right"
     },
     {

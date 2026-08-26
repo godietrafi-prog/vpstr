@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-26T19:40:01Z",
+  "updated": "2026-08-26T22:36:58Z",
   "items": [
     {
       "title": "Power representation in food systems",
@@ -282,6 +282,16 @@
       "screen": "left"
     },
     {
+      "title": "In-Silico Assessment of the Neuromodulatory Potential of Fermented Foods",
+      "abstract": "",
+      "authors": "Ramya Balasubramanian, Thomaz F. S Bastiaanssen, John Leech et al.",
+      "published": "Aug 2026",
+      "feedName": "npj Science of Food",
+      "url": "https://www.nature.com/articles/s41538-026-01089-8",
+      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01089-8/MediaObjects/41538_2026_1089_Fig1_HTML.png",
+      "screen": "left"
+    },
+    {
       "title": "Gut microbiota disorder-associated sphingomyelin: a key role in non-alcoholic fatty liver disease under aflatoxin B1 exposure",
       "abstract": "",
       "authors": "Junya Zeng, Xinyu Liu, Xinyu Feng et al.",
@@ -309,16 +319,6 @@
       "feedName": "npj Science of Food",
       "url": "https://www.nature.com/articles/s41538-026-01102-0",
       "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01102-0/MediaObjects/41538_2026_1102_Fig1_HTML.png",
-      "screen": "left"
-    },
-    {
-      "title": "Characterization of walnut proteins extracted from meals and cakes with different oil production methods",
-      "abstract": "",
-      "authors": "Yunkun Zhu, Min Yang, Sanoyev Akbar Isomidinovich et al.",
-      "published": "Aug 2026",
-      "feedName": "npj Science of Food",
-      "url": "https://www.nature.com/articles/s41538-026-01101-1",
-      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01101-1/MediaObjects/41538_2026_1101_Fig1_HTML.png",
       "screen": "left"
     },
     {
@@ -362,6 +362,16 @@
       "screen": "left"
     },
     {
+      "title": "Machine learning methods move self-driving labs closer to materials discovery at scale",
+      "abstract": "Machine learning doesn't replace human intelligence, but it can outlast human endurance, which makes it a helpful tool for chemistry and materials discovery. Scientists know machine learning models can make predictions based on the vast reams of data they are trained on, but can they take it a step further and massively scale up testing those predictions?",
+      "authors": "",
+      "published": "Aug 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-08-machine-methods-labs-closer-materials.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/labs.jpg",
+      "screen": "right"
+    },
+    {
       "title": "LLM-based platform for generating new materials synthesis recipes dramatically cuts trial and error",
       "abstract": "A research team led by Professor Sung Beom Cho of the School of Advanced Materials Science and Engineering at Sungkyunkwan University (SKKU), in collaboration with the teams of Professors Jin Sung Park and Hyunsouk Cho of Ajou University and Professor Ju Li of the Massachusetts Institute of Technology (MIT), has developed a \"closed-loop materials synthesis planning platform\" that uses a large language model (LLM) to propose synthesis conditions and procedures for complex new materials and iteratively refine them based on experimental results.",
       "authors": "",
@@ -389,16 +399,6 @@
       "feedName": "Phys.org Analytics",
       "url": "https://phys.org/news/2026-08-carotene-isomers-reveal-driven-shifts.html",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/purification-and-chara-1.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "3D atomic imaging reveals a new pathway to crystal formation",
-      "abstract": "The most common scientific approach for thinking about how condensation, freezing and other phase transitions begin is based in classical nucleation theory, which was developed about a century ago. Thousands of experiments have supported a key equation describing how initial ordered seeds, called nuclei, form within disordered matter.",
-      "authors": "",
-      "published": "Aug 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-08-3d-atomic-imaging-reveals-pathway.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/update-the-textbooks-u.jpg",
       "screen": "right"
     },
     {

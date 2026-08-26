@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-26T00:44:36Z",
+  "updated": "2026-08-26T02:57:45Z",
   "items": [
     {
       "title": "Power representation in food systems",
@@ -212,6 +212,16 @@
       "screen": "left"
     },
     {
+      "title": "From plant compounds to packaging: recent advances in phytochemical added edible films and coatings",
+      "abstract": "Global food supply chain faces major challenges due to post-harvest losses, along with synthetic packaging waste accumulating in ecosystems, necessitating the engineering of bioactive edible films and coatings (ECFs). This review assesses the recent advances achieved by incorporating phytochemicals into bio-polymeric carriers to advance contemporary knowledge regarding phenolic compounds flavonoids and terpenoids. Special emphasis is placed on upcycling agricultural processing discards like pomegranate rinds, carrot pomace, and avocado seeds to create renewable origins for generating high-value functional additives. This review discusses the transition process from laboratory solvent casting methods to industrial manufacturing methods, which use hot-melt extrusion (HME) electrospinning, and roll-to-roll (R2R) coating together with advanced stabilization techniques that use microencapsulation in β-cyclodextrin (β-CD) for protecting heat-sensitive bioactive. The phytochemical-loaded packaging systems effectively mitigate microbial proliferation and lipid oxidation across produce, meat, dairy, and bakery sectors, extending product longevity. The creation of intelligent colorimetric sensors involves using pH-responsive anthocyanins, which enable real-time non-invasive monitoring of quality changes. Thus, there is significant potential for phytochemical-loaded edible packaging films or coatings in the field of food packaging.",
+      "authors": "Janani V, Praveen Kumar Dubey, Swarup Roy",
+      "published": "Aug 2026",
+      "feedName": "Frontiers Food Science",
+      "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.1898006",
+      "image": "",
+      "screen": "left"
+    },
+    {
       "title": "Shelf-life evaluation of precooked millet couscous (Pennisetum glaucum) during ambient storage, in Senegal",
       "abstract": "IntroductionMillet couscous occupies a significant place in the Senegalese diet and contributes to the valorization and promotion of local cereals. However, information regarding shelf life, physicochemical characteristics, microbiological safety, and sensory quality remains limited. Nevertheless, these properties are often overlooked, can play a key role in the promotion and economical and nutritional competitiveness of precooked millet couscous. This study aimed to determine, through scientific knowledge, the shelf life of precooked millet couscous packaged in polyethylene bags under ambient storage conditions in order to establish its minimum durability date (MDD).MethodsPrecooked couscous was produced in three samples, packaged at 500g per bag and then stored at laboratory ambient temperature (23 °C–30 °C) with relative humidity varying between 46% and 51% during storage. Samples of precooked millet couscous were taken regularly from T0 to T20 months to assess microbiological quality, pH, moisture content (humidity), water activity and sensory properties during storage. Data were analyzed using analysis of variance (ANOVA), and mean comparisons were performed using Fisher’s Least Significant Difference (LSD) test at a significance level of p < 0.05.Results and DiscussionFinding showed pathogenic microorganism including, Salmonella, E. coli, sulfite-reducing Clostridium, Bacillus cereus, and Staphylococcus aureus were not detected in precooked couscous millet during the entire storage period. However, aerobic mesophilic flora at 30 °C, yeasts and molds remained below the…",
       "authors": "Adjaratou Basse, Abdou Diouf, Eliasse Diémé et al.",
@@ -228,16 +238,6 @@
       "published": "Aug 2026",
       "feedName": "Frontiers Food Science",
       "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.1874327",
-      "image": "",
-      "screen": "left"
-    },
-    {
-      "title": "From plant compounds to packaging: recent advances in phytochemical added edible films and coatings",
-      "abstract": "Global food supply chain faces major challenges due to post-harvest losses, along with synthetic packaging waste accumulating in ecosystems, necessitating the engineering of bioactive edible films and coatings (ECFs). This review assesses the recent advances achieved by incorporating phytochemicals into bio-polymeric carriers to advance contemporary knowledge regarding phenolic compounds flavonoids and terpenoids. Special emphasis is placed on upcycling agricultural processing discards like pomegranate rinds, carrot pomace, and avocado seeds to create renewable origins for generating high-value functional additives. This review discusses the transition process from laboratory solvent casting methods to industrial manufacturing methods, which use hot-melt extrusion (HME) electrospinning, and roll-to-roll (R2R) coating together with advanced stabilization techniques that use microencapsulation in β-cyclodextrin (β-CD) for protecting heat-sensitive bioactive. The phytochemical-loaded packaging systems effectively mitigate microbial proliferation and lipid oxidation across produce, meat, dairy, and bakery sectors, extending product longevity. The creation of intelligent colorimetric sensors involves using pH-responsive anthocyanins, which enable real-time non-invasive monitoring of quality changes. Thus, there is significant potential for phytochemical-loaded edible packaging films or coatings in the field of food packaging.",
-      "authors": "Janani V, Praveen Kumar Dubey, Swarup Roy",
-      "published": "Aug 2026",
-      "feedName": "Frontiers Food Science",
-      "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.1898006",
       "image": "",
       "screen": "left"
     },
@@ -452,6 +452,16 @@
       "screen": "right"
     },
     {
+      "title": "Your genes may decide whether a low-carb diet sends cholesterol soaring",
+      "abstract": "A low-carb diet may raise LDL cholesterol much more sharply in people who are genetically predisposed to high cholesterol, particularly when they consume lots of saturated fat. The findings could help explain why people following seemingly similar diets can have dramatically different results.",
+      "authors": "",
+      "published": "Aug 2026",
+      "feedName": "ScienceDaily Nutrition",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260823015009.htm",
+      "image": "https://www.sciencedaily.com/images/1920/cholesterol-plaque-in-bloodstream.webp",
+      "screen": "right"
+    },
+    {
       "title": "Experimental compound helps burn fat without muscle loss",
       "abstract": "A decades-old compound may point to a new way of treating obesity by making the body burn more energy rather than simply reducing appetite. In mice, TOFA increased energy use by as much as 18%, reduced body fat without significant muscle loss, and improved blood sugar, triglycerides, and fatty liver disease. It also produced stronger results when combined with GLP-1 drugs such as Ozempic, Wegovy, Mounjaro, and Zepbound.",
       "authors": "",
@@ -469,16 +479,6 @@
       "feedName": "ScienceDaily Nutrition",
       "url": "https://www.sciencedaily.com/releases/2026/08/260822015148.htm",
       "image": "https://www.sciencedaily.com/images/1920/human-brain-in-alcohol-glass.webp",
-      "screen": "right"
-    },
-    {
-      "title": "Gut bacteria may unlock a hidden benefit of vegetables",
-      "abstract": "Gut bacteria can transform nitrate and plant-based iron from vegetables and other foods into protective molecules that may benefit the heart and metabolism. In experimental models, higher levels of these compounds were linked to lower blood pressure, better blood sugar control, healthier blood vessels, and less liver fat.",
-      "authors": "",
-      "published": "Aug 2026",
-      "feedName": "ScienceDaily Nutrition",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260822015145.htm",
-      "image": "https://www.sciencedaily.com/images/1920/intestinal-bacteria-gut-microbiome.webp",
       "screen": "right"
     },
     {

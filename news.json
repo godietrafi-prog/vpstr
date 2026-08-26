@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-26T12:35:33Z",
+  "updated": "2026-08-26T14:37:56Z",
   "items": [
     {
       "title": "Power representation in food systems",
@@ -362,6 +362,16 @@
       "screen": "left"
     },
     {
+      "title": "LLM-based platform for generating new materials synthesis recipes dramatically cuts trial and error",
+      "abstract": "A research team led by Professor Sung Beom Cho of the School of Advanced Materials Science and Engineering at Sungkyunkwan University (SKKU), in collaboration with the teams of Professors Jin Sung Park and Hyunsouk Cho of Ajou University and Professor Ju Li of the Massachusetts Institute of Technology (MIT), has developed a \"closed-loop materials synthesis planning platform\" that uses a large language model (LLM) to propose synthesis conditions and procedures for complex new materials and iteratively refine them based on experimental results.",
+      "authors": "",
+      "published": "Aug 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-08-llm-based-platform-generating-materials.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/research-team-develops-1.jpg",
+      "screen": "right"
+    },
+    {
       "title": "Plant-like chemical gardens show how simple reactions build complex structures",
       "abstract": "The famous quote by Cicero, \"If you have a garden and a library, you have everything you need,\" reminds us that the beauty of life lies in the harmony between nature and knowledge. More than 2,000 years later, this idea still resonates, particularly with a group of European researchers who have created a unique type of \"garden\": one that grows from chemistry itself.",
       "authors": "",
@@ -389,16 +399,6 @@
       "feedName": "Phys.org Analytics",
       "url": "https://phys.org/news/2026-08-3d-atomic-imaging-reveals-pathway.html",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/update-the-textbooks-u.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "Blood-clotting protein may be SARS-CoV-2's hidden accomplice, helping it hide from antibodies and reach blood vessels",
-      "abstract": "Fibrinogen, the abundant plasma protein best known for forming blood clots, may play a second and far less benign role during SARS-CoV-2 infection: acting as a molecular bridge that simultaneously hides the virus from neutralizing antibodies and delivers it to the cells lining blood vessels.",
-      "authors": "",
-      "published": "Aug 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-08-blood-clotting-protein-sars-cov.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/blood-clotting-protein.jpg",
       "screen": "right"
     },
     {
@@ -442,6 +442,26 @@
       "screen": "right"
     },
     {
+      "title": "Scientists may have found a shortcut to calorie restriction’s anti-aging benefits",
+      "abstract": "Moderate calorie restriction lowered an immune protein called C3 that appears to help drive chronic inflammation as the body ages. Blocking the same protein reduced age related inflammation in mice, raising the possibility that future treatments could mimic some benefits of calorie restriction without severe dieting.",
+      "authors": "",
+      "published": "Aug 2026",
+      "feedName": "ScienceDaily Nutrition",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260826055508.htm",
+      "image": "https://www.sciencedaily.com/images/1920/anti-aging-beauty-skincare.webp",
+      "screen": "right"
+    },
+    {
+      "title": "What you eat before age 2 may affect your health 70 years later",
+      "abstract": "Britain’s postwar sugar rationing created a rare natural experiment that let researchers examine how early sugar exposure might affect health decades later. People who experienced more rationing during their first 1,000 days had lower rates of several cancers and showed signs of slower biological aging. They were also still eating less sugar and maintaining healthier diets around age 50.",
+      "authors": "",
+      "published": "Aug 2026",
+      "feedName": "ScienceDaily Nutrition",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260824065522.htm",
+      "image": "https://www.sciencedaily.com/images/1920/multiple-generations-boy-father-grandfather.webp",
+      "screen": "right"
+    },
+    {
       "title": "Bird flu is spreading. Your backyard feeder could make it worse",
       "abstract": "Backyard bird feeders could become unexpected hotspots for H5N1 as Australia’s bird flu outbreak spreads, bringing species together in ways that rarely occur naturally. Experts say stopping feeding is safest, while smaller amounts of food, no hand-feeding, and careful cleaning can reduce the danger.",
       "authors": "",
@@ -462,23 +482,13 @@
       "screen": "right"
     },
     {
-      "title": "Experimental compound helps burn fat without muscle loss",
-      "abstract": "A decades-old compound may point to a new way of treating obesity by making the body burn more energy rather than simply reducing appetite. In mice, TOFA increased energy use by as much as 18%, reduced body fat without significant muscle loss, and improved blood sugar, triglycerides, and fatty liver disease. It also produced stronger results when combined with GLP-1 drugs such as Ozempic, Wegovy, Mounjaro, and Zepbound.",
-      "authors": "",
+      "title": "Prognostic value of nutritional assessment tools in patients with sepsis: a systematic review with meta-analysis of PNI and GNRI",
+      "abstract": "BackgroundMalnutrition is common in patients with sepsis and is associated with prolonged hospitalization and increased mortality. Early assessment of nutritional status using standardized nutritional assessment tools may be important for risk stratification and outcome prediction.MethodsWe searched PubMed, Embase, Web of Science, and the Cochrane Library from database inception to November 2025. Two reviewers independently performed study selection, data extraction, and risk-of-bias assessment, with disagreements resolved through discussion. Cohort and case-control studies evaluating nutritional assessment tools in patients with sepsis and reporting mortality-related outcomes were included.ResultsA total of 11 studies involving 34,810 patients were included. All included studies had a Newcastle-Ottawa Scale (NOS) score of ≥7. Seven nutritional assessment tools were evaluated: the Prognostic Nutritional Index (PNI), Nutrition Risk in the Critically Ill (NUTRIC) score, modified NUTRIC (mNUTRIC) score, Controlling Nutritional Status (CONUT) score, Geriatric Nutritional Risk Index (GNRI), Nutritional Risk Screening 2002 (NRS 2002), and blood urea nitrogen-to-albumin ratio (BAR). Quantitative synthesis was feasible only for PNI and GNRI because of the limited number and heterogeneity of studies evaluating the other tools. A random-effects meta-analysis of studies evaluating PNI showed a pooled hazard ratio (HR) of 0.57 (95% CI: 0.51–0.64), indicating that higher PNI scores were associated with lower short-term mortality in patients with sepsis. The remaining tools were therefor…",
+      "authors": "Zanzan Sun, Jiajing Liu, Liqun Zhu et al.",
       "published": "Aug 2026",
-      "feedName": "ScienceDaily Nutrition",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260823014953.htm",
-      "image": "https://www.sciencedaily.com/images/1920/fat-burning-human-tissue-cells.webp",
-      "screen": "right"
-    },
-    {
-      "title": "Quitting alcohol may prime the brain for relapse",
-      "abstract": "Mice that developed compulsive drinking after alcohol abstinence showed more than double the activity in a brain region associated with stress and addiction. Because the signal appeared before they drank again, researchers think it could eventually help predict who is most at risk of relapse.",
-      "authors": "",
-      "published": "Aug 2026",
-      "feedName": "ScienceDaily Nutrition",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260822015148.htm",
-      "image": "https://www.sciencedaily.com/images/1920/human-brain-in-alcohol-glass.webp",
+      "feedName": "Frontiers Nutrition",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1890738",
+      "image": "",
       "screen": "right"
     },
     {
@@ -492,32 +502,22 @@
       "screen": "right"
     },
     {
-      "title": "Prognostic value of nutritional assessment tools in patients with sepsis: a systematic review with meta-analysis of PNI and GNRI",
-      "abstract": "BackgroundMalnutrition is common in patients with sepsis and is associated with prolonged hospitalization and increased mortality. Early assessment of nutritional status using standardized nutritional assessment tools may be important for risk stratification and outcome prediction.MethodsWe searched PubMed, Embase, Web of Science, and the Cochrane Library from database inception to November 2025. Two reviewers independently performed study selection, data extraction, and risk-of-bias assessment, with disagreements resolved through discussion. Cohort and case-control studies evaluating nutritional assessment tools in patients with sepsis and reporting mortality-related outcomes were included.ResultsA total of 11 studies involving 34,810 patients were included. All included studies had a Newcastle-Ottawa Scale (NOS) score of ≥7. Seven nutritional assessment tools were evaluated: the Prognostic Nutritional Index (PNI), Nutrition Risk in the Critically Ill (NUTRIC) score, modified NUTRIC (mNUTRIC) score, Controlling Nutritional Status (CONUT) score, Geriatric Nutritional Risk Index (GNRI), Nutritional Risk Screening 2002 (NRS 2002), and blood urea nitrogen-to-albumin ratio (BAR). Quantitative synthesis was feasible only for PNI and GNRI because of the limited number and heterogeneity of studies evaluating the other tools. A random-effects meta-analysis of studies evaluating PNI showed a pooled hazard ratio (HR) of 0.57 (95% CI: 0.51–0.64), indicating that higher PNI scores were associated with lower short-term mortality in patients with sepsis. The remaining tools were therefor…",
-      "authors": "Zanzan Sun, Jiajing Liu, Liqun Zhu et al.",
+      "title": "Efficacy of Mediterranean diet interventions on children and adolescents affected by overweight or obesity: a systematic review and meta-analysis",
+      "abstract": "Background/objectivesOverweight and obesity in children and adolescents is a global health issue with increasing prevalence. The Mediterranean diet (Med diet) is an extensively studied dietary pattern with benefits on various health conditions such as cardiovascular disease, diabetes mellitus and obesity in adult populations but the evidence on children and adolescents remains limited. The aim of this systematic review and meta-analysis is to collect, assess, and synthesize evidence from randomized controlled trials (RCTs) on the efficacy of Med diet on anthropometric and cardiometabolic parameters in children and adolescents with excess body weight.MethodsThree electronic databases (PubMed, Cochrane Central Register of Controlled Trials, Scopus) and references in relevant studies and systematic reviews were searched. Random-effects meta-analysis models were used to synthesize study effect estimates. Heterogeneity was assessed using the I2. The quality of evidence was evaluated using the Cochrane Risk of Bias tool v2.0.ResultsFive RCTs involving 330 children and adolescents affected by overweight or obesity were included. Mean study duration was 12 weeks (range: 8–16 weeks). Compared with the control group, Med diet was significantly associated with lower body mass index (BMI) (Standardized mean difference [SMD] = −0.26, 95% confidence intervals [CI] = −0.49 to −0.03, I2 = 0%) and lower systolic blood pressure (SMD = −0.48, 95% CI = −0.87 to −0.09, I2 = 45.9%). No statistically significant associations were observed for any other anthropometric or cardiometabolic parameter …",
+      "authors": "Iro Rapti, Georgios Markozannes, Ourania Papathanasiou et al.",
       "published": "Aug 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1890738",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1749319",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Central adiposity and sex influence lipid and glucose indices in Mexican adults: implications for metabolic risk assessment",
-      "abstract": "IntroductionCentral adiposity is a major determinant of cardiometabolic risk. However, routinely used composite lipid–glucose indices are often interpreted to indicate a uniform metabolic signal across individuals with different body fat distributions. This study examined whether the interpretive behavior of the atherogenic index of plasma (AIP) and the triglyceride–glucose (TyG) index varies with central adiposity and the evaluated three-variant triglyceride-weighted genetic risk score (wGRS) in Mexican adults.MethodsA cross-sectional analytical design was applied to data from 396 participants stratified by waist-to-height ratio (WHtR), incorporating correlation structure, an exploratory WHtR × wGRS interaction, and distributional analyses.ResultsAcross WHtR tertiles, AIP was higher in the upper tertiles than in the lowest, with minimal additional separation between the intermediate and highest groups, and TyG showed the same upper-versus-lower tertile pattern. Sex-stratified predictions from the continuous interaction models showed that the absolute difference in AIP between wGRS levels of −1 SD and +1 SD narrowed from 0.91 to 0.15 z-score units in men and from 0.32 to 0.03 in women as WHtR increased from −1 SD to +1 SD. Distributional analyses revealed persistent within-stratum overlap, indicating metabolic heterogeneity despite similar anthropometric classifications.DiscussionIdentical AIP or TyG values may occur across different adiposity levels and degrees of wGRS-related separation within the evaluated population, supporting interpretation of these indices in relatio…",
-      "authors": "César Hernández-Guerrero, José P. Tejeda-Miramontes, Edgar J. Mendivil et al.",
+      "title": "Circulating metabolite signatures mediating the association between minerals in domestic water and incident MASLD: a prospective cohort study",
+      "abstract": "BackgroundEpidemiological evidence on minerals in domestic water and incident metabolic dysfunction-associated steatotic liver disease (MASLD) remains limited, particularly regarding potential mediating roles of circulating metabolites. We evaluated the association between minerals and incident MASLD and characterized metabolomic biomarkers that may mediate this association.MethodsWe included 218,339 UK Biobank participants without MASLD or other liver disease at baseline. Domestic water hardness (DWH), including calcium (Ca), magnesium (Mg), and calcium carbonate (CaCO3), was obtained from water-utility outputs. MASLD was ascertained using linked health records. One hundred sixty-eight plasma biomarkers were measured using nuclear magnetic resonance profiling. We used Cox models to quantify associations between minerals and MASLD risk, while causal mediation analyses were used to evaluate mediation by these biomarkers.ResultsDuring a median follow-up of 13.7 years, 3,004 participants developed MASLD. Higher Ca in domestic water was positively associated with incident MASLD (Hazard ratio 1.087, 95% confidence interval 1.013–1.166), whereas Mg (1.042, 0.993–1.094) and CaCO3 (1.006, 0.939–1.078) showed no significant associations with MASLD. In mediation analyses, Glutamine, Lactate, and Alanine may mediated the association, with proportions mediated of 21.42, 7.53, and 5.38%, respectively.ConclusionCa in domestic water was positively associated with incident MASLD, with partial mediation by metabolites including glutamine, lactate, and alanine. These findings provide insight…",
+      "authors": "Keyang Li, Yincheng Liu, Wenlong Li et al.",
       "published": "Aug 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1834724",
-      "image": "",
-      "screen": "right"
-    },
-    {
-      "title": "Usual dietary intake estimation in the German National Cohort (NAKO)",
-      "abstract": "IntroductionAccurate measurement of dietary intake remains challenging in large-scale nutritional studies. This study aimed to develop and evaluate both a practical dietary assessment strategy and a computationally efficient statistical method for estimating usual dietary intake in the German National Cohort (NAKO Gesundheitsstudie).MethodsWe developed a blended approach using data from NAKO. During baseline (2014–2019) and first follow-up examinations (2019–2024), up to four 24-h food lists (24 h-FLs) and one food frequency questionnaire (FFQ) were collected. We combined these dietary intake data sources using an adapted Multiple Source Method (MSM) and supplemented them with estimated consumption amounts based on data from the German National Nutrition Survey II (NVS II, 2005–2007) to generate measurement-error-corrected estimates of dietary intake. The adapted MSM was empirically evaluated against conventional logistic linear mixed-effects model (LLMM), which can be computationally complex for large datasets due to lengthy processing times. Additionally, a simulation study evaluated how varying the number of 24 h-FLs and FFQ assessments affected the consumption probability estimates.ResultsThe adapted MSM showed high statistical agreement with LLMM (correlation ≥0.97). The usual intake of 90 EPIC-SOFT food groups, 124 nutrients, and energy intake was estimated for 152,304 participants (75% of the cohort) who had at least one 24 h-FL and an FFQ available. Furthermore, the simulation showed that including repeated 24 h-FLs alongside an FFQ improved the accuracy of individu…",
-      "authors": "Nina Wawro, Sylvia Gastell, Rafael Mikolajczyk et al.",
-      "published": "Aug 2026",
-      "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1894787",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1866771",
       "image": "",
       "screen": "right"
     },

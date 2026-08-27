@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-26T22:36:58Z",
+  "updated": "2026-08-27T05:54:20Z",
   "items": [
     {
       "title": "Power representation in food systems",
@@ -282,26 +282,6 @@
       "screen": "left"
     },
     {
-      "title": "In-Silico Assessment of the Neuromodulatory Potential of Fermented Foods",
-      "abstract": "",
-      "authors": "Ramya Balasubramanian, Thomaz F. S Bastiaanssen, John Leech et al.",
-      "published": "Aug 2026",
-      "feedName": "npj Science of Food",
-      "url": "https://www.nature.com/articles/s41538-026-01089-8",
-      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01089-8/MediaObjects/41538_2026_1089_Fig1_HTML.png",
-      "screen": "left"
-    },
-    {
-      "title": "Gut microbiota disorder-associated sphingomyelin: a key role in non-alcoholic fatty liver disease under aflatoxin B1 exposure",
-      "abstract": "",
-      "authors": "Junya Zeng, Xinyu Liu, Xinyu Feng et al.",
-      "published": "Aug 2026",
-      "feedName": "npj Science of Food",
-      "url": "https://www.nature.com/articles/s41538-026-01070-5",
-      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01070-5/MediaObjects/41538_2026_1070_Fig1_HTML.png",
-      "screen": "left"
-    },
-    {
       "title": "Medicinal and edible fungal polysaccharide: sources, preparation, structural characteristics, and health benefits",
       "abstract": "",
       "authors": "Ruli Zheng, Tianjing Wang, Lin Bai et al.",
@@ -312,13 +292,33 @@
       "screen": "left"
     },
     {
-      "title": "High-altitude Lactiplantibacillus plantarum AL4510 alleviates superovulation-induced premature ovarian failure via the gut-ovary axis",
+      "title": "Characterization of walnut proteins extracted from meals and cakes with different oil production methods",
       "abstract": "",
-      "authors": "Miao Pang, Xueni Fan, Xin Li et al.",
+      "authors": "Yunkun Zhu, Min Yang, Sanoyev Akbar Isomidinovich et al.",
       "published": "Aug 2026",
       "feedName": "npj Science of Food",
-      "url": "https://www.nature.com/articles/s41538-026-01102-0",
-      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01102-0/MediaObjects/41538_2026_1102_Fig1_HTML.png",
+      "url": "https://www.nature.com/articles/s41538-026-01101-1",
+      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01101-1/MediaObjects/41538_2026_1101_Fig1_HTML.png",
+      "screen": "left"
+    },
+    {
+      "title": "Composite multilayer nanomaterials for photothermal sterilization of pathogenic bacteria in milk and water",
+      "abstract": "",
+      "authors": "Xuening Shi, Huiqian Zhang, Jingying Zheng et al.",
+      "published": "Aug 2026",
+      "feedName": "npj Science of Food",
+      "url": "https://www.nature.com/articles/s41538-026-01104-y",
+      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01104-y/MediaObjects/41538_2026_1104_Fig1_HTML.png",
+      "screen": "left"
+    },
+    {
+      "title": "From metabolomics dark matter to bioactivity: a computational framework for prioritizing food-derived bioactive compounds",
+      "abstract": "",
+      "authors": "Pranav Gupta, Michael Gunning, Selena Ahmed et al.",
+      "published": "Aug 2026",
+      "feedName": "npj Science of Food",
+      "url": "https://www.nature.com/articles/s41538-026-01066-1",
+      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01066-1/MediaObjects/41538_2026_1066_Fig1_HTML.png",
       "screen": "left"
     },
     {
@@ -362,6 +362,16 @@
       "screen": "left"
     },
     {
+      "title": "Electrically charged raindrops could be corroding metal with protective coatings",
+      "abstract": "Electrically charged raindrops, a naturally occurring phenomenon, can break down surfaces treated with protective coatings, according to new research published in Nature. This previously overlooked corrosion mechanism highlights the need for a new method of preserving metal objects like cars, ships, buildings and cultural heritage sites.",
+      "authors": "",
+      "published": "Aug 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-08-electrically-raindrops-corroding-metal-coatings.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/electrically-charged-r.jpg",
+      "screen": "right"
+    },
+    {
       "title": "Machine learning methods move self-driving labs closer to materials discovery at scale",
       "abstract": "Machine learning doesn't replace human intelligence, but it can outlast human endurance, which makes it a helpful tool for chemistry and materials discovery. Scientists know machine learning models can make predictions based on the vast reams of data they are trained on, but can they take it a step further and massively scale up testing those predictions?",
       "authors": "",
@@ -389,16 +399,6 @@
       "feedName": "Phys.org Analytics",
       "url": "https://phys.org/news/2026-08-chemical-gardens-simple-reactions-complex.html",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/cbrio-growing-knowledg.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "Four ζ-carotene isomers reveal light-driven shifts and skin-protective potential",
-      "abstract": "ζ-Carotene, a key intermediate in lycopene biosynthesis, is widely found in plants and photosynthetic microorganisms, but its isomer-specific properties remain poorly understood due to isolation and purification challenges. Researchers have now developed a purification strategy to obtain high-purity geometric isomers and systematically characterized, for the first time, their isomer-specific spectral properties, photoisomerization behavior, UV-shielding capacity, antioxidant activity and skin-related biological activities—highlighting ζ-carotene's promise as a natural ingredient for skin health and photoprotection.",
-      "authors": "",
-      "published": "Aug 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-08-carotene-isomers-reveal-driven-shifts.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/purification-and-chara-1.jpg",
       "screen": "right"
     },
     {
@@ -482,42 +482,42 @@
       "screen": "right"
     },
     {
-      "title": "Circulating metabolite signatures mediating the association between minerals in domestic water and incident MASLD: a prospective cohort study",
-      "abstract": "BackgroundEpidemiological evidence on minerals in domestic water and incident metabolic dysfunction-associated steatotic liver disease (MASLD) remains limited, particularly regarding potential mediating roles of circulating metabolites. We evaluated the association between minerals and incident MASLD and characterized metabolomic biomarkers that may mediate this association.MethodsWe included 218,339 UK Biobank participants without MASLD or other liver disease at baseline. Domestic water hardness (DWH), including calcium (Ca), magnesium (Mg), and calcium carbonate (CaCO3), was obtained from water-utility outputs. MASLD was ascertained using linked health records. One hundred sixty-eight plasma biomarkers were measured using nuclear magnetic resonance profiling. We used Cox models to quantify associations between minerals and MASLD risk, while causal mediation analyses were used to evaluate mediation by these biomarkers.ResultsDuring a median follow-up of 13.7 years, 3,004 participants developed MASLD. Higher Ca in domestic water was positively associated with incident MASLD (Hazard ratio 1.087, 95% confidence interval 1.013–1.166), whereas Mg (1.042, 0.993–1.094) and CaCO3 (1.006, 0.939–1.078) showed no significant associations with MASLD. In mediation analyses, Glutamine, Lactate, and Alanine may mediated the association, with proportions mediated of 21.42, 7.53, and 5.38%, respectively.ConclusionCa in domestic water was positively associated with incident MASLD, with partial mediation by metabolites including glutamine, lactate, and alanine. These findings provide insight…",
-      "authors": "Keyang Li, Yincheng Liu, Wenlong Li et al.",
+      "title": "Food choice determinants and perceptions of healthy eating and food safety among online food delivery application users in Saudi Arabia: a cross-sectional study",
+      "abstract": "BackgroundOnline food delivery applications (OFDAs) have fundamentally transformed dietary consumption patterns globally, yet their associations with food choice determinants, healthy-eating perceptions, and food safety concerns in Saudi Arabia remain incompletely characterized.ObjectivesThis study aimed to evaluate OFDA usage patterns and their sociodemographic determinants; identify factors influencing food choices; assess perceptions of healthy food availability and food safety within OFDAs; and determine whether usage frequency was associated with body mass index (BMI) or dietary healthfulness.MethodsA cross-sectional, online survey was conducted from February to April 2025 among Saudi residents aged ≥ 20 years who had used an OFDA at least once per month (n = 303). Sociodemographic associations with usage frequency were evaluated using chi-square tests; Mann–Whitney U and Kruskal–Wallis H tests assessed differences in perception across subgroups. Statistical significance was set at p < 0.05.ResultsThe sample was predominantly female (73.2%) and aged 20–29 years (70.5%), with 51.7% classified as frequent users (≥ 2–3 times/week). Usage frequency was significantly associated with region (p = 0.033) and monthly income (p = 0.023). Price (82.8%), food appearance (56.6%), and delivery timing (49.7%) were the primary determinants of food choice. HungerStation was the most-used platform (61.6%), followed by Jahez (53.3%). Despite 58.9% of participants reporting health-seeking intentions, fast food was the predominant choice (78.5%), revealing a prominent intention–behavior ga…",
+      "authors": "Nawaf W. Alruwaili, Abdulhmed Alharbi",
       "published": "Aug 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1866771",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1887881",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Exploratory benchmarking of AI-generated diet plans for inherited protein metabolism disorders: a simulation-based evaluation of nutritional accuracy and clinical safety",
-      "abstract": "ObjectiveArtificial intelligence (AI)-based large language models (LLMs) are increasingly used to support nutrition-related decision-making; however, their ability to generate clinically appropriate dietary plans for inherited protein metabolism disorders remains largely unexplored. This study aimed to perform an exploratory simulation-based benchmarking analysis of AI-generated dietary plans for phenylketonuria (PKU), maple syrup urine disease (MSUD), and propionic acidemia (PPA) using disease-specific metabolic nutrition guidelines.MethodsStandardized pediatric case scenarios were developed for PKU, MSUD, and PPA. Using identical English-language prompts, ChatGPT-5.3 Pro and Gemini 3 Pro Advanced each generated 3-day dietary plans. Nutrient composition was analyzed using the BeBiS Nutrition Information System and evaluated against Dietary Reference Intakes (DRIs). Disease-specific nutritional targets, including amino acid intake, protein distribution, and energy provision, were benchmarked against recommendations from Genetic Metabolic Dietitians International (GMDI). Nutritional characteristics of the dietary plans generated by the two AI models were compared using exploratory statistical analyses.ResultsBoth LLMs generated structured dietary plans with generally acceptable overall nutritional characteristics; however, clinically relevant deviations from disease-specific nutritional targets were identified across all three disorders. In the PKU case, both models achieved the recommended phenylalanine range, but neither simultaneously met protein and tyrosine recommendati…",
-      "authors": "Taha Gökmen Ülger, Emre Adıgüzel",
+      "title": "Diagnostic variability in sarcopenia and sarcopenic obesity among older adults: a clinical and public health challenge",
+      "abstract": "IntroductionSarcopenia and sarcopenic obesity (SO) are highly prevalent among older adults; however, the lack of standardized diagnostic criteria compromises epidemiological comparability and clinical practice. Therefore, this study aimed to evaluate differences in the prevalence and diagnostic agreement of sarcopenia and SO according to different indicators of muscle strength and adiposity.MethodsA cross-sectional study was conducted among 870 community-dwelling older adults. The prevalence and diagnostic agreement of sarcopenia and sarcopenic obesity (SO) were compared using different combinations of indicators of muscle strength (handgrip strength and the sit-to-stand test), muscle mass (fat-free mass index), and adiposity (BMI, waist circumference, and body fat percentage).ResultsThe prevalence of sarcopenia ranged from 9.2% (95% CI = [7.40–11.36]) to 18.8% (95% CI = [16.30–21.65]) and was significantly higher when the sit-to-stand test was used as the indicator of muscle strength (p < 0.001). The prevalence of SO ranged from 0 to 5.17% (95% CI = [3.84–6.92]; p < 0.001), with lower estimates when BMI was used as the obesity criterion (0.23%; 95% CI = [0.04–0.92]) and 0.46% (95% CI = [0.15–1.26]), and higher prevalence when body fat percentage was used (3.22%; 95% CI = [2.19–4.68]) and 5.17% (95% CI = [3.84–6.92]). Diagnostic agreement ranged from “no agreement” to “substantial agreement,” with the highest agreement observed between criteria using body fat percentage (κ = 0.62; 95% CI = [0.47–0.74]).ConclusionThe findings demonstrate substantial variability in the preval…",
+      "authors": "Táscya Morganna de Morais Santos, Gabriel Soares Bádue, Nykholle Bezerra Almeida et al.",
       "published": "Aug 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1877144",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1895826",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Prognostic nutritional index and geriatric nutritional risk index as predictors of in-hospital major adverse cardiovascular events after percutaneous coronary intervention in acute coronary syndrome patients: a multicenter retrospective cohort study",
-      "abstract": "ObjectiveTo evaluate the association between PNI and GNRI with in-hospital MACE after PCI in patients with ACS, and to compare the predictive value of these two nutritional assessment tools. The optimal cutoff values of PNI and GNRI were determined by calculating the maximum Youden’s index based on ROC curve analysis in the training cohort.MethodsThis multicenter retrospective cohort study included ACS patients who underwent PCI at three hospitals between January 2021 and December 2024. The training cohort consisted of 638 patients from Anhui Provincial Hospital, while the validation cohort included 212 patients from Hefei Second People’s Hospital and 238 patients from Ma’anshan People’s Hospital. PNI was calculated based on serum albumin and lymphocyte count at admission, while GNRI was calculated using serum albumin and body mass index. The primary endpoint was in-hospital MACE, including all-cause mortality, myocardial infarction, stroke, and target vessel revascularization. Multivariate logistic regression analysis was used to assess the association of PNI and GNRI with in-hospital MACE, and the predictive abilities of the two indices were compared using ROC curve analysis.ResultsIn the training cohort, 63 patients (9.9%) experienced in-hospital MACE. Multivariate analysis showed that low PNI ( < 45.2) and low GNRI ( < 98.0) were both independent predictors of in-hospital MACE (PNI: adjusted OR = 2.37, 95%CI: 1.42–3.96, p = 0.001; GNRI: adjusted OR = 2.18, 95%CI: 1.31–3.64, p = 0.003). ROC analysis revealed that PNI (AUC = 0.721, 95%CI: 0.653–0.789) and GNRI (AUC = 0.70…",
-      "authors": "Jun Li, Fachao Shi, Zheng Wang et al.",
+      "title": "Preoperative prognostic nutritional index and in-hospital mortality in neonates undergoing cardiac surgery for congenital heart disease: a single-center retrospective study",
+      "abstract": "BackgroundNeonates undergoing cardiac surgery for congenital heart disease (CHD) represent one of the highest-risk subpopulations in pediatric cardiac surgery. Preoperative nutritional and immune reserve may substantially influence perioperative resilience, yet practical neonatal-specific nutritional risk markers remain insufficiently defined.ObjectiveTo evaluate the association between preoperative prognostic nutritional index (PNI) and in-hospital mortality in neonates undergoing cardiac surgery for CHD, and to explore a neonatal-specific cutoff value for early risk stratification.MethodsThis retrospective single-center cohort study included 433 neonates ( ≤ 28 days of postnatal age at surgery) who underwent primary cardiac surgery for CHD between January 2021 and December 2025. PNI was calculated from the final routine preoperative serum albumin (g/L) and total lymphocyte count ( × 109/L) obtained before the index surgery. The optimal cutoff value was derived using receiver operating characteristic analysis and the Youden index. Associations between PNI and in-hospital mortality were assessed using nested multivariable logistic regression models and generalized additive models.ResultsOverall in-hospital mortality was 3.70% (16/433), and mean PNI was 53.49 ± 13.05. Receiver operating characteristic analysis yielded an area under the curve of 0.661 (95% CI: 0.535–0.786; p = 0.020), with an optimal cutoff of PNI < 43.65, sensitivity of 56.3% (9/16), and specificity of 76.7% (320/417). Mortality was significantly higher in the low-PNI group than in the high-PNI group (9/106,…",
+      "authors": "Heqi Zhang, Haoju Dong, Taibing Fan et al.",
       "published": "Aug 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1848510",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1860048",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Efficacy of Mediterranean diet interventions on children and adolescents affected by overweight or obesity: a systematic review and meta-analysis",
-      "abstract": "Background/objectivesOverweight and obesity in children and adolescents is a global health issue with increasing prevalence. The Mediterranean diet (Med diet) is an extensively studied dietary pattern with benefits on various health conditions such as cardiovascular disease, diabetes mellitus and obesity in adult populations but the evidence on children and adolescents remains limited. The aim of this systematic review and meta-analysis is to collect, assess, and synthesize evidence from randomized controlled trials (RCTs) on the efficacy of Med diet on anthropometric and cardiometabolic parameters in children and adolescents with excess body weight.MethodsThree electronic databases (PubMed, Cochrane Central Register of Controlled Trials, Scopus) and references in relevant studies and systematic reviews were searched. Random-effects meta-analysis models were used to synthesize study effect estimates. Heterogeneity was assessed using the I2. The quality of evidence was evaluated using the Cochrane Risk of Bias tool v2.0.ResultsFive RCTs involving 330 children and adolescents affected by overweight or obesity were included. Mean study duration was 12 weeks (range: 8–16 weeks). Compared with the control group, Med diet was significantly associated with lower body mass index (BMI) (Standardized mean difference [SMD] = −0.26, 95% confidence intervals [CI] = −0.49 to −0.03, I2 = 0%) and lower systolic blood pressure (SMD = −0.48, 95% CI = −0.87 to −0.09, I2 = 45.9%). No statistically significant associations were observed for any other anthropometric or cardiometabolic parameter …",
-      "authors": "Iro Rapti, Georgios Markozannes, Ourania Papathanasiou et al.",
+      "title": "Joint trajectories of adiposity and systemic inflammation and incident diabetes among older adults: a bi-cohort prospective study with mediation analysis",
+      "abstract": "BackgroundObesity and chronic low-grade inflammation are established risk factors for type 2 diabetes, yet their joint longitudinal evolution and combined contribution to diabetes incidence remain poorly characterized in aging populations.ObjectiveTo identify joint trajectories of adiposity and systemic inflammation, evaluate their associations with incident diabetes, and quantify the mediating role of glycated hemoglobin (HbA1c) across two independent cohorts.MethodsThis prospective study included 3,733 diabetes-free adults aged ≥50 years from the English Longitudinal Study of Ageing (ELSA, n = 1,778) and the Health and Retirement Study (HRS, n = 1,955), with approximately 8 years of follow-up. Group-based multi-trajectory modeling identified joint trajectory groups under two strategies: general adiposity (body mass index paired with log-transformed C-reactive protein) and central adiposity (waist-to-height ratio paired with log-transformed C-reactive protein). Associations with incident diabetes were estimated using Cox proportional hazards models pooled via random-effects meta-analysis. Mediation analysis quantified the proportion statistically mediated through mid-wave HbA1c.ResultsFour trajectory groups were identified under each strategy in both cohorts. A graded association was observed: the highest-risk group exhibited substantially elevated diabetes risk under both general adiposity (pooled HR 6.00, 95% CI 3.71–9.70) and central adiposity strategies (pooled HR 5.69, 95% CI 3.37–9.59) after full adjustment. Under the conservative outcome definition, HbA1c mediated 1…",
+      "authors": "Fubin Teng, Shichao Li, Di Liu",
       "published": "Aug 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1749319",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1867835",
       "image": "",
       "screen": "right"
     },
@@ -829,7 +829,7 @@
       "venue": "Advanced Functional Materials",
       "feedName": "Lab Research",
       "citationCount": 22,
-      "recentCitations": 1,
+      "recentCitations": 0,
       "quartile": "Q1",
       "s2_paper_id": "f8de42bddd0ecab555075b5f1e2cdce6f18f1a56",
       "url": "https://doi.org/10.1002/adfm.202306586",

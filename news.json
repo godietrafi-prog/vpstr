@@ -1,6 +1,26 @@
 {
-  "updated": "2026-08-28T13:38:46Z",
+  "updated": "2026-08-28T23:19:08Z",
   "items": [
+    {
+      "title": "Emerging biofuel crop frontiers risk repeating old land injustices",
+      "abstract": "Past biofuel expansions reveal that when industrial-scale investment outpaces land governance, independent scrutiny and community participation, low-carbon crop transitions can reproduce land concentration, displacement and ecological simplification. A close examination of an emerging biofuel frontier in Brazil shows why land rights, public accountability and equitable benefit-sharing must guide crop-based decarbonization from the outset.",
+      "authors": "Chuan Liao, Katie Rohrbaugh, Seongmin Shin et al.",
+      "published": "Aug 2026",
+      "feedName": "Nature Food",
+      "url": "https://www.nature.com/articles/s43016-026-01425-x",
+      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs43016-026-01425-x/MediaObjects/43016_2026_1425_Fig1_HTML.png",
+      "screen": "left"
+    },
+    {
+      "title": "Systematic review of nutrient profile models for front-of-pack nutrition labelling",
+      "abstract": "Nutrient profile models (NPMs) underpin front-of-pack nutrition labelling (FOPNL), which can help consumers to make healthier food choices. This systematic review identifies and characterizes existing NPMs for FOPNL systems globally.",
+      "authors": "Margarida Bica, Jessica Renzella, Asha Kaur et al.",
+      "published": "Aug 2026",
+      "feedName": "Nature Food",
+      "url": "https://www.nature.com/articles/s43016-026-01414-0",
+      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs43016-026-01414-0/MediaObjects/43016_2026_1414_Fig1_HTML.png",
+      "screen": "left"
+    },
     {
       "title": "Power representation in food systems",
       "abstract": "Systems modelling and power mapping illuminate different dimensions of power in food systems but are rarely used to interrogate one another. This Comment proposes recursive representational revision, a methodological approach that organizes iterative engagement between the two so that each becomes a resource for revising assumptions about power embedded in the other.",
@@ -19,26 +39,6 @@
       "feedName": "Nature Food",
       "url": "https://www.nature.com/articles/s43016-026-01417-x",
       "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs43016-026-01417-x/MediaObjects/43016_2026_1417_Fig1_HTML.png",
-      "screen": "left"
-    },
-    {
-      "title": "Considerations for maximizing the effectiveness of debt-for-food swaps",
-      "abstract": "Debt-for-food swaps have been presented as instruments that can simultaneously mobilize additional resources for food security and alleviate debt distress in countries with heavy debt burdens. A recently announced large-scale swap deal between Kenya and the US International Development Finance Corporation provides an opportunity to assess the future potential of such instruments and to identify key considerations for maximizing their effectiveness.",
-      "authors": "Danny Cassimon, Dennis Essers",
-      "published": "Aug 2026",
-      "feedName": "Nature Food",
-      "url": "https://www.nature.com/articles/s43016-026-01409-x",
-      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs43016-026-01409-x/MediaObjects/43016_2026_1409_Fig1_HTML.png",
-      "screen": "left"
-    },
-    {
-      "title": "Food systems performance evaluated against targets and benchmarks reveals urgent gaps and a path to 2050",
-      "abstract": "This study identifies targets and proposes benchmarks for 44 indicators from the Food Systems Countdown Initiative. The analysis reveals what is required for their achievement at national and global levels by 2030 and 2050.",
-      "authors": "Bianca Carducci, Kate Schneider Lecy, Stella Nordhagen et al.",
-      "published": "Aug 2026",
-      "feedName": "Nature Food",
-      "url": "https://www.nature.com/articles/s43016-026-01379-0",
-      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs43016-026-01379-0/MediaObjects/43016_2026_1379_Fig1_HTML.png",
       "screen": "left"
     },
     {
@@ -322,6 +322,16 @@
       "screen": "left"
     },
     {
+      "title": "Artificial intelligence in modern agriculture: recent advances, challenges, and future directions: a systematic review",
+      "abstract": "",
+      "authors": "Nanziba Ibnat, Muhammad Abul Kalam Azad, Saleh Shafique Chowdhury et al.",
+      "published": "",
+      "feedName": "AI in Agriculture",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2589721726000917?dgcid=rss_sd_all",
+      "image": "",
+      "screen": "left"
+    },
+    {
       "title": "PD-CLIP: A contrastive language-image pre-training framework for zero-shot fine-grained plant disease diagnosis",
       "abstract": "",
       "authors": "Pengyao Xie, Xingjian Li, Weilong He et al.",
@@ -352,14 +362,24 @@
       "screen": "left"
     },
     {
-      "title": "Adopting artificial intelligence for a circular economy in the agro-industrial sector: A critical review of past achievements and future directions",
-      "abstract": "",
-      "authors": "Imam Santoso, Hendri Cahya Aprilianto, Hsin Rau et al.",
-      "published": "",
-      "feedName": "AI in Agriculture",
-      "url": "https://www.sciencedirect.com/science/article/pii/S2589721726000966?dgcid=rss_sd_all",
-      "image": "",
-      "screen": "left"
+      "title": "Scientists capture first molecular-level images of water reorganization during a reaction crucial for life",
+      "abstract": "Some of nature's most important chemical reactions rely on the coupled movement of negatively and positively charged particles. These processes play central roles in photosynthesis, catalysis and biological energy conversion yet remain difficult to observe.",
+      "authors": "",
+      "published": "Aug 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-08-scientists-capture-molecular-images-reaction.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/scientists-capture-fir.jpg",
+      "screen": "right"
+    },
+    {
+      "title": "Compound with the potential to treat drug-resistant HIV identified",
+      "abstract": "A large international team has developed a new compound that showed strong antiviral activity against HIV, including some drug-resistant variants.",
+      "authors": "",
+      "published": "Aug 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-08-compound-potential-drug-resistant-hiv.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/compound-with-the-pote.jpg",
+      "screen": "right"
     },
     {
       "title": "Shear flow in narrow channels sparks amyloid formation, experiments reveal",
@@ -379,26 +399,6 @@
       "feedName": "Phys.org Analytics",
       "url": "https://phys.org/news/2026-08-mof-coated-catalyst-faster-ultrasonic.html",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/creating-a-local-react.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "Electrically charged raindrops could be corroding metal with protective coatings",
-      "abstract": "Electrically charged raindrops, a naturally occurring phenomenon, can break down surfaces treated with protective coatings, according to new research published in Nature. This previously overlooked corrosion mechanism highlights the need for a new method of preserving metal objects like cars, ships, buildings and cultural heritage sites.",
-      "authors": "",
-      "published": "Aug 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-08-electrically-raindrops-corroding-metal-coatings.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/electrically-charged-r.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "Machine learning methods move self-driving labs closer to materials discovery at scale",
-      "abstract": "Machine learning doesn't replace human intelligence, but it can outlast human endurance, which makes it a helpful tool for chemistry and materials discovery. Scientists know machine learning models can make predictions based on the vast reams of data they are trained on, but can they take it a step further and massively scale up testing those predictions?",
-      "authors": "",
-      "published": "Aug 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-08-machine-methods-labs-closer-materials.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/labs.jpg",
       "screen": "right"
     },
     {
@@ -482,32 +482,22 @@
       "screen": "right"
     },
     {
-      "title": "Knowledge, attitudes, practices, and adherence to multiple micronutrient supplementation among pregnant women in Rwanda: a mixed-methods study",
-      "abstract": "IntroductionMicronutrient deficiencies among pregnant women remain a public health concern in Rwanda. Multiple Micronutrient Supplementation (MMS) was introduced through routine antenatal care services to address this challenge. However, evidence on women's knowledge, attitudes, practices, and adherence to MMS is limited. This study assessed knowledge, attitudes, practices, and adherence to MMS among pregnant and lactating women and examined factors associated with knowledge, attitudes, and adherence.MethodsA mixed-methods study was conducted in December 2024 in the Rwandan districts of Gasabo, Rutsiro, and Burera, where the MMS programme was implemented. Quantitative data were collected from 484 pregnant and lactating women using a structured questionnaire. Qualitative data were gathered through 18 focus group discussions, 12 exit interviews, and key informant interviews with healthcare providers and district officials. Quantitative data were analyzed using Stata, while qualitative data were analyzed thematically.ResultsAlthough adherence to MMS was high (92%), only 26.7% of participants demonstrated high knowledge, while 56.6% reported positive attitudes toward MMS. No socio-demographic factors were independently associated with high MMS knowledge. Positive attitudes were significantly associated with high knowledge (AOR = 5.10, 95% CI: 3.09–8.43), being a lactating mother (AOR = 2.30, 95% CI: 1.37–3.86), and employment, whereas women living farther from health facilities were less likely to report positive attitudes (AOR = 0.58, 95% CI: 0.36–0.93). Positive attitudes wer…",
-      "authors": "Eric Matsiko, Annet Birungi, Eliphaz Tuyisenge et al.",
-      "published": "Aug 2026",
-      "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1874824",
-      "image": "",
-      "screen": "right"
-    },
-    {
-      "title": "Nutritional remission without mucosal healing in type II refractory celiac disease: a case report",
-      "abstract": "Type II refractory celiac disease (RCD II) is a rare pre-lymphomatous complication of celiac disease associated with severe malabsorption and a high risk of enteropathy-associated T-cell lymphoma. We report a 56-year-old Tunisian woman with adult-onset celiac disease who developed progressive diarrhea and life-threatening malnutrition despite dietitian-verified adherence to a gluten-free diet. At admission, she weighed 34 kg (body mass index, 12.9 kg/m2), was hypotensive and wheelchair dependent, and reported up to 20 stools/day. She had anemia, hypoalbuminemia, and hypophosphatemia. Computed tomography enterography, whole-body 18F-FDG PET/CT, jejunoscopy, and ileocolonoscopy found no lymphoma. Duodenal biopsies showed total villous atrophy and >50% aberrant CD3+/CD7+/CD8−/CD30− intraepithelial lymphocytes, supporting RCD II; flow cytometry and T-cell receptor clonality testing were unavailable. Treatment comprised 1 month of exclusive parenteral nutrition with refeeding-syndrome prophylaxis, 1 month of combined enteral and oral feeding, and subsequent oral nutrition. After systemic corticosteroids failed, open-capsule budesonide was initiated at 6 mg/day and reduced to 3 mg/day after 2 months. At 4 months, villous atrophy and the aberrant lymphocyte population were unchanged. At 6 months, however, the patient had gained 26 kg, stool frequency had fallen to 2-3/day, albumin had normalized, and mobility had improved. This case illustrates that nutritional recovery and intestinal disease activity may diverge in RCD II. Clinical and nutritional remission should not replace end…",
-      "authors": "Om Kolthoum Sallem, Asma Sabbek, Nabil Ben Chaabène et al.",
-      "published": "Aug 2026",
-      "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1941830",
-      "image": "",
-      "screen": "right"
-    },
-    {
       "title": "The impact of short-term intensive fasting on physical health and gut microbiota in obese individuals",
       "abstract": "ObjectivesThis study aimed to characterize how a 7-day complete water-only fast followed by structured refeeding was associated with changes in body weight, hydration-dependent bioelectrical-impedance estimates, physical test performance, cardiovascular indicators, and gut microbial ecology in adults with obesity and normal-weight controls.MethodsSeventy-two eligible volunteers formed prespecified BMI sampling strata (normal weight, n = 36; obesity, n = 36), from which 14 participants were randomly selected within each stratum before the intervention and before outcome collection (N = 28). All selected participants completed a supervised 7-day water-only fast followed by a 7-day structured refeeding period. Physical indicators were assessed pre-fasting, post-fasting, and post-refeeding and analyzed using two-factor mixed-design repeated-measures models; gut microbiota (16S rRNA) was profiled pre- and post-fasting.ResultsBMI-group-by-time interactions were significant for body weight and BMI (both p < 0.001) but not for BIA-derived fat mass, body-fat percentage, or muscle mass (all p > 0.05). Dynamometer-recorded grip, knee-flexion, and knee-extension scores increased over time (all time-effect p < 0.001), but none showed a BMI-group-by-time interaction (all p ≥ 0.340). Gut microbial alpha diversity remained largely stable apart from an FDR-significant ACE-index reduction in the normal-weight group (q = 0.021); most taxonomic findings did not survive FDR correction, and beta-diversity analysis showed no community-level convergence between groups.ConclusionSupervised seven-da…",
       "authors": "Feng Ji, Shiya Wang, Li Wang et al.",
       "published": "Aug 2026",
       "feedName": "Frontiers Nutrition",
       "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1873000",
+      "image": "",
+      "screen": "right"
+    },
+    {
+      "title": "Associations between triglyceride-glucose-derived indices combined with the atherogenic index of plasma and the precise severity of newly diagnosed coronary artery disease: a quantile regressions analysis",
+      "abstract": "BackgroundMetabolic dysfunction, including insulin resistance, inflammation, and dyslipidaemia, plays a critical role in the development of coronary artery disease (CAD). The triglyceride-glucose (TyG) index, the C-reactive protein-triglyceride-glucose index (CTI), and the atherogenic index of plasma (AIP) are accessible biomarkers reflecting these disturbances. However, conventional methods of mean regression result in a loss of detailed information on disease severity. This study is aimed at evaluating the associations of the TyG index, CTI, and AIP with the quantitative severity of CAD across its entire distribution using quantile regression analysis.MethodsThis retrospective study included 2,885 patients with newly diagnosed CAD, as confirmed by coronary angiography. CAD severity was quantitatively assessed using the Gensini score. Metabolic indices, including the TyG index, CTI, and AIP, were calculated, and their composite indices—the TyG-AIP and CTI-AIP—were also derived. Correlation analysis and quantile regression analyses were performed to evaluate the associations between these indices and CAD severity across the distribution of the Gensini score.ResultsAll the metabolic indices were positively but weakly linearly correlated with the Gensini score (all p < 0.001). The CTI demonstrated the strongest linear correlation with the Gensini score (partial r ≈ 0.29, adjusted for multiple covariates). Quantile regression analyses revealed significant heterogeneity in the associations between metabolic indices and CAD burden across the distribution of Gensini scores. All t…",
+      "authors": "Runzhe Wu, Congying Wang, Lulu Pan et al.",
+      "published": "Aug 2026",
+      "feedName": "Frontiers Nutrition",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1929245",
       "image": "",
       "screen": "right"
     },
@@ -520,6 +510,76 @@
       "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1922715",
       "image": "",
       "screen": "right"
+    },
+    {
+      "title": "Lifestyle mediates the association between normal-weight visceral obesity and MASLD in older adults with hypertension and diabetes",
+      "abstract": "ObjectiveOlder adults with coexisting hypertension and type 2 diabetes are at high risk for metabolic dysfunction-associated steatotic liver disease (MASLD). Normal-weight visceral obesity (NWVO)—excess visceral fat despite normal body mass index and waist circumference—is an overlooked risk factor. Lifestyle is modifiable, but its role in explaining the NWVO-MASLD association is unknown. We quantified the proportion of this association statistically mediated by unhealthy lifestyle patterns.MethodsThis retrospective cohort study included 26,289 adults aged ≥50 years with hypertension and type 2 diabetes from the Shenzhen National Basic Public Health Services Program (2010–2023). NWVO was defined using the Chinese Visceral Adiposity Index alongside normal body size criteria. MASLD was diagnosed by ultrasound and cardiometabolic criteria. A composite lifestyle score (physical activity, alcohol, smoking, dietary salt intake) was derived. We applied the generalized front-door formula for causal mediation analysis to estimate the path-specific effect of NWVO on MASLD incidence explained by lifestyle, robust to unmeasured confounding.ResultsOver a mean 5.5-year follow-up, NWVO was associated with a significantly increased MASLD risk (adjusted HR: 1.82, 95% CI: 1.76, 1.89). In marginal models, NWVO was associated with a 2.35-fold higher risk of having an unhealthy lifestyle (2.25, 2.44) and an 11.2% higher MASLD risk (8.7, 13.8). Using the front-door formula, unhealthy lifestyle statistically explained 19.8% (12.1, 33.6) of the total NWVO-MASLD effect, corresponding to a mediated …",
+      "authors": "Jun-Yan Xi, Yi-Jing Wang, Xiao-Heng Li et al.",
+      "published": "Aug 2026",
+      "feedName": "Frontiers Nutrition",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1845959",
+      "image": "",
+      "screen": "right"
+    },
+    {
+      "title": "Phosphorus in Balance: Evaluating the Costs and Benefits of a Circular Economy Approach",
+      "abstract": "This paper presents a comprehensive cost-benefit analysis of producing alternative phosphorus (P) fertilizers from recycled water treatment residuals (Fe-WTR) and cowshed effluents. The cost-benefit values of Fe-WTR are compared to the net costs of recycling P using a synthetic adsorbent (commonly used practice-layered double hydroxide, P-LDH) and the costs of commercial fertilizers. Dairy wastewater is used as a source of P. The cost of 1 ton P using the Fe-WTR process is €329. In contrast, synthetic adsorbents (P-LDH) incur significantly higher costs, amounting to €3329 per ton, underscoring the economic advantage of utilizing waste-derived materials. Adopting Fe-WTR fertilizer not only offers substantial cost savings by avoiding landfill fees (€40 per ton) and wastewater discharge fines (€500 per ton) but also reduces environmental impacts when compared to the use of commercial P fertilizers (non-recycled P). The Fe-WTR method mitigates eutrophication and pollution, presenting the dual benefit of cost-effectiveness and environmental protection, which exceeds the common P recycling practice (LDH). Our conclusions are based on production processes in Israel and compared to previous cost estimations at the world level, assessing the potential gain from such circular production of P globally. Recycling P from waste streams can be economically viable and environmentally preferable at small and large economic scales, supporting global sustainability goals.",
+      "authors": "H. E. Ganem, I. Zohar, M. Litaor et al.",
+      "published": "2024",
+      "venue": "Journal of Environmental Science Studies",
+      "feedName": "Lab Research",
+      "citationCount": 0,
+      "recentCitations": 0,
+      "quartile": null,
+      "s2_paper_id": "5a7645fb724f2527117a809194848a4b84de25da",
+      "url": "https://doi.org/10.20849/jess.v7i2.1469",
+      "image": "",
+      "screen": "both",
+      "lab_paper": true,
+      "researcher": {
+        "name": "Iris Zohar",
+        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=YVQd-pwAAAAJ"
+      }
+    },
+    {
+      "title": "The impact of alternative recycled and synthetic phosphorus sources on plant growth and responses, soil interactions and sustainable agriculture - lettuce (Lactuca sativa) as a case model.",
+      "abstract": "This research assesses the efficacy of two phosphorus (P) adsorbents as alternative fertilizers in promoting lettuce growth. A synthetic Mg/Al-layered double hydroxide (LDH) and an iron-based recycled water treatment residual (Fe-WTR), both enriched with P from dairy wastewater and added at three dosage levels. We hypothesized that the adsorbents' physicochemical nature will overshadow the biological efforts in the plant ecosystem to increase P solubility, impacting plant growth, nutritional composition, and metabolite profiles. Fe-WTR significantly enhanced lettuce biomass compared to LDH. Yet, elemental analysis revealed higher or equal P concentrations in the low-biomass LDH plants relative to other treatments. Phosphorus uptake appears to influence the assimilation of other nutrients that divided into two groups: calcium, magnesium, zinc, and copper with notable correlations to P and nitrogen, iron, aluminum, vanadium and manganese with low correlations to P. Conversely, P retained poor correlation with most metabolites whereas iron showed a higher correlation with numerous metabolites. Analysis of metabolites, encompassing carbohydrates, the Krebs cycle, amino acids, nucleic acids, and stress and regulatory pathways, revealed diminished levels in the LDH treatments. Overall, carbon assimilation (plant growth) was more effectively predicted by soil P availability (adsorbent type and dose) rather than by cellular P concentration, suggesting root signaling was at play, influencing carbohydrate translocation to the roots. Diminished levels of cellular sugars further affect…",
+      "authors": "I. Zohar, H. E. Ganem, D. DiSegni et al.",
+      "published": "2024",
+      "venue": "Science of the Total Environment",
+      "feedName": "Lab Research",
+      "citationCount": 8,
+      "recentCitations": 1,
+      "quartile": "Q1",
+      "s2_paper_id": "716a87e9602f04f6b3d7fe6c3b411a15d1beaf4a",
+      "url": "https://doi.org/10.1016/j.scitotenv.2024.174719",
+      "image": "",
+      "screen": "both",
+      "lab_paper": true,
+      "researcher": {
+        "name": "Iris Zohar",
+        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=YVQd-pwAAAAJ"
+      }
+    },
+    {
+      "title": "Biogeochemical impacts on soil phosphorus and other macro- and micro elements solubility, ratios and forms during heatwaves",
+      "abstract": "Increased frequency and amplitude of extreme heat events can affect soil temperature, and biogeochemical processes. High temperatures may have contradicting geochemical and biological effects on essential elements solubility and forms. Endothermic behavior of minerals and oxides results in decreased solubility with increased temperature, while bio-mineralization is stimulated in response to high temperature. To elucidate heatwave impacts on soil biogeochemical processes, we performed a controlled soil incubation experiment and a field survey. Wet and dry alluvial soil sets were incubated at background temperature (33°C) for two weeks and then, a sequence of three heat events was induced (41°C/33°C alternations, five days each) followed by two short events of extreme heat (48°C for two days). Most soil indices changed trends after about 25-30 days. At the first part of the period, P, Al, Fe appeared to reflect endothermic behavior of (hydr)oxides and minerals in the dry soil (i.e., sorbed P was likely dependent on Fe (hydr)oxides dissolution), while trends of Fe/Al in the wet soil followed the dissolved organic C trend. Phosphatases enzymatic activities fluctuated positively with temperature, emphasizing the activity of residual extracellular enzymes sorbed to soil particles (dry soil) in addition to living cells excreted enzymes (wet soil). With the 3 rd heatwave, soluble P dramatically fluctuated with temperature, suggesting a sequence of temperature-enhanced bio-mineralization, releasing P to the soil solution, counteracted by geochemical sorption, removing P from solutio…",
+      "authors": "I. Zohar, M. Khoury, Yael Kirshenbaum et al.",
+      "published": "2023",
+      "venue": "Goldschmidt2023 abstracts",
+      "feedName": "Lab Research",
+      "citationCount": 0,
+      "recentCitations": 0,
+      "quartile": null,
+      "s2_paper_id": "e71980935a3dcce1c2b9257fe6bd261b6cf61461",
+      "url": "https://doi.org/10.7185/gold2023.18565",
+      "image": "",
+      "screen": "both",
+      "lab_paper": true,
+      "researcher": {
+        "name": "Iris Zohar",
+        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=YVQd-pwAAAAJ"
+      }
     },
     {
       "title": "Effect of Quinoa Protein Concentrate in Particulate and Fibrillar Forms on the Physico-Chemical Properties of Quinoa Starch Gels",

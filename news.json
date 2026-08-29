@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-29T12:02:08Z",
+  "updated": "2026-08-29T16:22:39Z",
   "items": [
     {
       "title": "Emerging biofuel crop frontiers risk repeating old land injustices",
@@ -242,6 +242,26 @@
       "screen": "left"
     },
     {
+      "title": "Degradation of gossypol and improvement of nutritional components in defatted cottonseed meal through fermentation by a synthetic microbial community",
+      "abstract": "",
+      "authors": "Zhanqiang Yan, Xiaolong Ma, Yibei Wan et al.",
+      "published": "Mar 2027",
+      "feedName": "Food Microbiology",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0740002026002480?dgcid=rss_sd_all",
+      "image": "",
+      "screen": "left"
+    },
+    {
+      "title": "Spatiotemporal dynamics of volatile flavor compounds and associated functional microbial communities during strong-flavor Daqu fermentation",
+      "abstract": "",
+      "authors": "Wenyi Jiang, Zhihua Li, Yi Dong et al.",
+      "published": "Mar 2027",
+      "feedName": "Food Microbiology",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0740002026002455?dgcid=rss_sd_all",
+      "image": "",
+      "screen": "left"
+    },
+    {
       "title": "Discriminatory ability of WL Nutrient Agar for yeasts associated with olive environments: a binary scoring and machine learning approach",
       "abstract": "",
       "authors": "Eugenio Parente, Rocchina Pietrafesa, Vito Antonio Romano et al.",
@@ -258,26 +278,6 @@
       "published": "Mar 2027",
       "feedName": "Food Microbiology",
       "url": "https://www.sciencedirect.com/science/article/pii/S074000202600239X?dgcid=rss_sd_all",
-      "image": "",
-      "screen": "left"
-    },
-    {
-      "title": "Efficacy of cleaning and disinfection procedures for controlling Campylobacter contamination in broiler chicken sheds",
-      "abstract": "",
-      "authors": "Joanne M. Kingsbury, Iain Haysom, Kirstin Thom et al.",
-      "published": "Mar 2027",
-      "feedName": "Food Microbiology",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0740002026002479?dgcid=rss_sd_all",
-      "image": "",
-      "screen": "left"
-    },
-    {
-      "title": "Electrochemical identification of riboflavin-mediated redox adaptation in Escherichia coli under mild heat stress",
-      "abstract": "",
-      "authors": "Xinfang Zhang, Xiya Liu, Xian Mao et al.",
-      "published": "Mar 2027",
-      "feedName": "Food Microbiology",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0740002026002406?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -442,6 +442,26 @@
       "screen": "right"
     },
     {
+      "title": "Long-term melatonin use linked to 90% higher heart failure risk",
+      "abstract": "People with chronic insomnia who used melatonin long term had a roughly 90% higher risk of developing heart failure over five years, according to a large preliminary study. The findings do not prove melatonin causes heart problems, but they raise new questions about the safety of taking the popular sleep supplement for extended periods.",
+      "authors": "",
+      "published": "Aug 2026",
+      "feedName": "ScienceDaily Nutrition",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260829035228.htm",
+      "image": "https://www.sciencedaily.com/images/1920/exploding-heart.webp",
+      "screen": "right"
+    },
+    {
+      "title": "Keto diet cut liver fat by 67% in a clinical trial",
+      "abstract": "A ketogenic diet outperformed Mediterranean and low-fat diets in several measures of metabolic health during a clinical trial involving people with obesity, prediabetes, and fatty liver disease. All three groups lost about 10% of their body weight, but keto reduced liver fat by 67%, compared with 45% for the other diets. About half of the keto group also no longer qualified as having prediabetes after four to five months.",
+      "authors": "",
+      "published": "Aug 2026",
+      "feedName": "ScienceDaily Nutrition",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260828082327.htm",
+      "image": "https://www.sciencedaily.com/images/1920/diseased-liver-illustration.webp",
+      "screen": "right"
+    },
+    {
       "title": "Scientists tested 212 plant-based meat alternatives. Every one contained fungal toxins",
       "abstract": "Every one of 212 plant-based meat alternatives and drinks tested in the UK contained at least one naturally occurring fungal toxin, though concentrations remained below recommended EU guideline levels. Researchers say the bigger question is whether regularly eating large amounts of these foods could lead to potentially concerning cumulative exposure over time.",
       "authors": "",
@@ -459,26 +479,6 @@
       "feedName": "ScienceDaily Nutrition",
       "url": "https://www.sciencedaily.com/releases/2026/08/260827010507.htm",
       "image": "https://www.sciencedaily.com/images/1920/vitamin-c-supplement-capsules.webp",
-      "screen": "right"
-    },
-    {
-      "title": "Scientists may have found a shortcut to calorie restriction’s anti-aging benefits",
-      "abstract": "Moderate calorie restriction lowered an immune protein called C3 that appears to help drive chronic inflammation as the body ages. Blocking the same protein reduced age related inflammation in mice, raising the possibility that future treatments could mimic some benefits of calorie restriction without severe dieting.",
-      "authors": "",
-      "published": "Aug 2026",
-      "feedName": "ScienceDaily Nutrition",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260826055508.htm",
-      "image": "https://www.sciencedaily.com/images/1920/anti-aging-beauty-skincare.webp",
-      "screen": "right"
-    },
-    {
-      "title": "Eating more ultra-processed foods may raise prostate cancer risk by 30%",
-      "abstract": "Ultra-processed foods make up a huge share of the American diet, and new research suggests they may carry another serious health risk for men. In a nationally representative study of more than 17,000 U.S. men, those who ate more ultra-processed foods, including soft drinks, packaged snacks, cereals, and processed meats, had roughly 24% to 31% higher risks of prostate cancer after accounting for factors such as age, smoking, race and ethnicity, and poverty status.",
-      "authors": "",
-      "published": "Aug 2026",
-      "feedName": "ScienceDaily Nutrition",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260826055457.htm",
-      "image": "https://www.sciencedaily.com/images/1920/junk-food-table.webp",
       "screen": "right"
     },
     {
@@ -789,7 +789,7 @@
       "venue": "Journal of the American Chemical Society",
       "feedName": "Lab Research",
       "citationCount": 22,
-      "recentCitations": 0,
+      "recentCitations": 3,
       "quartile": "Q1",
       "s2_paper_id": "e8f95caa1e8ece0c16f246b34ead0788c6d4b146",
       "url": "https://doi.org/10.1021/jacs.4c00625",

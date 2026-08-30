@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-30T09:36:06Z",
+  "updated": "2026-08-30T14:35:47Z",
   "items": [
     {
       "title": "Emerging biofuel crop frontiers risk repeating old land injustices",
@@ -42,42 +42,42 @@
       "screen": "left"
     },
     {
-      "title": "High-throughput detection and polymer profiling of microplastics in carbonated soft drinks using laser direct infrared (LDIR) spectroscopy across polyethylene terephthalate and aluminium packaging",
+      "title": "Effects of different drying methods on the drying characteristics and flavour profiles of Shanxi Da Huang apricots",
       "abstract": "",
-      "authors": "Hesham Hussein Rassem, En Qi Lim, Woei Jye Lau et al.",
+      "authors": "Tingxuan Wu, Huaiqi Li, Zhuo Li et al.",
       "published": "Oct 2026",
       "feedName": "Food Chemistry",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626030669?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626030414?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
     {
-      "title": "Rice bran-based bio-adsorbents: optimizing modification protocols and adsorption kinetics for cadmium decontamination",
+      "title": "An integrated litmus test platform for low-background detection and photothermal inactivation of Salmonella typhimurium via HCR-urease signal amplification",
       "abstract": "",
-      "authors": "Juan Li, Yangmei Xue, Yan Shao et al.",
+      "authors": "Qing Kang, Tong Lin, Jingbo Jiao et al.",
       "published": "Oct 2026",
       "feedName": "Food Chemistry",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626029237?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626030955?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
     {
-      "title": "Self-assembled proanthocyanidin-Iron microspheres with multilayer alginate coating for effective inhibition of advanced glycation end-products",
+      "title": "Role of ultrasound-assisted KCl catalysis in characteristic flavor and quality of liquid smoke from cypress wood",
       "abstract": "",
-      "authors": "Dong Chen, Zhiyu Huang, Xingru Wang et al.",
+      "authors": "Chun Liu, Gaoqi Tang, Xueliang Sun et al.",
       "published": "Oct 2026",
       "feedName": "Food Chemistry",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626028852?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626030499?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
     {
-      "title": "Occurrence and concentrations of phthalates, alternative plasticizers and other additives in food samples from the German market",
+      "title": "Impact of ultra-high pressure on the physicochemical and functional properties of apple pectin",
       "abstract": "",
-      "authors": "Andriy Kuklya, Elisabeth Koch, Ezgi Eyluel Bankoglu et al.",
+      "authors": "Meijia Huang, Jiaqi Dai, Yimeng Du et al.",
       "published": "Oct 2026",
       "feedName": "Food Chemistry",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626030670?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626028864?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -282,6 +282,16 @@
       "screen": "left"
     },
     {
+      "title": "Matrix architecture and refrigerated storage modulate starch digestibility and enteroendocrine responses in nixtamalized maize foods",
+      "abstract": "",
+      "authors": "Julian de la Rosa Millan",
+      "published": "Aug 2026",
+      "feedName": "npj Science of Food",
+      "url": "https://www.nature.com/articles/s41538-026-01107-9",
+      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01107-9/MediaObjects/41538_2026_1107_Fig1_HTML.png",
+      "screen": "left"
+    },
+    {
       "title": "Lactiplantibacillus plantarum J26 supplementation improves adiposity-related outcomes in adults with metabolic syndrome via remodeling the gut microbiota",
       "abstract": "",
       "authors": "Jiahong Zheng, Mengtao Yang, Jie Zhuang et al.",
@@ -309,16 +319,6 @@
       "feedName": "npj Science of Food",
       "url": "https://www.nature.com/articles/s41538-026-01096-9",
       "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01096-9/MediaObjects/41538_2026_1096_Fig1_HTML.png",
-      "screen": "left"
-    },
-    {
-      "title": "Housing environments link egg taste through metabolic alterations in laying hens",
-      "abstract": "",
-      "authors": "Nonoko N. Shimura, Eiki Asagi, Shogo Matsunaga et al.",
-      "published": "Aug 2026",
-      "feedName": "npj Science of Food",
-      "url": "https://www.nature.com/articles/s41538-026-01108-8",
-      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01108-8/MediaObjects/41538_2026_1108_Fig1_HTML.png",
       "screen": "left"
     },
     {
@@ -828,7 +828,7 @@
       "published": "2023",
       "venue": "Advanced Functional Materials",
       "feedName": "Lab Research",
-      "citationCount": 22,
+      "citationCount": 23,
       "recentCitations": 0,
       "quartile": "Q1",
       "s2_paper_id": "f8de42bddd0ecab555075b5f1e2cdce6f18f1a56",

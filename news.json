@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-30T18:57:58Z",
+  "updated": "2026-08-30T22:15:46Z",
   "items": [
     {
       "title": "Emerging biofuel crop frontiers risk repeating old land injustices",
@@ -362,6 +362,16 @@
       "screen": "left"
     },
     {
+      "title": "'Cut-to-fuse' strategy: A new route for molecular skeletal editing",
+      "abstract": "Restructuring a molecule without rebuilding it from scratch is an increasingly important goal in modern organic chemistry. Skeletal editing is an approach that helps chemists explore new chemical structures and simplify the synthesis of molecules with potential pharmaceutical applications.",
+      "authors": "",
+      "published": "Aug 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-08-fuse-strategy-route-molecular-skeletal.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/cut-to-fuse-strategy-a.jpg",
+      "screen": "right"
+    },
+    {
       "title": "Scientists capture first molecular-level images of water reorganization during a reaction crucial for life",
       "abstract": "Some of nature's most important chemical reactions rely on the coupled movement of negatively and positively charged particles. These processes play central roles in photosynthesis, catalysis and biological energy conversion yet remain difficult to observe.",
       "authors": "",
@@ -389,16 +399,6 @@
       "feedName": "Phys.org Analytics",
       "url": "https://phys.org/news/2026-08-narrow-channels-amyloid-formation-reveal.html",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/little-space-and-a-lot.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "MOF-coated catalyst converts CO₂ to CO nearly five times faster under ultrasonic vibration",
-      "abstract": "Researchers at the University of Osaka have developed a catalyst that uses mechanical vibration to convert carbon dioxide (CO2) into carbon monoxide (CO), an important chemical feedstock. The catalyst consists of barium titanate (BaTiO3) coated with a metal-organic framework (MOF)—a porous material that captures and concentrates CO2 near the catalyst surface—and incorporates isolated copper (Cu) atoms as reaction sites.",
-      "authors": "",
-      "published": "Aug 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-08-mof-coated-catalyst-faster-ultrasonic.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/creating-a-local-react.jpg",
       "screen": "right"
     },
     {

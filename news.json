@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-30T14:35:47Z",
+  "updated": "2026-08-30T18:57:58Z",
   "items": [
     {
       "title": "Emerging biofuel crop frontiers risk repeating old land injustices",
@@ -112,12 +112,12 @@
       "screen": "left"
     },
     {
-      "title": "Quorum sensing in meat spoilage: From ecological selection to community-level amplification",
+      "title": "Mining traditional fermented ecosystems for wheat bran modification: from microbial reservoirs to designed consortia",
       "abstract": "",
-      "authors": "Guangfu Zhang, Yuhong Lin, Jinpeng Wang et al.",
+      "authors": "Yaxuan Peng, Shiyu Yan, Yangyang Wen et al.",
       "published": "Nov 2026",
       "feedName": "Trends in Food Sci & Tech",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426005091?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426005121?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -242,6 +242,16 @@
       "screen": "left"
     },
     {
+      "title": "Clarifying ribA-dependent survival under mild heat stress in Escherichia coli",
+      "abstract": "",
+      "authors": "Xueyi Lin, Xin Zhang",
+      "published": "Mar 2027",
+      "feedName": "Food Microbiology",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0740002026002492?dgcid=rss_sd_all",
+      "image": "",
+      "screen": "left"
+    },
+    {
       "title": "Degradation of gossypol and improvement of nutritional components in defatted cottonseed meal through fermentation by a synthetic microbial community",
       "abstract": "",
       "authors": "Zhanqiang Yan, Xiaolong Ma, Yibei Wan et al.",
@@ -268,16 +278,6 @@
       "published": "Mar 2027",
       "feedName": "Food Microbiology",
       "url": "https://www.sciencedirect.com/science/article/pii/S0740002026002467?dgcid=rss_sd_all",
-      "image": "",
-      "screen": "left"
-    },
-    {
-      "title": "Molecular and environmental indicators of Listeria monocytogenes persistence in food processing facilities: a multi sector approach",
-      "abstract": "",
-      "authors": "Maylis Bellay, Virginie Chesnais, Bastien Frémaux et al.",
-      "published": "Mar 2027",
-      "feedName": "Food Microbiology",
-      "url": "https://www.sciencedirect.com/science/article/pii/S074000202600239X?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -452,6 +452,16 @@
       "screen": "right"
     },
     {
+      "title": "Researchers unveil sustainable spirulina solution to vitamin B12 deficiency",
+      "abstract": "Researchers have produced a form of Spirulina containing biologically active vitamin B12 at levels comparable to beef. By carefully controlling the light used to grow the algae, they overcame a major problem with conventional Spirulina, which mainly contains a form of B12 the human body cannot use. The carbon-neutral system could provide a more sustainable source of the essential vitamin.",
+      "authors": "",
+      "published": "Aug 2026",
+      "feedName": "ScienceDaily Nutrition",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260829035227.htm",
+      "image": "https://www.sciencedaily.com/images/1920/vitamin-b12-chemical-formula.webp",
+      "screen": "right"
+    },
+    {
       "title": "Keto diet cut liver fat by 67% in a clinical trial",
       "abstract": "A ketogenic diet outperformed Mediterranean and low-fat diets in several measures of metabolic health during a clinical trial involving people with obesity, prediabetes, and fatty liver disease. All three groups lost about 10% of their body weight, but keto reduced liver fat by 67%, compared with 45% for the other diets. About half of the keto group also no longer qualified as having prediabetes after four to five months.",
       "authors": "",
@@ -469,16 +479,6 @@
       "feedName": "ScienceDaily Nutrition",
       "url": "https://www.sciencedaily.com/releases/2026/08/260828005216.htm",
       "image": "https://www.sciencedaily.com/images/1920/vegan-plant-based-meat-factory.webp",
-      "screen": "right"
-    },
-    {
-      "title": "Vitamin C won’t prevent most colds, but it may do one small thing",
-      "abstract": "The belief that huge doses of vitamin C can ward off colds was popularized more than 50 years ago by Nobel Prize winner Linus Pauling. Since then, larger studies have found that vitamin C does not prevent most people from catching a cold, although regularly taking it may make severe symptoms slightly shorter or milder.",
-      "authors": "",
-      "published": "Aug 2026",
-      "feedName": "ScienceDaily Nutrition",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260827010507.htm",
-      "image": "https://www.sciencedaily.com/images/1920/vitamin-c-supplement-capsules.webp",
       "screen": "right"
     },
     {

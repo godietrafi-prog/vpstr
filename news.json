@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-31T10:17:16Z",
+  "updated": "2026-08-31T18:28:48Z",
   "items": [
     {
       "title": "Disruptions of global crop yields",
@@ -42,42 +42,42 @@
       "screen": "left"
     },
     {
-      "title": "Effects of different drying methods on the drying characteristics and flavour profiles of Shanxi Da Huang apricots",
+      "title": "Reconstruction of a cross-family chitinase cocktail for efficient chitobiose production guided by the secretome of Streptomyces sp. F-3",
       "abstract": "",
-      "authors": "Tingxuan Wu, Huaiqi Li, Zhuo Li et al.",
+      "authors": "Sha Zhao, Feiyue Wen, Xiaomeng Sun et al.",
       "published": "Oct 2026",
       "feedName": "Food Chemistry",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626030414?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626030803?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
     {
-      "title": "An integrated litmus test platform for low-background detection and photothermal inactivation of Salmonella typhimurium via HCR-urease signal amplification",
+      "title": "TIMS-MS combined with theoretical modeling for flavonoid isomer separation using cyclodextrin-metal ion ternary complexes",
       "abstract": "",
-      "authors": "Qing Kang, Tong Lin, Jingbo Jiao et al.",
+      "authors": "Jia Wang, Jiabin Wang, Chaoxian Chi et al.",
       "published": "Oct 2026",
       "feedName": "Food Chemistry",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626030955?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626031092?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
     {
-      "title": "Role of ultrasound-assisted KCl catalysis in characteristic flavor and quality of liquid smoke from cypress wood",
+      "title": "Obtaining of nervonic acid-based structured triglycerides via enzymatic modification: composition, thermal stability, and structural characterization",
       "abstract": "",
-      "authors": "Chun Liu, Gaoqi Tang, Xueliang Sun et al.",
+      "authors": "Xiaoqing Xie, Lili Xie, Xiaoya Li et al.",
       "published": "Oct 2026",
       "feedName": "Food Chemistry",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626030499?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626030815?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
     {
-      "title": "Impact of ultra-high pressure on the physicochemical and functional properties of apple pectin",
+      "title": "Sustainable green extraction of polysaccharides from Caryophylli Flos using ultrasound-assisted DES: Process optimization, structural identification, and bioactivity",
       "abstract": "",
-      "authors": "Meijia Huang, Jiaqi Dai, Yimeng Du et al.",
+      "authors": "Penghua Shu, Hao Yang, Hao Yin et al.",
       "published": "Oct 2026",
       "feedName": "Food Chemistry",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626028864?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S030881462603061X?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -242,6 +242,16 @@
       "screen": "left"
     },
     {
+      "title": "Boosting baijiu fermentation efficiency through designed microbial community coalescence: Enhanced substrate conversion and flavor output",
+      "abstract": "",
+      "authors": "Ruyu Yan, Yuhang Zhang, Zeyang Li et al.",
+      "published": "Mar 2027",
+      "feedName": "Food Microbiology",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0740002026002509?dgcid=rss_sd_all",
+      "image": "",
+      "screen": "left"
+    },
+    {
       "title": "Clarifying ribA-dependent survival under mild heat stress in Escherichia coli",
       "abstract": "",
       "authors": "Xueyi Lin, Xin Zhang",
@@ -272,13 +282,23 @@
       "screen": "left"
     },
     {
-      "title": "Discriminatory ability of WL Nutrient Agar for yeasts associated with olive environments: a binary scoring and machine learning approach",
+      "title": "Global and national trends in alcohol-attributable deaths from 1990 to 2023 and projections to 2050",
       "abstract": "",
-      "authors": "Eugenio Parente, Rocchina Pietrafesa, Vito Antonio Romano et al.",
-      "published": "Mar 2027",
-      "feedName": "Food Microbiology",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0740002026002467?dgcid=rss_sd_all",
-      "image": "",
+      "authors": "Yuan-Yuan Li, Yan Jin, Franklin R. Tay",
+      "published": "Aug 2026",
+      "feedName": "npj Science of Food",
+      "url": "https://www.nature.com/articles/s41538-026-01067-0",
+      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01067-0/MediaObjects/41538_2026_1067_Fig1_HTML.png",
+      "screen": "left"
+    },
+    {
+      "title": "Harnessing Amazonian biodiversity for sustainable and circular food systems",
+      "abstract": "",
+      "authors": "José M. Alvarez-Suarez, Henrik Balslev",
+      "published": "Aug 2026",
+      "feedName": "npj Science of Food",
+      "url": "https://www.nature.com/articles/s41538-026-01116-8",
+      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01116-8/MediaObjects/41538_2026_1116_Fig1_HTML.png",
       "screen": "left"
     },
     {
@@ -299,26 +319,6 @@
       "feedName": "npj Science of Food",
       "url": "https://www.nature.com/articles/s41538-026-01114-w",
       "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01114-w/MediaObjects/41538_2026_1114_Fig1_HTML.png",
-      "screen": "left"
-    },
-    {
-      "title": "Oxidation and gelation of myoglobin-myosin induced by the plasma-activated water",
-      "abstract": "",
-      "authors": "Bojun Guan, Xuepeng Li, Jianrong Li et al.",
-      "published": "Aug 2026",
-      "feedName": "npj Science of Food",
-      "url": "https://www.nature.com/articles/s41538-026-01044-7",
-      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01044-7/MediaObjects/41538_2026_1044_Fig1_HTML.png",
-      "screen": "left"
-    },
-    {
-      "title": "Lactoferrin and zinc sulfate supplementation alleviate cisplatin-induced taste disorder: underlying mechanisms via taste and immune modulation",
-      "abstract": "",
-      "authors": "Aili Wang, Wenwen Yu, Xinyi Li et al.",
-      "published": "Aug 2026",
-      "feedName": "npj Science of Food",
-      "url": "https://www.nature.com/articles/s41538-026-01096-9",
-      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01096-9/MediaObjects/41538_2026_1096_Fig1_HTML.png",
       "screen": "left"
     },
     {
@@ -362,6 +362,16 @@
       "screen": "left"
     },
     {
+      "title": "AI streamlines search for new ceramics that generate electricity",
+      "abstract": "A tedious process of trial and error is normally required to discover ceramic materials that generate electricity under mechanical stress. Known as piezoelectric ceramics, these valuable next-generation materials can replace batteries that power small electronic devices, like sensors. To streamline the research process, a team led by materials science researchers at Penn State introduced a new framework that combines an existing artificial intelligence (AI) model with human expertise to uncover these materials. To test the new approach, researchers developed a new piezoelectric composite and incorporated it into an energy harvester, which converts vibrations or movements into electricity.",
+      "authors": "",
+      "published": "Aug 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-08-ai-ceramics-generate-electricity.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/ai-streamlines-search.jpg",
+      "screen": "right"
+    },
+    {
       "title": "'Cut-to-fuse' strategy: A new route for molecular skeletal editing",
       "abstract": "Restructuring a molecule without rebuilding it from scratch is an increasingly important goal in modern organic chemistry. Skeletal editing is an approach that helps chemists explore new chemical structures and simplify the synthesis of molecules with potential pharmaceutical applications.",
       "authors": "",
@@ -389,16 +399,6 @@
       "feedName": "Phys.org Analytics",
       "url": "https://phys.org/news/2026-08-compound-potential-drug-resistant-hiv.html",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/compound-with-the-pote.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "Shear flow in narrow channels sparks amyloid formation, experiments reveal",
-      "abstract": "Many cars and not enough lanes is a recipe for traffic jams. Now, researchers from Japan show that even proteins can get backed up and start behaving poorly when too many try to squeeze too quickly through a small space.",
-      "authors": "",
-      "published": "Aug 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-08-narrow-channels-amyloid-formation-reveal.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/little-space-and-a-lot.jpg",
       "screen": "right"
     },
     {
@@ -442,6 +442,16 @@
       "screen": "right"
     },
     {
+      "title": "Popular sweeteners may leave effects that last for generations",
+      "abstract": "Two widely used zero-calorie sweeteners, sucralose and stevia, may have effects that linger far longer than the sweet taste itself. In mice, researchers found that both sweeteners altered the gut microbiome, reduced beneficial compounds produced by gut bacteria, and changed the activity of genes involved in metabolism and inflammation. Some of those changes were also detected in later generations that had never consumed the sweeteners themselves.",
+      "authors": "",
+      "published": "Aug 2026",
+      "feedName": "ScienceDaily Nutrition",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260830000019.htm",
+      "image": "https://www.sciencedaily.com/images/1920/stevia-natural-sweetener-on-wooden-spoon.webp",
+      "screen": "right"
+    },
+    {
       "title": "Long-term melatonin use linked to 90% higher heart failure risk",
       "abstract": "People with chronic insomnia who used melatonin long term had a roughly 90% higher risk of developing heart failure over five years, according to a large preliminary study. The findings do not prove melatonin causes heart problems, but they raise new questions about the safety of taking the popular sleep supplement for extended periods.",
       "authors": "",
@@ -462,23 +472,13 @@
       "screen": "right"
     },
     {
-      "title": "Keto diet cut liver fat by 67% in a clinical trial",
-      "abstract": "A ketogenic diet outperformed Mediterranean and low-fat diets in several measures of metabolic health during a clinical trial involving people with obesity, prediabetes, and fatty liver disease. All three groups lost about 10% of their body weight, but keto reduced liver fat by 67%, compared with 45% for the other diets. About half of the keto group also no longer qualified as having prediabetes after four to five months.",
+      "title": "Your waist size may reveal health risks BMI misses",
+      "abstract": "A simple waist measurement may be nearly as effective as more complicated methods for detecting unhealthy levels of body fat. Researchers also found that BMI alone missed many people with obesity, suggesting waist size could provide an important warning sign.",
       "authors": "",
       "published": "Aug 2026",
       "feedName": "ScienceDaily Nutrition",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260828082327.htm",
-      "image": "https://www.sciencedaily.com/images/1920/diseased-liver-illustration.webp",
-      "screen": "right"
-    },
-    {
-      "title": "Scientists tested 212 plant-based meat alternatives. Every one contained fungal toxins",
-      "abstract": "Every one of 212 plant-based meat alternatives and drinks tested in the UK contained at least one naturally occurring fungal toxin, though concentrations remained below recommended EU guideline levels. Researchers say the bigger question is whether regularly eating large amounts of these foods could lead to potentially concerning cumulative exposure over time.",
-      "authors": "",
-      "published": "Aug 2026",
-      "feedName": "ScienceDaily Nutrition",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260828005216.htm",
-      "image": "https://www.sciencedaily.com/images/1920/vegan-plant-based-meat-factory.webp",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260829035208.htm",
+      "image": "https://www.sciencedaily.com/images/1920/female-obesity-doctor-measuring-waist-of-overweight-patient.webp",
       "screen": "right"
     },
     {
@@ -1088,8 +1088,8 @@
       "published": "2023",
       "venue": "Atmospheric Chemistry and Physics",
       "feedName": "Lab Research",
-      "citationCount": 10,
-      "recentCitations": 0,
+      "citationCount": 11,
+      "recentCitations": 1,
       "quartile": "Q1",
       "s2_paper_id": "d2f58630c5b33511a9ff3fe822b2154de726bbcb",
       "url": "https://doi.org/10.5194/acp-23-4881-2023",

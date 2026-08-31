@@ -1,6 +1,26 @@
 {
-  "updated": "2026-08-31T02:28:26Z",
+  "updated": "2026-08-31T10:17:16Z",
   "items": [
+    {
+      "title": "Disruptions of global crop yields",
+      "abstract": "Timely estimation and forecasting of crop yields at national and global levels is essential to manage market volatility. Yet, better understanding of estimation accuracy and whether and how this impacts market volatility is essential.",
+      "authors": "Martin K. van Ittersum",
+      "published": "Aug 2026",
+      "feedName": "Nature Food",
+      "url": "https://www.nature.com/articles/s43016-026-01424-y",
+      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs43016-026-01424-y/MediaObjects/43016_2026_1424_Fig1_HTML.png",
+      "screen": "left"
+    },
+    {
+      "title": "An integrative framework for early estimation of global crop yields demonstrated under large-scale disruptions",
+      "abstract": "Timely crop-yield estimates are essential for anticipating food-supply risks and informing crop trade policies. This study presents a framework that integrates yield statistics, multi-source remote-sensing and complementary geospatial data and random forest models to estimate major crop yields across global production countries.",
+      "authors": "Ziyue Chen, Yanzhao Wang, Xing Yan et al.",
+      "published": "Aug 2026",
+      "feedName": "Nature Food",
+      "url": "https://www.nature.com/articles/s43016-026-01418-w",
+      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs43016-026-01418-w/MediaObjects/43016_2026_1418_Fig1_HTML.png",
+      "screen": "left"
+    },
     {
       "title": "Emerging biofuel crop frontiers risk repeating old land injustices",
       "abstract": "Past biofuel expansions reveal that when industrial-scale investment outpaces land governance, independent scrutiny and community participation, low-carbon crop transitions can reproduce land concentration, displacement and ecological simplification. A close examination of an emerging biofuel frontier in Brazil shows why land rights, public accountability and equitable benefit-sharing must guide crop-based decarbonization from the outset.",
@@ -19,26 +39,6 @@
       "feedName": "Nature Food",
       "url": "https://www.nature.com/articles/s43016-026-01414-0",
       "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs43016-026-01414-0/MediaObjects/43016_2026_1414_Fig1_HTML.png",
-      "screen": "left"
-    },
-    {
-      "title": "Power representation in food systems",
-      "abstract": "Systems modelling and power mapping illuminate different dimensions of power in food systems but are rarely used to interrogate one another. This Comment proposes recursive representational revision, a methodological approach that organizes iterative engagement between the two so that each becomes a resource for revising assumptions about power embedded in the other.",
-      "authors": "Michael Carolan",
-      "published": "Aug 2026",
-      "feedName": "Nature Food",
-      "url": "https://www.nature.com/articles/s43016-026-01423-z",
-      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs43016-026-01423-z/MediaObjects/43016_2026_1423_Fig1_HTML.png",
-      "screen": "left"
-    },
-    {
-      "title": "The scale of change",
-      "abstract": "",
-      "authors": "",
-      "published": "Aug 2026",
-      "feedName": "Nature Food",
-      "url": "https://www.nature.com/articles/s43016-026-01417-x",
-      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs43016-026-01417-x/MediaObjects/43016_2026_1417_Fig1_HTML.png",
       "screen": "left"
     },
     {
@@ -482,42 +482,42 @@
       "screen": "right"
     },
     {
-      "title": "The impact of short-term intensive fasting on physical health and gut microbiota in obese individuals",
-      "abstract": "ObjectivesThis study aimed to characterize how a 7-day complete water-only fast followed by structured refeeding was associated with changes in body weight, hydration-dependent bioelectrical-impedance estimates, physical test performance, cardiovascular indicators, and gut microbial ecology in adults with obesity and normal-weight controls.MethodsSeventy-two eligible volunteers formed prespecified BMI sampling strata (normal weight, n = 36; obesity, n = 36), from which 14 participants were randomly selected within each stratum before the intervention and before outcome collection (N = 28). All selected participants completed a supervised 7-day water-only fast followed by a 7-day structured refeeding period. Physical indicators were assessed pre-fasting, post-fasting, and post-refeeding and analyzed using two-factor mixed-design repeated-measures models; gut microbiota (16S rRNA) was profiled pre- and post-fasting.ResultsBMI-group-by-time interactions were significant for body weight and BMI (both p < 0.001) but not for BIA-derived fat mass, body-fat percentage, or muscle mass (all p > 0.05). Dynamometer-recorded grip, knee-flexion, and knee-extension scores increased over time (all time-effect p < 0.001), but none showed a BMI-group-by-time interaction (all p ≥ 0.340). Gut microbial alpha diversity remained largely stable apart from an FDR-significant ACE-index reduction in the normal-weight group (q = 0.021); most taxonomic findings did not survive FDR correction, and beta-diversity analysis showed no community-level convergence between groups.ConclusionSupervised seven-da…",
-      "authors": "Feng Ji, Shiya Wang, Li Wang et al.",
+      "title": "Body-composition phenotype axes provide additional explanatory information for cardiorespiratory fitness and liver-related metabolic risk within BMI strata",
+      "abstract": "BackgroundBody mass index (BMI) does not fully characterize heterogeneity in adiposity patterning, lean reserve, and impedance-derived body-composition features. We derived residualized body-composition phenotype axes from routine measurements and examined whether these projected axes provided additional explanatory information for estimated VO₂max and alanine aminotransferase (ALT) within BMI strata.MethodsPhenotype axes were derived using principal component analysis (PCA) of six variables (BMI, waist-to-height ratio, fat mass index, fat-free mass index, percent body fat, and phase angle) following residualization for age and sex in 23,698 individuals. Robustness and repeatability were assessed. The derivation-defined axes were externally projected into 5,060 adults aged 20–49 years from the National Health and Nutrition Examination Survey. Survey-weighted regression models were used to examine associations between projected phenotype scores and estimated VO₂max from the submaximal treadmill fitness examination (n = 2,721) and alanine aminotransferase (ALT) (n = 4,857) within unified BMI quartile strata, with adjustment for age, sex, and race/ethnicity. Sensitivity analyses included expanded covariate adjustment, false-discovery-rate correction, interaction testing, protocol-adjusted estimated VO₂max models, and ALT clean-sample analyses.ResultsThree axes explained 98.6% of the residualized input variance: PC1 represented a composite body-size/adiposity axis, PC2 a phase angle-anchored body-composition contrast axis, and PC3 an FFMI-dominant axis. The phenotype structure …",
+      "authors": "Yang Zheng, Ying-Yi Chen, Hao-Yuan Xu et al.",
       "published": "Aug 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1873000",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1881228",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Associations between triglyceride-glucose-derived indices combined with the atherogenic index of plasma and the precise severity of newly diagnosed coronary artery disease: a quantile regressions analysis",
-      "abstract": "BackgroundMetabolic dysfunction, including insulin resistance, inflammation, and dyslipidaemia, plays a critical role in the development of coronary artery disease (CAD). The triglyceride-glucose (TyG) index, the C-reactive protein-triglyceride-glucose index (CTI), and the atherogenic index of plasma (AIP) are accessible biomarkers reflecting these disturbances. However, conventional methods of mean regression result in a loss of detailed information on disease severity. This study is aimed at evaluating the associations of the TyG index, CTI, and AIP with the quantitative severity of CAD across its entire distribution using quantile regression analysis.MethodsThis retrospective study included 2,885 patients with newly diagnosed CAD, as confirmed by coronary angiography. CAD severity was quantitatively assessed using the Gensini score. Metabolic indices, including the TyG index, CTI, and AIP, were calculated, and their composite indices—the TyG-AIP and CTI-AIP—were also derived. Correlation analysis and quantile regression analyses were performed to evaluate the associations between these indices and CAD severity across the distribution of the Gensini score.ResultsAll the metabolic indices were positively but weakly linearly correlated with the Gensini score (all p < 0.001). The CTI demonstrated the strongest linear correlation with the Gensini score (partial r ≈ 0.29, adjusted for multiple covariates). Quantile regression analyses revealed significant heterogeneity in the associations between metabolic indices and CAD burden across the distribution of Gensini scores. All t…",
-      "authors": "Runzhe Wu, Congying Wang, Lulu Pan et al.",
+      "title": "Effect of different chitosan molecular weights on microplastic excretion",
+      "abstract": "IntroductionMicroplastic (MP) ingestion poses a considerable health risk to organisms, including humans, and the environment. The previously established average molecular weight of chitosan that promotes MP excretion is approximately 800,000; however, the effects of chitosan with different molecular weights on MP excretion and the intestinal environment remain unclear. This study aimed to clarify the effects of different chitosan molecular weights on MP excretion and gut microbiota.MethodsSprague–Dawley rats were fed a diet containing MPs with an average particle size of 50 μm.ResultsCompared with the control group, fecal weight increased in all chitosan groups across different molecular weights (low: 83,000; medium: 673,000; high: 1,877,000). Furthermore, the medium and high molecular weight chitosan groups exhibited a significantly higher MP excretion rate and lower MP retention rate in the gastrointestinal tract. The 16S rRNA metagenomic analysis revealed a decrease in Firmicutes and an increase in Bacteroidota and Proteobacteria abundance in the high-molecular-weight chitosan group. Additionally, the abundance of beneficial bacterial genera, such as Akkermansia and Bacteroides, increased. These findings confirm that chitosan with ≥673,000 molecular weight promotes MP excretion. Additionally, chitosan intake may help protect the intestinal environment by improving gut microbiota.",
+      "authors": "Di Liu, Soichiro Morikawa, Ryotaro Izumi et al.",
       "published": "Aug 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1929245",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1869140",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Dietary fiber density and incident gross motor limitation among middle-aged and older adults: a prospective cohort analysis",
-      "abstract": "IntroductionPreserving physical function is a central goal of ageing research, yet the dietary factors that precede early motor limitation remain incompletely defined.MethodsHere we examined whether dietary fiber density was associated with incident gross motor limitation in the 2013 Health Care and Nutrition Study linked to the Health and Retirement Study. Among 5,388 adults aged 50 years or older who were free of gross motor limitation at baseline, 2,018 developed incident limitation during biennial follow-up through 2022.ResultsIn the fully adjusted modified Poisson model, each 1-s.d. increment in fiber density was associated with a risk ratio of 0.86 (95% CI, 0.82 to 0.90), and the highest versus lowest quartile had a risk ratio of 0.72 (95% CI, 0.64 to 0.81). Augmented inverse probability weighting estimated a 9.0 percentage-point lower absolute risk in the highest versus lowest quartile. Estimates were unchanged after multiple imputation for missing covariates. In Fine-Gray models treating death as a competing event, the subdistribution hazard ratio was 0.82 per 1-s.d. increment (95% CI, 0.77 to 0.87). Results were also consistent across alternative exposure and outcome definitions, interval-aware models, diet-pattern adjustment and secondary functional outcomes.ConclusionHigher fiber density was consistently associated with lower functional-limitation risk, but it may index a broader constellation of dietary and lifestyle factors; causal effects cannot be inferred.",
-      "authors": "Tao Cai, Zhongxing Liu, Yunsong Zhang et al.",
+      "title": "Selenium nutritional status and cardiovascular diseases: mechanisms of cardioprotection and 21 years of global research trends in precision prevention (2005–2026)",
+      "abstract": "BackgroundSelenium contributes to selenoprotein-dependent redox regulation, thyroid hormone metabolism, and cellular defense, but its role in cardiovascular disease remains clinically uncertain. Observational studies have associated low or atypical selenium status with adverse cardiovascular outcomes, whereas supplementation trials have generally produced neutral or inconclusive results. This study mapped the development of selenium–cardiovascular research and integrated the identified themes with a clinically oriented narrative synthesis of selenium exposure, functional biomarkers, cardiovascular phenotypes, supplementation, and safety.MethodsPublications indexed in the Web of Science Core Collection, Scopus, PubMed, and Embase between January 1, 2005 and May 12, 2026 were retrieved. After document-type filtering, deduplication, and relevance screening, 1,133 documents were included. Publication trends, geographic and collaboration structures, journal relationships, co-cited references, keyword networks, thematic evolution, and citation bursts were analyzed using R, VOSviewer, CiteSpace, Pajek, Gephi, and Python. A descriptive design-level appraisal of the ten most locally cited documents complemented the bibliometric analyses.ResultsPublication output increased substantially after 2015. Earlier research emphasized selenium deficiency, Keshan disease, glutathione peroxidase activity, and antioxidant defense, whereas more recent publications increasingly addressed cardiovascular mortality, heart failure, selenoprotein P, GPX4, ferroptosis, selenium nanoparticles, environmen…",
+      "authors": "Hao Chen, Shenghui Jin, Xinyi Yuan et al.",
       "published": "Aug 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1922715",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1920059",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Lifestyle mediates the association between normal-weight visceral obesity and MASLD in older adults with hypertension and diabetes",
-      "abstract": "ObjectiveOlder adults with coexisting hypertension and type 2 diabetes are at high risk for metabolic dysfunction-associated steatotic liver disease (MASLD). Normal-weight visceral obesity (NWVO)—excess visceral fat despite normal body mass index and waist circumference—is an overlooked risk factor. Lifestyle is modifiable, but its role in explaining the NWVO-MASLD association is unknown. We quantified the proportion of this association statistically mediated by unhealthy lifestyle patterns.MethodsThis retrospective cohort study included 26,289 adults aged ≥50 years with hypertension and type 2 diabetes from the Shenzhen National Basic Public Health Services Program (2010–2023). NWVO was defined using the Chinese Visceral Adiposity Index alongside normal body size criteria. MASLD was diagnosed by ultrasound and cardiometabolic criteria. A composite lifestyle score (physical activity, alcohol, smoking, dietary salt intake) was derived. We applied the generalized front-door formula for causal mediation analysis to estimate the path-specific effect of NWVO on MASLD incidence explained by lifestyle, robust to unmeasured confounding.ResultsOver a mean 5.5-year follow-up, NWVO was associated with a significantly increased MASLD risk (adjusted HR: 1.82, 95% CI: 1.76, 1.89). In marginal models, NWVO was associated with a 2.35-fold higher risk of having an unhealthy lifestyle (2.25, 2.44) and an 11.2% higher MASLD risk (8.7, 13.8). Using the front-door formula, unhealthy lifestyle statistically explained 19.8% (12.1, 33.6) of the total NWVO-MASLD effect, corresponding to a mediated …",
-      "authors": "Jun-Yan Xi, Yi-Jing Wang, Xiao-Heng Li et al.",
+      "title": "Geopolitical risks and the spillover of food market risks: case analysis of the Chinese grain market",
+      "abstract": "Maintaining the stability of food prices is crucial for achieving sustainable development in grain markets, particularly in the context of evolving international conditions and geopolitical risks. This study employs the DCC-GARCH model to examine the dynamic relationship between international and domestic grain prices, focusing on the price stability of major staple crops: soybeans, wheat, and corn. By applying generalized forecast error variance decomposition, we quantify the risk spillover effects within grain markets and clarify the role of geopolitical uncertainties in shaping such spillovers. The results reveal a pronounced time-varying pattern in the transmission of international grain prices to domestic prices, with discernible differences across crop types. Within-market risk spillovers significantly outweigh cross-market spillovers, identifying the international grain market as the primary conduit for risk transmission. Geopolitical uncertainty exerts short-term negative shocks on grain market risk spillovers and on the net spillovers of both international and domestic soybeans. Simultaneously, an increase is observed in the net spillover levels of both domestic and international wheat markets. The magnitude of geopolitical risk impacts on grain markets varies across distinct periods, with the Russia-Ukraine conflict exerting a temporary negative influence. Taking the 2022 Russia-Ukraine conflict and the Sino-US trade friction as typical cases, it further verified that geopolitical risks pose a substantive threat to China’s food import security through two channels…",
+      "authors": "Jing Li, Yue Yang",
       "published": "Aug 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1845959",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1924317",
       "image": "",
       "screen": "right"
     },

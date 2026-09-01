@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-01T19:05:32Z",
+  "updated": "2026-09-01T22:12:57Z",
   "items": [
     {
       "title": "Disruptions of global crop yields",
@@ -362,6 +362,36 @@
       "screen": "left"
     },
     {
+      "title": "A roadmap for animal-free chemical testing",
+      "abstract": "For many years, the European Union has pursued a policy aimed at the replacement, reduction and refinement of animal testing (the 3Rs principle). To put the ethical principle of the 3Rs into practice, the European Commission has published a roadmap for the gradual phaseout of animal testing in the safety assessment of chemicals.",
+      "authors": "",
+      "published": "Sep 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-09-roadmap-animal-free-chemical.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/animal-free-chemical-t.jpg",
+      "screen": "right"
+    },
+    {
+      "title": "Larger catalyst batches could make carbon recycling cheaper and easier to scale",
+      "abstract": "Turning carbon dioxide into industrial chemicals used in everything from synthetic fuels to plastics and pharmaceuticals is costly. But new research shows it does not have to be.",
+      "authors": "",
+      "published": "Sep 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-09-larger-catalyst-batches-carbon-recycling.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/researchers-turn-clima.jpg",
+      "screen": "right"
+    },
+    {
+      "title": "Tests reveal how thermoplastic composites lose strength at elevated temperatures",
+      "abstract": "Researchers from Skoltech together with colleagues from Xi'an Jiaotong University and the Blagonravov Institute of Mechanical Engineering of the Russian Academy of Sciences, have conducted a systematic study of the flexural properties of pultruded glass fiber composites based on three different thermoplastic matrices: polyphenylene sulfide (PPS), polyamide-6 (PA6) and polypropylene (PP).",
+      "authors": "",
+      "published": "Sep 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-09-reveal-thermoplastic-composites-strength-elevated.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/strength-under-heat-re.jpg",
+      "screen": "right"
+    },
+    {
       "title": "New method swaps single atom in a molecule to speed drug discovery",
       "abstract": "Swapping out one letter in a word can entirely change its meaning. Similarly, swapping one atom in a molecule can completely change its identity. A group of chemists at the University of Chicago has demonstrated a new way to make a single-atom edit to a molecule without changing any of its other components. The innovative method can be used to make a family of molecules known as pyrroles, including many widely used medicines, and is significantly simpler, faster and more cost-effective than previous processes.",
       "authors": "",
@@ -369,36 +399,6 @@
       "feedName": "Phys.org Analytics",
       "url": "https://phys.org/news/2026-08-method-swaps-atom-molecule-drug.html",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/new-method-swaps-singl.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "Why do some proteins accumulate even on protein-resistant surfaces?",
-      "abstract": "Proteins with exposed arginine can selectively accumulate even on protein-resistant coatings, as reported by researchers from Science Tokyo. Through an in-depth analysis of which proteins adhere and how they adhere to various anti-fouling surfaces, the team found that arginine disrupts the protective water layer that normally blocks adsorption. Their results will help scientists develop safer and more effective biocompatible materials for medical devices, such as stents and advanced biosensors.",
-      "authors": "",
-      "published": "Aug 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-08-proteins-accumulate-protein-resistant-surfaces.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/why-do-some-proteins-a.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "AI streamlines search for new ceramics that generate electricity",
-      "abstract": "A tedious process of trial and error is normally required to discover ceramic materials that generate electricity under mechanical stress. Known as piezoelectric ceramics, these valuable next-generation materials can replace batteries that power small electronic devices, like sensors. To streamline the research process, a team led by materials science researchers at Penn State introduced a new framework that combines an existing artificial intelligence (AI) model with human expertise to uncover these materials. To test the new approach, researchers developed a new piezoelectric composite and incorporated it into an energy harvester, which converts vibrations or movements into electricity.",
-      "authors": "",
-      "published": "Aug 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-08-ai-ceramics-generate-electricity.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/ai-streamlines-search.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "'Cut-to-fuse' strategy: A new route for molecular skeletal editing",
-      "abstract": "Restructuring a molecule without rebuilding it from scratch is an increasingly important goal in modern organic chemistry. Skeletal editing is an approach that helps chemists explore new chemical structures and simplify the synthesis of molecules with potential pharmaceutical applications.",
-      "authors": "",
-      "published": "Aug 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-08-fuse-strategy-route-molecular-skeletal.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/cut-to-fuse-strategy-a.jpg",
       "screen": "right"
     },
     {

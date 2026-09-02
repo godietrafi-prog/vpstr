@@ -1,6 +1,36 @@
 {
-  "updated": "2026-09-02T13:58:58Z",
+  "updated": "2026-09-02T17:37:40Z",
   "items": [
+    {
+      "title": "Equitable fortification programmes require matching needs and consumption",
+      "abstract": "Large-scale food fortification can be an effective strategy to address hidden hunger, but only if vulnerable populations actually eat the fortified foods. A systemic framework using publicly available data from ten West African countries reveals that a wider mix of fortified foods than are currently considered for fortification is needed for building more equitable programmes.",
+      "authors": "Katherine P. Adams",
+      "published": "Sep 2026",
+      "feedName": "Nature Food",
+      "url": "https://www.nature.com/articles/s43016-026-01421-1",
+      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs43016-026-01421-1/MediaObjects/43016_2026_1421_Fig1_HTML.png",
+      "screen": "left"
+    },
+    {
+      "title": "Diversified food fortification portfolios can enhance coverage of micronutrient-vulnerable populations in West Africa",
+      "abstract": "While staple food fortification is a recognized strategy for addressing micronutrient inadequacy, there is limited localized evidence on whether currently fortified foods, as well as candidate staples for future fortification, reach at-risk populations. This study finds that wheat flour and edible oil have limited coverage, whereas rice, millet and sorghum show greater potential across West Africa.",
+      "authors": "Kevin Tang, Uchenna Agu, Soukeyna Mbodj et al.",
+      "published": "Sep 2026",
+      "feedName": "Nature Food",
+      "url": "https://www.nature.com/articles/s43016-026-01412-2",
+      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs43016-026-01412-2/MediaObjects/43016_2026_1412_Fig1_HTML.png",
+      "screen": "left"
+    },
+    {
+      "title": "Engagement in food system-related controversies can strengthen science–policy–society interfaces",
+      "abstract": "Strong disagreements among stakeholders are common at the intersection of agriculture, food, health and the environment. By engaging constructively in these controversies through transdisciplinary approaches, scientists can better support sustainable food system transformation.",
+      "authors": "Louise E. Jackson, Philippe Jarne, Paul Shrivastava et al.",
+      "published": "Sep 2026",
+      "feedName": "Nature Food",
+      "url": "https://www.nature.com/articles/s43016-026-01416-y",
+      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs43016-026-01416-y/MediaObjects/43016_2026_1416_Fig1_HTML.png",
+      "screen": "left"
+    },
     {
       "title": "Global patterns and feasible improvement potential of phosphorus use efficiency in cereal croplands",
       "abstract": "Low phosphorus use efficiency limits crop production while accelerating the depletion of finite phosphorus resources and environmental pollution. Using a machine learning framework that incorporates feasibility constraints, this study maps global phosphorus use efficiency for major cereal crops and identifies region-specific opportunities and management priorities for improving phosphorus sustainability.",
@@ -12,72 +42,42 @@
       "screen": "left"
     },
     {
-      "title": "Disruptions of global crop yields",
-      "abstract": "Timely estimation and forecasting of crop yields at national and global levels is essential to manage market volatility. Yet, better understanding of estimation accuracy and whether and how this impacts market volatility is essential.",
-      "authors": "Martin K. van Ittersum",
-      "published": "Aug 2026",
-      "feedName": "Nature Food",
-      "url": "https://www.nature.com/articles/s43016-026-01424-y",
-      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs43016-026-01424-y/MediaObjects/43016_2026_1424_Fig1_HTML.png",
-      "screen": "left"
-    },
-    {
-      "title": "An integrative framework for early estimation of global crop yields demonstrated under large-scale disruptions",
-      "abstract": "Timely crop-yield estimates are essential for anticipating food-supply risks and informing crop trade policies. This study presents a framework that integrates yield statistics, multi-source remote-sensing and complementary geospatial data and random forest models to estimate major crop yields across global production countries.",
-      "authors": "Ziyue Chen, Yanzhao Wang, Xing Yan et al.",
-      "published": "Aug 2026",
-      "feedName": "Nature Food",
-      "url": "https://www.nature.com/articles/s43016-026-01418-w",
-      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs43016-026-01418-w/MediaObjects/43016_2026_1418_Fig1_HTML.png",
-      "screen": "left"
-    },
-    {
-      "title": "Emerging biofuel crop frontiers risk repeating old land injustices",
-      "abstract": "Past biofuel expansions reveal that when industrial-scale investment outpaces land governance, independent scrutiny and community participation, low-carbon crop transitions can reproduce land concentration, displacement and ecological simplification. A close examination of an emerging biofuel frontier in Brazil shows why land rights, public accountability and equitable benefit-sharing must guide crop-based decarbonization from the outset.",
-      "authors": "Chuan Liao, Katie Rohrbaugh, Seongmin Shin et al.",
-      "published": "Aug 2026",
-      "feedName": "Nature Food",
-      "url": "https://www.nature.com/articles/s43016-026-01425-x",
-      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs43016-026-01425-x/MediaObjects/43016_2026_1425_Fig1_HTML.png",
-      "screen": "left"
-    },
-    {
-      "title": "Beyond single-mechanism: A three-channel MnO 2 nanozyme array for point-of-care flavonoid isomers discrimination and proof-of-concept Citrus differentiation",
+      "title": "Molecular and microstructural properties of functional behavior of particles from size-fractionated Durvillaea antarctica powders",
       "abstract": "",
-      "authors": "Bingjing Xu, Mengyao Shi, Li Zou et al.",
+      "authors": "Leyla Covacevich, José M. Aguilera, María C. Moreno et al.",
       "published": "Oct 2026",
       "feedName": "Food Chemistry",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626030657?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626030104?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
     {
-      "title": "Dynamic process of lipid deterioration in hickory: Mechanism analysis of metabolic imbalance, membrane damage and repair dysfunction based on multi-omics",
+      "title": "Brewing conditions and post-brewing handling shape the catechin profile and stability of tea infusions",
       "abstract": "",
-      "authors": "Chongchong Wang, Yajun Bi, Weihong Min",
+      "authors": "Magdalena Mika, Agnieszka Wikiera",
       "published": "Oct 2026",
       "feedName": "Food Chemistry",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626030736?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S030881462603044X?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
     {
-      "title": "Guar gum mitigates freeze-thaw damage in wheat starch through multi-scale structural preservation and improves Chinese steamed bread quality",
+      "title": "The correlation between changes in intrinsic components and formation of hazardous compounds in seven animal-derived foods during roasting at different temperatures",
       "abstract": "",
-      "authors": "Dongdong Xie, Jiaxin Zheng, Xing Li et al.",
+      "authors": "Bo Wang, Feng Zhao, Zheng Zhou et al.",
       "published": "Oct 2026",
       "feedName": "Food Chemistry",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626030281?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626030566?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
     {
-      "title": "Identification of key aroma compounds contributing to pleasant sensory experience in purple-leaf white tea based on comprehensive sensory evaluation, GC–MS, and computational modeling",
+      "title": "Characterization of indochrome C: a novel blue pigment with cryoprotective potential from Arthrobacter antioxidans QL17 T isolated from Mount Everest",
       "abstract": "",
-      "authors": "Chenxi Gao, Weiwei Wu, Zhiqiang Zheng et al.",
+      "authors": "Xue Yu, Wei Zhang, Kan Jiang et al.",
       "published": "Oct 2026",
       "feedName": "Food Chemistry",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626031031?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626030608?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -282,6 +282,16 @@
       "screen": "left"
     },
     {
+      "title": "Informed questioning on NOVA and Nutri-Score interpretation in augmented virtuality sensory evaluation",
+      "abstract": "",
+      "authors": "Chengfang Tao, Aznor Qistina Mastura Azri, Abdul Hannan Zulkarnain et al.",
+      "published": "Sep 2026",
+      "feedName": "npj Science of Food",
+      "url": "https://www.nature.com/articles/s41538-026-01122-w",
+      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01122-w/MediaObjects/41538_2026_1122_Fig1_HTML.png",
+      "screen": "left"
+    },
+    {
       "title": "Volatilomic and transcriptomic analyses uncover the mechanisms underlying flavor-related VOC changes during the harvest period of Citrus reticulata ‘Chachi’",
       "abstract": "",
       "authors": "Ding Huang, Jiawei Chen, Jinmei Li et al.",
@@ -309,16 +319,6 @@
       "feedName": "npj Science of Food",
       "url": "https://www.nature.com/articles/s41538-026-01082-1",
       "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01082-1/MediaObjects/41538_2026_1082_Fig1_HTML.png",
-      "screen": "left"
-    },
-    {
-      "title": "Vegetable-oil preloading modulates postprandial glycemic and insulin responses to a high-glycemic meal in healthy adults",
-      "abstract": "",
-      "authors": "Marwa M. M. ElHindawy, Nur Syahirah Amirruddin, Hafizah Yusri et al.",
-      "published": "Sep 2026",
-      "feedName": "npj Science of Food",
-      "url": "https://www.nature.com/articles/s41538-026-01087-w",
-      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01087-w/MediaObjects/41538_2026_1087_Fig1_HTML.png",
       "screen": "left"
     },
     {
@@ -482,22 +482,12 @@
       "screen": "right"
     },
     {
-      "title": "Research progress on plant-derived bioactive compounds and late-life depression: from neuroprotective mechanisms to dietary patterns",
-      "abstract": "Late-life depression (LLD) represents a critical public health challenge, exerting a profound and detrimental impact on the health of older adults. Currently, dietary intervention is increasingly valued in the field of mental health. Various active components abundant in plant-based foods show great potential in preventing and alleviating depressive symptoms in the older adults. This narrative review aims to summarize the neuroprotective effects of major plant-derived bioactive compounds such as polyphenols, terpenoids and other components, which are related to LLD. It also listed alkaloids and polysaccharides as potential plant-derived bioactive compounds for LLD. It focuses on elucidating the research progress of their mechanisms and dietary patterns, thereby providing a theoretical basis for dietary intervention in treating older adults who are over 60 years old. Future trials should integrate multi-omics and quantitative evaluation to inform personalized LLD dietary interventions.",
-      "authors": "Yao Gao, Yu-Fei Shi, Jian-Zhen Hu et al.",
+      "title": "Flavonoids: biological activities, nutritional and immunological aspects, therapeutic potential, food applications, and human health benefits—A comprehensive review",
+      "abstract": "The global burden of infectious and non-communicable diseases presents a critical challenge, highlighting the urgent need for novel, safe, and effective therapies. Bioactive compounds from medicinal plants, especially flavonoids, offer a promising resource for drug discovery due to their diverse and potent pharmacological effects documented in preclinical studies. This comprehensive review summarizes current knowledge of flavonoids, including their classification into 14 main groups and their production via biosynthesis, chemical synthesis, modification, and extraction. While structural modification remains a key aspect of drug development, biosynthesis is increasingly seen as a potential transformative strategy for sustainable large-scale production. However, it requires a deeper understanding of metabolic pathways and optimization of synthetic methods. Aside from production challenges, a major translational hurdle is the inherently low bioavailability of many flavonoids. This review critically examines innovative solutions under investigation, such as advanced nanoparticles and colloidal drug delivery systems designed to address challenges in solubility, stability, and absorption. It also summarizes the current understanding of the mechanisms of action underlying their broad biological activities, primarily as evidenced by preclinical models, including nutritional, immunological, and disease-specific effects, and discusses potential drug interactions warranting clinical attention. Lastly, the review highlights key research gaps, including the need for more robust in vivo …",
+      "authors": "Mohamed T. El-Saadony, Ahmed M. Saad, Mohamed A. Fahmy et al.",
       "published": "Sep 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1913204",
-      "image": "",
-      "screen": "right"
-    },
-    {
-      "title": "Editorial: Interactions between diet, sleep and musculoskeletal health: beyond a disease-specific perspective",
-      "abstract": "",
-      "authors": "Xiwei Fan, Yuangang Wu, Antonia Rujia Sun",
-      "published": "Sep 2026",
-      "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1905646",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1801674",
       "image": "",
       "screen": "right"
     },
@@ -512,12 +502,22 @@
       "screen": "right"
     },
     {
-      "title": "Correction: Medical nutrition therapy in incretin-treated obesity-related heart failure with preserved ejection fraction",
-      "abstract": "",
-      "authors": "Qiuli Ming, Ze Li",
+      "title": "Polyphenol-rich sugarcane extract reduces circulating trans fatty acids, VLDL cholesterol, and triglycerides in healthy adults",
+      "abstract": "BackgroundPolyphenol-rich sugarcane extracts (PRSEs) are food-derived sources of naturally occurring bioactive polyphenols with increasing relevance to metabolic regulation, gut microbiome function, and overall well-being.ObjectiveThis fully remote trial investigated the effects of PRSE supplementation on cardiometabolic biomarkers and gut microbiota.MethodsHealthy adults aged 18–55 years (n = 47, female = 36 and male = 11) residing in Australia were recruited to a remote quadruple-blinded, randomised, placebo-controlled cross-over trial, with each intervention arm lasting 90 days. Participants received PRSE oral capsules at 500 mg/day (two 250 mg doses) or maltodextrin placebo capsules. Blood and faecal samples were collected for subsequent blood biomarkers and microbiome analyses, respectively. Self-reported qualitative surveys were conducted to assess overall wellbeing over the 6-month period.ResultsSignificant treatment × time effects were observed for circulating trans-fatty acids (%), triglycerides and VLDL cholesterol, as well as several microbial metabolic pathways, including glycerol degradation III, pyruvate dehydrogenase, and p-cresol degradation. No significant effects were detected for body weight, inflammatory, or glycaemic markers following correction for multiple comparisons.ConclusionPRSE supplementation was associated with a lower circulating proportion of trans-fatty acids, and lower triglyceride and VLDL cholesterol concentrations compared with placebo. PRSE supplementation also modulated selected microbial functional pathways without affecting overall m…",
+      "authors": "Simone Lewin, Claudia Hartley, Thalia Marina Llalla Vidal et al.",
       "published": "Sep 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1970493",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1923420",
+      "image": "",
+      "screen": "right"
+    },
+    {
+      "title": "Editorial: Interactions between diet, sleep and musculoskeletal health: beyond a disease-specific perspective",
+      "abstract": "",
+      "authors": "Xiwei Fan, Yuangang Wu, Antonia Rujia Sun",
+      "published": "Sep 2026",
+      "feedName": "Frontiers Nutrition",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1905646",
       "image": "",
       "screen": "right"
     },

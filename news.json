@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-02T02:05:32Z",
+  "updated": "2026-09-02T08:15:22Z",
   "items": [
     {
       "title": "Global patterns and feasible improvement potential of phosphorus use efficiency in cereal croplands",
@@ -442,6 +442,16 @@
       "screen": "right"
     },
     {
+      "title": "Too much coffee may weaken bones, study finds",
+      "abstract": "Following nearly 10,000 older women for 10 years, researchers found that tea drinking was associated with slightly higher hip bone density. Moderate coffee consumption did not appear harmful, but drinking more than five cups a day was linked to lower bone density. The findings suggest tea may offer a small bone-health boost, while excessive coffee could carry some drawbacks.",
+      "authors": "",
+      "published": "Sep 2026",
+      "feedName": "ScienceDaily Nutrition",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260901070550.htm",
+      "image": "https://www.sciencedaily.com/images/1920/osteoporosis-stages-hip-bone-strength.webp",
+      "screen": "right"
+    },
+    {
       "title": "Popular sweeteners may leave effects that last for generations",
       "abstract": "Two widely used zero-calorie sweeteners, sucralose and stevia, may have effects that linger far longer than the sweet taste itself. In mice, researchers found that both sweeteners altered the gut microbiome, reduced beneficial compounds produced by gut bacteria, and changed the activity of genes involved in metabolism and inflammation. Some of those changes were also detected in later generations that had never consumed the sweeteners themselves.",
       "authors": "",
@@ -449,6 +459,16 @@
       "feedName": "ScienceDaily Nutrition",
       "url": "https://www.sciencedaily.com/releases/2026/08/260830000019.htm",
       "image": "https://www.sciencedaily.com/images/1920/stevia-natural-sweetener-on-wooden-spoon.webp",
+      "screen": "right"
+    },
+    {
+      "title": "Obesity leaves a lasting memory in immune cells",
+      "abstract": "Obesity appears to leave a molecular imprint on key immune cells that may persist for 5 to 10 years after weight loss. This long-lasting “obesity memory” could help explain why some obesity-related health risks remain elevated even after body weight returns to normal.",
+      "authors": "",
+      "published": "Sep 2026",
+      "feedName": "ScienceDaily Nutrition",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260830000013.htm",
+      "image": "https://www.sciencedaily.com/images/1920/heart-disease-in-obesity-anatomy-crop.webp",
       "screen": "right"
     },
     {
@@ -462,23 +482,23 @@
       "screen": "right"
     },
     {
-      "title": "Researchers unveil sustainable spirulina solution to vitamin B12 deficiency",
-      "abstract": "Researchers have produced a form of Spirulina containing biologically active vitamin B12 at levels comparable to beef. By carefully controlling the light used to grow the algae, they overcame a major problem with conventional Spirulina, which mainly contains a form of B12 the human body cannot use. The carbon-neutral system could provide a more sustainable source of the essential vitamin.",
-      "authors": "",
-      "published": "Aug 2026",
-      "feedName": "ScienceDaily Nutrition",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260829035227.htm",
-      "image": "https://www.sciencedaily.com/images/1920/vitamin-b12-chemical-formula.webp",
+      "title": "Editorial: From nutrients to nightfall: how metabolism and nutrition interact with sleep and the circadian clock",
+      "abstract": "",
+      "authors": "Ronan Lordan, Omar Ramos-Lopez",
+      "published": "Sep 2026",
+      "feedName": "Frontiers Nutrition",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1966158",
+      "image": "",
       "screen": "right"
     },
     {
-      "title": "Your waist size may reveal health risks BMI misses",
-      "abstract": "A simple waist measurement may be nearly as effective as more complicated methods for detecting unhealthy levels of body fat. Researchers also found that BMI alone missed many people with obesity, suggesting waist size could provide an important warning sign.",
-      "authors": "",
-      "published": "Aug 2026",
-      "feedName": "ScienceDaily Nutrition",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260829035208.htm",
-      "image": "https://www.sciencedaily.com/images/1920/female-obesity-doctor-measuring-waist-of-overweight-patient.webp",
+      "title": "Comparative profiling of surface-sterilized leaf-associated microbiota and flavor-associated metabolites in two Gougunao tea cultivars across fresh and fermented leaf stages",
+      "abstract": "Black tea quality is governed mainly by endogenous enzymatic reactions during processing, whereas relationships between surface-sterilized leaf-associated microbiota and flavor-related chemical variation remain unclear. Here, differences between two Gougunao tea cultivars and between fresh- and fermented-leaf stages were investigated using 16S rRNA/ITS amplicon sequencing, untargeted LC–MS metabolomics, broadly targeted GC–MS volatile profiling in SIM mode, and sensory evaluation. The two cultivars were compared under the same standardized manufacturing procedure. Multivariate ordination and PERMANOVA showed significant differences in bacterial and fungal assemblages. Community composition differed significantly between G1 and G2 in both kingdoms, whereas a significant processing-stage effect was detected only for fungi. Bacterial communities were dominated by Sphingomonas and Methylobacterium, while fungal profiles were enriched in Dothideomycetes-affiliated genera, particularly Setophoma and Cladosporium. LC–MS and GC–MS analyses revealed differences in volatile and non-volatile features between the two tested cultivars that were evident in fresh leaves and remained detectable after processing. Although PICRUSt2 indicated broadly comparable predicted functional profiles among groups, cross-omics analysis after adjustment for cultivar and processing stage identified a limited set of adjusted genus–feature associations across both analytical platforms. Fungal genera from the same broad taxonomic class showed opposing directional association patterns, indicating taxon-specif…",
+      "authors": "Jiahao Ai, Junjie Lu, Bojian Wang et al.",
+      "published": "Sep 2026",
+      "feedName": "Frontiers Nutrition",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1859865",
+      "image": "",
       "screen": "right"
     },
     {
@@ -488,26 +508,6 @@
       "published": "Sep 2026",
       "feedName": "Frontiers Nutrition",
       "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1911825",
-      "image": "",
-      "screen": "right"
-    },
-    {
-      "title": "Midlife BMI and A Body Shape Index in relation to mortality and coronary heart disease events in a nationwide cohort",
-      "abstract": "BackgroundObesity is a known cardiovascular risk factor. A Body Shape Index (ABSI) is a waist circumference (WC)-based measure of abdominal obesity, independent of Body Mass Index (BMI). We examined the independent and joint associations of ABSI and BMI with long-term mortality and coronary heart disease (CHD) events among initially young to middle-aged adults.MethodsParticipants (n = 2,225) were drawn from the First Israeli National Health and Nutrition Survey (1999–2001), constituting adults aged 25–64. Baseline anthropometrics, including weight, height, and WC, were measured, enabling calculation of BMI and ABSI. Follow-up lasted through 2021 for mortality and 2022 for hospitalizations. Cox regressions assessed hazard ratios (HRs) for mortality and CHD hospitalization per 1-SD increase in the allometric indices, adjusted for socio-demographics, cardiovascular risk factors, and BMI or ABSI, as appropriate.ResultsThe baseline mean [SD] age was 43 [11] years, and 50% were women. Negligible correlation was observed between BMI and ABSI (r = 0.02). During follow-up, 247 deaths occurred, of whom 46 of CVD, and 267 were hospitalized for incident (first-ever) CHD. The multivariable-adjusted HRs for mortality were 1.06 (95% CI: 0.92–1.21) for BMI and 1.40 (95% CI: 1.21–1.63) for ABSI. ABSI exhibited a positive association across BMI categories; HR = 1.31 (95% CI: 0.98–1.77) in 18.5–24.9, 1.47 (95% CI: 1.16–1.86) in 25–29.9, and 1.35 (95% CI: 1.05–1.74) in BMI ≥ 30. The multivariable-adjusted HRs for CHD were 1.16 (95% CI: 1.01–1.34) for BMI and 1.43 (95% CI: 1.23–1.65) for ABSI, …",
-      "authors": "Itamar Shafran, Nir Y. Krakauer, Jesse C. Krakauer et al.",
-      "published": "Sep 2026",
-      "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1906316",
-      "image": "",
-      "screen": "right"
-    },
-    {
-      "title": "Developing personas for nutritional self-management in nasopharyngeal carcinoma patients: a qualitative study based on the Fogg Behavior Model",
-      "abstract": "PurposeMalnutrition is common throughout the course of nasopharyngeal carcinoma and requires long-term self-management. Current standardized nutritional management models struggle to meet the diverse needs of patients. This study aimed to identify the behavioral characteristics and influencing factors of nutritional self-management among patients with nasopharyngeal carcinoma and to develop user personas.MethodsThis study was conducted from July to September 2025 in a cancer hospital in Chongqing, China, and patients were recruited using purposive sampling. Data were collected through semi-structured interviews. Directed content analysis was conducted in NVivo 15, with themes organized inductively under the Fogg Behavior Model framework (motivation, ability, prompt). The process sequentially involved marking meaning units, extracting factual labels, and constructing dimension models. Personas were developed by categorizing patients based on these dimensions.ResultsA total of 21 patients were enrolled, and a label framework spanning five dimensions was developed, including motivation, ability, prompt, psychological state, and family support. Five typical behavioral personas were identified: proactive managers, symptom-driven active managers, survival-driven passive copers, cognition-behavior disconnected individuals, and family-led passive compliers.ConclusionNutritional self-management behaviors in patients with nasopharyngeal carcinoma exhibit significant heterogeneity. Precise, personalized interventions can be provided based on patient personas. In the future, a nutritio…",
-      "authors": "Xuejiao Lei, Chunyu Wang, Jiayi Du et al.",
-      "published": "Sep 2026",
-      "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1920095",
       "image": "",
       "screen": "right"
     },

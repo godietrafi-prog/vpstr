@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-02T20:19:47Z",
+  "updated": "2026-09-02T23:42:42Z",
   "items": [
     {
       "title": "Equitable fortification programmes require matching needs and consumption",
@@ -282,16 +282,6 @@
       "screen": "left"
     },
     {
-      "title": "Informed questioning on NOVA and Nutri-Score interpretation in augmented virtuality sensory evaluation",
-      "abstract": "",
-      "authors": "Chengfang Tao, Aznor Qistina Mastura Azri, Abdul Hannan Zulkarnain et al.",
-      "published": "Sep 2026",
-      "feedName": "npj Science of Food",
-      "url": "https://www.nature.com/articles/s41538-026-01122-w",
-      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01122-w/MediaObjects/41538_2026_1122_Fig1_HTML.png",
-      "screen": "left"
-    },
-    {
       "title": "Volatilomic and transcriptomic analyses uncover the mechanisms underlying flavor-related VOC changes during the harvest period of Citrus reticulata ‘Chachi’",
       "abstract": "",
       "authors": "Ding Huang, Jiawei Chen, Jinmei Li et al.",
@@ -319,6 +309,16 @@
       "feedName": "npj Science of Food",
       "url": "https://www.nature.com/articles/s41538-026-01082-1",
       "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01082-1/MediaObjects/41538_2026_1082_Fig1_HTML.png",
+      "screen": "left"
+    },
+    {
+      "title": "Vegetable-oil preloading modulates postprandial glycemic and insulin responses to a high-glycemic meal in healthy adults",
+      "abstract": "",
+      "authors": "Marwa M. M. ElHindawy, Nur Syahirah Amirruddin, Hafizah Yusri et al.",
+      "published": "Sep 2026",
+      "feedName": "npj Science of Food",
+      "url": "https://www.nature.com/articles/s41538-026-01087-w",
+      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01087-w/MediaObjects/41538_2026_1087_Fig1_HTML.png",
       "screen": "left"
     },
     {
@@ -362,6 +362,26 @@
       "screen": "left"
     },
     {
+      "title": "Five-metal 2D catalysts could convert CO₂ to CO without needing an extra electrical boost",
+      "abstract": "Carbon dioxide (CO₂) is usually discussed as something the world needs to get rid of. Activities such as the burning of fossil fuels for daily use, including electricity and transportation, and industrial applications release significant amounts of CO₂, and the gas enters the atmosphere. Researchers are now asking whether this road could have a roundabout. What if CO₂, which is at the center of the climate crisis, could be turned into something useful and put back into the industrial cycle?",
+      "authors": "",
+      "published": "Sep 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-09-metal-2d-catalysts-extra-electrical.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/a-five-metal-shot-at-t-1.jpg",
+      "screen": "right"
+    },
+    {
+      "title": "Copper's oxygen-rich early oxidation layer could inform catalyst design and nuclear waste storage",
+      "abstract": "Copper roofs lose their reddish color over time because a pale green layer of copper oxide forms on their surface, protecting the roof from further corrosion for many years. But what exactly happens during the first steps of this process? Might it even be possible to stop it? This question has become increasingly urgent since copper containers have come to be regarded as one of the best options for storing nuclear waste.",
+      "authors": "",
+      "published": "Sep 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-09-copper-oxygen-rich-early-oxidation.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/detailed-insights-at-b.jpg",
+      "screen": "right"
+    },
+    {
       "title": "New high-temperature, high-pressure isotope ratio analysis method developed for halogenated compounds",
       "abstract": "Halogenated organic compounds (HOCs) are widely used in industrial and consumer products, but some are highly persistent and difficult to analyze and manage. In a new study, researchers developed an innovative approach for carbon isotope ratio analysis of these compounds, which has previously been difficult. This approach will help track the sources and environmental pathways of such pollutants, contributing to the development of effective management strategies.",
       "authors": "",
@@ -379,26 +399,6 @@
       "feedName": "Phys.org Analytics",
       "url": "https://phys.org/news/2026-09-roadmap-animal-free-chemical.html",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/animal-free-chemical-t.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "Larger catalyst batches could make carbon recycling cheaper and easier to scale",
-      "abstract": "Turning carbon dioxide into industrial chemicals used in everything from synthetic fuels to plastics and pharmaceuticals is costly. But new research shows it does not have to be.",
-      "authors": "",
-      "published": "Sep 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-09-larger-catalyst-batches-carbon-recycling.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/researchers-turn-clima.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "Tests reveal how thermoplastic composites lose strength at elevated temperatures",
-      "abstract": "Researchers from Skoltech together with colleagues from Xi'an Jiaotong University and the Blagonravov Institute of Mechanical Engineering of the Russian Academy of Sciences, have conducted a systematic study of the flexural properties of pultruded glass fiber composites based on three different thermoplastic matrices: polyphenylene sulfide (PPS), polyamide-6 (PA6) and polypropylene (PP).",
-      "authors": "",
-      "published": "Sep 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-09-reveal-thermoplastic-composites-strength-elevated.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/strength-under-heat-re.jpg",
       "screen": "right"
     },
     {

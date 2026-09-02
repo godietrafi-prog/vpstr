@@ -1,6 +1,16 @@
 {
-  "updated": "2026-09-01T22:12:57Z",
+  "updated": "2026-09-02T02:05:32Z",
   "items": [
+    {
+      "title": "Global patterns and feasible improvement potential of phosphorus use efficiency in cereal croplands",
+      "abstract": "Low phosphorus use efficiency limits crop production while accelerating the depletion of finite phosphorus resources and environmental pollution. Using a machine learning framework that incorporates feasibility constraints, this study maps global phosphorus use efficiency for major cereal crops and identifies region-specific opportunities and management priorities for improving phosphorus sustainability.",
+      "authors": "Yishen Sun, Han Hu, Rong-Xi Tan et al.",
+      "published": "Sep 2026",
+      "feedName": "Nature Food",
+      "url": "https://www.nature.com/articles/s43016-026-01419-9",
+      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs43016-026-01419-9/MediaObjects/43016_2026_1419_Fig1_HTML.png",
+      "screen": "left"
+    },
     {
       "title": "Disruptions of global crop yields",
       "abstract": "Timely estimation and forecasting of crop yields at national and global levels is essential to manage market volatility. Yet, better understanding of estimation accuracy and whether and how this impacts market volatility is essential.",
@@ -29,16 +39,6 @@
       "feedName": "Nature Food",
       "url": "https://www.nature.com/articles/s43016-026-01425-x",
       "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs43016-026-01425-x/MediaObjects/43016_2026_1425_Fig1_HTML.png",
-      "screen": "left"
-    },
-    {
-      "title": "Systematic review of nutrient profile models for front-of-pack nutrition labelling",
-      "abstract": "Nutrient profile models (NPMs) underpin front-of-pack nutrition labelling (FOPNL), which can help consumers to make healthier food choices. This systematic review identifies and characterizes existing NPMs for FOPNL systems globally.",
-      "authors": "Margarida Bica, Jessica Renzella, Asha Kaur et al.",
-      "published": "Aug 2026",
-      "feedName": "Nature Food",
-      "url": "https://www.nature.com/articles/s43016-026-01414-0",
-      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs43016-026-01414-0/MediaObjects/43016_2026_1414_Fig1_HTML.png",
       "screen": "left"
     },
     {
@@ -282,43 +282,43 @@
       "screen": "left"
     },
     {
-      "title": "Global and national trends in alcohol-attributable deaths from 1990 to 2023 and projections to 2050",
+      "title": "Volatilomic and transcriptomic analyses uncover the mechanisms underlying flavor-related VOC changes during the harvest period of Citrus reticulata ‘Chachi’",
       "abstract": "",
-      "authors": "Yuan-Yuan Li, Yan Jin, Franklin R. Tay",
-      "published": "Aug 2026",
+      "authors": "Ding Huang, Jiawei Chen, Jinmei Li et al.",
+      "published": "Sep 2026",
       "feedName": "npj Science of Food",
-      "url": "https://www.nature.com/articles/s41538-026-01067-0",
-      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01067-0/MediaObjects/41538_2026_1067_Fig1_HTML.png",
+      "url": "https://www.nature.com/articles/s41538-026-01124-8",
+      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01124-8/MediaObjects/41538_2026_1124_Fig1_HTML.png",
       "screen": "left"
     },
     {
-      "title": "Harnessing Amazonian biodiversity for sustainable and circular food systems",
+      "title": "Occurrence of multi-mycotoxins and tropane alkaloids in legume-based foods: a comparative exposure assessment between Italy and Thailand",
       "abstract": "",
-      "authors": "José M. Alvarez-Suarez, Henrik Balslev",
-      "published": "Aug 2026",
+      "authors": "Eleonora Rollo, Kawisara Siwarak, Nazmi Waesoh et al.",
+      "published": "Sep 2026",
       "feedName": "npj Science of Food",
-      "url": "https://www.nature.com/articles/s41538-026-01116-8",
-      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01116-8/MediaObjects/41538_2026_1116_Fig1_HTML.png",
+      "url": "https://www.nature.com/articles/s41538-026-01082-1",
+      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01082-1/MediaObjects/41538_2026_1082_Fig1_HTML.png",
       "screen": "left"
     },
     {
-      "title": "Integrating microbiome, volatilome, sensory analysis, and temporal deep learning to model flavor formation in Fengxiang Taibai Baijiu",
+      "title": "Vegetable-oil preloading modulates postprandial glycemic and insulin responses to a high-glycemic meal in healthy adults",
       "abstract": "",
-      "authors": "Xian Li, Tian Gao, Jiajun Shi et al.",
-      "published": "Aug 2026",
+      "authors": "Marwa M. M. ElHindawy, Nur Syahirah Amirruddin, Hafizah Yusri et al.",
+      "published": "Sep 2026",
       "feedName": "npj Science of Food",
-      "url": "https://www.nature.com/articles/s41538-026-01106-w",
-      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01106-w/MediaObjects/41538_2026_1106_Fig1_HTML.png",
+      "url": "https://www.nature.com/articles/s41538-026-01087-w",
+      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01087-w/MediaObjects/41538_2026_1087_Fig1_HTML.png",
       "screen": "left"
     },
     {
-      "title": "Matrix architecture and refrigerated storage modulate starch digestibility and enteroendocrine responses in nixtamalized maize foods",
-      "abstract": "",
-      "authors": "Julian de la Rosa Millan",
-      "published": "Aug 2026",
+      "title": "Microbial fermentation for riboflavin biofortification in African traditional fermented foods",
+      "abstract": "Lactic Acid Bacteria (LAB) are commonly employed in the food industry as microbial starters, probiotics and for in situ biofortification of fermented foods. The use of vitamin-overproducing LAB represents a promising strategy for enhancing the nutritional value of staple home-made fermented foods. This approach could play a significant role in addressing deficiencies of B-group vitamins, especially vitamin B2, in underdeveloped regions.",
+      "authors": "Giuseppe Spano, Pasquale Russo, Mariagiovanna Fragasso",
+      "published": "Sep 2026",
       "feedName": "npj Science of Food",
-      "url": "https://www.nature.com/articles/s41538-026-01107-9",
-      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01107-9/MediaObjects/41538_2026_1107_Fig1_HTML.png",
+      "url": "https://www.nature.com/articles/s41538-026-01099-6",
+      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01099-6/MediaObjects/41538_2026_1099_Fig1_HTML.png",
       "screen": "left"
     },
     {
@@ -362,6 +362,16 @@
       "screen": "left"
     },
     {
+      "title": "New high-temperature, high-pressure isotope ratio analysis method developed for halogenated compounds",
+      "abstract": "Halogenated organic compounds (HOCs) are widely used in industrial and consumer products, but some are highly persistent and difficult to analyze and manage. In a new study, researchers developed an innovative approach for carbon isotope ratio analysis of these compounds, which has previously been difficult. This approach will help track the sources and environmental pathways of such pollutants, contributing to the development of effective management strategies.",
+      "authors": "",
+      "published": "Sep 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-09-high-temperature-pressure-isotope-ratio.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/new-high-temperature-h.jpg",
+      "screen": "right"
+    },
+    {
       "title": "A roadmap for animal-free chemical testing",
       "abstract": "For many years, the European Union has pursued a policy aimed at the replacement, reduction and refinement of animal testing (the 3Rs principle). To put the ethical principle of the 3Rs into practice, the European Commission has published a roadmap for the gradual phaseout of animal testing in the safety assessment of chemicals.",
       "authors": "",
@@ -389,16 +399,6 @@
       "feedName": "Phys.org Analytics",
       "url": "https://phys.org/news/2026-09-reveal-thermoplastic-composites-strength-elevated.html",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/strength-under-heat-re.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "New method swaps single atom in a molecule to speed drug discovery",
-      "abstract": "Swapping out one letter in a word can entirely change its meaning. Similarly, swapping one atom in a molecule can completely change its identity. A group of chemists at the University of Chicago has demonstrated a new way to make a single-atom edit to a molecule without changing any of its other components. The innovative method can be used to make a family of molecules known as pyrroles, including many widely used medicines, and is significantly simpler, faster and more cost-effective than previous processes.",
-      "authors": "",
-      "published": "Aug 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-08-method-swaps-atom-molecule-drug.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/new-method-swaps-singl.jpg",
       "screen": "right"
     },
     {
@@ -549,7 +549,7 @@
       "venue": "Science of the Total Environment",
       "feedName": "Lab Research",
       "citationCount": 8,
-      "recentCitations": 1,
+      "recentCitations": 0,
       "quartile": "Q1",
       "s2_paper_id": "716a87e9602f04f6b3d7fe6c3b411a15d1beaf4a",
       "url": "https://doi.org/10.1016/j.scitotenv.2024.174719",
@@ -689,7 +689,7 @@
       "venue": "Science of the Total Environment",
       "feedName": "Lab Research",
       "citationCount": 8,
-      "recentCitations": 1,
+      "recentCitations": 0,
       "quartile": "Q1",
       "s2_paper_id": "716a87e9602f04f6b3d7fe6c3b411a15d1beaf4a",
       "url": "https://doi.org/10.1016/j.scitotenv.2024.174719",

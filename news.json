@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-02T08:15:22Z",
+  "updated": "2026-09-02T13:58:58Z",
   "items": [
     {
       "title": "Global patterns and feasible improvement potential of phosphorus use efficiency in cereal croplands",
@@ -112,12 +112,12 @@
       "screen": "left"
     },
     {
-      "title": "Immature maize ear as a food matrix: Trendy baby corn's ( Zea mays L.) phytochemistry, bio-accessibility, and functional-food evidence",
+      "title": "Emerging insights into wine polysaccharides: Mechanisms, evolutions and applications in wine flavor management",
       "abstract": "",
-      "authors": "Ibrahim Khalifa, Ramy M. Khoder, Nayyar Iqbal et al.",
+      "authors": "Zhenyue Yang, Linna Song, Yujie Hao et al.",
       "published": "Nov 2026",
       "feedName": "Trends in Food Sci & Tech",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426005133?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426005194?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -292,6 +292,16 @@
       "screen": "left"
     },
     {
+      "title": "A sustainable functional food ingredient from Saussurea involucrata cell culture alleviates atopic dermatitis-like inflammation via arachidonic acid metabolic remodeling",
+      "abstract": "",
+      "authors": "Xinwei Yan, Yin Chen, Ping Yu et al.",
+      "published": "Sep 2026",
+      "feedName": "npj Science of Food",
+      "url": "https://www.nature.com/articles/s41538-026-01072-3",
+      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01072-3/MediaObjects/41538_2026_1072_Fig1_HTML.png",
+      "screen": "left"
+    },
+    {
       "title": "Occurrence of multi-mycotoxins and tropane alkaloids in legume-based foods: a comparative exposure assessment between Italy and Thailand",
       "abstract": "",
       "authors": "Eleonora Rollo, Kawisara Siwarak, Nazmi Waesoh et al.",
@@ -309,16 +319,6 @@
       "feedName": "npj Science of Food",
       "url": "https://www.nature.com/articles/s41538-026-01087-w",
       "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01087-w/MediaObjects/41538_2026_1087_Fig1_HTML.png",
-      "screen": "left"
-    },
-    {
-      "title": "Microbial fermentation for riboflavin biofortification in African traditional fermented foods",
-      "abstract": "Lactic Acid Bacteria (LAB) are commonly employed in the food industry as microbial starters, probiotics and for in situ biofortification of fermented foods. The use of vitamin-overproducing LAB represents a promising strategy for enhancing the nutritional value of staple home-made fermented foods. This approach could play a significant role in addressing deficiencies of B-group vitamins, especially vitamin B2, in underdeveloped regions.",
-      "authors": "Giuseppe Spano, Pasquale Russo, Mariagiovanna Fragasso",
-      "published": "Sep 2026",
-      "feedName": "npj Science of Food",
-      "url": "https://www.nature.com/articles/s41538-026-01099-6",
-      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01099-6/MediaObjects/41538_2026_1099_Fig1_HTML.png",
       "screen": "left"
     },
     {
@@ -482,6 +482,26 @@
       "screen": "right"
     },
     {
+      "title": "Research progress on plant-derived bioactive compounds and late-life depression: from neuroprotective mechanisms to dietary patterns",
+      "abstract": "Late-life depression (LLD) represents a critical public health challenge, exerting a profound and detrimental impact on the health of older adults. Currently, dietary intervention is increasingly valued in the field of mental health. Various active components abundant in plant-based foods show great potential in preventing and alleviating depressive symptoms in the older adults. This narrative review aims to summarize the neuroprotective effects of major plant-derived bioactive compounds such as polyphenols, terpenoids and other components, which are related to LLD. It also listed alkaloids and polysaccharides as potential plant-derived bioactive compounds for LLD. It focuses on elucidating the research progress of their mechanisms and dietary patterns, thereby providing a theoretical basis for dietary intervention in treating older adults who are over 60 years old. Future trials should integrate multi-omics and quantitative evaluation to inform personalized LLD dietary interventions.",
+      "authors": "Yao Gao, Yu-Fei Shi, Jian-Zhen Hu et al.",
+      "published": "Sep 2026",
+      "feedName": "Frontiers Nutrition",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1913204",
+      "image": "",
+      "screen": "right"
+    },
+    {
+      "title": "Editorial: Interactions between diet, sleep and musculoskeletal health: beyond a disease-specific perspective",
+      "abstract": "",
+      "authors": "Xiwei Fan, Yuangang Wu, Antonia Rujia Sun",
+      "published": "Sep 2026",
+      "feedName": "Frontiers Nutrition",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1905646",
+      "image": "",
+      "screen": "right"
+    },
+    {
       "title": "Editorial: From nutrients to nightfall: how metabolism and nutrition interact with sleep and the circadian clock",
       "abstract": "",
       "authors": "Ronan Lordan, Omar Ramos-Lopez",
@@ -492,32 +512,12 @@
       "screen": "right"
     },
     {
-      "title": "Comparative profiling of surface-sterilized leaf-associated microbiota and flavor-associated metabolites in two Gougunao tea cultivars across fresh and fermented leaf stages",
-      "abstract": "Black tea quality is governed mainly by endogenous enzymatic reactions during processing, whereas relationships between surface-sterilized leaf-associated microbiota and flavor-related chemical variation remain unclear. Here, differences between two Gougunao tea cultivars and between fresh- and fermented-leaf stages were investigated using 16S rRNA/ITS amplicon sequencing, untargeted LC–MS metabolomics, broadly targeted GC–MS volatile profiling in SIM mode, and sensory evaluation. The two cultivars were compared under the same standardized manufacturing procedure. Multivariate ordination and PERMANOVA showed significant differences in bacterial and fungal assemblages. Community composition differed significantly between G1 and G2 in both kingdoms, whereas a significant processing-stage effect was detected only for fungi. Bacterial communities were dominated by Sphingomonas and Methylobacterium, while fungal profiles were enriched in Dothideomycetes-affiliated genera, particularly Setophoma and Cladosporium. LC–MS and GC–MS analyses revealed differences in volatile and non-volatile features between the two tested cultivars that were evident in fresh leaves and remained detectable after processing. Although PICRUSt2 indicated broadly comparable predicted functional profiles among groups, cross-omics analysis after adjustment for cultivar and processing stage identified a limited set of adjusted genus–feature associations across both analytical platforms. Fungal genera from the same broad taxonomic class showed opposing directional association patterns, indicating taxon-specif…",
-      "authors": "Jiahao Ai, Junjie Lu, Bojian Wang et al.",
+      "title": "Correction: Medical nutrition therapy in incretin-treated obesity-related heart failure with preserved ejection fraction",
+      "abstract": "",
+      "authors": "Qiuli Ming, Ze Li",
       "published": "Sep 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1859865",
-      "image": "",
-      "screen": "right"
-    },
-    {
-      "title": "Psychometric validation of the Romanian Scenario-Based Dieting Self-Efficacy Scale in adults with overweight and obesity",
-      "abstract": "IntroductionOverweight and obesity require sustained changes in eating behaviour, yet long-term adherence to dietary recommendations remains difficult. Dieting self-efficacy, defined as confidence in managing eating-related challenges, is an important self-regulatory construct in weight management. This study aimed to translate and evaluate the psychometric properties of the Romanian version of the Scenario-Based Dieting Self-Efficacy Scale (DIET-SE) in adults with overweight and obesity.MethodsA total of 509 adults from the general Romanian population completed an online survey between February and April 2026. For the validation analyses, 243 participants with BMI ≥ 25 kg/m2 were included. The sample was randomly divided into two independent subsamples for exploratory factor analysis (EFA; n = 123) and confirmatory factor analysis (CFA; n = 120). Internal consistency was assessed using Cronbach’s alpha, test–retest reliability using the intraclass correlation coefficient (ICC), and construct validity through associations with intuitive eating, BMI, perceived stress, body image, self-rated health, and fruit and vegetable intake.ResultsEFA supported a three-factor structure consistent with the original instrument, comprising Social and Internal Factors, Negative Emotional Events, and High-Caloric Food, which explained 52.9% of the total variance. CFA provided acceptable support for this structure, with CFI = 0.935, TLI = 0.908, SRMR = 0.058, and RMSEA = 0.090. Internal consistency was good for the total scale (Cronbach’s alpha = 0.872) and acceptable to good for the subscale…",
-      "authors": "Diana Draia, Salomeia Putnoky, Ioana Cristina Olariu et al.",
-      "published": "Sep 2026",
-      "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1911825",
-      "image": "",
-      "screen": "right"
-    },
-    {
-      "title": "Effects of a “5 + 2” dietary management model on body composition and behavioral modification in Chinese children with obesity: a prospective, non-randomized controlled trial",
-      "abstract": "IntroductionContinuous energy restriction may be associated with poor adherence and a risk of muscle mass loss in pediatric obesity management. This study evaluated the effects of a structured “5 + 2” dietary management model—cycling 5 weekdays of calorie-restricted diet with 2 weekend days of high-protein diet—supported by standardized supplements and professional supervision.MethodsIn this prospective, non-randomized controlled trial conducted in Shenzhen, China, 84 children with persistent obesity (median age 11.1 years) were enrolled. The intervention group (N = 31) followed an 8-week “5 + 2” protocol with dietitian-led behavioral guidance and satiety-enhancing supplements, followed by a 12-week follow-up period. Controls (N = 53) received conventional weight-loss advice. Propensity score matching was employed to balance baseline cohorts (N = 74; 30 intervention, 44 control). Changes in weight, body composition, metabolic parameters, and behavior were assessed at weeks 8 and 20.ResultsAt week 8, the intervention group achieved significantly greater weight loss (−1.42 ± 1.73 kg vs. −0.44 ± 1.54 kg, p = 0.015) and body mass index (BMI) standard deviation score (SDS) reduction (−0.21 ± 0.14 vs. -0.11 ± 0.14, p = 0.005) compared to controls. The median behavior score in the intervention group improved significantly from 66.0 to 82.0 (p < 0.001), with marked increases in self-weighing frequency and physical activity. At the 20-week follow-up (post-summer break), the intervention group maintained greater reductions in body fat mass (−1.42 ± 3.41 vs. +1.84 ± 3.67 kg, p < 0.001…",
-      "authors": "Huiping Su, Lili Pan, Rongfei Zheng et al.",
-      "published": "Sep 2026",
-      "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1907795",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1970493",
       "image": "",
       "screen": "right"
     },

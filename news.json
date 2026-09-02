@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-02T17:37:40Z",
+  "updated": "2026-09-02T20:19:47Z",
   "items": [
     {
       "title": "Equitable fortification programmes require matching needs and consumption",
@@ -242,6 +242,16 @@
       "screen": "left"
     },
     {
+      "title": "Synergistic inhibition of Listeria monocytogenes by salami salt and bile salts during digestion via ribosomal and glycolytic pathway downregulation",
+      "abstract": "",
+      "authors": "Cong Zhou, Fanwen Zhao, Haorui Huang et al.",
+      "published": "Mar 2027",
+      "feedName": "Food Microbiology",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0740002026002601?dgcid=rss_sd_all",
+      "image": "",
+      "screen": "left"
+    },
+    {
       "title": "Boosting baijiu fermentation efficiency through designed microbial community coalescence: Enhanced substrate conversion and flavor output",
       "abstract": "",
       "authors": "Ruyu Yan, Yuhang Zhang, Zeyang Li et al.",
@@ -268,16 +278,6 @@
       "published": "Mar 2027",
       "feedName": "Food Microbiology",
       "url": "https://www.sciencedirect.com/science/article/pii/S0740002026002480?dgcid=rss_sd_all",
-      "image": "",
-      "screen": "left"
-    },
-    {
-      "title": "Spatiotemporal dynamics of volatile flavor compounds and associated functional microbial communities during strong-flavor Daqu fermentation",
-      "abstract": "",
-      "authors": "Wenyi Jiang, Zhihua Li, Yi Dong et al.",
-      "published": "Mar 2027",
-      "feedName": "Food Microbiology",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0740002026002455?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -482,12 +482,12 @@
       "screen": "right"
     },
     {
-      "title": "Flavonoids: biological activities, nutritional and immunological aspects, therapeutic potential, food applications, and human health benefits—A comprehensive review",
-      "abstract": "The global burden of infectious and non-communicable diseases presents a critical challenge, highlighting the urgent need for novel, safe, and effective therapies. Bioactive compounds from medicinal plants, especially flavonoids, offer a promising resource for drug discovery due to their diverse and potent pharmacological effects documented in preclinical studies. This comprehensive review summarizes current knowledge of flavonoids, including their classification into 14 main groups and their production via biosynthesis, chemical synthesis, modification, and extraction. While structural modification remains a key aspect of drug development, biosynthesis is increasingly seen as a potential transformative strategy for sustainable large-scale production. However, it requires a deeper understanding of metabolic pathways and optimization of synthetic methods. Aside from production challenges, a major translational hurdle is the inherently low bioavailability of many flavonoids. This review critically examines innovative solutions under investigation, such as advanced nanoparticles and colloidal drug delivery systems designed to address challenges in solubility, stability, and absorption. It also summarizes the current understanding of the mechanisms of action underlying their broad biological activities, primarily as evidenced by preclinical models, including nutritional, immunological, and disease-specific effects, and discusses potential drug interactions warranting clinical attention. Lastly, the review highlights key research gaps, including the need for more robust in vivo …",
-      "authors": "Mohamed T. El-Saadony, Ahmed M. Saad, Mohamed A. Fahmy et al.",
+      "title": "Ketogenic diet combined with probiotics for polyendocrine metabolic ovarian syndrome: research progress from the perspective of the gut microbiota–host metabolic axis",
+      "abstract": "Polyendocrine metabolic ovarian syndrome (PMOS), formerly known as polycystic ovary syndrome (PCOS), is a common endocrine-metabolic disorder characterized by insulin resistance, androgen excess, chronic inflammation, and gut microbial dysbiosis. Increasing evidence suggests that the gut microbiota–metabolite–host axis contributes to the interaction between metabolic dysfunction, immune imbalance, and reproductive endocrine abnormalities. The ketogenic diet (KD) may improve PMOS by restricting carbohydrate intake, promoting ketone production, reducing body weight, enhancing insulin sensitivity, and alleviating inflammation. However, KD may also decrease beneficial bacteria, including Bifidobacterium, potentially disrupting intestinal microbial homeostasis. Probiotics may counteract these effects by restoring beneficial microbial populations, increasing short-chain fatty acid production, strengthening the intestinal barrier, regulating bile acid metabolism, and reducing systemic inflammation. These changes may further improve glucose and lipid metabolism and reproductive endocrine function. This review summarizes the potential mechanisms and current evidence regarding the combined use of KD and probiotics in PMOS, with particular emphasis on the gut microbiota–host metabolic axis. However, no randomized controlled trial has directly evaluated this combined approach in women with PCOS. Therefore, its potential complementary effects remain hypothetical and require clinical validation.",
+      "authors": "Yi Yang, Furen Dai, Xiaoming He et al.",
       "published": "Sep 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1801674",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1945464",
       "image": "",
       "screen": "right"
     },
@@ -512,12 +512,12 @@
       "screen": "right"
     },
     {
-      "title": "Editorial: Interactions between diet, sleep and musculoskeletal health: beyond a disease-specific perspective",
-      "abstract": "",
-      "authors": "Xiwei Fan, Yuangang Wu, Antonia Rujia Sun",
+      "title": "Flavonoids: biological activities, nutritional and immunological aspects, therapeutic potential, food applications, and human health benefits—A comprehensive review",
+      "abstract": "The global burden of infectious and non-communicable diseases presents a critical challenge, highlighting the urgent need for novel, safe, and effective therapies. Bioactive compounds from medicinal plants, especially flavonoids, offer a promising resource for drug discovery due to their diverse and potent pharmacological effects documented in preclinical studies. This comprehensive review summarizes current knowledge of flavonoids, including their classification into 14 main groups and their production via biosynthesis, chemical synthesis, modification, and extraction. While structural modification remains a key aspect of drug development, biosynthesis is increasingly seen as a potential transformative strategy for sustainable large-scale production. However, it requires a deeper understanding of metabolic pathways and optimization of synthetic methods. Aside from production challenges, a major translational hurdle is the inherently low bioavailability of many flavonoids. This review critically examines innovative solutions under investigation, such as advanced nanoparticles and colloidal drug delivery systems designed to address challenges in solubility, stability, and absorption. It also summarizes the current understanding of the mechanisms of action underlying their broad biological activities, primarily as evidenced by preclinical models, including nutritional, immunological, and disease-specific effects, and discusses potential drug interactions warranting clinical attention. Lastly, the review highlights key research gaps, including the need for more robust in vivo …",
+      "authors": "Mohamed T. El-Saadony, Ahmed M. Saad, Mohamed A. Fahmy et al.",
       "published": "Sep 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1905646",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1801674",
       "image": "",
       "screen": "right"
     },

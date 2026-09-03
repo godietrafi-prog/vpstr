@@ -1,6 +1,26 @@
 {
-  "updated": "2026-09-03T20:20:58Z",
+  "updated": "2026-09-03T23:43:10Z",
   "items": [
+    {
+      "title": "Interrupted salt iodization harmed child health and education in Ethiopia",
+      "abstract": "Ethiopia’s iodized salt supply was cut off in May 1998, limiting intake to the iodine levels in local foods. We found a significant drop in child survival and academic achievement, especially in rural districts with lower environmental iodine concentrations. Placebo tests confirm that losses were caused by a lack of iodine.",
+      "authors": "",
+      "published": "Sep 2026",
+      "feedName": "Nature Food",
+      "url": "https://www.nature.com/articles/s43016-026-01415-z",
+      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs43016-026-01415-z/MediaObjects/43016_2026_1415_Fig1_HTML.png",
+      "screen": "left"
+    },
+    {
+      "title": "Loss of salt iodization harmed child survival and academic achievement in Ethiopia",
+      "abstract": "This study examines the effects of early-life iodine deficiency on health and educational outcomes following the war-induced disruption of Ethiopia’s salt iodization programme in the late 1990s. Using a quasi-experimental design, it finds that early-life iodine deficiency is associated with higher early-childhood mortality and lower performance on standardized secondary-school exams among rural children.",
+      "authors": "Robel Alemu, Kibrom Tafere, Dawd Gashu et al.",
+      "published": "Sep 2026",
+      "feedName": "Nature Food",
+      "url": "https://www.nature.com/articles/s43016-026-01408-y",
+      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs43016-026-01408-y/MediaObjects/43016_2026_1408_Fig1_HTML.png",
+      "screen": "left"
+    },
     {
       "title": "Equitable fortification programmes require matching needs and consumption",
       "abstract": "Large-scale food fortification can be an effective strategy to address hidden hunger, but only if vulnerable populations actually eat the fortified foods. A systemic framework using publicly available data from ten West African countries reveals that a wider mix of fortified foods than are currently considered for fortification is needed for building more equitable programmes.",
@@ -19,26 +39,6 @@
       "feedName": "Nature Food",
       "url": "https://www.nature.com/articles/s43016-026-01412-2",
       "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs43016-026-01412-2/MediaObjects/43016_2026_1412_Fig1_HTML.png",
-      "screen": "left"
-    },
-    {
-      "title": "Engagement in food system-related controversies can strengthen science–policy–society interfaces",
-      "abstract": "Strong disagreements among stakeholders are common at the intersection of agriculture, food, health and the environment. By engaging constructively in these controversies through transdisciplinary approaches, scientists can better support sustainable food system transformation.",
-      "authors": "Louise E. Jackson, Philippe Jarne, Paul Shrivastava et al.",
-      "published": "Sep 2026",
-      "feedName": "Nature Food",
-      "url": "https://www.nature.com/articles/s43016-026-01416-y",
-      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs43016-026-01416-y/MediaObjects/43016_2026_1416_Fig1_HTML.png",
-      "screen": "left"
-    },
-    {
-      "title": "Global patterns and feasible improvement potential of phosphorus use efficiency in cereal croplands",
-      "abstract": "Low phosphorus use efficiency limits crop production while accelerating the depletion of finite phosphorus resources and environmental pollution. Using a machine learning framework that incorporates feasibility constraints, this study maps global phosphorus use efficiency for major cereal crops and identifies region-specific opportunities and management priorities for improving phosphorus sustainability.",
-      "authors": "Yishen Sun, Han Hu, Rong-Xi Tan et al.",
-      "published": "Sep 2026",
-      "feedName": "Nature Food",
-      "url": "https://www.nature.com/articles/s43016-026-01419-9",
-      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs43016-026-01419-9/MediaObjects/43016_2026_1419_Fig1_HTML.png",
       "screen": "left"
     },
     {
@@ -282,6 +282,16 @@
       "screen": "left"
     },
     {
+      "title": "From natural vesicles to intelligent carriers: the metabolic basis and biomedical applications of lemon-derived extracellular vesicles",
+      "abstract": "",
+      "authors": "Anyi Wu, Xianhao Wu, Shuchen Zhang et al.",
+      "published": "Sep 2026",
+      "feedName": "npj Science of Food",
+      "url": "https://www.nature.com/articles/s41538-026-00875-8",
+      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-00875-8/MediaObjects/41538_2026_875_Fig1_HTML.png",
+      "screen": "left"
+    },
+    {
       "title": "Increasing storage temperature of frozen foods: effect on sustainability and food quality",
       "abstract": "",
       "authors": "Lorenza Serena, Martijntje Vollebregt, Marcel Meinders et al.",
@@ -292,6 +302,16 @@
       "screen": "left"
     },
     {
+      "title": "Machine learning reveals structural determinants of odor detection thresholds and identifies high-potency food odorants",
+      "abstract": "",
+      "authors": "Xin Hou, Zhilei Zhou, Peiqin Shi et al.",
+      "published": "Sep 2026",
+      "feedName": "npj Science of Food",
+      "url": "https://www.nature.com/articles/s41538-026-01125-7",
+      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01125-7/MediaObjects/41538_2026_1125_Fig1_HTML.png",
+      "screen": "left"
+    },
+    {
       "title": "High-temperature-treated soy protein isolate reduces amino acid availability and alters social novelty in mice",
       "abstract": "",
       "authors": "Tomoko T. Asai, Takayo Mannari-Sasagawa, Yuichi Yabe et al.",
@@ -299,26 +319,6 @@
       "feedName": "npj Science of Food",
       "url": "https://www.nature.com/articles/s41538-026-01091-0",
       "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01091-0/MediaObjects/41538_2026_1091_Fig1_HTML.png",
-      "screen": "left"
-    },
-    {
-      "title": "Informed questioning on NOVA and Nutri-Score interpretation in augmented virtuality sensory evaluation",
-      "abstract": "",
-      "authors": "Chengfang Tao, Aznor Qistina Mastura Azri, Abdul Hannan Zulkarnain et al.",
-      "published": "Sep 2026",
-      "feedName": "npj Science of Food",
-      "url": "https://www.nature.com/articles/s41538-026-01122-w",
-      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01122-w/MediaObjects/41538_2026_1122_Fig1_HTML.png",
-      "screen": "left"
-    },
-    {
-      "title": "Volatilomic and transcriptomic analyses uncover the mechanisms underlying flavor-related VOC changes during the harvest period of Citrus reticulata ‘Chachi’",
-      "abstract": "",
-      "authors": "Ding Huang, Jiawei Chen, Jinmei Li et al.",
-      "published": "Sep 2026",
-      "feedName": "npj Science of Food",
-      "url": "https://www.nature.com/articles/s41538-026-01124-8",
-      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01124-8/MediaObjects/41538_2026_1124_Fig1_HTML.png",
       "screen": "left"
     },
     {
@@ -362,6 +362,26 @@
       "screen": "left"
     },
     {
+      "title": "From peas to potatoes, AI identifies nearly 800 promising plant proteins for food and cosmetics",
+      "abstract": "Scientists from Leeds' School of Food Science and Nutrition have developed an advanced AI process that can rapidly identify plant proteins capable of acting as emulsifiers from tens of millions of initial candidates. To date, it has identified nearly 800. The discovery will cut years of costly trial-and-error research and bring the next generation of plant-based foods and cosmetics closer.",
+      "authors": "",
+      "published": "Sep 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-09-peas-potatoes-ai-proteins-food.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/ai-model-identifies-hu.jpg",
+      "screen": "right"
+    },
+    {
+      "title": "'Power of disorder' tames CF₄, a semiconductor greenhouse gas that can persist for 50,000 years",
+      "abstract": "Among the gases used in semiconductor manufacturing, tetrafluoromethane (CF₄) is a greenhouse gas more than 6,000 times as potent as carbon dioxide.",
+      "authors": "",
+      "published": "Sep 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-09-power-disorder-cf-semiconductor-greenhouse.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/kaist-tames-a-semicond.jpg",
+      "screen": "right"
+    },
+    {
       "title": "Electron spin unlocks magnetic control of hydrogen surface reactions",
       "abstract": "Chemical reactions at surfaces play a central role in many processes, including catalysis and materials synthesis. It is well known that the outcome of these reactions is influenced by the translational, vibrational and rotational motions of atoms and molecules. Now, a study shows that electron spin, another fundamental property of matter, also influences how chemical reactions at surfaces unfold.",
       "authors": "",
@@ -379,26 +399,6 @@
       "feedName": "Phys.org Analytics",
       "url": "https://phys.org/news/2026-09-metal-2d-catalysts-extra-electrical.html",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/a-five-metal-shot-at-t-1.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "Copper's oxygen-rich early oxidation layer could inform catalyst design and nuclear waste storage",
-      "abstract": "Copper roofs lose their reddish color over time because a pale green layer of copper oxide forms on their surface, protecting the roof from further corrosion for many years. But what exactly happens during the first steps of this process? Might it even be possible to stop it? This question has become increasingly urgent since copper containers have come to be regarded as one of the best options for storing nuclear waste.",
-      "authors": "",
-      "published": "Sep 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-09-copper-oxygen-rich-early-oxidation.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/detailed-insights-at-b.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "New high-temperature, high-pressure isotope ratio analysis method developed for halogenated compounds",
-      "abstract": "Halogenated organic compounds (HOCs) are widely used in industrial and consumer products, but some are highly persistent and difficult to analyze and manage. In a new study, researchers developed an innovative approach for carbon isotope ratio analysis of these compounds, which has previously been difficult. This approach will help track the sources and environmental pathways of such pollutants, contributing to the development of effective management strategies.",
-      "authors": "",
-      "published": "Sep 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-09-high-temperature-pressure-isotope-ratio.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/new-high-temperature-h.jpg",
       "screen": "right"
     },
     {

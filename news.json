@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-04T13:54:07Z",
+  "updated": "2026-09-04T17:18:21Z",
   "items": [
     {
       "title": "Interrupted salt iodization harmed child health and education in Ethiopia",
@@ -292,6 +292,16 @@
       "screen": "left"
     },
     {
+      "title": "Frequent EFSA regulation violation for wheat flours suggests stronger control and regulatory harmonization of production, milling and distribution",
+      "abstract": "",
+      "authors": "Alexis Noel, Justine Pincemaille, Matteo Creta et al.",
+      "published": "Sep 2026",
+      "feedName": "npj Science of Food",
+      "url": "https://www.nature.com/articles/s41538-026-01126-6",
+      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01126-6/MediaObjects/41538_2026_1126_Fig1_HTML.png",
+      "screen": "left"
+    },
+    {
       "title": "From natural vesicles to intelligent carriers: the metabolic basis and biomedical applications of lemon-derived extracellular vesicles",
       "abstract": "",
       "authors": "Anyi Wu, Xianhao Wu, Shuchen Zhang et al.",
@@ -309,16 +319,6 @@
       "feedName": "npj Science of Food",
       "url": "https://www.nature.com/articles/s41538-026-01112-y",
       "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01112-y/MediaObjects/41538_2026_1112_Fig1_HTML.png",
-      "screen": "left"
-    },
-    {
-      "title": "Machine learning reveals structural determinants of odor detection thresholds and identifies high-potency food odorants",
-      "abstract": "",
-      "authors": "Xin Hou, Zhilei Zhou, Peiqin Shi et al.",
-      "published": "Sep 2026",
-      "feedName": "npj Science of Food",
-      "url": "https://www.nature.com/articles/s41538-026-01125-7",
-      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01125-7/MediaObjects/41538_2026_1125_Fig1_HTML.png",
       "screen": "left"
     },
     {
@@ -362,6 +362,36 @@
       "screen": "left"
     },
     {
+      "title": "Ultrafast sample spinning improves protein structural data by dizzying proportions",
+      "abstract": "Researchers have been elucidating the structures of complex molecules for more than 100 years using a variety of techniques. Some molecular structures, however, are more difficult to solve than others.",
+      "authors": "",
+      "published": "Sep 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-09-ultrafast-sample-protein-dizzying-proportions.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/ultrafast-sample-spinn.jpg",
+      "screen": "right"
+    },
+    {
+      "title": "Patent-reading AI could strengthen early warning systems for hazardous chemicals",
+      "abstract": "Patents are far more than legal documents protecting intellectual property. They are a vast source of scientific information about chemicals under development, often years before they appear in products or in the environment. That makes patents a valuable data source for early warning systems (EWS), which authorities use to identify potentially hazardous chemicals before they become a threat to human health and the environment.",
+      "authors": "",
+      "published": "Sep 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-09-patent-ai-early-hazardous-chemicals.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/can-ai-help-authoritie.jpg",
+      "screen": "right"
+    },
+    {
+      "title": "Davyne changes color beyond human sight, opening path to invisible security tags",
+      "abstract": "While studying the properties of hackmanite, researchers created a new material called davyne that changes color in the near-infrared region. The color change cannot be detected with the human eye, but only with a spectrometer or an infrared-sensitive camera. The researchers studied what caused the color change and tested the material's possible applications, for example, as an invisible anti-counterfeit tag.",
+      "authors": "",
+      "published": "Sep 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-09-davyne-human-sight-path-invisible.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/researchers-create-new-4.jpg",
+      "screen": "right"
+    },
+    {
       "title": "AI-driven polymer discovery could replace years of trial and error with closed-loop testing",
       "abstract": "In the realm of materials science, there is a plethora of datasets and tools at our disposal—the issue is how to effectively use these resources in harmony. Researchers at the Advanced Institute for Materials Research (WPI-AIMR), Tohoku University, have identified major bottlenecks holding back artificial intelligence-driven polymer innovation and created a system that integrates multiple tools (such as polymer databases, predictive models, AI agents and automated laboratories).",
       "authors": "",
@@ -369,36 +399,6 @@
       "feedName": "Phys.org Analytics",
       "url": "https://phys.org/news/2026-09-ai-driven-polymer-discovery-years.html",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/empowering-polymeric-m.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "From peas to potatoes, AI identifies nearly 800 promising plant proteins for food and cosmetics",
-      "abstract": "Scientists from Leeds' School of Food Science and Nutrition have developed an advanced AI process that can rapidly identify plant proteins capable of acting as emulsifiers from tens of millions of initial candidates. To date, it has identified nearly 800. The discovery will cut years of costly trial-and-error research and bring the next generation of plant-based foods and cosmetics closer.",
-      "authors": "",
-      "published": "Sep 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-09-peas-potatoes-ai-proteins-food.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/ai-model-identifies-hu.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "'Power of disorder' tames CF₄, a semiconductor greenhouse gas that can persist for 50,000 years",
-      "abstract": "Among the gases used in semiconductor manufacturing, tetrafluoromethane (CF₄) is a greenhouse gas more than 6,000 times as potent as carbon dioxide.",
-      "authors": "",
-      "published": "Sep 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-09-power-disorder-cf-semiconductor-greenhouse.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/kaist-tames-a-semicond.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "Electron spin unlocks magnetic control of hydrogen surface reactions",
-      "abstract": "Chemical reactions at surfaces play a central role in many processes, including catalysis and materials synthesis. It is well known that the outcome of these reactions is influenced by the translational, vibrational and rotational motions of atoms and molecules. Now, a study shows that electron spin, another fundamental property of matter, also influences how chemical reactions at surfaces unfold.",
-      "authors": "",
-      "published": "Sep 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-09-electron-magnetic-hydrogen-surface-reactions.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/magnetic-fields-put-a.jpg",
       "screen": "right"
     },
     {
@@ -482,42 +482,42 @@
       "screen": "right"
     },
     {
+      "title": "Psychobiotic, nutritional, and behavioral interventions targeting the microbiome-gut-brain axis in depression, anxiety, and stress: a scoping review",
+      "abstract": "Probiotics and psychobiotics are increasingly investigated as microbiome-gut-brain axis (MGBA)-targeted strategies for managing depression, anxiety, and stress-related symptoms, but human evidence remains fragmented across intervention types and biomarker domains. We conducted a scoping review of human intervention studies to map MGBA-targeted psychobiotic, nutritional, dietary, and behavioral interventions, with a specific focus on symptom-biomarker bridging evidence. Searches of major biomedical and multidisciplinary databases combined key terms for the microbiome/gut-brain axis, depression/anxiety/stress, probiotics/psychobiotics, dietary or behavioral interventions, and biomarker domains. The search yielded 1,390 records; 72 full-text reports were assessed; 32 original reports were retained after report-level adjudication; and, after study-family consolidation, 30 independent human studies were included in the study-level synthesis. Studies were classified as direct bridge, parallel evidence, or no bridge according to whether biomarker changes were statistically linked to emotional outcomes. Most included studies focused on probiotic or psychobiotic interventions, with fewer studies examining prebiotics, synbiotics, short-chain fatty acid approaches, dietary interventions, or mind-body/behavioral strategies. Across the 30 studies, 9 were classified as direct bridge, 18 as parallel evidence, and 3 as no bridge. The most frequently examined biomarker domains were gut microbiota, microbial metabolites, and inflammation/immune markers, with common specific readouts includin…",
+      "authors": "Qiuhua Dai, Chao Fang, Yajun Du et al.",
+      "published": "Sep 2026",
+      "feedName": "Frontiers Nutrition",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1856471",
+      "image": "",
+      "screen": "right"
+    },
+    {
+      "title": "Policy options to transform food systems for affordable and healthy diets in South Africa: a systematic review with stakeholder prioritization",
+      "abstract": "IntroductionSouth Africa’s food system is struggling to deliver nutritious, affordable diets, leaving many people unable to access healthy food. Furthermore, the country lacks a comprehensive food system policy, relying instead on policies that address specific components of food security. This study investigated cost-effective, feasible, and adaptable policy options to transform South Africa’s food system towards affordable, healthy diets.MethodsA systematic review was conducted in accordance with the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines. Scopus, PubMed, Web of Science, and other sources were searched for English-language publications from 2013 to 2023. Of the 340 records identified, 20 food systems transformation reports met the eligibility criteria, with 70% focusing on global contexts and 30% on Africa. The identified prioritised policy options were subsequently validated through an online survey of food system stakeholders.ResultsAgricultural policy options were prioritised most frequently (25%), followed by supply chain and governance interventions (20% each), regulatory measures (15%), and education and awareness interventions (10%). Financial, research, technology, and innovation policy options were least prioritised (5% each). Overall, 20 prioritised policy options were identified. The findings indicate that no single policy option is sufficient to improve the affordability of nutritious diets in South Africa. Instead, a coordinated package of complementary interventions across agriculture, governance, supply chains…",
+      "authors": "Wegayehu Fitawek, Lukhangele Mgweba, Olwethu Loki",
+      "published": "Sep 2026",
+      "feedName": "Frontiers Nutrition",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1855954",
+      "image": "",
+      "screen": "right"
+    },
+    {
+      "title": "Nobiletin ameliorates diabetic nephropathy by modulating TP53-associated PANoptosis: an experimental study",
+      "abstract": "BackgroundNobiletin (NOB), a naturally occurring polymethoxyflavone enriched in Citri Reticulatae Pericarpium—the dried peel of mature citrus fruit—has attracted increasing attention because of its multi-target pharmacological activities. This study explored the protective effects of NOB on diabetic nephropathy (DN), with a focus on TP53-associated PANoptosis and TFEB-related lysosomal and energy metabolic changes.MethodsForty male db/db mice were randomly assigned to the model, metformin, low-dose NOB (30 mg/kg/day), and high-dose NOB (60 mg/kg/day) groups, with 10 mice per group. Ten age-matched male db/m mice served as non-diabetic controls. Treatments were administered by gavage for 8 weeks. Metabolic parameters, lipid profiles, inflammatory cytokines, renal function, histopathology, untargeted metabolomics, energy metabolites, network pharmacology, surface plasmon resonance (SPR), immunofluorescence, qPCR, and Western blot analyses were performed. Supplementary in vitro validation was performed in high-glucose-treated HK2 renal tubular epithelial cells with TP53 knockdown or overexpression.ResultsNOB treatment reduced FBG, OGTT-AUC, INS, HOMA-IR, GSP, TC, TG, and LDL-C while increasing HDL-C. High-dose NOB improved renal function, reduced IL-1β and IL-6, and alleviated histological damage. Untargeted metabolomics suggested that NOB partially restored pathway-level changes related to oxidative phosphorylation, lysosomal function, fatty acid metabolism, and energy metabolism. Network pharmacology identified TP53 as a central candidate target, and SPR analysis suggested b…",
+      "authors": "Biwei Zhang, Yi Liu, Leilei Ma et al.",
+      "published": "Sep 2026",
+      "feedName": "Frontiers Nutrition",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1816623",
+      "image": "",
+      "screen": "right"
+    },
+    {
       "title": "Intravenous vitamin C as micronutrient therapy in patients with sepsis or septic shock: an updated systematic review and meta-analysis of randomized controlled trials",
       "abstract": "ObjectiveThe adjunctive therapeutic value of vitamin C in sepsis or septic shock patients remains controversial. This study aimed to evaluate the therapeutic efficacy and safety of intravenous administration of vitamin C in sepsis or septic shock patients through meta-analysis.MethodsRelevant literature was searched in PubMed, Embase, and Scopus databases and other related databases. The primary outcome was 28-day mortality. Secondary outcomes included duration and total dose of vasopressors, change in sequential organ failure assessment (SOFA) scores from baseline to the earliest reported time point between 72 and 96 h (ΔSOFA), hospital length of stay, intensive care unit length of stay, urine output in the 24-h, and incidence of adverse events.ResultsFourteen randomized controlled trials enrolling 1,958 patients were eligible for assessment. Meta-analysis demonstrated that intravenous vitamin C reduced 28-day mortality in sepsis or septic shock patients compared to the control group (RR 0.70; 95% CI 0.53 to 0.93; P = 0.02; I2 = 52%), based on low quality of evidence, and subgroup analysis showed the benefit was driven by single-center studies, not observed in multicenter trials. Vitamin C shortened the duration of vasopressor use (SMD = −0.42, 95% CI −0.77 to −0.08, P = 0.02) and was associated with a greater reduction in SOFA score (MD = −1.04, 95% CI −1.83 to −0.25, P = 0.01), but did not reduce vasopressor dose, length of stay, or 24-h urine output. No significant adverse events were reported.ConclusionThis meta-analysis suggests that intravenous vitamin C might be ass…",
       "authors": "Binrong Cai, Qian Xiao, Yiqin Xia et al.",
       "published": "Sep 2026",
       "feedName": "Frontiers Nutrition",
       "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1905726",
-      "image": "",
-      "screen": "right"
-    },
-    {
-      "title": "Valorisation of Prosciutto di Parma PDO by-products for the development of protein-rich snacks",
-      "abstract": "IntroductionThere is a growing demand for high-protein products from people who play sports, want to lose weight, or need to gain muscle mass. Among the most useful protein sources are meat-processed products, which, however, have a high environmental impact. The aim of the work was to create a snack rich in proteins, which allows the valorization of the residues of the slicing of raw Parma Ham a typical Italian product labeled as POD (Protected Designation of Origin), which are, currently, sold at low prices for the production of animal feed or stuffed pasta.MethodsSix different types of bars were developed, they were produced with raw ham residues (35%), pork, water, yellow corn with a high amylose content (AE), or rich in polyphenols (red or blue), pork gelatine/Psyllium fiber, flavorings. The following items were determined on the bars: centesimal composition, in vitro carbohydrate digestion, in vitro protein digestibility, polyphenols content. Statistical analysis was performed with Tukey test (p < 0.05).ResultsThe composition of the bars was in this range (as fed): kcal 279 – 313; proteins 26.7%−38.1%; lipids 10.2%−12.2%; carbohydrates 14.9%−18.4%. FAO protein score (ProteinScore) on the digested fraction was greater with red corn (79 Leu) than with blue (64 Trp) and AE (64 Trp).ConclusionsAll bars can use the claim “Rich in Protein” as defined by EFSA, the prototype AE Psyllium 5% showed the best resistant starch levels and protein score.",
-      "authors": "Filippo Rossi, Martina Cassarino, Paolo Valoti et al.",
-      "published": "Sep 2026",
-      "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1894965",
-      "image": "",
-      "screen": "right"
-    },
-    {
-      "title": "Perioperative phase angle decline is associated with postoperative sarcopenia in esophageal cancer: a longitudinal cohort study with internal validation",
-      "abstract": "Background and aimSarcopenia is highly prevalent in patients with esophageal squamous cell carcinoma (ESCC) and is associated with increased postoperative complications, prolonged hospitalization, and reduced survival. While preoperative PhA has been associated with clinical outcomes, the association between perioperative PhA change and postoperative sarcopenia remains unexplored. This study aimed to evaluate whether perioperative phase angle decline (ΔPhA) is associated with postoperative sarcopenia (Sarcopenia_Post). We also assessed the association between preoperative PhA (PhA_Pre) and postoperative outcomes.MethodsIn a prospective longitudinal cohort of 90 patients undergoing esophagectomy for ESCC, phase angle was measured 1 day before and 1 month after surgery. Associations of the primary outcome postoperative sarcopenia with ΔPhA (dichotomized at the cohort mean of 0.32°) were assessed using multivariate logistic regression, adjusting for preoperative sarcopenia and nutritional risk (NRS2002 ≥ 3). Model robustness was confirmed using internal validation approaches including ridge regression, bootstrap validation and random forest benchmarking. Multivariate analyses also assessed associations between PhA_Pre and postoperative outcomes.ResultsA pronounced perioperative decline in PhA (≥0.32°) was independently associated with postoperative sarcopenia after adjusting for preoperative sarcopenia and nutritional risk (adjusted Odds Ratio (aOR) = 4.69, 95% CI: 1.08–20.45, p = 0.040). This association was robust, as demonstrated by internal validation techniques. The model…",
-      "authors": "Yuntao Hao, Yanli Wang, Yiyuan Zhao et al.",
-      "published": "Sep 2026",
-      "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1926195",
-      "image": "",
-      "screen": "right"
-    },
-    {
-      "title": "Effects of creatine supplementation on exercise performance, physiological outcomes, and body composition in females engaged in exercise or training: a systematic review and multilevel meta-analysis",
-      "abstract": "BackgroundFemale-specific creatine trials span different sports, training states and outcome types. The preceding systematic review included 27 studies and provided a narrative synthesis of performance outcomes; the average magnitude of effects across correlated outcomes remained unknown.ObjectiveTo estimate overall and domain-specific effects of creatine supplementation on exercise and sport performance, physiological outcomes and body composition in females engaged in exercise, sport or structured training.MethodsPubMed, Scopus, Web of Science, SPORTDiscus and CINAHL were searched for experimental studies published from 1 January 1996 to 5 March 2026. Two reviewers independently screened records, extracted data and appraised risk of bias. Female-specific creatine-vs.-control contrasts were synthesized with multilevel random-effects models and CR2 small-sample robust inference. Sensitivity analyses addressed graph-digitized and reconstructed percentage-change data and plausible within-study sampling correlations. GRADE was applied to the overall estimate and each quantitative domain. The review was retrospectively registered on OSF (https://doi.org/10.17605/OSF.IO/U8V7A).ResultsThe search identified 13,244 records; 160 reports were assessed in full text, and 34 studies with 692 female or female-eligible participants entered the systematic review. Twenty-one studies contributed 170 model-compatible effects from 424 analyzable participants. The overall model yielded a small positive estimate (Hedges g = 0.23, CR2 robust 95% CI 0.09 to 0.37). The performance model yielded g =…",
-      "authors": "Yi Lin, Wenfeng Zhu, Banghui Hong",
-      "published": "Sep 2026",
-      "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1921827",
       "image": "",
       "screen": "right"
     },

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-03T23:43:10Z",
+  "updated": "2026-09-04T02:06:47Z",
   "items": [
     {
       "title": "Interrupted salt iodization harmed child health and education in Ethiopia",
@@ -622,6 +622,46 @@
       }
     },
     {
+      "title": "Synergistic effects of biochar and poultry manure on soil and cucumber (Cucumis sativus) performance: A case study from the southeastern Nigeria",
+      "abstract": "This study explores the suitability of different biomass feedstocks for biochar production and their effects on soil health and crop yield. Two planting seasons were conducted, involving cucumber as the test crop and eleven treatments combining biochar and poultry manure. Soil analysis revealed initial soil conditions with high sand content and low pH. Poultry manure and biochar exhibited pH, organic carbon, and nutrient level variations. Significant differences in cucumber growth and yield were observed, with the longest vine length in plots treated with palm kernel husk biochar and poultry manure. Residual effects in the second planting season displayed similar trends. Soil pH, organic carbon, and total nitrogen remained consistent between seasons, while available phosphorus increased significantly in plots amended with goat manure biochar and poultry manure. Calcium, magnesium, potassium, and sodium contents also varied. Fruit length, weight, and yield were significantly improved by biochar treatments, with the combination of palm kernel husk biochar and poultry manure yielding the highest fruit weight. Correlation and structural equation analyses (p < 0.05) highlighted the relationships between plant characteristics, soil properties, and fruit indices, emphasizing the importance of nitrogen and phosphorus in supporting fruit development. The study suggests that biochar application enhances soil nutrients, crop growth, and fruit yields while reducing reliance on chemical fertilizers. It recommends considering biochar for land reclamation and as an alternative to traditio…",
+      "authors": "E. O. Ayito, K. John, O. Benjamin et al.",
+      "published": "2024",
+      "venue": "Soil Science Annual",
+      "feedName": "Lab Research",
+      "citationCount": 9,
+      "recentCitations": 2,
+      "quartile": null,
+      "s2_paper_id": "8aa653c59706d0f1e9269886f0967e540b52e7f0",
+      "url": "https://doi.org/10.37501/soilsa/183903",
+      "image": "",
+      "screen": "both",
+      "lab_paper": true,
+      "researcher": {
+        "name": "Ofir Benjamin",
+        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=FsjV0oIAAAAJ"
+      }
+    },
+    {
+      "title": "Renal protective effects of natural honey on animal model of hypertension",
+      "abstract": "Hypertension, also known as high blood pressure, is a leading cause of cardiovascular disease and premature death worldwide. Numerous investigations have established that hypertension can cause alterations in the cardiovascular system as well as renal structure and function. Fresh honey is consumed worldwide and is claimed to be highly medicinal and has therapeutic effects against a wide range of medical conditions. We investigated the renal protective effect of natural honey in in animal model of hypertension. Forty (40) male albino rats, with average weight (120 ±10 g) were administered with high salt diet, HSD (80 g NaCl + 1 kg of diet and 1% NaCl in drinking water (10 g of NaCl + 1 L distilled water) for 10 weeks to induce hypertension in the rats. Following confirmation, hypertensive male rats were randomly selected for the experiment. Twenty (20) albino rats (15 hypertensive rats and 5 normotensive rats) were divided into 4 groups, Groups A-D. Group A: (Normotensive Control) no administration was given; Groups B-D (hypertensive rats) received the following treatments. Group B was treated with natural honey (15 ml/kg), Group C treated with hydrochlorothiazide (0.15 mg/kg), daily for 21 days; while Group D received no treatment, until the end of the 21 days administrations. Blood samples were taken in the end, and renal alterations were assessed via biochemical and histopathological analyses. Results showed that salt-induced hypertension caused a marked elevation of the renal biochemical parameters. The histopathological results agree with the biochemical findings. Howe…",
+      "authors": "Onwudiwe Saviour Nwachukwu, O. Benjamin, Nwankwo Emeka Christian et al.",
+      "published": "2023",
+      "venue": "Open Access Research Journal of Life Sciences",
+      "feedName": "Lab Research",
+      "citationCount": 0,
+      "recentCitations": 0,
+      "quartile": null,
+      "s2_paper_id": "3072198eabc4a0ba4b878787e54a629a0d5959af",
+      "url": "https://doi.org/10.53022/oarjls.2023.6.2.0068",
+      "image": "",
+      "screen": "both",
+      "lab_paper": true,
+      "researcher": {
+        "name": "Ofir Benjamin",
+        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=FsjV0oIAAAAJ"
+      }
+    },
+    {
       "title": "Quality and Flavor of ‘Aliza’ Fruit: A Unique Pomelo × Mandarin Hybrid",
       "abstract": "‘Aliza’ is a new pomelo × mandarin hybrid (Citrus maxima, cv. Red Chandler × Citrus reticulata, cv. Ora) developed by the Israeli citrus breeding program at the Volcani Institute. Here, we aimed to characterize the quality and flavor of ‘Aliza’ fruit as compared to other commercial citrus fruit, specifically pomelo (C. maxima), grapefruit (Citrus paradisi), orange (Citrus sinensis) and mandarin (C. reticulata). ‘Aliza’ fruits have a similar size as grapefruits, but have a thinner peel and a unique yellowish/golden color. ‘Aliza’ fruits are completely seedless and have especially high juice contents. They also have a unique, highly preferred flavor, characterized by high sweetness and moderate bitterness and acidity, with strong citrusy and tropical fruity aromas. Sensory analyses conducted with the aid of a trained panel and an electronic tongue revealed that the flavor of ‘Aliza’ fruits is different from the flavors of other citrus species. Consumer acceptance and preference tests revealed that ‘Aliza’ fruit are highly appreciated and favored. The aroma volatile profile of ‘Aliza’ fruit was somewhat similar to those of pomelo and grapefruit, but very different from those of orange and mandarin. Overall, ‘Aliza’ fruits can be distinguished from other citrus fruits by their unique color, high juice content and exceptional, unique flavor.",
       "authors": "Hagar Pardo, A. Owoyemi, Livnat Goldenberg et al.",
@@ -889,7 +929,7 @@
       "venue": "Nutrients",
       "feedName": "Lab Research",
       "citationCount": 7,
-      "recentCitations": 1,
+      "recentCitations": 0,
       "quartile": "Q1",
       "s2_paper_id": "b97e4acafc9606b86df3bd0c797faa7fbcf900b7",
       "url": "https://doi.org/10.3390/nu16142328",

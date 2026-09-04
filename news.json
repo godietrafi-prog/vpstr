@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-04T02:06:47Z",
+  "updated": "2026-09-04T08:20:40Z",
   "items": [
     {
       "title": "Interrupted salt iodization harmed child health and education in Ethiopia",
@@ -282,6 +282,16 @@
       "screen": "left"
     },
     {
+      "title": "Dynamic flavor profiles in sweet cherry during cold storage: integrated multi‑omics and volatile profiling reveals regulatory networks underlying flavor deterioration",
+      "abstract": "",
+      "authors": "Chen Feng, Jing Wang, Chuanbao Wu et al.",
+      "published": "Sep 2026",
+      "feedName": "npj Science of Food",
+      "url": "https://www.nature.com/articles/s41538-026-01121-x",
+      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01121-x/MediaObjects/41538_2026_1121_Fig1_HTML.png",
+      "screen": "left"
+    },
+    {
       "title": "From natural vesicles to intelligent carriers: the metabolic basis and biomedical applications of lemon-derived extracellular vesicles",
       "abstract": "",
       "authors": "Anyi Wu, Xianhao Wu, Shuchen Zhang et al.",
@@ -309,16 +319,6 @@
       "feedName": "npj Science of Food",
       "url": "https://www.nature.com/articles/s41538-026-01125-7",
       "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01125-7/MediaObjects/41538_2026_1125_Fig1_HTML.png",
-      "screen": "left"
-    },
-    {
-      "title": "High-temperature-treated soy protein isolate reduces amino acid availability and alters social novelty in mice",
-      "abstract": "",
-      "authors": "Tomoko T. Asai, Takayo Mannari-Sasagawa, Yuichi Yabe et al.",
-      "published": "Sep 2026",
-      "feedName": "npj Science of Food",
-      "url": "https://www.nature.com/articles/s41538-026-01091-0",
-      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01091-0/MediaObjects/41538_2026_1091_Fig1_HTML.png",
       "screen": "left"
     },
     {
@@ -482,42 +482,42 @@
       "screen": "right"
     },
     {
-      "title": "Sarcopenia in patients with active ulcerative colitis: associations with serum metabolites and gut microbiota",
-      "abstract": "BackgroundSarcopenia has garnered increasing attention in ulcerative colitis (UC) owing to its association with adverse clinical outcomes; however, its pathogenesis in the context of UC remains insufficiently characterized.MethodsHospitalized patients aged 18–70 years with active UC were consecutively enrolled at the Department of Gastroenterology, Peking Union Medical College Hospital, and age-matched healthy controls (HCs) were recruited. Body composition was assessed by bioelectrical impedance analysis (BIA), and muscle strength was evaluated by handgrip strength. Sarcopenia was diagnosed in accordance with the Asian Working Group for Sarcopenia (AWGS) 2025 consensus. Serum high-sensitivity C-reactive protein (hsCRP) of patients was recorded at admission. Intestinal barrier function was evaluated by serum diamine oxidase (DAO). Serum metabolites were profiled by ultra-performance liquid chromatography–tandem mass spectrometry (UPLC-MS/MS). Gut microbiota composition and functional pathways were analyzed using metagenomic sequencing.ResultsFifty-seven patients with active UC and 35 HCs were enrolled. The prevalence of sarcopenia, myopenia, and low muscle strength in the UC cohort was 40.4, 50.9, and 64.9%, respectively. Serum hsCRP was significantly higher in UC patients with sarcopenia (p = 0.011), whereas serum DAO showed no significant difference between UC patients with and without sarcopenia. Primary bile acids (BAs), conjugated BAs, and conjugated primary BAs were significantly increased, while hippuric acid, valerylcarnitine, and 2-methylbutyrylcarnitine were signi…",
-      "authors": "Wei Wei, Pengguang Yan, Fang Wang et al.",
+      "title": "Intravenous vitamin C as micronutrient therapy in patients with sepsis or septic shock: an updated systematic review and meta-analysis of randomized controlled trials",
+      "abstract": "ObjectiveThe adjunctive therapeutic value of vitamin C in sepsis or septic shock patients remains controversial. This study aimed to evaluate the therapeutic efficacy and safety of intravenous administration of vitamin C in sepsis or septic shock patients through meta-analysis.MethodsRelevant literature was searched in PubMed, Embase, and Scopus databases and other related databases. The primary outcome was 28-day mortality. Secondary outcomes included duration and total dose of vasopressors, change in sequential organ failure assessment (SOFA) scores from baseline to the earliest reported time point between 72 and 96 h (ΔSOFA), hospital length of stay, intensive care unit length of stay, urine output in the 24-h, and incidence of adverse events.ResultsFourteen randomized controlled trials enrolling 1,958 patients were eligible for assessment. Meta-analysis demonstrated that intravenous vitamin C reduced 28-day mortality in sepsis or septic shock patients compared to the control group (RR 0.70; 95% CI 0.53 to 0.93; P = 0.02; I2 = 52%), based on low quality of evidence, and subgroup analysis showed the benefit was driven by single-center studies, not observed in multicenter trials. Vitamin C shortened the duration of vasopressor use (SMD = −0.42, 95% CI −0.77 to −0.08, P = 0.02) and was associated with a greater reduction in SOFA score (MD = −1.04, 95% CI −1.83 to −0.25, P = 0.01), but did not reduce vasopressor dose, length of stay, or 24-h urine output. No significant adverse events were reported.ConclusionThis meta-analysis suggests that intravenous vitamin C might be ass…",
+      "authors": "Binrong Cai, Qian Xiao, Yiqin Xia et al.",
       "published": "Sep 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1942104",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1905726",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Insulin resistance and uric acid-related metabolic disturbances jointly identify individuals at high risk of advanced cardiovascular-kidney-metabolic syndrome: a population-based study",
-      "abstract": "BackgroundCardiovascular-kidney-metabolic (CKM) syndrome encompasses metabolic abnormalities, chronic kidney disease, and cardiovascular disease. The triglyceride–glucose (TyG) index reflects insulin resistance-related glucose–lipid imbalance, whereas serum uric acid (SUA) reflects purine metabolism and renal urate handling. However, their independent and joint associations with advanced CKM remain unclear.MethodsWe conducted a cross-sectional analysis of 8,939 adults from the Hakka Biobank baseline survey. Advanced CKM (stages 3–4) was defined according to the American Heart Association framework. Multivariable logistic regression examined associations of TyG and SUA with advanced CKM. Restricted cubic splines assessed nonlinearity, and joint associations used the same-dataset ROC-derived TyG threshold of 8.89 and sex-specific hyperuricemia (HUA) thresholds. Sensitivity and subgroup analyses assessed robustness and heterogeneity, while AUC and continuous net reclassification improvement (NRI) evaluated in-sample model performance.ResultsAmong 8,939 participants, 1,164 had advanced CKM. After adjustment, each 1-unit increase in TyG was associated with greater odds of advanced CKM (OR, 1.81; 95% CI, 1.64–2.01), as was each standard deviation increase in SUA (OR, 1.38; 95% CI, 1.28–1.48). TyG showed an approximately linear positive relationship, whereas SUA showed a J-shaped relationship (P for nonlinearity = 0.004), which was more evident in women. Participants with both high TyG and HUA had the greatest odds (OR, 3.01; 95% CI, 2.49–3.64). Results remained consistent across …",
-      "authors": "Shengzhu Huang, Jingwei Lin, Lingyu Ye et al.",
+      "title": "Valorisation of Prosciutto di Parma PDO by-products for the development of protein-rich snacks",
+      "abstract": "IntroductionThere is a growing demand for high-protein products from people who play sports, want to lose weight, or need to gain muscle mass. Among the most useful protein sources are meat-processed products, which, however, have a high environmental impact. The aim of the work was to create a snack rich in proteins, which allows the valorization of the residues of the slicing of raw Parma Ham a typical Italian product labeled as POD (Protected Designation of Origin), which are, currently, sold at low prices for the production of animal feed or stuffed pasta.MethodsSix different types of bars were developed, they were produced with raw ham residues (35%), pork, water, yellow corn with a high amylose content (AE), or rich in polyphenols (red or blue), pork gelatine/Psyllium fiber, flavorings. The following items were determined on the bars: centesimal composition, in vitro carbohydrate digestion, in vitro protein digestibility, polyphenols content. Statistical analysis was performed with Tukey test (p < 0.05).ResultsThe composition of the bars was in this range (as fed): kcal 279 – 313; proteins 26.7%−38.1%; lipids 10.2%−12.2%; carbohydrates 14.9%−18.4%. FAO protein score (ProteinScore) on the digested fraction was greater with red corn (79 Leu) than with blue (64 Trp) and AE (64 Trp).ConclusionsAll bars can use the claim “Rich in Protein” as defined by EFSA, the prototype AE Psyllium 5% showed the best resistant starch levels and protein score.",
+      "authors": "Filippo Rossi, Martina Cassarino, Paolo Valoti et al.",
       "published": "Sep 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1933816",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1894965",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Association of the prealbumin–albumin nutritional index with short-term mortality in hospitalized patients with traumatic brain injury",
-      "abstract": "MethodsThis single-center retrospective cohort study included 2,221 patients with TBI admitted between March 29, 2018, and September 23, 2024. PANI was calculated as serum prealbumin (mg/L) multiplied by albumin (g/L) and was divided by 1,000 for analysis. The first available laboratory measurements after admission were used. The primary and secondary outcomes were all-cause in-hospital mortality and 7-day in-hospital mortality, respectively. Associations were assessed using Cox proportional hazards models. Discrimination was evaluated using receiver operating characteristic curves and pairwise comparisons of areas under the curve (AUCs).ResultsAmong 2,221 patients, 78 (3.5%) died during hospitalization and 47 (2.1%) died in hospital within 7 days of admission. In the primary adjusted model (Model 3), each 1-unit increase in PANI/1,000 was associated with lower hazards of in-hospital mortality (HR, 0.613; 95% CI, 0.560–0.671) and 7-day in-hospital mortality (HR, 0.640; 95% CI, 0.574–0.714). Corresponding HRs in the supplementary extended baseline model (Model 4) were 0.653 (95% CI, 0.593–0.720) and 0.690 (95% CI, 0.616–0.773), respectively. In the complete-case sensitivity analysis additionally incorporating body mass index and systolic blood pressure, the corresponding HRs were 0.562 (95% CI, 0.466–0.678) and 0.677 (95% CI, 0.528–0.870). PANI alone yielded AUCs of 0.856 (95% CI, 0.810–0.902) and 0.837 (95% CI, 0.774–0.901), respectively.ConclusionLower PANI was associated with higher in-hospital and 7-day in-hospital mortality in patients with TBI. However, the single-cent…",
-      "authors": "Hong Huang, Shaorong Yi, Jinrong Wang et al.",
+      "title": "Perioperative phase angle decline is associated with postoperative sarcopenia in esophageal cancer: a longitudinal cohort study with internal validation",
+      "abstract": "Background and aimSarcopenia is highly prevalent in patients with esophageal squamous cell carcinoma (ESCC) and is associated with increased postoperative complications, prolonged hospitalization, and reduced survival. While preoperative PhA has been associated with clinical outcomes, the association between perioperative PhA change and postoperative sarcopenia remains unexplored. This study aimed to evaluate whether perioperative phase angle decline (ΔPhA) is associated with postoperative sarcopenia (Sarcopenia_Post). We also assessed the association between preoperative PhA (PhA_Pre) and postoperative outcomes.MethodsIn a prospective longitudinal cohort of 90 patients undergoing esophagectomy for ESCC, phase angle was measured 1 day before and 1 month after surgery. Associations of the primary outcome postoperative sarcopenia with ΔPhA (dichotomized at the cohort mean of 0.32°) were assessed using multivariate logistic regression, adjusting for preoperative sarcopenia and nutritional risk (NRS2002 ≥ 3). Model robustness was confirmed using internal validation approaches including ridge regression, bootstrap validation and random forest benchmarking. Multivariate analyses also assessed associations between PhA_Pre and postoperative outcomes.ResultsA pronounced perioperative decline in PhA (≥0.32°) was independently associated with postoperative sarcopenia after adjusting for preoperative sarcopenia and nutritional risk (adjusted Odds Ratio (aOR) = 4.69, 95% CI: 1.08–20.45, p = 0.040). This association was robust, as demonstrated by internal validation techniques. The model…",
+      "authors": "Yuntao Hao, Yanli Wang, Yiyuan Zhao et al.",
       "published": "Sep 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1910413",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1926195",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "The role of psychiatric nurses in nutritional care for treatment-resistant depression: a relapse-prevention perspective",
-      "abstract": "Treatment-resistant depression (TRD) is associated with persistent symptoms, impaired functioning, physical comorbidity and a high risk of recurrence, making continuation and maintenance care particularly important. Nutrition may influence several modifiable aspects of recovery, including cardiometabolic health, daily functioning, self-care and treatment adherence, although evidence for a direct effect on depressive recurrence remains limited. This review examines the role of nutritional care within TRD relapse prevention, with particular attention to psychiatric nursing practise. Available dietary intervention studies in depression suggest potential benefits for depressive symptoms and broader health outcomes, but most have focused on acute treatment rather than recurrence or maintenance, and data specific to TRD remain sparse. Evidence for nurse-delivered nutritional interventions is also limited, although studies in broader psychiatric populations indicate that dietary assessment, education, behavioural support and follow-up can be incorporated into mental health care. In TRD, psychiatric nurses may contribute through nutritional risk screening, monitoring of appetite, intake, weight and physical health, reinforcement of agreed dietary recommendations, and coordination of specialist referral. Clear professional boundaries are required when malnutrition, eating disorders, refeeding risk, therapeutic diets or clinically significant nutrient–drug interactions are present. Nutritional care should therefore be regarded as an adjunct to established TRD treatment and integrated…",
-      "authors": "Agnieszka Mechlińska, Natalia Sudoł, Dorota Pazda-Juda et al.",
+      "title": "Effects of creatine supplementation on exercise performance, physiological outcomes, and body composition in females engaged in exercise or training: a systematic review and multilevel meta-analysis",
+      "abstract": "BackgroundFemale-specific creatine trials span different sports, training states and outcome types. The preceding systematic review included 27 studies and provided a narrative synthesis of performance outcomes; the average magnitude of effects across correlated outcomes remained unknown.ObjectiveTo estimate overall and domain-specific effects of creatine supplementation on exercise and sport performance, physiological outcomes and body composition in females engaged in exercise, sport or structured training.MethodsPubMed, Scopus, Web of Science, SPORTDiscus and CINAHL were searched for experimental studies published from 1 January 1996 to 5 March 2026. Two reviewers independently screened records, extracted data and appraised risk of bias. Female-specific creatine-vs.-control contrasts were synthesized with multilevel random-effects models and CR2 small-sample robust inference. Sensitivity analyses addressed graph-digitized and reconstructed percentage-change data and plausible within-study sampling correlations. GRADE was applied to the overall estimate and each quantitative domain. The review was retrospectively registered on OSF (https://doi.org/10.17605/OSF.IO/U8V7A).ResultsThe search identified 13,244 records; 160 reports were assessed in full text, and 34 studies with 692 female or female-eligible participants entered the systematic review. Twenty-one studies contributed 170 model-compatible effects from 424 analyzable participants. The overall model yielded a small positive estimate (Hedges g = 0.23, CR2 robust 95% CI 0.09 to 0.37). The performance model yielded g =…",
+      "authors": "Yi Lin, Wenfeng Zhu, Banghui Hong",
       "published": "Sep 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1961751",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1921827",
       "image": "",
       "screen": "right"
     },

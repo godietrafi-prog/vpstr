@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-05T11:33:28Z",
+  "updated": "2026-09-05T14:17:49Z",
   "items": [
     {
       "title": "Interrupted salt iodization harmed child health and education in Ethiopia",
@@ -82,6 +82,16 @@
       "screen": "left"
     },
     {
+      "title": "How generative AI is transforming agri-food systems research",
+      "abstract": "",
+      "authors": "Cor Verdouw, Rutger Vlek, Joep Tummers et al.",
+      "published": "Dec 2026",
+      "feedName": "Trends in Food Sci & Tech",
+      "url": "https://www.sciencedirect.com/science/article/pii/S092422442600525X?dgcid=rss_sd_all",
+      "image": "",
+      "screen": "left"
+    },
+    {
       "title": "From hazard occurrence to risk assessment: Antimicrobial resistance and chemical co-selection in ready-to-eat vegetables: A scoping review",
       "abstract": "",
       "authors": "Jowenna X.F. Sim, Claire Hayward, Mark Drew et al.",
@@ -108,16 +118,6 @@
       "published": "Dec 2026",
       "feedName": "Trends in Food Sci & Tech",
       "url": "https://www.sciencedirect.com/science/article/pii/S0924224426005182?dgcid=rss_sd_all",
-      "image": "",
-      "screen": "left"
-    },
-    {
-      "title": "From grape bioactives to microbiota-informed functional food formula design: Matrix-aware reconstruction, microbial biotransformation and causality-oriented validation",
-      "abstract": "",
-      "authors": "Huaxin Du, Jiao Jiang, Yi Qin et al.",
-      "published": "Dec 2026",
-      "feedName": "Trends in Food Sci & Tech",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426005303?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },

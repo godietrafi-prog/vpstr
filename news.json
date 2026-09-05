@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-05T14:17:49Z",
+  "updated": "2026-09-05T17:49:16Z",
   "items": [
     {
       "title": "Interrupted salt iodization harmed child health and education in Ethiopia",
@@ -242,6 +242,26 @@
       "screen": "left"
     },
     {
+      "title": "Functional genomic insights into aac(6′)-I -associated kanamycin resistance in Leuconostoc citreum DMLC16",
+      "abstract": "",
+      "authors": "Sumin Lee, Sojeong Heo, Yura Moon et al.",
+      "published": "Mar 2027",
+      "feedName": "Food Microbiology",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0740002026002637?dgcid=rss_sd_all",
+      "image": "",
+      "screen": "left"
+    },
+    {
+      "title": "Linking fermentation and drying kinetics to Listeria monocytogenes inactivation in salami: A dynamic process monitoring approach",
+      "abstract": "",
+      "authors": "Jun Haeng Nam, Natoavina T. Faliarizao, Joshua Ombaka Owade et al.",
+      "published": "Mar 2027",
+      "feedName": "Food Microbiology",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0740002026002613?dgcid=rss_sd_all",
+      "image": "",
+      "screen": "left"
+    },
+    {
       "title": "The role of pigs and slaughterhouses in the transmission of Listeria monocytogenes into the meat processing chain",
       "abstract": "",
       "authors": "Damien Ernst, Ariane Pietzka, Anna Caroline Pontel de Almeida et al.",
@@ -258,26 +278,6 @@
       "published": "Mar 2027",
       "feedName": "Food Microbiology",
       "url": "https://www.sciencedirect.com/science/article/pii/S0740002026002601?dgcid=rss_sd_all",
-      "image": "",
-      "screen": "left"
-    },
-    {
-      "title": "Boosting baijiu fermentation efficiency through designed microbial community coalescence: Enhanced substrate conversion and flavor output",
-      "abstract": "",
-      "authors": "Ruyu Yan, Yuhang Zhang, Zeyang Li et al.",
-      "published": "Mar 2027",
-      "feedName": "Food Microbiology",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0740002026002509?dgcid=rss_sd_all",
-      "image": "",
-      "screen": "left"
-    },
-    {
-      "title": "Clarifying ribA-dependent survival under mild heat stress in Escherichia coli",
-      "abstract": "",
-      "authors": "Xueyi Lin, Xin Zhang",
-      "published": "Mar 2027",
-      "feedName": "Food Microbiology",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0740002026002492?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -322,6 +322,26 @@
       "screen": "left"
     },
     {
+      "title": "Weed recognition and localization based on RGB-D object detection framework for weeding robot in Paeonia lactiflora Pall. fields",
+      "abstract": "",
+      "authors": "Wei Zhang, He Huang, Youqiang Sun et al.",
+      "published": "",
+      "feedName": "AI in Agriculture",
+      "url": "https://www.sciencedirect.com/science/article/pii/S258972172600098X?dgcid=rss_sd_all",
+      "image": "",
+      "screen": "left"
+    },
+    {
+      "title": "UGV-based multimodal RGBD–multispectral fusion framework enables high-quality 3D phenotyping of greenhouse lettuce seedlings",
+      "abstract": "",
+      "authors": "Si Yang, Guangjie Qiu, Jiacheng Xia et al.",
+      "published": "",
+      "feedName": "AI in Agriculture",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2589721726001005?dgcid=rss_sd_all",
+      "image": "",
+      "screen": "left"
+    },
+    {
       "title": "YOLO11-FFTDA: fusing frequency-domain enhancement and deformable attention for robust tomato pedicel segmentation",
       "abstract": "",
       "authors": "Chengjin Qin, Yangtian Lin, Hanchen Zheng et al.",
@@ -338,26 +358,6 @@
       "published": "",
       "feedName": "AI in Agriculture",
       "url": "https://www.sciencedirect.com/science/article/pii/S2589721726000917?dgcid=rss_sd_all",
-      "image": "",
-      "screen": "left"
-    },
-    {
-      "title": "PD-CLIP: A contrastive language-image pre-training framework for zero-shot fine-grained plant disease diagnosis",
-      "abstract": "",
-      "authors": "Pengyao Xie, Xingjian Li, Weilong He et al.",
-      "published": "",
-      "feedName": "AI in Agriculture",
-      "url": "https://www.sciencedirect.com/science/article/pii/S2589721726000954?dgcid=rss_sd_all",
-      "image": "",
-      "screen": "left"
-    },
-    {
-      "title": "From computer vision to LLM agents: A multimodal AI system for shrimp growth assessment and intelligent feeding decisions",
-      "abstract": "",
-      "authors": "Haocheng Zhao, Mei Liu, Qi Wang et al.",
-      "published": "",
-      "feedName": "AI in Agriculture",
-      "url": "https://www.sciencedirect.com/science/article/pii/S2589721726000978?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },

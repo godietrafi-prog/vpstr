@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-05T02:08:08Z",
+  "updated": "2026-09-05T07:58:12Z",
   "items": [
     {
       "title": "Interrupted salt iodization harmed child health and education in Ethiopia",
@@ -202,22 +202,22 @@
       "screen": "left"
     },
     {
-      "title": "Reliable food safety risk assessment via calibrated Mondrian conformal prediction: a machine learning framework with uncertainty quantification",
-      "abstract": "IntroductionFood safety risk assessment requires predictive models that not only achieve high accuracy but also provide reliable uncertainty quantification to support regulatory decision-making. This study presents a comprehensive machine learning framework that integrates Mondrian conformal prediction with post hoc probability calibration for food safety risk classification using the Rapid Alert System for Food and Feed (RASFF) database. The task is framed as a binary classification problem, predicting whether an RASFF notification is serious or not.MethodsThe proposed framework addresses three critical challenges in food safety prediction: class imbalance handling through the synthetic minority oversampling technique (SMOTE) combined with class weighting, probability miscalibration correction via Platt scaling, and distribution-free uncertainty quantification through group-conditional conformal prediction. The framework was evaluated on 22,643 RASFF notifications from 2019 to 2025 using a chronological training/calibration/test split.ResultsThe eXtreme Gradient Boosting (XGBoost)-based framework achieves an accuracy rate of 0.784, a Cohen’s kappa of 0.296, and a Matthews correlation coefficient of 0.297. The Mondrian conformal predictor attains 90.3% overall coverage, with an average prediction set size of 1.216, while Platt scaling reduces the expected calibration error by 84%, from 0.267 to 0.043. A multitrial resampling analysis (5,000 random calibration/test splits) confirms that mean per-region coverage converges to the nominal 90% level, while single-split deviation…",
-      "authors": "Saravanan Radhakrishnan, V. Vijayarajan",
-      "published": "Sep 2026",
-      "feedName": "Frontiers Food Science",
-      "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.1890831",
-      "image": "",
-      "screen": "left"
-    },
-    {
       "title": "Formulation and in vitro prospectus of probiotics, beetroot, and vitamin B12 encapsulated in alginate beads",
       "abstract": "IntroductionThe current research aims to design and develop encapsulated beads (Ebs) loaded with Lactobacillus reuteri (L. reuteri), beetroot, and Vitamin B12.MethodsThe Ebs were prepared using the ionic gelation method and optimized via factorial design. The prepared Ebs were optimized for their particle size, drug entrapment efficiency, and structural analysis. Moreover, the Ebs were evaluated for their drug release under gastric and intestinal conditions.Results and DiscussionThe particle size of Ebs ranges from 1.15 to 1.20 mm. The % drug entrapment for Vitamin B12, Beetroot, and L. reuteri were 97.09% ± 3.25%, 87.9% ± 5.85%, and 87.5% ± 4.97%, respectively. The viability of L. reuteri in Ebs was 4.2 × 108 Cfu/g. SEM images revealed round-shaped Ebs. FTIR spectra revealed the successful incorporation of drugs within the Ebs. The cumulative release of Vitamin B12, Beetroot, and L. reuteri from Ebs was 87.02% ± 5.67%, 78.4% ± 7.87%, and 87.5% ± 6.68%, respectively, over 24 h, indicating sustained release profiles. In contrast, the marketed sublingual formulation of Vitamin B12 showed a rapid release of 70.23% ± 5.68%, within 2 h. Results confirm the successful preparation and optimization of L. reuteri- Vitamin B12 and beetroot-loaded Ebs, which may be a promising approach to addressing Vitamin B12 deficiency.",
       "authors": "Tanhid Mansuri, Rajesh Hadia, Annu et al.",
       "published": "Sep 2026",
       "feedName": "Frontiers Food Science",
       "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.1850082",
+      "image": "",
+      "screen": "left"
+    },
+    {
+      "title": "Reliable food safety risk assessment via calibrated Mondrian conformal prediction: a machine learning framework with uncertainty quantification",
+      "abstract": "IntroductionFood safety risk assessment requires predictive models that not only achieve high accuracy but also provide reliable uncertainty quantification to support regulatory decision-making. This study presents a comprehensive machine learning framework that integrates Mondrian conformal prediction with post hoc probability calibration for food safety risk classification using the Rapid Alert System for Food and Feed (RASFF) database. The task is framed as a binary classification problem, predicting whether an RASFF notification is serious or not.MethodsThe proposed framework addresses three critical challenges in food safety prediction: class imbalance handling through the synthetic minority oversampling technique (SMOTE) combined with class weighting, probability miscalibration correction via Platt scaling, and distribution-free uncertainty quantification through group-conditional conformal prediction. The framework was evaluated on 22,643 RASFF notifications from 2019 to 2025 using a chronological training/calibration/test split.ResultsThe eXtreme Gradient Boosting (XGBoost)-based framework achieves an accuracy rate of 0.784, a Cohen’s kappa of 0.296, and a Matthews correlation coefficient of 0.297. The Mondrian conformal predictor attains 90.3% overall coverage, with an average prediction set size of 1.216, while Platt scaling reduces the expected calibration error by 84%, from 0.267 to 0.043. A multitrial resampling analysis (5,000 random calibration/test splits) confirms that mean per-region coverage converges to the nominal 90% level, while single-split deviation…",
+      "authors": "Saravanan Radhakrishnan, V. Vijayarajan",
+      "published": "Sep 2026",
+      "feedName": "Frontiers Food Science",
+      "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.1890831",
       "image": "",
       "screen": "left"
     },

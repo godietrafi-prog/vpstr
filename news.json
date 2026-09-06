@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-05T23:29:24Z",
+  "updated": "2026-09-06T02:02:50Z",
   "items": [
     {
       "title": "Interrupted salt iodization harmed child health and education in Ethiopia",
@@ -202,22 +202,22 @@
       "screen": "left"
     },
     {
-      "title": "Formulation and in vitro prospectus of probiotics, beetroot, and vitamin B12 encapsulated in alginate beads",
-      "abstract": "IntroductionThe current research aims to design and develop encapsulated beads (Ebs) loaded with Lactobacillus reuteri (L. reuteri), beetroot, and Vitamin B12.MethodsThe Ebs were prepared using the ionic gelation method and optimized via factorial design. The prepared Ebs were optimized for their particle size, drug entrapment efficiency, and structural analysis. Moreover, the Ebs were evaluated for their drug release under gastric and intestinal conditions.Results and DiscussionThe particle size of Ebs ranges from 1.15 to 1.20 mm. The % drug entrapment for Vitamin B12, Beetroot, and L. reuteri were 97.09% ± 3.25%, 87.9% ± 5.85%, and 87.5% ± 4.97%, respectively. The viability of L. reuteri in Ebs was 4.2 × 108 Cfu/g. SEM images revealed round-shaped Ebs. FTIR spectra revealed the successful incorporation of drugs within the Ebs. The cumulative release of Vitamin B12, Beetroot, and L. reuteri from Ebs was 87.02% ± 5.67%, 78.4% ± 7.87%, and 87.5% ± 6.68%, respectively, over 24 h, indicating sustained release profiles. In contrast, the marketed sublingual formulation of Vitamin B12 showed a rapid release of 70.23% ± 5.68%, within 2 h. Results confirm the successful preparation and optimization of L. reuteri- Vitamin B12 and beetroot-loaded Ebs, which may be a promising approach to addressing Vitamin B12 deficiency.",
-      "authors": "Tanhid Mansuri, Rajesh Hadia, Annu et al.",
-      "published": "Sep 2026",
-      "feedName": "Frontiers Food Science",
-      "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.1850082",
-      "image": "",
-      "screen": "left"
-    },
-    {
       "title": "Reliable food safety risk assessment via calibrated Mondrian conformal prediction: a machine learning framework with uncertainty quantification",
       "abstract": "IntroductionFood safety risk assessment requires predictive models that not only achieve high accuracy but also provide reliable uncertainty quantification to support regulatory decision-making. This study presents a comprehensive machine learning framework that integrates Mondrian conformal prediction with post hoc probability calibration for food safety risk classification using the Rapid Alert System for Food and Feed (RASFF) database. The task is framed as a binary classification problem, predicting whether an RASFF notification is serious or not.MethodsThe proposed framework addresses three critical challenges in food safety prediction: class imbalance handling through the synthetic minority oversampling technique (SMOTE) combined with class weighting, probability miscalibration correction via Platt scaling, and distribution-free uncertainty quantification through group-conditional conformal prediction. The framework was evaluated on 22,643 RASFF notifications from 2019 to 2025 using a chronological training/calibration/test split.ResultsThe eXtreme Gradient Boosting (XGBoost)-based framework achieves an accuracy rate of 0.784, a Cohen’s kappa of 0.296, and a Matthews correlation coefficient of 0.297. The Mondrian conformal predictor attains 90.3% overall coverage, with an average prediction set size of 1.216, while Platt scaling reduces the expected calibration error by 84%, from 0.267 to 0.043. A multitrial resampling analysis (5,000 random calibration/test splits) confirms that mean per-region coverage converges to the nominal 90% level, while single-split deviation…",
       "authors": "Saravanan Radhakrishnan, V. Vijayarajan",
       "published": "Sep 2026",
       "feedName": "Frontiers Food Science",
       "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.1890831",
+      "image": "",
+      "screen": "left"
+    },
+    {
+      "title": "Formulation and in vitro prospectus of probiotics, beetroot, and vitamin B12 encapsulated in alginate beads",
+      "abstract": "IntroductionThe current research aims to design and develop encapsulated beads (Ebs) loaded with Lactobacillus reuteri (L. reuteri), beetroot, and Vitamin B12.MethodsThe Ebs were prepared using the ionic gelation method and optimized via factorial design. The prepared Ebs were optimized for their particle size, drug entrapment efficiency, and structural analysis. Moreover, the Ebs were evaluated for their drug release under gastric and intestinal conditions.Results and DiscussionThe particle size of Ebs ranges from 1.15 to 1.20 mm. The % drug entrapment for Vitamin B12, Beetroot, and L. reuteri were 97.09% ± 3.25%, 87.9% ± 5.85%, and 87.5% ± 4.97%, respectively. The viability of L. reuteri in Ebs was 4.2 × 108 Cfu/g. SEM images revealed round-shaped Ebs. FTIR spectra revealed the successful incorporation of drugs within the Ebs. The cumulative release of Vitamin B12, Beetroot, and L. reuteri from Ebs was 87.02% ± 5.67%, 78.4% ± 7.87%, and 87.5% ± 6.68%, respectively, over 24 h, indicating sustained release profiles. In contrast, the marketed sublingual formulation of Vitamin B12 showed a rapid release of 70.23% ± 5.68%, within 2 h. Results confirm the successful preparation and optimization of L. reuteri- Vitamin B12 and beetroot-loaded Ebs, which may be a promising approach to addressing Vitamin B12 deficiency.",
+      "authors": "Tanhid Mansuri, Rajesh Hadia, Annu et al.",
+      "published": "Sep 2026",
+      "feedName": "Frontiers Food Science",
+      "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.1850082",
       "image": "",
       "screen": "left"
     },
@@ -282,43 +282,43 @@
       "screen": "left"
     },
     {
-      "title": "Improvement of zein-soybean lipophilic protein complex Pickering emulsion gel by controlling ultrasonic power: focus on stability mechanism",
+      "title": "Dynamic flavor profiles in sweet cherry during cold storage: integrated multi‑omics and volatile profiling reveals regulatory networks underlying flavor deterioration",
       "abstract": "",
-      "authors": "Jiannan Yan, Tongtong Zhang, Pan Liu et al.",
+      "authors": "Chen Feng, Jing Wang, Chuanbao Wu et al.",
       "published": "Sep 2026",
       "feedName": "npj Science of Food",
-      "url": "https://www.nature.com/articles/s41538-026-01131-9",
-      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01131-9/MediaObjects/41538_2026_1131_Fig1_HTML.png",
+      "url": "https://www.nature.com/articles/s41538-026-01121-x",
+      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01121-x/MediaObjects/41538_2026_1121_Fig1_HTML.png",
       "screen": "left"
     },
     {
-      "title": "Application of CoQ 10 -loaded gSP-CS double-layer emulsion in milk: Impacts on quality and storage stability",
+      "title": "Frequent EFSA regulation violation for wheat flours suggests stronger control and regulatory harmonization of production, milling and distribution",
       "abstract": "",
-      "authors": "Biyue Zhang, Guanxi Li, Gang Liu et al.",
+      "authors": "Alexis Noel, Justine Pincemaille, Matteo Creta et al.",
       "published": "Sep 2026",
       "feedName": "npj Science of Food",
-      "url": "https://www.nature.com/articles/s41538-026-01115-9",
-      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01115-9/MediaObjects/41538_2026_1115_Fig1_HTML.png",
+      "url": "https://www.nature.com/articles/s41538-026-01126-6",
+      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01126-6/MediaObjects/41538_2026_1126_Fig1_HTML.png",
       "screen": "left"
     },
     {
-      "title": "The role of micelle assembly in producing cheese from recombinant caseins",
+      "title": "From natural vesicles to intelligent carriers: the metabolic basis and biomedical applications of lemon-derived extracellular vesicles",
       "abstract": "",
-      "authors": "Laurens J. Antuma, Remko M. Boom, Julia K. Keppler",
+      "authors": "Anyi Wu, Xianhao Wu, Shuchen Zhang et al.",
       "published": "Sep 2026",
       "feedName": "npj Science of Food",
-      "url": "https://www.nature.com/articles/s41538-026-01136-4",
-      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01136-4/MediaObjects/41538_2026_1136_Fig1_HTML.png",
+      "url": "https://www.nature.com/articles/s41538-026-00875-8",
+      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-00875-8/MediaObjects/41538_2026_875_Fig1_HTML.png",
       "screen": "left"
     },
     {
-      "title": "Novel Ophiopogon japonicus polysaccharide prevents chronic atrophic gastritis via gut microbiota/indole-3-acetic acid/AHR-CYP1A1-NF-κB axis",
+      "title": "Increasing storage temperature of frozen foods: effect on sustainability and food quality",
       "abstract": "",
-      "authors": "Ziwei Liu, Xi Xie, Chunyong Sun et al.",
+      "authors": "Lorenza Serena, Martijntje Vollebregt, Marcel Meinders et al.",
       "published": "Sep 2026",
       "feedName": "npj Science of Food",
-      "url": "https://www.nature.com/articles/s41538-026-01079-w",
-      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01079-w/MediaObjects/41538_2026_1079_Fig1_HTML.png",
+      "url": "https://www.nature.com/articles/s41538-026-01112-y",
+      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01112-y/MediaObjects/41538_2026_1112_Fig1_HTML.png",
       "screen": "left"
     },
     {
@@ -452,6 +452,16 @@
       "screen": "right"
     },
     {
+      "title": "Compound in blueberries may help muscle cells burn excess fat",
+      "abstract": "Scientists in Japan have identified a natural compound found in blueberries, grapes, and other berries that may help muscle cells burn excess fat instead of storing it. The compound, pterostilbene, reduced abnormal fat buildup in cultured mouse muscle cells by boosting fat breakdown and helping stabilize a key protein involved in fatty acid metabolism.",
+      "authors": "",
+      "published": "Sep 2026",
+      "feedName": "ScienceDaily Nutrition",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260903064219.htm",
+      "image": "https://www.sciencedaily.com/images/1920/blueberries-macro.webp",
+      "screen": "right"
+    },
+    {
       "title": "Stanford scientists discover a seafood that can reverse signs of aging",
       "abstract": "A substance found in edible sea squirts appeared to reverse several signs of aging in older mice. Plasmalogen supplements improved memory and learning, strengthened connections between brain cells, reduced inflammation, and even helped the mice grow thicker, darker hair. Researchers believe the compounds may encourage brain regeneration and protect aging synapses.",
       "authors": "",
@@ -469,16 +479,6 @@
       "feedName": "ScienceDaily Nutrition",
       "url": "https://www.sciencedaily.com/releases/2026/09/260901070550.htm",
       "image": "https://www.sciencedaily.com/images/1920/osteoporosis-stages-hip-bone-strength.webp",
-      "screen": "right"
-    },
-    {
-      "title": "Popular sweeteners may leave effects that last for generations",
-      "abstract": "Two widely used zero-calorie sweeteners, sucralose and stevia, may have effects that linger far longer than the sweet taste itself. In mice, researchers found that both sweeteners altered the gut microbiome, reduced beneficial compounds produced by gut bacteria, and changed the activity of genes involved in metabolism and inflammation. Some of those changes were also detected in later generations that had never consumed the sweeteners themselves.",
-      "authors": "",
-      "published": "Aug 2026",
-      "feedName": "ScienceDaily Nutrition",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260830000019.htm",
-      "image": "https://www.sciencedaily.com/images/1920/stevia-natural-sweetener-on-wooden-spoon.webp",
       "screen": "right"
     },
     {

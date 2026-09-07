@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-07T02:00:36Z",
+  "updated": "2026-09-07T07:06:51Z",
   "items": [
     {
       "title": "Interrupted salt iodization harmed child health and education in Ethiopia",
@@ -202,22 +202,22 @@
       "screen": "left"
     },
     {
-      "title": "Formulation and in vitro prospectus of probiotics, beetroot, and vitamin B12 encapsulated in alginate beads",
-      "abstract": "IntroductionThe current research aims to design and develop encapsulated beads (Ebs) loaded with Lactobacillus reuteri (L. reuteri), beetroot, and Vitamin B12.MethodsThe Ebs were prepared using the ionic gelation method and optimized via factorial design. The prepared Ebs were optimized for their particle size, drug entrapment efficiency, and structural analysis. Moreover, the Ebs were evaluated for their drug release under gastric and intestinal conditions.Results and DiscussionThe particle size of Ebs ranges from 1.15 to 1.20 mm. The % drug entrapment for Vitamin B12, Beetroot, and L. reuteri were 97.09% ± 3.25%, 87.9% ± 5.85%, and 87.5% ± 4.97%, respectively. The viability of L. reuteri in Ebs was 4.2 × 108 Cfu/g. SEM images revealed round-shaped Ebs. FTIR spectra revealed the successful incorporation of drugs within the Ebs. The cumulative release of Vitamin B12, Beetroot, and L. reuteri from Ebs was 87.02% ± 5.67%, 78.4% ± 7.87%, and 87.5% ± 6.68%, respectively, over 24 h, indicating sustained release profiles. In contrast, the marketed sublingual formulation of Vitamin B12 showed a rapid release of 70.23% ± 5.68%, within 2 h. Results confirm the successful preparation and optimization of L. reuteri- Vitamin B12 and beetroot-loaded Ebs, which may be a promising approach to addressing Vitamin B12 deficiency.",
-      "authors": "Tanhid Mansuri, Rajesh Hadia, Annu et al.",
-      "published": "Sep 2026",
-      "feedName": "Frontiers Food Science",
-      "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.1850082",
-      "image": "",
-      "screen": "left"
-    },
-    {
       "title": "Reliable food safety risk assessment via calibrated Mondrian conformal prediction: a machine learning framework with uncertainty quantification",
       "abstract": "IntroductionFood safety risk assessment requires predictive models that not only achieve high accuracy but also provide reliable uncertainty quantification to support regulatory decision-making. This study presents a comprehensive machine learning framework that integrates Mondrian conformal prediction with post hoc probability calibration for food safety risk classification using the Rapid Alert System for Food and Feed (RASFF) database. The task is framed as a binary classification problem, predicting whether an RASFF notification is serious or not.MethodsThe proposed framework addresses three critical challenges in food safety prediction: class imbalance handling through the synthetic minority oversampling technique (SMOTE) combined with class weighting, probability miscalibration correction via Platt scaling, and distribution-free uncertainty quantification through group-conditional conformal prediction. The framework was evaluated on 22,643 RASFF notifications from 2019 to 2025 using a chronological training/calibration/test split.ResultsThe eXtreme Gradient Boosting (XGBoost)-based framework achieves an accuracy rate of 0.784, a Cohen’s kappa of 0.296, and a Matthews correlation coefficient of 0.297. The Mondrian conformal predictor attains 90.3% overall coverage, with an average prediction set size of 1.216, while Platt scaling reduces the expected calibration error by 84%, from 0.267 to 0.043. A multitrial resampling analysis (5,000 random calibration/test splits) confirms that mean per-region coverage converges to the nominal 90% level, while single-split deviation…",
       "authors": "Saravanan Radhakrishnan, V. Vijayarajan",
       "published": "Sep 2026",
       "feedName": "Frontiers Food Science",
       "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.1890831",
+      "image": "",
+      "screen": "left"
+    },
+    {
+      "title": "Formulation and in vitro prospectus of probiotics, beetroot, and vitamin B12 encapsulated in alginate beads",
+      "abstract": "IntroductionThe current research aims to design and develop encapsulated beads (Ebs) loaded with Lactobacillus reuteri (L. reuteri), beetroot, and Vitamin B12.MethodsThe Ebs were prepared using the ionic gelation method and optimized via factorial design. The prepared Ebs were optimized for their particle size, drug entrapment efficiency, and structural analysis. Moreover, the Ebs were evaluated for their drug release under gastric and intestinal conditions.Results and DiscussionThe particle size of Ebs ranges from 1.15 to 1.20 mm. The % drug entrapment for Vitamin B12, Beetroot, and L. reuteri were 97.09% ± 3.25%, 87.9% ± 5.85%, and 87.5% ± 4.97%, respectively. The viability of L. reuteri in Ebs was 4.2 × 108 Cfu/g. SEM images revealed round-shaped Ebs. FTIR spectra revealed the successful incorporation of drugs within the Ebs. The cumulative release of Vitamin B12, Beetroot, and L. reuteri from Ebs was 87.02% ± 5.67%, 78.4% ± 7.87%, and 87.5% ± 6.68%, respectively, over 24 h, indicating sustained release profiles. In contrast, the marketed sublingual formulation of Vitamin B12 showed a rapid release of 70.23% ± 5.68%, within 2 h. Results confirm the successful preparation and optimization of L. reuteri- Vitamin B12 and beetroot-loaded Ebs, which may be a promising approach to addressing Vitamin B12 deficiency.",
+      "authors": "Tanhid Mansuri, Rajesh Hadia, Annu et al.",
+      "published": "Sep 2026",
+      "feedName": "Frontiers Food Science",
+      "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.1850082",
       "image": "",
       "screen": "left"
     },
@@ -482,42 +482,42 @@
       "screen": "right"
     },
     {
-      "title": "Psychobiotic, nutritional, and behavioral interventions targeting the microbiome-gut-brain axis in depression, anxiety, and stress: a scoping review",
-      "abstract": "Probiotics and psychobiotics are increasingly investigated as microbiome-gut-brain axis (MGBA)-targeted strategies for managing depression, anxiety, and stress-related symptoms, but human evidence remains fragmented across intervention types and biomarker domains. We conducted a scoping review of human intervention studies to map MGBA-targeted psychobiotic, nutritional, dietary, and behavioral interventions, with a specific focus on symptom-biomarker bridging evidence. Searches of major biomedical and multidisciplinary databases combined key terms for the microbiome/gut-brain axis, depression/anxiety/stress, probiotics/psychobiotics, dietary or behavioral interventions, and biomarker domains. The search yielded 1,390 records; 72 full-text reports were assessed; 32 original reports were retained after report-level adjudication; and, after study-family consolidation, 30 independent human studies were included in the study-level synthesis. Studies were classified as direct bridge, parallel evidence, or no bridge according to whether biomarker changes were statistically linked to emotional outcomes. Most included studies focused on probiotic or psychobiotic interventions, with fewer studies examining prebiotics, synbiotics, short-chain fatty acid approaches, dietary interventions, or mind-body/behavioral strategies. Across the 30 studies, 9 were classified as direct bridge, 18 as parallel evidence, and 3 as no bridge. The most frequently examined biomarker domains were gut microbiota, microbial metabolites, and inflammation/immune markers, with common specific readouts includin…",
-      "authors": "Qiuhua Dai, Chao Fang, Yajun Du et al.",
+      "title": "Strawberry leaf extract protects dopaminergic neurons by restoring redox and mitochondrial homeostasis",
+      "abstract": "IntroductionParkinson’s disease (PD) is a progressive neurodegenerative disorder characterized by the selective loss of dopaminergic neurons, for which effective disease-modifying strategies remain limited. Mitochondrial dysfunction and oxidative stress are central drivers of PD pathogenesis, highlighting the importance of cellular defense mechanisms targeting these processes.MethodsIn the present study, we investigated the neuroprotective effects of strawberry leaf extract (SLE), an agricultural by-product rich in polyphenols, using both in vitro and in vivo models of PD.ResultsIn SH-SY5Y cells, SLE significantly attenuated rotenone-induced loss of cell viability and suppressed intracellular reactive oxygen species (ROS) production. Mechanistically, SLE promoted nuclear translocation of nuclear factor erythroid 2-related factor 2 (Nrf2) and increased the expression of antioxidant genes, including heme oxygenase-1 (HO-1) and p62. Pharmacological inhibition experiments further indicated that activation of AMP-activated protein kinase (AMPK) contributes to SLE-induced Nrf2 activation. In addition to redox regulation, SLE modulated mitochondrial quality control pathways. Time-dependent alterations in mitophagy-related markers, including PINK1, Parkin, LC3, and p62, were observed, accompanied by recovery of mitochondrial membrane potential. These findings suggest that SLE influences mitochondrial homeostasis under oxidative stress conditions. In a rotenone-induced PD mouse model, SLE administration ameliorated motor dysfunction and attenuated the loss of tyrosine hydroxylase-po…",
+      "authors": "Chiharu Ueda, Tamaki Tokumatsu, Fuka Sogame et al.",
       "published": "Sep 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1856471",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1893670",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Policy options to transform food systems for affordable and healthy diets in South Africa: a systematic review with stakeholder prioritization",
-      "abstract": "IntroductionSouth Africa’s food system is struggling to deliver nutritious, affordable diets, leaving many people unable to access healthy food. Furthermore, the country lacks a comprehensive food system policy, relying instead on policies that address specific components of food security. This study investigated cost-effective, feasible, and adaptable policy options to transform South Africa’s food system towards affordable, healthy diets.MethodsA systematic review was conducted in accordance with the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines. Scopus, PubMed, Web of Science, and other sources were searched for English-language publications from 2013 to 2023. Of the 340 records identified, 20 food systems transformation reports met the eligibility criteria, with 70% focusing on global contexts and 30% on Africa. The identified prioritised policy options were subsequently validated through an online survey of food system stakeholders.ResultsAgricultural policy options were prioritised most frequently (25%), followed by supply chain and governance interventions (20% each), regulatory measures (15%), and education and awareness interventions (10%). Financial, research, technology, and innovation policy options were least prioritised (5% each). Overall, 20 prioritised policy options were identified. The findings indicate that no single policy option is sufficient to improve the affordability of nutritious diets in South Africa. Instead, a coordinated package of complementary interventions across agriculture, governance, supply chains…",
-      "authors": "Wegayehu Fitawek, Lukhangele Mgweba, Olwethu Loki",
+      "title": "Perceived awareness, objective nutrition knowledge, and health beliefs about probiotics and prebiotics among adults in the United Arab Emirates: a cross-sectional study",
+      "abstract": "BackgroundProbiotics and prebiotics are increasingly promoted as functional food components. This growing visibility has not been matched by consistent public understanding of their definitions, dietary sources, and scientifically supported health claims. Against this background, this study assessed perceived awareness, objective knowledge, information sources, and health beliefs related to probiotics and prebiotics among adults in the United Arab Emirates (UAE). It also examined factors associated with adequate objective knowledge.MethodsA cross-sectional online survey was conducted among 744 adult UAE residents between April and May 2026. Perceived awareness was measured using a 10-point scale. Objective knowledge was assessed using four items on definitions and natural dietary sources, and adequate knowledge was defined as at least three correct answers. In addition, information sources and health beliefs were assessed, and multivariable logistic regression was used to identify factors associated with adequate objective knowledge.ResultsMean perceived awareness was 4.6 ± 2.8, and 18.0% of participants reported high awareness. Mean objective knowledge was 1.9 ± 1.6, with 39.9% demonstrating adequate knowledge. Correct responses were highest for the probiotic definition (55.8%) and lowest for natural prebiotic sources (37.0%). High perceived awareness and high objective knowledge overlapped in only 10.1% of participants. In the multivariable model, internet/websites (90.3%) and social media (84.9%) were the most frequently reported information sources, but neither was inde…",
+      "authors": "Nadia Alkalbani, Tareq M. Osaili, Reyad S. Obaid et al.",
       "published": "Sep 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1855954",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1929193",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Nobiletin ameliorates diabetic nephropathy by modulating TP53-associated PANoptosis: an experimental study",
-      "abstract": "BackgroundNobiletin (NOB), a naturally occurring polymethoxyflavone enriched in Citri Reticulatae Pericarpium—the dried peel of mature citrus fruit—has attracted increasing attention because of its multi-target pharmacological activities. This study explored the protective effects of NOB on diabetic nephropathy (DN), with a focus on TP53-associated PANoptosis and TFEB-related lysosomal and energy metabolic changes.MethodsForty male db/db mice were randomly assigned to the model, metformin, low-dose NOB (30 mg/kg/day), and high-dose NOB (60 mg/kg/day) groups, with 10 mice per group. Ten age-matched male db/m mice served as non-diabetic controls. Treatments were administered by gavage for 8 weeks. Metabolic parameters, lipid profiles, inflammatory cytokines, renal function, histopathology, untargeted metabolomics, energy metabolites, network pharmacology, surface plasmon resonance (SPR), immunofluorescence, qPCR, and Western blot analyses were performed. Supplementary in vitro validation was performed in high-glucose-treated HK2 renal tubular epithelial cells with TP53 knockdown or overexpression.ResultsNOB treatment reduced FBG, OGTT-AUC, INS, HOMA-IR, GSP, TC, TG, and LDL-C while increasing HDL-C. High-dose NOB improved renal function, reduced IL-1β and IL-6, and alleviated histological damage. Untargeted metabolomics suggested that NOB partially restored pathway-level changes related to oxidative phosphorylation, lysosomal function, fatty acid metabolism, and energy metabolism. Network pharmacology identified TP53 as a central candidate target, and SPR analysis suggested b…",
-      "authors": "Biwei Zhang, Yi Liu, Leilei Ma et al.",
+      "title": "Context-aware digital nutrition and abdominal acoustic feedback in Taiwanese university students: a 12-week single-arm field intervention and a separate 4-week randomized feasibility pilot",
+      "abstract": "BackgroundMost digital nutrition tools rely on retrospective meal logging and generic reminders. AbSound adds abdominal acoustic cues intended to support meal-timing reflection and dietary self-regulation. These cues were treated as meal-relevant behavioral proxies, not physiological markers of hunger, satiety, or gastrointestinal motility. We evaluated the platform among Taiwanese university students.Materials and methodsPhase 1 was a 12-week single-arm field intervention with 200 participants completing follow-up. Outcomes included engagement, meal-logging completeness, fruit and vegetable intake, dietary self-regulation, daily steps, WHOQOL-BREF, and BMI. Phase 2 was a separate 4-week open-label randomized feasibility pilot (N = 32; 16 per group) comparing AbSound with standard tracking. Analyses emphasized within-participant trajectories, feasibility estimates, exploratory between-group changes, and agreement with composite meal-state/acoustic-event labels.ResultsIn Phase 1, fruit and vegetable intake, dietary self-regulation, daily steps, and quality of life improved over time, whereas BMI remained stable. Because Phase 1 had no control group, these findings represent temporal associations. Active-day engagement was 78%, meal-logging completeness was 48.5%, and both declined across the semester. In Phase 2, participants used AbSound for 9.35 hours/day across 25.81 of 28 days and acknowledged 78.54% of alerts. Exploratory between-group change estimates directionally favored AbSound for late-night snacking, eating speed, diet quality, and eating self-regulation, but the …",
+      "authors": "Chuanchia Wang, Chen Han, Jwoshiun Sun et al.",
       "published": "Sep 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1816623",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1853482",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Intravenous vitamin C as micronutrient therapy in patients with sepsis or septic shock: an updated systematic review and meta-analysis of randomized controlled trials",
-      "abstract": "ObjectiveThe adjunctive therapeutic value of vitamin C in sepsis or septic shock patients remains controversial. This study aimed to evaluate the therapeutic efficacy and safety of intravenous administration of vitamin C in sepsis or septic shock patients through meta-analysis.MethodsRelevant literature was searched in PubMed, Embase, and Scopus databases and other related databases. The primary outcome was 28-day mortality. Secondary outcomes included duration and total dose of vasopressors, change in sequential organ failure assessment (SOFA) scores from baseline to the earliest reported time point between 72 and 96 h (ΔSOFA), hospital length of stay, intensive care unit length of stay, urine output in the 24-h, and incidence of adverse events.ResultsFourteen randomized controlled trials enrolling 1,958 patients were eligible for assessment. Meta-analysis demonstrated that intravenous vitamin C reduced 28-day mortality in sepsis or septic shock patients compared to the control group (RR 0.70; 95% CI 0.53 to 0.93; P = 0.02; I2 = 52%), based on low quality of evidence, and subgroup analysis showed the benefit was driven by single-center studies, not observed in multicenter trials. Vitamin C shortened the duration of vasopressor use (SMD = −0.42, 95% CI −0.77 to −0.08, P = 0.02) and was associated with a greater reduction in SOFA score (MD = −1.04, 95% CI −1.83 to −0.25, P = 0.01), but did not reduce vasopressor dose, length of stay, or 24-h urine output. No significant adverse events were reported.ConclusionThis meta-analysis suggests that intravenous vitamin C might be ass…",
-      "authors": "Binrong Cai, Qian Xiao, Yiqin Xia et al.",
+      "title": "A machine-learning-derived online prediction model based on inflammatory and nutritional composite indicators for acute kidney injury in sepsis patients with multiple myeloma",
+      "abstract": "BackgroundAcute kidney injury (AKI) frequently complicates sepsis in patients with multiple myeloma (MM), yet no validated predictive tool integrates the inflammatory and nutritional disturbances specific to this dual-disease population. We aimed to develop and externally validate an interpretable machine learning (ML) model—based on composite inflammatory-nutritional indices—to predict in-hospital AKI in septic patients with MM, and to deploy it as a web-based point-of-care tool.MethodsIn this retrospective cohort study, 362 septic MM patients (development cohort: 253 training, 109 internal test) and 71 temporal validation patients were enrolled from Shaanxi Provincial People’s Hospital (2020–2025). Moreover, an independent external validation cohort from a separate tertiary hospital (n = 118, Xi’an No. 3 Hospital). Candidate predictors included 8 composite indices (e.g., NLR, SII, LAR, AAPR) alongside routine clinical and laboratory variables. Boruta and recursive feature elimination (RFE) identified a parsimonious predictor set. Six ML algorithms (logistic regression, SVM, MLP, LightGBM, XGBoost, Random Forest) were compared using AUC, calibration, and decision curve analysis. The final model was interpreted with SHAP and implemented as a public Streamlit application.ResultsAKI occurred in 206/362 (56.9%) patients. Eight predictors were selected: NLR, LAR, creatinine, SII, PTA, cystatin C, CRP, and AAPR. Random Forest demonstrated the most robust and generalizable performance, achieving a temporal validation AUC of 0.8574 (accuracy 0.7465, sensitivity 0.8205, specificity…",
+      "authors": "Qin Zhang, Qi Xin, Huayan Guo",
       "published": "Sep 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1905726",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1874801",
       "image": "",
       "screen": "right"
     },
@@ -579,6 +579,126 @@
       "researcher": {
         "name": "Iris Zohar",
         "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=YVQd-pwAAAAJ"
+      }
+    },
+    {
+      "title": "Effect of Quinoa Protein Concentrate in Particulate and Fibrillar Forms on the Physico-Chemical Properties of Quinoa Starch Gels",
+      "abstract": "The current study investigates the interactions between quinoa protein—both in particulate (protein concentrate, QPC) and fibrillar (QPF) forms—and quinoa starch (QS) gels, and how these interactions influence the thermal, pasting, and rheological properties of the gels. Gels were made by adding three different concentrations of QPC or QPF to a 10% QS dispersion (10, 25, and 50% w/w of starch). DSC results suggested an enhancement of amylopectin thermal stability and an acceleration of retrogradation upon a cooling stage by the addition of quinoa protein. FTIR spectra indicated that QS and QPC/QPF mostly interacted through hydrogen bonds. According to rheological measurements, in contrast to the increased G′ due to the addition of QPC (50%), only a slight increase in G′ was observed due to the addition of QPF (50%). Notably, this study is the first to directly compare the effects of QPC and QPF on starch gel properties, revealing that QPC markedly enhances gel elasticity. These findings highlight the potential application of the optimized quinoa starch-protein-based gels as functional ingredients in plant-based meat analogues, where improved textural and nutritional attributes are critical.",
+      "authors": "Shir T Segev, Eden Eran-Nagar, G. Rytwo et al.",
+      "published": "2025",
+      "venue": "Food and Bioprocess Technology",
+      "feedName": "Lab Research",
+      "citationCount": 4,
+      "recentCitations": 0,
+      "quartile": "Q1",
+      "s2_paper_id": "034d8c4f0c0f5607a4e6727360aa5d7287e60d5b",
+      "url": "https://doi.org/10.1007/s11947-025-03873-y",
+      "image": "",
+      "screen": "both",
+      "lab_paper": true,
+      "researcher": {
+        "name": "Ofir Benjamin",
+        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=FsjV0oIAAAAJ"
+      }
+    },
+    {
+      "title": "Relationships Between Chemical Compounds and Sensory Properties of Virgin Olive Oil in the US and Israel: Development of a Prediction Model for Defects",
+      "abstract": "Virgin olive oil (VOO) quality is defined by both chemical and sensory parameters. While the chemical parameters are objective and measured using instrument-based methods, sensory quality evaluation is based upon human panels, which can be subjective, have less repeatability, suffer from fatigue, and require long and costly training. Tasting biases could be minimized by a trained panel, but using humans as a testing instrument is inevitably prone to various psychological biases, stimulus-related factors, and carry-over effects. The objectives of this study were to evaluate instrumental methodologies that will assist the existing human panel in assessing the sensory characteristics of VOO and to develop chemistry-based predicting models for sensory properties in the oil using VOO samples originating from the US and Israel. Our results indicated that oil rancidity highly correlated with the contents of chemical components contents; 1-penten-3-one, 3-hexen-1-ol, (E)-2-pentanal, and 1-octen-3-ol are the major volatiles associated with rancidity defects (low concentrations of these compounds). Positive sensory attributes, such as fruitiness, correlated with 1- acetoxypinoresinol and hexanal, while bitterness correlated with pinoresinol, the aldehydic form of oleuropein aglycones, and the dialdehydic form of oleuropein aglycone. The random forest model suggested that luteolin, (E)-2-hexenal, 1-penten-3-one, and C18:0 are the most useful measurements in predicting the occurrence of sensory defects in the olive oil samples included. In other words, when these compounds are below or…",
+      "authors": "M. Calatayud, Xueqi Li, Arnon Dag et al.",
+      "published": "2024",
+      "venue": "Journal of Agricultural and Food Chemistry",
+      "feedName": "Lab Research",
+      "citationCount": 4,
+      "recentCitations": 0,
+      "quartile": "Q1",
+      "s2_paper_id": "2daf7bffd81d6b4f740d63bf18644047b1466c1f",
+      "url": "https://doi.org/10.1021/acs.jafc.4c06012",
+      "image": "",
+      "screen": "both",
+      "lab_paper": true,
+      "researcher": {
+        "name": "Ofir Benjamin",
+        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=FsjV0oIAAAAJ"
+      }
+    },
+    {
+      "title": "Synergistic effects of biochar and poultry manure on soil and cucumber (Cucumis sativus) performance: A case study from the southeastern Nigeria",
+      "abstract": "This study explores the suitability of different biomass feedstocks for biochar production and their effects on soil health and crop yield. Two planting seasons were conducted, involving cucumber as the test crop and eleven treatments combining biochar and poultry manure. Soil analysis revealed initial soil conditions with high sand content and low pH. Poultry manure and biochar exhibited pH, organic carbon, and nutrient level variations. Significant differences in cucumber growth and yield were observed, with the longest vine length in plots treated with palm kernel husk biochar and poultry manure. Residual effects in the second planting season displayed similar trends. Soil pH, organic carbon, and total nitrogen remained consistent between seasons, while available phosphorus increased significantly in plots amended with goat manure biochar and poultry manure. Calcium, magnesium, potassium, and sodium contents also varied. Fruit length, weight, and yield were significantly improved by biochar treatments, with the combination of palm kernel husk biochar and poultry manure yielding the highest fruit weight. Correlation and structural equation analyses (p < 0.05) highlighted the relationships between plant characteristics, soil properties, and fruit indices, emphasizing the importance of nitrogen and phosphorus in supporting fruit development. The study suggests that biochar application enhances soil nutrients, crop growth, and fruit yields while reducing reliance on chemical fertilizers. It recommends considering biochar for land reclamation and as an alternative to traditio…",
+      "authors": "E. O. Ayito, K. John, O. Benjamin et al.",
+      "published": "2024",
+      "venue": "Soil Science Annual",
+      "feedName": "Lab Research",
+      "citationCount": 9,
+      "recentCitations": 2,
+      "quartile": null,
+      "s2_paper_id": "8aa653c59706d0f1e9269886f0967e540b52e7f0",
+      "url": "https://doi.org/10.37501/soilsa/183903",
+      "image": "",
+      "screen": "both",
+      "lab_paper": true,
+      "researcher": {
+        "name": "Ofir Benjamin",
+        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=FsjV0oIAAAAJ"
+      }
+    },
+    {
+      "title": "Renal protective effects of natural honey on animal model of hypertension",
+      "abstract": "Hypertension, also known as high blood pressure, is a leading cause of cardiovascular disease and premature death worldwide. Numerous investigations have established that hypertension can cause alterations in the cardiovascular system as well as renal structure and function. Fresh honey is consumed worldwide and is claimed to be highly medicinal and has therapeutic effects against a wide range of medical conditions. We investigated the renal protective effect of natural honey in in animal model of hypertension. Forty (40) male albino rats, with average weight (120 ±10 g) were administered with high salt diet, HSD (80 g NaCl + 1 kg of diet and 1% NaCl in drinking water (10 g of NaCl + 1 L distilled water) for 10 weeks to induce hypertension in the rats. Following confirmation, hypertensive male rats were randomly selected for the experiment. Twenty (20) albino rats (15 hypertensive rats and 5 normotensive rats) were divided into 4 groups, Groups A-D. Group A: (Normotensive Control) no administration was given; Groups B-D (hypertensive rats) received the following treatments. Group B was treated with natural honey (15 ml/kg), Group C treated with hydrochlorothiazide (0.15 mg/kg), daily for 21 days; while Group D received no treatment, until the end of the 21 days administrations. Blood samples were taken in the end, and renal alterations were assessed via biochemical and histopathological analyses. Results showed that salt-induced hypertension caused a marked elevation of the renal biochemical parameters. The histopathological results agree with the biochemical findings. Howe…",
+      "authors": "Onwudiwe Saviour Nwachukwu, O. Benjamin, Nwankwo Emeka Christian et al.",
+      "published": "2023",
+      "venue": "Open Access Research Journal of Life Sciences",
+      "feedName": "Lab Research",
+      "citationCount": 0,
+      "recentCitations": 0,
+      "quartile": null,
+      "s2_paper_id": "3072198eabc4a0ba4b878787e54a629a0d5959af",
+      "url": "https://doi.org/10.53022/oarjls.2023.6.2.0068",
+      "image": "",
+      "screen": "both",
+      "lab_paper": true,
+      "researcher": {
+        "name": "Ofir Benjamin",
+        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=FsjV0oIAAAAJ"
+      }
+    },
+    {
+      "title": "Quality and Flavor of ‘Aliza’ Fruit: A Unique Pomelo × Mandarin Hybrid",
+      "abstract": "‘Aliza’ is a new pomelo × mandarin hybrid (Citrus maxima, cv. Red Chandler × Citrus reticulata, cv. Ora) developed by the Israeli citrus breeding program at the Volcani Institute. Here, we aimed to characterize the quality and flavor of ‘Aliza’ fruit as compared to other commercial citrus fruit, specifically pomelo (C. maxima), grapefruit (Citrus paradisi), orange (Citrus sinensis) and mandarin (C. reticulata). ‘Aliza’ fruits have a similar size as grapefruits, but have a thinner peel and a unique yellowish/golden color. ‘Aliza’ fruits are completely seedless and have especially high juice contents. They also have a unique, highly preferred flavor, characterized by high sweetness and moderate bitterness and acidity, with strong citrusy and tropical fruity aromas. Sensory analyses conducted with the aid of a trained panel and an electronic tongue revealed that the flavor of ‘Aliza’ fruits is different from the flavors of other citrus species. Consumer acceptance and preference tests revealed that ‘Aliza’ fruit are highly appreciated and favored. The aroma volatile profile of ‘Aliza’ fruit was somewhat similar to those of pomelo and grapefruit, but very different from those of orange and mandarin. Overall, ‘Aliza’ fruits can be distinguished from other citrus fruits by their unique color, high juice content and exceptional, unique flavor.",
+      "authors": "Hagar Pardo, A. Owoyemi, Livnat Goldenberg et al.",
+      "published": "2023",
+      "venue": "Horticulturae",
+      "feedName": "Lab Research",
+      "citationCount": 4,
+      "recentCitations": 0,
+      "quartile": null,
+      "s2_paper_id": "8fc9e49f80c03192aa54947839aa56e8d90f9d36",
+      "url": "https://doi.org/10.3390/horticulturae9040420",
+      "image": "",
+      "screen": "both",
+      "lab_paper": true,
+      "researcher": {
+        "name": "Ofir Benjamin",
+        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=FsjV0oIAAAAJ"
+      }
+    },
+    {
+      "title": "Flavor release and stability comparison between nano and conventional emulsion as influenced by saliva",
+      "abstract": "Flavour release and emulsion stability depend on volatile organic compounds' environmental conditions, food microstructure, and physicochemical properties. The effect of pH (3.5 vs 7.0) and saliva addition on stability and flavour release from nano and conventional emulsions was investigated using particle size, charge and Lumisizer measurments. Larger particle sizes were observed at lower pressures and in saliva-containing emulsions. At 1700 bar, nano-emulsions (below 150 nm) were created at pH 3.5 and 7.0 including saliva-containing emulsions. As was clear from the creaming velocity measurements, saliva addition decreased the emulsion stability by reducing particle charges and increased viscosity by more than 50%, especially when prepared at pH 3.5 closer to the isoelectric point of the used emulsifier β-lactoglobulin (pH 5.2). (5.2). Flavour release from emulsions was measured at equilibrium using a phase ratio variation to determine partition coefficients and dynamically using an electronic nose. Partition coefficients of the flavour compounds for most conditions were two to four times lower in emulsions prepared at pH 7.0 than at pH 3.5 and in emulsions without saliva. Emulsions prepared with higher pressures showed stronger flavor release rates, while additional salvia dropped the release rate for ethyl acetate at pH 3.5. The physicochemical properties of flavour compounds, saliva addition and pH of emulsions influenced flavour release more than homogenization pressures. The potential in using nano-emulsions in food applications an be attributed higher stability and e…",
+      "authors": "O. Sanni, C. Lakemond, O. Benjamin",
+      "published": "2022",
+      "venue": "Journal of food science and technology",
+      "feedName": "Lab Research",
+      "citationCount": 9,
+      "recentCitations": 0,
+      "quartile": "Q1",
+      "s2_paper_id": "435cee3aeeb4f44de0a7eef6197bce01a348c990",
+      "url": "https://doi.org/10.1007/s13197-022-05534-w",
+      "image": "",
+      "screen": "both",
+      "lab_paper": true,
+      "researcher": {
+        "name": "Ofir Benjamin",
+        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=FsjV0oIAAAAJ"
       }
     },
     {

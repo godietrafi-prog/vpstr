@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-07T13:51:11Z",
+  "updated": "2026-09-07T18:32:55Z",
   "items": [
     {
       "title": "Interrupted salt iodization harmed child health and education in Ethiopia",
@@ -122,6 +122,16 @@
       "screen": "left"
     },
     {
+      "title": "Sensing the path forward: AI as amplifier in sensory and consumer science",
+      "abstract": "",
+      "authors": "John M. Ennis, Vanessa Rios de Souza, Maria Elena Lozano et al.",
+      "published": "Feb 2027",
+      "feedName": "Food Quality & Preference",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0950329326002594?dgcid=rss_sd_all",
+      "image": "",
+      "screen": "left"
+    },
+    {
       "title": "When health labels increase indulgent food purchase intention",
       "abstract": "",
       "authors": "Xiaoke Yang, Liling Zheng, Shen Duan et al.",
@@ -148,16 +158,6 @@
       "published": "Feb 2027",
       "feedName": "Food Quality & Preference",
       "url": "https://www.sciencedirect.com/science/article/pii/S0950329326002508?dgcid=rss_sd_all",
-      "image": "",
-      "screen": "left"
-    },
-    {
-      "title": "Underrepresented populations in consumer research: An agenda for opening opportunities and closing challenges without hitting the PLATEAU",
-      "abstract": "",
-      "authors": "Carlos Gómez-Corona, Tobias Otterbring, Sara R. Jaeger",
-      "published": "Jan 2027",
-      "feedName": "Food Quality & Preference",
-      "url": "https://www.sciencedirect.com/science/article/pii/S095032932600234X?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -242,6 +242,16 @@
       "screen": "left"
     },
     {
+      "title": "Glycine supplementation reshapes metabolism and enhances growth and stress tolerance in Lactiplantibacillus plantarum",
+      "abstract": "",
+      "authors": "Hyeon-Ji Han, Si-Heon Song, Md Sekendar Ali et al.",
+      "published": "Mar 2027",
+      "feedName": "Food Microbiology",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0740002026002625?dgcid=rss_sd_all",
+      "image": "",
+      "screen": "left"
+    },
+    {
       "title": "Light-induced adaptive laboratory evolution enhances bioactive aromatic amino acid-derived compound profile in a wine strain of Saccharomyces cerevisiae",
       "abstract": "",
       "authors": "Ricardo Bisquert, Alba Guillén, Guillermo Quintas et al.",
@@ -268,16 +278,6 @@
       "published": "Mar 2027",
       "feedName": "Food Microbiology",
       "url": "https://www.sciencedirect.com/science/article/pii/S0740002026002613?dgcid=rss_sd_all",
-      "image": "",
-      "screen": "left"
-    },
-    {
-      "title": "The role of pigs and slaughterhouses in the transmission of Listeria monocytogenes into the meat processing chain",
-      "abstract": "",
-      "authors": "Damien Ernst, Ariane Pietzka, Anna Caroline Pontel de Almeida et al.",
-      "published": "Mar 2027",
-      "feedName": "Food Microbiology",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0740002026002376?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -482,22 +482,32 @@
       "screen": "right"
     },
     {
-      "title": "Dietary carotenoids and vitamin A are associated with lower gastric cancer risk and favorable inflammatory and oxidative stress biomarkers: an incident case– control study",
-      "abstract": "BackgroundDietary carotenoids and vitamin A may contribute to gastric cancer (GC) prevention through anti-inflammatory and antioxidant mechanisms; however, epidemiological evidence remains limited. We investigated the associations of total and individual carotenoid and vitamin A intakes with GC and their relationships with inflammatory/oxidative stress biomarkers.MethodsThe case–control study included 177 adults (82 GC incidence cases/95 controls). A validated 168-item food frequency questionnaire assessed dietary intakes of individual carotenoids and preformed vitamin A. Metabolic biomarkers, lipid profile, inflammatory/oxidative stress markers [e.g., high-sensitivity C-reactive protein (hs-CRP), tumor necrosis factor-alpha (TNF-α), interleukins (6/1β/10/4), total antioxidant capacity (TAC), and malondialdehyde (MDA)] were measured. Multivariable logistic regression models estimated odds ratios (ORs) for GC risk; linear regression models examined associations between carotenoid intakes and biomarkers.ResultsTotal carotenoid (mg/d; OR: 0.86, 95%CI: 0.81–0.98), β-carotene (mg/d; OR: 0.77, 95%CI: 0.65–0.90) and vitamin A (mg RAE/d; OR: 0.29, 95%CI: 0.09–0.95) intakes, as continuous variables, and also as binary variables (based on the median cut-offs), in all models (also adjusted for age, sex, smoking, education, marital status, physical activity, cancer history, H. pylori, NSAIDs intake, body mass index, total energy intake), were inversely associated with GC odds. In fully adjusted models, higher total carotenoid intake (mg/d) was associated with lower LDL-c (β: −1.60, 95%…",
-      "authors": "Farhad Vahid, Torsten Bohn",
+      "title": "The prognostic nutritional index vs. MELD for short-term mortality in critically ill liver disease: a retrospective multi-cohort study",
+      "abstract": "Malnutrition, sarcopenia and frailty are common in advanced liver disease and predict poorer survival, encouraging simple blood-based indices when formal assessment is impractical. The most widely used, the Prognostic Nutritional Index (PNI), combines serum albumin and the peripheral lymphocyte count; yet both have been reported to be strongly influenced by systemic inflammation as well as by nutrition, and the index is seldom benchmarked against a disease-specific reference or against albumin alone. We evaluated whether the PNI provides clinically useful prognostic information for short-term mortality in critically ill patients with liver disease, using three independent cohorts: a North American intensive-care primary cohort (n = 3,653), a multicentre external-validation cohort (n = 922) and a single-center Chinese cohort in which hepatitis B was the leading cause of liver disease (n = 453). In each cohort we quantified discrimination of 28-day or in-hospital mortality, compared the PNI with serum albumin alone and with the Model for End-Stage Liver Disease (MELD), and tested whether it improved discrimination or reclassification beyond MELD. The PNI discriminated death only marginally better than chance (area under the curve 0.52–0.56) and no better than albumin alone, so its lymphocyte component added no independent signal; the weak per-standard-deviation association seen in the primary cohort was not significant in either validation cohort. MELD discriminated substantially better everywhere (0.67–0.70). The conventional PNI threshold classified 89–97% of patients as ab…",
+      "authors": "Lujun Shao, Yue Li, Cheng Xu et al.",
       "published": "Sep 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1953378",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1930417",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "A machine-learning-derived online prediction model based on inflammatory and nutritional composite indicators for acute kidney injury in sepsis patients with multiple myeloma",
-      "abstract": "BackgroundAcute kidney injury (AKI) frequently complicates sepsis in patients with multiple myeloma (MM), yet no validated predictive tool integrates the inflammatory and nutritional disturbances specific to this dual-disease population. We aimed to develop and externally validate an interpretable machine learning (ML) model—based on composite inflammatory-nutritional indices—to predict in-hospital AKI in septic patients with MM, and to deploy it as a web-based point-of-care tool.MethodsIn this retrospective cohort study, 362 septic MM patients (development cohort: 253 training, 109 internal test) and 71 temporal validation patients were enrolled from Shaanxi Provincial People’s Hospital (2020–2025). Moreover, an independent external validation cohort from a separate tertiary hospital (n = 118, Xi’an No. 3 Hospital). Candidate predictors included 8 composite indices (e.g., NLR, SII, LAR, AAPR) alongside routine clinical and laboratory variables. Boruta and recursive feature elimination (RFE) identified a parsimonious predictor set. Six ML algorithms (logistic regression, SVM, MLP, LightGBM, XGBoost, Random Forest) were compared using AUC, calibration, and decision curve analysis. The final model was interpreted with SHAP and implemented as a public Streamlit application.ResultsAKI occurred in 206/362 (56.9%) patients. Eight predictors were selected: NLR, LAR, creatinine, SII, PTA, cystatin C, CRP, and AAPR. Random Forest demonstrated the most robust and generalizable performance, achieving a temporal validation AUC of 0.8574 (accuracy 0.7465, sensitivity 0.8205, specificity…",
-      "authors": "Qin Zhang, Qi Xin, Huayan Guo",
+      "title": "Long-term trends in grain yield and main nutrient contents of three staple cereal crops in China (1980–2024)",
+      "abstract": "BackgroundRice, wheat, and maize are China’s three main staple crops and key sources of dietary energy and essential nutrients. Decades of cultivar improvement and changes in field management have been accompanied by substantial increases in grain yield, while the nutrient composition of these crops may also have changed over. However, the long-term trends of these alterations are poorly understood. Characterizing these trends is crucial for safeguarding national food security and ensuring an adequate dietary nutrient supply for the Chinese population.ObjectiveTo systematically characterize long-term trends in the grain yield and major nutrient contents of rice, wheat, and maize in China between 1980 and 2024. Methods: Data on rice, wheat, and maize from 1980 to 2024 were collected from publicly available food composition databases and published literature databases. Linear regression models were fitted for each crop and nutrient variable to characterize temporal trends in grain yield and nutrient concentrations.ResultsFrom 1980 to 2024, grain yield overall increased in all three crops. Grain protein concentration declined significantly in rice, wheat, and maize. Fat content decreased significantly in wheat and maize, whereas no clear trend was detected for rice. Carbohydrate content decreased significantly in wheat and increased in maize; no clear trend was detected in rice. Dietary fiber content increased significantly in rice and wheat; no clear trend was detected in maize. Furthermore, grain yield was negatively associated with protein concentration across all three cro…",
+      "authors": "Jinrui Bai, Minghui Hou, Guang Liang et al.",
       "published": "Sep 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1874801",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1936187",
+      "image": "",
+      "screen": "right"
+    },
+    {
+      "title": "Associations between sodium intake and gut microbiota composition",
+      "abstract": "IntroductionHigh salt intake is associated with adverse health outcomes. Emerging evidence highlights the importance of the gut microbiome in human health, but large-scale human data on salt intake and the microbiome are limited. We examined the cross-sectional association between estimated 24-h sodium excretion (est24hNa) and the gut microbiome in a population-based cohort.MethodsWe included 9,220 participants from the Swedish SCAPIS cohort with available shotgun metagenomic sequencing of fecal samples and urine analyses. We estimated the 24-h sodium excretion using the Kawasaki formula. Alpha diversity was assessed using the Shannon and inverse Simpson indices, and beta diversity using Bray–Curtis dissimilarity. Functional potential was evaluated using Gut Microbial Modules. Associations were analyzed using mixed linear regression models.ResultsAlpha diversity was inversely associated with est24hNa, but associations were attenuated after adjustment for BMI and were not significant in fully adjusted models. Beta diversity was associated with est24hNa, although the explained variance was small (R2 < 0.001). Higher est24hNa was associated with 75 microbial species, including lower abundance of 27 species and higher abundance of oral–associated taxa such as Streptococcus spp. and Veillonella. It was also associated with increased abundance of pathways involved in microbial energy metabolism and carbohydrate fermentation.ConclusionHigher est24hNa was associated with selected gut microbiome features, including a higher abundance of several oral-associated taxa and differences i…",
+      "authors": "Jonas Wuopio, Tiscar Graells, Yi-Ting Lin et al.",
+      "published": "Sep 2026",
+      "feedName": "Frontiers Nutrition",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1889723",
       "image": "",
       "screen": "right"
     },
@@ -508,16 +518,6 @@
       "published": "Sep 2026",
       "feedName": "Frontiers Nutrition",
       "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1956116",
-      "image": "",
-      "screen": "right"
-    },
-    {
-      "title": "A trade-off between shelf-life mitigation and nutritional retention: a persistent challenge in pearl millet",
-      "abstract": "Pearl millet serves as a vital cereal crop for ensuring food and nutritional security, particularly in arid and semi-arid regions known as “Grains of God,” due to its remarkable tolerance to drought and other adverse environmental conditions. In addition to its climate resilience, pearl millet possesses superior nutritional quality, being enriched with essential amino acids, dietary fiber, iron, zinc, and several health-promoting bioactive compounds, thereby making it an important component of sustainable and nutritious food systems. However, a major limitation associated with the commercial utilization of pearl millet is its susceptibility to rancidity during storage. Rancidity primarily results from the oxidative degradation of lipids, leading to the formation of free fatty acids, hydroperoxides, aldehydes, and other volatile compounds responsible for undesirable off-flavors and reduced sensory acceptability. This deterioration is largely attributed to enzymatic reactions involving polyunsaturated fatty acids, which adversely affect the shelf life and consumer preference of pearl millet-based products. In addition to the limited long-term efficacy of conventional stabilization approaches, these strategies are often associated with nutrient loss, deterioration of quality attributes, reduced scalability, and increased processing costs. Recent advances in “Omics” approaches, such as genomics, transcriptomics, lipidomic, and metabolomics, have substantially enhanced our understanding of the molecular mechanisms underlying rancidity development in pearl millet. Several candida…",
-      "authors": "Nisha Singh, Kinjalben Suthar",
-      "published": "Sep 2026",
-      "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1864573",
       "image": "",
       "screen": "right"
     },

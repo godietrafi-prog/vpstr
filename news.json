@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-07T07:06:51Z",
+  "updated": "2026-09-07T13:51:11Z",
   "items": [
     {
       "title": "Interrupted salt iodization harmed child health and education in Ethiopia",
@@ -42,42 +42,42 @@
       "screen": "left"
     },
     {
-      "title": "Low molecular weight ligands govern Cu(II) binding in beer",
+      "title": "Enzymatic protein hydrolysis of poultry carcasses and soybean okara: comparison of endo- and exoproteases on protein recovery and quality",
       "abstract": "",
-      "authors": "Morgan A. Vincent, Mogens L. Andersen, Morten J. Bjerrum et al.",
+      "authors": "Laura Esposito, Francesca Accardo, Andrea Faccini et al.",
       "published": "Nov 2026",
       "feedName": "Food Chemistry",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626030633?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626031353?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
     {
-      "title": "Transitions from polyphenol and phytosterol to oil accumulation in developing Camellia seeds",
+      "title": "Immune and gut microbiota responses to structurally distinct pomelo pectins and their enzymatic derivatives",
       "abstract": "",
-      "authors": "Tuo Leng, Yuting Wang, Xiaoyi Hu et al.",
+      "authors": "Xiaoyi Liu, Yuxin Wang, Jiahong Huo et al.",
       "published": "Nov 2026",
       "feedName": "Food Chemistry",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626031377?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626031122?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
     {
-      "title": "Flavonoid modification of heat-treated chestnut starch: physicochemical properties and in vitro digestion characteristics",
+      "title": "Terahertz time-domain spectroscopy combined with chemometrics for detecting homogeneous adulteration in olive oil: A case study of expired and refined olive oils",
       "abstract": "",
-      "authors": "Huijie Fang, Jiyuan Lv, Yaning Tian et al.",
+      "authors": "Xiaoyan Geng, Leijun Xu, Jihong Deng et al.",
       "published": "Nov 2026",
       "feedName": "Food Chemistry",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626031791?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S030881462603205X?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
     {
-      "title": "Physical-assisted deep eutectic solvent improves the extraction of soluble dietary fiber from highland barley bran and its effects on structure, properties and functions",
+      "title": "Tracking the volatile fingerprint of crayfish by-product shrimp sauce during a rapid fermentation: A synergistic strategy using flavoromics and molecular docking",
       "abstract": "",
-      "authors": "Wenya Du, Jilan Zhou, Jianxia Wen et al.",
+      "authors": "Bin Peng, Linchuan Xu, Sijie Xu et al.",
       "published": "Nov 2026",
       "feedName": "Food Chemistry",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626031699?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626032139?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -202,12 +202,12 @@
       "screen": "left"
     },
     {
-      "title": "Reliable food safety risk assessment via calibrated Mondrian conformal prediction: a machine learning framework with uncertainty quantification",
-      "abstract": "IntroductionFood safety risk assessment requires predictive models that not only achieve high accuracy but also provide reliable uncertainty quantification to support regulatory decision-making. This study presents a comprehensive machine learning framework that integrates Mondrian conformal prediction with post hoc probability calibration for food safety risk classification using the Rapid Alert System for Food and Feed (RASFF) database. The task is framed as a binary classification problem, predicting whether an RASFF notification is serious or not.MethodsThe proposed framework addresses three critical challenges in food safety prediction: class imbalance handling through the synthetic minority oversampling technique (SMOTE) combined with class weighting, probability miscalibration correction via Platt scaling, and distribution-free uncertainty quantification through group-conditional conformal prediction. The framework was evaluated on 22,643 RASFF notifications from 2019 to 2025 using a chronological training/calibration/test split.ResultsThe eXtreme Gradient Boosting (XGBoost)-based framework achieves an accuracy rate of 0.784, a Cohen’s kappa of 0.296, and a Matthews correlation coefficient of 0.297. The Mondrian conformal predictor attains 90.3% overall coverage, with an average prediction set size of 1.216, while Platt scaling reduces the expected calibration error by 84%, from 0.267 to 0.043. A multitrial resampling analysis (5,000 random calibration/test splits) confirms that mean per-region coverage converges to the nominal 90% level, while single-split deviation…",
-      "authors": "Saravanan Radhakrishnan, V. Vijayarajan",
+      "title": "Beyond sweetness: rare sugars as next-generation functional food ingredients for metabolic health, food innovation, and sugar-reduction strategies",
+      "abstract": "Excessive consumption of added sugars has increased demand for food ingredients that reduce glycemic and caloric load while maintaining sweetness, bulk, processing functionality, and consumer acceptability. Rare sugars are low-abundance monosaccharides with compound-specific technological and physiological properties. This review critically synthesizes current evidence on their natural occurrence, structural chemistry, production, metabolic fate, food applications, safety, regulatory status, and translational potential. D-allulose and D-tagatose are among the most extensively studied rare sugars for food reformulation. Both provide sugar-like bulk and sensory functionality, lower energy contributions than sucrose, and evidence for attenuated postprandial glucose and insulin responses. Other rare monosaccharides, including D-allose, L-arabinose, L-xylulose, L-ribose, and D-sorbose, show distinct effects on digestion, microbial utilization, enzymatic recognition, and food-matrix behavior. Related polyols are chemically distinct and are considered only as relevant technological or physiological comparators. Rare sugars may influence browning, hydration, crystallization, fermentation, starch behavior, texture, and flavor development. Advances in enzymatic conversion, immobilized biocatalysis, microbial cell factories, synthetic biology, and waste-stream valorization have improved production feasibility. Nevertheless, conversion efficiency, purification requirements, production cost, and industrial scale-up remain important constraints. Human evidence is currently strongest for …",
+      "authors": "Farhang Hameed Awlqadr, Mohammed N. Saeed, Ammar B. Altemimi et al.",
       "published": "Sep 2026",
       "feedName": "Frontiers Food Science",
-      "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.1890831",
+      "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.1947889",
       "image": "",
       "screen": "left"
     },
@@ -222,22 +222,22 @@
       "screen": "left"
     },
     {
+      "title": "Reliable food safety risk assessment via calibrated Mondrian conformal prediction: a machine learning framework with uncertainty quantification",
+      "abstract": "IntroductionFood safety risk assessment requires predictive models that not only achieve high accuracy but also provide reliable uncertainty quantification to support regulatory decision-making. This study presents a comprehensive machine learning framework that integrates Mondrian conformal prediction with post hoc probability calibration for food safety risk classification using the Rapid Alert System for Food and Feed (RASFF) database. The task is framed as a binary classification problem, predicting whether an RASFF notification is serious or not.MethodsThe proposed framework addresses three critical challenges in food safety prediction: class imbalance handling through the synthetic minority oversampling technique (SMOTE) combined with class weighting, probability miscalibration correction via Platt scaling, and distribution-free uncertainty quantification through group-conditional conformal prediction. The framework was evaluated on 22,643 RASFF notifications from 2019 to 2025 using a chronological training/calibration/test split.ResultsThe eXtreme Gradient Boosting (XGBoost)-based framework achieves an accuracy rate of 0.784, a Cohen’s kappa of 0.296, and a Matthews correlation coefficient of 0.297. The Mondrian conformal predictor attains 90.3% overall coverage, with an average prediction set size of 1.216, while Platt scaling reduces the expected calibration error by 84%, from 0.267 to 0.043. A multitrial resampling analysis (5,000 random calibration/test splits) confirms that mean per-region coverage converges to the nominal 90% level, while single-split deviation…",
+      "authors": "Saravanan Radhakrishnan, V. Vijayarajan",
+      "published": "Sep 2026",
+      "feedName": "Frontiers Food Science",
+      "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.1890831",
+      "image": "",
+      "screen": "left"
+    },
+    {
       "title": "Soybean variety influences the quality and functionality of soymilk fermented by Lactobacillus acidophilus 1132",
       "abstract": "Fermented soymilk is a widely consumed plant-based beverage, and fermentation enhances its nutritional and functional properties. However, the influence of soybean seed characteristics on the quality and functionality of fermented soymilk remains insufficiently understood. Therefore, this study investigated the effect of three soybean varieties-food-grade (Karune), low-KTI (V23), and black (VL-Bhat-65)- on the nutritional, functional, technological, and sensory properties of soymilk fermented with Lactobacillus acidophilus 1132. All soybean varieties supported bacterial growth and lactic acid production. Fermentation significantly (p < 0.05) improved the nutritional and functional quality of soymilk by reducing raffinose-family oligosaccharides (RFOs) and antinutritional factors (ANFs), while enhancing isoflavone bioconversion and phenolic content. Black soybean soymilk exhibited the highest protein and mineral contents and viscosity; food-grade soymilk showed the greatest antioxidant activity, lowest phytic acid and trypsin inhibitor activity, and highest sensory acceptability, whereas low-KTI soymilk demonstrated the greatest conversion of glucoside to aglycone isoflavones. These findings demonstrate that soybean variety significantly influences the quality and functionality of fermented soymilk and provide a scientific basis for selecting appropriate soybean varieties for the development of nutritionally enhanced fermented plant-based beverages.",
       "authors": "Muzaffar Hasan, Dilshad Ahmad, Veda Krishnan et al.",
       "published": "Sep 2026",
       "feedName": "Frontiers Food Science",
       "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.1927350",
-      "image": "",
-      "screen": "left"
-    },
-    {
-      "title": "Advances and trends in the use of edible coatings for extending the shelf life of foods: a scoping review",
-      "abstract": "Edible coatings have emerged as sustainable preservation systems capable of extending the shelf life of foods by reducing moisture loss, regulating gas exchange, limiting oxidation, and inhibiting microbial deterioration. This scoping review aimed to map recent scientific advances, technological trends, and application patterns in the use of edible coatings for food preservation. The review followed PRISMA-ScR guidelines and included records retrieved from Web of Science and Scopus. From 13,004 initial records, 1,588 studies were included in the bibliometric analysis, and 40 representative studies were selected for qualitative synthesis. The findings showed a marked increase in scientific production after 2015, with China, India, and the United States as central contributors to global collaboration networks. The thematic structure of the field was dominated by biopolymer-based coatings, particularly chitosan, alginate, pectin, gelatin, starch, whey protein, carrageenan, and composite lipid matrices. Recent studies also showed a transition from passive barrier coatings toward active and multifunctional systems incorporating essential oils, plant extracts, phenolic compounds, bacteriocins, nanoemulsions, and antimicrobial agents. The strongest evidence was found for fruits and vegetables, followed by meat and fishery products, while dairy, bakery products, and eggs remain less explored. Overall, edible coatings contributed to microbial control, physicochemical stabilization, sensory preservation, and shelf-life extension. However, further research is needed on safety, scalabi…",
-      "authors": "José Francisco Falconí Novillo, Nilo Israel Cabezas-Oviedo, Dayra Silvana Cevallos-Farez",
-      "published": "Sep 2026",
-      "feedName": "Frontiers Food Science",
-      "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.1860777",
       "image": "",
       "screen": "left"
     },
@@ -282,6 +282,26 @@
       "screen": "left"
     },
     {
+      "title": "Bacterial adaptation to essential oils and their main compounds in food systems: mechanisms related to antibacterial resistance",
+      "abstract": "",
+      "authors": "Rim Rais, Nadia Ziyate, Hiba Mahir et al.",
+      "published": "Sep 2026",
+      "feedName": "npj Science of Food",
+      "url": "https://www.nature.com/articles/s41538-026-01119-5",
+      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01119-5/MediaObjects/41538_2026_1119_Fig1_HTML.png",
+      "screen": "left"
+    },
+    {
+      "title": "Flavor quality evaluation and discrimination of regional tea ( Camellia sinensis L.) based on metabolomics, volatileomics, and machine learning",
+      "abstract": "",
+      "authors": "Chenyang Ma, Fang Dong, Zhitong Zhu et al.",
+      "published": "Sep 2026",
+      "feedName": "npj Science of Food",
+      "url": "https://www.nature.com/articles/s41538-026-01139-1",
+      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01139-1/MediaObjects/41538_2026_1139_Fig1_HTML.png",
+      "screen": "left"
+    },
+    {
       "title": "Improvement of zein-soybean lipophilic protein complex Pickering emulsion gel by controlling ultrasonic power: focus on stability mechanism",
       "abstract": "",
       "authors": "Jiannan Yan, Tongtong Zhang, Pan Liu et al.",
@@ -299,26 +319,6 @@
       "feedName": "npj Science of Food",
       "url": "https://www.nature.com/articles/s41538-026-01115-9",
       "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01115-9/MediaObjects/41538_2026_1115_Fig1_HTML.png",
-      "screen": "left"
-    },
-    {
-      "title": "The role of micelle assembly in producing cheese from recombinant caseins",
-      "abstract": "",
-      "authors": "Laurens J. Antuma, Remko M. Boom, Julia K. Keppler",
-      "published": "Sep 2026",
-      "feedName": "npj Science of Food",
-      "url": "https://www.nature.com/articles/s41538-026-01136-4",
-      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01136-4/MediaObjects/41538_2026_1136_Fig1_HTML.png",
-      "screen": "left"
-    },
-    {
-      "title": "Novel Ophiopogon japonicus polysaccharide prevents chronic atrophic gastritis via gut microbiota/indole-3-acetic acid/AHR-CYP1A1-NF-κB axis",
-      "abstract": "",
-      "authors": "Ziwei Liu, Xi Xie, Chunyong Sun et al.",
-      "published": "Sep 2026",
-      "feedName": "npj Science of Food",
-      "url": "https://www.nature.com/articles/s41538-026-01079-w",
-      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01079-w/MediaObjects/41538_2026_1079_Fig1_HTML.png",
       "screen": "left"
     },
     {
@@ -482,32 +482,12 @@
       "screen": "right"
     },
     {
-      "title": "Strawberry leaf extract protects dopaminergic neurons by restoring redox and mitochondrial homeostasis",
-      "abstract": "IntroductionParkinson’s disease (PD) is a progressive neurodegenerative disorder characterized by the selective loss of dopaminergic neurons, for which effective disease-modifying strategies remain limited. Mitochondrial dysfunction and oxidative stress are central drivers of PD pathogenesis, highlighting the importance of cellular defense mechanisms targeting these processes.MethodsIn the present study, we investigated the neuroprotective effects of strawberry leaf extract (SLE), an agricultural by-product rich in polyphenols, using both in vitro and in vivo models of PD.ResultsIn SH-SY5Y cells, SLE significantly attenuated rotenone-induced loss of cell viability and suppressed intracellular reactive oxygen species (ROS) production. Mechanistically, SLE promoted nuclear translocation of nuclear factor erythroid 2-related factor 2 (Nrf2) and increased the expression of antioxidant genes, including heme oxygenase-1 (HO-1) and p62. Pharmacological inhibition experiments further indicated that activation of AMP-activated protein kinase (AMPK) contributes to SLE-induced Nrf2 activation. In addition to redox regulation, SLE modulated mitochondrial quality control pathways. Time-dependent alterations in mitophagy-related markers, including PINK1, Parkin, LC3, and p62, were observed, accompanied by recovery of mitochondrial membrane potential. These findings suggest that SLE influences mitochondrial homeostasis under oxidative stress conditions. In a rotenone-induced PD mouse model, SLE administration ameliorated motor dysfunction and attenuated the loss of tyrosine hydroxylase-po…",
-      "authors": "Chiharu Ueda, Tamaki Tokumatsu, Fuka Sogame et al.",
+      "title": "Dietary carotenoids and vitamin A are associated with lower gastric cancer risk and favorable inflammatory and oxidative stress biomarkers: an incident case– control study",
+      "abstract": "BackgroundDietary carotenoids and vitamin A may contribute to gastric cancer (GC) prevention through anti-inflammatory and antioxidant mechanisms; however, epidemiological evidence remains limited. We investigated the associations of total and individual carotenoid and vitamin A intakes with GC and their relationships with inflammatory/oxidative stress biomarkers.MethodsThe case–control study included 177 adults (82 GC incidence cases/95 controls). A validated 168-item food frequency questionnaire assessed dietary intakes of individual carotenoids and preformed vitamin A. Metabolic biomarkers, lipid profile, inflammatory/oxidative stress markers [e.g., high-sensitivity C-reactive protein (hs-CRP), tumor necrosis factor-alpha (TNF-α), interleukins (6/1β/10/4), total antioxidant capacity (TAC), and malondialdehyde (MDA)] were measured. Multivariable logistic regression models estimated odds ratios (ORs) for GC risk; linear regression models examined associations between carotenoid intakes and biomarkers.ResultsTotal carotenoid (mg/d; OR: 0.86, 95%CI: 0.81–0.98), β-carotene (mg/d; OR: 0.77, 95%CI: 0.65–0.90) and vitamin A (mg RAE/d; OR: 0.29, 95%CI: 0.09–0.95) intakes, as continuous variables, and also as binary variables (based on the median cut-offs), in all models (also adjusted for age, sex, smoking, education, marital status, physical activity, cancer history, H. pylori, NSAIDs intake, body mass index, total energy intake), were inversely associated with GC odds. In fully adjusted models, higher total carotenoid intake (mg/d) was associated with lower LDL-c (β: −1.60, 95%…",
+      "authors": "Farhad Vahid, Torsten Bohn",
       "published": "Sep 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1893670",
-      "image": "",
-      "screen": "right"
-    },
-    {
-      "title": "Perceived awareness, objective nutrition knowledge, and health beliefs about probiotics and prebiotics among adults in the United Arab Emirates: a cross-sectional study",
-      "abstract": "BackgroundProbiotics and prebiotics are increasingly promoted as functional food components. This growing visibility has not been matched by consistent public understanding of their definitions, dietary sources, and scientifically supported health claims. Against this background, this study assessed perceived awareness, objective knowledge, information sources, and health beliefs related to probiotics and prebiotics among adults in the United Arab Emirates (UAE). It also examined factors associated with adequate objective knowledge.MethodsA cross-sectional online survey was conducted among 744 adult UAE residents between April and May 2026. Perceived awareness was measured using a 10-point scale. Objective knowledge was assessed using four items on definitions and natural dietary sources, and adequate knowledge was defined as at least three correct answers. In addition, information sources and health beliefs were assessed, and multivariable logistic regression was used to identify factors associated with adequate objective knowledge.ResultsMean perceived awareness was 4.6 ± 2.8, and 18.0% of participants reported high awareness. Mean objective knowledge was 1.9 ± 1.6, with 39.9% demonstrating adequate knowledge. Correct responses were highest for the probiotic definition (55.8%) and lowest for natural prebiotic sources (37.0%). High perceived awareness and high objective knowledge overlapped in only 10.1% of participants. In the multivariable model, internet/websites (90.3%) and social media (84.9%) were the most frequently reported information sources, but neither was inde…",
-      "authors": "Nadia Alkalbani, Tareq M. Osaili, Reyad S. Obaid et al.",
-      "published": "Sep 2026",
-      "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1929193",
-      "image": "",
-      "screen": "right"
-    },
-    {
-      "title": "Context-aware digital nutrition and abdominal acoustic feedback in Taiwanese university students: a 12-week single-arm field intervention and a separate 4-week randomized feasibility pilot",
-      "abstract": "BackgroundMost digital nutrition tools rely on retrospective meal logging and generic reminders. AbSound adds abdominal acoustic cues intended to support meal-timing reflection and dietary self-regulation. These cues were treated as meal-relevant behavioral proxies, not physiological markers of hunger, satiety, or gastrointestinal motility. We evaluated the platform among Taiwanese university students.Materials and methodsPhase 1 was a 12-week single-arm field intervention with 200 participants completing follow-up. Outcomes included engagement, meal-logging completeness, fruit and vegetable intake, dietary self-regulation, daily steps, WHOQOL-BREF, and BMI. Phase 2 was a separate 4-week open-label randomized feasibility pilot (N = 32; 16 per group) comparing AbSound with standard tracking. Analyses emphasized within-participant trajectories, feasibility estimates, exploratory between-group changes, and agreement with composite meal-state/acoustic-event labels.ResultsIn Phase 1, fruit and vegetable intake, dietary self-regulation, daily steps, and quality of life improved over time, whereas BMI remained stable. Because Phase 1 had no control group, these findings represent temporal associations. Active-day engagement was 78%, meal-logging completeness was 48.5%, and both declined across the semester. In Phase 2, participants used AbSound for 9.35 hours/day across 25.81 of 28 days and acknowledged 78.54% of alerts. Exploratory between-group change estimates directionally favored AbSound for late-night snacking, eating speed, diet quality, and eating self-regulation, but the …",
-      "authors": "Chuanchia Wang, Chen Han, Jwoshiun Sun et al.",
-      "published": "Sep 2026",
-      "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1853482",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1953378",
       "image": "",
       "screen": "right"
     },
@@ -518,6 +498,26 @@
       "published": "Sep 2026",
       "feedName": "Frontiers Nutrition",
       "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1874801",
+      "image": "",
+      "screen": "right"
+    },
+    {
+      "title": "Beyond the menu: how student agency, cultural acceptability, and equity shape realized sustainability in school food environments",
+      "abstract": "School food environments influence dietary intake, nutritional inequities, food habits, and exposure to sustainable eating during childhood. A nutritionally adequate, lower-impact meal yields public-health and environmental value only when pupils can access, select, consume, and accept it without disproportionate burden or waste. This structured Mini Review asks how student agency, cultural acceptability, and equity-related conditions shape the translation of sustainable school-food provision into selection, intake, waste, lived experience, and distributional outcomes. Web of Science and Scopus searches returned 1,521 records and 871 unique records. Rule-based prioritization and author-verified source assessment of 85 publications produced a 25-publication analytic set representing 23 study families: 13 Direct-child, two Direct-caregiver, five Direct-service/program, and five Adjacent publications. Study quality was appraised against the strongest available source using design-specific Mixed Methods Appraisal Tool criteria or adapted model-credibility domains; relative support was synthesized at study-family level. Sensory fit showed Moderate support for liking/acceptance only. Menu reform, waste feedback, education/information, agency, affordability/governance, and lower- and middle-income country transferability had Limited support, while identity/commensality and digital influence remained Very limited. In a multicountry non-randomized study, service-level plate-waste tracking was associated with lower measured waste; educational studies reported mixed or null outcomes, …",
+      "authors": "Lu Xing, Xueqi Wu",
+      "published": "Sep 2026",
+      "feedName": "Frontiers Nutrition",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1956116",
+      "image": "",
+      "screen": "right"
+    },
+    {
+      "title": "A trade-off between shelf-life mitigation and nutritional retention: a persistent challenge in pearl millet",
+      "abstract": "Pearl millet serves as a vital cereal crop for ensuring food and nutritional security, particularly in arid and semi-arid regions known as “Grains of God,” due to its remarkable tolerance to drought and other adverse environmental conditions. In addition to its climate resilience, pearl millet possesses superior nutritional quality, being enriched with essential amino acids, dietary fiber, iron, zinc, and several health-promoting bioactive compounds, thereby making it an important component of sustainable and nutritious food systems. However, a major limitation associated with the commercial utilization of pearl millet is its susceptibility to rancidity during storage. Rancidity primarily results from the oxidative degradation of lipids, leading to the formation of free fatty acids, hydroperoxides, aldehydes, and other volatile compounds responsible for undesirable off-flavors and reduced sensory acceptability. This deterioration is largely attributed to enzymatic reactions involving polyunsaturated fatty acids, which adversely affect the shelf life and consumer preference of pearl millet-based products. In addition to the limited long-term efficacy of conventional stabilization approaches, these strategies are often associated with nutrient loss, deterioration of quality attributes, reduced scalability, and increased processing costs. Recent advances in “Omics” approaches, such as genomics, transcriptomics, lipidomic, and metabolomics, have substantially enhanced our understanding of the molecular mechanisms underlying rancidity development in pearl millet. Several candida…",
+      "authors": "Nisha Singh, Kinjalben Suthar",
+      "published": "Sep 2026",
+      "feedName": "Frontiers Nutrition",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1864573",
       "image": "",
       "screen": "right"
     },

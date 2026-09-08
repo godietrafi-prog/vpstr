@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-08T20:32:50Z",
+  "updated": "2026-09-08T23:46:09Z",
   "items": [
     {
       "title": "A systematic review of the climatic impacts, diverse adaptation pathways and multiple adaptation barriers for inland aquaculture",
@@ -362,6 +362,26 @@
       "screen": "left"
     },
     {
+      "title": "Tiny molecular rings open new ways for designing better medicines",
+      "abstract": "Cyclopropanes are organic chemistry's smallest rings. Three carbon atoms are joined in a triangle, creating a compact and unusually strained structure. Despite—or partly because of—this unusual geometry, cyclopropanes are found in many biologically active natural products and have important applications in medicines and drug discovery, from antidepressants to antibiotics and antiviral research.",
+      "authors": "",
+      "published": "Sep 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-09-tiny-molecular-ways-medicines.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/tiny-molecular-rings-o.jpg",
+      "screen": "right"
+    },
+    {
+      "title": "A crystalline sponge reveals structures of large 'beyond rule of 5' molecules",
+      "abstract": "Drug discovery has traditionally followed the \"rule of 5,\" which identifies chemical properties generally associated with good absorption of orally administered drugs, including a molecular weight below 500 daltons (Da). However, some pharmaceutical compounds fall outside these guidelines. Known as beyond rule of 5 (bRo5) molecules, these compounds can have larger, more complex structures while still exhibiting strong therapeutic activity and favorable pharmacological properties. Their size and structural complexity, however, make it difficult to characterize them using conventional methods, particularly when very small quantities are available.",
+      "authors": "",
+      "published": "Sep 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-09-crystalline-sponge-reveals-large-molecules.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/a-crystalline-sponge-f.jpg",
+      "screen": "right"
+    },
+    {
       "title": "New way to harness copper makes antibiotic-resistant bacteria and cancer cells more vulnerable",
       "abstract": "University of Missouri researchers have discovered a new way to harness one of the body's natural defenses: copper. While copper is essential for life and helps power important biological processes, having too much of it can be toxic. To keep copper levels in balance, cells rely on specialized proteins that regulate where it goes and how much is present.",
       "authors": "",
@@ -379,26 +399,6 @@
       "feedName": "Phys.org Analytics",
       "url": "https://phys.org/news/2026-09-screening-flags-food-packaging-chemicals.html",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/researchers-build-a-ne.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "Weak hydrogen bonds dethrone copper as the most stable metal binder, opening a new path for metal selection",
-      "abstract": "Copper has been knocked off the top of a stability ranking it had dominated for decades. Without altering the atoms directly bonded to the metal, a KAIST research team reversed the longstanding trend in which copper generally forms the most stable complexes by tuning only the weak hydrogen bonds in its surrounding environment. The findings, which appear in the Journal of the American Chemical Society, could open new avenues for selective metal separation and recognition, as well as catalyst design.",
-      "authors": "",
-      "published": "Sep 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-09-weak-hydrogen-bonds-dethrone-copper.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/weak-hydrogen-bonds-de.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "Inexpensive blue pigment enables efficient one-step conversion of carbon dioxide to methane",
-      "abstract": "A common blue pigment could help turn carbon dioxide (CO₂) from an industrial waste product into a useful fuel. A joint research team led by Tohoku University's Advanced Institute for Materials Research (WPI-AIMR), in collaboration with Hokkaido University and startup AZUL Energy, has developed a catalyst that converts CO₂ directly into methane (CH₄) with high efficiency using copper phthalocyanine, an inexpensive and readily available blue pigment.",
-      "authors": "",
-      "published": "Sep 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-09-inexpensive-blue-pigment-enables-efficient.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/inexpensive-blue-pigme.jpg",
       "screen": "right"
     },
     {

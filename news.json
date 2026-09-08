@@ -1,6 +1,16 @@
 {
-  "updated": "2026-09-08T14:01:52Z",
+  "updated": "2026-09-08T17:50:26Z",
   "items": [
+    {
+      "title": "A systematic review of the climatic impacts, diverse adaptation pathways and multiple adaptation barriers for inland aquaculture",
+      "abstract": "Inland aquaculture faces varied climate impacts. This systematic review identifies 53 adaptation options and 17 barriers, highlighting the need for tailored strategies, policy coherence, better information sharing and increased financial investment.",
+      "authors": "Jie Su, Michelle Tigchelaar, Ben Belton et al.",
+      "published": "Sep 2026",
+      "feedName": "Nature Food",
+      "url": "https://www.nature.com/articles/s43016-026-01410-4",
+      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs43016-026-01410-4/MediaObjects/43016_2026_1410_Fig1_HTML.png",
+      "screen": "left"
+    },
     {
       "title": "Interrupted salt iodization harmed child health and education in Ethiopia",
       "abstract": "Ethiopia’s iodized salt supply was cut off in May 1998, limiting intake to the iodine levels in local foods. We found a significant drop in child survival and academic achievement, especially in rural districts with lower environmental iodine concentrations. Placebo tests confirm that losses were caused by a lack of iodine.",
@@ -29,16 +39,6 @@
       "feedName": "Nature Food",
       "url": "https://www.nature.com/articles/s43016-026-01421-1",
       "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs43016-026-01421-1/MediaObjects/43016_2026_1421_Fig1_HTML.png",
-      "screen": "left"
-    },
-    {
-      "title": "Diversified food fortification portfolios can enhance coverage of micronutrient-vulnerable populations in West Africa",
-      "abstract": "While staple food fortification is a recognized strategy for addressing micronutrient inadequacy, there is limited localized evidence on whether currently fortified foods, as well as candidate staples for future fortification, reach at-risk populations. This study finds that wheat flour and edible oil have limited coverage, whereas rice, millet and sorghum show greater potential across West Africa.",
-      "authors": "Kevin Tang, Uchenna Agu, Soukeyna Mbodj et al.",
-      "published": "Sep 2026",
-      "feedName": "Nature Food",
-      "url": "https://www.nature.com/articles/s43016-026-01412-2",
-      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs43016-026-01412-2/MediaObjects/43016_2026_1412_Fig1_HTML.png",
       "screen": "left"
     },
     {
@@ -322,6 +322,16 @@
       "screen": "left"
     },
     {
+      "title": "Integrating explainable machine learning models with geospatial features to enhance the prediction of late-spring frost risks in apple production",
+      "abstract": "",
+      "authors": "Jie Zhou, Xiaoya Ru, Zhihao He et al.",
+      "published": "",
+      "feedName": "AI in Agriculture",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2589721726001017?dgcid=rss_sd_all",
+      "image": "",
+      "screen": "left"
+    },
+    {
       "title": "CropFusionNet: an interpretable deep learning framework for uncertainty-aware crop yield forecasting across Germany",
       "abstract": "",
       "authors": "Amit Kumar Srivastava, Krishnagopal Halder, Gina Lopez et al.",
@@ -352,14 +362,14 @@
       "screen": "left"
     },
     {
-      "title": "YOLO11-FFTDA: fusing frequency-domain enhancement and deformable attention for robust tomato pedicel segmentation",
-      "abstract": "",
-      "authors": "Chengjin Qin, Yangtian Lin, Hanchen Zheng et al.",
+      "title": "New way to harness copper makes antibiotic-resistant bacteria and cancer cells more vulnerable",
+      "abstract": "University of Missouri researchers have discovered a new way to harness one of the body's natural defenses: copper. While copper is essential for life and helps power important biological processes, having too much of it can be toxic. To keep copper levels in balance, cells rely on specialized proteins that regulate where it goes and how much is present.",
+      "authors": "",
       "published": "Sep 2026",
-      "feedName": "AI in Agriculture",
-      "url": "https://www.sciencedirect.com/science/article/pii/S2589721726000929?dgcid=rss_sd_all",
-      "image": "",
-      "screen": "left"
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-09-harness-copper-antibiotic-resistant-bacteria.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/mizzou-researchers-unl.jpg",
+      "screen": "right"
     },
     {
       "title": "New screening system flags food-packaging chemicals linked to serious health risks",
@@ -389,16 +399,6 @@
       "feedName": "Phys.org Analytics",
       "url": "https://phys.org/news/2026-09-inexpensive-blue-pigment-enables-efficient.html",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/inexpensive-blue-pigme.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "Stripped-down LSD reveals structural features linked to hallucinogenic and therapeutic effects",
-      "abstract": "University of California, Davis, researchers have stripped down LSD to the base features responsible for its hallucinogenic and therapeutic effects.",
-      "authors": "",
-      "published": "Sep 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-09-lsd-reveals-features-linked-hallucinogenic.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/deconstructing-lsd-for.jpg",
       "screen": "right"
     },
     {
@@ -482,12 +482,22 @@
       "screen": "right"
     },
     {
-      "title": "State-level nutritional disparities and policy priorities in India",
-      "abstract": "BackgroundNutritional inequality persists in India despite sustained economic growth, expanding healthcare infrastructure, and large-scale social welfare programs. National averages mask substantial subnational disparities, concealing deep inequalities that continue to shape nutritional outcomes across States and Union Territories. This study quantifies nutritional inequality across Indian States and Union Territories using the latest NFHS-6 factsheet (2023–24) data, integrating multidimensional and spatial methods to provide a comprehensive evidence base for geographically targeted nutrition policy.Methods:Data from 36 States/UTs (excluding Manipur) were analyzed using an ecological, cross-sectional, and comparative research design. Outcome indicators included child stunting, wasting, and underweight prevalence, which were standardized and aggregated into a Child Undernutrition Burden Index (CUBI). A Dietary Vulnerability Index (DVI) was also constructed using standardized indicators of dietary diversity, nutrient-rich food consumption, and household food insecurity. Inequality was assessed via coefficient of variation, Theil decomposition, and Moran's I spatial autocorrelation. Advanced methods included quantile regression to examine heterogeneous associations across burden percentiles and spatial Durbin models to assess direct, indirect, and total spillover effects across neighboring states.ResultsNational prevalence was 29.3% for stunting, 19.0% for wasting, and 31.8% for underweight. Jharkhand (CUBI = 1.35), Gujarat (0.94), and Bihar (0.81) had the highest burden, whil…",
-      "authors": "Mayadhar Sethy, Sandhya R. Mahapatro",
+      "title": "Association between abdominal obesity and cognitive outcomes in middle-aged adults: a systematic review",
+      "abstract": "ObjectiveThis systematic review aimed to evaluate the association between abdominal obesity and cognitive outcomes in middle-aged adults and to summarize the underlying biological mechanisms and potential modifying factors, with intervention evidence discussed as a complementary clinical perspective.MethodsWe systematically retrieved relevant literature published from January 2000 to May 2026 across PubMed, Embase, Web of Science, Cochrane Library and CNKI databases. Eligible observational and interventional studies focusing on middle-aged adults were included. Two independent researchers strictly completed study selection, data extraction and methodological quality assessment in accordance with the PRISMA 2020 reporting guidelines.ResultsA total of 96 qualified studies were finally included for systematic analysis. Abdominal obesity assessed by waist circumference, waist-to-hip ratio and other central adiposity indicators was consistently associated with poor cognitive performance and elevated risk of cognitive decline in middle-aged populations. Multiple biological mechanisms were involved, including chronic inflammation, oxidative stress, insulin resistance, neuroendocrine dysregulation, mitochondrial dysfunction and gut-brain axis imbalance. Dietary patterns, physical activity and sleep quality effectively modify this association, while genetic susceptibility and long-term chronic stress further increase cognitive impairment vulnerability. Lifestyle interventions exert positive effects on improving metabolic status and cognitive function in short-term trials, whereas hi…",
+      "authors": "Lichao Wang, Yang Cao, Zixu Wang et al.",
       "published": "Sep 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1902541",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1879986",
+      "image": "",
+      "screen": "right"
+    },
+    {
+      "title": "Rehabilitation effect of omega-3 polyunsaturated fatty acids on exercise-induced muscle damage: a mini-review",
+      "abstract": "Omega-3 polyunsaturated fatty acids (PUFAs) are vital components of life activities, and the human body is incapable of synthesizing them; therefore, they must be obtained from the diet. Recent research indicates that these substances can influence not only the metabolic reaction to exercise and skeletal muscle function, but also the functional performance of exercise training. A growing body of research has indicated that it can facilitate the recovery process of exercise-induced muscle damage (EIMD); however, the underlying mechanisms remain to be fully elucidated. In addition, the potential anti-inflammatory and antioxidant activities of omega-3 polyunsaturated fatty acids have the capacity to engender health benefits and performance enhancement, particularly among individuals who partake in physical activities. This paper summarizes the effect of omega-3 PUFAs on EIMD and analyses the potential mechanism of omega-3 PUFAs in EIMD repair.",
+      "authors": "Jianan Ni, Lulu Shen, Song Gao",
+      "published": "Sep 2026",
+      "feedName": "Frontiers Nutrition",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1932144",
       "image": "",
       "screen": "right"
     },
@@ -508,16 +518,6 @@
       "published": "Sep 2026",
       "feedName": "Frontiers Nutrition",
       "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1890335",
-      "image": "",
-      "screen": "right"
-    },
-    {
-      "title": "Individualized perioperative nutritional management in orthognathic surgery: an evidence-graded, integrated framework linking upper-airway change, feeding function, and psychological status",
-      "abstract": "Orthognathic surgery corrects dentofacial deformity and increasingly addresses upper-airway obstruction, but postoperative dietary restriction may cause inadequate intake, weight loss, and lean-mass depletion. Nutritional care remains underexamined and rarely treated as a multidimensional problem. This mini-review synthesizes evidence across three interacting determinants of postoperative nutrition: upper-airway morphological change, temporary impairment of mastication and swallowing, and perioperative psychological status. We grade each domain by its proximity to measured nutritional outcomes because the evidence is markedly asymmetric. Only feeding function has direct longitudinal support: intake, weight, muscle mass, and serum markers track masticatory recovery, with intake lowest in week one, weight recovering by about 4 months, and muscle mass remaining incompletely restored at 6 months. Evidence for airway and psychological pathways remains indirect. Mandibular setback reduces airway volume and may increase obstructive sleep apnea risk, whereas advancement enlarges the airway; both may alter swallowing mechanics. Anxiety, depression, and body dysmorphic disorder are also common, but no study has related airway change or psychological status to intake, weight, or body composition in this population. Effects cannot be extrapolated from general populations, where sleep restriction may increase energy intake, and depression affects appetite bidirectionally. We therefore present an explicitly hypothesis-generating, risk-stratified framework. Its feeding-function arm can in…",
-      "authors": "Cuicui Ge, Mingjun Zhang, Dongyue Yao",
-      "published": "Sep 2026",
-      "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1944347",
       "image": "",
       "screen": "right"
     },
@@ -739,6 +739,46 @@
       "researcher": {
         "name": "Adi Jonas-Levi",
         "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=MbCf9l4AAAAJ"
+      }
+    },
+    {
+      "title": "New Analytical Approach to Quinolizidine Alkaloids and Their Assumed Biosynthesis Pathways in Lupin Seeds",
+      "abstract": "Alkaloids play an essential role in protecting plants against herbivores. Humans can also benefit from the pharmacological effects of these compounds. Plants produce an immense variety of structurally different alkaloids, including quinolizidine alkaloids, a group of bi-, tri-, and tetracyclic compounds produced by Lupinus species. Various lupin species produce different alkaloid profiles. To study the composition of quinolizidine alkaloids in lupin seeds, we collected 31 populations of two wild species native to Israel, L. pilosus and L. palaestinus, and analyzed their quinolizidine alkaloid contents. Our goal was to study the alkaloid profiles of these two wild species to better understand the challenges and prospective uses of wild lupins. We compared their profiles with those of other commercial and wild lupin species. To this end, a straightforward method for extracting alkaloids from seeds and determining the quinolizidine alkaloid profile by LC–MS/MS was developed and validated in-house. For the quantification of quinolizidine alkaloids, 15 analytical reference standards were used. We used GC–MS to verify and cross-reference the identity of certain alkaloids for which no analytical standards were available. The results enabled further exploration of quinolizidine alkaloid biosynthesis. We reviewed and re-analyzed the suggested quinolizidine alkaloid biosynthesis pathway, including the relationship between the amino acid precursor l-lysine and the different quinolizidine alkaloids occurring in seeds of lupin species. Revealing alkaloid compositions and highlighting so…",
+      "authors": "D. Namdar, Patrick P J Mulder, E. Ben-Simchon et al.",
+      "published": "2024",
+      "venue": "Toxins",
+      "feedName": "Lab Research",
+      "citationCount": 18,
+      "recentCitations": 1,
+      "quartile": null,
+      "s2_paper_id": "e6a6854e55ee8f5a8ace3025ba0d32e33a650343",
+      "url": "https://doi.org/10.3390/toxins16030163",
+      "image": "",
+      "screen": "both",
+      "lab_paper": true,
+      "researcher": {
+        "name": "Loai Basheer",
+        "photo": "media/photos/loai_basheer.png"
+      }
+    },
+    {
+      "title": "Valorization of Local Legumes and Nuts as Key Components of the Mediterranean Diet",
+      "abstract": "Legumes and nuts are components of high importance in the diet of many countries, mainly those in the Mediterranean region. They are also very versatile and culturally diverse foods found all over the world, acting as a basic protein source in certain countries. Their genetic diversity is needed to sustain the food supply and security for humans and livestock, especially because of the current loss of habitats, species, and genetic diversity worldwide, but also because of the ever present need to feed the increasing human population. Even though both legumes and nuts are considered as high-protein food and environmentally friendly crops, developed countries have lower consumption rates when compared to Asia or Africa. With a view to increasing the consumption of legumes and nuts, the objective of this review is to present the advantages on the use of autochthonous varieties from different countries around the world, thus providing a boost to the local market in the area. The consumption of these varieties could be helped by their use in ready-to-eat foods (RTE), which are now on the rise thanks to today’s fast-paced lifestyles and the search for more nutritious and sustainable foods. The versatility of legumes and nuts covers a wide range of possibilities through their use in plant-based dairy analogues, providing alternative-protein and maximal amounts of nutrients and bioactive compounds, potential plant-based flours for bakery and pasta, and added-value traditional RTE meals. For this reason, information about legume and nut nutrition could possibly increase its acceptan…",
+      "authors": "Israel Hernández-López, J. Ortiz-Solà, C. Alamprese et al.",
+      "published": "2022",
+      "venue": "Foods",
+      "feedName": "Lab Research",
+      "citationCount": 40,
+      "recentCitations": 0,
+      "quartile": "Q2",
+      "s2_paper_id": "58107c8058774580a57d044f21566325035de229",
+      "url": "https://doi.org/10.3390/foods11233858",
+      "image": "",
+      "screen": "both",
+      "lab_paper": true,
+      "researcher": {
+        "name": "Loai Basheer",
+        "photo": "media/photos/loai_basheer.png"
       }
     },
     {

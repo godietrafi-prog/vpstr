@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-09T08:33:09Z",
+  "updated": "2026-09-09T14:04:11Z",
   "items": [
     {
       "title": "A systematic review of the climatic impacts, diverse adaptation pathways and multiple adaptation barriers for inland aquaculture",
@@ -42,6 +42,26 @@
       "screen": "left"
     },
     {
+      "title": "Metabolic alterations associated with chilling injury development in red pepper ( Capsicum annuum L.) during low-temperature storage",
+      "abstract": "",
+      "authors": "Gi-Un Seong, Dae-Yong Yun, Jong-Jin Park et al.",
+      "published": "Nov 2026",
+      "feedName": "Food Chemistry",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626032310?dgcid=rss_sd_all",
+      "image": "",
+      "screen": "left"
+    },
+    {
+      "title": "Development of a Nafion membrane-based colorimetric FRAP sensor for measuring total antioxidant capacity",
+      "abstract": "",
+      "authors": "Aslı Neslihan Avan, Sema Demirci-Çekiç, Reşat Apak",
+      "published": "Nov 2026",
+      "feedName": "Food Chemistry",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626031821?dgcid=rss_sd_all",
+      "image": "",
+      "screen": "left"
+    },
+    {
       "title": "Digestibility and in vitro fecal fermentation of whole-wheat breads with different estimated glycemic indices",
       "abstract": "",
       "authors": "Yueyue Yang, Mingju Li, Mengfei Gao et al.",
@@ -58,26 +78,6 @@
       "published": "Nov 2026",
       "feedName": "Food Chemistry",
       "url": "https://www.sciencedirect.com/science/article/pii/S0308814626032358?dgcid=rss_sd_all",
-      "image": "",
-      "screen": "left"
-    },
-    {
-      "title": "Musa acuminata calmodulin-binding transcription activator 4 enhances fruit quality maintenance of banana during cold storage",
-      "abstract": "",
-      "authors": "Ying Li, Youxia Shan, Wanqi Chen et al.",
-      "published": "Nov 2026",
-      "feedName": "Food Chemistry",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626031869?dgcid=rss_sd_all",
-      "image": "",
-      "screen": "left"
-    },
-    {
-      "title": "Formation pathways and thermal-induced transformation of volatile sulfur compounds during black tea processing revealed by integrated GC-IMS and GC×GC-TOFMS",
-      "abstract": "",
-      "authors": "Jiahao Tang, Xianxiu Zhou, Jiajing Hu et al.",
-      "published": "Nov 2026",
-      "feedName": "Food Chemistry",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626031201?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -132,32 +132,32 @@
       "screen": "left"
     },
     {
+      "title": "Beyond exposure: familiarity and the ecology of food meaning in hierarchical environments – A military field study",
+      "abstract": "",
+      "authors": "Wanessa P.S. Bordoni, Mônica M. Pagani, Vitor A.S. Vidal et al.",
+      "published": "Feb 2027",
+      "feedName": "Food Quality & Preference",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0950329326002612?dgcid=rss_sd_all",
+      "image": "",
+      "screen": "left"
+    },
+    {
+      "title": "Categorization of explicitly labeled cell-, plant-, and animal-based food concepts by German-speaking omnivores in Switzerland",
+      "abstract": "",
+      "authors": "Madeleine Lanz, Bianca Wassmann, Bruno Etter et al.",
+      "published": "Feb 2027",
+      "feedName": "Food Quality & Preference",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0950329326002648?dgcid=rss_sd_all",
+      "image": "",
+      "screen": "left"
+    },
+    {
       "title": "When health labels increase indulgent food purchase intention",
       "abstract": "",
       "authors": "Xiaoke Yang, Liling Zheng, Shen Duan et al.",
       "published": "Feb 2027",
       "feedName": "Food Quality & Preference",
       "url": "https://www.sciencedirect.com/science/article/pii/S0950329326002478?dgcid=rss_sd_all",
-      "image": "",
-      "screen": "left"
-    },
-    {
-      "title": "The effect of rosé wine color: A conceptual replication and a generation-based extension",
-      "abstract": "",
-      "authors": "Renaud Lunardo, Thierry Lorey, Nathalie Pouzalgues et al.",
-      "published": "Feb 2027",
-      "feedName": "Food Quality & Preference",
-      "url": "https://www.sciencedirect.com/science/article/pii/S095032932600248X?dgcid=rss_sd_all",
-      "image": "",
-      "screen": "left"
-    },
-    {
-      "title": "Caregiver and educator preferences for school meal services in special schools for students with physical disabilities: A conjoint study of stakeholder role and mealtime difficulty severity",
-      "abstract": "",
-      "authors": "Seonyeong Baek, Sunny Ham",
-      "published": "Feb 2027",
-      "feedName": "Food Quality & Preference",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0950329326002508?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -322,6 +322,16 @@
       "screen": "left"
     },
     {
+      "title": "From phenome to genome: A cloud-based AI platform for integrative rice grain analysis and genetic mapping to empower grain-focused crop improvement",
+      "abstract": "",
+      "authors": "Jie Zhou, Ahong Wang, Yan Zhao et al.",
+      "published": "",
+      "feedName": "AI in Agriculture",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2589721726001030?dgcid=rss_sd_all",
+      "image": "",
+      "screen": "left"
+    },
+    {
       "title": "Integrating explainable machine learning models with geospatial features to enhance the prediction of late-spring frost risks in apple production",
       "abstract": "",
       "authors": "Jie Zhou, Xiaoya Ru, Zhihao He et al.",
@@ -352,14 +362,14 @@
       "screen": "left"
     },
     {
-      "title": "UGV-based multimodal RGBD–multispectral fusion framework enables high-quality 3D phenotyping of greenhouse lettuce seedlings",
-      "abstract": "",
-      "authors": "Si Yang, Guangjie Qiu, Jiacheng Xia et al.",
-      "published": "",
-      "feedName": "AI in Agriculture",
-      "url": "https://www.sciencedirect.com/science/article/pii/S2589721726001005?dgcid=rss_sd_all",
-      "image": "",
-      "screen": "left"
+      "title": "Soft X-ray absorption spectroscopy of organic molecules in organic solvents for applying organic reactions",
+      "abstract": "In research published in the journal Physical Chemistry Chemical Physics, the electronic structures of organic molecules containing sp2-hybridized carbons in organic solvents were studied using C K-edge X-ray absorption spectroscopy (XAS), termed \"Soft-XAS-OS.\"",
+      "authors": "",
+      "published": "Sep 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-09-soft-ray-absorption-spectroscopy-molecules.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/soft-x-ray-absorption.jpg",
+      "screen": "right"
     },
     {
       "title": "Tiny molecular rings open new ways for designing better medicines",
@@ -389,16 +399,6 @@
       "feedName": "Phys.org Analytics",
       "url": "https://phys.org/news/2026-09-harness-copper-antibiotic-resistant-bacteria.html",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/mizzou-researchers-unl.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "New screening system flags food-packaging chemicals linked to serious health risks",
-      "abstract": "Packaged food usually sits in plastic-lined bags designed to keep air, moisture and contaminants out. That same protection can also increase the chances of chemicals from the packaging seeping into the food. When a chemical raises health concerns, industries often swap it for a molecular cousin, a substitution that may either be genuinely safer or simply be too understudied to know whether it is harmful. With thousands of chemicals in use, one-by-one regulation can't keep pace, so untested replacements can slide through unchecked.",
-      "authors": "",
-      "published": "Sep 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-09-screening-flags-food-packaging-chemicals.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/researchers-build-a-ne.jpg",
       "screen": "right"
     },
     {
@@ -482,42 +482,42 @@
       "screen": "right"
     },
     {
-      "title": "C-reactive protein–triglyceride–glucose index and diabetes status for risk stratification in stage 4 cardiovascular–kidney–metabolic syndrome with acute decompensated heart failure: a retrospective cohort study",
-      "abstract": "BackgroundCardiovascular–kidney–metabolic (CKM) syndrome integrates metabolic dysfunction, kidney disease, and cardiovascular disease. In stage 4 CKM syndrome with acute decompensated heart failure (ADHF), prognosis may be influenced by dysglycaemia, triglyceride-related metabolic disturbance, systemic inflammation, and adiposity-related risk, yet risk stratification remains challenging. We evaluated whether the C-reactive protein–triglyceride–glucose index (CTI), a routinely available inflammatory-metabolic marker, refines risk stratification beyond diabetes status and related inflammatory-metabolic biomarkers in patients with stage 4 CKM syndrome and ADHF.MethodsThis single-centre retrospective cohort included 2,000 eligible patients hospitalized for ADHF with CKM stage 4. CTI was calculated as 0.412 × ln[CRP (mg/L)] + ln[TG (mg/dL) × FPG (mg/dL) / 2]. High CTI was defined using the cohort-specific upper-tertile threshold (CTI ≥ 9.50). Patients were categorized as non-DM + low CTI, non-DM + high CTI, DM + low CTI, or DM + high CTI. Outcomes were all-cause mortality and major adverse cardiac and cerebrovascular events (MACCEs).ResultsDuring a median follow-up of 532 days, 366 deaths (18.3%) and 551 MACCEs (27.6%) occurred. Compared with non-DM + low CTI, non-DM + high CTI was associated with higher risks of all-cause mortality (HR 1.54, 95% CI 1.15–2.06) and MACCEs (HR 1.37, 95% CI 1.08–1.75). DM + low CTI was not significantly associated with either outcome, whereas DM + high CTI had the highest risks of all-cause mortality (HR 1.95, 95% CI 1.47–2.58) and MACCEs (HR 1.91,…",
-      "authors": "Wei Wang, Jiaming Zhang, Miaoxin Chen et al.",
-      "published": "Sep 2026",
-      "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1903670",
-      "image": "",
-      "screen": "right"
-    },
-    {
-      "title": "Nutritional behaviors and adaptation before and after metabolic bariatric surgery: a qualitative study based on patient experiences",
-      "abstract": "BackgroundAlthough metabolic bariatric surgery is an effective treatment for obesity, qualitative evidence exploring patients’ experiences across both pre- and post-operative periods remains limited. This study aimed to examine patients’ decision-making experiences, nutritional behaviors, and perceptions of nursing care throughout this process.MethodsThis qualitative descriptive study included individuals who had undergone metabolic bariatric surgery at least 12 months previously at a private hospital in Türkiye. Data were collected through focus group discussions (FGDs) followed by individual semi-structured interviews (ISIs) to obtain both shared and in-depth individual perspectives. All FGDs and ISIs were audio-recorded and transcribed verbatim. The FGD and ISI data were initially analyzed separately using inductive qualitative content analysis and subsequently compared and integrated during the later stages of analysis. Codes were grouped into categories, subthemes, and overarching themes through an iterative coding process. The coding process was independently reviewed by a second qualitative researcher, and discrepancies were resolved through consensus.ResultsFive main themes emerged: decision-making for surgery, preoperative dietary habits, post-operative nutritional strategies, postoperative challenges, and information sharing. Participants reported that physical, psychological, and social factors influenced their decision to undergo surgery. Preoperatively, high-calorie and irregular eating patterns were common, whereas post-operative adaptation involved portion co…",
-      "authors": "Durdane Yılmaz Güven, Erkan Aksoy",
-      "published": "Sep 2026",
-      "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1866634",
-      "image": "",
-      "screen": "right"
-    },
-    {
-      "title": "Whey protein and creatine supplementation in autistic adult women: a call for sex- and age-specific research",
-      "abstract": "",
-      "authors": "Maria Lima Braga de Jesus",
-      "published": "Sep 2026",
-      "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1902181",
-      "image": "",
-      "screen": "right"
-    },
-    {
       "title": "Nutritional support for severe malnutrition in newly diagnosed Crohn’s disease: a case report",
       "abstract": "Crohn’s disease (CD) and ulcerative colitis are chronic inflammatory bowel diseases (IBDs) characterized by relapsing exacerbations related to a dysregulated immune response, resulting primarily in gastrointestinal symptoms and also frequently in signs of chronic systemic inflammation. Malnutrition is a possible complication of IBD with a prevalence ranging from 20 to 85%, varying with disease activity, location, and age, and is recognized as having a multifactorial pathogenesis. Malnutrition in patients with IBD should be diagnosed early and treated appropriately because it can heavily affect patient prognosis, including complications, hospitalization rates, mortality, and overall quality of life. Therefore, patients with IBD should be screened for malnutrition at diagnosis and regularly thereafter. Moreover, assessing micronutrient deficiencies in patients with IBD is recommended ideally during clinical and biochemical remission. We reported the case of a 56-year-old female patient admitted to our department who reported chronic diarrhea for several months, along with recurrent abdominal pain, low-grade evening fever, nausea, hyporexia, and significant involuntary weight loss, with probable sarcopenia. Iron-deficiency anemia, an elevated platelet count, elevated inflammatory markers, and some oligoelement deficiencies were observed on blood tests. A diagnosis of extensive ileo-colonic CD (A3, L3, B1 according to the Montreal classification) complicated by a perianal abscess and simple intrasphincteric fistula, requiring surgery, was made during the hospitalization. As agr…",
       "authors": "Daniele Canova, Linda Cingolani, Gessica Schiavo",
       "published": "Sep 2026",
       "feedName": "Frontiers Nutrition",
       "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1922931",
+      "image": "",
+      "screen": "right"
+    },
+    {
+      "title": "Knowledge structure, latent topics, and emerging trends in quercetin-immunity research from 2006 to 2025: a bibliometric and LDA topic-modeling analysis",
+      "abstract": "ObjectiveQuercetin is a representative flavonol at the interface of natural-product pharmacology, nutrition, and immune regulation, with reported anti-inflammatory, antioxidant, antiviral, antiallergic, antitumor, and metabolic activities. This systematic mapping review aimed to characterize the publication trajectory, knowledge structure, latent themes, and emerging frontiers of quercetin-immunity research from 2006 to 2025.MethodsEnglish-language original articles and reviews published from January 1, 2006 to December 31, 2025 were retrieved from the Web of Science Core Collection, Scopus, and PubMed. Following harmonized eligibility reassessment, field standardization, and cross-database deduplication, bibliometric analysis, science mapping, keyword co-occurrence, temporal and burst analyses, thematic maturity assessment, citation and co-citation analyses, and latent Dirichlet allocation (LDA) topic modeling were integrated to examine the explicit and latent knowledge structures. Mapping-level risk of bias was qualitatively assessed.ResultsThe searches yielded 15,938 raw records, of which 10,619 unique publications were included, comprising 7,754 original articles and 2,865 reviews. Of these, 6,440 publications appeared during 2021–2025, accounting for 60.65% of the dataset and demonstrating rapid growth. The field spanned natural products, pharmacology, molecular biology, nutrition, and immunology, with China, India, and the United States as the leading contributors. Stable mechanistic terms included oxidative stress, inflammation, signal transduction, apoptosis, NF-κB,…",
+      "authors": "Congcong Qin, Weiwei Wang, Yuqing Li et al.",
+      "published": "Sep 2026",
+      "feedName": "Frontiers Nutrition",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1932000",
+      "image": "",
+      "screen": "right"
+    },
+    {
+      "title": "Phase angle as a potential marker of early nutritional and metabolic changes following metabolic bariatric surgery: a retrospective study",
+      "abstract": "BackgroundThe phase angle (PhA) is associated with nutritional status and serves as a marker of cellular and overall health. The aim of this study is to evaluate changes in PhA during the early postoperative period (6 months) in patients undergoing metabolic bariatric surgery (MBS), and to identify potential factors correlated with these changes.MethodsThis retrospective study included 120 patients who underwent MBS (Sleeve Gastrectomy, n = 6; Transit Bipartition, n = 114). Biochemical parameters and anthropometric measurements were collected at four time points: preoperatively and at the 1st, 3rd, and 6th postoperative month follow-up visits.ResultsPhA values at 1-, 3-, and 6-months postoperatively were significantly lower than preoperative values (p < 0.05). PhA was inversely correlated with body mass index (BMI), fat mass, and fat percentage, and positively correlated with muscle mass, fat-free mass (FFM), and total body water (TBW) (p < 0.001). Among these, fat mass showed the strongest negative correlation, while TBW exhibited the strongest positive correlation across all time periods. A significant negative correlation was observed between the amount of change in PhA at 6 months and age (r = −0.283, p = 0.002), while height was positively correlated with the change in PhA at 6 months (r = 0.261, p = 0.004). Ferritin (r = −0.358, p < 0.001) and vitamin D levels (r = −0.234, p = 0.010) were both negatively correlated with the amount of change in PhA at 6 months. In multivariate linear regression analysis adjusting for age, sex, and BMI, vitamin D, and excess weight loss…",
+      "authors": "Elif Mizrak, Halime Pulat Demir",
+      "published": "Sep 2026",
+      "feedName": "Frontiers Nutrition",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1853597",
+      "image": "",
+      "screen": "right"
+    },
+    {
+      "title": "AI virtual streamers in sustainable food marketing: how expertise, interactivity, and anthropomorphism shape consumer acceptance of upcycled foods",
+      "abstract": "PurposeDrawing on the stimulus–organism–response (SOR) framework, this study examines how AI virtual streamer expertise, interactivity, and anthropomorphism influence consumers’ purchase intention through perceived value and product trust.MethodsA three-wave time-lagged survey was conducted among adult consumers in China. After data screening and anonymous matching across the three waves, 392 valid responses were retained. Structural equation modeling and bootstrap analysis were used to test the hypothesized relationships and indirect effects.ResultsExpertise and interactivity were positively associated with both perceived value and product trust. Anthropomorphism was positively associated with product trust, but its relationship with perceived value was not significant. Perceived value and product trust both positively predicted purchase intention. The mediation analysis showed that perceived value mediated the relationships of expertise and interactivity with purchase intention, but did not mediate the effect of anthropomorphism. Product trust mediated the relationships between all three AI virtual streamer characteristics and purchase intention.ConclusionAI virtual streamer characteristics influence consumer acceptance of upcycled foods through different psychological pathways. Expertise and interactivity strengthen both perceived value and product trust, whereas anthropomorphism mainly supports trust formation. These findings clarify the distinct roles of AI communication cues and highlight the importance of combining clear product information, responsive interaction, a…",
+      "authors": "Liang Shan, Yunhao Zhang, Yuguang Ma et al.",
+      "published": "Sep 2026",
+      "feedName": "Frontiers Nutrition",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1903565",
       "image": "",
       "screen": "right"
     },

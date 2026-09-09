@@ -1,6 +1,16 @@
 {
-  "updated": "2026-09-09T18:57:12Z",
+  "updated": "2026-09-09T22:08:19Z",
   "items": [
+    {
+      "title": "Food social security as a new proposal to reshape the food system",
+      "abstract": "A bold proposal to re-embed food systems under democratic control, and within planetary boundaries, uses a long tradition of social security in francophone Europe. Beginning as a grassroots initiative, food social security and the right to food have since made parliamentary advances in France, Belgium and Switzerland, while a first pilot now runs in Spain. The proposal offers lessons for food system reform well beyond Europe.",
+      "authors": "Raj Patel, Gaëtan Vanloqueren",
+      "published": "Sep 2026",
+      "feedName": "Nature Food",
+      "url": "https://www.nature.com/articles/s43016-026-01426-w",
+      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs43016-026-01426-w/MediaObjects/43016_2026_1426_Fig1_HTML.png",
+      "screen": "left"
+    },
     {
       "title": "A systematic review of the climatic impacts, diverse adaptation pathways and multiple adaptation barriers for inland aquaculture",
       "abstract": "Inland aquaculture faces varied climate impacts. This systematic review identifies 53 adaptation options and 17 barriers, highlighting the need for tailored strategies, policy coherence, better information sharing and increased financial investment.",
@@ -29,16 +39,6 @@
       "feedName": "Nature Food",
       "url": "https://www.nature.com/articles/s43016-026-01408-y",
       "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs43016-026-01408-y/MediaObjects/43016_2026_1408_Fig1_HTML.png",
-      "screen": "left"
-    },
-    {
-      "title": "Equitable fortification programmes require matching needs and consumption",
-      "abstract": "Large-scale food fortification can be an effective strategy to address hidden hunger, but only if vulnerable populations actually eat the fortified foods. A systemic framework using publicly available data from ten West African countries reveals that a wider mix of fortified foods than are currently considered for fortification is needed for building more equitable programmes.",
-      "authors": "Katherine P. Adams",
-      "published": "Sep 2026",
-      "feedName": "Nature Food",
-      "url": "https://www.nature.com/articles/s43016-026-01421-1",
-      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs43016-026-01421-1/MediaObjects/43016_2026_1421_Fig1_HTML.png",
       "screen": "left"
     },
     {
@@ -282,6 +282,26 @@
       "screen": "left"
     },
     {
+      "title": "Micro- and nanoplastics in food and water from farm-to-fork: exposure pathways, human biomonitoring and AI-enhanced detection – a systematic review",
+      "abstract": "",
+      "authors": "Orlagh Gormley, Awanwee Petchkongkaew, Sasitorn Aueviriyavit et al.",
+      "published": "Sep 2026",
+      "feedName": "npj Science of Food",
+      "url": "https://www.nature.com/articles/s41538-026-01054-5",
+      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01054-5/MediaObjects/41538_2026_1054_Fig1_HTML.png",
+      "screen": "left"
+    },
+    {
+      "title": "Flood-wildfire co-occurrence risks disrupt global staple food trade and erode SDG progress",
+      "abstract": "",
+      "authors": "Songhua Huan, Chiwei Xiao, Zhiming Feng et al.",
+      "published": "Sep 2026",
+      "feedName": "npj Science of Food",
+      "url": "https://www.nature.com/articles/s41538-026-01111-z",
+      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01111-z/MediaObjects/41538_2026_1111_Fig1_HTML.png",
+      "screen": "left"
+    },
+    {
       "title": "Insights into the degradation mechanism of aflatoxin in food matrix via micro-nano bubble-coupled ozone technology",
       "abstract": "",
       "authors": "Fei Ma, Yajie He, Li Yu et al.",
@@ -299,26 +319,6 @@
       "feedName": "npj Science of Food",
       "url": "https://www.nature.com/articles/s41538-026-01075-0",
       "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01075-0/MediaObjects/41538_2026_1075_Fig1_HTML.png",
-      "screen": "left"
-    },
-    {
-      "title": "Intelligent discovery and precision regulation of taste peptides: a systematic review from taste mechanisms to health applications",
-      "abstract": "",
-      "authors": "Yixuan Cui, Weixi Yang, Kangli Guo et al.",
-      "published": "Sep 2026",
-      "feedName": "npj Science of Food",
-      "url": "https://www.nature.com/articles/s41538-026-01100-2",
-      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01100-2/MediaObjects/41538_2026_1100_Fig1_HTML.png",
-      "screen": "left"
-    },
-    {
-      "title": "Bacterial adaptation to essential oils and their main compounds in food systems: mechanisms related to antibacterial resistance",
-      "abstract": "",
-      "authors": "Rim Rais, Nadia Ziyate, Hiba Mahir et al.",
-      "published": "Sep 2026",
-      "feedName": "npj Science of Food",
-      "url": "https://www.nature.com/articles/s41538-026-01119-5",
-      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01119-5/MediaObjects/41538_2026_1119_Fig1_HTML.png",
       "screen": "left"
     },
     {
@@ -362,43 +362,43 @@
       "screen": "left"
     },
     {
-      "title": "Soft X-ray absorption spectroscopy of organic molecules in organic solvents for applying organic reactions",
-      "abstract": "In research published in the journal Physical Chemistry Chemical Physics, the electronic structures of organic molecules containing sp2-hybridized carbons in organic solvents were studied using C K-edge X-ray absorption spectroscopy (XAS), termed \"Soft-XAS-OS.\"",
+      "title": "Molecular antennae make light-activated molecular switches more sensitive",
+      "abstract": "From targeted cancer treatments to self-healing materials and microscopic robots, many emerging technologies depend on molecules that can be controlled with light. Researchers at Tohoku University have now developed a way to make these light-responsive molecules much more sensitive to visible light by using a molecular antenna. The breakthrough gives scientists better control over molecular photoswitches remotely and potentially expands their use in medicine and advanced materials. The findings are published in the Journal of the American Chemical Society.",
       "authors": "",
       "published": "Sep 2026",
       "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-09-soft-ray-absorption-spectroscopy-molecules.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/soft-x-ray-absorption.jpg",
+      "url": "https://phys.org/news/2026-09-molecular-antennae-sensitive.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/molecular-antennae-mak.jpg",
       "screen": "right"
     },
     {
-      "title": "Tiny molecular rings open new ways for designing better medicines",
-      "abstract": "Cyclopropanes are organic chemistry's smallest rings. Three carbon atoms are joined in a triangle, creating a compact and unusually strained structure. Despite—or partly because of—this unusual geometry, cyclopropanes are found in many biologically active natural products and have important applications in medicines and drug discovery, from antidepressants to antibiotics and antiviral research.",
+      "title": "Terbium's elusive plus-4 form emerges under ordinary lab conditions, opening possibilities for rare-earth metals",
+      "abstract": "Chemists in a new study led by the University of Iowa report they have isolated and described in detail an atypical state of the rare-earth metal terbium, an advance that could expand its use in quantum technologies, including computing and advanced sensors. The study, \"Structural and spectroscopic characterization of a Tb(IV) polyoxometalate,\" is published in the journal Nature Communications.",
       "authors": "",
       "published": "Sep 2026",
       "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-09-tiny-molecular-ways-medicines.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/tiny-molecular-rings-o.jpg",
+      "url": "https://phys.org/news/2026-09-terbium-elusive-emerges-ordinary-lab.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/chemists-unlock-new-po.jpg",
       "screen": "right"
     },
     {
-      "title": "A crystalline sponge reveals structures of large 'beyond rule of 5' molecules",
-      "abstract": "Drug discovery has traditionally followed the \"rule of 5,\" which identifies chemical properties generally associated with good absorption of orally administered drugs, including a molecular weight below 500 daltons (Da). However, some pharmaceutical compounds fall outside these guidelines. Known as beyond rule of 5 (bRo5) molecules, these compounds can have larger, more complex structures while still exhibiting strong therapeutic activity and favorable pharmacological properties. Their size and structural complexity, however, make it difficult to characterize them using conventional methods, particularly when very small quantities are available.",
+      "title": "Electrochemical system extracts pure hydrogen from ammonia at substantially lower temperatures",
+      "abstract": "As a liquid that is easily stored and transported, ammonia (NH3) is an attractive carrier for hydrogen, which is used in fuel cells, semiconductor manufacturing, chemical processing and other applications. However, breaking ammonia into hydrogen and nitrogen typically requires high temperatures, and the resulting gas mixture must undergo additional purification before the hydrogen can be used in many applications.",
       "authors": "",
       "published": "Sep 2026",
       "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-09-crystalline-sponge-reveals-large-molecules.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/a-crystalline-sponge-f.jpg",
+      "url": "https://phys.org/news/2026-09-electrochemical-pure-hydrogen-ammonia-substantially.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/electrochemical-system.jpg",
       "screen": "right"
     },
     {
-      "title": "New way to harness copper makes antibiotic-resistant bacteria and cancer cells more vulnerable",
-      "abstract": "University of Missouri researchers have discovered a new way to harness one of the body's natural defenses: copper. While copper is essential for life and helps power important biological processes, having too much of it can be toxic. To keep copper levels in balance, cells rely on specialized proteins that regulate where it goes and how much is present.",
+      "title": "Five‑metal alloy: Scientists create ultra‑stable catalyst for fuel cells",
+      "abstract": "Hydrogen-powered cars, power stations and portable chargers all rely on fuel cells. At the heart of each fuel cell is a catalyst that speeds up the reaction between hydrogen and oxygen to produce electricity and water. These catalysts are typically made of platinum—which costs nearly as much as gold. Researchers from Southern Federal University, together with colleagues from Skoltech (part of the VEB.RF Group), the Institute of Catalysis of the Siberian Branch of the Russian Academy of Sciences, and Bauman Moscow State Technical University, have found a way to make this key component both cheaper and better. They developed a catalyst from a five-metal alloy that retains its activity even after 10,000 operating cycles.",
       "authors": "",
       "published": "Sep 2026",
       "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-09-harness-copper-antibiotic-resistant-bacteria.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/mizzou-researchers-unl.jpg",
+      "url": "https://phys.org/news/2026-09-fivemetal-alloy-scientists-ultrastable-catalyst.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/fivemetal-alloy-russia.jpg",
       "screen": "right"
     },
     {

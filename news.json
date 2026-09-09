@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-08T23:46:09Z",
+  "updated": "2026-09-09T02:14:47Z",
   "items": [
     {
       "title": "A systematic review of the climatic impacts, diverse adaptation pathways and multiple adaptation barriers for inland aquaculture",
@@ -282,6 +282,16 @@
       "screen": "left"
     },
     {
+      "title": "Insights into the degradation mechanism of aflatoxin in food matrix via micro-nano bubble-coupled ozone technology",
+      "abstract": "",
+      "authors": "Fei Ma, Yajie He, Li Yu et al.",
+      "published": "Sep 2026",
+      "feedName": "npj Science of Food",
+      "url": "https://www.nature.com/articles/s41538-026-01129-3",
+      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01129-3/MediaObjects/41538_2026_1129_Fig1_HTML.png",
+      "screen": "left"
+    },
+    {
       "title": "Blood pressure-lowering effects of Persea americana and Vigna cylindrica leaf concoction in 2-kidney, 1-clip hypertensive rats",
       "abstract": "",
       "authors": "Nuriza Ulul Azmi, Nur Hasanah, Rafiqah Nur Viviani et al.",
@@ -309,16 +319,6 @@
       "feedName": "npj Science of Food",
       "url": "https://www.nature.com/articles/s41538-026-01119-5",
       "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01119-5/MediaObjects/41538_2026_1119_Fig1_HTML.png",
-      "screen": "left"
-    },
-    {
-      "title": "Flavor quality evaluation and discrimination of regional tea ( Camellia sinensis L.) based on metabolomics, volatileomics, and machine learning",
-      "abstract": "",
-      "authors": "Chenyang Ma, Fang Dong, Zhitong Zhu et al.",
-      "published": "Sep 2026",
-      "feedName": "npj Science of Food",
-      "url": "https://www.nature.com/articles/s41538-026-01139-1",
-      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01139-1/MediaObjects/41538_2026_1139_Fig1_HTML.png",
       "screen": "left"
     },
     {

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-09T14:04:11Z",
+  "updated": "2026-09-09T18:57:12Z",
   "items": [
     {
       "title": "A systematic review of the climatic impacts, diverse adaptation pathways and multiple adaptation barriers for inland aquaculture",
@@ -482,26 +482,6 @@
       "screen": "right"
     },
     {
-      "title": "Nutritional support for severe malnutrition in newly diagnosed Crohn’s disease: a case report",
-      "abstract": "Crohn’s disease (CD) and ulcerative colitis are chronic inflammatory bowel diseases (IBDs) characterized by relapsing exacerbations related to a dysregulated immune response, resulting primarily in gastrointestinal symptoms and also frequently in signs of chronic systemic inflammation. Malnutrition is a possible complication of IBD with a prevalence ranging from 20 to 85%, varying with disease activity, location, and age, and is recognized as having a multifactorial pathogenesis. Malnutrition in patients with IBD should be diagnosed early and treated appropriately because it can heavily affect patient prognosis, including complications, hospitalization rates, mortality, and overall quality of life. Therefore, patients with IBD should be screened for malnutrition at diagnosis and regularly thereafter. Moreover, assessing micronutrient deficiencies in patients with IBD is recommended ideally during clinical and biochemical remission. We reported the case of a 56-year-old female patient admitted to our department who reported chronic diarrhea for several months, along with recurrent abdominal pain, low-grade evening fever, nausea, hyporexia, and significant involuntary weight loss, with probable sarcopenia. Iron-deficiency anemia, an elevated platelet count, elevated inflammatory markers, and some oligoelement deficiencies were observed on blood tests. A diagnosis of extensive ileo-colonic CD (A3, L3, B1 according to the Montreal classification) complicated by a perianal abscess and simple intrasphincteric fistula, requiring surgery, was made during the hospitalization. As agr…",
-      "authors": "Daniele Canova, Linda Cingolani, Gessica Schiavo",
-      "published": "Sep 2026",
-      "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1922931",
-      "image": "",
-      "screen": "right"
-    },
-    {
-      "title": "Knowledge structure, latent topics, and emerging trends in quercetin-immunity research from 2006 to 2025: a bibliometric and LDA topic-modeling analysis",
-      "abstract": "ObjectiveQuercetin is a representative flavonol at the interface of natural-product pharmacology, nutrition, and immune regulation, with reported anti-inflammatory, antioxidant, antiviral, antiallergic, antitumor, and metabolic activities. This systematic mapping review aimed to characterize the publication trajectory, knowledge structure, latent themes, and emerging frontiers of quercetin-immunity research from 2006 to 2025.MethodsEnglish-language original articles and reviews published from January 1, 2006 to December 31, 2025 were retrieved from the Web of Science Core Collection, Scopus, and PubMed. Following harmonized eligibility reassessment, field standardization, and cross-database deduplication, bibliometric analysis, science mapping, keyword co-occurrence, temporal and burst analyses, thematic maturity assessment, citation and co-citation analyses, and latent Dirichlet allocation (LDA) topic modeling were integrated to examine the explicit and latent knowledge structures. Mapping-level risk of bias was qualitatively assessed.ResultsThe searches yielded 15,938 raw records, of which 10,619 unique publications were included, comprising 7,754 original articles and 2,865 reviews. Of these, 6,440 publications appeared during 2021–2025, accounting for 60.65% of the dataset and demonstrating rapid growth. The field spanned natural products, pharmacology, molecular biology, nutrition, and immunology, with China, India, and the United States as the leading contributors. Stable mechanistic terms included oxidative stress, inflammation, signal transduction, apoptosis, NF-κB,…",
-      "authors": "Congcong Qin, Weiwei Wang, Yuqing Li et al.",
-      "published": "Sep 2026",
-      "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1932000",
-      "image": "",
-      "screen": "right"
-    },
-    {
       "title": "Phase angle as a potential marker of early nutritional and metabolic changes following metabolic bariatric surgery: a retrospective study",
       "abstract": "BackgroundThe phase angle (PhA) is associated with nutritional status and serves as a marker of cellular and overall health. The aim of this study is to evaluate changes in PhA during the early postoperative period (6 months) in patients undergoing metabolic bariatric surgery (MBS), and to identify potential factors correlated with these changes.MethodsThis retrospective study included 120 patients who underwent MBS (Sleeve Gastrectomy, n = 6; Transit Bipartition, n = 114). Biochemical parameters and anthropometric measurements were collected at four time points: preoperatively and at the 1st, 3rd, and 6th postoperative month follow-up visits.ResultsPhA values at 1-, 3-, and 6-months postoperatively were significantly lower than preoperative values (p < 0.05). PhA was inversely correlated with body mass index (BMI), fat mass, and fat percentage, and positively correlated with muscle mass, fat-free mass (FFM), and total body water (TBW) (p < 0.001). Among these, fat mass showed the strongest negative correlation, while TBW exhibited the strongest positive correlation across all time periods. A significant negative correlation was observed between the amount of change in PhA at 6 months and age (r = −0.283, p = 0.002), while height was positively correlated with the change in PhA at 6 months (r = 0.261, p = 0.004). Ferritin (r = −0.358, p < 0.001) and vitamin D levels (r = −0.234, p = 0.010) were both negatively correlated with the amount of change in PhA at 6 months. In multivariate linear regression analysis adjusting for age, sex, and BMI, vitamin D, and excess weight loss…",
       "authors": "Elif Mizrak, Halime Pulat Demir",
@@ -512,12 +492,32 @@
       "screen": "right"
     },
     {
-      "title": "AI virtual streamers in sustainable food marketing: how expertise, interactivity, and anthropomorphism shape consumer acceptance of upcycled foods",
-      "abstract": "PurposeDrawing on the stimulus–organism–response (SOR) framework, this study examines how AI virtual streamer expertise, interactivity, and anthropomorphism influence consumers’ purchase intention through perceived value and product trust.MethodsA three-wave time-lagged survey was conducted among adult consumers in China. After data screening and anonymous matching across the three waves, 392 valid responses were retained. Structural equation modeling and bootstrap analysis were used to test the hypothesized relationships and indirect effects.ResultsExpertise and interactivity were positively associated with both perceived value and product trust. Anthropomorphism was positively associated with product trust, but its relationship with perceived value was not significant. Perceived value and product trust both positively predicted purchase intention. The mediation analysis showed that perceived value mediated the relationships of expertise and interactivity with purchase intention, but did not mediate the effect of anthropomorphism. Product trust mediated the relationships between all three AI virtual streamer characteristics and purchase intention.ConclusionAI virtual streamer characteristics influence consumer acceptance of upcycled foods through different psychological pathways. Expertise and interactivity strengthen both perceived value and product trust, whereas anthropomorphism mainly supports trust formation. These findings clarify the distinct roles of AI communication cues and highlight the importance of combining clear product information, responsive interaction, a…",
-      "authors": "Liang Shan, Yunhao Zhang, Yuguang Ma et al.",
+      "title": "Effects of acute or short-term oral sodium bicarbonate supplementation on high-intensity intermittent exercise performance and physiological responses in team-sport athletes: a systematic review and meta-analysis",
+      "abstract": "BackgroundSodium bicarbonate (NaHCO3) ingestion can induce extracellular alkalosis, but its effects on high-intensity intermittent exercise (HIIE) performance in team sports remain unclear. This study evaluated the effects of acute or short-term NaHCO3 ingestion on HIIE performance and physiological responses in team-sport athletes.MethodsThis systematic review followed the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) 2020 statement. Six databases were searched from inception for randomized controlled trials, with the final search conducted on July 26, 2026. HIIE performance outcomes were synthesized using a covariance-adjusted three-level random-effects meta-analysis, whereas blood lactate, bicarbonate (HCO3-), and pH were analyzed separately using two-level random-effects models. Subgroup, meta-regression, and sensitivity analyses were conducted. Risk of bias was assessed using the Cochrane Risk of Bias 2 (RoB 2) tool, and certainty of evidence was evaluated using the Grading of Recommendations Assessment, Development and Evaluation (GRADE) approach.ResultsTwenty studies involving 241 athletes contributed 53 performance effect sizes. NaHCO3 ingestion had a small beneficial effect on HIIE performance (Hedges' g = 0.23, 95% CI: 0.07 to 0.39, P = 0.008; 95% PI: −0.22 to 0.68; I2 = 37.36%). No clear effects were identified for repeated-sprint performance, mean power, intermittent endurance, or work capacity, and neither subgroup analyses nor meta-regression identified significant moderating effects of sex, dose, ingestion frequency, formulation,…",
+      "authors": "Xiuguo Ge, Haoyu Sun, Chuyang Wu et al.",
       "published": "Sep 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1903565",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1936178",
+      "image": "",
+      "screen": "right"
+    },
+    {
+      "title": "Combined Inflammatory Burden Index and hand grip strength for prognostic assessment in gastric cancer patients: a multicenter cohort study",
+      "abstract": "BackgroundGastric cancer (GC) is associated with heterogeneous prognosis, and individual inflammatory or nutritional markers have limited predictive value. This study aimed to develop and evaluate a novel grading system integrating the Inflammatory Burden Index (IBI) and handgrip strength (HGS) for prognostic assessment in GC.MethodsKaplan–Meier curves and log-rank tests were used for survival comparisons. Multivariate Cox and logistic regression analyses were performed to evaluate the independent associations between the IBI-HGS grade and overall survival (OS) as well as severe malnutrition. Sensitivity analyses excluding early deaths were conducted to assess the robustness of the results.ResultsThis multicenter retrospective cohort study included 1,052 GC patients. During a median follow-up duration of 20.75 months, 455 deaths occurred. A three-tier IBI-HGS grade (low-, medium-, and high-risk) was established by combining IBI and HGS. Kaplan–Meier analysis demonstrated significant differences in OS among the IBI-HGS grades: 67.9% in the low-risk group, 58.4% in the medium-risk group, and 44.9% in the high-risk group (log-rank p < 0.001). Multivariate Cox regression analysis showed that the medium-risk grade was associated with a 69.1% higher risk of mortality (HR = 1.691, 95% CIs: 1.323–2.162, p < 0.001), while the high-risk grade was associated with a 123.0% increased risk (HR = 2.230, 95% CI: 1.690–2.942, p < 0.001). Multivariate logistic regression analysis confirmed that the medium-risk grade was associated with a 56.2% higher risk of severe malnutrition (OR = 1.562, …",
+      "authors": "Fuquan Yang, Xinyi Wang, Lishuang Wei et al.",
+      "published": "Sep 2026",
+      "feedName": "Frontiers Nutrition",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1906113",
+      "image": "",
+      "screen": "right"
+    },
+    {
+      "title": "Metabolic syndrome, its components, and their association with dietary patterns among early adolescents in Sudan",
+      "abstract": "BackgroundThe prevalence of global metabolic syndrome (MetS) is increasing alongside childhood obesity, and diet plays an important role in metabolic health.ObjectiveThis study examined MetS, its components, and dietary pattern associations among Sudanese early adolescents aged 10–15 years (N = 921).MethodsIn this cross-sectional study conducted in 2018–2019, dietary intake was assessed using a food frequency questionnaire; dietary patterns were derived by principal component analysis; and associations with MetS components and weight status were examined using the multiple linear regression analysis.ResultsThree patterns emerged: starchy/animal-origin (starchy foods, fish, chicken, eggs, milk/dairy, meat), Western (fast/fried foods, snacks, soda drinks, sweets), and plant-based (legumes, vegetables, fruits, fresh juices) food patterns. Starchy/animal-origin and Western patterns were positively associated with weight status, and the plant-based pattern was inversely associated with weight status (all p < 0.01). After adjusting for gender, residence, age, and parental education, the starchy/animal-origin pattern was associated with greater waist circumference (WC; B = 2.05, 95% CI: 1.50, 2.60, p < 0.01) and higher systolic blood pressure (SBP; B = 0.62, 95% CI: 0.03, 1.21, p = 0.038). The Western pattern was associated with lower WC (B = −0.84, 95% CI: −1.52, −0.15, p = 0.016), whereas the plant-based pattern was associated with lower WC (B = −2.70, 95% CI: −3.28, −2.14, p < 0.01), lower SBP (B = −1.14, 95% CI: −1.75, −0.53, p < 0.01), and lower diastolic blood pressure (B = …",
+      "authors": "Fatima A. Elfaki, Aziza I. G. Mukhayer, Mohamed E. Moukhyer et al.",
+      "published": "Sep 2026",
+      "feedName": "Frontiers Nutrition",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1939035",
       "image": "",
       "screen": "right"
     },
@@ -748,8 +748,8 @@
       "published": "2024",
       "venue": "Toxins",
       "feedName": "Lab Research",
-      "citationCount": 18,
-      "recentCitations": 1,
+      "citationCount": 19,
+      "recentCitations": 2,
       "quartile": null,
       "s2_paper_id": "e6a6854e55ee8f5a8ace3025ba0d32e33a650343",
       "url": "https://doi.org/10.3390/toxins16030163",

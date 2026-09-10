@@ -1,6 +1,26 @@
 {
-  "updated": "2026-09-10T17:32:58Z",
+  "updated": "2026-09-10T20:16:43Z",
   "items": [
+    {
+      "title": "Author Correction: Governance and resilience as entry points for transforming food systems in the countdown to 2030",
+      "abstract": "",
+      "authors": "Kate R. Schneider, Roseline Remans, Tesfaye Hailu Bekele et al.",
+      "published": "Sep 2026",
+      "feedName": "Nature Food",
+      "url": "https://www.nature.com/articles/s43016-026-01438-6",
+      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs43016-026-01438-6/MediaObjects/43016_2026_1438_Fig1_HTML.png",
+      "screen": "left"
+    },
+    {
+      "title": "Remote sensing, fairness and institutional capacity in European agricultural governance",
+      "abstract": "Institutional and structural barriers limit the effective use of remote sensing in European Union agricultural governance, constraining its potential to enable fair, resilient and environmentally sound farming practices. We outline financial, academic and policy reforms to address these barriers, linking satellite observation with local knowledge systems and institutional accountability.",
+      "authors": "Yeying Zhou, Andrea Fiorini, Michele Croci et al.",
+      "published": "Sep 2026",
+      "feedName": "Nature Food",
+      "url": "https://www.nature.com/articles/s43016-026-01427-9",
+      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs43016-026-01427-9/MediaObjects/43016_2026_1427_Fig1_HTML.png",
+      "screen": "left"
+    },
     {
       "title": "Food social security as a new proposal to reshape the food system",
       "abstract": "A bold proposal to re-embed food systems under democratic control, and within planetary boundaries, uses a long tradition of social security in francophone Europe. Beginning as a grassroots initiative, food social security and the right to food have since made parliamentary advances in France, Belgium and Switzerland, while a first pilot now runs in Spain. The proposal offers lessons for food system reform well beyond Europe.",
@@ -19,26 +39,6 @@
       "feedName": "Nature Food",
       "url": "https://www.nature.com/articles/s43016-026-01410-4",
       "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs43016-026-01410-4/MediaObjects/43016_2026_1410_Fig1_HTML.png",
-      "screen": "left"
-    },
-    {
-      "title": "Interrupted salt iodization harmed child health and education in Ethiopia",
-      "abstract": "Ethiopia’s iodized salt supply was cut off in May 1998, limiting intake to the iodine levels in local foods. We found a significant drop in child survival and academic achievement, especially in rural districts with lower environmental iodine concentrations. Placebo tests confirm that losses were caused by a lack of iodine.",
-      "authors": "",
-      "published": "Sep 2026",
-      "feedName": "Nature Food",
-      "url": "https://www.nature.com/articles/s43016-026-01415-z",
-      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs43016-026-01415-z/MediaObjects/43016_2026_1415_Fig1_HTML.png",
-      "screen": "left"
-    },
-    {
-      "title": "Loss of salt iodization harmed child survival and academic achievement in Ethiopia",
-      "abstract": "This study examines the effects of early-life iodine deficiency on health and educational outcomes following the war-induced disruption of Ethiopia’s salt iodization programme in the late 1990s. Using a quasi-experimental design, it finds that early-life iodine deficiency is associated with higher early-childhood mortality and lower performance on standardized secondary-school exams among rural children.",
-      "authors": "Robel Alemu, Kibrom Tafere, Dawd Gashu et al.",
-      "published": "Sep 2026",
-      "feedName": "Nature Food",
-      "url": "https://www.nature.com/articles/s43016-026-01408-y",
-      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs43016-026-01408-y/MediaObjects/43016_2026_1408_Fig1_HTML.png",
       "screen": "left"
     },
     {
@@ -362,6 +362,16 @@
       "screen": "left"
     },
     {
+      "title": "What small insects can tell us about ancient textiles",
+      "abstract": "Anna Sheinberg, Ph.D. candidate in chemistry, is working with fellow researchers in Trinity College's Chemistry Department and at the Nasher Museum of Art to uncover new information about some of the ancient dyed textiles in the Nasher's collection.",
+      "authors": "",
+      "published": "Sep 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-09-small-insects-ancient-textiles.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/close-up-of-hands-pick.jpg",
+      "screen": "right"
+    },
+    {
       "title": "X-ray photoelectron spectroscopy reveals the surface chemistry of bio-based hybrid materials",
       "abstract": "Just a few atomic layers at the surface can strongly influence how effectively a material binds pollutants from water or how efficiently a photocatalyst responds to light. Researchers at the Fraunhofer Institute for Applied Polymer Research IAP use X-ray photoelectron spectroscopy (XPS) to investigate the chemical states and interactions at the surfaces and interfaces of bio-based carbon materials and organic-inorganic hybrid materials. Their insights can support the targeted development of functional materials for future industrial applications.",
       "authors": "",
@@ -389,16 +399,6 @@
       "feedName": "Phys.org Analytics",
       "url": "https://phys.org/news/2026-09-terbium-elusive-emerges-ordinary-lab.html",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/chemists-unlock-new-po.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "Electrochemical system extracts pure hydrogen from ammonia at substantially lower temperatures",
-      "abstract": "As a liquid that is easily stored and transported, ammonia (NH3) is an attractive carrier for hydrogen, which is used in fuel cells, semiconductor manufacturing, chemical processing and other applications. However, breaking ammonia into hydrogen and nitrogen typically requires high temperatures, and the resulting gas mixture must undergo additional purification before the hydrogen can be used in many applications.",
-      "authors": "",
-      "published": "Sep 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-09-electrochemical-pure-hydrogen-ammonia-substantially.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/electrochemical-system.jpg",
       "screen": "right"
     },
     {
@@ -629,7 +629,7 @@
       "venue": "Soil Science Annual",
       "feedName": "Lab Research",
       "citationCount": 9,
-      "recentCitations": 0,
+      "recentCitations": 2,
       "quartile": null,
       "s2_paper_id": "8aa653c59706d0f1e9269886f0967e540b52e7f0",
       "url": "https://doi.org/10.37501/soilsa/183903",

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-09T22:08:19Z",
+  "updated": "2026-09-10T02:12:50Z",
   "items": [
     {
       "title": "Food social security as a new proposal to reshape the food system",
@@ -222,22 +222,22 @@
       "screen": "left"
     },
     {
-      "title": "Formulation and in vitro prospectus of probiotics, beetroot, and vitamin B12 encapsulated in alginate beads",
-      "abstract": "IntroductionThe current research aims to design and develop encapsulated beads (Ebs) loaded with Lactobacillus reuteri (L. reuteri), beetroot, and Vitamin B12.MethodsThe Ebs were prepared using the ionic gelation method and optimized via factorial design. The prepared Ebs were optimized for their particle size, drug entrapment efficiency, and structural analysis. Moreover, the Ebs were evaluated for their drug release under gastric and intestinal conditions.Results and DiscussionThe particle size of Ebs ranges from 1.15 to 1.20 mm. The % drug entrapment for Vitamin B12, Beetroot, and L. reuteri were 97.09% ± 3.25%, 87.9% ± 5.85%, and 87.5% ± 4.97%, respectively. The viability of L. reuteri in Ebs was 4.2 × 108 Cfu/g. SEM images revealed round-shaped Ebs. FTIR spectra revealed the successful incorporation of drugs within the Ebs. The cumulative release of Vitamin B12, Beetroot, and L. reuteri from Ebs was 87.02% ± 5.67%, 78.4% ± 7.87%, and 87.5% ± 6.68%, respectively, over 24 h, indicating sustained release profiles. In contrast, the marketed sublingual formulation of Vitamin B12 showed a rapid release of 70.23% ± 5.68%, within 2 h. Results confirm the successful preparation and optimization of L. reuteri- Vitamin B12 and beetroot-loaded Ebs, which may be a promising approach to addressing Vitamin B12 deficiency.",
-      "authors": "Tanhid Mansuri, Rajesh Hadia, Annu et al.",
-      "published": "Sep 2026",
-      "feedName": "Frontiers Food Science",
-      "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.1850082",
-      "image": "",
-      "screen": "left"
-    },
-    {
       "title": "Reliable food safety risk assessment via calibrated Mondrian conformal prediction: a machine learning framework with uncertainty quantification",
       "abstract": "IntroductionFood safety risk assessment requires predictive models that not only achieve high accuracy but also provide reliable uncertainty quantification to support regulatory decision-making. This study presents a comprehensive machine learning framework that integrates Mondrian conformal prediction with post hoc probability calibration for food safety risk classification using the Rapid Alert System for Food and Feed (RASFF) database. The task is framed as a binary classification problem, predicting whether an RASFF notification is serious or not.MethodsThe proposed framework addresses three critical challenges in food safety prediction: class imbalance handling through the synthetic minority oversampling technique (SMOTE) combined with class weighting, probability miscalibration correction via Platt scaling, and distribution-free uncertainty quantification through group-conditional conformal prediction. The framework was evaluated on 22,643 RASFF notifications from 2019 to 2025 using a chronological training/calibration/test split.ResultsThe eXtreme Gradient Boosting (XGBoost)-based framework achieves an accuracy rate of 0.784, a Cohen’s kappa of 0.296, and a Matthews correlation coefficient of 0.297. The Mondrian conformal predictor attains 90.3% overall coverage, with an average prediction set size of 1.216, while Platt scaling reduces the expected calibration error by 84%, from 0.267 to 0.043. A multitrial resampling analysis (5,000 random calibration/test splits) confirms that mean per-region coverage converges to the nominal 90% level, while single-split deviation…",
       "authors": "Saravanan Radhakrishnan, V. Vijayarajan",
       "published": "Sep 2026",
       "feedName": "Frontiers Food Science",
       "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.1890831",
+      "image": "",
+      "screen": "left"
+    },
+    {
+      "title": "Formulation and in vitro prospectus of probiotics, beetroot, and vitamin B12 encapsulated in alginate beads",
+      "abstract": "IntroductionThe current research aims to design and develop encapsulated beads (Ebs) loaded with Lactobacillus reuteri (L. reuteri), beetroot, and Vitamin B12.MethodsThe Ebs were prepared using the ionic gelation method and optimized via factorial design. The prepared Ebs were optimized for their particle size, drug entrapment efficiency, and structural analysis. Moreover, the Ebs were evaluated for their drug release under gastric and intestinal conditions.Results and DiscussionThe particle size of Ebs ranges from 1.15 to 1.20 mm. The % drug entrapment for Vitamin B12, Beetroot, and L. reuteri were 97.09% ± 3.25%, 87.9% ± 5.85%, and 87.5% ± 4.97%, respectively. The viability of L. reuteri in Ebs was 4.2 × 108 Cfu/g. SEM images revealed round-shaped Ebs. FTIR spectra revealed the successful incorporation of drugs within the Ebs. The cumulative release of Vitamin B12, Beetroot, and L. reuteri from Ebs was 87.02% ± 5.67%, 78.4% ± 7.87%, and 87.5% ± 6.68%, respectively, over 24 h, indicating sustained release profiles. In contrast, the marketed sublingual formulation of Vitamin B12 showed a rapid release of 70.23% ± 5.68%, within 2 h. Results confirm the successful preparation and optimization of L. reuteri- Vitamin B12 and beetroot-loaded Ebs, which may be a promising approach to addressing Vitamin B12 deficiency.",
+      "authors": "Tanhid Mansuri, Rajesh Hadia, Annu et al.",
+      "published": "Sep 2026",
+      "feedName": "Frontiers Food Science",
+      "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.1850082",
       "image": "",
       "screen": "left"
     },
@@ -362,6 +362,16 @@
       "screen": "left"
     },
     {
+      "title": "X-ray photoelectron spectroscopy reveals the surface chemistry of bio-based hybrid materials",
+      "abstract": "Just a few atomic layers at the surface can strongly influence how effectively a material binds pollutants from water or how efficiently a photocatalyst responds to light. Researchers at the Fraunhofer Institute for Applied Polymer Research IAP use X-ray photoelectron spectroscopy (XPS) to investigate the chemical states and interactions at the surfaces and interfaces of bio-based carbon materials and organic-inorganic hybrid materials. Their insights can support the targeted development of functional materials for future industrial applications.",
+      "authors": "",
+      "published": "Sep 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-09-ray-photoelectron-spectroscopy-reveals-surface.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/xps-reveals-the-surfac.jpg",
+      "screen": "right"
+    },
+    {
       "title": "Molecular antennae make light-activated molecular switches more sensitive",
       "abstract": "From targeted cancer treatments to self-healing materials and microscopic robots, many emerging technologies depend on molecules that can be controlled with light. Researchers at Tohoku University have now developed a way to make these light-responsive molecules much more sensitive to visible light by using a molecular antenna. The breakthrough gives scientists better control over molecular photoswitches remotely and potentially expands their use in medicine and advanced materials. The findings are published in the Journal of the American Chemical Society.",
       "authors": "",
@@ -389,16 +399,6 @@
       "feedName": "Phys.org Analytics",
       "url": "https://phys.org/news/2026-09-electrochemical-pure-hydrogen-ammonia-substantially.html",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/electrochemical-system.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "Five‑metal alloy: Scientists create ultra‑stable catalyst for fuel cells",
-      "abstract": "Hydrogen-powered cars, power stations and portable chargers all rely on fuel cells. At the heart of each fuel cell is a catalyst that speeds up the reaction between hydrogen and oxygen to produce electricity and water. These catalysts are typically made of platinum—which costs nearly as much as gold. Researchers from Southern Federal University, together with colleagues from Skoltech (part of the VEB.RF Group), the Institute of Catalysis of the Siberian Branch of the Russian Academy of Sciences, and Bauman Moscow State Technical University, have found a way to make this key component both cheaper and better. They developed a catalyst from a five-metal alloy that retains its activity even after 10,000 operating cycles.",
-      "authors": "",
-      "published": "Sep 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-09-fivemetal-alloy-scientists-ultrastable-catalyst.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/fivemetal-alloy-russia.jpg",
       "screen": "right"
     },
     {

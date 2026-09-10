@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-10T08:34:32Z",
+  "updated": "2026-09-10T14:00:46Z",
   "items": [
     {
       "title": "Food social security as a new proposal to reshape the food system",
@@ -42,42 +42,42 @@
       "screen": "left"
     },
     {
-      "title": "Metabolic alterations associated with chilling injury development in red pepper ( Capsicum annuum L.) during low-temperature storage",
+      "title": "Nobiletin-rich Citrus depressa Peel extract enhances detoxification-related responses and reduces benzo[ a ]pyrene bioaccumulation in rats",
       "abstract": "",
-      "authors": "Gi-Un Seong, Dae-Yong Yun, Jong-Jin Park et al.",
+      "authors": "Mei-Ling Li, Yu-Hsuan Chiang, Shang-Ming Huang et al.",
       "published": "Nov 2026",
       "feedName": "Food Chemistry",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626032310?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S030881462603219X?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
     {
-      "title": "Development of a Nafion membrane-based colorimetric FRAP sensor for measuring total antioxidant capacity",
+      "title": "Thermal processing-induced proteolysis drives concurrent changes in bioactive peptides, flavor volatiles, and umami taste compounds in dairy beef tenderloin",
       "abstract": "",
-      "authors": "Aslı Neslihan Avan, Sema Demirci-Çekiç, Reşat Apak",
+      "authors": "Farouq Heidar Barido, Kok-Gan Chan, Abinawanto et al.",
       "published": "Nov 2026",
       "feedName": "Food Chemistry",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626031821?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626026257?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
     {
-      "title": "Digestibility and in vitro fecal fermentation of whole-wheat breads with different estimated glycemic indices",
+      "title": "Blending reshapes flavor formation beyond additive effects in mustard ( Brassica juncea ) tea: Insights from integrated sensomics and metabolomics",
       "abstract": "",
-      "authors": "Yueyue Yang, Mingju Li, Mengfei Gao et al.",
+      "authors": "Xuena Yu, Hongmei Di, Junyan Song et al.",
       "published": "Nov 2026",
       "feedName": "Food Chemistry",
-      "url": "https://www.sciencedirect.com/science/article/pii/S030881462603164X?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626032036?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
     {
-      "title": "Intermolecular interactions modulate the assembly and structure of Gli–CMCS nanoparticles and their influence on quercetin encapsulation and digestive release",
+      "title": "Fabrication of MIL-88B(Co/Fe)/Ti 3 C 2 T x nanocomposite for the vortex-assisted dispersive micro-solid phase extraction of Cu(II), Cd(II), and Pb(II) in edible grains and wastewater via flame atomic absorption spectrometry",
       "abstract": "",
-      "authors": "Bingna Liu, Jing Wang, Jiahao Yuan et al.",
+      "authors": "Mustafa Soylak, Abdirashid Adam Isak",
       "published": "Nov 2026",
       "feedName": "Food Chemistry",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626032358?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626032073?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -132,6 +132,16 @@
       "screen": "left"
     },
     {
+      "title": "Halo or horn? The role of prior attitudes in shaping consumer responses to high-protein food labels",
+      "abstract": "",
+      "authors": "Carla Capuano, François Durand, Théo Besson",
+      "published": "Feb 2027",
+      "feedName": "Food Quality & Preference",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0950329326002491?dgcid=rss_sd_all",
+      "image": "",
+      "screen": "left"
+    },
+    {
       "title": "Beyond exposure: familiarity and the ecology of food meaning in hierarchical environments – A military field study",
       "abstract": "",
       "authors": "Wanessa P.S. Bordoni, Mônica M. Pagani, Vitor A.S. Vidal et al.",
@@ -148,16 +158,6 @@
       "published": "Feb 2027",
       "feedName": "Food Quality & Preference",
       "url": "https://www.sciencedirect.com/science/article/pii/S0950329326002648?dgcid=rss_sd_all",
-      "image": "",
-      "screen": "left"
-    },
-    {
-      "title": "When health labels increase indulgent food purchase intention",
-      "abstract": "",
-      "authors": "Xiaoke Yang, Liling Zheng, Shen Duan et al.",
-      "published": "Feb 2027",
-      "feedName": "Food Quality & Preference",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0950329326002478?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -202,6 +202,16 @@
       "screen": "left"
     },
     {
+      "title": "A design science framework for alternative proteins: coupling ingredient functionality, processing physics, and predictive modeling",
+      "abstract": "The transition toward alternative proteins represents more than ingredient substitution; it requires a fundamental shift from empirical formulation toward predictive, mechanism-driven design. Despite rapid advances in plant-based, microbial, fungal, algal, and hybrid protein systems, development efforts remain fragmented across ingredient science, processing engineering, structural characterization, and computational modeling. This separation obscures the causal relationships linking molecular functionality, processing conditions, structural evolution, and product performance, thereby limiting reproducibility, scalability, and technology transfer. Alternative protein systems can be viewed as dynamic, multi-scale materials whose properties emerge through coupled physicochemical and biochemical transformations. Protein denaturation, aggregation, phase separation, hydration dynamics, interfacial assembly, lipid organization, and fermentation-driven modifications collectively govern the formation of hierarchical architectures that determine texture, moisture retention, flavor release, nutritional functionality, and consumer perception. Processing technologies including extrusion, shear-cell processing, fermentation, encapsulation, and hybrid platforms operate as controlled energy- and mass-transfer systems that regulate these transformations across molecular, mesoscopic, and macroscopic length scales. To address the need for integration across these domains, this review introduces the Ingredient–Process–Structure–Performance (IPSP) framework, a design-science architecture that …",
+      "authors": "Gulsun Akdemir Evrendilek",
+      "published": "Sep 2026",
+      "feedName": "Frontiers Food Science",
+      "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.1911343",
+      "image": "",
+      "screen": "left"
+    },
+    {
       "title": "A case study on microbiological properties of cooked turkey ham with nitrite reduction",
       "abstract": "Cooked turkey ham is a widely consumed ready-to-eat meat product in which nitrite plays an important role in safety and quality. However, growing health concerns and regulatory constraints have driven efforts to reduce nitrite use. This study evaluated the effect of reducing nitrite levels from 150 to 119 ppm on the microbiological safety and physicochemical stability of cooked turkey ham during refrigerated storage. Microbiological quality was monitored at 7-day intervals, including total viable counts (TVC), lactic acid bacteria (LAB), Enterobacteriaceae, Staphylococcus aureus, and Escherichia coli. TVC and LAB remained below 107 CFU/g until day 28 but reached unsatisfactory results on day 35 (108 CFU/g), whereas the remaining microbial groups remained below the detection limit throughout storage, thus supporting a commercial shelf life of 28 days. Sulphite-reducing Clostridium spores, Salmonella spp., and Listeria monocytogenes were not detected in any samples. Challenge tests with Listeria monocytogenes and Clostridium sporogenes were conducted under refrigerated storage and temperature abuse conditions (8 °C) for up to 35 and 264 days, respectively. The reduced-nitrite formulation limited the growth of L. monocytogenes, remaining below the 0.5 log CFU/g threshold at 4 °C but showing a transient increase above this threshold at 8 °C, and prevented detectable vegetative outgrowth of C. sporogenes under the tested conditions. Colour parameters showed no significant differences between the standard and reduced-nitrite formulations (P > 0.05). Physicochemical parameters sho…",
       "authors": "Maria J. M. Nunes, Lúcia Noronha, Inês Cruz et al.",
@@ -228,16 +238,6 @@
       "published": "Sep 2026",
       "feedName": "Frontiers Food Science",
       "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.1850082",
-      "image": "",
-      "screen": "left"
-    },
-    {
-      "title": "Reliable food safety risk assessment via calibrated Mondrian conformal prediction: a machine learning framework with uncertainty quantification",
-      "abstract": "IntroductionFood safety risk assessment requires predictive models that not only achieve high accuracy but also provide reliable uncertainty quantification to support regulatory decision-making. This study presents a comprehensive machine learning framework that integrates Mondrian conformal prediction with post hoc probability calibration for food safety risk classification using the Rapid Alert System for Food and Feed (RASFF) database. The task is framed as a binary classification problem, predicting whether an RASFF notification is serious or not.MethodsThe proposed framework addresses three critical challenges in food safety prediction: class imbalance handling through the synthetic minority oversampling technique (SMOTE) combined with class weighting, probability miscalibration correction via Platt scaling, and distribution-free uncertainty quantification through group-conditional conformal prediction. The framework was evaluated on 22,643 RASFF notifications from 2019 to 2025 using a chronological training/calibration/test split.ResultsThe eXtreme Gradient Boosting (XGBoost)-based framework achieves an accuracy rate of 0.784, a Cohen’s kappa of 0.296, and a Matthews correlation coefficient of 0.297. The Mondrian conformal predictor attains 90.3% overall coverage, with an average prediction set size of 1.216, while Platt scaling reduces the expected calibration error by 84%, from 0.267 to 0.043. A multitrial resampling analysis (5,000 random calibration/test splits) confirms that mean per-region coverage converges to the nominal 90% level, while single-split deviation…",
-      "authors": "Saravanan Radhakrishnan, V. Vijayarajan",
-      "published": "Sep 2026",
-      "feedName": "Frontiers Food Science",
-      "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.1890831",
       "image": "",
       "screen": "left"
     },
@@ -482,42 +482,42 @@
       "screen": "right"
     },
     {
-      "title": "Association of the CUN-BAE index with glycemic outcomes in individuals with impaired fasting glucose: a retrospective multicenter Chinese cohort study",
-      "abstract": "BackgroundDiabetes mellitus (DM) poses a significant global public health challenge, with impaired fasting glucose (IFG) representing a critical prediabetic state. The Clínica Universidad de Navarra-Body Adiposity Estimator (CUN-BAE) index, a body fat estimator integrating body mass index (BMI), age, and gender, has shown promise in assessing cardiometabolic risk. However, its longitudinal association with bidirectional glycemic transitions, specifically reversion to normoglycemia and progression to DM, in individuals with IFG remains unclear. This study aimed to evaluate the association between baseline CUN-BAE index and glycemic outcomes in a Chinese IFG population.MethodsThis retrospective multicenter cohort study included 26,247 adults with baseline IFG from a health screening program. The CUN-BAE index was calculated using a standardized formula. Cox proportional hazards regression, restricted cubic spline models, and threshold effect analyses were employed to assess associations between the CUN-BAE index and glycemic outcomes, with adjustments for confounders. Subgroup and sensitivity analyses were conducted to verify robustness.ResultsHigher CUN-BAE index levels were independently associated with a reduced probability of reversion to normoglycemia (adjusted HR 0.99 per unit increase; 95% CI 0.98–0.99) and an increased risk of DM progression (adjusted HR 1.04; 95% CI 1.03–1.04). Nonlinear relationships were identified, with threshold effects at CUN-BAE index = 24.53 for reversion and CUN-BAE index = 22.51 for progression. The CUN-BAE index quartile analysis demonstrat…",
-      "authors": "Duo Yang, Renzhe Lin, Sen Li et al.",
-      "published": "Sep 2026",
-      "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1813094",
-      "image": "",
-      "screen": "right"
-    },
-    {
-      "title": "Effects of gochujang formulations on menopausal symptoms and gut microbiota in postmenopausal women: an 8-week randomized, double-blind trial",
-      "abstract": "IntroductionMenopause-associated symptoms impair quality of life, and postmenopausal women increasingly seek safe, non-hormonal, diet-based interventions. Gochujang, a traditional Korean fermented food rich in isoflavone aglycones and capsaicinoids, has biological activities relevant to menopausal health but has never been tested in a randomized trial. We compared three distinct Gochujang formulations.MethodsIn this 8-week, randomized, double-blind, three-arm trial, two Gochujang formulations differing in microbial composition (high-microorganism [HTG], low-microorganism [LTG]) were compared with commercial Gochujang (CG) in 59 postmenopausal women with moderate-to-severe symptoms [Kupperman Menopausal Index (KMI) ≥15]. Change in total KMI score and change in gut microbiota were the two registered co-primary outcomes, and change in total KMI score is the primary endpoint of this report. Because all arms received active Gochujang without a placebo, the trial assessed between-formulation differences rather than efficacy. Secondary outcomes were body composition, metabolic biomarkers, and safety; gut microbiota and fecal short-chain fatty acids (SCFAs) are analyzed here as exploratory outcomes, a post hoc reclassification.ResultsAll formulations produced significant within-group KMI reductions (HTG: −3.65, 95% CI −4.97 to −2.33; LTG: −4.10, −5.98 to −2.22; CG: −3.42, −4.34 to −2.50; all p < 0.0001), with no statistically significant between-group differences, providing no evidence of formulation-specific effects. Percent body fat decreased and fecal SCFA concentrations decline…",
-      "authors": "A. Lum Han, Myeong Seon Ryu, Hee-Jong Yang et al.",
-      "published": "Sep 2026",
-      "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1849944",
-      "image": "",
-      "screen": "right"
-    },
-    {
-      "title": "Comparable disease course in pediatric celiac disease with or without endoscopic confirmation at high anti-TG2-IgA-antibody titers",
-      "abstract": "BackgroundThe guidelines from the European Society for Pediatric Gastroenterology, Hepatology and Nutrition (ESPGHAN) enable the diagnosis of celiac disease (CD) omitting esophagogastroduodenoscopy (EGD) in patients with high anti-Transglutaminase 2 (TG2)-IgA-antibodies. However, there is uncertainty whether this approach is safe in terms of disease outcomes for all patients. Here, we aimed to investigate the course of anti-TG2-IgA-antibodies, symptomatic response, anthropometric measurements and routine laboratory values in CD patients presenting with high anti-TG2-IgA-antibodies diagnosed with or without EGD.MethodsWe conducted a retrospective case-control study in two pediatric gastroenterology centers in Giessen and Marburg. CD patients presenting with high anti-TG2-IgA-antibodies (≥10× upper limit of normal) were included. Data were obtained from the routine medical documentation sheet at 0, 0.5, 1 and 2 years after diagnosis.Results48 patients (24 patients per group) were included. Both groups did not differ in sex or age distribution, symptom burden, comorbidities, weight and BMI z-scores or routine laboratory parameters at baseline. Decline of anti-TG2-IgA-antibodies was similar in both groups. Serological remission was achieved in 6% (without EGD) and 16% (with EGD) at 0.5 years and 26% and 41% at 1 year after diagnosis with no significant differences between the two groups. Symptom relief, weight and BMI z-scores as well as hemoglobin, ferritin and mean corpuscular volume did not differ depending on the mode of diagnosis.ConclusionOur data confirm that the biopsy-…",
-      "authors": "Sebastian Stricker, Lisa Marie Schönfeld, Frank Rommel et al.",
-      "published": "Sep 2026",
-      "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1930734",
-      "image": "",
-      "screen": "right"
-    },
-    {
       "title": "Toward an integrated animal–human nutrition intelligence via agentic retrieval-augmented language models",
       "abstract": "Animal-source foods are nutritionally “plastic,” with fatty acid profiles, vitamins, and minerals that can be altered by animal diets and management. Although the literature documenting these effects is extensive, it is fragmented across disciplines and experimental contexts, limiting translation into actionable guidance for food quality and human nutrition. We developed the Intelligent System for Integrating Global Human & Animal Health Technology (INSIGHT), a domain-specialized retrieval-augmented generation (RAG) system designed to synthesize evidence across animal production and human nutrition research with explicit provenance. INSIGHT employs a nine-stage RAG pipeline that integrates query expansion, hybrid retrieval, evidence reranking, and self-verification to deliver transparent, citation-linked responses. Throughout, retrieval refers to document selection, integration to the combination of retrieved evidence into a coherent evidence set, and synthesis to the LLM-based generation of grounded narrative responses. The knowledge base comprises ~4,000 peer-reviewed papers in animal science, feed composition, and human dietary research. To evaluate retrieval performance across diverse literature contexts, we developed a multi-group evaluation framework: 282 documents were randomly selected and organized into 26 semantically coherent groups of ~10 papers each. For each group, Perplexity Deep Research generated 25 question–answer pairs and identified ground-truth relevant documents. Each question was posed to INSIGHT, yielding document-level precision, recall, and F1-scor…",
       "authors": "Luis O. Tedeschi, Nicole Greer, Karun Kaniyamattam et al.",
       "published": "Sep 2026",
       "feedName": "Frontiers Nutrition",
       "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1815038",
+      "image": "",
+      "screen": "right"
+    },
+    {
+      "title": "Dietary patterns and osteoporosis risk in a high-altitude population: the roles of gut microbiota and plasma metabolites in a case-control study",
+      "abstract": "BackgroundThis study investigated the association between dietary pattern and osteoporosis, exploring gut microbiota and plasma metabolites as potential mediators.MethodsThis case-control study included 90 osteoporosis patients and 90 healthy controls. All participants completed a validated semi-quantitative food frequency questionnaire (FFQ) to assess their dietary intake over the past year. Principal component analysis (PCA) was performed on the FFQ data to identify major dietary patterns. Gut microbiota composition was analyzed using metagenomic sequencing (Illumina HiSeq platform, PE150). Plasma metabolites were analyzed using untargeted metabolomics with ultra-high-performance liquid chromatography-tandem mass spectrometry (UHPLC-MS/MS). Binary logistic regression was employed to examine the association between dietary pattern and osteoporosis; Multivariate linear regression was used to investigate the association between dietary pattern and gut microbiota/metabolites. Additionally, mediation analysis was conducted to assess whether gut microbiota or plasma metabolites mediated the association between dietary patterns and osteoporosis, and the proportion of mediation was calculated.ResultsThe osteoporosis group showed significant differences in age (61.89 ± 7.86 vs. 56.10 ± 7.29 years), sex (72.2% vs. 36.7% female), and anthropometrics (all P < 0.05). Among six identified dietary patterns, “animal offal and seeds” was associated with higher osteoporosis risk (OR = 2.21, 1.21–4.06; P = 0.010). osteoporosis patients exhibited gut microbiota dysbiosis (enriched Enterobact…",
+      "authors": "Luhan Zhang, Xiaomin Wu, Xuan Chen et al.",
+      "published": "Sep 2026",
+      "feedName": "Frontiers Nutrition",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1865666",
+      "image": "",
+      "screen": "right"
+    },
+    {
+      "title": "The impact of dietary and lifestyle factors on obesity among chinese children during the first 6 years of life: a 2014-2015 multi-centre study",
+      "abstract": "ObjectiveTo identify lifestyle and dietary factors associated with obesity in children during the first 6 years of life.MethodsChildren aged 0–6 years were recruited from 12 Children’s Health Care Centers in Jiangsu, China, by a multistage stratified cluster random-sampling method. Diet, sleep, supplementation and outdoor activity were collected by questionnaire/interview. Obesity was defined as Body mass index Z-score >2 (World Health Organization standards). Logistic regression was used to examine the associations between lifestyle/dietary factors and obesity, adjusting for sex, age, delivery mode, birth weight, region, and season, with additional stratified and restricted cubic spline dose-response analyses.ResultsA survey of 5,243 children were enrolled in the present study. Prevalence varied by characteristics: sleep < 10 h (8.5%), >14 h (9.9%), outdoor activity < 1 h (10.7%), complementary feeding before 4 months (9.8%), daily calcium ≥300 mg (10.4%), preference for meat (10.0%), fish/shrimp ≥ 2 times/week (7.1%), daily milk ≥600 mL (6.3%), daily meat >150 g (11.2%), and daily egg >60 g (11.1%). Adjusted analyses identified higher obesity odds for sleep < 10 h [odds ratio (OR) 1.327, 95% Confidence Interval (95% CI) 1.024–1.719] or >14 h (2.503, 1.640–3.820), outdoor activity < 1 h (2.018, 1.465–2.779), vitamin D supplementation < 15 days (1.686, 1.063–2.673), complementary feeding < 4 months (1.665, 1.114–2.487), preference for meat (1.369, 1.049–1.859), fish/shrimp ≥ 2 times/week (1.354, 1.026-1.788), daily meat >150 g (2.060, 1.207-3.514), daily egg >60 g (2.937, 1…",
+      "authors": "Yan Zhao, Wen Zheng, Yufei Ni et al.",
+      "published": "Sep 2026",
+      "feedName": "Frontiers Nutrition",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1854091",
+      "image": "",
+      "screen": "right"
+    },
+    {
+      "title": "Enzymatic extraction and response surface method optimization for efficient extraction of bioactive peptides and functional activities from Leucopaxillus giganteus",
+      "abstract": "The Leucopaxillus giganteus is a typical high-protein wild edible fungus and is a high-quality natural plant protein source. In this study, the fruiting bodies of Leucopaxillus giganteus were adopted as experimental raw materials, and their intrinsic proteins were degraded via compound protease hydrolysis to produce fungus-derived bioactive peptides with antioxidant, antibacterial and anti-tumor properties. Single-factor tests were performed to determine the appropriate range of each hydrolysis factor, and Plackett–Burman design was adopted to screen three key variables significantly affecting peptide extraction efficiency, including hydrolysis temperature, time and pH. Box–Behnken response surface methodology was further applied to optimize the enzymatic hydrolysis process. The results indicated that the optimal compound protease ratio of alkaline protease to papain was 4:3. Under the optimal hydrolysis conditions (temperature 49 °C, enzyme dosage 5,870 U g−1, pH 7.1, solid–liquid ratio 1:25, hydrolysis time 5 h), the peptide extraction rate reached 28.93%. Subsequently, the activity of the peptide was determined. This peptide exhibited excellent DPPH scavenging ability and formed inhibition zones of 9.02 mm, 6.15 mm and 8.67 mm for Escherichia coli, Bacillus subtilis and Staphylococcus aureus, demonstrating good antibacterial activity. Moreover, the peptide could significantly inhibit the proliferation of Caco-2 colorectal cancer cells and HepG2 human liver cancer cells. In conclusion, the enzymatic hydrolysis process optimized by response surface methodology is simple an…",
+      "authors": "Cheng Zhang, Yan Guo, Shang Guo et al.",
+      "published": "Sep 2026",
+      "feedName": "Frontiers Nutrition",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1940279",
       "image": "",
       "screen": "right"
     },

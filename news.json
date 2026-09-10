@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-10T20:16:43Z",
+  "updated": "2026-09-10T23:35:34Z",
   "items": [
     {
       "title": "Author Correction: Governance and resilience as entry points for transforming food systems in the countdown to 2030",
@@ -282,6 +282,16 @@
       "screen": "left"
     },
     {
+      "title": "Turn it down to eat more healthily: the effect of background music arousal on healthy food consumption",
+      "abstract": "",
+      "authors": "Shucheng Cao, Bihe Wen, Lei Zheng et al.",
+      "published": "Sep 2026",
+      "feedName": "npj Science of Food",
+      "url": "https://www.nature.com/articles/s41538-026-01146-2",
+      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01146-2/MediaObjects/41538_2026_1146_Fig1_HTML.png",
+      "screen": "left"
+    },
+    {
       "title": "Micro- and nanoplastics in food and water from farm-to-fork: exposure pathways, human biomonitoring and AI-enhanced detection – a systematic review",
       "abstract": "",
       "authors": "Orlagh Gormley, Awanwee Petchkongkaew, Sasitorn Aueviriyavit et al.",
@@ -309,16 +319,6 @@
       "feedName": "npj Science of Food",
       "url": "https://www.nature.com/articles/s41538-026-01129-3",
       "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01129-3/MediaObjects/41538_2026_1129_Fig1_HTML.png",
-      "screen": "left"
-    },
-    {
-      "title": "Blood pressure-lowering effects of Persea americana and Vigna cylindrica leaf concoction in 2-kidney, 1-clip hypertensive rats",
-      "abstract": "",
-      "authors": "Nuriza Ulul Azmi, Nur Hasanah, Rafiqah Nur Viviani et al.",
-      "published": "Sep 2026",
-      "feedName": "npj Science of Food",
-      "url": "https://www.nature.com/articles/s41538-026-01075-0",
-      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01075-0/MediaObjects/41538_2026_1075_Fig1_HTML.png",
       "screen": "left"
     },
     {
@@ -362,6 +362,16 @@
       "screen": "left"
     },
     {
+      "title": "Under pressure: How a deep-sea protein adapts to an extreme environment",
+      "abstract": "Life in the deep sea is under immense pressure—literally. Such extreme conditions can disrupt the delicate structures of proteins essential to life. Yet somehow, the proteins in deep-sea creatures remain functional. This raises an intriguing question: how?",
+      "authors": "",
+      "published": "Sep 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-09-pressure-deep-sea-protein-extreme.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/under-pressure-how-a-d.jpg",
+      "screen": "right"
+    },
+    {
       "title": "What small insects can tell us about ancient textiles",
       "abstract": "Anna Sheinberg, Ph.D. candidate in chemistry, is working with fellow researchers in Trinity College's Chemistry Department and at the Nasher Museum of Art to uncover new information about some of the ancient dyed textiles in the Nasher's collection.",
       "authors": "",
@@ -389,16 +399,6 @@
       "feedName": "Phys.org Analytics",
       "url": "https://phys.org/news/2026-09-molecular-antennae-sensitive.html",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/molecular-antennae-mak.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "Terbium's elusive plus-4 form emerges under ordinary lab conditions, opening possibilities for rare-earth metals",
-      "abstract": "Chemists in a new study led by the University of Iowa report they have isolated and described in detail an atypical state of the rare-earth metal terbium, an advance that could expand its use in quantum technologies, including computing and advanced sensors. The study, \"Structural and spectroscopic characterization of a Tb(IV) polyoxometalate,\" is published in the journal Nature Communications.",
-      "authors": "",
-      "published": "Sep 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-09-terbium-elusive-emerges-ordinary-lab.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/chemists-unlock-new-po.jpg",
       "screen": "right"
     },
     {

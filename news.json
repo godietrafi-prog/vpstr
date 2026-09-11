@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-11T13:58:39Z",
+  "updated": "2026-09-11T17:32:05Z",
   "items": [
     {
       "title": "Author Correction: Governance and resilience as entry points for transforming food systems in the countdown to 2030",
@@ -362,6 +362,26 @@
       "screen": "left"
     },
     {
+      "title": "Electrical pulses convert PFAS waste into valuable silver fluoride",
+      "abstract": "Fluorinated waste, like that found in firefighting aqueous film-forming foam, can act as a significant environmental pollutant. Recently, James Tour's lab at Rice University developed a method to capture fluoride from these waste streams and recycle it into a useful reagent, silver fluoride, that could be used in other manufacturing processes. This process is published in Nature Chemical Engineering.",
+      "authors": "",
+      "published": "Sep 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-09-electrical-pulses-pfas-valuable-silver.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/new-method-turns-harmf-1.jpg",
+      "screen": "right"
+    },
+    {
+      "title": "Breaking down shoe foam by genetically tweaking a microbe found in compost",
+      "abstract": "Your favorite pair of tennies, kicks or trainers may soon become a little more sustainable. In a study published Sept. 11 in the journal Chem Catalysis, researchers developed a new kind of enzyme based on a bacterium found in compost that can degrade the polyurethane material in shoe foams. The results could one day help recycle plastic waste from shoes, mattresses, kitchen sponges and more.",
+      "authors": "",
+      "published": "Sep 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-09-foam-genetically-tweaking-microbe-compost.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/breaking-down-shoe-foa.jpg",
+      "screen": "right"
+    },
+    {
       "title": "Under pressure: How a deep-sea protein adapts to an extreme environment",
       "abstract": "Life in the deep sea is under immense pressure—literally. Such extreme conditions can disrupt the delicate structures of proteins essential to life. Yet somehow, the proteins in deep-sea creatures remain functional. This raises an intriguing question: how?",
       "authors": "",
@@ -379,26 +399,6 @@
       "feedName": "Phys.org Analytics",
       "url": "https://phys.org/news/2026-09-small-insects-ancient-textiles.html",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/close-up-of-hands-pick.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "X-ray photoelectron spectroscopy reveals the surface chemistry of bio-based hybrid materials",
-      "abstract": "Just a few atomic layers at the surface can strongly influence how effectively a material binds pollutants from water or how efficiently a photocatalyst responds to light. Researchers at the Fraunhofer Institute for Applied Polymer Research IAP use X-ray photoelectron spectroscopy (XPS) to investigate the chemical states and interactions at the surfaces and interfaces of bio-based carbon materials and organic-inorganic hybrid materials. Their insights can support the targeted development of functional materials for future industrial applications.",
-      "authors": "",
-      "published": "Sep 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-09-ray-photoelectron-spectroscopy-reveals-surface.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/xps-reveals-the-surfac.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "Molecular antennae make light-activated molecular switches more sensitive",
-      "abstract": "From targeted cancer treatments to self-healing materials and microscopic robots, many emerging technologies depend on molecules that can be controlled with light. Researchers at Tohoku University have now developed a way to make these light-responsive molecules much more sensitive to visible light by using a molecular antenna. The breakthrough gives scientists better control over molecular photoswitches remotely and potentially expands their use in medicine and advanced materials. The findings are published in the Journal of the American Chemical Society.",
-      "authors": "",
-      "published": "Sep 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-09-molecular-antennae-sensitive.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/molecular-antennae-mak.jpg",
       "screen": "right"
     },
     {
@@ -482,6 +482,16 @@
       "screen": "right"
     },
     {
+      "title": "Preoperative oral carbohydrate administration in adult elective surgery: protocol heterogeneity, regional practice patterns and evidence gaps–a scoping review",
+      "abstract": "ObjectiveThis scoping review aimed to map the extent, characteristics and distribution of evidence on preoperative oral carbohydrate administration in adult elective surgical patients. Specifically, we sought to describe publication trends, regional practice patterns, surgical populations, intervention protocols, outcome domains and evidence gaps, thereby informing future standardization and individualized implementation within ERAS pathways.MethodsFollowing the Arksey and O’Malley framework for scoping reviews, we searched eight Chinese and English databases including CNKI, Wanfang, PubMed, and Web of Science, to collect original studies published from 2015 to September 2025 on preoperative oral carbohydrate intake. Studies were screened and data extracted according to predetermined inclusion and exclusion criteria, followed by descriptive analysis.ResultsEighty-two studies were included, comprising 76 randomized controlled trials and 6 non-randomized studies. Most studies were conducted in China and other Asian settings, and more than two-thirds were published after 2020. The commonly reported regimen involved 200–400 mL of a carbohydrate-containing clear fluid administered 2–3 h before surgery, although formulation, dose, timing and control conditions varied substantially across studies. Outcomes were mapped into five domains: metabolic responses, patient comfort, inflammatory or stress markers, clinical recovery and safety. Most included studies reported favorable metabolic or comfort-related findings; however, evidence was concentrated in single-center trials, short-te…",
+      "authors": "Bang Xiao, Yuanfei Liu, Renqiang Lu et al.",
+      "published": "Sep 2026",
+      "feedName": "Frontiers Nutrition",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1943627",
+      "image": "",
+      "screen": "right"
+    },
+    {
       "title": "Cow’s milk consumption in childhood and adolescence: a Q&A expert review of current evidence",
       "abstract": "Cow’s milk and its derivatives are a food group of recognized nutritional value during childhood and adolescence, and their consumption is endorsed by the main pediatric societies from 1 year of age. However, studies indicate that a significant portion of Brazilian children and adolescents do not meet the consumption recommendations, compromising the intake of essential nutrients. This expert review critically evaluated the scientific evidence on cow’s milk consumption in this age group, in a question-and-answer format, based on a search in the PubMed/MEDLINE, Scopus, Web of Science and ResearchGate databases, with a final sample of 70 publications. The results indicate that regular consumption of cow’s milk is safe and beneficial for healthy children and adolescents, contributing to physical growth, bone health, favorable body composition, and potential improvement in cognitive performance. Contraindications are restricted to specific conditions, such as cow’s milk protein allergy and lactose intolerance. However, some findings–particularly those related to cognitive performance–remain heterogeneous, highlighting the need for further well-designed studies. It is concluded that, in the absence of these conditions, there is no scientific basis for the exclusion of cow’s milk from the diet of this population group, and its consumption should be and its consumption should be encouraged within the context of a balanced and individualized diet.",
       "authors": "Carlos Alberto Nogueira-de-Almeida, Tulio Konstantyner, Luciana Rodrigues Silva et al.",
@@ -492,32 +502,22 @@
       "screen": "right"
     },
     {
-      "title": "Prevalence and non-invasive predictive models of vitamin D insufficiency in Paraguayan youth: the role of body composition and traditional mate consumption",
-      "abstract": "BackgroundVitamin D (VD) insufficiency among youth remains a latent public health concern in Paraguay, and non-invasive, population-specific screening tools are unestablished. This study aimed to identify clinical, body composition, and lifestyle predictors to develop a preliminary, non-invasive risk scoring system for Paraguayan youth.MethodsSerum 25-hydroxyvitamin D levels, bioelectrical impedance-derived body composition, and lifestyle habits were evaluated in 164 participants (aged 17–35 years) at the Universidad Santa Clara de Asís. Multivariable logistic regression models were constructed after resolving multicollinearity (variance inflation factor < 1.40) and underwent internal validation via 1,000 bootstrap resamples.ResultsThe overall prevalence of VD insufficiency ( < 30 ng/mL) was 48.2%. Multivariable analysis revealed an independent contribution of sex-specific muscle mass deviations (Δ Muscle Mass), showing decreased VD levels in both the sarcopenic obesity phenotype and high muscle-low fat athletic phenotype, supporting the skeletal muscle tissue reservoir hypothesis. Among lifestyle factors, full-coverage clothing was an independent risk factor, whereas vigorous physical activity and habitual mate/tereré consumption (≥4 days/week) were significant associated with a lower probability of VD insufficiency. The global predictive scorecard achieved an optimism-corrected area under the receiver operating characteristic curve (optimism-corrected AUC) of 0.714. Crucially, the subgroup model restricted to overweight individuals (BMI ≥ 25 kg/m2) demonstrated acceptable…",
-      "authors": "Anabel Gonzaléz, Camila Miño, Elena Espinoza et al.",
+      "title": "Gut dysbiosis induced by sunflower oil-based sucrose-free high-fat diet leads to steatohepatitis",
+      "abstract": "High-fat diets (HFDs) are known to disrupt gut microbiota, contributing to obesity, inflammation, and metabolic disorders. Although sucrose is a known driver of gut dysbiosis, the microbiome alterations caused by sucrose-free fish oil and sunflower oil-based HFDs remain unclear. To investigate how sucrose-free sunflower oil-based (S-HFD) and fish oil-based (F-HFD) high-fat diets influence gut microbiota composition, metabolic health, and liver inflammation in mice. C57BL/6 mice were fed either S-HFD or F-HFD for 24 weeks. Body weight, insulin sensitivity, liver inflammation, and gene expression were assessed. Gut microbiota composition was analyzed using 16S rRNA sequencing, followed by diversity analysis and taxonomic profiling with Microbiome Analyst and MIAOME tools. Despite similar body weights between groups, the gut microbiota composition differed significantly. The S-HFD group showed a higher abundance of Firmicutes (40%) compared to the F-HFD group (3%), while Verrucomicrobia were dominant in F-HFD (26%) and nearly absent in S-HFD. Taxa such as RF39, Christensenellaceae, Mogibacteriaceae, and Yaniella were enriched in S-HFD mice and associated with metabolic and immune dysregulation. S-HFD mice also had elevated fasting glucose, increased hepatic monocyte/macrophage (F4/80+) infiltration, macrovesicular steatosis, lobular inflammation, and upregulation of genes related to fatty acid oxidation (Cpt1a), monocyte chemotaxis (Ccl2), lipogenesis (Scd1, Fasn, Acaca), and glycolysis (Pklr). Conversely, F-HFD mice showed increased expression of the insulin-sensitive gene FA…",
+      "authors": "Fatemah Bahman, Md. Zubbair Malik, Shihab Kochumon et al.",
       "published": "Sep 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1953400",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1831803",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Sustainability and nutritional composition of food choices in hospital canteens: a pre-post intervention study",
-      "abstract": "BackgroundHospital canteens provide an effective setting to improve users' dietary habits. The study evaluates users' food choices—considering nutritional composition and environmental impact -after an educational and environmental intervention, comparing the results with pre-intervention choices.MethodsA pre-post intervention study was conducted in three hospital canteens (C1, C2, C3) in northeastern Italy, during two index weeks in September 2022 (T0) and 2023 (T1). Canteen users were recruited before and after an intervention consisting of posters on healthy eating, descriptive norm messages, and environmental changes regarding fruit and vegetables. Photos of participants' lunch trays were collected, and food choices were analyzed for nutritional composition and sustainability. Descriptive statistics and appropriate non-parametric and chi-square tests were used to compare outcomes between assessment periods and across canteens.Results2,851 trays were analyzed: 1,227 at T0 (798 in C1, 228 in C2 and 201 in C3) and 1,624 at T1 (1,005 in C1, 348 in C2, 271 in C3). In C1 and C3, there was an increase in median energy (+30 kcal; +135 kcal) compared to pre-intervention meals, while in C2 there was a decrease (−118 kcal). Despite a slight improvement in macronutrient composition, at T1 meals in all canteens were still high in lipids (30%E; 39%E; 35%E) and low in carbohydrates (44%E; 39%E; 41%E). The fiber value fell within the reference range only in C1 and C3. The median carbon (CF) and water (WF) footprints of meals in all canteens remained high: at T1 CF ranged from 966 g CO2…",
-      "authors": "Elisa Mansutti, Federica Fiori, Diana Menis et al.",
+      "title": "Analysis of critical nutrients in ketogenic diets for adults based on optimized hypothetical meal plans",
+      "abstract": "IntroductionKetogenic diets are used in various clinical and non-clinical contexts in adults. Due to the high degree of restriction in certain ketogenic diet variations, there is a potential risk of insufficient micronutrient intake and systematic analyses of nutrient supply in adults remain sparse.MethodsOptimized, hypothetical daily ketogenic meal plans were created for adults aged 19 to over 65 years, with ketogenic ratios of 3:1, 2:1, and 1:1. The analysis was carried out separately for four age groups. Nutrient calculations were based on the German Nutrient Database using the PRODI® nutrition software (Nutri-Science GmbH, Germany). The calculated micronutrient intakes were compared with age-related national reference values for each age group. Supply < 95% was considered as potentially critical.ResultsRelevant deficiencies were observed in all age groups, particularly in fiber, vitamin D, several B vitamins, potassium, zinc and fluoride. As restrictiveness decreased, intake levels improved, with the 1:1 ratio showing the highest overall micronutrient density. Regardless of the ratio, vitamin D, fiber and fluoride remained potentially critical in all age groups.ConclusionStrict ketogenic ratios carry a high risk of micronutrient deficiencies. Although liberal ratios improve supply, there are still structural nutrient restrictions. Therefore, careful food selection and nutritional therapy support remain essential.",
+      "authors": "Marc Assmann, Isabel Albrecht, Tobias Fischer",
       "published": "Sep 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1939620",
-      "image": "",
-      "screen": "right"
-    },
-    {
-      "title": "Preoperative oral carbohydrate administration in adult elective surgery: protocol heterogeneity, regional practice patterns and evidence gaps–a scoping review",
-      "abstract": "ObjectiveThis scoping review aimed to map the extent, characteristics and distribution of evidence on preoperative oral carbohydrate administration in adult elective surgical patients. Specifically, we sought to describe publication trends, regional practice patterns, surgical populations, intervention protocols, outcome domains and evidence gaps, thereby informing future standardization and individualized implementation within ERAS pathways.MethodsFollowing the Arksey and O’Malley framework for scoping reviews, we searched eight Chinese and English databases including CNKI, Wanfang, PubMed, and Web of Science, to collect original studies published from 2015 to September 2025 on preoperative oral carbohydrate intake. Studies were screened and data extracted according to predetermined inclusion and exclusion criteria, followed by descriptive analysis.ResultsEighty-two studies were included, comprising 76 randomized controlled trials and 6 non-randomized studies. Most studies were conducted in China and other Asian settings, and more than two-thirds were published after 2020. The commonly reported regimen involved 200–400 mL of a carbohydrate-containing clear fluid administered 2–3 h before surgery, although formulation, dose, timing and control conditions varied substantially across studies. Outcomes were mapped into five domains: metabolic responses, patient comfort, inflammatory or stress markers, clinical recovery and safety. Most included studies reported favorable metabolic or comfort-related findings; however, evidence was concentrated in single-center trials, short-te…",
-      "authors": "Bang Xiao, Yuanfei Liu, Renqiang Lu et al.",
-      "published": "Sep 2026",
-      "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1943627",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1829975",
       "image": "",
       "screen": "right"
     },

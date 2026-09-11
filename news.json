@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-11T17:32:05Z",
+  "updated": "2026-09-11T20:20:58Z",
   "items": [
     {
       "title": "Author Correction: Governance and resilience as entry points for transforming food systems in the countdown to 2030",
@@ -362,6 +362,16 @@
       "screen": "left"
     },
     {
+      "title": "Unusual bonds reorganize structure and magnetism in vanadium material",
+      "abstract": "While chemical bonds usually determine the structure and properties of a material, bonds between neighboring metal atoms can also change as temperature or other conditions change. These changes can lead to unusual electronic and magnetic behaviors.",
+      "authors": "",
+      "published": "Sep 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-09-unusual-bonds-magnetism-vanadium-material.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/unusual-bonds-reorgani.jpg",
+      "screen": "right"
+    },
+    {
       "title": "Electrical pulses convert PFAS waste into valuable silver fluoride",
       "abstract": "Fluorinated waste, like that found in firefighting aqueous film-forming foam, can act as a significant environmental pollutant. Recently, James Tour's lab at Rice University developed a method to capture fluoride from these waste streams and recycle it into a useful reagent, silver fluoride, that could be used in other manufacturing processes. This process is published in Nature Chemical Engineering.",
       "authors": "",
@@ -389,16 +399,6 @@
       "feedName": "Phys.org Analytics",
       "url": "https://phys.org/news/2026-09-pressure-deep-sea-protein-extreme.html",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/under-pressure-how-a-d.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "What small insects can tell us about ancient textiles",
-      "abstract": "Anna Sheinberg, Ph.D. candidate in chemistry, is working with fellow researchers in Trinity College's Chemistry Department and at the Nasher Museum of Art to uncover new information about some of the ancient dyed textiles in the Nasher's collection.",
-      "authors": "",
-      "published": "Sep 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-09-small-insects-ancient-textiles.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/close-up-of-hands-pick.jpg",
       "screen": "right"
     },
     {
@@ -629,7 +629,7 @@
       "venue": "Soil Science Annual",
       "feedName": "Lab Research",
       "citationCount": 9,
-      "recentCitations": 2,
+      "recentCitations": 0,
       "quartile": null,
       "s2_paper_id": "8aa653c59706d0f1e9269886f0967e540b52e7f0",
       "url": "https://doi.org/10.37501/soilsa/183903",

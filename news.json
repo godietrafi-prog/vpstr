@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-12T08:14:50Z",
+  "updated": "2026-09-12T13:16:44Z",
   "items": [
     {
       "title": "Author Correction: Governance and resilience as entry points for transforming food systems in the countdown to 2030",
@@ -122,6 +122,16 @@
       "screen": "left"
     },
     {
+      "title": "Caffeine in sugar-sweetened beverages: A silent amplifier of preference and intake",
+      "abstract": "",
+      "authors": "Dhoungsiri Sayompark, Lynn Riddell, Uracha Wanich et al.",
+      "published": "Feb 2027",
+      "feedName": "Food Quality & Preference",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0950329326002636?dgcid=rss_sd_all",
+      "image": "",
+      "screen": "left"
+    },
+    {
       "title": "Sensing the path forward: AI as amplifier in sensory and consumer science",
       "abstract": "",
       "authors": "John M. Ennis, Vanessa Rios de Souza, Maria Elena Lozano et al.",
@@ -132,32 +142,22 @@
       "screen": "left"
     },
     {
+      "title": "Finding common and different factors in the motives underlying food choices across African and European countries",
+      "abstract": "",
+      "authors": "Ingunn Berget, Nomzamo Dlamini, Henriette L. de Kock et al.",
+      "published": "Feb 2027",
+      "feedName": "Food Quality & Preference",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0950329326002570?dgcid=rss_sd_all",
+      "image": "",
+      "screen": "left"
+    },
+    {
       "title": "Halo or horn? The role of prior attitudes in shaping consumer responses to high-protein food labels",
       "abstract": "",
       "authors": "Carla Capuano, François Durand, Théo Besson",
       "published": "Feb 2027",
       "feedName": "Food Quality & Preference",
       "url": "https://www.sciencedirect.com/science/article/pii/S0950329326002491?dgcid=rss_sd_all",
-      "image": "",
-      "screen": "left"
-    },
-    {
-      "title": "Beyond exposure: familiarity and the ecology of food meaning in hierarchical environments – A military field study",
-      "abstract": "",
-      "authors": "Wanessa P.S. Bordoni, Mônica M. Pagani, Vitor A.S. Vidal et al.",
-      "published": "Feb 2027",
-      "feedName": "Food Quality & Preference",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0950329326002612?dgcid=rss_sd_all",
-      "image": "",
-      "screen": "left"
-    },
-    {
-      "title": "Categorization of explicitly labeled cell-, plant-, and animal-based food concepts by German-speaking omnivores in Switzerland",
-      "abstract": "",
-      "authors": "Madeleine Lanz, Bianca Wassmann, Bruno Etter et al.",
-      "published": "Feb 2027",
-      "feedName": "Food Quality & Preference",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0950329326002648?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },

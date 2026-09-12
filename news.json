@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-12T13:16:44Z",
+  "updated": "2026-09-12T16:41:49Z",
   "items": [
     {
       "title": "Author Correction: Governance and resilience as entry points for transforming food systems in the countdown to 2030",
@@ -242,6 +242,16 @@
       "screen": "left"
     },
     {
+      "title": "Serum metaviromic profiling of yaks and Tibetan sheep provides a pre-harvest viral baseline for food-producing ruminants",
+      "abstract": "",
+      "authors": "Ziyan Guo, Zidan Zeng, Likai Ji et al.",
+      "published": "Mar 2027",
+      "feedName": "Food Microbiology",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0740002026002650?dgcid=rss_sd_all",
+      "image": "",
+      "screen": "left"
+    },
+    {
       "title": "Mechanism of sublethal injury induced by refrigerated thawing on Escherichia coli O157:H7 in suspension and carrot",
       "abstract": "",
       "authors": "Na-Yeon Kim, Unji Kim, Se-Wook Oh",
@@ -268,16 +278,6 @@
       "published": "Mar 2027",
       "feedName": "Food Microbiology",
       "url": "https://www.sciencedirect.com/science/article/pii/S0740002026002704?dgcid=rss_sd_all",
-      "image": "",
-      "screen": "left"
-    },
-    {
-      "title": "Glycine supplementation reshapes metabolism and enhances growth and stress tolerance in Lactiplantibacillus plantarum",
-      "abstract": "",
-      "authors": "Hyeon-Ji Han, Si-Heon Song, Md Sekendar Ali et al.",
-      "published": "Mar 2027",
-      "feedName": "Food Microbiology",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0740002026002625?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -442,6 +442,16 @@
       "screen": "right"
     },
     {
+      "title": "Scientists find Ozempic may slow aging itself",
+      "abstract": "Semaglutide helped older healthy mice live longer while improving memory, muscle function, blood sugar control, and several biological signs of aging. Its effects went beyond those seen with calorie restriction, raising the possibility that GLP-1 drugs could tap into a separate biological pathway linked to longevity.",
+      "authors": "",
+      "published": "Sep 2026",
+      "feedName": "ScienceDaily Nutrition",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260911214238.htm",
+      "image": "https://www.sciencedaily.com/images/1920/ozempic-semaglutide-injection-pens.webp",
+      "screen": "right"
+    },
+    {
       "title": "Eating only 8 hours a day may help control Type 1 diabetes",
       "abstract": "Eating only between noon and 8 p.m. improved blood sugar control in a small study of adults with Type 1 diabetes and obesity, while avoiding an increase in serious complications. The promising findings offer the first evidence that time restricted eating could become another tool for managing the condition.",
       "authors": "",
@@ -469,16 +479,6 @@
       "feedName": "ScienceDaily Nutrition",
       "url": "https://www.sciencedaily.com/releases/2026/09/260904000330.htm",
       "image": "https://www.sciencedaily.com/images/1920/man-holding-supplement-capsule.webp",
-      "screen": "right"
-    },
-    {
-      "title": "A longer exhale may push your brain toward bolder decisions",
-      "abstract": "Slow breathing with a prolonged exhale made people more willing to take risks by changing heart activity and increasing the brain’s sensitivity to rewards. The findings suggest that something as simple as controlling your breath can directly influence how you evaluate choices.",
-      "authors": "",
-      "published": "Sep 2026",
-      "feedName": "ScienceDaily Nutrition",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260904000320.htm",
-      "image": "https://www.sciencedaily.com/images/1920/african-american-man-breathing-deeply-in-summer-sun.webp",
       "screen": "right"
     },
     {

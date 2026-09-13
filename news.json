@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-13T14:01:42Z",
+  "updated": "2026-09-13T17:24:17Z",
   "items": [
     {
       "title": "Author Correction: Governance and resilience as entry points for transforming food systems in the countdown to 2030",
@@ -442,6 +442,16 @@
       "screen": "right"
     },
     {
+      "title": "Most men don’t know dairy is linked to prostate cancer risk",
+      "abstract": "Most men may be missing an important dietary clue about prostate cancer. A new survey found that only 20% knew research has linked dairy consumption with increased prostate cancer risk, while 66% said they would consider avoiding dairy after learning about the connection. Studies have also associated plant-based diets with substantially lower risks of prostate cancer, progression, and recurrence.",
+      "authors": "",
+      "published": "Sep 2026",
+      "feedName": "ScienceDaily Nutrition",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260911214259.htm",
+      "image": "https://www.sciencedaily.com/images/1920/senior-man-drinking-milk-at-home.webp",
+      "screen": "right"
+    },
+    {
       "title": "A hidden compound in healthy foods may worsen IBD",
       "abstract": "A natural compound found in foods such as spinach, almonds, and sweet potatoes may aggravate gut inflammation in people with Crohn’s disease and ulcerative colitis because their intestines appear to handle it differently. Researchers say the finding could open the door to lower-oxalate diets or microbiome treatments tailored specifically to people with IBD.",
       "authors": "",
@@ -469,16 +479,6 @@
       "feedName": "ScienceDaily Nutrition",
       "url": "https://www.sciencedaily.com/releases/2026/09/260909231740.htm",
       "image": "https://www.sciencedaily.com/images/1920/clock-plate-intermittent-fasting.webp",
-      "screen": "right"
-    },
-    {
-      "title": "One sugary drink a day linked to more than double the risk of stomach cancer",
-      "abstract": "People who drank at least one sugar-sweetened beverage a day had roughly 2.45 times the risk of gastric cancer compared with those who rarely consumed them, according to a decades-long study of more than 112,000 U.S. adults. Artificially sweetened drinks showed no similar association, though researchers stress that the findings do not prove sugary beverages cause cancer.",
-      "authors": "",
-      "published": "Sep 2026",
-      "feedName": "ScienceDaily Nutrition",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260909005207.htm",
-      "image": "https://www.sciencedaily.com/images/1920/hands-crossed-no-unhealthy-soda.webp",
       "screen": "right"
     },
     {
@@ -579,6 +579,26 @@
       "researcher": {
         "name": "Iris Zohar",
         "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=YVQd-pwAAAAJ"
+      }
+    },
+    {
+      "title": "Continuing Medical (Anatomy) Education Series: Organ Donation and Transplantation, a Means of Continuity of Functional and Independent Life and Living",
+      "abstract": "Diseases and disease processes are key components of life and living. The understanding and appreciation of this axiom will impact greatly on the quality and standard of human health and life. The human body is bedeviled by a myriad of diverse and large spectrum of pathologies. These vary from hereditary, infectious, inflammatory, metabolic, structural degradation, genetic alterations, neoplastic, toxicological injury, ageing and trauma. All these reduce the functionalities of the affected organ/ organ system. There are established first line management strategies for these pathologies, however more often than not, they may not suffice. At this stage, the replacement of such organ becomes the only option for optimal quality of life or continuity of life. This can only be achieved through tissue and organ donation and transplantation. Over the decades, steady advancements are being made in the medical field of human tissue and organ donation and transplantation. Thus it becomes pertinent for students of human medicine to be well and adequately educated on the issues that relate to the donations of human tissues and organs and their transplantation. Such issues covered in this article include global statistics on organ donation and transplantation; historical antecedents of organ donation and transplantation; sources of organ transplants; tissue transplants; set guidelines and standards by The World Health Organization, The European Parliamentary Research Services and The Federal Ministry of Health and Social Welfare Nigeria.",
+      "authors": "R. S. Ajani, Ogheneochuko E. Akpobome, O. Benjamin et al.",
+      "published": "2026",
+      "venue": "Asian Journal of Medicine and Health",
+      "feedName": "Lab Research",
+      "citationCount": 0,
+      "recentCitations": 0,
+      "quartile": null,
+      "s2_paper_id": "1bc5b0dbc004a22568a84204d4f85fc6770e5354",
+      "url": "https://doi.org/10.9734/ajmah/2026/v24i31361",
+      "image": "",
+      "screen": "both",
+      "lab_paper": true,
+      "researcher": {
+        "name": "Ofir Benjamin",
+        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=FsjV0oIAAAAJ"
       }
     },
     {

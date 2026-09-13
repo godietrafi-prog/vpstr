@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-13T02:14:12Z",
+  "updated": "2026-09-13T08:43:44Z",
   "items": [
     {
       "title": "Author Correction: Governance and resilience as entry points for transforming food systems in the countdown to 2030",
@@ -292,6 +292,16 @@
       "screen": "left"
     },
     {
+      "title": "Effects of sun-drying and steaming on Ehretia macrophylla Wall. (EMW) fruit polysaccharides: structure, physicochemical properties and gut-related functions",
+      "abstract": "",
+      "authors": "Ling Mo, Hao Li, Yimeng Yu et al.",
+      "published": "Sep 2026",
+      "feedName": "npj Science of Food",
+      "url": "https://www.nature.com/articles/s41538-026-01144-4",
+      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01144-4/MediaObjects/41538_2026_1144_Fig1_HTML.png",
+      "screen": "left"
+    },
+    {
       "title": "Flavonoid C -glycosides: from structure-activity relationships to food applications",
       "abstract": "",
       "authors": "Zhiguang Wu, Dingding Shi, Ying Wang et al.",
@@ -309,16 +319,6 @@
       "feedName": "npj Science of Food",
       "url": "https://www.nature.com/articles/s41538-026-01120-y",
       "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01120-y/MediaObjects/41538_2026_1120_Fig1_HTML.png",
-      "screen": "left"
-    },
-    {
-      "title": "Solid fat analogue system for processed meat products: development, structural characterization, and application in emulsified sausages",
-      "abstract": "",
-      "authors": "Tingting Hao, Songgang Xia, Jian Song et al.",
-      "published": "Sep 2026",
-      "feedName": "npj Science of Food",
-      "url": "https://www.nature.com/articles/s41538-026-01132-8",
-      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01132-8/MediaObjects/41538_2026_1132_Fig1_HTML.png",
       "screen": "left"
     },
     {
@@ -442,6 +442,16 @@
       "screen": "right"
     },
     {
+      "title": "A hidden compound in healthy foods may worsen IBD",
+      "abstract": "A natural compound found in foods such as spinach, almonds, and sweet potatoes may aggravate gut inflammation in people with Crohn’s disease and ulcerative colitis because their intestines appear to handle it differently. Researchers say the finding could open the door to lower-oxalate diets or microbiome treatments tailored specifically to people with IBD.",
+      "authors": "",
+      "published": "Sep 2026",
+      "feedName": "ScienceDaily Nutrition",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260911214250.htm",
+      "image": "https://www.sciencedaily.com/images/1920/raw-organic-fresh-baby-spinach-in-bowl.webp",
+      "screen": "right"
+    },
+    {
       "title": "Scientists find Ozempic may slow aging itself",
       "abstract": "Semaglutide helped older healthy mice live longer while improving memory, muscle function, blood sugar control, and several biological signs of aging. Its effects went beyond those seen with calorie restriction, raising the possibility that GLP-1 drugs could tap into a separate biological pathway linked to longevity.",
       "authors": "",
@@ -469,16 +479,6 @@
       "feedName": "ScienceDaily Nutrition",
       "url": "https://www.sciencedaily.com/releases/2026/09/260909005207.htm",
       "image": "https://www.sciencedaily.com/images/1920/hands-crossed-no-unhealthy-soda.webp",
-      "screen": "right"
-    },
-    {
-      "title": "Popular brain supplement linked to shorter lifespan in men",
-      "abstract": "A large study involving more than 270,000 people has linked higher blood levels of the amino acid tyrosine to a shorter lifespan in men. Using both observational data and genetic analysis, researchers found that elevated tyrosine could potentially reduce male life expectancy by nearly a year, while no significant effect appeared in women. Tyrosine is found naturally in protein-rich foods and is also sold as a supplement for boosting focus and mental performance, making the finding especially intriguing.",
-      "authors": "",
-      "published": "Sep 2026",
-      "feedName": "ScienceDaily Nutrition",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260904000330.htm",
-      "image": "https://www.sciencedaily.com/images/1920/man-holding-supplement-capsule.webp",
       "screen": "right"
     },
     {

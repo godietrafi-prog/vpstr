@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-15T00:07:59Z",
+  "updated": "2026-09-15T07:01:50Z",
   "items": [
     {
       "title": "Author Correction: Governance and resilience as entry points for transforming food systems in the countdown to 2030",
@@ -482,44 +482,104 @@
       "screen": "right"
     },
     {
-      "title": "Duckweed (Wolffia globosa, Wolffia arrhiza, and Lemna minor) as novel therapeutic food for acute malnutrition and famine alleviation in low- and middle-income countries and humanitarian crisis settings",
-      "abstract": "Acute malnutrition remains a leading cause of under-five mortality in low- and middle-income countries (LMICs), particularly in humanitarian crisis settings where conventional therapeutic food supply chains are frequently disrupted. There is an urgent need for locally cultivable, affordable, and nutritionally adequate alternatives to imported ready-to-use therapeutic foods (RUTFs). In this review, we examine the nutritional composition, food safety, and production scalability of three duckweed species, namely: Wolffia globosa, Wolffia arrhiza, and Lemna minor, as candidate therapeutic foods in famine-affected regions. Compositional analyses indicated that these species consist of a high protein content (up to 48.2, 50.9, and 39.1% dry weight for W. globosa, W. arrhiza, and L. minor, respectively), a comprehensive essential amino acid profile, and an array of micronutrients and immunomodulatory compounds. As indicated by a Protein Digestibility-Corrected Amino Acid Score (PDCAAS) of 89% for W. globosa and the Digestible Indispensable Amino Acid Score (DIAAS) of 0.75 for W. arrhiza, the protein quality of duckweed is considered high. Furthermore, as one of the fastest-growing plants on earth, duckweed can double their biomass in only 4–5 days, reach harvest size within 2–5 days, and produce up to ∼177 g of biomass per square meter per day, with water requirements up to 90% lower per kilogram of protein produced as compared to conventional crops. Although antinutritional factor levels are comparable to common vegetables and pathogen risks are manageable via solar drying and bo…",
-      "authors": "Adriana E. Hernani-Rodrigo, Shilah F. Waters, Laura S. Valderrama Figueroa et al.",
+      "title": "Alcalase-hydrolyzed casein peptides after simulated gastrointestinal digestion alleviate high-fat diet-induced metabolic dysfunction in mice",
+      "abstract": "Background and aimHigh-fat diet (HFD)-induced metabolic dysfunction is associated with disturbances in gut microbial composition and hepatic lipid metabolism. This study investigated the metabolic effects of Alcalase-hydrolyzed casein peptides after simulated gastrointestinal digestion (MCPs) in HFD-fed mice and explored their potential association with gut microbiota and fecal metabolic alterations.ResultsMCP supplementation attenuated body weight gain, improved serum lipid profiles, and alleviated hepatic steatosis and injury in HFD-fed mice. In the colon, MCPs ameliorated histological damage and suppressed the mRNA and protein expression of pro-inflammatory cytokines, including IL-6, IL-1β, and TNF-α. Gut microbiota analysis revealed increased relative abundances of Akkermansia, Bifidobacterium, and Lactobacillus and reduced abundance of Desulfovibrio following MCP supplementation. Fecal metabolomics identified alterations in bile acid- and lipid metabolism-related signatures, including increased levels of tauroursodeoxycholic acid (TUDCA) and reduced arachidonic acid metabolism-related metabolites. In the liver, MCPs downregulated. SREBP-1c/ACC/GPAT1 lipogenic signaling and enhanced Nrf2/HO-1-associated antioxidant responses. Correlation analysis revealed associations between microbial-metabolic alterations and host metabolic phenotypes.ConclusionCollectively, MCPs may alleviate HFD-induced metabolic dysfunction by modulating gut microbiota-associated metabolic profiles and improving intestinal and hepatic metabolic responses.",
+      "authors": "Ling Mo, Chaochao Zhao, Tian Wang et al.",
       "published": "Sep 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1835959",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1960914",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "The association of perceived stress on disordered eating among female college students: the mediating role of negative emotions and the moderating role of physical exercise",
-      "abstract": "BackgroundDisordered eating is prevalent among female college students and is associated with adverse physical and mental health outcomes. This study examined the mediating role of negative emotions in the relationship between perceived stress and three types of disordered eating (emotional eating, restrained eating, and external eating), as well as the moderating role of physical exercise among female college students.MethodsA cross-sectional survey was conducted among 604 female college students from four universities in China. Participants completed validated measures assessing perceived stress, negative emotions, physical exercise, and disordered eating. Mediation and moderation analyses were performed using the PROCESS macro (Model 4 and Model 59) with 5,000 bootstrap resamples.ResultsPerceived stress was positively associated with all three types of disordered eating. Negative emotions partially mediated the relationship between perceived stress and emotional eating, and fully mediated the relationship with restrained eating, but did not mediate the relationship with external eating. Physical exercise negatively moderated the associations between negative emotions and both emotional eating and restrained eating. However, physical exercise positively moderated the relationship between perceived stress and negative emotions, though with very small effect sizes.ConclusionNegative emotions serve as a key mechanism linking perceived stress to emotionally driven eating patterns, with differential mediating roles across eating behavior types. Physical exercise may serve as a…",
-      "authors": "Xiangli Ni, Xiaojuan Zhu",
+      "title": "Oral L-carnitine supplementation lowers serum uric acid and is associated with renal and intestinal urate-handling responses in hyperuricemic mice",
+      "abstract": "IntroductionHyperuricemia (HUA) is a common metabolic disorder associated with gout, renal dysfunction, and intestinal microenvironment disturbance. Impaired urate excretion is considered a major driver of sustained HUA. However, whether nutritional interventions are associated with renal and intestinal urate-handling-related responses remains unclear. This exploratory study investigated whether oral L-carnitine supplementation reduces serum uric acid levels and is accompanied by renal, intestinal, and microbiota-related changes.MethodsMale C57BL/6 mice were fed a UA/PO-supplemented diet for 12 weeks to establish the HUA model. Mice were assigned to a control group, an untreated HUA group, and L-carnitine-treated groups. Serum uric acid and renal-related biochemical indices were measured. Renal and intestinal histology, urate transporter expression, renal signaling pathways, and gut microbiota composition were evaluated to characterize hepatic urate production-related and renal–intestinal urate-handling-related responses.ResultsOral L-carnitine supplementation reduced serum uric acid levels and improved renal-related biochemical indices. It did not significantly affect hepatic XOD or ADA, indicating that the urate-lowering effect was not primarily explained by reduced hepatic urate production. In the kidney, L-carnitine restored OAT1 expression and attenuated NF-κB-related inflammatory signaling. In the intestine, it improved villus structure, increased ZO-1 and Occludin expression, and was associated with increased intestinal ABCG2 expression. Gut microbiota structure was …",
+      "authors": "Fengyu Jin, Yujiao Huang, Fengwei Zhang et al.",
       "published": "Sep 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1935263",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1866695",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Editorial: Innovative food technologies for a sustainable future: bridging science, processing, and circularity",
-      "abstract": "",
-      "authors": "Margherita Modesti",
+      "title": "Cassava starch enhances the printability and swallowability of rapeseed protein gels for 3D-printed dysphagia foods",
+      "abstract": "Plant-based proteins have attracted increasing attention in the development of easy-to-swallow foods and three-dimensional printing (3DP) materials due to their excellent nutritional properties. However, the disordered arrangement of protein molecular chains in rapeseed protein (RP) results in insufficient structural stability and poor self-supporting capacity during 3DP, leading to collapse behaviour. To address this limitation, cassava starch (CS) was incorporated into RP gels at different CS: RP ratios to improve printability and swallowing properties. FT-IR and XRD analyses demonstrated that the addition of 1%–5% CS promoted hydrogen bonding interactions with RP, thereby enhancing the gel network structure and increasing the storage modulus. Texture analysis revealed that the obtained gels possessed suitable cohesiveness and hardness (28.67–36.33 g), indicating favorable swallowability characteristics. Moreover, the incorporation of CS significantly improved the viscosity, printing fidelity, and self-supporting strength of RP gels, effectively eliminating collapse during the printing process. Among all formulations, the 2%-CS group exhibited the optimal printing performance, achieving the highest storage modulus, the lowest creep strain (3.06%), and a printing accuracy of 97.37%. In addition, this formulation satisfied the requirements for Level 4 foods according to the International Dysphagia Diet Standardisation Initiative (IDDSI). LF-NMR analysis further indicated that the enhanced properties originated from the water-retaining network formed through cross-linking in…",
+      "authors": "Yuxing Zhang, Jingru Dong, Yike Su et al.",
       "published": "Sep 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1964683",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1888256",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Development and nutritional evaluation of an extruded grain amaranth-instant porridge as a supplementary food for children under five with moderate acute malnutrition",
-      "abstract": "Moderate acute malnutrition (MAM) among children under five remains a challenge in Tanzania, where the fortified blended foods used to manage it are almost entirely imported, expensive and inaccessible. This study developed and evaluated a grain amaranth-based extruded instant porridge as a locally sourced alternative. Five formulations were generated from grain amaranth, pro-vitamin A maize, soybean and sesame by two-stage linear programming using regional food composition data, with crude protein maximized subject to a technological fat ceiling of 11.0 g/100 g. Formulation 1, the least-cost solution, and Formulation 5, the most nutrient-dense within fat ceiling that is more economical than the non-compliant Formulation 3, were advanced to twin-screw extrusion. Proximate composition (AOAC 2005), mineral content (microwave plasma atomic emission spectrometry) and anti-nutritional factors (colorimetric methods) were determined; functional and sensory properties were evaluated; data were analyzed by ANOVA. Protein ranged from 18.14 g/100 g in Formulation 1 to 20.53 g/100 g in Formulation 5 reaching 98.0% of the WFP/UNICEF Super Cereal Plus (CSB++) minimum of 400 kcal/100 g. Formulation 5 showed the highest fat (11.95 g/100 g) and zinc (8.98 mg/100 g), all within CSB++ ranges, with only potassium below specification (37.1%). Extrusion significantly increased water absorption capacity (p < 0.001), shifted the flour from the fair to good flowing category, and reduced tannins, oxalates and phytate by 50.2, 64.9 and 77.6% relative to raw grain amaranth. Sensory scores showed good …",
-      "authors": "Amos Steven Mwikwabe, Haikael David Martin, Benson Kusirie Mushi et al.",
+      "title": "Acupoint catgut embedding exerts node-dependent effects on leptin resistance–related signaling and the ghrelin–GOAT pathway in obese mice",
+      "abstract": "BackgroundObesity is a major metabolic health problem with limited effective treatments. Acupoint catgut embedding (ACE) has shown therapeutic potential; however, its underlying mechanisms remain unclear. This study aimed to investigate the effects of ACE on leptin resistance and the Ghrelin-GOAT pathway in obese mice.MethodsDiet-induced obesity was established in C57BL/6 J mice. A total of 51 mice were included in the final analysis across six groups: normal control, obese model control, ST36 sham ACE, ST36 verum ACE, ST25 ACE, and ST25 + ST36 ACE. ACE was administered once weekly for 5 weeks. Body weight, Lee’s index, and daily food intake were recorded. Serum and cerebrospinal fluid (CSF) leptin levels were measured to assess peripheral and central leptin availability. Hypothalamic SOCS3 and PTP1B protein expression and POMC/NPY mRNA levels were evaluated. Ghrelin-related indicators in gastric tissue and hypothalamus were also assessed.ResultsAt week 1, body weight and Lee’s index were lower in the ST36 verum ACE group than in the ST25 + ST36 group (p < 0.01), and the difference in Lee’s index remained significant at week 2 (p = 0.002). Food intake decreased transiently at week 1 in all obese groups, with a significant time effect (p < 0.001) but no group or group-by-time interaction effects (p > 0.05). For leptin resistance–related parameters, serum leptin levels in the model control group were significantly higher than those in the normal control group (p < 0.001), whereas CSF leptin levels were increased in the verum ST36 ACE group compared with the model control grou…",
+      "authors": "Qiwang Yang, Han Yang, Jinjiao Zhang et al.",
       "published": "Sep 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1895788",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1853669",
       "image": "",
       "screen": "right"
+    },
+    {
+      "title": "Phosphorus in Balance: Evaluating the Costs and Benefits of a Circular Economy Approach",
+      "abstract": "This paper presents a comprehensive cost-benefit analysis of producing alternative phosphorus (P) fertilizers from recycled water treatment residuals (Fe-WTR) and cowshed effluents. The cost-benefit values of Fe-WTR are compared to the net costs of recycling P using a synthetic adsorbent (commonly used practice-layered double hydroxide, P-LDH) and the costs of commercial fertilizers. Dairy wastewater is used as a source of P. The cost of 1 ton P using the Fe-WTR process is €329. In contrast, synthetic adsorbents (P-LDH) incur significantly higher costs, amounting to €3329 per ton, underscoring the economic advantage of utilizing waste-derived materials. Adopting Fe-WTR fertilizer not only offers substantial cost savings by avoiding landfill fees (€40 per ton) and wastewater discharge fines (€500 per ton) but also reduces environmental impacts when compared to the use of commercial P fertilizers (non-recycled P). The Fe-WTR method mitigates eutrophication and pollution, presenting the dual benefit of cost-effectiveness and environmental protection, which exceeds the common P recycling practice (LDH). Our conclusions are based on production processes in Israel and compared to previous cost estimations at the world level, assessing the potential gain from such circular production of P globally. Recycling P from waste streams can be economically viable and environmentally preferable at small and large economic scales, supporting global sustainability goals.",
+      "authors": "H. E. Ganem, I. Zohar, M. Litaor et al.",
+      "published": "2024",
+      "venue": "Journal of Environmental Science Studies",
+      "feedName": "Lab Research",
+      "citationCount": 0,
+      "recentCitations": 0,
+      "quartile": null,
+      "s2_paper_id": "5a7645fb724f2527117a809194848a4b84de25da",
+      "url": "https://doi.org/10.20849/jess.v7i2.1469",
+      "image": "",
+      "screen": "both",
+      "lab_paper": true,
+      "researcher": {
+        "name": "Iris Zohar",
+        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=YVQd-pwAAAAJ"
+      }
+    },
+    {
+      "title": "The impact of alternative recycled and synthetic phosphorus sources on plant growth and responses, soil interactions and sustainable agriculture - lettuce (Lactuca sativa) as a case model.",
+      "abstract": "This research assesses the efficacy of two phosphorus (P) adsorbents as alternative fertilizers in promoting lettuce growth. A synthetic Mg/Al-layered double hydroxide (LDH) and an iron-based recycled water treatment residual (Fe-WTR), both enriched with P from dairy wastewater and added at three dosage levels. We hypothesized that the adsorbents' physicochemical nature will overshadow the biological efforts in the plant ecosystem to increase P solubility, impacting plant growth, nutritional composition, and metabolite profiles. Fe-WTR significantly enhanced lettuce biomass compared to LDH. Yet, elemental analysis revealed higher or equal P concentrations in the low-biomass LDH plants relative to other treatments. Phosphorus uptake appears to influence the assimilation of other nutrients that divided into two groups: calcium, magnesium, zinc, and copper with notable correlations to P and nitrogen, iron, aluminum, vanadium and manganese with low correlations to P. Conversely, P retained poor correlation with most metabolites whereas iron showed a higher correlation with numerous metabolites. Analysis of metabolites, encompassing carbohydrates, the Krebs cycle, amino acids, nucleic acids, and stress and regulatory pathways, revealed diminished levels in the LDH treatments. Overall, carbon assimilation (plant growth) was more effectively predicted by soil P availability (adsorbent type and dose) rather than by cellular P concentration, suggesting root signaling was at play, influencing carbohydrate translocation to the roots. Diminished levels of cellular sugars further affect…",
+      "authors": "I. Zohar, H. E. Ganem, D. DiSegni et al.",
+      "published": "2024",
+      "venue": "Science of the Total Environment",
+      "feedName": "Lab Research",
+      "citationCount": 8,
+      "recentCitations": 0,
+      "quartile": "Q1",
+      "s2_paper_id": "716a87e9602f04f6b3d7fe6c3b411a15d1beaf4a",
+      "url": "https://doi.org/10.1016/j.scitotenv.2024.174719",
+      "image": "",
+      "screen": "both",
+      "lab_paper": true,
+      "researcher": {
+        "name": "Iris Zohar",
+        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=YVQd-pwAAAAJ"
+      }
+    },
+    {
+      "title": "Biogeochemical impacts on soil phosphorus and other macro- and micro elements solubility, ratios and forms during heatwaves",
+      "abstract": "Increased frequency and amplitude of extreme heat events can affect soil temperature, and biogeochemical processes. High temperatures may have contradicting geochemical and biological effects on essential elements solubility and forms. Endothermic behavior of minerals and oxides results in decreased solubility with increased temperature, while bio-mineralization is stimulated in response to high temperature. To elucidate heatwave impacts on soil biogeochemical processes, we performed a controlled soil incubation experiment and a field survey. Wet and dry alluvial soil sets were incubated at background temperature (33°C) for two weeks and then, a sequence of three heat events was induced (41°C/33°C alternations, five days each) followed by two short events of extreme heat (48°C for two days). Most soil indices changed trends after about 25-30 days. At the first part of the period, P, Al, Fe appeared to reflect endothermic behavior of (hydr)oxides and minerals in the dry soil (i.e., sorbed P was likely dependent on Fe (hydr)oxides dissolution), while trends of Fe/Al in the wet soil followed the dissolved organic C trend. Phosphatases enzymatic activities fluctuated positively with temperature, emphasizing the activity of residual extracellular enzymes sorbed to soil particles (dry soil) in addition to living cells excreted enzymes (wet soil). With the 3 rd heatwave, soluble P dramatically fluctuated with temperature, suggesting a sequence of temperature-enhanced bio-mineralization, releasing P to the soil solution, counteracted by geochemical sorption, removing P from solutio…",
+      "authors": "I. Zohar, M. Khoury, Yael Kirshenbaum et al.",
+      "published": "2023",
+      "venue": "Goldschmidt2023 abstracts",
+      "feedName": "Lab Research",
+      "citationCount": 0,
+      "recentCitations": 0,
+      "quartile": null,
+      "s2_paper_id": "e71980935a3dcce1c2b9257fe6bd261b6cf61461",
+      "url": "https://doi.org/10.7185/gold2023.18565",
+      "image": "",
+      "screen": "both",
+      "lab_paper": true,
+      "researcher": {
+        "name": "Iris Zohar",
+        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=YVQd-pwAAAAJ"
+      }
     },
     {
       "title": "Continuing Medical (Anatomy) Education Series: Organ Donation and Transplantation, a Means of Continuity of Functional and Independent Life and Living",

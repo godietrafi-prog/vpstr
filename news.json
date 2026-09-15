@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-15T20:43:39Z",
+  "updated": "2026-09-15T23:52:06Z",
   "items": [
     {
       "title": "Author Correction: Governance and resilience as entry points for transforming food systems in the countdown to 2030",
@@ -362,6 +362,16 @@
       "screen": "left"
     },
     {
+      "title": "Plasma and electricity convert CO₂ into methanol, butane and other useful chemicals",
+      "abstract": "Carbon dioxide (CO₂) can be harmful to the environment in large amounts but can be used in the production of fuels and other useful chemicals. Doing so isn't easy, though. Now, Yale researchers have developed a new way to combine electrocatalysis and plasma to efficiently and practically generate a number of valuable products from the gas. The results are published in Nature Catalysis.",
+      "authors": "",
+      "published": "Sep 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-09-plasma-electricity-methanol-butane-chemicals.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/electricity-and-plasma.jpg",
+      "screen": "right"
+    },
+    {
       "title": "Adaptive crystal can selectively capture CO₂ and recognize similar molecules",
       "abstract": "Chemical separation can be energy-intensive when molecules have similar sizes and properties. Researchers from Shibaura Institute of Technology, Japan, have now developed an interlayer adaptive crystal that changes its spacing to recognize specific molecules.",
       "authors": "",
@@ -389,16 +399,6 @@
       "feedName": "Phys.org Analytics",
       "url": "https://phys.org/news/2026-09-hidden-receptor-interactions-failures-brain.html",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/two-structural-images.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "Turning a potent greenhouse gas into a valuable pharmaceutical building block using light",
-      "abstract": "The trifluoromethyl group, or CF₃, is widely used in pharmaceuticals. When added to organic molecules, it can improve metabolic stability and membrane permeability, making it highly valuable in drug development. One useful way to introduce a CF₃ group is through the use of highly reactive CF₃ radicals. However, existing methods for generating these radicals often rely on expensive, corrosive or potentially explosive reagents and can produce unwanted waste.",
-      "authors": "",
-      "published": "Sep 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-09-potent-greenhouse-gas-valuable-pharmaceutical.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/turning-a-potent-green-2.jpg",
       "screen": "right"
     },
     {

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-15T07:01:50Z",
+  "updated": "2026-09-15T13:03:58Z",
   "items": [
     {
       "title": "Author Correction: Governance and resilience as entry points for transforming food systems in the countdown to 2030",
@@ -92,6 +92,16 @@
       "screen": "left"
     },
     {
+      "title": "When surveillance outpaces understanding: translational challenges in foodborne pathogen research revealed by Salmonella Dublin",
+      "abstract": "",
+      "authors": "Muhamad Firdaus Syahmi Sam-on, Ku Nur Azwa Ku Aizuddin, Yi Shao et al.",
+      "published": "Dec 2026",
+      "feedName": "Trends in Food Sci & Tech",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426005480?dgcid=rss_sd_all",
+      "image": "",
+      "screen": "left"
+    },
+    {
       "title": "Digitalization pathways for food loss and waste prevention in agri-food supply chains: Current evidence, challenges and future directions",
       "abstract": "",
       "authors": "Esteban Pérez-García, Hani A. Alfheeaid, Esther Sanjuán et al.",
@@ -108,16 +118,6 @@
       "published": "Dec 2026",
       "feedName": "Trends in Food Sci & Tech",
       "url": "https://www.sciencedirect.com/science/article/pii/S0924224426005467?dgcid=rss_sd_all",
-      "image": "",
-      "screen": "left"
-    },
-    {
-      "title": "Decoding salty and salt-enhancing peptides: From activity characterization to food processing and functional development",
-      "abstract": "",
-      "authors": "Yimin Jia, Mengwei Chang, No Junhee et al.",
-      "published": "Dec 2026",
-      "feedName": "Trends in Food Sci & Tech",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426005443?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -242,6 +242,16 @@
       "screen": "left"
     },
     {
+      "title": "Occurrence, persistence and pathogenic potential of Bacillus cereus sensu lato strains isolated during processing of two plant-based desserts",
+      "abstract": "",
+      "authors": "Marine Zanetti, Marie-Hélène Guinebretière, Stéphanie Oriol et al.",
+      "published": "Mar 2027",
+      "feedName": "Food Microbiology",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0740002026002674?dgcid=rss_sd_all",
+      "image": "",
+      "screen": "left"
+    },
+    {
       "title": "Serum metaviromic profiling of yaks and Tibetan sheep provides a pre-harvest viral baseline for food-producing ruminants",
       "abstract": "",
       "authors": "Ziyan Guo, Zidan Zeng, Likai Ji et al.",
@@ -272,13 +282,33 @@
       "screen": "left"
     },
     {
-      "title": "Distinguishing riboflavin auxotrophy from heat-specific adaptation in Escherichia coli",
+      "title": "Intercropping with Areca catechu reshapes flavor of Hainan Dayezhong white tea via microenvironment modulation",
       "abstract": "",
-      "authors": "Man Yu, Xin Zhang, Hui Qin",
-      "published": "Mar 2027",
-      "feedName": "Food Microbiology",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0740002026002704?dgcid=rss_sd_all",
-      "image": "",
+      "authors": "Yunfei Hu, Jing Huang, Qiuru Zhang et al.",
+      "published": "Sep 2026",
+      "feedName": "npj Science of Food",
+      "url": "https://www.nature.com/articles/s41538-026-01154-2",
+      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01154-2/MediaObjects/41538_2026_1154_Fig1_HTML.png",
+      "screen": "left"
+    },
+    {
+      "title": "Hairy root-derived nanovesicles from Cannabis sativa : Sustainable bioactive nanomaterials with immunomodulatory and anti-tumor potential",
+      "abstract": "",
+      "authors": "Yun Hye Kim, Hyeon Jin Lee, Hyoung-Geun Kim et al.",
+      "published": "Sep 2026",
+      "feedName": "npj Science of Food",
+      "url": "https://www.nature.com/articles/s41538-026-01158-y",
+      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01158-y/MediaObjects/41538_2026_1158_Fig1_HTML.png",
+      "screen": "left"
+    },
+    {
+      "title": "A food-derived bioactive small molecule DRL-7 enhances bone marrow stem cell function via CXCL12-CXCR4–PI3K-Akt signaling",
+      "abstract": "",
+      "authors": "Liangjie Lu, Lijun Wang, Minjie Yang et al.",
+      "published": "Sep 2026",
+      "feedName": "npj Science of Food",
+      "url": "https://www.nature.com/articles/s41538-026-00936-y",
+      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-00936-y/MediaObjects/41538_2026_936_Fig1_HTML.png",
       "screen": "left"
     },
     {
@@ -292,33 +322,13 @@
       "screen": "left"
     },
     {
-      "title": "Effects of sun-drying and steaming on Ehretia macrophylla Wall. (EMW) fruit polysaccharides: structure, physicochemical properties and gut-related functions",
+      "title": "Develop a multi-branch fusion deep learning model to estimate the winter wheat yields under extreme climate events",
       "abstract": "",
-      "authors": "Ling Mo, Hao Li, Yimeng Yu et al.",
-      "published": "Sep 2026",
-      "feedName": "npj Science of Food",
-      "url": "https://www.nature.com/articles/s41538-026-01144-4",
-      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01144-4/MediaObjects/41538_2026_1144_Fig1_HTML.png",
-      "screen": "left"
-    },
-    {
-      "title": "Flavonoid C -glycosides: from structure-activity relationships to food applications",
-      "abstract": "",
-      "authors": "Zhiguang Wu, Dingding Shi, Ying Wang et al.",
-      "published": "Sep 2026",
-      "feedName": "npj Science of Food",
-      "url": "https://www.nature.com/articles/s41538-026-01141-7",
-      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01141-7/MediaObjects/41538_2026_1141_Fig1_HTML.png",
-      "screen": "left"
-    },
-    {
-      "title": "Color-based prediction of mango total soluble solids and vitamin C using reflectance color measurement",
-      "abstract": "",
-      "authors": "Kusumiyati Kusumiyati, Wawan Sutari, Unang Supratman et al.",
-      "published": "Sep 2026",
-      "feedName": "npj Science of Food",
-      "url": "https://www.nature.com/articles/s41538-026-01120-y",
-      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01120-y/MediaObjects/41538_2026_1120_Fig1_HTML.png",
+      "authors": "Xin Jiang, Delong Kong, Jiahua Zhang et al.",
+      "published": "",
+      "feedName": "AI in Agriculture",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2589721726001108?dgcid=rss_sd_all",
+      "image": "",
       "screen": "left"
     },
     {
@@ -348,16 +358,6 @@
       "published": "",
       "feedName": "AI in Agriculture",
       "url": "https://www.sciencedirect.com/science/article/pii/S2589721726001017?dgcid=rss_sd_all",
-      "image": "",
-      "screen": "left"
-    },
-    {
-      "title": "CropFusionNet: an interpretable deep learning framework for uncertainty-aware crop yield forecasting across Germany",
-      "abstract": "",
-      "authors": "Amit Kumar Srivastava, Krishnagopal Halder, Gina Lopez et al.",
-      "published": "",
-      "feedName": "AI in Agriculture",
-      "url": "https://www.sciencedirect.com/science/article/pii/S2589721726001029?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -899,86 +899,6 @@
       "researcher": {
         "name": "Gilad Davidson-Rozenfeld",
         "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=vh7tqKQAAAAJ"
-      }
-    },
-    {
-      "title": "The effect of simulation training on the counseling skills of nutritional science students in dietetic internships",
-      "abstract": "Simulations are a common tool in training aircrews, medical personnel and educators, providing experience in scenarios from the relevant content area and expanding the range of responses that simulation participants can acquire before they enter the field. Simulations have also been used in dietetic internships to improve clinical counseling skills. However, the use of structured simulations that involve progressive, multisession patient interactions has not been extensively studied in the context of dietetic internships. This study employed consecutive scenario models where interns developed ongoing interactions with the same simulated patient over multiple sessions, representing a significant methodological innovation in the field. A mixed method methodology was used to analyze closed and open-ended questionnaires which were administered to twenty-one interns, simulation actors and professional dietitians. This pilot study demonstrates the effectiveness of group and individual simulation training in enhancing dietetic interns’ counseling skills during their training and describes how simulation can contribute to both the professional skills and self-efficacy required to lead a counseling session. These findings will enable additional academic departments to examine the integration of simulation into the training programs of interns in tracks that include a practicum.",
-      "authors": "I. Linder, Zafit Lukach, Keren Pergament et al.",
-      "published": "2025",
-      "venue": "BMC Medical Education",
-      "feedName": "Lab Research",
-      "citationCount": 1,
-      "recentCitations": 0,
-      "quartile": "Q1",
-      "s2_paper_id": "5ee7aceac233a82917e92f646d2284fffcfd28b2",
-      "url": "https://doi.org/10.1186/s12909-025-07674-x",
-      "image": "",
-      "screen": "both",
-      "lab_paper": true,
-      "researcher": {
-        "name": "Rafi Steckler",
-        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=BOhLTM0AAAAJ"
-      }
-    },
-    {
-      "title": "The Anticonvulsant Effects of Different Cannabis Extracts in a Zebrafish Model of Epilepsy",
-      "abstract": "Epilepsy is a widespread neurological disorder that remains a critical global public health challenge. While numerous antiepileptic drugs (AEDs) are available, many patients either fail to achieve adequate seizure control or experience significant side effects. One promising alternative is pure cannabidiol (CBD), but using a whole cannabis extract may be equally effective and preferred for some patients. In the current study, we employed the pentylenetetrazole (PTZ)-induced hyperactivity model in zebrafish to compare the effects of CBD with various cannabis extracts. We evaluated three cannabis strains, each subjected to three different extraction methods, and benchmarked the results against the commercially available AED valproic acid (VPA). Our findings revealed that 5.7 µg/mL of CBD and 10 µg/mL of different extracts significantly reduced movement compared to PTZ and VPA. In addition, effective extracts produced effects similar to pure CBD despite containing much lower molecule levels. These results reinforced and expanded previous evidence supporting the clinical potential of both CBD and whole cannabis extracts for seizure control while suggesting a possible entourage effect. Further research is necessary to determine which patients may benefit more from pure CBD versus those who might prefer whole cannabis extracts.",
-      "authors": "Karen Jackson, Maytal Shabat-Simon, J. Bar-on et al.",
-      "published": "2025",
-      "venue": "Biomolecules",
-      "feedName": "Lab Research",
-      "citationCount": 4,
-      "recentCitations": 0,
-      "quartile": "Q1",
-      "s2_paper_id": "e8d95d5b119ba86262a480c8753459d85b64d105",
-      "url": "https://doi.org/10.3390/biom15050654",
-      "image": "",
-      "screen": "both",
-      "lab_paper": true,
-      "researcher": {
-        "name": "Rafi Steckler",
-        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=BOhLTM0AAAAJ"
-      }
-    },
-    {
-      "title": "Physiological Impacts of Energy Drink Consumption: A Clinical Analysis in Adolescents",
-      "abstract": "Energy drink (ED) consumption among Israeli-Arab adolescents is widespread. This study aimed to investigate the acute glycemic and insulin effects of EDs in healthy adolescents. Seventy-one Israeli-Arab adolescents (56% girls, average age 16.04 ± 1.03 years) participated in a non-randomized, case-controlled, open-label study. Participants consumed ED (n = 36) or a volume- and carbohydrate-matched non-caffeinated soft drink (SD, n = 35), followed by a 2 h glucose tolerance test. Blood glucose was measured at baseline and 15, 30, 60, and 120 min post-consumption (T0, T15, T30, T60 and T120, respectively). Serum insulin concentration and caffeine relative intensity were determined 45 min post-consumption (T45). Blood glucose levels peaked significantly at T15 and remained significantly higher at T30 in the ED group compared to the SD group (p = 0.005, p = 0.017, respectively). Insulin concentrations were substantially higher at T45 in the ED group (t [64] = 2.794, p = 0.001). This pattern was especially prominent in heavy ED consumers. A positive correlation emerged between the amount of caffeine consumed (mg/kg), blood glucose levels at T15 and T30, and insulin concentration at T45. This study is the first to demonstrate the glycemic and insulin responses to ED consumption in adolescents, suggesting that regulatory measures limiting ED sales to adolescents could improve their health.",
-      "authors": "Gilad Naveh, Bshara Mansour, Mahmoud Bader et al.",
-      "published": "2024",
-      "venue": "Nutrients",
-      "feedName": "Lab Research",
-      "citationCount": 7,
-      "recentCitations": 0,
-      "quartile": "Q1",
-      "s2_paper_id": "b97e4acafc9606b86df3bd0c797faa7fbcf900b7",
-      "url": "https://doi.org/10.3390/nu16142328",
-      "image": "",
-      "screen": "both",
-      "lab_paper": true,
-      "researcher": {
-        "name": "Rafi Steckler",
-        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=BOhLTM0AAAAJ"
-      }
-    },
-    {
-      "title": "Disrupted gut harmony in attention-deficit/hyperactivity disorder: Dysbiosis and decreased short-chain fatty acids",
-      "abstract": "Background Attention-Deficit Hyperactivity Disorder (ADHD) is a prevalent neurodevelopmental disorder with complex genetic and environmental underpinnings. Emerging evidence suggests a significant role of gut microbiota in ADHD pathophysiology. This study investigates variations in gut microbiota composition and Short-Chain Fatty Acid (SCFA) profiles between children and adolescents with ADHD and healthy controls. Methods The study included 42 ADHD patients and 31 healthy controls, aged 6–18 years. Fecal samples were analyzed for microbial composition using 16S rRNA gene sequencing and for SCFA profiles through gas chromatography-mass spectrometry (GC-MS). The study assessed both α and β diversity of gut microbiota and quantified various SCFAs to compare between the groups. Results ADHD subjects demonstrated significantly reduced gut microbiota diversity, as indicated by lower α-diversity indices (Shannon index, Observed species, Faith PD index) and a trend towards significance in β-diversity (Weighted UniFrac). Notably, the ADHD group exhibited significantly lower levels of key SCFAs, including acetic, propionic, isobutyric, isovaleric, and valeric acids, highlighting a distinct microbial and metabolic profile in these individuals. Conclusion This study uncovers significant alterations in gut microbiota and SCFA profiles in children with ADHD, compared to healthy controls. The observed changes in SCFAs, known for their associations with other behavioral and neurologic pathologies, and for their role in neural signaling. These findings offer a metabolite fingerprint that co…",
-      "authors": "Rafi Steckler, F. Magzal, M. Kokot et al.",
-      "published": "2024",
-      "venue": "Brain, Behavior, & Immunity - Health",
-      "feedName": "Lab Research",
-      "citationCount": 20,
-      "recentCitations": 0,
-      "quartile": null,
-      "s2_paper_id": "e6bf6bc6dc39538aed6d5e9f0a2aad62f0702494",
-      "url": "https://doi.org/10.1016/j.bbih.2024.100829",
-      "image": "",
-      "screen": "both",
-      "lab_paper": true,
-      "researcher": {
-        "name": "Rafi Steckler",
-        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=BOhLTM0AAAAJ"
       }
     },
     {

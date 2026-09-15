@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-15T17:55:38Z",
+  "updated": "2026-09-15T20:43:39Z",
   "items": [
     {
       "title": "Author Correction: Governance and resilience as entry points for transforming food systems in the countdown to 2030",
@@ -282,6 +282,26 @@
       "screen": "left"
     },
     {
+      "title": "Microwave-assisted extraction and optimization of pectin from Aegle marmelos using response surface methodology and metaheuristic algorithms",
+      "abstract": "",
+      "authors": "Snigdha Satabdi Dixit, Muruganandam L, Ganesh Moorthy I",
+      "published": "Sep 2026",
+      "feedName": "npj Science of Food",
+      "url": "https://www.nature.com/articles/s41538-026-01128-4",
+      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01128-4/MediaObjects/41538_2026_1128_Fig1_HTML.png",
+      "screen": "left"
+    },
+    {
+      "title": "Dendrobium officinale-derived extracellular nanovesicles alleviate metabolic disorders and intestinal barrier dysfunction in db/db mice",
+      "abstract": "",
+      "authors": "Pei Wu, Yunfeng Yu, Tongyang Xu et al.",
+      "published": "Sep 2026",
+      "feedName": "npj Science of Food",
+      "url": "https://www.nature.com/articles/s41538-026-01076-z",
+      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01076-z/MediaObjects/41538_2026_1076_Fig1_HTML.png",
+      "screen": "left"
+    },
+    {
       "title": "Intercropping with Areca catechu reshapes flavor of Hainan Dayezhong white tea via microenvironment modulation",
       "abstract": "",
       "authors": "Yunfei Hu, Jing Huang, Qiuru Zhang et al.",
@@ -299,26 +319,6 @@
       "feedName": "npj Science of Food",
       "url": "https://www.nature.com/articles/s41538-026-01158-y",
       "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01158-y/MediaObjects/41538_2026_1158_Fig1_HTML.png",
-      "screen": "left"
-    },
-    {
-      "title": "A food-derived bioactive small molecule DRL-7 enhances bone marrow stem cell function via CXCL12-CXCR4–PI3K-Akt signaling",
-      "abstract": "",
-      "authors": "Liangjie Lu, Lijun Wang, Minjie Yang et al.",
-      "published": "Sep 2026",
-      "feedName": "npj Science of Food",
-      "url": "https://www.nature.com/articles/s41538-026-00936-y",
-      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-00936-y/MediaObjects/41538_2026_936_Fig1_HTML.png",
-      "screen": "left"
-    },
-    {
-      "title": "SpoVG as a pleiotropic regulator modulating Listeria monocytogenes biofilm formation and multi-dimensional niche establishment",
-      "abstract": "",
-      "authors": "Changzheng Shi, Ping Zhu, Ruili Li et al.",
-      "published": "Sep 2026",
-      "feedName": "npj Science of Food",
-      "url": "https://www.nature.com/articles/s41538-026-01134-6",
-      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01134-6/MediaObjects/41538_2026_1134_Fig1_HTML.png",
       "screen": "left"
     },
     {
@@ -362,6 +362,16 @@
       "screen": "left"
     },
     {
+      "title": "Adaptive crystal can selectively capture CO₂ and recognize similar molecules",
+      "abstract": "Chemical separation can be energy-intensive when molecules have similar sizes and properties. Researchers from Shibaura Institute of Technology, Japan, have now developed an interlayer adaptive crystal that changes its spacing to recognize specific molecules.",
+      "authors": "",
+      "published": "Sep 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-09-crystal-capture-similar-molecules.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/tiny-crystal-pores-tri.jpg",
+      "screen": "right"
+    },
+    {
       "title": "Robots and AI uncover unexpected pathway in classic 135-year-old chemical reaction",
       "abstract": "Chemical reactions are often written as simple equations: Starting materials go in, and a product comes out. In reality, the same substrates can follow many different pathways depending on their concentrations, temperature, catalysts and other conditions.",
       "authors": "",
@@ -389,16 +399,6 @@
       "feedName": "Phys.org Analytics",
       "url": "https://phys.org/news/2026-09-potent-greenhouse-gas-valuable-pharmaceutical.html",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/turning-a-potent-green-2.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "A painting signed 'L daVinci': Analysis reveals Renaissance pigments and later alterations",
-      "abstract": "Researchers at Uppsala University have analyzed the color pigments in a historical painting signed \"L daVinci.\" Most of the pigments are consistent with materials used during the Renaissance, while a more recent pigment appears to be linked to later alterations. The study demonstrates how materials science can provide new pieces of the puzzle behind the history of a work of art.",
-      "authors": "",
-      "published": "Sep 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-09-davinci-analysis-reveals-renaissance-pigments.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/material-analysis-prov.jpg",
       "screen": "right"
     },
     {
@@ -769,7 +769,7 @@
       "venue": "Toxins",
       "feedName": "Lab Research",
       "citationCount": 19,
-      "recentCitations": 0,
+      "recentCitations": 1,
       "quartile": null,
       "s2_paper_id": "e6a6854e55ee8f5a8ace3025ba0d32e33a650343",
       "url": "https://doi.org/10.3390/toxins16030163",
@@ -809,7 +809,7 @@
       "venue": "Journal of materials chemistry. B",
       "feedName": "Lab Research",
       "citationCount": 1,
-      "recentCitations": 0,
+      "recentCitations": 1,
       "quartile": "Q1",
       "s2_paper_id": "1d4f87214f79048150a17cc2d0738bf0fb72b106",
       "url": "https://doi.org/10.1039/d6tb00438e",

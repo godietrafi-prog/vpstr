@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-15T13:03:58Z",
+  "updated": "2026-09-15T17:55:38Z",
   "items": [
     {
       "title": "Author Correction: Governance and resilience as entry points for transforming food systems in the countdown to 2030",
@@ -362,6 +362,16 @@
       "screen": "left"
     },
     {
+      "title": "Robots and AI uncover unexpected pathway in classic 135-year-old chemical reaction",
+      "abstract": "Chemical reactions are often written as simple equations: Starting materials go in, and a product comes out. In reality, the same substrates can follow many different pathways depending on their concentrations, temperature, catalysts and other conditions.",
+      "authors": "",
+      "published": "Sep 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-09-robots-ai-uncover-unexpected-pathway.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/robots-and-ai-find-a-h.jpg",
+      "screen": "right"
+    },
+    {
       "title": "Hidden receptor interactions may explain past failures of brain disorder drugs",
       "abstract": "Metabotropic glutamate receptors, which are important but difficult drug targets, interact in surprisingly varied ways with their principal regulatory proteins, according to two new studies led by Weill Cornell Medicine investigators. The findings represent a major step forward in understanding these receptors and how they can be targeted effectively to potentially treat conditions such as epilepsy, depression and anxiety disorders.",
       "authors": "",
@@ -389,16 +399,6 @@
       "feedName": "Phys.org Analytics",
       "url": "https://phys.org/news/2026-09-davinci-analysis-reveals-renaissance-pigments.html",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/material-analysis-prov.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "40-year-old prediction of how plastics 'mix' confirmed for the first time",
-      "abstract": "A \"mixing\" phenomenon between plastic layers that had been predicted only in theory for 40 years has now been experimentally confirmed.",
-      "authors": "",
-      "published": "Sep 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-09-year-plastics.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/40-year-old-theory-of.jpg",
       "screen": "right"
     },
     {
@@ -442,6 +442,16 @@
       "screen": "right"
     },
     {
+      "title": "Smelling chocolate helped men complete more reps without feeling more tired",
+      "abstract": "Simply smelling chocolate helped men complete more leg extension repetitions without making the workout feel harder, with dark chocolate producing the strongest effect. The researchers think familiar food aromas may influence appetite and motivation by making the brain anticipate eating.",
+      "authors": "",
+      "published": "Sep 2026",
+      "feedName": "ScienceDaily Nutrition",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260914102445.htm",
+      "image": "https://www.sciencedaily.com/images/1920/man-smelling-chocolate.webp",
+      "screen": "right"
+    },
+    {
       "title": "Scientists discover strange link between low vitamin D and pain",
       "abstract": "Low vitamin D levels may make recovery from breast cancer surgery more painful, according to a study of 184 women undergoing mastectomy. Patients with vitamin D deficiency were three times more likely to experience moderate to severe pain during the first 24 hours after surgery and also used substantially more of the opioid painkiller tramadol. They received slightly more fentanyl during surgery and experienced more postoperative nausea as well.",
       "authors": "",
@@ -472,13 +482,13 @@
       "screen": "right"
     },
     {
-      "title": "A hidden compound in healthy foods may worsen IBD",
-      "abstract": "A natural compound found in foods such as spinach, almonds, and sweet potatoes may aggravate gut inflammation in people with Crohn’s disease and ulcerative colitis because their intestines appear to handle it differently. Researchers say the finding could open the door to lower-oxalate diets or microbiome treatments tailored specifically to people with IBD.",
-      "authors": "",
+      "title": "Beyond a universal obesity microbiome signature: pre-intervention heterogeneity and a framework for baseline profiling",
+      "abstract": "Unlike previous reviews that primarily summarize obesity-associated microbial alterations, this review reframes the recurrent inconsistency of human obesity microbiome findings as an informative consequence of pre-intervention heterogeneity rather than merely failed replication or analytical noise. We integrate biological and contextual determinants of baseline microbiota variation with methodological and analytical sources of heterogeneity into a unified framework for interpreting why microbial diversity, taxonomic composition, and functional signals differ across individuals, populations, and studies. We critically synthesize evidence on baseline microbial diversity, community structure, host characteristics, regional dietary exposure, metabolic heterogeneity, and the potential relevance of pre-intervention microbiota to subsequent treatment outcomes. We also examine how cohort definition, stool sampling, laboratory processing, bioinformatic reconstruction, and statistical analysis shape the microbiome profiles that are ultimately observed. On this basis, we propose a baseline heterogeneity framework built on three linked principles: obesity-associated microbial signals are context-dependent; observed microbiota profiles are method- and pipeline-dependent; and their interpretation must be temporally anchored to the pre-intervention state. This framework positions baseline microbiota profiling not as descriptive cataloging or a search for a universal obesity-specific signature, but as a prerequisite for identifying confounding and effect modification, improving cross-popul…",
+      "authors": "Penghui Liu, Runlin Mao, Na Li et al.",
       "published": "Sep 2026",
-      "feedName": "ScienceDaily Nutrition",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260911214250.htm",
-      "image": "https://www.sciencedaily.com/images/1920/raw-organic-fresh-baby-spinach-in-bowl.webp",
+      "feedName": "Frontiers Nutrition",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1921813",
+      "image": "",
       "screen": "right"
     },
     {
@@ -492,12 +502,12 @@
       "screen": "right"
     },
     {
-      "title": "Oral L-carnitine supplementation lowers serum uric acid and is associated with renal and intestinal urate-handling responses in hyperuricemic mice",
-      "abstract": "IntroductionHyperuricemia (HUA) is a common metabolic disorder associated with gout, renal dysfunction, and intestinal microenvironment disturbance. Impaired urate excretion is considered a major driver of sustained HUA. However, whether nutritional interventions are associated with renal and intestinal urate-handling-related responses remains unclear. This exploratory study investigated whether oral L-carnitine supplementation reduces serum uric acid levels and is accompanied by renal, intestinal, and microbiota-related changes.MethodsMale C57BL/6 mice were fed a UA/PO-supplemented diet for 12 weeks to establish the HUA model. Mice were assigned to a control group, an untreated HUA group, and L-carnitine-treated groups. Serum uric acid and renal-related biochemical indices were measured. Renal and intestinal histology, urate transporter expression, renal signaling pathways, and gut microbiota composition were evaluated to characterize hepatic urate production-related and renal–intestinal urate-handling-related responses.ResultsOral L-carnitine supplementation reduced serum uric acid levels and improved renal-related biochemical indices. It did not significantly affect hepatic XOD or ADA, indicating that the urate-lowering effect was not primarily explained by reduced hepatic urate production. In the kidney, L-carnitine restored OAT1 expression and attenuated NF-κB-related inflammatory signaling. In the intestine, it improved villus structure, increased ZO-1 and Occludin expression, and was associated with increased intestinal ABCG2 expression. Gut microbiota structure was …",
-      "authors": "Fengyu Jin, Yujiao Huang, Fengwei Zhang et al.",
+      "title": "Association of the GLM7 composite metabolic index with gestational diabetes mellitus in early pregnancy: a secondary analysis of a Korean prospective pregnancy cohort",
+      "abstract": "BackgroundSurrogate indices such as the triglyceride-glucose (TyG) index are widely used to estimate insulin resistance (IR), yet their ability to discriminate incident gestational diabetes mellitus (GDM) in early gestation remains suboptimal. This study evaluated whether the previously developed composite metabolic index GLM7 was correlated with subsequent GDM in Korean singleton pregnant women.MethodsIn this study, we analyzed 582 singleton pregnancies from a Korean pregnancy registry. Multivariable logistic regression and restricted cubic splines (RCS) were used to evaluate the association between GLM7 and GDM. Discriminative performance was assessed by receiver operating characteristic (ROC) curve analysis, and pairwise comparisons were performed using DeLong's test. Robustness was assessed through sensitivity analyses, subgroup analyses, and E-value calculations.ResultsIn the fully adjusted model, GLM7 was independently associated with incident GDM (OR 14.27, 95% CI 5.01–40.67; p < 0.001). RCS analysis showed no evidence of departure from linearity (p for non-linearity = 0.266). The association persisted across sensitivity and subgroup analyses. The E-value of 28.03 suggested that only a very strong unmeasured confounder could nullify the observed association. ROC analysis revealed an AUC of 0.839 (95% CI 0.767–0.912) for GLM7. Pairwise DeLong comparisons showed significantly higher AUCs for GLM7 than for HOMA-IR and for first-trimester fasting plasma glucose (FPG), while differences compared with the TyG index, fatty liver index (FLI), and hepatic steatosis index (HSI…",
+      "authors": "Qinfei Zhao, Weiquan Hu, Xuxiang Xi et al.",
       "published": "Sep 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1866695",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1907985",
       "image": "",
       "screen": "right"
     },
@@ -508,16 +518,6 @@
       "published": "Sep 2026",
       "feedName": "Frontiers Nutrition",
       "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1888256",
-      "image": "",
-      "screen": "right"
-    },
-    {
-      "title": "Acupoint catgut embedding exerts node-dependent effects on leptin resistance–related signaling and the ghrelin–GOAT pathway in obese mice",
-      "abstract": "BackgroundObesity is a major metabolic health problem with limited effective treatments. Acupoint catgut embedding (ACE) has shown therapeutic potential; however, its underlying mechanisms remain unclear. This study aimed to investigate the effects of ACE on leptin resistance and the Ghrelin-GOAT pathway in obese mice.MethodsDiet-induced obesity was established in C57BL/6 J mice. A total of 51 mice were included in the final analysis across six groups: normal control, obese model control, ST36 sham ACE, ST36 verum ACE, ST25 ACE, and ST25 + ST36 ACE. ACE was administered once weekly for 5 weeks. Body weight, Lee’s index, and daily food intake were recorded. Serum and cerebrospinal fluid (CSF) leptin levels were measured to assess peripheral and central leptin availability. Hypothalamic SOCS3 and PTP1B protein expression and POMC/NPY mRNA levels were evaluated. Ghrelin-related indicators in gastric tissue and hypothalamus were also assessed.ResultsAt week 1, body weight and Lee’s index were lower in the ST36 verum ACE group than in the ST25 + ST36 group (p < 0.01), and the difference in Lee’s index remained significant at week 2 (p = 0.002). Food intake decreased transiently at week 1 in all obese groups, with a significant time effect (p < 0.001) but no group or group-by-time interaction effects (p > 0.05). For leptin resistance–related parameters, serum leptin levels in the model control group were significantly higher than those in the normal control group (p < 0.001), whereas CSF leptin levels were increased in the verum ST36 ACE group compared with the model control grou…",
-      "authors": "Qiwang Yang, Han Yang, Jinjiao Zhang et al.",
-      "published": "Sep 2026",
-      "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1853669",
       "image": "",
       "screen": "right"
     },
@@ -769,7 +769,7 @@
       "venue": "Toxins",
       "feedName": "Lab Research",
       "citationCount": 19,
-      "recentCitations": 1,
+      "recentCitations": 0,
       "quartile": null,
       "s2_paper_id": "e6a6854e55ee8f5a8ace3025ba0d32e33a650343",
       "url": "https://doi.org/10.3390/toxins16030163",
@@ -809,7 +809,7 @@
       "venue": "Journal of materials chemistry. B",
       "feedName": "Lab Research",
       "citationCount": 1,
-      "recentCitations": 1,
+      "recentCitations": 0,
       "quartile": "Q1",
       "s2_paper_id": "1d4f87214f79048150a17cc2d0738bf0fb72b106",
       "url": "https://doi.org/10.1039/d6tb00438e",
@@ -899,6 +899,86 @@
       "researcher": {
         "name": "Gilad Davidson-Rozenfeld",
         "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=vh7tqKQAAAAJ"
+      }
+    },
+    {
+      "title": "The effect of simulation training on the counseling skills of nutritional science students in dietetic internships",
+      "abstract": "Simulations are a common tool in training aircrews, medical personnel and educators, providing experience in scenarios from the relevant content area and expanding the range of responses that simulation participants can acquire before they enter the field. Simulations have also been used in dietetic internships to improve clinical counseling skills. However, the use of structured simulations that involve progressive, multisession patient interactions has not been extensively studied in the context of dietetic internships. This study employed consecutive scenario models where interns developed ongoing interactions with the same simulated patient over multiple sessions, representing a significant methodological innovation in the field. A mixed method methodology was used to analyze closed and open-ended questionnaires which were administered to twenty-one interns, simulation actors and professional dietitians. This pilot study demonstrates the effectiveness of group and individual simulation training in enhancing dietetic interns’ counseling skills during their training and describes how simulation can contribute to both the professional skills and self-efficacy required to lead a counseling session. These findings will enable additional academic departments to examine the integration of simulation into the training programs of interns in tracks that include a practicum.",
+      "authors": "I. Linder, Zafit Lukach, Keren Pergament et al.",
+      "published": "2025",
+      "venue": "BMC Medical Education",
+      "feedName": "Lab Research",
+      "citationCount": 1,
+      "recentCitations": 0,
+      "quartile": "Q1",
+      "s2_paper_id": "5ee7aceac233a82917e92f646d2284fffcfd28b2",
+      "url": "https://doi.org/10.1186/s12909-025-07674-x",
+      "image": "",
+      "screen": "both",
+      "lab_paper": true,
+      "researcher": {
+        "name": "Rafi Steckler",
+        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=BOhLTM0AAAAJ"
+      }
+    },
+    {
+      "title": "The Anticonvulsant Effects of Different Cannabis Extracts in a Zebrafish Model of Epilepsy",
+      "abstract": "Epilepsy is a widespread neurological disorder that remains a critical global public health challenge. While numerous antiepileptic drugs (AEDs) are available, many patients either fail to achieve adequate seizure control or experience significant side effects. One promising alternative is pure cannabidiol (CBD), but using a whole cannabis extract may be equally effective and preferred for some patients. In the current study, we employed the pentylenetetrazole (PTZ)-induced hyperactivity model in zebrafish to compare the effects of CBD with various cannabis extracts. We evaluated three cannabis strains, each subjected to three different extraction methods, and benchmarked the results against the commercially available AED valproic acid (VPA). Our findings revealed that 5.7 µg/mL of CBD and 10 µg/mL of different extracts significantly reduced movement compared to PTZ and VPA. In addition, effective extracts produced effects similar to pure CBD despite containing much lower molecule levels. These results reinforced and expanded previous evidence supporting the clinical potential of both CBD and whole cannabis extracts for seizure control while suggesting a possible entourage effect. Further research is necessary to determine which patients may benefit more from pure CBD versus those who might prefer whole cannabis extracts.",
+      "authors": "Karen Jackson, Maytal Shabat-Simon, J. Bar-on et al.",
+      "published": "2025",
+      "venue": "Biomolecules",
+      "feedName": "Lab Research",
+      "citationCount": 4,
+      "recentCitations": 0,
+      "quartile": "Q1",
+      "s2_paper_id": "e8d95d5b119ba86262a480c8753459d85b64d105",
+      "url": "https://doi.org/10.3390/biom15050654",
+      "image": "",
+      "screen": "both",
+      "lab_paper": true,
+      "researcher": {
+        "name": "Rafi Steckler",
+        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=BOhLTM0AAAAJ"
+      }
+    },
+    {
+      "title": "Physiological Impacts of Energy Drink Consumption: A Clinical Analysis in Adolescents",
+      "abstract": "Energy drink (ED) consumption among Israeli-Arab adolescents is widespread. This study aimed to investigate the acute glycemic and insulin effects of EDs in healthy adolescents. Seventy-one Israeli-Arab adolescents (56% girls, average age 16.04 ± 1.03 years) participated in a non-randomized, case-controlled, open-label study. Participants consumed ED (n = 36) or a volume- and carbohydrate-matched non-caffeinated soft drink (SD, n = 35), followed by a 2 h glucose tolerance test. Blood glucose was measured at baseline and 15, 30, 60, and 120 min post-consumption (T0, T15, T30, T60 and T120, respectively). Serum insulin concentration and caffeine relative intensity were determined 45 min post-consumption (T45). Blood glucose levels peaked significantly at T15 and remained significantly higher at T30 in the ED group compared to the SD group (p = 0.005, p = 0.017, respectively). Insulin concentrations were substantially higher at T45 in the ED group (t [64] = 2.794, p = 0.001). This pattern was especially prominent in heavy ED consumers. A positive correlation emerged between the amount of caffeine consumed (mg/kg), blood glucose levels at T15 and T30, and insulin concentration at T45. This study is the first to demonstrate the glycemic and insulin responses to ED consumption in adolescents, suggesting that regulatory measures limiting ED sales to adolescents could improve their health.",
+      "authors": "Gilad Naveh, Bshara Mansour, Mahmoud Bader et al.",
+      "published": "2024",
+      "venue": "Nutrients",
+      "feedName": "Lab Research",
+      "citationCount": 7,
+      "recentCitations": 0,
+      "quartile": "Q1",
+      "s2_paper_id": "b97e4acafc9606b86df3bd0c797faa7fbcf900b7",
+      "url": "https://doi.org/10.3390/nu16142328",
+      "image": "",
+      "screen": "both",
+      "lab_paper": true,
+      "researcher": {
+        "name": "Rafi Steckler",
+        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=BOhLTM0AAAAJ"
+      }
+    },
+    {
+      "title": "Disrupted gut harmony in attention-deficit/hyperactivity disorder: Dysbiosis and decreased short-chain fatty acids",
+      "abstract": "Background Attention-Deficit Hyperactivity Disorder (ADHD) is a prevalent neurodevelopmental disorder with complex genetic and environmental underpinnings. Emerging evidence suggests a significant role of gut microbiota in ADHD pathophysiology. This study investigates variations in gut microbiota composition and Short-Chain Fatty Acid (SCFA) profiles between children and adolescents with ADHD and healthy controls. Methods The study included 42 ADHD patients and 31 healthy controls, aged 6–18 years. Fecal samples were analyzed for microbial composition using 16S rRNA gene sequencing and for SCFA profiles through gas chromatography-mass spectrometry (GC-MS). The study assessed both α and β diversity of gut microbiota and quantified various SCFAs to compare between the groups. Results ADHD subjects demonstrated significantly reduced gut microbiota diversity, as indicated by lower α-diversity indices (Shannon index, Observed species, Faith PD index) and a trend towards significance in β-diversity (Weighted UniFrac). Notably, the ADHD group exhibited significantly lower levels of key SCFAs, including acetic, propionic, isobutyric, isovaleric, and valeric acids, highlighting a distinct microbial and metabolic profile in these individuals. Conclusion This study uncovers significant alterations in gut microbiota and SCFA profiles in children with ADHD, compared to healthy controls. The observed changes in SCFAs, known for their associations with other behavioral and neurologic pathologies, and for their role in neural signaling. These findings offer a metabolite fingerprint that co…",
+      "authors": "Rafi Steckler, F. Magzal, M. Kokot et al.",
+      "published": "2024",
+      "venue": "Brain, Behavior, & Immunity - Health",
+      "feedName": "Lab Research",
+      "citationCount": 20,
+      "recentCitations": 0,
+      "quartile": null,
+      "s2_paper_id": "e6bf6bc6dc39538aed6d5e9f0a2aad62f0702494",
+      "url": "https://doi.org/10.1016/j.bbih.2024.100829",
+      "image": "",
+      "screen": "both",
+      "lab_paper": true,
+      "researcher": {
+        "name": "Rafi Steckler",
+        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=BOhLTM0AAAAJ"
       }
     },
     {

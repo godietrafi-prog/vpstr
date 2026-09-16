@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-15T23:52:06Z",
+  "updated": "2026-09-16T02:30:50Z",
   "items": [
     {
       "title": "Author Correction: Governance and resilience as entry points for transforming food systems in the countdown to 2030",
@@ -282,6 +282,16 @@
       "screen": "left"
     },
     {
+      "title": "Experimental models of subinhibitory disinfectant exposure and phenotypic adaptation in Listeria monocytogenes : A critical review",
+      "abstract": "",
+      "authors": "Aminta Vega-Sánchez, Lucía Verdugo-González, José Juan Rodríguez-Jerez et al.",
+      "published": "Sep 2026",
+      "feedName": "npj Science of Food",
+      "url": "https://www.nature.com/articles/s41538-026-01032-x",
+      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01032-x/MediaObjects/41538_2026_1032_Fig1_HTML.png",
+      "screen": "left"
+    },
+    {
       "title": "Microwave-assisted extraction and optimization of pectin from Aegle marmelos using response surface methodology and metaheuristic algorithms",
       "abstract": "",
       "authors": "Snigdha Satabdi Dixit, Muruganandam L, Ganesh Moorthy I",
@@ -292,6 +302,16 @@
       "screen": "left"
     },
     {
+      "title": "Agaricus bisporus polysaccharides improve alcohol-associated liver disease by modulating the gut microbiota and metabolites",
+      "abstract": "",
+      "authors": "Yingdi Dai, Xun Long, Zixuan Liu et al.",
+      "published": "Sep 2026",
+      "feedName": "npj Science of Food",
+      "url": "https://www.nature.com/articles/s41538-026-01143-5",
+      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01143-5/MediaObjects/41538_2026_1143_Fig1_HTML.png",
+      "screen": "left"
+    },
+    {
       "title": "Dendrobium officinale-derived extracellular nanovesicles alleviate metabolic disorders and intestinal barrier dysfunction in db/db mice",
       "abstract": "",
       "authors": "Pei Wu, Yunfeng Yu, Tongyang Xu et al.",
@@ -299,26 +319,6 @@
       "feedName": "npj Science of Food",
       "url": "https://www.nature.com/articles/s41538-026-01076-z",
       "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01076-z/MediaObjects/41538_2026_1076_Fig1_HTML.png",
-      "screen": "left"
-    },
-    {
-      "title": "Intercropping with Areca catechu reshapes flavor of Hainan Dayezhong white tea via microenvironment modulation",
-      "abstract": "",
-      "authors": "Yunfei Hu, Jing Huang, Qiuru Zhang et al.",
-      "published": "Sep 2026",
-      "feedName": "npj Science of Food",
-      "url": "https://www.nature.com/articles/s41538-026-01154-2",
-      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01154-2/MediaObjects/41538_2026_1154_Fig1_HTML.png",
-      "screen": "left"
-    },
-    {
-      "title": "Hairy root-derived nanovesicles from Cannabis sativa : Sustainable bioactive nanomaterials with immunomodulatory and anti-tumor potential",
-      "abstract": "",
-      "authors": "Yun Hye Kim, Hyeon Jin Lee, Hyoung-Geun Kim et al.",
-      "published": "Sep 2026",
-      "feedName": "npj Science of Food",
-      "url": "https://www.nature.com/articles/s41538-026-01158-y",
-      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01158-y/MediaObjects/41538_2026_1158_Fig1_HTML.png",
       "screen": "left"
     },
     {
@@ -442,6 +442,16 @@
       "screen": "right"
     },
     {
+      "title": "Scientists reversed biological age in older adults in just 4 weeks",
+      "abstract": "Older adults who changed the balance of fat, carbohydrates, and animal protein in their diets showed signs of reduced biological age after just four weeks. The strongest result appeared in participants eating an omnivorous, lower-fat, higher-carbohydrate diet.",
+      "authors": "",
+      "published": "Sep 2026",
+      "feedName": "ScienceDaily Nutrition",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260915100000.htm",
+      "image": "https://www.sciencedaily.com/images/1920/woman-anti-aging-beauty-treatment-face-close-up.webp",
+      "screen": "right"
+    },
+    {
       "title": "Smelling chocolate helped men complete more reps without feeling more tired",
       "abstract": "Simply smelling chocolate helped men complete more leg extension repetitions without making the workout feel harder, with dark chocolate producing the strongest effect. The researchers think familiar food aromas may influence appetite and motivation by making the brain anticipate eating.",
       "authors": "",
@@ -469,16 +479,6 @@
       "feedName": "ScienceDaily Nutrition",
       "url": "https://www.sciencedaily.com/releases/2026/09/260912220107.htm",
       "image": "https://www.sciencedaily.com/images/1920/dna-damage-genetic-mutation.webp",
-      "screen": "right"
-    },
-    {
-      "title": "Most men don’t know dairy is linked to prostate cancer risk",
-      "abstract": "Most men may be missing an important dietary clue about prostate cancer. A new survey found that only 20% knew research has linked dairy consumption with increased prostate cancer risk, while 66% said they would consider avoiding dairy after learning about the connection. Studies have also associated plant-based diets with substantially lower risks of prostate cancer, progression, and recurrence.",
-      "authors": "",
-      "published": "Sep 2026",
-      "feedName": "ScienceDaily Nutrition",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260911214259.htm",
-      "image": "https://www.sciencedaily.com/images/1920/senior-man-drinking-milk-at-home.webp",
       "screen": "right"
     },
     {

@@ -1,6 +1,16 @@
 {
-  "updated": "2026-09-16T09:15:02Z",
+  "updated": "2026-09-16T14:31:27Z",
   "items": [
+    {
+      "title": "Large nutritional and environmental improvements can be achieved across the product portfolios of major UK food and beverage manufacturers",
+      "abstract": "Food and beverage manufacturers have the potential to contribute to the transition towards a more nutritious and sustainable food system. By analysing products sold by 44 major food and beverage manufacturers in the UK, this study identifies how, and to what extent, changes to product portfolios could improve the healthiness of food products while reducing their environmental impact.",
+      "authors": "Eleanor Hammond, Lauren Bandy, E. J. Milner-Gulland et al.",
+      "published": "Sep 2026",
+      "feedName": "Nature Food",
+      "url": "https://www.nature.com/articles/s43016-026-01420-2",
+      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs43016-026-01420-2/MediaObjects/43016_2026_1420_Fig1_HTML.png",
+      "screen": "left"
+    },
     {
       "title": "Author Correction: Governance and resilience as entry points for transforming food systems in the countdown to 2030",
       "abstract": "",
@@ -32,52 +42,42 @@
       "screen": "left"
     },
     {
-      "title": "A systematic review of the climatic impacts, diverse adaptation pathways and multiple adaptation barriers for inland aquaculture",
-      "abstract": "Inland aquaculture faces varied climate impacts. This systematic review identifies 53 adaptation options and 17 barriers, highlighting the need for tailored strategies, policy coherence, better information sharing and increased financial investment.",
-      "authors": "Jie Su, Michelle Tigchelaar, Ben Belton et al.",
-      "published": "Sep 2026",
-      "feedName": "Nature Food",
-      "url": "https://www.nature.com/articles/s43016-026-01410-4",
-      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs43016-026-01410-4/MediaObjects/43016_2026_1410_Fig1_HTML.png",
-      "screen": "left"
-    },
-    {
-      "title": "Thermal degradation pathways of rapeseed aliphatic glucosinolates and flavor characteristics of volatile products",
+      "title": "Interactions, microstructures, and functional characterization of starch-based films reinforced with oxalic acid-modified honeysuckle flower powder",
       "abstract": "",
-      "authors": "Qi Zhou, Yanxin Lin, Wenlin Li et al.",
+      "authors": "Yue Zhang, Qi Zhang, Dongying Song et al.",
       "published": "Nov 2026",
       "feedName": "Food Chemistry",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626032024?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626032851?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
     {
-      "title": "Barley flour addition during acetic acid fermentation: impacts on flavor and nutrients and regulatory strategies",
+      "title": "Analysis of berry superfruits for reduced and total thiol content by LC-UV-based methods",
       "abstract": "",
-      "authors": "Jiayan Zhang, Xuefen Bian, Ying Zhu et al.",
+      "authors": "Marta Gaweł, Rafał Głowacki, Justyna Piechocka",
       "published": "Nov 2026",
       "feedName": "Food Chemistry",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626032838?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626032978?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
     {
-      "title": "Spatiotemporal patterns and functional implications of PFAS in fresh tea leaves from Hangzhou, China: Dominant trifluoroacetic acid and diminished antioxidant activity",
+      "title": "Chickpea aquafaba-stabilised pickering-type emulsions for chilli oleoresin encapsulation: capsaicin release, bioaccessibility and cellular bioactivity following in vitro digestion",
       "abstract": "",
-      "authors": "Lu Zang, Fuyu Xie, Shanqi Zhou et al.",
+      "authors": "Selvi Secil Sahin, Oscar Abel Sánchez-Velázquez, Francisco M. Goycoolea et al.",
       "published": "Nov 2026",
       "feedName": "Food Chemistry",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626032735?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626032905?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
     {
-      "title": "High-resolution LC–MS/MS-based phytochemical profiling and antioxidant and anti-inflammatory activities of fig ( Ficus carica L.) fruits, leaves, and twigs",
+      "title": "Enhancement of capsanthin emulsions stabilized by soy protein isolate-xanthan gum complexes on the conformational changes, gelation properties and storage stability of myofibrillar protein",
       "abstract": "",
-      "authors": "Kwan Joong Kim, Dae-Ok Kim",
+      "authors": "Tianxin Wang, Beibei Zheng, Yafeng An et al.",
       "published": "Nov 2026",
       "feedName": "Food Chemistry",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626031754?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626032462?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -88,6 +88,16 @@
       "published": "Dec 2026",
       "feedName": "Trends in Food Sci & Tech",
       "url": "https://www.sciencedirect.com/science/article/pii/S0924224426005261?dgcid=rss_sd_all",
+      "image": "",
+      "screen": "left"
+    },
+    {
+      "title": "Digital twins and physics-informed machine learning for safe agro-industrial waste valorization: Bioactive recovery, food-grade standardization, and regulatory readiness",
+      "abstract": "",
+      "authors": "Chandan Kumar Sahu, Amit Arora",
+      "published": "Dec 2026",
+      "feedName": "Trends in Food Sci & Tech",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426005522?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -112,16 +122,6 @@
       "screen": "left"
     },
     {
-      "title": "Ultra-processed foods to precision food design: Reframing food processing through food matrix science, formulation, human biology, and sustainable food systems",
-      "abstract": "",
-      "authors": "Mohammad Nazrul Islam Bhuiyan, Barun Kanti Saha, Mohammed Abdus Satter et al.",
-      "published": "Dec 2026",
-      "feedName": "Trends in Food Sci & Tech",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426005467?dgcid=rss_sd_all",
-      "image": "",
-      "screen": "left"
-    },
-    {
       "title": "Caffeine in sugar-sweetened beverages: A silent amplifier of preference and intake",
       "abstract": "",
       "authors": "Dhoungsiri Sayompark, Lynn Riddell, Uracha Wanich et al.",
@@ -142,22 +142,22 @@
       "screen": "left"
     },
     {
+      "title": "Creating markets for under-utilised fish species: Consumer valuation of a co-created fish finger",
+      "abstract": "",
+      "authors": "Jessica Bosseaux, Kelvin Balcombe, Iain Fraser",
+      "published": "Feb 2027",
+      "feedName": "Food Quality & Preference",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0950329326002387?dgcid=rss_sd_all",
+      "image": "",
+      "screen": "left"
+    },
+    {
       "title": "Exploring Italian consumer perceptions and acceptance of innovative foods and food technologies: insights from a national survey",
       "abstract": "",
       "authors": "Bruno Domingues Galli, Flavia Gasperi, Isabella Endrizzi",
       "published": "Feb 2027",
       "feedName": "Food Quality & Preference",
       "url": "https://www.sciencedirect.com/science/article/pii/S0950329326002582?dgcid=rss_sd_all",
-      "image": "",
-      "screen": "left"
-    },
-    {
-      "title": "Finding common and different factors in the motives underlying food choices across African and European countries",
-      "abstract": "",
-      "authors": "Ingunn Berget, Nomzamo Dlamini, Henriette L. de Kock et al.",
-      "published": "Feb 2027",
-      "feedName": "Food Quality & Preference",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0950329326002570?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -292,6 +292,26 @@
       "screen": "left"
     },
     {
+      "title": "Riboflavin activates the Bmp4/Bmpr1α signaling to reverse arsenic-induced male reproductive toxicity: in vivo and in vitro studies",
+      "abstract": "",
+      "authors": "Yunxiao Zhou, Yiguang Lu, Qing Xiang et al.",
+      "published": "Sep 2026",
+      "feedName": "npj Science of Food",
+      "url": "https://www.nature.com/articles/s41538-026-01162-2",
+      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01162-2/MediaObjects/41538_2026_1162_Fig1_HTML.png",
+      "screen": "left"
+    },
+    {
+      "title": "Multiomics profiling identifies molecular signatures of meat quality in sika deer cuts",
+      "abstract": "",
+      "authors": "Lan Tang, Qianghui Wang, Haihua Xing et al.",
+      "published": "Sep 2026",
+      "feedName": "npj Science of Food",
+      "url": "https://www.nature.com/articles/s41538-026-01160-4",
+      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01160-4/MediaObjects/41538_2026_1160_Fig1_HTML.png",
+      "screen": "left"
+    },
+    {
       "title": "Microwave-assisted extraction and optimization of pectin from Aegle marmelos using response surface methodology and metaheuristic algorithms",
       "abstract": "",
       "authors": "Snigdha Satabdi Dixit, Muruganandam L, Ganesh Moorthy I",
@@ -299,26 +319,6 @@
       "feedName": "npj Science of Food",
       "url": "https://www.nature.com/articles/s41538-026-01128-4",
       "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01128-4/MediaObjects/41538_2026_1128_Fig1_HTML.png",
-      "screen": "left"
-    },
-    {
-      "title": "Agaricus bisporus polysaccharides improve alcohol-associated liver disease by modulating the gut microbiota and metabolites",
-      "abstract": "",
-      "authors": "Yingdi Dai, Xun Long, Zixuan Liu et al.",
-      "published": "Sep 2026",
-      "feedName": "npj Science of Food",
-      "url": "https://www.nature.com/articles/s41538-026-01143-5",
-      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01143-5/MediaObjects/41538_2026_1143_Fig1_HTML.png",
-      "screen": "left"
-    },
-    {
-      "title": "Dendrobium officinale-derived extracellular nanovesicles alleviate metabolic disorders and intestinal barrier dysfunction in db/db mice",
-      "abstract": "",
-      "authors": "Pei Wu, Yunfeng Yu, Tongyang Xu et al.",
-      "published": "Sep 2026",
-      "feedName": "npj Science of Food",
-      "url": "https://www.nature.com/articles/s41538-026-01076-z",
-      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01076-z/MediaObjects/41538_2026_1076_Fig1_HTML.png",
       "screen": "left"
     },
     {
@@ -482,26 +482,6 @@
       "screen": "right"
     },
     {
-      "title": "Comparative evaluation of five nutrition-inflammation indices for predicting 28-day ICU mortality in critically ill patients with bone infections: a dual-cohort study with external validation and interpretable machine learning",
-      "abstract": "BackgroundMalnutrition and systemic inflammation are highly prevalent among critically ill patients with bone infections and may independently predict adverse outcomes. Five composite nutrition-inflammation indices—the modified Nutrition Risk in the Critically Ill (mNUTRIC) score, Prognostic Nutritional Index (PNI), Geriatric Nutritional Risk Index (GNRI), Index of Nutritional Assessment (INA), and Hemoglobin-Albumin-Lymphocyte-Platelet (HALP) score—have been proposed as prognostic tools; however, their comparative performance in the bone infection intensive care unit (ICU) population has not been systematically defined.Material and methodA dual-cohort retrospective study design was employed. The internal derivation cohort comprised ICU patients with bone infections from the Medical Information Mart for Intensive Care IV (MIMIC-IV) database (n = 917; 28-day ICU mortality 12.1%), and the external validation cohort was drawn from the Affiliated Hospital of Qingdao University (n = 256; 28-day mortality 16.0%). All five indices were calculated from laboratory and clinical data collected within 24 h of ICU admission. Multivariable logistic regression (three hierarchical adjustment models), restricted cubic spline (RCS) analysis, and subgroup analyses were performed to examine the independent associations of each index with 28-day ICU mortality. For predictive model development, a dual LASSO-Boruta feature selection strategy was applied to the derivation cohort, yielding 14 core features (events-per-variable ratio [EPV] = 7.9). Five machine learning (ML) models — logistic regress…",
-      "authors": "Zishuo Xi, Jialin He, Mingyang Wang et al.",
-      "published": "Sep 2026",
-      "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1949102",
-      "image": "",
-      "screen": "right"
-    },
-    {
-      "title": "Nutritional status and weight trajectories during radiotherapy in patients with cancer: a retrospective cohort study",
-      "abstract": "BackgroundPatients receiving radiotherapy are frequently malnourished, and weight loss can negatively impact treatment tolerance and clinical outcomes.ObjectiveThis retrospective cohort study aimed to assess nutritional status, weight trajectories, and changes in the prognostic nutritional index (PNI) over time, during radiotherapy.MethodologyThe medical records of 680 adult patients who initiated radiotherapy were reviewed retrospectively at a tertiary oncology center from 2023 to 2025. Patients were retained in the cohort regardless of subsequent treatment completion, provided they met predefined baseline eligibility criteria. Body weight, serum albumin and PNI were measured serially before, during and after radiotherapy. Weight and trajectory patterns of the PNI were described, toxicities associated with the treatment and nutritional interventions were evaluated, and multi-variable logistic regression models were constructed to identify factors associated with clinically marked weight loss (decrease of ≥5%).ResultsMean body weight decreased from 69.4 ± 14.8 kg at baseline to 65.8 ± 14.6 kg at treatment completion (p < 0.001). Clinically significant weight loss occurred in 44.6% of patients, while low PNI increased from 36.9 to 60.7%. Severe treatment-related toxicity, treatment interruption, hospitalization, and radiotherapy non-completion were significantly associated with weight loss and declining PNI trajectories (all p < 0.001). Nutritional support was associated with lower odds of weight loss (adjusted OR = 0.66, 95% CI: 0.46–0.94), although this finding should be i…",
-      "authors": "Tong Liu, Shijin Wu",
-      "published": "Sep 2026",
-      "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1957371",
-      "image": "",
-      "screen": "right"
-    },
-    {
       "title": "Mechanism of physicochemical quality formation in Polygonatum odoratum powder prepared by vacuum microwave drying combined with extrusion-cooking: a metabolomics-based analysis",
       "abstract": "IntroductionPolygonatum odoratum (P. odoratum) is the dried rhizome of plant Polygonatum odoratum (Mill.) Druce, and it is a well-known medicinal and edible plant extensively utilized in Asia, but its commercial products, sliced or strip forms, limiting its wider applications. The powdered form of P. odoratum offers greater convenience for modern food applications. This study aims to develop efficient processing strategies for high-quality P. odoratum powder.MethodsThis study used fresh P. odoratum as raw material to investigate the quality of powder produced by vacuum microwave drying combined with extrusion cooking (combined approach) and compared it with powders obtained by hot-air drying and vacuum microwave drying alone. Electronic sensory technology, including electronic eye (e-eye), electronic noses (e-nose), and electronic tongues (e-tongue), were utilized to evaluate physical properties, in vitro antioxidant activity assays were used to preliminarily evaluate functional activity, and chemical analytical methods were employed for analyzing the main active components. Meantime, the differences in saponins and flavonoids among different processed products were determined by broad-targeted metabolomics techniques. Finally, correlation analyses of physical properties, antioxidant activity, and chemical properties were performed to investigate the mechanism underlying the formation of product quality.ResultsThe results showed that the combined approach enhanced the physicochemical properties and in vitro antioxidant activity of P. odoratum powder, primarily by effecting …",
       "authors": "Fan Jia, Yao Xu, Yuhang Wu et al.",
@@ -512,12 +492,32 @@
       "screen": "right"
     },
     {
-      "title": "Local fat, local risk: mesorectal fat volume outperforms BMI in predicting rectal cancer surgery outcomes",
-      "abstract": "BackgroundAccurate pre-operative assessment of surgical difficulty and post-operative risk in rectal cancer remains challenging. Conventional indices such as body mass index (BMI) fail to adequately reflect the pelvic surgical anatomy due to their systemic nature. Mesorectal fat volume—an imaging-derived, site-specific parameter—may better represent the operative field and associated risks, while also serving as a marker of regional adiposity relevant to nutritional and metabolic status.MethodsThis single-center retrospective cohort study (2018–2026) analyzed 450 consecutive patients undergoing elective rectal cancer surgery with total mesorectal excision. Mesorectal fat volume was quantified using pre-operative computed tomography or magnetic resonance imaging with semi-automated segmentation. Patients were categorized into quartiles based on mesorectal fat volume. Operative outcomes and 30-day post-operative complications were compared across quartiles. Multivariable linear and logistic regression analyses were performed to identify independent predictors. Receiver operating characteristic (ROC) curve analysis was used to evaluate the discriminative performance of mesorectal fat volume, BMI, and pelvic index.ResultsA total of 450 patients were stratified into quartiles according to mesorectal fat volume (MFV). Patients in the highest MFV quartile had significantly longer operative times (182.26 ± 9.28 vs. 163.03 ± 9.67 min, P < 0.001), greater intraoperative blood loss (169.63 ± 39.00 vs. 94.55 ± 40.08 mL, P < 0.001), higher conversion-to-open surgery rates (27.68% vs. 5.…",
-      "authors": "Tingting Liu, Liqiang Chang, Junrui Zhao et al.",
+      "title": "Comparative evaluation of five nutrition-inflammation indices for predicting 28-day ICU mortality in critically ill patients with bone infections: a dual-cohort study with external validation and interpretable machine learning",
+      "abstract": "BackgroundMalnutrition and systemic inflammation are highly prevalent among critically ill patients with bone infections and may independently predict adverse outcomes. Five composite nutrition-inflammation indices—the modified Nutrition Risk in the Critically Ill (mNUTRIC) score, Prognostic Nutritional Index (PNI), Geriatric Nutritional Risk Index (GNRI), Index of Nutritional Assessment (INA), and Hemoglobin-Albumin-Lymphocyte-Platelet (HALP) score—have been proposed as prognostic tools; however, their comparative performance in the bone infection intensive care unit (ICU) population has not been systematically defined.Material and methodA dual-cohort retrospective study design was employed. The internal derivation cohort comprised ICU patients with bone infections from the Medical Information Mart for Intensive Care IV (MIMIC-IV) database (n = 917; 28-day ICU mortality 12.1%), and the external validation cohort was drawn from the Affiliated Hospital of Qingdao University (n = 256; 28-day mortality 16.0%). All five indices were calculated from laboratory and clinical data collected within 24 h of ICU admission. Multivariable logistic regression (three hierarchical adjustment models), restricted cubic spline (RCS) analysis, and subgroup analyses were performed to examine the independent associations of each index with 28-day ICU mortality. For predictive model development, a dual LASSO-Boruta feature selection strategy was applied to the derivation cohort, yielding 14 core features (events-per-variable ratio [EPV] = 7.9). Five machine learning (ML) models — logistic regress…",
+      "authors": "Zishuo Xi, Jialin He, Mingyang Wang et al.",
       "published": "Sep 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1878649",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1949102",
+      "image": "",
+      "screen": "right"
+    },
+    {
+      "title": "Correction: Precision synbiotic intervention with 2'-fucosyllactose and infant-derived Bifidobacterium modulates gut-immune axis and reduces disease risk in toddlers: a randomized controlled trial",
+      "abstract": "",
+      "authors": "Ke Chen, Xi Zhang, Shanshan Jin et al.",
+      "published": "Sep 2026",
+      "feedName": "Frontiers Nutrition",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1957323",
+      "image": "",
+      "screen": "right"
+    },
+    {
+      "title": "Indoxyl sulfate in the gut–kidney axis: from diet-microbiome interactions to renal injury and targeted therapies",
+      "abstract": "Indoxyl sulfate (IS) is a prototypical protein-bound uremic toxin, linking dietary tryptophan metabolism by gut microbiota to renal injury. Derived from dietary tryptophan metabolized by gut microbiota into indole, which is subsequently transported to the liver and sulfated to form IS. In circulation, IS binds serum albumin and is actively secreted into urine via renal tubular organic anion transporters. In chronic kidney disease (CKD), impaired renal clearance and altered albumin-binding capacity contribute to IS accumulation and an increased free fraction. IS exerts nephrotoxic effects through multiple mechanisms. As an endogenous ligand of the aryl hydrocarbon receptor (AHR), it activates AHR signaling and contributes to mitochondrial dysfunction, oxidative stress, inflammation, regulated cell death, and renal fibrosis through interconnected downstream pathways. Therapeutic strategies targeting IS include dietary and microbiota-based interventions, oral adsorbent AST-120, modified dialysis approaches, and traditional Chinese medicine interventions. Although these strategies may reduce IS exposure or its downstream effects, the current evidence is predominantly derived from preclinical studies and surrogate-endpoint assessment. Further well-designed clinical trials are needed to determine whether reducing IS exposure can translate into sustained improvements in renal and patient-centered outcomes.",
+      "authors": "Xiangning Huang, Xinyu Yang, Jiawang Huang et al.",
+      "published": "Sep 2026",
+      "feedName": "Frontiers Nutrition",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1881019",
       "image": "",
       "screen": "right"
     },
@@ -849,7 +849,7 @@
       "venue": "Journal of the American Chemical Society",
       "feedName": "Lab Research",
       "citationCount": 23,
-      "recentCitations": 0,
+      "recentCitations": 2,
       "quartile": "Q1",
       "s2_paper_id": "e8f95caa1e8ece0c16f246b34ead0788c6d4b146",
       "url": "https://doi.org/10.1021/jacs.4c00625",
@@ -1149,7 +1149,7 @@
       "venue": "Atmospheric Chemistry and Physics",
       "feedName": "Lab Research",
       "citationCount": 11,
-      "recentCitations": 0,
+      "recentCitations": 1,
       "quartile": "Q1",
       "s2_paper_id": "d2f58630c5b33511a9ff3fe822b2154de726bbcb",
       "url": "https://doi.org/10.5194/acp-23-4881-2023",

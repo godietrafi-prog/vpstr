@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-16T19:14:00Z",
+  "updated": "2026-09-16T22:32:51Z",
   "items": [
     {
       "title": "Large nutritional and environmental improvements can be achieved across the product portfolios of major UK food and beverage manufacturers",
@@ -282,6 +282,16 @@
       "screen": "left"
     },
     {
+      "title": "Functional evaluation of a prebiotic-human milk oligosaccharide complex in alleviating necrotizing enterocolitis in neonatal rats",
+      "abstract": "",
+      "authors": "Luji Zhang, Hongxuan Li, Zimu Li et al.",
+      "published": "Sep 2026",
+      "feedName": "npj Science of Food",
+      "url": "https://www.nature.com/articles/s41538-026-01138-2",
+      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01138-2/MediaObjects/41538_2026_1138_Fig1_HTML.png",
+      "screen": "left"
+    },
+    {
       "title": "Experimental models of subinhibitory disinfectant exposure and phenotypic adaptation in Listeria monocytogenes : A critical review",
       "abstract": "",
       "authors": "Aminta Vega-Sánchez, Lucía Verdugo-González, José Juan Rodríguez-Jerez et al.",
@@ -309,16 +319,6 @@
       "feedName": "npj Science of Food",
       "url": "https://www.nature.com/articles/s41538-026-01160-4",
       "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01160-4/MediaObjects/41538_2026_1160_Fig1_HTML.png",
-      "screen": "left"
-    },
-    {
-      "title": "Microwave-assisted extraction and optimization of pectin from Aegle marmelos using response surface methodology and metaheuristic algorithms",
-      "abstract": "",
-      "authors": "Snigdha Satabdi Dixit, Muruganandam L, Ganesh Moorthy I",
-      "published": "Sep 2026",
-      "feedName": "npj Science of Food",
-      "url": "https://www.nature.com/articles/s41538-026-01128-4",
-      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01128-4/MediaObjects/41538_2026_1128_Fig1_HTML.png",
       "screen": "left"
     },
     {
@@ -362,6 +362,36 @@
       "screen": "left"
     },
     {
+      "title": "Iron, sulfur and purple light unlock greener carbon-carbon bond formation",
+      "abstract": "Much of organic chemistry, including the type used to create and alter medicinal drugs, relies on modifying carbon bonds. Rice University's Julian West has been developing a less expensive, faster and more environmentally friendly way to catalyze these reactions, with a breakthrough published in the journal Nature Catalysis.",
+      "authors": "",
+      "published": "Sep 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-09-iron-sulfur-purple-greener-carbon.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/researchers-develop-in-3.jpg",
+      "screen": "right"
+    },
+    {
+      "title": "Why you really shouldn't overcook your proteins",
+      "abstract": "The development of cooking was a major milestone in the evolution of human civilization because it made food easier to digest and more energy-efficient. Heating food can also kill harmful pathogens and make certain foods taste better. Overcooking, on the other hand, can have adverse effects, particularly on proteins.",
+      "authors": "",
+      "published": "Sep 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-09-shouldnt-overcook-proteins.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/why-you-really-shouldn.jpg",
+      "screen": "right"
+    },
+    {
+      "title": "Without bacteria or chemicals: How methanol and formaldehyde form abiotically in nature",
+      "abstract": "The biopolymer lignin—one of the most important carbon reservoirs in plants and soils—not only decays through fungi or bacteria but can also be chemically attacked by iron linked to reactive oxygen species, without the involvement of microorganisms. When this happens, lignin is converted into methanol and subsequently into formaldehyde. That is shown by a study conducted at Heidelberg University's Institute of Earth Sciences.",
+      "authors": "",
+      "published": "Sep 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-09-bacteria-chemicals-methanol-formaldehyde-abiotically.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/without-bacteria-or-ch-2.jpg",
+      "screen": "right"
+    },
+    {
       "title": "Spring-like porous crystals could enable chemically responsive microscale materials",
       "abstract": "Crystals are usually imagined as rigid objects with flat faces and straight edges. A research team led by the University of Osaka has recently created a porous crystal that grows into a spring-like helix. The team also found that the crystal can change shape as solvent molecules move in and out of its internal spaces. Their findings are published in Angewandte Chemie International Edition.",
       "authors": "",
@@ -369,36 +399,6 @@
       "feedName": "Phys.org Analytics",
       "url": "https://phys.org/news/2026-09-porous-crystals-enable-chemically-responsive.html",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/porous-crystals-grow-i.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "Plasma and electricity convert CO₂ into methanol, butane and other useful chemicals",
-      "abstract": "Carbon dioxide (CO₂) can be harmful to the environment in large amounts but can be used in the production of fuels and other useful chemicals. Doing so isn't easy, though. Now, Yale researchers have developed a new way to combine electrocatalysis and plasma to efficiently and practically generate a number of valuable products from the gas. The results are published in Nature Catalysis.",
-      "authors": "",
-      "published": "Sep 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-09-plasma-electricity-methanol-butane-chemicals.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/electricity-and-plasma.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "Adaptive crystal can selectively capture CO₂ and recognize similar molecules",
-      "abstract": "Chemical separation can be energy-intensive when molecules have similar sizes and properties. Researchers from Shibaura Institute of Technology, Japan, have now developed an interlayer adaptive crystal that changes its spacing to recognize specific molecules.",
-      "authors": "",
-      "published": "Sep 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-09-crystal-capture-similar-molecules.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/tiny-crystal-pores-tri.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "Robots and AI uncover unexpected pathway in classic 135-year-old chemical reaction",
-      "abstract": "Chemical reactions are often written as simple equations: Starting materials go in, and a product comes out. In reality, the same substrates can follow many different pathways depending on their concentrations, temperature, catalysts and other conditions.",
-      "authors": "",
-      "published": "Sep 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-09-robots-ai-uncover-unexpected-pathway.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/robots-and-ai-find-a-h.jpg",
       "screen": "right"
     },
     {

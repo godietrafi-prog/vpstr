@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-17T19:27:15Z",
+  "updated": "2026-09-17T22:37:00Z",
   "items": [
     {
       "title": "Large nutritional and environmental improvements can be achieved across the product portfolios of major UK food and beverage manufacturers",
@@ -362,6 +362,16 @@
       "screen": "left"
     },
     {
+      "title": "A new rulebook for designing stable dilute alloy catalysts",
+      "abstract": "Dilute alloy catalysts could improve fuel, plastic and pharmaceutical production, but their instability under heat holds back widespread use. Researchers at University of Michigan Engineering built a stability rulebook for this class of materials, which are made of a tiny amount of an active dopant metal dispersed in an inert host metal. A study outlining the rulebook was published in the Journal of the American Chemical Society.",
+      "authors": "",
+      "published": "Sep 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-09-rulebook-stable-dilute-alloy-catalysts.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/a-new-rulebook-for-des.jpg",
+      "screen": "right"
+    },
+    {
       "title": "Thinking outside the binding site: Drug molecule makes a square peg fit a round hole",
       "abstract": "A square peg doesn't fit a round hole. But what if the peg could change the shape of the hole? A newly developed drug molecule can do something surprisingly similar when binding to its target protein, according to a University at Buffalo-led study published Tuesday (Sept. 15) in Angewandte Chemie International Edition.",
       "authors": "",
@@ -389,16 +399,6 @@
       "feedName": "Phys.org Analytics",
       "url": "https://phys.org/news/2026-09-shouldnt-overcook-proteins.html",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/why-you-really-shouldn.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "Without bacteria or chemicals: How methanol and formaldehyde form abiotically in nature",
-      "abstract": "The biopolymer lignin—one of the most important carbon reservoirs in plants and soils—not only decays through fungi or bacteria but can also be chemically attacked by iron linked to reactive oxygen species, without the involvement of microorganisms. When this happens, lignin is converted into methanol and subsequently into formaldehyde. That is shown by a study conducted at Heidelberg University's Institute of Earth Sciences.",
-      "authors": "",
-      "published": "Sep 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-09-bacteria-chemicals-methanol-formaldehyde-abiotically.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/without-bacteria-or-ch-2.jpg",
       "screen": "right"
     },
     {
@@ -849,7 +849,7 @@
       "venue": "Journal of the American Chemical Society",
       "feedName": "Lab Research",
       "citationCount": 23,
-      "recentCitations": 2,
+      "recentCitations": 0,
       "quartile": "Q1",
       "s2_paper_id": "e8f95caa1e8ece0c16f246b34ead0788c6d4b146",
       "url": "https://doi.org/10.1021/jacs.4c00625",

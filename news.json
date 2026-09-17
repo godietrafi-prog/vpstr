@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-17T14:33:48Z",
+  "updated": "2026-09-17T19:27:15Z",
   "items": [
     {
       "title": "Large nutritional and environmental improvements can be achieved across the product portfolios of major UK food and beverage manufacturers",
@@ -92,6 +92,16 @@
       "screen": "left"
     },
     {
+      "title": "Carotenoids for eye health: Absorption, ocular delivery and bioavailability enhancement strategies",
+      "abstract": "",
+      "authors": "Yu Li, Jiaxuan Li, Yuxiao Wang et al.",
+      "published": "Dec 2026",
+      "feedName": "Trends in Food Sci & Tech",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426005534?dgcid=rss_sd_all",
+      "image": "",
+      "screen": "left"
+    },
+    {
       "title": "Digital twins and physics-informed machine learning for safe agro-industrial waste valorization: Bioactive recovery, food-grade standardization, and regulatory readiness",
       "abstract": "",
       "authors": "Chandan Kumar Sahu, Amit Arora",
@@ -108,16 +118,6 @@
       "published": "Dec 2026",
       "feedName": "Trends in Food Sci & Tech",
       "url": "https://www.sciencedirect.com/science/article/pii/S0924224426005480?dgcid=rss_sd_all",
-      "image": "",
-      "screen": "left"
-    },
-    {
-      "title": "Digitalization pathways for food loss and waste prevention in agri-food supply chains: Current evidence, challenges and future directions",
-      "abstract": "",
-      "authors": "Esteban Pérez-García, Hani A. Alfheeaid, Esther Sanjuán et al.",
-      "published": "Dec 2026",
-      "feedName": "Trends in Food Sci & Tech",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426005571?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -482,6 +482,16 @@
       "screen": "right"
     },
     {
+      "title": "Association between vitamin D supplementation and mortality in elderly critically ill patients: a retrospective propensity score–matched cohort study",
+      "abstract": "PurposeVitamin D deficiency is highly prevalent among elderly critically ill patients and has been associated with adverse outcomes. However, evidence regarding the prognostic benefit of vitamin D supplementation in this population remains limited. This study aimed to investigate the association between vitamin D supplementation and 28-day mortality in elderly patients admitted to the intensive care unit (ICU).MethodsThis retrospective cohort study utilized data from the medical information mart for intensive care IV (MIMIC-IV) database, including patients aged ≥65 years. Propensity score matching (PSM) balanced baseline characteristics between patients who received vitamin D within 48 h of ICU admission and those who did not. Cox proportional hazards models estimated hazard ratios (HRs) with 95% confidence intervals (CIs), and E-value analysis assessed unmeasured confounding.ResultsAfter PSM, 8,111 patients were included, with 1,338 (16.5%) deaths within 28 days. The 28-day mortality rate was significantly lower in the vitamin D supplementation group than in the non-supplemented group (14.5% vs. 17.0%, P = 0.017). Multivariable Cox regression demonstrated that vitamin D supplementation was independently associated with lower 28-day mortality (HR = 0.819, 95% CI: 0.710–0.946, P = 0.006). Subgroup analyses revealed more pronounced associations in females and patients without certain chronic comorbidities.ConclusionVitamin D supplementation within 48 h of ICU admission was significantly associated with reduced 28-day mortality in elderly critically ill patients. Further prosp…",
+      "authors": "Zhongmin Tian, Yanjun Liu, Yijing Zhou et al.",
+      "published": "Sep 2026",
+      "feedName": "Frontiers Nutrition",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1932001",
+      "image": "",
+      "screen": "right"
+    },
+    {
       "title": "Clinical value of probiotics as adjunctive therapy for diabetic nephropathy: a meta-analysis and trial sequential analysis",
       "abstract": "ObjectiveTo comprehensively assess the clinical effectiveness of probiotic supplementation in individuals with diabetic nephropathy (DN).MethodsRandomized controlled trials (RCTs) evaluating probiotics for DN were retrieved from eight databases from inception to January 2026. Data on study characteristics, outcome measures, and risk of bias were independently extracted. Meta-analyses were conducted using Review Manager version 5.3, while trial sequential analysis (TSA) was performed with TSA version 0.9.5.10 beta. Potential publication bias was examined using Egger’s regression test.ResultsNine RCTs encompassing 644 participants met the inclusion criteria. Pooled analyses indicated that probiotic supplementation was associated with significant reductions in serum creatinine (mean difference [MD] −0.10 mg/dL, 95% confidence interval [CI] −0.14 to −0.06), blood urea nitrogen (BUN) (MD − 2.76 mg/dL, 95% CI − 5.40 to −0.11), fasting plasma glucose (MD − 0.63 mmol/L, 95% CI − 0.80 to −0.46), 2-h postprandial blood glucose (2 h PBG) (MD − 0.66% mmol/L, 95% CI −1.10 to −0.22), glycated hemoglobin (HbA1c) (MD −0.40%, 95% CI −0.72 to −0.09), triglycerides (MD −19.17 mg/dL, 95% CI −35.14 to −3.20), total cholesterol (MD −11.68 mg/dL, 95% CI −20.37 to −2.99), low-density lipoprotein cholesterol (MD −12.72 mg/dL, 95% CI −18.76 to −6.67), high-sensitivity C-reactive protein (MD −1.69 mg/L, 95% CI −2.38 to −1.00), and malondialdehyde (MD − 0.52 μmol/L, 95% CI −0.91 to −0.13). However, no statistically significant improvements were detected in estimated glomerular filtration rate, 24-h ur…",
       "authors": "Xiangning Huang, Xinyu Yang, Yunfeng Yu et al.",
@@ -492,12 +502,12 @@
       "screen": "right"
     },
     {
-      "title": "Consumer choice and preference heterogeneity for liquid milk attributes in Sri Lanka: evidence from a choice experiment",
-      "abstract": "The majority of Sri Lankans rely on powdered milk over fresh liquid milk, despite liquid milk having a higher nutritional value than powdered milk. Also, the consumption of processed liquid milk remains low even among those who consume fresh milk. Therefore, understanding the key attributes that influence consumer choices is essential for developing effective policies and marketing strategies to promote the consumption of fresh liquid milk in Sri Lanka. This study uses a choice experiment approach to elicit consumer preference for liquid milk attributes from 410 consumers in the Northern Province of Sri Lanka. We used a random parameter logit model since consumers’ preferences are heterogeneous. This study focuses on five attributes of liquid milk—milk fat, processing technology, food safety measures, packaging, and price. The findings of this study reveal that respondents prefer low-fat milk, pasteurization and UHT processing technologies, enhanced food safety measures, and reusable packaging. The willingness to pay (WTP) estimates indicated that respondents were willing to pay an additional LKR 170.72 for low-fat milk compared with whole milk, LKR 99.13 for UHT-processed milk, and LKR 55.42 for pasteurized milk compared with milk without processing. Further, the results revealed that preferences for milk attributes are heterogeneous, indicating that respondents with different sociodemographic characteristics prefer different levels of attributes. The findings of this study will enable policymakers, marketers, and milk processing companies to understand the consumer prefer…",
-      "authors": "Sivakumar Sivashankar, Alan Renwick, Wei Yang et al.",
+      "title": "Gut health and microbiome modulation by the heat-killed postbiotic beLP1® in adults with excess weight: a randomized, placebo-controlled trial",
+      "abstract": "BackgroundOverweight is linked to gut microbiota dysbiosis and gastrointestinal (GI) symptoms that impair quality of life.MethodsThis 84-day randomized, double-blind, placebo-controlled study evaluated the gut-health effects of heat-killed Lactiplantibacillus plantarum (beLP1®) in otherwise healthy adults (aged 18–45 years) within the BMI range of 25–35 kg/m2 and a ≥3-month history of mild-to-moderate GI discomfort, confirmed by Gastrointestinal Symptom Rating Scale (GSRS). In this trail 140 adults were allocated in a 1:1 ratio to receive either daily beLP1® (>30 billion cells) (n = 70) or placebo (n = 70). A total of 103 participants completed the study without protocol deviations and were included in the primary per-protocol (PP) analysis (beLP1®: n = 49; Placebo: n = 54). This predefined analysis directly compares the beLP1® and placebo arms using analysis of covariance (ANCOVA), supplemented by two independent-sample Student’s t-tests. The primary endpoint was change in gastrointestinal symptoms via the GSRS, secondary endpoints included the Perceived Stress Scale (PSS), the Digestion-associated Quality of Life Questionnaire (DQLQ), Tumor Necrosis Factor-alpha (TNF-α), lipid parameters, Dual-Energy X-ray Absorptiometry (DEXA), and gut microbiome diversity by metagenomic Next-Generation Sequencing (NGS).ResultsCompared to placebo, beLP1® significantly reduced total Gastrointestinal Symptom Rating Scale (GSRS) scores at Day 42 (p = 0.0215) and Day 84 (p = 0.0394), with prominent improvements in abdominal pain (p = 0.0205) and dyspeptic syndrome (p = 0.0303) domains. Signi…",
+      "authors": "Ranjith Kumar Manoharan, Kwon-Il Han, Yura Lee et al.",
       "published": "Sep 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1931191",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1919277",
       "image": "",
       "screen": "right"
     },
@@ -508,16 +518,6 @@
       "published": "Sep 2026",
       "feedName": "Frontiers Nutrition",
       "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1927533",
-      "image": "",
-      "screen": "right"
-    },
-    {
-      "title": "Robustness of nutrient-based NOVA food classification under profile-separated nested validation",
-      "abstract": "IntroductionNutrient profiles contain information associated with food processing, but estimates of automated NOVA classification can be distorted by ambiguous record linkage, severe class imbalance, duplicate profiles, and non-nested model selection. This study evaluates how well four-class NOVA labels can be recovered from nutrient composition after addressing these sources of optimism.MethodsThe analysis used 2,484 manually labeled foods from the USDA Food and Nutrient Database for Dietary Studies, represented by 99 nutrient variables. Identical nutrient profiles were assigned to the same fold, and logistic regression, a radial-basis support vector machine, random forest, and histogram gradient boosting were compared with a prior-probability baseline using three repeats of five-fold nested stratified group cross-validation. Hyperparameters and all transformations were selected within each outer training partition. Performance was summarized using class-balanced and chance-corrected metrics, corrected repeated-cross-validation tests, and fold-stable multiclass Shapley attribution.ResultsHistogram gradient boosting achieved accuracy 0.921 and macro-F1 0.814 (SD 0.029; 95% fold interval 0.798–0.831). Random forest reached macro-F1 0.788; the mean difference of 0.026 was not statistically reliable after repeated-fold correction (Holm-adjusted p = 0.203). Class-specific F1 was 0.639 for NOVA 2 and 0.958 for NOVA 4.DiscussionNutrient measurements therefore provide a strong but incomplete correlate of NOVA class. The models are suitable for methodological screening within this …",
-      "authors": "Sıla Sinem Gören, Raja Hashim Ali, Talha Ali Khan et al.",
-      "published": "Sep 2026",
-      "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1916576",
       "image": "",
       "screen": "right"
     },
@@ -788,8 +788,8 @@
       "published": "2022",
       "venue": "Foods",
       "feedName": "Lab Research",
-      "citationCount": 40,
-      "recentCitations": 0,
+      "citationCount": 41,
+      "recentCitations": 1,
       "quartile": "Q2",
       "s2_paper_id": "58107c8058774580a57d044f21566325035de229",
       "url": "https://doi.org/10.3390/foods11233858",

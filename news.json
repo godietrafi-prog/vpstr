@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-17T02:33:50Z",
+  "updated": "2026-09-17T09:03:10Z",
   "items": [
     {
       "title": "Large nutritional and environmental improvements can be achieved across the product portfolios of major UK food and beverage manufacturers",
@@ -442,6 +442,16 @@
       "screen": "right"
     },
     {
+      "title": "Scientists find a hidden health advantage in black and green rice",
+      "abstract": "Scientists found that black and green Japanese rice contain unusual, potentially beneficial fats and may be digested more slowly than ordinary white rice. The combination could make these colorful varieties promising ingredients for foods designed to support blood sugar and metabolic health.",
+      "authors": "",
+      "published": "Sep 2026",
+      "feedName": "ScienceDaily Nutrition",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260916232523.htm",
+      "image": "https://www.sciencedaily.com/images/1920/raw-black-rice.webp",
+      "screen": "right"
+    },
+    {
       "title": "Scientists find the whole grain “sweet spot” for better heart health",
       "abstract": "Eating four to six servings of whole grains a day may deliver meaningful benefits for heart health, according to a large review of 87 clinical trials. Researchers found improvements in body weight, waist size, blood pressure, cholesterol, blood sugar, triglycerides, and some markers of inflammation.",
       "authors": "",
@@ -472,52 +482,42 @@
       "screen": "right"
     },
     {
-      "title": "Smelling chocolate helped men complete more reps without feeling more tired",
-      "abstract": "Simply smelling chocolate helped men complete more leg extension repetitions without making the workout feel harder, with dark chocolate producing the strongest effect. The researchers think familiar food aromas may influence appetite and motivation by making the brain anticipate eating.",
-      "authors": "",
-      "published": "Sep 2026",
-      "feedName": "ScienceDaily Nutrition",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260914102445.htm",
-      "image": "https://www.sciencedaily.com/images/1920/man-smelling-chocolate.webp",
-      "screen": "right"
-    },
-    {
-      "title": "Mechanism of physicochemical quality formation in Polygonatum odoratum powder prepared by vacuum microwave drying combined with extrusion-cooking: a metabolomics-based analysis",
-      "abstract": "IntroductionPolygonatum odoratum (P. odoratum) is the dried rhizome of plant Polygonatum odoratum (Mill.) Druce, and it is a well-known medicinal and edible plant extensively utilized in Asia, but its commercial products, sliced or strip forms, limiting its wider applications. The powdered form of P. odoratum offers greater convenience for modern food applications. This study aims to develop efficient processing strategies for high-quality P. odoratum powder.MethodsThis study used fresh P. odoratum as raw material to investigate the quality of powder produced by vacuum microwave drying combined with extrusion cooking (combined approach) and compared it with powders obtained by hot-air drying and vacuum microwave drying alone. Electronic sensory technology, including electronic eye (e-eye), electronic noses (e-nose), and electronic tongues (e-tongue), were utilized to evaluate physical properties, in vitro antioxidant activity assays were used to preliminarily evaluate functional activity, and chemical analytical methods were employed for analyzing the main active components. Meantime, the differences in saponins and flavonoids among different processed products were determined by broad-targeted metabolomics techniques. Finally, correlation analyses of physical properties, antioxidant activity, and chemical properties were performed to investigate the mechanism underlying the formation of product quality.ResultsThe results showed that the combined approach enhanced the physicochemical properties and in vitro antioxidant activity of P. odoratum powder, primarily by effecting …",
-      "authors": "Fan Jia, Yao Xu, Yuhang Wu et al.",
+      "title": "Robustness of nutrient-based NOVA food classification under profile-separated nested validation",
+      "abstract": "IntroductionNutrient profiles contain information associated with food processing, but estimates of automated NOVA classification can be distorted by ambiguous record linkage, severe class imbalance, duplicate profiles, and non-nested model selection. This study evaluates how well four-class NOVA labels can be recovered from nutrient composition after addressing these sources of optimism.MethodsThe analysis used 2,484 manually labeled foods from the USDA Food and Nutrient Database for Dietary Studies, represented by 99 nutrient variables. Identical nutrient profiles were assigned to the same fold, and logistic regression, a radial-basis support vector machine, random forest, and histogram gradient boosting were compared with a prior-probability baseline using three repeats of five-fold nested stratified group cross-validation. Hyperparameters and all transformations were selected within each outer training partition. Performance was summarized using class-balanced and chance-corrected metrics, corrected repeated-cross-validation tests, and fold-stable multiclass Shapley attribution.ResultsHistogram gradient boosting achieved accuracy 0.921 and macro-F1 0.814 (SD 0.029; 95% fold interval 0.798–0.831). Random forest reached macro-F1 0.788; the mean difference of 0.026 was not statistically reliable after repeated-fold correction (Holm-adjusted p = 0.203). Class-specific F1 was 0.639 for NOVA 2 and 0.958 for NOVA 4.DiscussionNutrient measurements therefore provide a strong but incomplete correlate of NOVA class. The models are suitable for methodological screening within this …",
+      "authors": "Sıla Sinem Gören, Raja Hashim Ali, Talha Ali Khan et al.",
       "published": "Sep 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1950920",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1916576",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Inflammatory, antioxidant, and gut microbiota–related dietary indices and gastric cancer risk: a case–control study",
-      "abstract": "BackgroundDietary patterns may influence gastric carcinogenesis through inflammatory, oxidative, intestinal permeability, and gut microbiota-related pathways. However, comprehensive studies simultaneously evaluating inflammatory, antioxidant, and microbiota-oriented dietary indices together with multiple biological biomarkers in gastric cancer remain limited.MethodsThis case–control study included 960 adults comprising 480 patients with histologically confirmed gastric cancer and 480 control participants. Dietary intake was assessed using a validated food frequency questionnaire. The Dietary Inflammatory Index (DII), Composite Dietary Antioxidant Index (CDAI), and Dietary Index for Gut Microbiota (DI-GM) were calculated and categorized into tertiles. Inflammatory, oxidative stress, intestinal permeability, and microbiota-related biomarkers were measured using standardized laboratory methods. Multivariable logistic regression analyses were performed to evaluate associations between dietary indices and gastric cancer risk.ResultsPatients with gastric cancer had significantly higher DII scores and significantly lower CDAI and DI-GM scores compared with controls (all p < 0.001). In fully adjusted models, participants in the highest DII tertile had substantially greater odds of gastric cancer (OR: 6.21; 95% CI: 4.39–8.79), whereas higher CDAI (OR: 0.20; 95% CI: 0.14–0.28) and DI-GM (OR: 0.25; 95% CI: 0.18–0.35) were inversely associated with disease risk (all P-trend < 0.001). DII showed positive correlations with inflammatory and oxidative biomarkers, including CRP, TNF-α, MDA,…",
-      "authors": "Yongjing Chen, Rong Yang, Qingzhen Song et al.",
+      "title": "Associations of body fat percentage-based obesity with depression and comorbidity-related gut microbiota features in college students",
+      "abstract": "IntroductionThe association between body fat percentage (BFP)-defined obesity and depression in college students remains unclear, and gut microbiota alterations in this comorbid condition have not been fully characterized.MethodsA total of 906 college students were recruited to examine the prevalence of comorbid obesity and depression and the association between body fat percentage-defined obesity and depression. Logistic regression was used for association analysis. Subsequently, 104 participants balanced for age and sex distributions across groups were selected and divided into four groups: obese with depression (G1), non-obese with depression (G2), obese without depression (G3), and non-obese without depression (G4). Fecal samples were analyzed by 16S rRNA gene sequencing.ResultsThe prevalence of comorbid obesity and depression was 9.71%. BFP-defined obesity was significantly associated with depression after adjustment for covariates (OR = 1.62, 95% CI: 1.10–2.38). Gut microbiota analysis showed no significant differences in α-diversity among groups, whereas β-diversity differed significantly between the G1 and G4 (P < 0.05). Descriptive taxonomic profiles suggested differences in the relative abundances of several genera (e.g., decreased Akkermansia, increased Fusobacterium and Collinsella in G1). PICRUSt- based functional prediction suggested differences in inferred microbial metabolic pathways between G1 and other groups, including higher predicted lipopolysaccharide biosynthesis pathway abundance than in G2 and G4.DiscussionBFP-defined obesity was associated with dep…",
+      "authors": "Yingli Xu, Zhenchi Niu, Long Zhou et al.",
       "published": "Sep 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1893032",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1906822",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Correction: Precision synbiotic intervention with 2'-fucosyllactose and infant-derived Bifidobacterium modulates gut-immune axis and reduces disease risk in toddlers: a randomized controlled trial",
-      "abstract": "",
-      "authors": "Ke Chen, Xi Zhang, Shanshan Jin et al.",
+      "title": "Gut health and microbiome modulation by the heat-killed postbiotic beLP1® in adults with excess weight: a randomized, placebo-controlled trial",
+      "abstract": "BackgroundOverweight is linked to gut microbiota dysbiosis and gastrointestinal (GI) symptoms that impair quality of life.MethodsThis 84-day randomized, double-blind, placebo-controlled study evaluated the gut-health effects of heat-killed Lactiplantibacillus plantarum (beLP1®) in otherwise healthy adults (aged 18–45 years) within the BMI range of 25–35 kg/m2 and a ≥3-month history of mild-to-moderate GI discomfort, confirmed by Gastrointestinal Symptom Rating Scale (GSRS). In this trail 140 adults were allocated in a 1:1 ratio to receive either daily beLP1® (>30 billion cells) (n = 70) or placebo (n = 70). A total of 103 participants completed the study without protocol deviations and were included in the primary per-protocol (PP) analysis (beLP1®: n = 49; Placebo: n = 54). This predefined analysis directly compares the beLP1® and placebo arms using analysis of covariance (ANCOVA), supplemented by two independent-sample Student’s t-tests. The primary endpoint was change in gastrointestinal symptoms via the GSRS, secondary endpoints included the Perceived Stress Scale (PSS), the Digestion-associated Quality of Life Questionnaire (DQLQ), Tumor Necrosis Factor-alpha (TNF-α), lipid parameters, Dual-Energy X-ray Absorptiometry (DEXA), and gut microbiome diversity by metagenomic Next-Generation Sequencing (NGS).ResultsCompared to placebo, beLP1® significantly reduced total Gastrointestinal Symptom Rating Scale (GSRS) scores at Day 42 (p = 0.0215) and Day 84 (p = 0.0394), with prominent improvements in abdominal pain (p = 0.0205) and dyspeptic syndrome (p = 0.0303) domains. Signi…",
+      "authors": "Ranjith Kumar Manoharan, Kwon-Il Han, Yura Lee et al.",
       "published": "Sep 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1957323",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1919277",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Indoxyl sulfate in the gut–kidney axis: from diet-microbiome interactions to renal injury and targeted therapies",
-      "abstract": "Indoxyl sulfate (IS) is a prototypical protein-bound uremic toxin, linking dietary tryptophan metabolism by gut microbiota to renal injury. Derived from dietary tryptophan metabolized by gut microbiota into indole, which is subsequently transported to the liver and sulfated to form IS. In circulation, IS binds serum albumin and is actively secreted into urine via renal tubular organic anion transporters. In chronic kidney disease (CKD), impaired renal clearance and altered albumin-binding capacity contribute to IS accumulation and an increased free fraction. IS exerts nephrotoxic effects through multiple mechanisms. As an endogenous ligand of the aryl hydrocarbon receptor (AHR), it activates AHR signaling and contributes to mitochondrial dysfunction, oxidative stress, inflammation, regulated cell death, and renal fibrosis through interconnected downstream pathways. Therapeutic strategies targeting IS include dietary and microbiota-based interventions, oral adsorbent AST-120, modified dialysis approaches, and traditional Chinese medicine interventions. Although these strategies may reduce IS exposure or its downstream effects, the current evidence is predominantly derived from preclinical studies and surrogate-endpoint assessment. Further well-designed clinical trials are needed to determine whether reducing IS exposure can translate into sustained improvements in renal and patient-centered outcomes.",
-      "authors": "Xiangning Huang, Xinyu Yang, Jiawang Huang et al.",
+      "title": "Extraction, purification, characterization, and in vitro anticoagulant activity of polysaccharides from Cordyceps militaris",
+      "abstract": "ObjectiveTo elucidate the anticoagulant effects of Cordyceps militaris polysaccharides and provide a scientific basis for their application in functional foods and biomedicine.MethodsCrude polysaccharide (CC-1) was extracted by water extraction and ethanol precipitation, and then purified by papain-mediated deproteinization and dialysis to obtain polysaccharide CC-2. Chemical composition was analyzed using the phenol–sulfuric acid method, the meta-hydroxybiphenyl method, and a BCA protein assay kit. Molecular weight was determined by high-performance gel permeation chromatography (HPGPC). Monosaccharide composition was analyzed by PMP pre-column derivatization HPLC (PMP-HPLC). Structural features were characterized by Fourier transform infrared (FT-IR) and ultraviolet (UV) spectroscopy, and scanning electron microscopy (SEM). In vitro anticoagulant activity was evaluated by measuring activated partial thromboplastin time (APTT), prothrombin time (PT), thrombin time (TT), and fibrinogen (FIB) levels.ResultsThe yield of CC-2 was 2.16%. Compared with CC-1, CC-2 showed significantly higher total sugar and uronic acid contents and a decreased protein content. The molecular weight of CC-2 was 5908.612 Da. Its monosaccharide composition consisted primarily of rhamnose, glucuronic acid, glucose, galactose, and xylose in a molar ratio of 5:1:4:11:4. FT-IR indicated the presence of acetyl groups and a furanose ring conformation. SEM revealed a microstructure composed of irregular lumps and spherical particles. In vitro, CC-2 significantly prolonged PT, APTT, and TT (P < 0.001) by app…",
+      "authors": "Cai-fang Li, Li-gan Lu, Jun-shang Liu et al.",
       "published": "Sep 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1881019",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1915697",
       "image": "",
       "screen": "right"
     },

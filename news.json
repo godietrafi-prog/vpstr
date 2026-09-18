@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-17T22:37:00Z",
+  "updated": "2026-09-18T02:18:40Z",
   "items": [
     {
       "title": "Large nutritional and environmental improvements can be achieved across the product portfolios of major UK food and beverage manufacturers",
@@ -362,6 +362,26 @@
       "screen": "left"
     },
     {
+      "title": "Developing new asymmetric catalytic reactions for the synthesis of complex molecules",
+      "abstract": "Do Hyun Ryu's research team in the Department of Chemistry at Sungkyunkwan University (SKKU) has developed two new asymmetric catalytic methods for the precise synthesis of complex molecules using chiral organic catalysts.",
+      "authors": "",
+      "published": "Sep 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-09-asymmetric-catalytic-reactions-synthesis-complex.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/skku-developing-new-as.jpg",
+      "screen": "right"
+    },
+    {
+      "title": "Transfer learning corrects alloy calculations to predict unexplored materials",
+      "abstract": "Metals can be transformed into alloys by adding different elements, allowing their strength, stability and other properties to be tailored. A key parameter for understanding these properties is the volume size factor (VSF), which quantifies lattice distortion caused by differences in atomic size.",
+      "authors": "",
+      "published": "Sep 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-09-alloy-unexplored-materials.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2021/metal.jpg",
+      "screen": "right"
+    },
+    {
       "title": "A new rulebook for designing stable dilute alloy catalysts",
       "abstract": "Dilute alloy catalysts could improve fuel, plastic and pharmaceutical production, but their instability under heat holds back widespread use. Researchers at University of Michigan Engineering built a stability rulebook for this class of materials, which are made of a tiny amount of an active dopant metal dispersed in an inert host metal. A study outlining the rulebook was published in the Journal of the American Chemical Society.",
       "authors": "",
@@ -379,26 +399,6 @@
       "feedName": "Phys.org Analytics",
       "url": "https://phys.org/news/2026-09-site-drug-molecule-square-peg.html",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/a-rendering-of-a-newly.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "Iron, sulfur and purple light unlock greener carbon-carbon bond formation",
-      "abstract": "Much of organic chemistry, including the type used to create and alter medicinal drugs, relies on modifying carbon bonds. Rice University's Julian West has been developing a less expensive, faster and more environmentally friendly way to catalyze these reactions, with a breakthrough published in the journal Nature Catalysis.",
-      "authors": "",
-      "published": "Sep 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-09-iron-sulfur-purple-greener-carbon.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/researchers-develop-in-3.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "Why you really shouldn't overcook your proteins",
-      "abstract": "The development of cooking was a major milestone in the evolution of human civilization because it made food easier to digest and more energy-efficient. Heating food can also kill harmful pathogens and make certain foods taste better. Overcooking, on the other hand, can have adverse effects, particularly on proteins.",
-      "authors": "",
-      "published": "Sep 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-09-shouldnt-overcook-proteins.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/why-you-really-shouldn.jpg",
       "screen": "right"
     },
     {
@@ -849,7 +849,7 @@
       "venue": "Journal of the American Chemical Society",
       "feedName": "Lab Research",
       "citationCount": 23,
-      "recentCitations": 0,
+      "recentCitations": 2,
       "quartile": "Q1",
       "s2_paper_id": "e8f95caa1e8ece0c16f246b34ead0788c6d4b146",
       "url": "https://doi.org/10.1021/jacs.4c00625",

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-19T08:28:36Z",
+  "updated": "2026-09-19T13:36:04Z",
   "items": [
     {
       "title": "Large nutritional and environmental improvements can be achieved across the product portfolios of major UK food and beverage manufacturers",
@@ -242,6 +242,16 @@
       "screen": "left"
     },
     {
+      "title": "A quasi-metagenomics approach for subspecies level differentiation of Listeria monocytogenes in foods based on assembly alignment discrepancies",
+      "abstract": "",
+      "authors": "Calvin Ho-Fung Lau, Lang Yao, Rachel Madill et al.",
+      "published": "Mar 2027",
+      "feedName": "Food Microbiology",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0740002026002728?dgcid=rss_sd_all",
+      "image": "",
+      "screen": "left"
+    },
+    {
       "title": "High persistence of hepatitis a and E viruses during simulated gastrointestinal digestion across diverse food matrices",
       "abstract": "",
       "authors": "Marianne Levasseur, Albane Le Couteulx, Valérie Goulet-Beaulieu et al.",
@@ -272,13 +282,13 @@
       "screen": "left"
     },
     {
-      "title": "Serum metaviromic profiling of yaks and Tibetan sheep provides a pre-harvest viral baseline for food-producing ruminants",
+      "title": "Machine learning-assisted detection of Sudan I in chili powder using FT-IR coupled with magnetic molecular imprinting extraction",
       "abstract": "",
-      "authors": "Ziyan Guo, Zidan Zeng, Likai Ji et al.",
-      "published": "Mar 2027",
-      "feedName": "Food Microbiology",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0740002026002650?dgcid=rss_sd_all",
-      "image": "",
+      "authors": "Yichen Zhang, Zihan Chen, Paolo Coghi et al.",
+      "published": "Sep 2026",
+      "feedName": "npj Science of Food",
+      "url": "https://www.nature.com/articles/s41538-026-01155-1",
+      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01155-1/MediaObjects/41538_2026_1155_Fig1_HTML.png",
       "screen": "left"
     },
     {
@@ -309,16 +319,6 @@
       "feedName": "npj Science of Food",
       "url": "https://www.nature.com/articles/s41538-026-01152-4",
       "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01152-4/MediaObjects/41538_2026_1152_Fig1_HTML.png",
-      "screen": "left"
-    },
-    {
-      "title": "Metabolome transcriptome and antioxidant capacity in Ferula fukanensis roots",
-      "abstract": "",
-      "authors": "Zhijia Tian, Bingxin Jia, Ziyu Yang et al.",
-      "published": "Sep 2026",
-      "feedName": "npj Science of Food",
-      "url": "https://www.nature.com/articles/s41538-026-01103-z",
-      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01103-z/MediaObjects/41538_2026_1103_Fig1_HTML.png",
       "screen": "left"
     },
     {

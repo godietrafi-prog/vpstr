@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20T08:56:39Z",
+  "updated": "2026-09-20T13:51:12Z",
   "items": [
     {
       "title": "Large nutritional and environmental improvements can be achieved across the product portfolios of major UK food and beverage manufacturers",
@@ -92,32 +92,32 @@
       "screen": "left"
     },
     {
-      "title": "From fragmented optimization to knowledge-driven process design: A critical appraisal of deep eutectic solvent pretreatment for essential oil extraction and the BRIDGE framework",
+      "title": "Integrating stimuli-responsive release and freshness sensing in smart packaging for fresh foods: a decision-value framework for closed-loop design",
       "abstract": "",
-      "authors": "Rimpa Pandit, Riya Sahu, Prakash Soni et al.",
+      "authors": "Wei Xia, Yan Xu, Weijie Wu et al.",
       "published": "Dec 2026",
       "feedName": "Trends in Food Sci & Tech",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426005716?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426005479?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
     {
-      "title": "Ulvan from Ulva spp.: Extraction-driven structural heterogeneity and its impact on physicochemical behavior and gut barrier function",
+      "title": "Green modification and interfacial engineering of plant proteins for aerated foods: a rate-limiting-step framework",
       "abstract": "",
-      "authors": "Wanzi Yao, Huamai Qiu, Xiong Li et al.",
+      "authors": "Zihan Qu, Toshiro Matsui, Guiyun Chen et al.",
       "published": "Dec 2026",
       "feedName": "Trends in Food Sci & Tech",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426005637?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S092422442600573X?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
     {
-      "title": "Artificial intelligence-enabled strategies for addressing bottlenecks in probiotic development",
+      "title": "From observation to autonomous discovery: An epistemic-capability framework for artificial intelligence in food science",
       "abstract": "",
-      "authors": "Juengeun Im, Md Ariful Haque, Hye Kim et al.",
+      "authors": "Jaypee Sumaljag Yongco, Avril Joy R. Ramayan, Giselle O. Dangdang et al.",
       "published": "Dec 2026",
       "feedName": "Trends in Food Sci & Tech",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426005455?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426005698?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -442,6 +442,16 @@
       "screen": "right"
     },
     {
+      "title": "8 common food additives linked to high blood pressure and heart disease",
+      "abstract": "Common preservatives hiding in processed foods may carry unexpected heart risks, with heavy consumption linked to substantially higher rates of high blood pressure and cardiovascular disease. Researchers identified eight widely used preservatives associated with hypertension, although the observational study cannot prove they were directly responsible.",
+      "authors": "",
+      "published": "Sep 2026",
+      "feedName": "ScienceDaily Nutrition",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260920031905.htm",
+      "image": "https://www.sciencedaily.com/images/1920/common-food-preservatives-linked-to-high-blood-pressure-and-heart-disease.webp",
+      "screen": "right"
+    },
+    {
       "title": "Scientists solve a 50-year mystery and discover a new human blood group",
       "abstract": "Scientists have identified the genetic cause behind the mysterious AnWj blood group antigen, solving a puzzle that began in 1972 and establishing a new blood group system called MAL. The discovery could make it much easier to find extremely rare AnWj-negative patients and donors and protect them from potentially dangerous transfusion reactions.",
       "authors": "",
@@ -469,16 +479,6 @@
       "feedName": "ScienceDaily Nutrition",
       "url": "https://www.sciencedaily.com/releases/2026/09/260916232523.htm",
       "image": "https://www.sciencedaily.com/images/1920/raw-black-rice.webp",
-      "screen": "right"
-    },
-    {
-      "title": "Scientists find the whole grain “sweet spot” for better heart health",
-      "abstract": "Eating four to six servings of whole grains a day may deliver meaningful benefits for heart health, according to a large review of 87 clinical trials. Researchers found improvements in body weight, waist size, blood pressure, cholesterol, blood sugar, triglycerides, and some markers of inflammation.",
-      "authors": "",
-      "published": "Sep 2026",
-      "feedName": "ScienceDaily Nutrition",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260915232126.htm",
-      "image": "https://www.sciencedaily.com/images/1920/fresh-baked-bread-wood-cutting-board.webp",
       "screen": "right"
     },
     {

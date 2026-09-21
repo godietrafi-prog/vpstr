@@ -1,6 +1,16 @@
 {
-  "updated": "2026-09-21T16:09:31Z",
+  "updated": "2026-09-21T21:28:51Z",
   "items": [
+    {
+      "title": "The attainable potential of agricultural solutions",
+      "abstract": "As the range of agricultural technological solutions expands, questions emerge about how to assess their technical potential under differing local conditions and what that means for food security.",
+      "authors": "",
+      "published": "Sep 2026",
+      "feedName": "Nature Food",
+      "url": "https://www.nature.com/articles/s43016-026-01437-7",
+      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs43016-026-01437-7/MediaObjects/43016_2026_1437_Fig1_HTML.png",
+      "screen": "left"
+    },
     {
       "title": "Food emissions taxes can deliver health and environmental benefits with limited leakage",
       "abstract": "Consumer preferences continue to favour emission-intense foods such as meat and dairy. A scenario analysis explores the social cost of carbon taxation design for balancing emissions and health outcomes, with low leakage risk.",
@@ -29,16 +39,6 @@
       "feedName": "Nature Food",
       "url": "https://www.nature.com/articles/s43016-026-01438-6",
       "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs43016-026-01438-6/MediaObjects/43016_2026_1438_Fig1_HTML.png",
-      "screen": "left"
-    },
-    {
-      "title": "Remote sensing, fairness and institutional capacity in European agricultural governance",
-      "abstract": "Institutional and structural barriers limit the effective use of remote sensing in European Union agricultural governance, constraining its potential to enable fair, resilient and environmentally sound farming practices. We outline financial, academic and policy reforms to address these barriers, linking satellite observation with local knowledge systems and institutional accountability.",
-      "authors": "Yeying Zhou, Andrea Fiorini, Michele Croci et al.",
-      "published": "Sep 2026",
-      "feedName": "Nature Food",
-      "url": "https://www.nature.com/articles/s43016-026-01427-9",
-      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs43016-026-01427-9/MediaObjects/43016_2026_1427_Fig1_HTML.png",
       "screen": "left"
     },
     {
@@ -362,6 +362,16 @@
       "screen": "left"
     },
     {
+      "title": "New ligand design balances radical generation and catalyst regeneration for challenging chemical reactions",
+      "abstract": "Radicals, atoms or molecules that readily react with other substances to form new bonds, are useful tools for building complex substances such as pharmaceuticals. But even when a radical is generated efficiently, the reaction cannot continue unless the catalyst returns to its original state.",
+      "authors": "",
+      "published": "Sep 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-09-ligand-radical-generation-catalyst-regeneration.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/kaist-develops-a-strat-3.jpg",
+      "screen": "right"
+    },
+    {
       "title": "Tiny molecular scissors reveal how crystals bend without breaking",
       "abstract": "Crystals are usually thought of as rigid and brittle. Yet some molecular crystals can bend, jump, twist or even change shape when exposed to light. Understanding how tiny molecular movements inside an ordered crystal can produce such large visible motions is an important challenge for developing responsive materials that could eventually be used in actuators, sensors and other miniature devices.",
       "authors": "",
@@ -389,16 +399,6 @@
       "feedName": "Phys.org Analytics",
       "url": "https://phys.org/news/2026-09-alloy-unexplored-materials.html",
       "image": "https://scx1.b-cdn.net/csz/news/800/2021/metal.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "A new rulebook for designing stable dilute alloy catalysts",
-      "abstract": "Dilute alloy catalysts could improve fuel, plastic and pharmaceutical production, but their instability under heat holds back widespread use. Researchers at University of Michigan Engineering built a stability rulebook for this class of materials, which are made of a tiny amount of an active dopant metal dispersed in an inert host metal. A study outlining the rulebook was published in the Journal of the American Chemical Society.",
-      "authors": "",
-      "published": "Sep 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-09-rulebook-stable-dilute-alloy-catalysts.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/a-new-rulebook-for-des.jpg",
       "screen": "right"
     },
     {
@@ -482,22 +482,32 @@
       "screen": "right"
     },
     {
-      "title": "The gadB pathway confers oxidative stress tolerance in Lactiplantibacillus plantarum SAL and acts synergistically with L-glutamate to restore intestinal barrier integrity",
-      "abstract": "IntroductionThe therapeutic efficacy of probiotics is often limited by poor survival under gastrointestinal oxidative stress; however, stress adaptation mechanisms in Lactiplantibacillus remain poorly understood. This study evaluated the probiotic properties of a host-derived strain, Lactiplantibacillus plantarum SAL, elucidated the molecular basis of its oxidative stress tolerance, and assessed whether L-glutamate (L-Glu) supplementation synergistically enhances its protective effects on intestinal barrier integrity.MethodsProbiotic traits (gastrointestinal tolerance, antibacterial activity) and antitumor efficacy (CT26 colon cancer xenograft model in nude mice) of L. plantarum SAL were assessed. Transcriptome profiling of H2O2-challenged SAL identified key stress-responsive genes. The effects of L-Glu supplementation on oxidative stress resistance and antibacterial activity were evaluated in vitro. A D-galactose (D-gal)-induced oxidative injury mouse model was used to investigate the restorative effects of the L. plantarum SAL + L-Glu synbiotic on intestinal barrier function.ResultsCompared with the reference strain L. plantarum WCFS1, SAL possessed superior probiotic traits, with significantly higher viability at 6% NaCl (p < 0.01) and in simulated gastric fluid at pH 1.5 after 2 h (p < 0.001). SAL administration markedly suppressed tumor growth and attenuated splenomegaly in the colon cancer model, with inhibition rates of 21.26% by tumor weight and 32.51% by tumor volume. Transcriptomic profiling identified 313 differentially expressed genes (149 upregulated, 164 downr…",
-      "authors": "Jie Sun, Wenqi Zhao, Jinqing Fan et al.",
+      "title": "Ketones and brain health: from metabolic rescue to metabolic flexibility",
+      "abstract": "The human brain relies predominantly on glucose under habitual dietary conditions, but this dependence is not absolute. During fasting, prolonged exercise, carbohydrate restriction or ketogenic interventions, beta-hydroxybutyrate (BHB) and acetoacetate (AcAc) become available as cerebral fuels and metabolic signals. Most literature on ketones and cognition has emphasized mild cognitive impairment (MCI), Alzheimer’s disease (AD) and other neurodegenerative disorders, where impaired cerebral glucose utilization provides a rationale for ketone-based brain-energy rescue. This Mini Review retains this evidence as proof of concept but shifts the focus toward a broader preventive hypothesis: repeated short periods of mild physiological ketosis may represent a normal component of cerebral metabolic flexibility and contribute to long-term brain health before cognitive impairment develops. This view is consistent with intermittent metabolic switching proposed recently, whereby transitions between glucose-dominant and fat/ketone-supported metabolism activate adaptive pathways involving mitochondrial function, stress resistance, autophagy, antioxidant defense and neurotrophic signaling. Mechanistically, ketones are transported into the brain through monocarboxylate transporters, oxidized by neurons and glia, and may influence histone deacetylases, redox state, neuroinflammation, BDNF-related signaling and cellular resilience. The key question may therefore be not whether sustained ketosis is superior to glucose metabolism, but whether modern lifestyles have reduced the physiological oc…",
+      "authors": "Antonio Paoli",
       "published": "Sep 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1909350",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1977189",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Mediterranean diet, eating behaviours, and nutritional intervention in childhood obesity: what works, where, and for whom–a narrative review",
-      "abstract": "Childhood obesity is a leading public health challenge with rising global prevalence and significant impacts on cardiometabolic health extending into adulthood. Lifestyle intervention, with nutrition as its central component, is the main point of paediatric obesity management, yet the evidence base remains fragmented across regions, instruments, and clinical models. This narrative review synthesises European evidence on Mediterranean diet (MD) adherence assessment, multidisciplinary intervention outcomes, and global comparative patterns in paediatric obesity management. Among dietary patterns, the Mediterranean diet (MD) remains the most evidence-supported framework for cardiometabolic prevention in children and adolescents. KIDMED, a 16-item validated instrument, has been adapted for multiple European paediatric populations and consistently identifies low legume, whole grain, and extra-virgin olive oil intake as the principal adherence gaps associated with a higher body mass index (BMI) Z-score, as well as a higher age- and sex-specific BMI percentile. The Children’s Eating Behaviour Questionnaire (CEBQ) provides a complementary behavioural marker with food-approach subscales positively associated with BMI Z-score and food-avoidance subscales inversely associated, a pattern replicated across European, Latin American, and Middle Eastern cohorts. Structured multidisciplinary interventions consistently produce modest reductions in BMI Z-score, typically between 0.10 and 0.25 units over 3 to 12 months. The strongest predictors of response are younger age, lower baseline obesit…",
-      "authors": "Julia Bober, Ewelina Gaszyńska",
+      "title": "Diet quality in pediatric migraine and the educational quality of related short-form videos: a cross-sectional study and content analysis",
+      "abstract": "BackgroundDiet quality has been associated with headache burden and psychosocial outcomes in children with migraine, while caregivers increasingly use short-form videos for dietary and lifestyle advice. However, evidence on overall diet quality and related video quality remains limited.MethodsThis study included 180 children aged 7–18 years with migraine. Diet quality was assessed using the Chinese Children Dietary Index (CCDI). Participants were divided at the median CCDI score of 117.7 into low- and high-CCDI groups (n = 90 each). Between-group comparisons included Pediatric Migraine Disability Assessment (PedMIDAS) scores, headache characteristics, analgesic use, caregiver burden, and anxiety and depressive symptoms. Multivariable regression was used to examine adjusted associations between CCDI scores and clinical outcomes. Caregiver use of short-form videos was also surveyed. In addition, 150 videos on dietary and lifestyle management of pediatric migraine from Douyin, Kuaishou, and Xiaohongshu were analyzed for educational quality, reliability, and actionability.ResultsThe high-CCDI group had lower PedMIDAS scores than the low-CCDI group (29.54 ± 17.20 vs. 41.96 ± 14.72), fewer headache days over 28 days [6.00 (4.00, 8.00) vs. 9.00 (8.00, 11.00)], lower pain intensity, and fewer days of analgesic use (all p < 0.001). Caregiver burden and anxiety and depression scores were also lower (all p < 0.05). After adjustment, higher CCDI scores remained associated with lower PedMIDAS scores, fewer headache days, lower pain intensity, fewer days of analgesic use, and lower careg…",
+      "authors": "Haisu Li, Lan Liu, Jiayi Jiang et al.",
       "published": "Sep 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1892494",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1934926",
+      "image": "",
+      "screen": "right"
+    },
+    {
+      "title": "Carboxypeptidases for food processing: structural characteristics, expression optimization, and advances in applications",
+      "abstract": "Carboxypeptidases, a class of exopeptidases that specifically cleave C-terminal amino acid residues from peptide chains, are extensively utilized for food component modification and quality enhancement. This review focuses on the three-dimensional structural characteristics and active-site catalytic mechanisms of serine carboxypeptidases, metallocarboxypeptidases, and cysteine carboxypeptidases and describes the construction and optimization strategies for heterologous expression systems, with particular emphasis on Escherichia coli (E. coli), Bacillus subtilis, and Pichia pastoris. Furthermore, the use and current research status of carboxypeptidases in food processing are comprehensively explored, including the debittering of protein hydrolysates, the targeted preparation of high-Fischer-ratio (high-F-ratio) oligopeptides, the quality enhancement of fermented foods, and the green biological detoxification of ochratoxin A (OTA). Further research can focus on enhancing the substrate specificity and catalytic efficiency of carboxypeptidases through molecular modification. This review aims to provide a theoretical foundation for the broader application of carboxypeptidases in green food manufacturing and quality improvement.",
+      "authors": "Yitong Du, Junqi Liu, Xinyu Zhu et al.",
+      "published": "Sep 2026",
+      "feedName": "Frontiers Nutrition",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1915795",
       "image": "",
       "screen": "right"
     },
@@ -508,16 +518,6 @@
       "published": "Sep 2026",
       "feedName": "Frontiers Nutrition",
       "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1934811",
-      "image": "",
-      "screen": "right"
-    },
-    {
-      "title": "Ketones and brain health: from metabolic rescue to metabolic flexibility",
-      "abstract": "The human brain relies predominantly on glucose under habitual dietary conditions, but this dependence is not absolute. During fasting, prolonged exercise, carbohydrate restriction or ketogenic interventions, beta-hydroxybutyrate (BHB) and acetoacetate (AcAc) become available as cerebral fuels and metabolic signals. Most literature on ketones and cognition has emphasized mild cognitive impairment (MCI), Alzheimer’s disease (AD) and other neurodegenerative disorders, where impaired cerebral glucose utilization provides a rationale for ketone-based brain-energy rescue. This Mini Review retains this evidence as proof of concept but shifts the focus toward a broader preventive hypothesis: repeated short periods of mild physiological ketosis may represent a normal component of cerebral metabolic flexibility and contribute to long-term brain health before cognitive impairment develops. This view is consistent with intermittent metabolic switching proposed recently, whereby transitions between glucose-dominant and fat/ketone-supported metabolism activate adaptive pathways involving mitochondrial function, stress resistance, autophagy, antioxidant defense and neurotrophic signaling. Mechanistically, ketones are transported into the brain through monocarboxylate transporters, oxidized by neurons and glia, and may influence histone deacetylases, redox state, neuroinflammation, BDNF-related signaling and cellular resilience. The key question may therefore be not whether sustained ketosis is superior to glucose metabolism, but whether modern lifestyles have reduced the physiological oc…",
-      "authors": "Antonio Paoli",
-      "published": "Sep 2026",
-      "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1977189",
       "image": "",
       "screen": "right"
     },

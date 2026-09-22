@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22T07:05:22Z",
+  "updated": "2026-09-22T13:01:03Z",
   "items": [
     {
       "title": "The attainable potential of agricultural solutions",
@@ -42,42 +42,42 @@
       "screen": "left"
     },
     {
-      "title": "Ultrasound stress stimulated volatile biosynthesis of postharvest tomatoes during low-temperature storage: A strategy for improving the aroma quality of postharvest fruits",
+      "title": "Sustainable utilization of rice wine cake: The integration of in vitro and in silico method for exploring antioxidant peptides",
       "abstract": "",
-      "authors": "Jingtong Guo, Lihong Wu, Dongping Lu et al.",
+      "authors": "Yuzhi Zhang, Jiayu Chen, Ruhao Zhao et al.",
       "published": "Nov 2026",
       "feedName": "Food Chemistry",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626033996?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626033698?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
     {
-      "title": "Chickpea aquafaba protein modified by plasma-activated water for egg replacement: Impact on protein structure, functional properties, and rheology",
+      "title": "Identification of antihypertensive peptides from doenjang-meju, Korean fermented soybean, and their effects on the renin-angiotensin system",
       "abstract": "",
-      "authors": "Si-Yeon Kim, Sea C. Min",
+      "authors": "Jae Kyeong Lee, Ju Hye Baek, Dong Min Han et al.",
       "published": "Nov 2026",
       "feedName": "Food Chemistry",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626033236?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626033303?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
     {
-      "title": "INFOGEST digestion remodels phenolic composition and antioxidant bioaccessibility of olive mill wastewater and alperujo extracts across fruit ripening stages",
+      "title": "Non-muscle proteins alleviate 118 °C sterilization-induced gel quality deterioration by non-covalently modulating myofibrillar protein conformation and aggregation",
       "abstract": "",
-      "authors": "Luna Barrera-Chamorro, Africa Fernandez-Prior, Elvira Marquez-Paradas et al.",
+      "authors": "Wenmin Wu, Fan Chen, Pei Gao et al.",
       "published": "Nov 2026",
       "feedName": "Food Chemistry",
-      "url": "https://www.sciencedirect.com/science/article/pii/S030881462603356X?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626033820?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
     {
-      "title": "Identification of metabolites that influence flavor in the flesh of six mango cultivars from Thailand",
+      "title": "A six-minute HPLC with near UPLC performance for the determination of anthocyanins in black currant: Screening of 415 genotypes",
       "abstract": "",
-      "authors": "Mongkon Sirijan, Misaki Ishibashi, Umaporn Uawisetwathana et al.",
+      "authors": "Paweł Górnaś, Krists Dukurs, Danija Lazdiņa et al.",
       "published": "Nov 2026",
       "feedName": "Food Chemistry",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626033297?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626033807?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -212,6 +212,16 @@
       "screen": "left"
     },
     {
+      "title": "Artificial intelligence in food safety and quality control: applications, challenges, and future perspectives",
+      "abstract": "The increasing complexity of global supply chains, rising contamination risks, and evolving consumer expectations have made food safety and quality control critical priorities. The limitations of traditional inspection and analytical methods in terms of speed, accuracy, and real-time monitoring have driven the rapid adoption of artificial intelligence (AI)-based technologies in this field. This review evaluates current AI applications in food safety by integrating contaminant detection, hygiene management, quality control, early warning systems, and supply chain traceability into a unified framework while critically examining their advantages, limitations, industrial applicability, and future research priorities. AI-enabled systems support proactive food safety management by improving contaminant detection, whereas the integration of AI with biosensors and smart packaging systems enhances continuous quality monitoring. However, data heterogeneity, high infrastructure costs, limited model interpretability, regulatory challenges, and data privacy concerns remain key barriers to the widespread adoption of AI applications. Overall, AI technologies have the potential to enhance accuracy, proactive management, traceability, and sustainability in food safety. Realizing this potential at an industrial scale requires strengthened interdisciplinary collaboration, standardized data infrastructures, and the development of practical and scalable AI solutions.",
+      "authors": "Aysel İçöz",
+      "published": "Sep 2026",
+      "feedName": "Frontiers Food Science",
+      "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.1931313",
+      "image": "",
+      "screen": "left"
+    },
+    {
       "title": "Bio-based alginate films reinforced with bacterial nanocellulose and MAA-rich extracts for food packaging",
       "abstract": "The growing demand for sustainable food packaging has encouraged the development of biodegradable materials with improved protective and functional properties. This study developed sodium alginate (ALG) composite films containing bacterial nanocellulose (BNC) and mycosporine-like amino acid (MAA)-rich extracts. The novelty lies in combining nanocellulose reinforcement with the valorization of marine-derived by-products in a multifunctional biodegradable packaging system. Films were produced by solution casting and evaluated for their structural, mechanical, surface, moisture-related, and barrier properties. Their effectiveness in preserving fresh blueberries was also assessed during four weeks of storage. BNC incorporation strengthened the alginate matrix, increasing tensile strength and reducing film porosity. The addition of MAA-rich extracts improved film flexibility and contributed functional properties. However, higher MAA concentrations increased film hydrophilicity, resulting in greater moisture content, water solubility, swelling, and rehydration capacity. Among the tested formulations, the ALG–BNC film containing 3% MAA showed the most balanced performance, combining low porosity, adequate tensile strength, improved flexibility, and controlled moisture behaviour. This formulation also provided the best preservation of blueberries, with the lowest weight loss of 3.6% after four weeks. The results demonstrate that film performance depends on balancing mechanical stability, flexibility, and water sensitivity. The synergistic combination of BNC and MAA-rich extracts of…",
       "authors": "Urška Vrabič-Brodnjak, Tina Ružič",
@@ -228,16 +238,6 @@
       "published": "Sep 2026",
       "feedName": "Frontiers Food Science",
       "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.1926825",
-      "image": "",
-      "screen": "left"
-    },
-    {
-      "title": "Bioinspired rhyolite particles as a functional material for lipid regulation in diet-induced obesity",
-      "abstract": "Many mammals engage in soil-eating behavior, ingesting minerals derived from rocks to obtain nutrients and promote detoxification in the body. Inspired by this animal behavior, we applied rhyolite particles, a natural mineral, as a modulator of lipid metabolism in high-fat diets (HFD) to investigate its effects in regulating lipid digestion and preventing obesity risk, comparing it with activated bamboo charcoal In vitro digestion models, rhyolite particles, regardless of particle size, inhibited the activity of pancreatic lipase and α-amylase, reducing the release of free fatty acids. Similarly, in vivo, rhyolite supplementation suppressed weight gain, improved plasma and hepatic lipid profiles, and maintained the integrity of intestinal and liver tissue. The bacterial composition of the gut microbiota also improved to a near-normal state. Our findings suggest that rhyolite particles, inspired by soil-eating behavior, are a promising natural material for preventing diet-induced obesity through lipid regulation and interaction with the gut microbiota.",
-      "authors": "Ahmad Bikharudin, Masahiro Okada, Satoshi Wakai et al.",
-      "published": "Sep 2026",
-      "feedName": "Frontiers Food Science",
-      "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.1964244",
       "image": "",
       "screen": "left"
     },
@@ -362,6 +362,16 @@
       "screen": "left"
     },
     {
+      "title": "Iron complex breaks down stubborn pollutant using light-powered reaction",
+      "abstract": "The molecular culprit behind harmful algal blooms and some groundwater contamination is the same thing that has kept civilization fed for millennia: a stable form of nitrogen called nitrate.",
+      "authors": "",
+      "published": "Sep 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-09-iron-complex-stubborn-pollutant-powered.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/algal-bloom-1.jpg",
+      "screen": "right"
+    },
+    {
       "title": "New ligand design balances radical generation and catalyst regeneration for challenging chemical reactions",
       "abstract": "Radicals, atoms or molecules that readily react with other substances to form new bonds, are useful tools for building complex substances such as pharmaceuticals. But even when a radical is generated efficiently, the reaction cannot continue unless the catalyst returns to its original state.",
       "authors": "",
@@ -389,16 +399,6 @@
       "feedName": "Phys.org Analytics",
       "url": "https://phys.org/news/2026-09-asymmetric-catalytic-reactions-synthesis-complex.html",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/skku-developing-new-as.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "Transfer learning corrects alloy calculations to predict unexplored materials",
-      "abstract": "Metals can be transformed into alloys by adding different elements, allowing their strength, stability and other properties to be tailored. A key parameter for understanding these properties is the volume size factor (VSF), which quantifies lattice distortion caused by differences in atomic size.",
-      "authors": "",
-      "published": "Sep 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-09-alloy-unexplored-materials.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2021/metal.jpg",
       "screen": "right"
     },
     {
@@ -492,12 +492,12 @@
       "screen": "right"
     },
     {
-      "title": "Effects of soy and isoflavone interventions on plasma lipid profiles in postmenopausal women: an umbrella review",
-      "abstract": "BackgroundAlthough numerous meta-analyses have investigated the effects of soy and isoflavones on lipid profiles in postmenopausal women, a comprehensive evaluation of this evidence remains lacking. This umbrella review synthesized existing meta-analyses of randomized controlled trials to assess the certainty of the evidence.MethodsWe searched PubMed, Web of Science, Embase, and the Cochrane Database for studies published through April 22, 2026. Methodological quality was evaluated using AMSTAR-2, and evidence certainty was assessed using the GRADE approach.ResultsSeven meta-analyses comprising 21 associations were included. According to AMSTAR-2, two meta-analyses (29%) demonstrated moderate or high quality. Eighteen associations were supported by evidence of moderate or high certainty according to GRADE. Soy protein containing isoflavones and soy isoflavone extracts significantly reduced total cholesterol (MD = −0.12 mmol/L, 95% CI: −0.21 to −0.03). Soy isoflavones reduced low-density lipoprotein cholesterol (SMD = −0.11, 95% CI: −0.21 to −0.01). Furthermore, unfermented soy products significantly increased high-density lipoprotein cholesterol (MD = 0.06 mmol/L, 95% CI: 0.02 to 0.10).ConclusionSpecific soy-based interventions, rather than general soy consumption, were associated with beneficial changes in lipid profiles among postmenopausal women.Systematic review registrationCRD420251243075.",
-      "authors": "Jia-He Guo, Zi-Jian Lin, Yue Li et al.",
+      "title": "Equation-derived SMI not generalizable for DXA-defined low muscle mass in Chinese adults: external validation study",
+      "abstract": "BackgroundAnthropometric equations are commonly used to estimate appendicular skeletal muscle mass (ASM) when direct body-composition measurements are unavailable. However, it remains unclear whether skeletal muscle index derived from predicted ASM (SMI_pred) can validly identify low muscle mass using thresholds developed for dual-energy X-ray absorptiometry (DXA). We externally validated the Wen et al. anthropometric equation against DXA in Chinese adults undergoing routine health examinations.MethodsThis single-center retrospective external validation study included 501 Chinese adults who underwent whole-body DXA between 2016 and 2022. The published equation was applied without coefficient updating to calculate predicted ASM (ASM_pred), and SMI_pred was calculated as ASM_pred divided by height squared. Validation included Pearson correlation, Lin’s concordance correlation coefficient (CCC), calibration, Bland–Altman agreement, and classification of DXA-defined low muscle mass by direct application of the Asian Working Group for Sarcopenia 2019 sex-specific DXA cut-offs. Simple linear recalibration was evaluated using repeated 10-fold cross-validation as a secondary analysis.ResultsASM_pred was strongly correlated with DXA-measured ASM (Pearson r = 0.892, 95%CI = 0.873–0.909; CCC = 0.862), but systematically overestimated ASM, with a mean bias of 1.25 kg and 95% limits of agreement from -3.14 to 5.64 kg. Its calibration slope was 0.853 (95%CrI = 0.815–0.891). SMI_pred showed lower correlation and concordance with DXA-measured SMI (Pearson r = 0.756, 95%CI = 0.716–0.791; CC…",
+      "authors": "Zhenchao Liu, Gudi Shi, Yuqian Ren et al.",
       "published": "Sep 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1949200",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1887277",
       "image": "",
       "screen": "right"
     },
@@ -512,12 +512,12 @@
       "screen": "right"
     },
     {
-      "title": "Body composition phenotypes and phase angle as predictors of mortality in subjects with right ventricular dysfunction: a prospective cohort study",
-      "abstract": "BackgroundRight ventricular dysfunction (RVD) is characterized by abnormal RV structure or function and is associated with worse outcomes. In subjects with RVD, cardiac cachexia and sarcopenia were associated with intestinal congestion. However, the prognostic impact and prevalence of body composition phenotypes and phase angle (PhA) in RVD have been insufficiently studied.ObjectiveTo assess the prognostic impact and prevalence of body composition phenotypes and PhA in RVD,MethodsA prospective cohort study was conducted. Outpatient subjects over 18 years old with a confirmed diagnosis of RVD were included. Dynapenia, muscle wasting, and sarcopenia, according to the European Working Group on Sarcopenia in Older People 2 (EWGSOP2), while cachexia was defined according to Evans criteria.ResultsA total of 212 subjects with RVD were included. The mean age of the subjects was 64.47 ± 13.99 years, and 58.96% were men. The prevalence of dynapenia was 28.30%, muscle wasting was 10.38, sarcopenia was 21.70%, and cachexia was 4.25%. The independent risk factors for mortality were PhA < 5° (HR: 2.29, 95% CI: 1.27 to 4.15, p = 0.006), low performance (HR:2.69, 95% CI: 1.25 to 5.81, p = 0.011), sarcopenia (HR: 2.58, 95% CI 1.05 to 6.34; p = 0.038), and cachexia (HR: 4.29, 95% CI 1.29 to 14.24; p = 0.017).ConclusionIn subjects with RVD, there is a higher prevalence of muscle disorders such as dynapenia, sarcopenia, and cachexia. Besides PhA, sarcopenia and cachexia were associated with a worse prognosis.",
-      "authors": "Dulce González-Islas, Arturo Orea-Tejeda, Ana Gabriela Meléndez-Galeana et al.",
+      "title": "Connecting digital food literacy and sustainable eating in children and adolescents: a focused mini review of evidence gaps and educational priorities",
+      "abstract": "Children and adolescents learn about food through digital and physical environments while developing an understanding of dietary effects on human and planetary health. Digital healthy-eating education, food-literacy education, and sustainable-diet education have nevertheless developed along largely separate trajectories. This focused Mini Review examines interventions that combine a substantive digital educational mechanism, a food-literacy capacity, and an explicit sustainability target in young people. Database-specific searches of Web of Science, Scopus, PubMed, and ERIC plus citation checking yielded three eligible studies; exploratory high-sensitivity checks did not reveal an evident additional match. The studies evaluated an adolescent food-systems simulation with guided inquiry, online family cooking with text-message support, and a seven-mission family mHealth program addressing food waste and plant-based proteins. They provide preliminary evidence for three educational configurations rather than a basis for comparative effectiveness claims. Mixed Methods Appraisal Tool assessment identified credible alignment between questions and data, alongside immediate qualitative outcomes, single-arm designs, selective outcome completion, and limited control of confounding. The synthesis distinguishes food literacy delivered through digital media—the eligibility construct—from critical literacy about digital food environments, which remains a proposed research direction. Current evidence supports explicit specification of digital affordance, literacy capacity, sustainability t…",
+      "authors": "Lu Xing, Xueqi Wu",
       "published": "Sep 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1952746",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1953673",
       "image": "",
       "screen": "right"
     },

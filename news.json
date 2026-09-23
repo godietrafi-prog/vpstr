@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-23T09:03:58Z",
+  "updated": "2026-09-23T14:39:15Z",
   "items": [
     {
       "title": "The attainable potential of agricultural solutions",
@@ -92,32 +92,32 @@
       "screen": "left"
     },
     {
-      "title": "Diet-modulated gut phageome: A novel cross-kingdom framework for understanding host homeostasis",
+      "title": "The aromatic footprint of Lactiplantibacillus plantarum : Volatilome intraspecific diversity and variability across food matrices",
       "abstract": "",
-      "authors": "Xianglin Fei, Shujie Xu, Guangyao Wang et al.",
+      "authors": "Antonia Corvino, Giuseppe Spano, Franco Biasioli et al.",
       "published": "Dec 2026",
       "feedName": "Trends in Food Sci & Tech",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426005625?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426005492?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
     {
-      "title": "Food protein-derived mineral binding peptides for mineral specific carrier design beyond chelation screening",
+      "title": "Advances in microalgae proteins allergenicity: From risk perception to safety empowerment",
       "abstract": "",
-      "authors": "Ximing Yang, Xiaoyu Ma, Ruibin Guo et al.",
+      "authors": "Wentao Lian, Siru Yao, Chunping Luo et al.",
       "published": "Dec 2026",
       "feedName": "Trends in Food Sci & Tech",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426005741?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426005686?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
     {
-      "title": "The emerging role of deep eutectic solvents in sustainable extraction and recovery of animal-derived proteins",
+      "title": "Pathway-oriented functional films for animal-derived foods: Spoilage mechanisms, targeted packaging strategies, and industrial translation",
       "abstract": "",
-      "authors": "Mustapha Muhammad Nasiru, Evans Frimpong Boateng, Fawze Alnadari et al.",
+      "authors": "Yuanyuan Ma, Yikun Yang, Keke Liu et al.",
       "published": "Dec 2026",
       "feedName": "Trends in Food Sci & Tech",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426005595?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426005777?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -152,12 +152,12 @@
       "screen": "left"
     },
     {
-      "title": "Modeling Japanese consumers' acceptance and rejection of tech-enhanced foods",
+      "title": "Choice and goal framing effects in food evaluation: The roles of positive–negative asymmetry and decision sequence",
       "abstract": "",
-      "authors": "Rin Okumura, Ippeita Dan, Hiroko Shoji et al.",
+      "authors": "Yimeng Jin, Ji Xu, Tianyang Xiao et al.",
       "published": "Feb 2027",
       "feedName": "Food Quality & Preference",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0950329326002661?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0950329326002673?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -212,6 +212,16 @@
       "screen": "left"
     },
     {
+      "title": "Paraprobiotics and postbiotics: from mechanistic evidence to food applications and clinical translation",
+      "abstract": "Interest in non-viable microbial preparations has increased as an alternative to selected technological and safety limitations of live probiotics. Paraprobiotics generally comprise non-viable intact or fragmented microbial cells, whereas the International Scientific Association for Probiotics and Prebiotics (ISAPP) definition of a postbiotic requires a preparation of inanimate microorganisms and/or their components that confers a health benefit on the host. This review critically evaluates mechanisms, clinical evidence, food applications, manufacturing, regulation, and future research priorities. Non-viable microbial preparations can modulate host responses through cell-associated structures, including peptidoglycan, lipoteichoic acids, surface proteins, and exopolysaccharides (EPS), while microbial-derived metabolites such as short-chain fatty acids contribute to barrier and host–microbiota signaling; isolated metabolites, however, should not automatically be classified as postbiotics. Clinical evidence remains preparation- and indication-specific, with stronger evidence for selected preparations such as heat-inactivated Bifidobacterium bifidum MIMBb75 in irritable bowel syndrome (IBS) and more limited or predominantly preclinical evidence for other indications. In food systems, effects on stability, texture, microbial quality, sensory acceptance, and functionality depend on strain, processing, concentration, and matrix. Key barriers include inconsistent terminology, variable inactivation procedures, incomplete characterization, non-standardized dosing, limited long-term c…",
+      "authors": "Diana Pasarin, Iuliu-Gabriel Malos, Andra-Ionela Ghizdareanu et al.",
+      "published": "Sep 2026",
+      "feedName": "Frontiers Food Science",
+      "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.1965558",
+      "image": "",
+      "screen": "left"
+    },
+    {
       "title": "Artificial intelligence in food safety and quality control: applications, challenges, and future perspectives",
       "abstract": "The increasing complexity of global supply chains, rising contamination risks, and evolving consumer expectations have made food safety and quality control critical priorities. The limitations of traditional inspection and analytical methods in terms of speed, accuracy, and real-time monitoring have driven the rapid adoption of artificial intelligence (AI)-based technologies in this field. This review evaluates current AI applications in food safety by integrating contaminant detection, hygiene management, quality control, early warning systems, and supply chain traceability into a unified framework while critically examining their advantages, limitations, industrial applicability, and future research priorities. AI-enabled systems support proactive food safety management by improving contaminant detection, whereas the integration of AI with biosensors and smart packaging systems enhances continuous quality monitoring. However, data heterogeneity, high infrastructure costs, limited model interpretability, regulatory challenges, and data privacy concerns remain key barriers to the widespread adoption of AI applications. Overall, AI technologies have the potential to enhance accuracy, proactive management, traceability, and sustainability in food safety. Realizing this potential at an industrial scale requires strengthened interdisciplinary collaboration, standardized data infrastructures, and the development of practical and scalable AI solutions.",
       "authors": "Aysel İçöz",
@@ -232,16 +242,6 @@
       "screen": "left"
     },
     {
-      "title": "Balancing acidity in low alcohol wines: effects of fermentation conditions, chemical modification, and yeast selection on consumer perception",
-      "abstract": "Acidity in wine can negatively affect wine balance and quality, particularly in low-alcohol wines. Although numerous methods are available for reducing acidity, their effects can be difficult to isolate and compare across products and production methods. This study evaluated three approaches for reducing acidity during and after fermentation of low-alcohol wines ( < 11%), including low-temperature fermentation, the use of a low-acid-producing yeast strain, and alkalinization of finished wine. Cabernet Sauvignon must (density: 21.3 ± 0.5 °Brix; acidity: 3.20 ± 0.1 g/L as tartaric acid; pH: 3.69 ± 0.01) was fermented under each condition. Fermentations were monitored by analyzing density, yeast cells in suspension, and alcohol content. The resulting wines were analyzed for pH, titratable acidity, color intensity, and alcohol content. The resulting low-alcohol wines, including the control, were evaluated by a consumer panel (n = 95). All three deacidification methods significantly reduced acidity, with low-temperature fermentation producing the greatest reduction (20.5% compared with the control), followed by the low-acid yeast (16.4%), while alkalinization produced the smallest reduction (8.9%). A consumer panel (n = 95) revealed no significant differences in several parameters, including liking of aroma. However, significant differences were observed in liking of appearance, perceived alcohol flavor, and perceived sourness. The wine produced with the low-acid yeast had the highest summed ranking value, indicating that this method of acid reduction was the most preferred unde…",
-      "authors": "Patricia C. Patricio-Morillo, Madelyn M. Rippo, Alexandra A. Escalera et al.",
-      "published": "Sep 2026",
-      "feedName": "Frontiers Food Science",
-      "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.1926825",
-      "image": "",
-      "screen": "left"
-    },
-    {
       "title": "A quasi-metagenomics approach for subspecies level differentiation of Listeria monocytogenes in foods based on assembly alignment discrepancies",
       "abstract": "",
       "authors": "Calvin Ho-Fung Lau, Lang Yao, Rachel Madill et al.",
@@ -252,7 +252,7 @@
       "screen": "left"
     },
     {
-      "title": "High persistence of hepatitis a and E viruses during simulated gastrointestinal digestion across diverse food matrices",
+      "title": "High persistence of hepatitis A and E viruses during simulated gastrointestinal digestion across diverse food matrices",
       "abstract": "",
       "authors": "Marianne Levasseur, Albane Le Couteulx, Valérie Goulet-Beaulieu et al.",
       "published": "Mar 2027",
@@ -362,6 +362,16 @@
       "screen": "left"
     },
     {
+      "title": "AI scans 4.6 million compounds in hours to predict hydrogen positions in drug-like molecules",
+      "abstract": "New York University researchers have trained an AI model to learn chemical patterns associated with stability in drug-like molecules and accurately predict where their hydrogen atoms should be positioned.",
+      "authors": "",
+      "published": "Sep 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-09-ai-scans-million-compounds-hours.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/scientists-use-ai-to-f.jpg",
+      "screen": "right"
+    },
+    {
       "title": "X-ray method predicts anion behavior, opening path to longer-lasting batteries and AI-assisted chemistry",
       "abstract": "A new way of measuring how materials interact at the atomic level could help scientists develop better-performing, longer-lasting batteries.",
       "authors": "",
@@ -389,16 +399,6 @@
       "feedName": "Phys.org Analytics",
       "url": "https://phys.org/news/2026-09-liquid-crystal-page-steel-phase.html",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/liquid-crystal-takes-p.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "Iron complex breaks down stubborn pollutant using light-powered reaction",
-      "abstract": "The molecular culprit behind harmful algal blooms and some groundwater contamination is the same thing that has kept civilization fed for millennia: a stable form of nitrogen called nitrate.",
-      "authors": "",
-      "published": "Sep 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-09-iron-complex-stubborn-pollutant-powered.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/algal-bloom-1.jpg",
       "screen": "right"
     },
     {
@@ -482,32 +482,22 @@
       "screen": "right"
     },
     {
-      "title": "A systematic review and meta-analysis of phospholipids in human milk",
-      "abstract": "BackgroundPhospholipids are important bioactive components in human milk. They are rich in unsaturated fatty acids and play crucial roles in cell signal transduction and infant intellectual development.MethodsThis study quantitatively pooled concentrations of total phospholipids and their subclasses in human milk, and narratively summarized phospholipid subclass proportions across different countries. Relevant studies published up to October 2025 were searched from six databases. After systematic search, a total of 25 studies were finally included, among which 18 studies on phospholipid concentrations were subjected to meta-analysis.ResultsResults from the random-effects model showed that the total phospholipid concentration was 251.60 mg/L (175.62, 327.58) in colostrum, 234.71 mg/L (171.07, 298.35) in transitional milk, 197.00 mg/L (166.08, 227.93) in mature milk. Throughout lactation, PC, SM, and PE are the major phospholipid classes in human milk. Subgroup meta-analyses indicated that detection methods were a significant effect for total phospholipids, PE, and PI concentrations within mature milk.ConclusionThis systematic review provides updated estimates of phospholipids and their subclasses concentrations in term human milk, and provides a theoretical basis for the application of phospholipids in infant formula.Systematic review registrationhttps://www.crd.york.ac.uk/prospero/, Identiffer CRD420261445346.",
-      "authors": "Huanzhe Dong, Menglu Li, Yuling Xue et al.",
+      "title": "Multi-omics profiling and cellular validation reveal distinct lipid networks of krill oil and its predicted mechanisms against insulin resistance",
+      "abstract": "Insulin resistance is a major contributor to metabolic disorders. We compared krill oil (KO), fish oil (FO), and soybean lecithin (SL) using untargeted metabolomics (UHPLC-HRMS), untargeted lipidomics (UPLC-QTOF-MS), network pharmacology, molecular docking, and a TNF-alpha-induced 3T3-L1 adipocyte model. Metabolomics detected 3,314 annotated features. In the KO versus FO comparison, 378 features were up-regulated and 593 were down-regulated in positive-ion mode, whereas 365 were up-regulated and 925 were down-regulated in negative-ion mode. Lipidomics detected 4,667 lipid-associated features and revealed distinct product-specific patterns of phospholipids, free fatty acids, glycerolipids, and sphingolipids. Network pharmacology identified 394 intersecting candidate targets, with AKT1, IL6, PPARG, and SRC prioritized as high-centrality nodes. Molecular docking was used to prioritize predicted component-target interactions. In mature 3T3-L1 adipocytes, TNF-alpha reduced insulin-stimulated 2-NBDG uptake. KO, FO, and SL increased glucose uptake relative to the TNF-alpha plus insulin group, with KO showing the largest response among the tested oils. KO also increased the p-AKT/AKT ratio and altered the p-IRS1/IRS1 ratio. These findings support compositional differences among the tested oils and cell-level modulation of insulin signaling by KO. They do not establish in vivo efficacy, direct target engagement, or an effect attributable solely to phospholipid form because EPA/DHA exposure was not dose-matched.",
+      "authors": "Jinxin Lin, Jinfeng Zhou, Shiyu Luo et al.",
       "published": "Sep 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1929517",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1925480",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Nonlinear association between birth weight and overweight/obesity in children aged 3–6 years: a retrospective analysis of 13 cities in China",
-      "abstract": "ObjectiveThe aim of this study was to explore the impact of birth weight on overweight and obesity in children aged 3–6 years across 13 cities in China, as well as the potential interactions.MethodsThis study was designed as a retrospective analysis adhering to the STROBE guidelines. Data were derived from three waves of the Physical Fitness Survey in Jiangsu targeting children aged 3–6 years, which employed a multi-stage, stratified, cluster probability sampling design to obtain a representative sample from thirteen cities. Overweight and obesity were defined according to the Chinese National Health Industry Standard WS/T 423—2022 (issued in 2022) based on BMI standard deviation scores. Eight covariates, including age, sex, survey year, geographic region, urban–rural status, gestational age, childbearing age, and mother’s education, were included. Multivariate logistic regression was used to estimate odds ratios (ORs) and 95% confidence intervals (CIs) for the risks of overweight, obesity and overweight/obesity associated with low birth weight and macrosomia after adjusting for covariates. Subgroup analysis results were visualized using forest plots; restricted cubic spline (RCS) analysis was performed to examine nonlinear and dose–response relationships; and sensitivity analysis included mixed-effects logistic regression models to adjust for clustering effects, changing birth weight classification cut-points, and excluding gestational age (a key potential covariate).ResultsA total of 23,362 participants were included. The prevalence of overweight, obesity, and overweight/…",
-      "authors": "Su Liu, Sen Li, Sanhua Zhang et al.",
+      "title": "Diagnostic agreement of nutritional screening tools in obesity-related knee osteoarthritis",
+      "abstract": "ObjectiveTo evaluate the diagnostic agreement, ability to identify concealed malnutrition, and clinical risk stratification value of different nutritional screening tools in patients with obesity-related knee osteoarthritis (KOA).MethodsSingle-center, retrospective, cross-sectional diagnostic agreement study. Consecutive patients with obesity-related KOA hospitalized between January 2022 and January 2024 were enrolled. Nutritional risk was assessed using NRS-2002, MUST, MNA-SF, GNRI, and CONUT; malnutrition was confirmed by the GLIM criteria.ResultsAmong 520 patients, GLIM-defined malnutrition was present in 146 (28.1%). Detection rates ranged from 17.1% (MUST) to 35.2% (CONUT). Multi-tool agreement was moderate (Fleiss’ κ = 0.42). CONUT showed the highest agreement with GLIM (κ = 0.58), MUST the lowest (κ = 0.29). Overall diagnostic discordance rate was 37.9%. MUST had the highest missed diagnosis rate for GLIM-defined malnutrition (42.5%), CONUT the lowest (13.0%). Concealed malnutrition (defined as GLIM-defined malnutrition with BMI ≥ 28 kg/m2 but without significant recent involuntary weight loss) was identified in 121 patients, accounting for 82.9% of GLIM-defined malnourished patients. Low muscle mass, high CRP, and higher WOMAC score were independently associated with concealed malnutrition. Adding CRP and muscle mass improved the AUC from 0.73 to 0.86 (NRI = 0.31, IDI = 0.09); sensitivity analyses using a modified GLIM reference that excluded these components confirmed that the improvement was not solely driven by criterion overlap.ConclusionIn this cohort, conceale…",
+      "authors": "Zhiyuan Fan, Bohao Yin, Chenjun Liu et al.",
       "published": "Sep 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1883738",
-      "image": "",
-      "screen": "right"
-    },
-    {
-      "title": "Social media as a self-reported source of weight-loss information: a cross-sectional comparison with traditional sources among Arab young adults",
-      "abstract": "BackgroundSocial media has become an important source of nutrition and weight-loss information among young adults, but concerns persist regarding its quality and reliability, and its influence on weight-loss outcomes remains unclear. This study assessed the prevalence of social media as a weight-loss information source, compared its self-reported outcomes with those of traditional sources such as nutritionists, and examined its association with unhealthy weight-loss behaviors.MethodsA cross-sectional online survey was conducted using convenience and snowball sampling among Arab young adults residing in the United Arab Emirates. Of 697 respondents, 305 met the inclusion criteria: all were overweight or obese at baseline and reported an intentional weight-loss attempt within the previous 12 months. Participants were categorized by their primary source of weight-loss information; social media, nutritionist, health provider, specialized website, or other sources. Weight-loss success was defined as a ≥5% reduction in initial body weight; unhealthy weight-loss practices were also assessed.ResultsParticipants had a mean age of 26.6 ± 6.9 years and a mean body mass index of 31.6 ± 6.0 kg/m2; 76.4% were female. Social media was the most reported primary source (39.3%), and 241 participants (79.0%) overall achieved ≥5% weight loss. Weight-loss success was similar between social media users (86.7%) and nutritionist users (82.5%), as was the prevalence of unhealthy weight-loss practices (59.2 and 60.3%, respectively); these descriptive comparisons were not formally tested for statistic…",
-      "authors": "Mo’ath F. Bataineh, Rubina Sabir, Ali M. Al-Nawaiseh et al.",
-      "published": "Sep 2026",
-      "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1912985",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1887413",
       "image": "",
       "screen": "right"
     },
@@ -518,6 +508,16 @@
       "published": "Sep 2026",
       "feedName": "Frontiers Nutrition",
       "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1909697",
+      "image": "",
+      "screen": "right"
+    },
+    {
+      "title": "Enhanced bioavailability and short-term safety of a micellar green tea extract formulation co-delivered with N-acetylcysteine: a randomized crossover study in healthy adults",
+      "abstract": "IntroductionGreen tea catechins, particularly epigallocatechin gallate (EGCG), the principal polyphenol in green tea (Camellia sinensis), possess diverse bioactivity but suffer from poor absorption and rapid metabolism, leading to very limited oral bioavailability. To address these challenges, this study investigated the pharmacokinetics, safety, and tolerability of LipoMicel® GTNAC® (LGT), a novel lipid-based green tea extract formulation co- delivered with N-acetylcysteine (NAC), compared with a standard green tea formulation (SGT) in healthy adults.MethodsThe study comprised two parts: a randomized, double-blind, crossover pharmacokinetic trial in 16 healthy adults comparing LGT 330 mg with SGT 330 mg and SGT 660 mg, followed by a 30-day open-label, single-arm safety study evaluating LGT 1,320 mg/day in 13 participants.ResultsFor EGCG, LGT significantly increased baseline-adjusted systemic exposure compared with dose-matched SGT, producing a 4.2-fold higher iAUC₀–₂₄ (1857 ± 1,479 vs. 443 ± 1,570 ng·h/mL; p = 0.032) and a 3.0-fold higher iCmax (267 ± 235 vs. 88.6 ± 60.0 ng/mL; p = 0.037). No clinically significant adverse events or clinically meaningful changes in blood chemistry were observed during the 30-day safety phase.ConclusionThese findings demonstrate that LGT significantly enhances systemic EGCG exposure while remaining well tolerated for over 30 days in healthy adults. Larger and longer-term studies are warranted to determine whether improved EGCG exposure translates into clinically meaningful health benefits.Clinical trial registrationhttps://clinicaltrials.go…",
+      "authors": "Yiming Zhang, Afoke Ibi, Yun Chai Kuo et al.",
+      "published": "Sep 2026",
+      "feedName": "Frontiers Nutrition",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1940156",
       "image": "",
       "screen": "right"
     },
@@ -649,7 +649,7 @@
       "venue": "Soil Science Annual",
       "feedName": "Lab Research",
       "citationCount": 9,
-      "recentCitations": 2,
+      "recentCitations": 0,
       "quartile": null,
       "s2_paper_id": "8aa653c59706d0f1e9269886f0967e540b52e7f0",
       "url": "https://doi.org/10.37501/soilsa/183903",

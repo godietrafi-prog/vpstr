@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-24T08:57:56Z",
+  "updated": "2026-09-24T14:35:20Z",
   "items": [
     {
       "title": "The nitrogen costs of soil salinity",
@@ -92,32 +92,32 @@
       "screen": "left"
     },
     {
-      "title": "The aromatic footprint of Lactiplantibacillus plantarum : Volatilome intraspecific diversity and variability across food matrices",
+      "title": "Beyond energy storage: food lipids as modulators of metabolism, inflammation, and organ function",
       "abstract": "",
-      "authors": "Antonia Corvino, Giuseppe Spano, Franco Biasioli et al.",
+      "authors": "Cristina Manis, Mattia Casula, Pierluigi Caboni",
       "published": "Dec 2026",
       "feedName": "Trends in Food Sci & Tech",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426005492?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426005674?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
     {
-      "title": "Advances in microalgae proteins allergenicity: From risk perception to safety empowerment",
+      "title": "Polysaccharide stabilized selenium nanoparticles for type 2 diabetes intervention: From structural stabilization to multi-target metabolic regulation",
       "abstract": "",
-      "authors": "Wentao Lian, Siru Yao, Chunping Luo et al.",
+      "authors": "Yaoqun Yang, Mengnan Xu, Lina Yang et al.",
       "published": "Dec 2026",
       "feedName": "Trends in Food Sci & Tech",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426005686?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426005601?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
     {
-      "title": "Pathway-oriented functional films for animal-derived foods: Spoilage mechanisms, targeted packaging strategies, and industrial translation",
+      "title": "Reframing nitrite reduction in cured cooked meat products: From ingredient substitution to color-system engineering",
       "abstract": "",
-      "authors": "Yuanyuan Ma, Yikun Yang, Keke Liu et al.",
+      "authors": "Hongfeng Zhan, Yingming Xiang, Kaibo Deng et al.",
       "published": "Dec 2026",
       "feedName": "Trends in Food Sci & Tech",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426005777?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426005704?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -482,22 +482,32 @@
       "screen": "right"
     },
     {
-      "title": "Multi-objective optimization of ultrasound-assisted extraction for enhanced bioactive recovery from bee bread",
-      "abstract": "This study aimed to optimize ultrasound-assisted extraction conditions for improving the recovery of phenolic compounds and antiradical activity from bee bread (perga). A three-factor Box–Behnken design comprising ultrasound amplitude (30–70%), extraction time (8–22 min), and ethanol concentration (20–80%, v/v) was combined with Gaussian Process surrogate modeling and a single-cycle GP-based multi-objective Bayesian optimization (GP-MOBO) candidate-selection strategy. Predictive uncertainty and Pareto-based analysis were used to identify a balanced extraction condition, which was subsequently validated experimentally and compared with an NUS and conventional extraction treatments. The selected ultrasound-assisted extraction condition (UAEopt; 56.5% amplitude, 19.0 min, and 56.8% ethanol) yielded a total phenolic content of 17.32 mg GAE/g, compared with 11.76 mg GAE/g in the matched NUS (p < 0.01). Antiradical activity also increased from 3.215 mg TEAC/g in NUS to 4.17 mg TEAC/g in UAEopt (p < 0.05). HPLC–DAD analysis showed that UAEopt produced the highest total concentration of the quantified phenolic compounds (44.19 ± 1.23 μg/g), with gallic acid as the predominant compound. LC–MS analysis further demonstrated that UAEopt yielded the highest total free amino acid concentration among the evaluated extraction conditions (23,409.32 ± 766.26 μg/g), with glutamic acid, aspartic acid, and proline as the major components. These findings demonstrate that Gaussian Process-guided multi-objective optimization can support the selection of effective ultrasound-assisted extraction con…",
-      "authors": "Meryem Akhan, Enes Açikgözoğlu, Mehmet Ali Şimşek et al.",
+      "title": "Correction: Clinical evidence for microbial-derived polyphenol metabolites in health and disease: a scoping review",
+      "abstract": "",
+      "authors": "Jennie Brown, Lydia Norby-Adams, Nancy Ghanem et al.",
       "published": "Sep 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1970806",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1993867",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Acute caffeine intervention and cognitive performance in populations aged 20 years and younger: a systematic review and meta-analysis",
-      "abstract": "ObjectivesThis systematic review and meta-analysis aimed to evaluate the acute effects of caffeine supplementation on cognitive performance in healthy populations aged 20 years and younger, and to explore potential moderators including dose, cognitive domain, population type, and outcome measure.MethodsFour databases (Web of Science, PubMed, MEDLINE, and Cochrane Library) were searched from inception to March 2026. Randomized controlled trials and randomized crossover trials assessing the effects of acute oral caffeine versus placebo on cognitive outcomes in individuals aged ≤20 years were included. A two-level meta-analytic model was used to calculate pooled standardized mean differences (SMD). Subgroup analyses and meta-regression were performed to explore potential methodological moderators influencing the overall effect.ResultsFourteen studies comprising 250 participants and 37 effect sizes were included. Caffeine demonstrated a small positive effect on cognitive task performance compared with placebo (SMD = 0.41, 95% CI 0.28–0.55; p < 0.01), with low heterogeneity (I2 = 10%). Meta-regression showed no significant moderating influences of age, acute supplementation dose, habitual daily intake, and acute-to-habitual dose ratio on caffeine-induced cognitive improvements. However, limited statistical power may restrict the interpretability of this result. Subgroup analyses showed that cognitive domain, outcome measure type, participant population, administration route, and sex did not significantly moderate caffeine’s cognitive effects. Notably, however, when comparing out…",
-      "authors": "Jianfeng Niu, Haobai Li, Ziyi Wang et al.",
+      "title": "Next-generation bio-packaging systems for food safety and shelf-life extension: controlled-release antimicrobial strategies and migration control",
+      "abstract": "Next-generation bio-packaging systems employ controlled-release antimicrobial and antioxidant strategies to enhance food preservation while limiting premature depletion of active compounds. Biopolymer matrices and nano-enabled architectures regulate bioactive release through diffusion pathways, encapsulation domains, crystallinity, and matrix organization, thereby influencing preservation efficacy, migration behavior, and food-contact safety. Recent advances demonstrate the effectiveness of engineered antimicrobial systems in controlling microbial proliferation during storage. Hybrid ZnO/graphene oxide/montmorillonite coatings have achieved approximately 60% inhibition of gram-positive and gram-negative microorganisms, highlighting the potential of nano-enabled architectures for sustained antimicrobial protection. Intelligent sensing technologies further support real-time monitoring of freshness and spoilage. Applications across meat, seafood, dairy, fresh produce, bakery, and ready-to-eat foods demonstrate improved shelf life, quality retention, and food safety. Biodegradable materials, renewable feedstocks, and circular-economy compatibility further strengthen the sustainability of these systems. This review examines controlled-release mechanisms, antimicrobial and antioxidant functionalities, intelligent sensing technologies, migration behavior, safety assessment, sustainability considerations, and regulatory perspectives within a unified framework for next-generation bio-packaging systems. Interactions among material structure, bioactive delivery, antimicrobial efficacy…",
+      "authors": "Lutfun Nahar, Yumei Zhang, Jinping Li et al.",
       "published": "Sep 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1888658",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1948313",
+      "image": "",
+      "screen": "right"
+    },
+    {
+      "title": "Prenatal n–3 LC-PUFA intake and the incidence of allergic diseases in offspring: an updated systematic review and meta-analysis",
+      "abstract": "BackgroundAllergic diseases are among the most prevalent conditions affecting children’s health worldwide. Maternal intake of n–3 long-chain polyunsaturated fatty acid (n–3 LC-PUFA) during pregnancy has been suggested as a strategy to reduce allergic disease risk in offspring; however, existing evidence remains inconsistent. This systematic review and meta-analysis aims to evaluate the association between prenatal n–3 LC-PUFA intake and the risk of allergic diseases in offspring.MethodsA comprehensive search of 11 databases was conducted from inception to December 12, 2025. Prospective cohort studies and RCTs investigating prenatal n–3 LC-PUFA intake and allergic diseases in offspring were included. Data synthesis was performed using RevMan 5.4 and Stata 18.0. Heterogeneity, sensitivity, subgroup, and publication bias analyses were conducted. The certainty of evidence was assessed using the GRADE approach.ResultsEight prospective cohort studies and eight RCTs were included. Cohort studies indicated that prenatal n–3 LC-PUFA intake was significantly associated with a lower risk of overall allergic diseases (RR = 0.88, 95% CI: 0.82–0.95, p < 0.001) and asthma (RR = 0.81, 95% CI: 0.68–0.96, p = 0.02). RCTs demonstrated a significant reduction in the risk of egg allergy (RR = 0.47, 95% CI: 0.28–0.80, p = 0.006) and other specific allergic conditions, with a lower risk observed among European populations (RR = 0.76, 95% CI: 0.60–0.96, p = 0.02).ConclusionPrenatal n–3 LC-PUFA intake may be associated with a lower risk of allergic diseases in offspring, particularly asthma and egg…",
+      "authors": "Tingwen Zheng, Shoumeng Yan, Tianci Fan et al.",
+      "published": "Sep 2026",
+      "feedName": "Frontiers Nutrition",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1923649",
       "image": "",
       "screen": "right"
     },
@@ -510,76 +520,6 @@
       "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1926576",
       "image": "",
       "screen": "right"
-    },
-    {
-      "title": "Cholesterol-modified prognostic nutritional index: a novel nutritional biomarker for prevalent diabetic retinopathy in patients with type 2 diabetes mellitus",
-      "abstract": "PurposeTo investigate the association and dose–response relationship between the cholesterol-modified prognostic nutritional index (CPNI) and diabetic retinopathy (DR) in patients with type 2 diabetes mellitus (T2DM), and to evaluate its utility in identifying prevalent DR.MethodsIn this retrospective cross-sectional study, 1,750 patients with T2DM (654 with DR and 1,096 without DR) were enrolled. Multivariable logistic regression, subgroup, trend, and restricted cubic spline analyses were performed to evaluate the association between CPNI and prevalent DR. A nomogram for identifying prevalent DR was developed using variables selected by least absolute shrinkage and selection operator regression and multivariable logistic regression. Model performance was evaluated using discrimination, calibration, bootstrap internal validation, incremental predictive performance, and decision curve analysis.ResultsHigher CPNI levels were independently associated with prevalent DR (OR = 1.024, 95% CI: 1.012–1.037, p < 0.001). A significant positive linear dose–response relationship between CPNI and prevalent DR was observed, with no evidence of nonlinearity in the RCS analyses. Subgroup analyses demonstrated stronger associations among participants with BMI < 25 kg/m2 and those with a history of alcohol consumption. A nomogram incorporating disease duration, using insulin, neutrophil, ALT, HbA1c, and CPNI demonstrated acceptable discrimination (apparent AUC = 0.724; optimism-corrected AUC = 0.715), good calibration, and favorable clinical utility.ConclusionCPNI was independently and positi…",
-      "authors": "Shimeng Huang, Li Wang, Cong Zhang et al.",
-      "published": "Sep 2026",
-      "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1942512",
-      "image": "",
-      "screen": "right"
-    },
-    {
-      "title": "Phosphorus in Balance: Evaluating the Costs and Benefits of a Circular Economy Approach",
-      "abstract": "This paper presents a comprehensive cost-benefit analysis of producing alternative phosphorus (P) fertilizers from recycled water treatment residuals (Fe-WTR) and cowshed effluents. The cost-benefit values of Fe-WTR are compared to the net costs of recycling P using a synthetic adsorbent (commonly used practice-layered double hydroxide, P-LDH) and the costs of commercial fertilizers. Dairy wastewater is used as a source of P. The cost of 1 ton P using the Fe-WTR process is €329. In contrast, synthetic adsorbents (P-LDH) incur significantly higher costs, amounting to €3329 per ton, underscoring the economic advantage of utilizing waste-derived materials. Adopting Fe-WTR fertilizer not only offers substantial cost savings by avoiding landfill fees (€40 per ton) and wastewater discharge fines (€500 per ton) but also reduces environmental impacts when compared to the use of commercial P fertilizers (non-recycled P). The Fe-WTR method mitigates eutrophication and pollution, presenting the dual benefit of cost-effectiveness and environmental protection, which exceeds the common P recycling practice (LDH). Our conclusions are based on production processes in Israel and compared to previous cost estimations at the world level, assessing the potential gain from such circular production of P globally. Recycling P from waste streams can be economically viable and environmentally preferable at small and large economic scales, supporting global sustainability goals.",
-      "authors": "H. E. Ganem, I. Zohar, M. Litaor et al.",
-      "published": "2024",
-      "venue": "Journal of Environmental Science Studies",
-      "feedName": "Lab Research",
-      "citationCount": 0,
-      "recentCitations": 0,
-      "quartile": null,
-      "s2_paper_id": "5a7645fb724f2527117a809194848a4b84de25da",
-      "url": "https://doi.org/10.20849/jess.v7i2.1469",
-      "image": "",
-      "screen": "both",
-      "lab_paper": true,
-      "researcher": {
-        "name": "Iris Zohar",
-        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=YVQd-pwAAAAJ"
-      }
-    },
-    {
-      "title": "The impact of alternative recycled and synthetic phosphorus sources on plant growth and responses, soil interactions and sustainable agriculture - lettuce (Lactuca sativa) as a case model.",
-      "abstract": "This research assesses the efficacy of two phosphorus (P) adsorbents as alternative fertilizers in promoting lettuce growth. A synthetic Mg/Al-layered double hydroxide (LDH) and an iron-based recycled water treatment residual (Fe-WTR), both enriched with P from dairy wastewater and added at three dosage levels. We hypothesized that the adsorbents' physicochemical nature will overshadow the biological efforts in the plant ecosystem to increase P solubility, impacting plant growth, nutritional composition, and metabolite profiles. Fe-WTR significantly enhanced lettuce biomass compared to LDH. Yet, elemental analysis revealed higher or equal P concentrations in the low-biomass LDH plants relative to other treatments. Phosphorus uptake appears to influence the assimilation of other nutrients that divided into two groups: calcium, magnesium, zinc, and copper with notable correlations to P and nitrogen, iron, aluminum, vanadium and manganese with low correlations to P. Conversely, P retained poor correlation with most metabolites whereas iron showed a higher correlation with numerous metabolites. Analysis of metabolites, encompassing carbohydrates, the Krebs cycle, amino acids, nucleic acids, and stress and regulatory pathways, revealed diminished levels in the LDH treatments. Overall, carbon assimilation (plant growth) was more effectively predicted by soil P availability (adsorbent type and dose) rather than by cellular P concentration, suggesting root signaling was at play, influencing carbohydrate translocation to the roots. Diminished levels of cellular sugars further affect…",
-      "authors": "I. Zohar, H. E. Ganem, D. DiSegni et al.",
-      "published": "2024",
-      "venue": "Science of the Total Environment",
-      "feedName": "Lab Research",
-      "citationCount": 8,
-      "recentCitations": 0,
-      "quartile": "Q1",
-      "s2_paper_id": "716a87e9602f04f6b3d7fe6c3b411a15d1beaf4a",
-      "url": "https://doi.org/10.1016/j.scitotenv.2024.174719",
-      "image": "",
-      "screen": "both",
-      "lab_paper": true,
-      "researcher": {
-        "name": "Iris Zohar",
-        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=YVQd-pwAAAAJ"
-      }
-    },
-    {
-      "title": "Biogeochemical impacts on soil phosphorus and other macro- and micro elements solubility, ratios and forms during heatwaves",
-      "abstract": "Increased frequency and amplitude of extreme heat events can affect soil temperature, and biogeochemical processes. High temperatures may have contradicting geochemical and biological effects on essential elements solubility and forms. Endothermic behavior of minerals and oxides results in decreased solubility with increased temperature, while bio-mineralization is stimulated in response to high temperature. To elucidate heatwave impacts on soil biogeochemical processes, we performed a controlled soil incubation experiment and a field survey. Wet and dry alluvial soil sets were incubated at background temperature (33°C) for two weeks and then, a sequence of three heat events was induced (41°C/33°C alternations, five days each) followed by two short events of extreme heat (48°C for two days). Most soil indices changed trends after about 25-30 days. At the first part of the period, P, Al, Fe appeared to reflect endothermic behavior of (hydr)oxides and minerals in the dry soil (i.e., sorbed P was likely dependent on Fe (hydr)oxides dissolution), while trends of Fe/Al in the wet soil followed the dissolved organic C trend. Phosphatases enzymatic activities fluctuated positively with temperature, emphasizing the activity of residual extracellular enzymes sorbed to soil particles (dry soil) in addition to living cells excreted enzymes (wet soil). With the 3 rd heatwave, soluble P dramatically fluctuated with temperature, suggesting a sequence of temperature-enhanced bio-mineralization, releasing P to the soil solution, counteracted by geochemical sorption, removing P from solutio…",
-      "authors": "I. Zohar, M. Khoury, Yael Kirshenbaum et al.",
-      "published": "2023",
-      "venue": "Goldschmidt2023 abstracts",
-      "feedName": "Lab Research",
-      "citationCount": 0,
-      "recentCitations": 0,
-      "quartile": null,
-      "s2_paper_id": "e71980935a3dcce1c2b9257fe6bd261b6cf61461",
-      "url": "https://doi.org/10.7185/gold2023.18565",
-      "image": "",
-      "screen": "both",
-      "lab_paper": true,
-      "researcher": {
-        "name": "Iris Zohar",
-        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=YVQd-pwAAAAJ"
-      }
     },
     {
       "title": "Continuing Medical (Anatomy) Education Series: Organ Donation and Transplantation, a Means of Continuity of Functional and Independent Life and Living",

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-24T02:27:33Z",
+  "updated": "2026-09-24T08:57:56Z",
   "items": [
     {
       "title": "The nitrogen costs of soil salinity",
@@ -442,6 +442,16 @@
       "screen": "right"
     },
     {
+      "title": "GLP-1 weight loss and diabetes drugs linked to nutritional deficiencies in nearly 1 in 6 children",
+      "abstract": "Children taking GLP-1 medications (such as Victoza, Saxenda, Trulicity, and Ozempic) for weight loss, prediabetes, or type 2 diabetes may face an overlooked risk: nutritional deficiencies. A new study found that nearly 1 in 6 young patients developed a diagnosed deficiency within a year of starting treatment, with vitamin D deficiency affecting about 12%.",
+      "authors": "",
+      "published": "Sep 2026",
+      "feedName": "ScienceDaily Nutrition",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260923035926.htm",
+      "image": "https://www.sciencedaily.com/images/1920/sad-overweight-boy-with-weight-scale.webp",
+      "screen": "right"
+    },
+    {
       "title": "8 common food additives linked to high blood pressure and heart disease",
       "abstract": "Common preservatives hiding in processed foods may carry unexpected heart risks, with heavy consumption linked to substantially higher rates of high blood pressure and cardiovascular disease. Researchers identified eight widely used preservatives associated with hypertension, although the observational study cannot prove they were directly responsible.",
       "authors": "",
@@ -472,52 +482,42 @@
       "screen": "right"
     },
     {
-      "title": "Scientists restore a brain protein and reverse signs of aging in mice",
-      "abstract": "Scientists found that declining levels of the brain protein Menin may help drive aging, with lower levels in mice linked to inflammation, cognitive decline, weaker bones, and thinner skin. Restoring Menin reversed several age-related changes, while the amino acid D-serine improved cognition, hinting at a potentially intriguing new target for healthy aging.",
-      "authors": "",
-      "published": "Sep 2026",
-      "feedName": "ScienceDaily Nutrition",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260918000437.htm",
-      "image": "https://www.sciencedaily.com/images/1920/aging-brain-clock.webp",
-      "screen": "right"
-    },
-    {
-      "title": "Social media as a self-reported source of weight-loss information: a cross-sectional comparison with traditional sources among Arab young adults",
-      "abstract": "BackgroundSocial media has become an important source of nutrition and weight-loss information among young adults, but concerns persist regarding its quality and reliability, and its influence on weight-loss outcomes remains unclear. This study assessed the prevalence of social media as a weight-loss information source, compared its self-reported outcomes with those of traditional sources such as nutritionists, and examined its association with unhealthy weight-loss behaviors.MethodsA cross-sectional online survey was conducted using convenience and snowball sampling among Arab young adults residing in the United Arab Emirates. Of 697 respondents, 305 met the inclusion criteria: all were overweight or obese at baseline and reported an intentional weight-loss attempt within the previous 12 months. Participants were categorized by their primary source of weight-loss information; social media, nutritionist, health provider, specialized website, or other sources. Weight-loss success was defined as a ≥5% reduction in initial body weight; unhealthy weight-loss practices were also assessed.ResultsParticipants had a mean age of 26.6 ± 6.9 years and a mean body mass index of 31.6 ± 6.0 kg/m2; 76.4% were female. Social media was the most reported primary source (39.3%), and 241 participants (79.0%) overall achieved ≥5% weight loss. Weight-loss success was similar between social media users (86.7%) and nutritionist users (82.5%), as was the prevalence of unhealthy weight-loss practices (59.2 and 60.3%, respectively); these descriptive comparisons were not formally tested for statistic…",
-      "authors": "Mo’ath F. Bataineh, Rubina Sabir, Ali M. Al-Nawaiseh et al.",
+      "title": "Multi-objective optimization of ultrasound-assisted extraction for enhanced bioactive recovery from bee bread",
+      "abstract": "This study aimed to optimize ultrasound-assisted extraction conditions for improving the recovery of phenolic compounds and antiradical activity from bee bread (perga). A three-factor Box–Behnken design comprising ultrasound amplitude (30–70%), extraction time (8–22 min), and ethanol concentration (20–80%, v/v) was combined with Gaussian Process surrogate modeling and a single-cycle GP-based multi-objective Bayesian optimization (GP-MOBO) candidate-selection strategy. Predictive uncertainty and Pareto-based analysis were used to identify a balanced extraction condition, which was subsequently validated experimentally and compared with an NUS and conventional extraction treatments. The selected ultrasound-assisted extraction condition (UAEopt; 56.5% amplitude, 19.0 min, and 56.8% ethanol) yielded a total phenolic content of 17.32 mg GAE/g, compared with 11.76 mg GAE/g in the matched NUS (p < 0.01). Antiradical activity also increased from 3.215 mg TEAC/g in NUS to 4.17 mg TEAC/g in UAEopt (p < 0.05). HPLC–DAD analysis showed that UAEopt produced the highest total concentration of the quantified phenolic compounds (44.19 ± 1.23 μg/g), with gallic acid as the predominant compound. LC–MS analysis further demonstrated that UAEopt yielded the highest total free amino acid concentration among the evaluated extraction conditions (23,409.32 ± 766.26 μg/g), with glutamic acid, aspartic acid, and proline as the major components. These findings demonstrate that Gaussian Process-guided multi-objective optimization can support the selection of effective ultrasound-assisted extraction con…",
+      "authors": "Meryem Akhan, Enes Açikgözoğlu, Mehmet Ali Şimşek et al.",
       "published": "Sep 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1912985",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1970806",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Correction: Acute gastrointestinal injury severity assessment informs nutritional support and prognostic evaluation in critically ill children: a narrative review",
-      "abstract": "",
-      "authors": "Cizheng Zeng, Tufeng Li, Jiayuan Wu et al.",
+      "title": "Acute caffeine intervention and cognitive performance in populations aged 20 years and younger: a systematic review and meta-analysis",
+      "abstract": "ObjectivesThis systematic review and meta-analysis aimed to evaluate the acute effects of caffeine supplementation on cognitive performance in healthy populations aged 20 years and younger, and to explore potential moderators including dose, cognitive domain, population type, and outcome measure.MethodsFour databases (Web of Science, PubMed, MEDLINE, and Cochrane Library) were searched from inception to March 2026. Randomized controlled trials and randomized crossover trials assessing the effects of acute oral caffeine versus placebo on cognitive outcomes in individuals aged ≤20 years were included. A two-level meta-analytic model was used to calculate pooled standardized mean differences (SMD). Subgroup analyses and meta-regression were performed to explore potential methodological moderators influencing the overall effect.ResultsFourteen studies comprising 250 participants and 37 effect sizes were included. Caffeine demonstrated a small positive effect on cognitive task performance compared with placebo (SMD = 0.41, 95% CI 0.28–0.55; p < 0.01), with low heterogeneity (I2 = 10%). Meta-regression showed no significant moderating influences of age, acute supplementation dose, habitual daily intake, and acute-to-habitual dose ratio on caffeine-induced cognitive improvements. However, limited statistical power may restrict the interpretability of this result. Subgroup analyses showed that cognitive domain, outcome measure type, participant population, administration route, and sex did not significantly moderate caffeine’s cognitive effects. Notably, however, when comparing out…",
+      "authors": "Jianfeng Niu, Haobai Li, Ziyi Wang et al.",
       "published": "Sep 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1989398",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1888658",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Nutritional status, body composition and bone health in treatment-naïve transgender and gender-diverse adolescents",
-      "abstract": "BackgroundGonadotropin-releasing hormone analogue (GnRHa)-induced gonadal suppression is an established component of gender-affirming care for transgender and gender-diverse (TGD) adolescents. Impaired bone health has been documented in treatment-naïve TGD adolescents prior to GnRHa intervention, yet its nutritional determinants remain poorly characterized.ObjectiveTo characterize nutritional status, body composition, and bone mineral density (BMD) in treatment-naïve TGD adolescents prior to GnRHa initiation, and to identify predictors of lumbar spine BMD z-scores.MethodsThis retrospective cross-sectional study included 147 treatment-naïve TGD adolescents (59 AMAB[TGD-Female] and 88 AFAB[TGD-Male]) attending a national pediatric gender clinic. Assessments included anthropometrics, body composition, 24-h dietary calcium intake (compared to the age-specific dietary reference intake [DRI]), micronutrient status, physical activity, sleep duration, and lumbar spine BMD z-scores by dual-energy X-ray absorptiometry. Multiple linear regression identified predictors of BMD z-score, with sex assigned at birth included as a covariate. Descriptive analyses were conducted by sex assigned at birth.ResultsThe median age was 15.5 years (IQR, 14.1–16.7), and 83.7% were fully pubertal. The median daily calcium intake was 400 mg/d (31% of the DRI), with 99.3% consuming below the DRI. Vitamin D deficiency/insufficiency was present in 91.5% of participants. Of the 102 participants with complete micronutrient data, 63.7% had ≥ 2 nutritional deficiencies. Body composition assessment revealed a be…",
-      "authors": "Yael Issan, Ophir Borger, Liat Perl et al.",
+      "title": "Protein density, carbohydrate quality, and frailty-state transitions among adults aged 50 years or older: a continuous-time multistate analysis of the health and retirement study",
+      "abstract": "BackgroundFrailty is a dynamic condition in which individuals may deteriorate, recover, remain stable, or die. Although healthier dietary patterns have been associated with a lower risk of frailty, less is known about their associations with specific frailty-state transitions. We examined whether a study-specific score emphasizing protein density and carbohydrate quality was associated with transitions between frailty states.MethodsWe linked the 2013 Health and Retirement Study nutrition assessment to repeated frailty assessments from 2014 to 2021 among participants aged 50 years or older. The study-specific score combined higher densities of protein, fiber, and whole-grain densities with lower densities of added-sugar and glycemic-load densities. Frailty was assessed using a published 28-item deficit-accumulation index. The primary continuous-time multistate model allowed baseline transition intensities to change at 2 and 4 years and adjusted for age, sex, education, body mass index (BMI), ethnicity, Hispanic ethnicity, smoking, alcohol consumption, and moderate and light physical activity. Dietary components were also examined individually and jointly.ResultsThe primary analysis included 6,982 participants aged 50–102 years (mean, 69.0 years; 60.3% aged 65 years or older), with 25,108 person-state records and 1,487 deaths. Including the score improved model fit (likelihood-ratio [LR], 24.08; degrees of freedom [df], 7; p = 0.001). Each 1-standard deviation (SD) higher score was associated with lower robust-to-pre-frail intensity (hazard ratio [HR], 0.933; nominal 95% conf…",
+      "authors": "Jiao Wang",
       "published": "Sep 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1937542",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1926576",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Early initiation of breastfeeding and perinatal conditions among mothers in southern Ecuador: a descriptive cross-sectional study",
-      "abstract": "BackgroundEarly initiation of breastfeeding within the first hour of life is a key indicator of newborn care quality and is recommended because of its relevance for neonatal health, survival, and the successful establishment of breastfeeding. However, its implementation varies across healthcare settings, and local evidence remains important for understanding the perinatal circumstances in which breastfeeding initiation occurs.ObjectiveTo describe breastfeeding practices during the first hour of life and selected perinatal conditions reported by adult mothers (≥18 years) recruited from four public primary healthcare centers in southern Ecuador.MethodsA descriptive cross-sectional study was conducted between February and October 2025. Adult mothers (≥18 years) who had given birth within the previous two years were recruited while attending pediatric or gynecological consultations. Data were collected using a structured self-administered questionnaire assessing sociodemographic characteristics, obstetric history, perinatal conditions, and breastfeeding practices during the first hour after birth. Descriptive statistics, including frequencies, percentages, and 95% confidence intervals, were calculated.ResultsA total of 343 mothers participated. Early initiation of breastfeeding was reported by 56.0% of participants, whereas 44.0% reported initiation after the first hour of life. Immediate skin-to-skin contact was reported by 77.8% of mothers, and 33.5% experienced difficulties initiating breastfeeding. Cesarean delivery accounted for 48.1% of births, maternal complications were…",
-      "authors": "Ana Lizette Rojas-Rodriguez, Danilo Fabricio Agila Sánchez, Víctor Merchán Cuenca et al.",
+      "title": "Cholesterol-modified prognostic nutritional index: a novel nutritional biomarker for prevalent diabetic retinopathy in patients with type 2 diabetes mellitus",
+      "abstract": "PurposeTo investigate the association and dose–response relationship between the cholesterol-modified prognostic nutritional index (CPNI) and diabetic retinopathy (DR) in patients with type 2 diabetes mellitus (T2DM), and to evaluate its utility in identifying prevalent DR.MethodsIn this retrospective cross-sectional study, 1,750 patients with T2DM (654 with DR and 1,096 without DR) were enrolled. Multivariable logistic regression, subgroup, trend, and restricted cubic spline analyses were performed to evaluate the association between CPNI and prevalent DR. A nomogram for identifying prevalent DR was developed using variables selected by least absolute shrinkage and selection operator regression and multivariable logistic regression. Model performance was evaluated using discrimination, calibration, bootstrap internal validation, incremental predictive performance, and decision curve analysis.ResultsHigher CPNI levels were independently associated with prevalent DR (OR = 1.024, 95% CI: 1.012–1.037, p < 0.001). A significant positive linear dose–response relationship between CPNI and prevalent DR was observed, with no evidence of nonlinearity in the RCS analyses. Subgroup analyses demonstrated stronger associations among participants with BMI < 25 kg/m2 and those with a history of alcohol consumption. A nomogram incorporating disease duration, using insulin, neutrophil, ALT, HbA1c, and CPNI demonstrated acceptable discrimination (apparent AUC = 0.724; optimism-corrected AUC = 0.715), good calibration, and favorable clinical utility.ConclusionCPNI was independently and positi…",
+      "authors": "Shimeng Huang, Li Wang, Cong Zhang et al.",
       "published": "Sep 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1876285",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1942512",
       "image": "",
       "screen": "right"
     },
@@ -1149,7 +1149,7 @@
       "venue": "Atmospheric Chemistry and Physics",
       "feedName": "Lab Research",
       "citationCount": 11,
-      "recentCitations": 0,
+      "recentCitations": 1,
       "quartile": "Q1",
       "s2_paper_id": "d2f58630c5b33511a9ff3fe822b2154de726bbcb",
       "url": "https://doi.org/10.5194/acp-23-4881-2023",

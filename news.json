@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T19:47:00Z",
+  "updated": "2026-09-25T23:02:46Z",
   "items": [
     {
       "title": "Food packaging claims need to be earned",
@@ -202,22 +202,22 @@
       "screen": "left"
     },
     {
-      "title": "Paraprobiotics and postbiotics: from mechanistic evidence to food applications and clinical translation",
-      "abstract": "Interest in non-viable microbial preparations has increased as an alternative to selected technological and safety limitations of live probiotics. Paraprobiotics generally comprise non-viable intact or fragmented microbial cells, whereas the International Scientific Association for Probiotics and Prebiotics (ISAPP) definition of a postbiotic requires a preparation of inanimate microorganisms and/or their components that confers a health benefit on the host. This review critically evaluates mechanisms, clinical evidence, food applications, manufacturing, regulation, and future research priorities. Non-viable microbial preparations can modulate host responses through cell-associated structures, including peptidoglycan, lipoteichoic acids, surface proteins, and exopolysaccharides (EPS), while microbial-derived metabolites such as short-chain fatty acids contribute to barrier and host–microbiota signaling; isolated metabolites, however, should not automatically be classified as postbiotics. Clinical evidence remains preparation- and indication-specific, with stronger evidence for selected preparations such as heat-inactivated Bifidobacterium bifidum MIMBb75 in irritable bowel syndrome (IBS) and more limited or predominantly preclinical evidence for other indications. In food systems, effects on stability, texture, microbial quality, sensory acceptance, and functionality depend on strain, processing, concentration, and matrix. Key barriers include inconsistent terminology, variable inactivation procedures, incomplete characterization, non-standardized dosing, limited long-term c…",
-      "authors": "Diana Pasarin, Iuliu-Gabriel Malos, Andra-Ionela Ghizdareanu et al.",
-      "published": "Sep 2026",
-      "feedName": "Frontiers Food Science",
-      "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.1965558",
-      "image": "",
-      "screen": "left"
-    },
-    {
       "title": "Smart preservation with cold plasma technology: enhancing safety and storage of meat-based hummus next-generation preservation of meat-based hummus using cold plasma",
       "abstract": "The present study was conducted to evaluate the potential of cold plasma technology as a novel preservation approach for extending the shelf-life of meat-based hummus and to compare its effectiveness with conventional antimicrobial interventions under refrigerated storage conditions. Several preliminary trials were conducted to optimize the formulation and processing conditions for development of meat-based hummus. A well-accepted formulation was prepared by replacing 50% chickpea paste with minced lamb meat, followed by cooking for 20 min. The shelf-life extension of meat-based hummus was attempted using different antimicrobial treatments, including T1-meat-based hummus incorporated with 0.4% sodium acid sulfate; T2-meat-based hummus incorporated with 0.1% sodium benzoate +0.1% potassium sorbate; and T3-meat-based hummus treated with cold plasma (0.7 cm product thickness for 3 min), compared with untreated control (C). The treated samples were stored under refrigerated conditions (4 °C ± 1 °C) and evaluated for physicochemical quality parameters (pH, TBARS, and instrumental color profile including L*, a*, and b* values) along with microbiological quality assessment. Total plate count (TPC) and Listeria monocytogenes count were evaluated during storage to determine the antimicrobial efficacy of different preservation treatments. The pH values of T1 were significantly (P < 0.05) lower than control and other treatments throughout storage, indicating effective acidification by sodium acid sulfate. TBARS values increased significantly (P < 0.05) in all samples during storage; h…",
       "authors": "Meena Goswami, Rishav Kumar, Xin Mei Teng et al.",
       "published": "Sep 2026",
       "feedName": "Frontiers Food Science",
       "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.1950610",
+      "image": "",
+      "screen": "left"
+    },
+    {
+      "title": "Paraprobiotics and postbiotics: from mechanistic evidence to food applications and clinical translation",
+      "abstract": "Interest in non-viable microbial preparations has increased as an alternative to selected technological and safety limitations of live probiotics. Paraprobiotics generally comprise non-viable intact or fragmented microbial cells, whereas the International Scientific Association for Probiotics and Prebiotics (ISAPP) definition of a postbiotic requires a preparation of inanimate microorganisms and/or their components that confers a health benefit on the host. This review critically evaluates mechanisms, clinical evidence, food applications, manufacturing, regulation, and future research priorities. Non-viable microbial preparations can modulate host responses through cell-associated structures, including peptidoglycan, lipoteichoic acids, surface proteins, and exopolysaccharides (EPS), while microbial-derived metabolites such as short-chain fatty acids contribute to barrier and host–microbiota signaling; isolated metabolites, however, should not automatically be classified as postbiotics. Clinical evidence remains preparation- and indication-specific, with stronger evidence for selected preparations such as heat-inactivated Bifidobacterium bifidum MIMBb75 in irritable bowel syndrome (IBS) and more limited or predominantly preclinical evidence for other indications. In food systems, effects on stability, texture, microbial quality, sensory acceptance, and functionality depend on strain, processing, concentration, and matrix. Key barriers include inconsistent terminology, variable inactivation procedures, incomplete characterization, non-standardized dosing, limited long-term c…",
+      "authors": "Diana Pasarin, Iuliu-Gabriel Malos, Andra-Ionela Ghizdareanu et al.",
+      "published": "Sep 2026",
+      "feedName": "Frontiers Food Science",
+      "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.1965558",
       "image": "",
       "screen": "left"
     },
@@ -362,6 +362,26 @@
       "screen": "left"
     },
     {
+      "title": "Blood pressure enzyme reveals second job: Making sulfur rings for cellular antioxidants",
+      "abstract": "Antioxidants such as vitamins C and E protect cells by neutralizing free radicals, such as reactive oxygen species, before they can damage genetic material or cell membranes. Such damage can contribute to the development of neurodegenerative diseases. Antioxidants therefore help prevent cellular damage.",
+      "authors": "",
+      "published": "Sep 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-09-blood-pressure-enzyme-reveals-job.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/fighting-cell-death-wi.jpg",
+      "screen": "right"
+    },
+    {
+      "title": "How a century-old solvent can enable efficient amide synthesis",
+      "abstract": "Amide bonds are chemical linkages essential to biology, medicine and materials chemistry. Peptide bonds, a class of amide bonds, link amino acids to form proteins. Amide bonds are also important in medicines and polymers. Efficient synthesis of amide bonds remains a major focus in green chemistry.",
+      "authors": "",
+      "published": "Sep 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-09-century-solvent-enable-efficient-amide.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/chonnam-university-res.jpg",
+      "screen": "right"
+    },
+    {
       "title": "Molecular switch-up: Bacteria remodel a peptide to take on new role",
       "abstract": "Remodeling may bring to mind construction crews and scaffolding, but the process is far from unique to buildings. Even molecules can be remodeled. Pandorachelins, newly discovered molecules produced by Pandoraea bacteria, are one example.",
       "authors": "",
@@ -379,26 +399,6 @@
       "feedName": "Phys.org Analytics",
       "url": "https://phys.org/news/2026-09-flexible-boron-million-electrically.html",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/scientists-unlock-a-ne.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "Changing counterions gives molecular materials new electronic behaviors",
-      "abstract": "Orthogonally arranged π-electronic systems that combine electron-donating and electron-accepting units display distinctive electronic and photophysical behavior. Fine-tuning their electronic structure offers a way to control photoinduced electron transfer. Building on this idea, complexing boron with 1,3-diketones and 9-oxidophenalenone may produce electron-deficient cationic π-electronic systems.",
-      "authors": "",
-      "published": "Sep 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-09-counterions-molecular-materials-electronic-behaviors.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/changing-counterions-g-1.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "Self-driving lab automates semiconductor ink synthesis and thin-film characterization",
-      "abstract": "Developing new functional materials often requires testing numerous material combinations. Conventional experiments reach their limits quickly when many variants must be compared. To overcome this bottleneck, the new Energy Materials Acceleration Platform (E-MAP) at KIT automates key lab steps.",
-      "authors": "",
-      "published": "Sep 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-09-lab-automates-semiconductor-ink-synthesis.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/self-driving-lab-speed.jpg",
       "screen": "right"
     },
     {
@@ -789,7 +789,7 @@
       "venue": "Foods",
       "feedName": "Lab Research",
       "citationCount": 41,
-      "recentCitations": 1,
+      "recentCitations": 0,
       "quartile": "Q2",
       "s2_paper_id": "58107c8058774580a57d044f21566325035de229",
       "url": "https://doi.org/10.3390/foods11233858",

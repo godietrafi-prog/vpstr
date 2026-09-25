@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T02:42:24Z",
+  "updated": "2026-09-25T09:21:31Z",
   "items": [
     {
       "title": "Food packaging claims need to be earned",
@@ -282,6 +282,26 @@
       "screen": "left"
     },
     {
+      "title": "Sequential fermentation with indigenous Hanseniaspora uvarum followed by Saccharomyces cerevisiae enhances aroma complexity and quality of Cabernet Sauvignon wine",
+      "abstract": "",
+      "authors": "Lanlan Hu, Zhen Wang, Xiaohong Wang et al.",
+      "published": "Sep 2026",
+      "feedName": "npj Science of Food",
+      "url": "https://www.nature.com/articles/s41538-026-01165-z",
+      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01165-z/MediaObjects/41538_2026_1165_Fig1_HTML.png",
+      "screen": "left"
+    },
+    {
+      "title": "Integrated multi-omics and serological profiling identifies five immunodominant allergens from the high-abundance protein repertoire of Haliotis discus hannai",
+      "abstract": "",
+      "authors": "Shuai Zhi, Xin-yu Han, Tian-bin Chen et al.",
+      "published": "Sep 2026",
+      "feedName": "npj Science of Food",
+      "url": "https://www.nature.com/articles/s41538-026-01181-z",
+      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01181-z/MediaObjects/41538_2026_1181_Fig1_HTML.png",
+      "screen": "left"
+    },
+    {
       "title": "Preparation and antioxidant activity of hydrolysates from Litsea cubeba oil processing residuals: fluorescence chromatography and molecular dynamics simulation",
       "abstract": "",
       "authors": "Li Li, Wei-qi Wang, Bin Wang et al.",
@@ -299,26 +319,6 @@
       "feedName": "npj Science of Food",
       "url": "https://www.nature.com/articles/s41538-026-01176-w",
       "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01176-w/MediaObjects/41538_2026_1176_Fig1_HTML.png",
-      "screen": "left"
-    },
-    {
-      "title": "Grape seed-derived procyanidin alleviates gliadin p31–43-induced intestinal epithelial stress associated with ATF4 and autophagy–iron homeostasis",
-      "abstract": "",
-      "authors": "Xing Zhang, LinLin Chen, Ke Yue et al.",
-      "published": "Sep 2026",
-      "feedName": "npj Science of Food",
-      "url": "https://www.nature.com/articles/s41538-026-01147-1",
-      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01147-1/MediaObjects/41538_2026_1147_Fig1_HTML.png",
-      "screen": "left"
-    },
-    {
-      "title": "Evidence, implications and mitigation of plastic-derived contaminants in infant food: a systematic review",
-      "abstract": "",
-      "authors": "Cairo Price, Dorota Bartczak, Aneta Sikora et al.",
-      "published": "Sep 2026",
-      "feedName": "npj Science of Food",
-      "url": "https://www.nature.com/articles/s41538-026-01153-3",
-      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01153-3/MediaObjects/41538_2026_1153_Fig1_HTML.png",
       "screen": "left"
     },
     {
@@ -482,104 +482,44 @@
       "screen": "right"
     },
     {
-      "title": "Correction: Clinical evidence for microbial-derived polyphenol metabolites in health and disease: a scoping review",
-      "abstract": "",
-      "authors": "Jennie Brown, Lydia Norby-Adams, Nancy Ghanem et al.",
+      "title": "Elevated blood urea nitrogen-to-albumin ratio is associated with incident sepsis-associated delirium: evidence from a weighted competing-risk analysis in a multicenter cohort study",
+      "abstract": "BackgroundSepsis-associated delirium (SAD) is a frequent manifestation of acute brain dysfunction in sepsis. Although the blood urea nitrogen-to-albumin ratio (BAR) has been associated with prognosis in critically ill patients, its relationship with incident SAD remains uncertain. We evaluated the association between early BAR and incident SAD.MethodsThis multicenter retrospective cohort study included patients with sepsis from MIMIC-IV as the primary cohort and eICU-CRD as an independent replication cohort. BAR was calculated from eligible blood urea nitrogen and serum albumin measurements obtained within 24 h after the index time. The primary outcome was 7-day incident delirium; 3-day delirium was additionally evaluated in MIMIC-IV. Death before delirium was treated as a competing event. Covariates were selected using Boruta and LASSO regression. CBPS-based inverse probability weighting and Fine–Gray competing-risk regression were applied, with restricted cubic spline, subgroup, and exploratory XGBoost/SHAP analyses.ResultsA total of 10,565 patients were included (9,612 MIMIC-IV; 953 eICU-CRD). In MIMIC-IV, the highest BAR quartile was associated with a greater subdistribution hazard of 7-day delirium vs. the lowest quartile (fully adjusted sHR 1.36, 95% CI 1.13–1.64; P = 0.001; P for trend = 0.002). Continuous BAR was also associated with 7-day delirium (sHR per 1-unit increase 1.00, 95% CI 1.00–1.01; P = 0.013), with similar findings for 3-day delirium. In eICU-CRD, the highest BAR quartile was likewise associated with 7-day delirium (sHR 2.20, 95% CI 1.13–4.29; P = 0.0…",
+      "authors": "Yun Xia, Jun Jin, Jiang-Tao Deng",
       "published": "Sep 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1993867",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1919287",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Next-generation bio-packaging systems for food safety and shelf-life extension: controlled-release antimicrobial strategies and migration control",
-      "abstract": "Next-generation bio-packaging systems employ controlled-release antimicrobial and antioxidant strategies to enhance food preservation while limiting premature depletion of active compounds. Biopolymer matrices and nano-enabled architectures regulate bioactive release through diffusion pathways, encapsulation domains, crystallinity, and matrix organization, thereby influencing preservation efficacy, migration behavior, and food-contact safety. Recent advances demonstrate the effectiveness of engineered antimicrobial systems in controlling microbial proliferation during storage. Hybrid ZnO/graphene oxide/montmorillonite coatings have achieved approximately 60% inhibition of gram-positive and gram-negative microorganisms, highlighting the potential of nano-enabled architectures for sustained antimicrobial protection. Intelligent sensing technologies further support real-time monitoring of freshness and spoilage. Applications across meat, seafood, dairy, fresh produce, bakery, and ready-to-eat foods demonstrate improved shelf life, quality retention, and food safety. Biodegradable materials, renewable feedstocks, and circular-economy compatibility further strengthen the sustainability of these systems. This review examines controlled-release mechanisms, antimicrobial and antioxidant functionalities, intelligent sensing technologies, migration behavior, safety assessment, sustainability considerations, and regulatory perspectives within a unified framework for next-generation bio-packaging systems. Interactions among material structure, bioactive delivery, antimicrobial efficacy…",
-      "authors": "Lutfun Nahar, Yumei Zhang, Jinping Li et al.",
+      "title": "Effects of higher versus lower protein intake in critically ill patients: a systematic review and meta-analysis",
+      "abstract": "BackgroundThe optimal protein dose for critically ill patients remains uncertain, and emerging evidence suggests that the effects of higher protein intake may differ across clinically relevant subgroups.MethodsPubMed, Embase, Web of Science, Scopus, and the Cochrane Library were searched for randomized controlled trials (RCTs) evaluating protein delivery in critical illness adults (up to July 2026). Higher and lower protein groups were defined according to each trial’s original allocation. Primary outcome was all-cause mortality. Secondary outcomes included mechanical ventilation (MV) duration, Intensive care unit (ICU) length of stay (LOS), muscle outcomes, health-related quality of life (HRQoL), biochemical outcomes, and adverse events. Results were reported as risk ratios (RRs) or mean difference (MD) and 95% confidence intervals (CIs). Trial Sequential Analysis (TSA) was performed to control for random error, and the certainty of evidence was rated using the GRADE framework.ResultsThirty three RCTs involving 11,622 participants were included. No significant differences were observed between higher and lower protein groups for all-cause mortality (RR 1.02, 95% CI 0.97 to 1.08), MV duration (MD −0.48, 95% CI −1.08 to 0.13), or ICU LOS (MD −0.18, 95% CI −0.86 to 0.51), with TSA confirming these null findings. Some muscle metrics favored the higher protein group; however, there was a trend towards poorer HRQoL (SMD −0.12, 95% CI −0.24 to 0.00). The higher protein group showed improved nitrogen balance (MD 5.58, 95% CI 2.89 to 8.27) and higher serum albumin levels (SMD 0.18,…",
+      "authors": "Shige Li, Yusheng Hou, Xinyu Li et al.",
       "published": "Sep 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1948313",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1900749",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Prenatal n–3 LC-PUFA intake and the incidence of allergic diseases in offspring: an updated systematic review and meta-analysis",
-      "abstract": "BackgroundAllergic diseases are among the most prevalent conditions affecting children’s health worldwide. Maternal intake of n–3 long-chain polyunsaturated fatty acid (n–3 LC-PUFA) during pregnancy has been suggested as a strategy to reduce allergic disease risk in offspring; however, existing evidence remains inconsistent. This systematic review and meta-analysis aims to evaluate the association between prenatal n–3 LC-PUFA intake and the risk of allergic diseases in offspring.MethodsA comprehensive search of 11 databases was conducted from inception to December 12, 2025. Prospective cohort studies and RCTs investigating prenatal n–3 LC-PUFA intake and allergic diseases in offspring were included. Data synthesis was performed using RevMan 5.4 and Stata 18.0. Heterogeneity, sensitivity, subgroup, and publication bias analyses were conducted. The certainty of evidence was assessed using the GRADE approach.ResultsEight prospective cohort studies and eight RCTs were included. Cohort studies indicated that prenatal n–3 LC-PUFA intake was significantly associated with a lower risk of overall allergic diseases (RR = 0.88, 95% CI: 0.82–0.95, p < 0.001) and asthma (RR = 0.81, 95% CI: 0.68–0.96, p = 0.02). RCTs demonstrated a significant reduction in the risk of egg allergy (RR = 0.47, 95% CI: 0.28–0.80, p = 0.006) and other specific allergic conditions, with a lower risk observed among European populations (RR = 0.76, 95% CI: 0.60–0.96, p = 0.02).ConclusionPrenatal n–3 LC-PUFA intake may be associated with a lower risk of allergic diseases in offspring, particularly asthma and egg…",
-      "authors": "Tingwen Zheng, Shoumeng Yan, Tianci Fan et al.",
+      "title": "Discovery of sunflower-derived umami peptides via machine learning and molecular dynamics simulation of their interactions with the T1R1/T1R3 receptor",
+      "abstract": "IntroductionUmami recognition relies on T1R1/T1R3 binding with umami peptides, but the interaction mechanisms remain unclear. This study aims to reveal the taste mechanisms of four potential umami peptides at both sensory and molecular levels.MethodsElectronic tongue evaluations were performed to assess umami and richness intensities. Principal component analysis (PCA) was used to discriminate the peptides. Molecular docking and 200 ns molecular dynamics (MD) simulations were conducted to characterize the binding modes and conformational dynamics of peptide–receptor complexes.ResultsElectronic tongue evaluation showed that ELLADMK exhibited the highest umami (1.05) and richness (1.77) intensities, followed by LEELMDK (umami: 0.97), HELDTK (umami: 0.72), and ADVLEK (umami: 0.49). PCA effectively discriminated these peptides, accounting for 93.8% of the total variance (PC1: 71.8%, PC2: 22.0%). Molecular docking and 200 ns MD simulations revealed that umami peptide binding decreased the conformational stability of the Venus flytrap domain, induced conformational expansion (e.g., in the ELLADMK system, RMSD increased from 2–4 Å to 8–10 Å, and Rg increased from 31.0–31.5 Å to 32.0–32.5 Å), and altered solvent accessibility in key regions. Notably, ELLADMK exhibited the most prominent modulatory effect.DiscussionThese findings clarify the sensory and molecular mechanisms underlying umami peptide recognition. The pronounced modulatory effect of ELLADMK suggests its potential as a highly active umami peptide. Overall, this study provides a theoretical basis for the targeted screeni…",
+      "authors": "Zimo Zhang, Fei Ye, Haifeng Zhao et al.",
       "published": "Sep 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1923649",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1961387",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Protein density, carbohydrate quality, and frailty-state transitions among adults aged 50 years or older: a continuous-time multistate analysis of the health and retirement study",
-      "abstract": "BackgroundFrailty is a dynamic condition in which individuals may deteriorate, recover, remain stable, or die. Although healthier dietary patterns have been associated with a lower risk of frailty, less is known about their associations with specific frailty-state transitions. We examined whether a study-specific score emphasizing protein density and carbohydrate quality was associated with transitions between frailty states.MethodsWe linked the 2013 Health and Retirement Study nutrition assessment to repeated frailty assessments from 2014 to 2021 among participants aged 50 years or older. The study-specific score combined higher densities of protein, fiber, and whole-grain densities with lower densities of added-sugar and glycemic-load densities. Frailty was assessed using a published 28-item deficit-accumulation index. The primary continuous-time multistate model allowed baseline transition intensities to change at 2 and 4 years and adjusted for age, sex, education, body mass index (BMI), ethnicity, Hispanic ethnicity, smoking, alcohol consumption, and moderate and light physical activity. Dietary components were also examined individually and jointly.ResultsThe primary analysis included 6,982 participants aged 50–102 years (mean, 69.0 years; 60.3% aged 65 years or older), with 25,108 person-state records and 1,487 deaths. Including the score improved model fit (likelihood-ratio [LR], 24.08; degrees of freedom [df], 7; p = 0.001). Each 1-standard deviation (SD) higher score was associated with lower robust-to-pre-frail intensity (hazard ratio [HR], 0.933; nominal 95% conf…",
-      "authors": "Jiao Wang",
+      "title": "Information seeking and credibility-related cues in Chinese consumers’ organic food purchase intention: an integrated TPB–alphabet model",
+      "abstract": "IntroductionIn China’s rapidly expanding organic food market, organic food remains a credence-based food category in which consumers rely on information and certification cues to evaluate product authenticity, safety, and sustainability. This study examines how information seeking and organic food credibility cues shape Chinese consumers’ organic food purchase intention by integrating the Theory of Planned Behavior (TPB) with selected components of Alphabet Theory.MethodsData were collected from 412 screened consumers in mainland China and analyzed using partial least squares structural equation modeling.ResultsInformation seeking was positively associated with organic food knowledge, which in turn was positively associated with attitude toward organic food. Attitude, subjective norm, perceived behavioral control, social media, eco-labels, and perceived government support all positively influenced purchase intention. Bootstrapped indirect-effect analysis further confirmed a sequential pathway from information seeking to purchase intention through knowledge and attitude.DiscussionThe findings indicate that organic food choice in China is formed through both internal learning-evaluation processes and external credibility-related cues operating at digital, product-certification, and institutional levels. The study contributes to food consumer science by explaining how consumers interpret organic food claims under information asymmetry and offers implications for food retailers, certification bodies, and policymakers.",
+      "authors": "Yihan Chen, Rosly Othman, Chong Ye et al.",
       "published": "Sep 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1926576",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1919012",
       "image": "",
       "screen": "right"
-    },
-    {
-      "title": "Phosphorus in Balance: Evaluating the Costs and Benefits of a Circular Economy Approach",
-      "abstract": "This paper presents a comprehensive cost-benefit analysis of producing alternative phosphorus (P) fertilizers from recycled water treatment residuals (Fe-WTR) and cowshed effluents. The cost-benefit values of Fe-WTR are compared to the net costs of recycling P using a synthetic adsorbent (commonly used practice-layered double hydroxide, P-LDH) and the costs of commercial fertilizers. Dairy wastewater is used as a source of P. The cost of 1 ton P using the Fe-WTR process is €329. In contrast, synthetic adsorbents (P-LDH) incur significantly higher costs, amounting to €3329 per ton, underscoring the economic advantage of utilizing waste-derived materials. Adopting Fe-WTR fertilizer not only offers substantial cost savings by avoiding landfill fees (€40 per ton) and wastewater discharge fines (€500 per ton) but also reduces environmental impacts when compared to the use of commercial P fertilizers (non-recycled P). The Fe-WTR method mitigates eutrophication and pollution, presenting the dual benefit of cost-effectiveness and environmental protection, which exceeds the common P recycling practice (LDH). Our conclusions are based on production processes in Israel and compared to previous cost estimations at the world level, assessing the potential gain from such circular production of P globally. Recycling P from waste streams can be economically viable and environmentally preferable at small and large economic scales, supporting global sustainability goals.",
-      "authors": "H. E. Ganem, I. Zohar, M. Litaor et al.",
-      "published": "2024",
-      "venue": "Journal of Environmental Science Studies",
-      "feedName": "Lab Research",
-      "citationCount": 0,
-      "recentCitations": 0,
-      "quartile": null,
-      "s2_paper_id": "5a7645fb724f2527117a809194848a4b84de25da",
-      "url": "https://doi.org/10.20849/jess.v7i2.1469",
-      "image": "",
-      "screen": "both",
-      "lab_paper": true,
-      "researcher": {
-        "name": "Iris Zohar",
-        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=YVQd-pwAAAAJ"
-      }
-    },
-    {
-      "title": "The impact of alternative recycled and synthetic phosphorus sources on plant growth and responses, soil interactions and sustainable agriculture - lettuce (Lactuca sativa) as a case model.",
-      "abstract": "This research assesses the efficacy of two phosphorus (P) adsorbents as alternative fertilizers in promoting lettuce growth. A synthetic Mg/Al-layered double hydroxide (LDH) and an iron-based recycled water treatment residual (Fe-WTR), both enriched with P from dairy wastewater and added at three dosage levels. We hypothesized that the adsorbents' physicochemical nature will overshadow the biological efforts in the plant ecosystem to increase P solubility, impacting plant growth, nutritional composition, and metabolite profiles. Fe-WTR significantly enhanced lettuce biomass compared to LDH. Yet, elemental analysis revealed higher or equal P concentrations in the low-biomass LDH plants relative to other treatments. Phosphorus uptake appears to influence the assimilation of other nutrients that divided into two groups: calcium, magnesium, zinc, and copper with notable correlations to P and nitrogen, iron, aluminum, vanadium and manganese with low correlations to P. Conversely, P retained poor correlation with most metabolites whereas iron showed a higher correlation with numerous metabolites. Analysis of metabolites, encompassing carbohydrates, the Krebs cycle, amino acids, nucleic acids, and stress and regulatory pathways, revealed diminished levels in the LDH treatments. Overall, carbon assimilation (plant growth) was more effectively predicted by soil P availability (adsorbent type and dose) rather than by cellular P concentration, suggesting root signaling was at play, influencing carbohydrate translocation to the roots. Diminished levels of cellular sugars further affect…",
-      "authors": "I. Zohar, H. E. Ganem, D. DiSegni et al.",
-      "published": "2024",
-      "venue": "Science of the Total Environment",
-      "feedName": "Lab Research",
-      "citationCount": 8,
-      "recentCitations": 0,
-      "quartile": "Q1",
-      "s2_paper_id": "716a87e9602f04f6b3d7fe6c3b411a15d1beaf4a",
-      "url": "https://doi.org/10.1016/j.scitotenv.2024.174719",
-      "image": "",
-      "screen": "both",
-      "lab_paper": true,
-      "researcher": {
-        "name": "Iris Zohar",
-        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=YVQd-pwAAAAJ"
-      }
-    },
-    {
-      "title": "Biogeochemical impacts on soil phosphorus and other macro- and micro elements solubility, ratios and forms during heatwaves",
-      "abstract": "Increased frequency and amplitude of extreme heat events can affect soil temperature, and biogeochemical processes. High temperatures may have contradicting geochemical and biological effects on essential elements solubility and forms. Endothermic behavior of minerals and oxides results in decreased solubility with increased temperature, while bio-mineralization is stimulated in response to high temperature. To elucidate heatwave impacts on soil biogeochemical processes, we performed a controlled soil incubation experiment and a field survey. Wet and dry alluvial soil sets were incubated at background temperature (33°C) for two weeks and then, a sequence of three heat events was induced (41°C/33°C alternations, five days each) followed by two short events of extreme heat (48°C for two days). Most soil indices changed trends after about 25-30 days. At the first part of the period, P, Al, Fe appeared to reflect endothermic behavior of (hydr)oxides and minerals in the dry soil (i.e., sorbed P was likely dependent on Fe (hydr)oxides dissolution), while trends of Fe/Al in the wet soil followed the dissolved organic C trend. Phosphatases enzymatic activities fluctuated positively with temperature, emphasizing the activity of residual extracellular enzymes sorbed to soil particles (dry soil) in addition to living cells excreted enzymes (wet soil). With the 3 rd heatwave, soluble P dramatically fluctuated with temperature, suggesting a sequence of temperature-enhanced bio-mineralization, releasing P to the soil solution, counteracted by geochemical sorption, removing P from solutio…",
-      "authors": "I. Zohar, M. Khoury, Yael Kirshenbaum et al.",
-      "published": "2023",
-      "venue": "Goldschmidt2023 abstracts",
-      "feedName": "Lab Research",
-      "citationCount": 0,
-      "recentCitations": 0,
-      "quartile": null,
-      "s2_paper_id": "e71980935a3dcce1c2b9257fe6bd261b6cf61461",
-      "url": "https://doi.org/10.7185/gold2023.18565",
-      "image": "",
-      "screen": "both",
-      "lab_paper": true,
-      "researcher": {
-        "name": "Iris Zohar",
-        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=YVQd-pwAAAAJ"
-      }
     },
     {
       "title": "Continuing Medical (Anatomy) Education Series: Organ Donation and Transplantation, a Means of Continuity of Functional and Independent Life and Living",
@@ -759,6 +699,46 @@
       "researcher": {
         "name": "Adi Jonas-Levi",
         "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=MbCf9l4AAAAJ"
+      }
+    },
+    {
+      "title": "New Analytical Approach to Quinolizidine Alkaloids and Their Assumed Biosynthesis Pathways in Lupin Seeds",
+      "abstract": "Alkaloids play an essential role in protecting plants against herbivores. Humans can also benefit from the pharmacological effects of these compounds. Plants produce an immense variety of structurally different alkaloids, including quinolizidine alkaloids, a group of bi-, tri-, and tetracyclic compounds produced by Lupinus species. Various lupin species produce different alkaloid profiles. To study the composition of quinolizidine alkaloids in lupin seeds, we collected 31 populations of two wild species native to Israel, L. pilosus and L. palaestinus, and analyzed their quinolizidine alkaloid contents. Our goal was to study the alkaloid profiles of these two wild species to better understand the challenges and prospective uses of wild lupins. We compared their profiles with those of other commercial and wild lupin species. To this end, a straightforward method for extracting alkaloids from seeds and determining the quinolizidine alkaloid profile by LC–MS/MS was developed and validated in-house. For the quantification of quinolizidine alkaloids, 15 analytical reference standards were used. We used GC–MS to verify and cross-reference the identity of certain alkaloids for which no analytical standards were available. The results enabled further exploration of quinolizidine alkaloid biosynthesis. We reviewed and re-analyzed the suggested quinolizidine alkaloid biosynthesis pathway, including the relationship between the amino acid precursor l-lysine and the different quinolizidine alkaloids occurring in seeds of lupin species. Revealing alkaloid compositions and highlighting so…",
+      "authors": "D. Namdar, Patrick P. J. Mulder, E. Ben-Simchon et al.",
+      "published": "2024",
+      "venue": "Toxins",
+      "feedName": "Lab Research",
+      "citationCount": 19,
+      "recentCitations": 1,
+      "quartile": null,
+      "s2_paper_id": "e6a6854e55ee8f5a8ace3025ba0d32e33a650343",
+      "url": "https://doi.org/10.3390/toxins16030163",
+      "image": "",
+      "screen": "both",
+      "lab_paper": true,
+      "researcher": {
+        "name": "Loai Basheer",
+        "photo": "media/photos/loai_basheer.png"
+      }
+    },
+    {
+      "title": "Valorization of Local Legumes and Nuts as Key Components of the Mediterranean Diet",
+      "abstract": "Legumes and nuts are components of high importance in the diet of many countries, mainly those in the Mediterranean region. They are also very versatile and culturally diverse foods found all over the world, acting as a basic protein source in certain countries. Their genetic diversity is needed to sustain the food supply and security for humans and livestock, especially because of the current loss of habitats, species, and genetic diversity worldwide, but also because of the ever present need to feed the increasing human population. Even though both legumes and nuts are considered as high-protein food and environmentally friendly crops, developed countries have lower consumption rates when compared to Asia or Africa. With a view to increasing the consumption of legumes and nuts, the objective of this review is to present the advantages on the use of autochthonous varieties from different countries around the world, thus providing a boost to the local market in the area. The consumption of these varieties could be helped by their use in ready-to-eat foods (RTE), which are now on the rise thanks to today’s fast-paced lifestyles and the search for more nutritious and sustainable foods. The versatility of legumes and nuts covers a wide range of possibilities through their use in plant-based dairy analogues, providing alternative-protein and maximal amounts of nutrients and bioactive compounds, potential plant-based flours for bakery and pasta, and added-value traditional RTE meals. For this reason, information about legume and nut nutrition could possibly increase its acceptan…",
+      "authors": "Israel Hernández-López, J. Ortiz-Solà, C. Alamprese et al.",
+      "published": "2022",
+      "venue": "Foods",
+      "feedName": "Lab Research",
+      "citationCount": 41,
+      "recentCitations": 1,
+      "quartile": "Q2",
+      "s2_paper_id": "58107c8058774580a57d044f21566325035de229",
+      "url": "https://doi.org/10.3390/foods11233858",
+      "image": "",
+      "screen": "both",
+      "lab_paper": true,
+      "researcher": {
+        "name": "Loai Basheer",
+        "photo": "media/photos/loai_basheer.png"
       }
     },
     {

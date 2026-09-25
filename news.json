@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-24T22:51:12Z",
+  "updated": "2026-09-25T02:42:24Z",
   "items": [
     {
       "title": "Food packaging claims need to be earned",
@@ -362,6 +362,16 @@
       "screen": "left"
     },
     {
+      "title": "Changing counterions gives molecular materials new electronic behaviors",
+      "abstract": "Orthogonally arranged π-electronic systems that combine electron-donating and electron-accepting units display distinctive electronic and photophysical behavior. Fine-tuning their electronic structure offers a way to control photoinduced electron transfer. Building on this idea, complexing boron with 1,3-diketones and 9-oxidophenalenone may produce electron-deficient cationic π-electronic systems.",
+      "authors": "",
+      "published": "Sep 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-09-counterions-molecular-materials-electronic-behaviors.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/changing-counterions-g-1.jpg",
+      "screen": "right"
+    },
+    {
       "title": "Self-driving lab automates semiconductor ink synthesis and thin-film characterization",
       "abstract": "Developing new functional materials often requires testing numerous material combinations. Conventional experiments reach their limits quickly when many variants must be compared. To overcome this bottleneck, the new Energy Materials Acceleration Platform (E-MAP) at KIT automates key lab steps.",
       "authors": "",
@@ -389,16 +399,6 @@
       "feedName": "Phys.org Analytics",
       "url": "https://phys.org/news/2026-09-evolved-enzymes-tuberculosis-antibiotic-ingredient.html",
       "image": "https://scx1.b-cdn.net/csz/news/800/2025/tuberculosis.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "AI scans 4.6 million compounds in hours to predict hydrogen positions in drug-like molecules",
-      "abstract": "New York University researchers have trained an AI model to learn chemical patterns associated with stability in drug-like molecules and accurately predict where their hydrogen atoms should be positioned.",
-      "authors": "",
-      "published": "Sep 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-09-ai-scans-million-compounds-hours.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/scientists-use-ai-to-f.jpg",
       "screen": "right"
     },
     {
@@ -762,46 +762,6 @@
       }
     },
     {
-      "title": "New Analytical Approach to Quinolizidine Alkaloids and Their Assumed Biosynthesis Pathways in Lupin Seeds",
-      "abstract": "Alkaloids play an essential role in protecting plants against herbivores. Humans can also benefit from the pharmacological effects of these compounds. Plants produce an immense variety of structurally different alkaloids, including quinolizidine alkaloids, a group of bi-, tri-, and tetracyclic compounds produced by Lupinus species. Various lupin species produce different alkaloid profiles. To study the composition of quinolizidine alkaloids in lupin seeds, we collected 31 populations of two wild species native to Israel, L. pilosus and L. palaestinus, and analyzed their quinolizidine alkaloid contents. Our goal was to study the alkaloid profiles of these two wild species to better understand the challenges and prospective uses of wild lupins. We compared their profiles with those of other commercial and wild lupin species. To this end, a straightforward method for extracting alkaloids from seeds and determining the quinolizidine alkaloid profile by LC–MS/MS was developed and validated in-house. For the quantification of quinolizidine alkaloids, 15 analytical reference standards were used. We used GC–MS to verify and cross-reference the identity of certain alkaloids for which no analytical standards were available. The results enabled further exploration of quinolizidine alkaloid biosynthesis. We reviewed and re-analyzed the suggested quinolizidine alkaloid biosynthesis pathway, including the relationship between the amino acid precursor l-lysine and the different quinolizidine alkaloids occurring in seeds of lupin species. Revealing alkaloid compositions and highlighting so…",
-      "authors": "D. Namdar, Patrick P. J. Mulder, E. Ben-Simchon et al.",
-      "published": "2024",
-      "venue": "Toxins",
-      "feedName": "Lab Research",
-      "citationCount": 19,
-      "recentCitations": 1,
-      "quartile": null,
-      "s2_paper_id": "e6a6854e55ee8f5a8ace3025ba0d32e33a650343",
-      "url": "https://doi.org/10.3390/toxins16030163",
-      "image": "",
-      "screen": "both",
-      "lab_paper": true,
-      "researcher": {
-        "name": "Loai Basheer",
-        "photo": "media/photos/loai_basheer.png"
-      }
-    },
-    {
-      "title": "Valorization of Local Legumes and Nuts as Key Components of the Mediterranean Diet",
-      "abstract": "Legumes and nuts are components of high importance in the diet of many countries, mainly those in the Mediterranean region. They are also very versatile and culturally diverse foods found all over the world, acting as a basic protein source in certain countries. Their genetic diversity is needed to sustain the food supply and security for humans and livestock, especially because of the current loss of habitats, species, and genetic diversity worldwide, but also because of the ever present need to feed the increasing human population. Even though both legumes and nuts are considered as high-protein food and environmentally friendly crops, developed countries have lower consumption rates when compared to Asia or Africa. With a view to increasing the consumption of legumes and nuts, the objective of this review is to present the advantages on the use of autochthonous varieties from different countries around the world, thus providing a boost to the local market in the area. The consumption of these varieties could be helped by their use in ready-to-eat foods (RTE), which are now on the rise thanks to today’s fast-paced lifestyles and the search for more nutritious and sustainable foods. The versatility of legumes and nuts covers a wide range of possibilities through their use in plant-based dairy analogues, providing alternative-protein and maximal amounts of nutrients and bioactive compounds, potential plant-based flours for bakery and pasta, and added-value traditional RTE meals. For this reason, information about legume and nut nutrition could possibly increase its acceptan…",
-      "authors": "Israel Hernández-López, J. Ortiz-Solà, C. Alamprese et al.",
-      "published": "2022",
-      "venue": "Foods",
-      "feedName": "Lab Research",
-      "citationCount": 41,
-      "recentCitations": 1,
-      "quartile": "Q2",
-      "s2_paper_id": "58107c8058774580a57d044f21566325035de229",
-      "url": "https://doi.org/10.3390/foods11233858",
-      "image": "",
-      "screen": "both",
-      "lab_paper": true,
-      "researcher": {
-        "name": "Loai Basheer",
-        "photo": "media/photos/loai_basheer.png"
-      }
-    },
-    {
       "title": "Dictated cell adhesion and migration using microfluidic-controlled synthetic hydrogels exhibiting programmable viscoelasticities.",
       "abstract": "Mechanosensing interactions between the extracellular matrix (ECM) and the intracellular cytoskeleton are fundamental to cellular functions such as motility, proliferation, and adhesion, driven by the dynamic, bidirectional, tension-regulated maturation of focal adhesion (FA) sites. We demonstrate that native mechanosensing interactions and their downstream functions are precisely controlled using synthetic hydrogels. We introduce a microfluidic-assisted synthesis of imine-crosslinked hyaluronic acid-gelatin copolymer hydrogels (HAG), enabling controlled, predefined gradient viscoelasticity. Specifically, three native tissues (muscle, epidermis, and cartilage)-mimicking HAG hydrogels were prepared, matching their effective Young's modulus (Ymod) and stress relaxation time (τ1/2). Enhanced cell spreading and directional cell migration are observed, with a preference for substrates with tissue-matching viscoelasticity. These mechanosensing reactions are confirmed by traction force microscopy, revealing a tight correlation between native tissue mechano-properties and the hydrogel viscoelastic parameters. We demonstrate that the signaling efficacies of the FAK and associated YAP/TAZ pathways, central regulators of FA formation and cell migration, are tuned by substrate tissue-matching viscoelasticity. We implement these preprogrammed viscoelastic gradient hydrogels as spatiotemporal cell-separation matrices, enabling viscoelasticity-driven migration of binary cell mixtures. This work provides a potent platform for studying cell-material interactions, offering significant potent…",
       "authors": "Haochen Yang, Ziyuan Li, Gilad Davidson-Rozenfeld et al.",
@@ -809,7 +769,7 @@
       "venue": "Journal of materials chemistry. B",
       "feedName": "Lab Research",
       "citationCount": 1,
-      "recentCitations": 1,
+      "recentCitations": 0,
       "quartile": "Q1",
       "s2_paper_id": "1d4f87214f79048150a17cc2d0738bf0fb72b106",
       "url": "https://doi.org/10.1039/d6tb00438e",

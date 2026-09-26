@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26T13:58:54Z",
+  "updated": "2026-09-26T17:39:26Z",
   "items": [
     {
       "title": "Food packaging claims need to be earned",
@@ -152,12 +152,12 @@
       "screen": "left"
     },
     {
-      "title": "Temporal mouthfeel profiling and drivers of consumer liking in dairy and plant-based milks",
+      "title": "Consumer valuation of sustainability attributes in floating rice noodles: Evidence from Vietnam",
       "abstract": "",
-      "authors": "Hitarthi More, James Makame, Alissa Nolden",
+      "authors": "Ong Quoc Cuong, Su Nhat Linh",
       "published": "Feb 2027",
       "feedName": "Food Quality & Preference",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0950329326002752?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0950329326002776?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -282,6 +282,26 @@
       "screen": "left"
     },
     {
+      "title": "Elucidating flavor formation molecular mechanisms in peanut roasting through multi-omics analysis",
+      "abstract": "",
+      "authors": "Fei Xiang, Hui Hu, Caixia Ding et al.",
+      "published": "Sep 2026",
+      "feedName": "npj Science of Food",
+      "url": "https://www.nature.com/articles/s41538-026-01127-5",
+      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01127-5/MediaObjects/41538_2026_1127_Fig1_HTML.png",
+      "screen": "left"
+    },
+    {
+      "title": "Fermented food matrix influences gut microbiota responses in mice",
+      "abstract": "",
+      "authors": "Ramya Balasubramanian, Francesca Bietto, Luiza de Paula Dias Moreira et al.",
+      "published": "Sep 2026",
+      "feedName": "npj Science of Food",
+      "url": "https://www.nature.com/articles/s41538-026-01149-z",
+      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01149-z/MediaObjects/41538_2026_1149_Fig1_HTML.png",
+      "screen": "left"
+    },
+    {
       "title": "Sequential fermentation with indigenous Hanseniaspora uvarum followed by Saccharomyces cerevisiae enhances aroma complexity and quality of Cabernet Sauvignon wine",
       "abstract": "",
       "authors": "Lanlan Hu, Zhen Wang, Xiaohong Wang et al.",
@@ -299,26 +319,6 @@
       "feedName": "npj Science of Food",
       "url": "https://www.nature.com/articles/s41538-026-01169-9",
       "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01169-9/MediaObjects/41538_2026_1169_Fig1_HTML.png",
-      "screen": "left"
-    },
-    {
-      "title": "From rhizosphere to gut: microbial drivers of tea flavor and bioactivity",
-      "abstract": "Across cultivation, processing, and consumption, tea quality and bioactivity are shaped by plant-microbiota interactions. This review develops a field-to-gut framework centered on the tea plant holobiont and downstream microbial partners. Within that frame, rhizosphere and endophytic microbiota are examined as regulators of flavor precursors, host metabolism, and defense. Processing microbiota are considered for remodeling tea chemistry and gut microbiota for bioactivating tea compounds, with microbial transmission, ecological replacement, and metabolite carryover distinguished and translational directions identified in microbiome-guided cultivation, controlled fermentation, and metabotype-informed nutrition.",
-      "authors": "Miao Qi, Jizhou Xie, Shujun Li et al.",
-      "published": "Sep 2026",
-      "feedName": "npj Science of Food",
-      "url": "https://www.nature.com/articles/s41538-026-01156-0",
-      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01156-0/MediaObjects/41538_2026_1156_Fig1_HTML.png",
-      "screen": "left"
-    },
-    {
-      "title": "Integrated multi-omics and serological profiling identifies five immunodominant allergens from the high-abundance protein repertoire of Haliotis discus hannai",
-      "abstract": "",
-      "authors": "Shuai Zhi, Xin-yu Han, Tian-bin Chen et al.",
-      "published": "Sep 2026",
-      "feedName": "npj Science of Food",
-      "url": "https://www.nature.com/articles/s41538-026-01181-z",
-      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01181-z/MediaObjects/41538_2026_1181_Fig1_HTML.png",
       "screen": "left"
     },
     {
@@ -442,6 +442,16 @@
       "screen": "right"
     },
     {
+      "title": "Zepbound and Mounjaro may turn on the body’s calorie-burning brown fat",
+      "abstract": "Tirzepatide, sold as Mounjaro and Zepbound, activated calorie-burning brown fat in obese mice, revealing a potential metabolic effect beyond appetite suppression. If confirmed in humans, the finding could help explain the drug’s powerful benefits and inspire more comprehensive treatments for obesity and diabetes.",
+      "authors": "",
+      "published": "Sep 2026",
+      "feedName": "ScienceDaily Nutrition",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260925093210.htm",
+      "image": "https://www.sciencedaily.com/images/1920/zepbound-tirzepatide-injection-pen.webp",
+      "screen": "right"
+    },
+    {
       "title": "GLP-1 weight loss and diabetes drugs linked to nutritional deficiencies in nearly 1 in 6 children",
       "abstract": "Children taking GLP-1 medications (such as Victoza, Saxenda, Trulicity, and Ozempic) for weight loss, prediabetes, or type 2 diabetes may face an overlooked risk: nutritional deficiencies. A new study found that nearly 1 in 6 young patients developed a diagnosed deficiency within a year of starting treatment, with vitamin D deficiency affecting about 12%.",
       "authors": "",
@@ -469,16 +479,6 @@
       "feedName": "ScienceDaily Nutrition",
       "url": "https://www.sciencedaily.com/releases/2026/09/260920030147.htm",
       "image": "https://www.sciencedaily.com/images/1920/osteoporosis-stages-hip-bone-strength.webp",
-      "screen": "right"
-    },
-    {
-      "title": "Scientists solve a 50-year mystery and discover a new human blood group",
-      "abstract": "Scientists have identified the genetic cause behind the mysterious AnWj blood group antigen, solving a puzzle that began in 1972 and establishing a new blood group system called MAL. The discovery could make it much easier to find extremely rare AnWj-negative patients and donors and protect them from potentially dangerous transfusion reactions.",
-      "authors": "",
-      "published": "Sep 2026",
-      "feedName": "ScienceDaily Nutrition",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260918024828.htm",
-      "image": "https://www.sciencedaily.com/images/1920/3d-rendering-of-red-blood-cells.webp",
       "screen": "right"
     },
     {

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26T08:57:28Z",
+  "updated": "2026-09-26T13:58:54Z",
   "items": [
     {
       "title": "Food packaging claims need to be earned",
@@ -52,32 +52,32 @@
       "screen": "left"
     },
     {
-      "title": "Valorisation of corn silk in functional cookie formulation: nutritional, sensory, and physicochemical evaluation",
+      "title": "Simultaneous determination of 13 thermo-induced endogenous contaminants in black and green tea based on a split-flow SPE strategy coupled with UPLC-MS/MS analysis",
       "abstract": "",
-      "authors": "Khangembam Avinash Singh, Ph. Baleshwor Sharma",
+      "authors": "Jiawei Yu, Li Zhou, Zongmao Chen et al.",
       "published": "Nov 2026",
       "feedName": "Food Chemistry",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626032541?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626034436?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
     {
-      "title": "Molecular basis of sediment formation in cereal vinegar driven by polysaccharide–protein–polyphenol ternary interactions",
+      "title": "Ca 2+ -mediated free radical grafting of whey protein with ferulic acid: Physicochemical characterization and antagonistic effects on lead toxicity",
       "abstract": "",
-      "authors": "Dantong Liu, Zhenhua Su, Mengjia Zhang et al.",
+      "authors": "Yingjie Wang, Sheng Wang, Jianxun Gao et al.",
       "published": "Nov 2026",
       "feedName": "Food Chemistry",
-      "url": "https://www.sciencedirect.com/science/article/pii/S030881462603325X?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S030881462603414X?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
     {
-      "title": "Protease-dependent effects of salmon milt hydrolysates on protein-network characteristics in fermented pork sausages: Balancing water retention and texture formation",
+      "title": "Tuning lipid digestibility and β-carotene bioaccessibility via β-sitosterol/γ-oryzanol ratios in oleogels",
       "abstract": "",
-      "authors": "Ying Wang, Geunpyo Hong, Zhendong Liu et al.",
+      "authors": "Areen Ashkar, Nitzan Friedman, Shoshana Rivka Ginsburg et al.",
       "published": "Nov 2026",
       "feedName": "Food Chemistry",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626033765?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626033960?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -88,6 +88,16 @@
       "published": "Dec 2026",
       "feedName": "Trends in Food Sci & Tech",
       "url": "https://www.sciencedirect.com/science/article/pii/S0924224426005261?dgcid=rss_sd_all",
+      "image": "",
+      "screen": "left"
+    },
+    {
+      "title": "Taste receptors and flavor perception: From molecular mechanisms to food applications",
+      "abstract": "",
+      "authors": "Yuwen Zeng, Xiaolin Zhang, Chen Wang et al.",
+      "published": "Dec 2026",
+      "feedName": "Trends in Food Sci & Tech",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426005789?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -108,16 +118,6 @@
       "published": "Dec 2026",
       "feedName": "Trends in Food Sci & Tech",
       "url": "https://www.sciencedirect.com/science/article/pii/S0924224426005546?dgcid=rss_sd_all",
-      "image": "",
-      "screen": "left"
-    },
-    {
-      "title": "Packaging strategies for extra virgin olive oil: Physicochemical stability, safety, shelf life and sustainability",
-      "abstract": "",
-      "authors": "Maryam Zabihzadeh Khajavi, Anton Nikiforov, Nathalie De Geyter et al.",
-      "published": "Dec 2026",
-      "feedName": "Trends in Food Sci & Tech",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426005765?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -242,6 +242,26 @@
       "screen": "left"
     },
     {
+      "title": "Stable-age sampling requires age–lifetime dependence in models of microbial pseudo-lag",
+      "abstract": "",
+      "authors": "Tiewu Tan, Xin Zhang, Hui Qin",
+      "published": "Mar 2027",
+      "feedName": "Food Microbiology",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0740002026002790?dgcid=rss_sd_all",
+      "image": "",
+      "screen": "left"
+    },
+    {
+      "title": "Interpreting metabolite associations and proposed biosynthetic routes in Lactiplantibacillus plantarum-fermented Porphyra haitanensis",
+      "abstract": "",
+      "authors": "Nuo Chen, Xin Zhang",
+      "published": "Mar 2027",
+      "feedName": "Food Microbiology",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0740002026002765?dgcid=rss_sd_all",
+      "image": "",
+      "screen": "left"
+    },
+    {
       "title": "Complementary enhancement of osmotic tolerance in Ligilactobacillus salivarius AR612 by exogenous purine nucleobases and gene engineering",
       "abstract": "",
       "authors": "Yong Yang, Xin Song, Yongjun Xia et al.",
@@ -258,26 +278,6 @@
       "published": "Mar 2027",
       "feedName": "Food Microbiology",
       "url": "https://www.sciencedirect.com/science/article/pii/S0740002026002777?dgcid=rss_sd_all",
-      "image": "",
-      "screen": "left"
-    },
-    {
-      "title": "A quasi-metagenomics approach for subspecies level differentiation of Listeria monocytogenes in foods based on assembly alignment discrepancies",
-      "abstract": "",
-      "authors": "Calvin Ho-Fung Lau, Lang Yao, Rachel Madill et al.",
-      "published": "Mar 2027",
-      "feedName": "Food Microbiology",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0740002026002728?dgcid=rss_sd_all",
-      "image": "",
-      "screen": "left"
-    },
-    {
-      "title": "High persistence of hepatitis A and E viruses during simulated gastrointestinal digestion across diverse food matrices",
-      "abstract": "",
-      "authors": "Marianne Levasseur, Albane Le Couteulx, Valérie Goulet-Beaulieu et al.",
-      "published": "Mar 2027",
-      "feedName": "Food Microbiology",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0740002026002716?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },

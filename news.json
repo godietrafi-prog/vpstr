@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T23:02:46Z",
+  "updated": "2026-09-26T02:39:09Z",
   "items": [
     {
       "title": "Food packaging claims need to be earned",
@@ -292,6 +292,26 @@
       "screen": "left"
     },
     {
+      "title": "Psychobiotic food systems: fermentation-derived microbes and metabolites modulating the microbiota–gut–brain axis",
+      "abstract": "",
+      "authors": "Djilali Benabdelmoumene, Said Dahmouni, Zineb Bengharbi et al.",
+      "published": "Sep 2026",
+      "feedName": "npj Science of Food",
+      "url": "https://www.nature.com/articles/s41538-026-01169-9",
+      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01169-9/MediaObjects/41538_2026_1169_Fig1_HTML.png",
+      "screen": "left"
+    },
+    {
+      "title": "From rhizosphere to gut: microbial drivers of tea flavor and bioactivity",
+      "abstract": "Across cultivation, processing, and consumption, tea quality and bioactivity are shaped by plant-microbiota interactions. This review develops a field-to-gut framework centered on the tea plant holobiont and downstream microbial partners. Within that frame, rhizosphere and endophytic microbiota are examined as regulators of flavor precursors, host metabolism, and defense. Processing microbiota are considered for remodeling tea chemistry and gut microbiota for bioactivating tea compounds, with microbial transmission, ecological replacement, and metabolite carryover distinguished and translational directions identified in microbiome-guided cultivation, controlled fermentation, and metabotype-informed nutrition.",
+      "authors": "Miao Qi, Jizhou Xie, Shujun Li et al.",
+      "published": "Sep 2026",
+      "feedName": "npj Science of Food",
+      "url": "https://www.nature.com/articles/s41538-026-01156-0",
+      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01156-0/MediaObjects/41538_2026_1156_Fig1_HTML.png",
+      "screen": "left"
+    },
+    {
       "title": "Integrated multi-omics and serological profiling identifies five immunodominant allergens from the high-abundance protein repertoire of Haliotis discus hannai",
       "abstract": "",
       "authors": "Shuai Zhi, Xin-yu Han, Tian-bin Chen et al.",
@@ -299,26 +319,6 @@
       "feedName": "npj Science of Food",
       "url": "https://www.nature.com/articles/s41538-026-01181-z",
       "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01181-z/MediaObjects/41538_2026_1181_Fig1_HTML.png",
-      "screen": "left"
-    },
-    {
-      "title": "Preparation and antioxidant activity of hydrolysates from Litsea cubeba oil processing residuals: fluorescence chromatography and molecular dynamics simulation",
-      "abstract": "",
-      "authors": "Li Li, Wei-qi Wang, Bin Wang et al.",
-      "published": "Sep 2026",
-      "feedName": "npj Science of Food",
-      "url": "https://www.nature.com/articles/s41538-026-01171-1",
-      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01171-1/MediaObjects/41538_2026_1171_Fig1_HTML.png",
-      "screen": "left"
-    },
-    {
-      "title": "Selective recovery of Ginkgo biloba flavonoids and simultaneous removal of ginkgolic acids via deep eutectic solvent‑based liquid‑liquid extraction",
-      "abstract": "",
-      "authors": "Huixin You, Dongting Huang, Hejie Han et al.",
-      "published": "Sep 2026",
-      "feedName": "npj Science of Food",
-      "url": "https://www.nature.com/articles/s41538-026-01176-w",
-      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01176-w/MediaObjects/41538_2026_1176_Fig1_HTML.png",
       "screen": "left"
     },
     {
@@ -649,7 +649,7 @@
       "venue": "Soil Science Annual",
       "feedName": "Lab Research",
       "citationCount": 9,
-      "recentCitations": 2,
+      "recentCitations": 1,
       "quartile": null,
       "s2_paper_id": "8aa653c59706d0f1e9269886f0967e540b52e7f0",
       "url": "https://doi.org/10.37501/soilsa/183903",
@@ -789,7 +789,7 @@
       "venue": "Foods",
       "feedName": "Lab Research",
       "citationCount": 41,
-      "recentCitations": 0,
+      "recentCitations": 1,
       "quartile": "Q2",
       "s2_paper_id": "58107c8058774580a57d044f21566325035de229",
       "url": "https://doi.org/10.3390/foods11233858",

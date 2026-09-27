@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-27T07:22:55Z",
+  "updated": "2026-09-27T13:25:42Z",
   "items": [
     {
       "title": "Food packaging claims need to be earned",
@@ -42,6 +42,16 @@
       "screen": "left"
     },
     {
+      "title": "Intelligent De novo Design of Multifunctional Taste Peptides via an integrated deep learning, conditional diffusion, and reinforcement learning platform",
+      "abstract": "",
+      "authors": "Haoyu Xiong, Yuxiao Wang, Shijie Pu et al.",
+      "published": "Nov 2026",
+      "feedName": "Food Chemistry",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626034072?dgcid=rss_sd_all",
+      "image": "",
+      "screen": "left"
+    },
+    {
       "title": "Rapid TLC-based preliminary screening of ergothioneine-producing fungi and analysis of conserved EgtB domains",
       "abstract": "",
       "authors": "Tri-Thuc Bui, Emaan Jamil, Huong Thi Nguyen et al.",
@@ -52,32 +62,22 @@
       "screen": "left"
     },
     {
-      "title": "Simultaneous determination of 13 thermo-induced endogenous contaminants in black and green tea based on a split-flow SPE strategy coupled with UPLC-MS/MS analysis",
+      "title": "Electron-bridge mediated Z -scheme nanozyme with homologous heterostructured MOF-on-MOF architectures for simultaneous colorimetric detection and removal of aflatoxin B 1",
       "abstract": "",
-      "authors": "Jiawei Yu, Li Zhou, Zongmao Chen et al.",
+      "authors": "Miao Ding, Qi Zhang, Xian Chen et al.",
       "published": "Nov 2026",
       "feedName": "Food Chemistry",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626034436?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S030881462603428X?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
     {
-      "title": "Ca 2+ -mediated free radical grafting of whey protein with ferulic acid: Physicochemical characterization and antagonistic effects on lead toxicity",
+      "title": "Deciphering competitive interactions in hyaluronic acid-wheat germ gliadin-EGCG ternary nanoparticles: Multi-spectroscopic and computational insights into encapsulation and release",
       "abstract": "",
-      "authors": "Yingjie Wang, Sheng Wang, Jianxun Gao et al.",
+      "authors": "Ai-Mei Liao, Zhi-Tong Zhu, Meng-Yu Gao et al.",
       "published": "Nov 2026",
       "feedName": "Food Chemistry",
-      "url": "https://www.sciencedirect.com/science/article/pii/S030881462603414X?dgcid=rss_sd_all",
-      "image": "",
-      "screen": "left"
-    },
-    {
-      "title": "Tuning lipid digestibility and β-carotene bioaccessibility via β-sitosterol/γ-oryzanol ratios in oleogels",
-      "abstract": "",
-      "authors": "Areen Ashkar, Nitzan Friedman, Shoshana Rivka Ginsburg et al.",
-      "published": "Nov 2026",
-      "feedName": "Food Chemistry",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626033960?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626034096?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },

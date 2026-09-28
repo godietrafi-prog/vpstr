@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-28T16:36:06Z",
+  "updated": "2026-09-28T22:48:11Z",
   "items": [
     {
       "title": "Food packaging claims need to be earned",
@@ -788,7 +788,7 @@
       "published": "2022",
       "venue": "Foods",
       "feedName": "Lab Research",
-      "citationCount": 41,
+      "citationCount": 42,
       "recentCitations": 2,
       "quartile": "Q2",
       "s2_paper_id": "58107c8058774580a57d044f21566325035de229",
@@ -824,7 +824,7 @@
     {
       "title": "Redox- and Photo-Responsive Fe3+/2+-Cross-Linked Carboxymethyl Cellulose Methacrylate Dissipative Gels: Synthesis and Applications",
       "abstract": "The synthesis of redox-active Fe3+-cross-linked carboxymethyl cellulose methacrylate cryogels (Fe 3+ -CMCMA), revealing switchable, transient, dissipative stiffness properties, is introduced. The switchable, transient functions are triggered by ascorbate-mediated reduction of the high-stiffness gel to the lower-stiffness Fe2+-CMCMA gel, and the concomitant aerobic oxidation of the Fe2+-CMCMA to the Fe3+-CMCMA gel state. Alternatively, integration of native photosynthetic photosystem-I (PS-I) into the cryogel matrix allows the photosensitized reduction of the Fe3+-CMCMA cryogel to the lower stiffness state Fe2+-CMCMA, and the concomitant, temporal, aerobic recovery of Fe2+-CMCMA to the high-stiffness Fe3+-CMCMA gel. The transient dissipative stiffness of the Fe3+/2+-CMCMA cryogel is characterized by temporal rheometry, dynamic stretching stress–strain experiments, XPS, and SEM imaging. The transient chemical/light-triggered stiffness functions of the Fe3+/2+-CMCMA, or PS-I-integrated Fe3+/2+-CMCMA gels are applied to develop transient self-healing matrices, and frameworks for cyclic, transient release of loads integrated in the gel matrices. This is exemplified by the ascorbate/light-induced cyclic transient release of tetramethyl rhodamine-dextran (TMR-D), insulin, and the anti-VEGF aptamer loads. In addition, the stimuli-responsive Fe3+/2+-CMCMA cryogel is used to construct a bilayer-soft-robotic bending device. Bilayer composite consisting of thermoresponsive poly-N-isopropylacrylamide (pNIPAM)/Fe3+/2+-CMCMA, or pNIPAM/PS-I-loaded-Fe3+/2+-CMCMA devices are assembled. Swit…",
-      "authors": "Jiang-He Zhao, Yunlong Qin, Muhammad Abdel-haq et al.",
+      "authors": "Jiang-He Zhao, Yunlong Qin, Muhammad Abdel-Haq et al.",
       "published": "2026",
       "venue": "ACS Applied Materials and Interfaces",
       "feedName": "Lab Research",

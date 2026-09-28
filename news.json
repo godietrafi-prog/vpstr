@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-28T00:08:43Z",
+  "updated": "2026-09-28T08:01:55Z",
   "items": [
     {
       "title": "Food packaging claims need to be earned",
@@ -202,6 +202,16 @@
       "screen": "left"
     },
     {
+      "title": "Active pectin–chitosan films from Spanish lime (Melicoccus bijugatus) shell pectin containing Pimenta racemosa essential oil nanoemulsions for sustainable food packaging",
+      "abstract": "IntroductionIn response to the widespread use and environmental impacts of conventional plastic food packaging, there is growing interest in biodegradable alternatives derived from renewable resources, including agricultural waste. Although pectin is widely investigated for sustainable packaging applications, it is predominantly sourced from citrus and apple by-products, while tropical agro-waste streams remain comparatively underexplored as alternative pectin sources. This study investigated pectin extracted from Spanish lime (Melicoccus bijugatus) shell waste as a polymer source for pectin-chitosan films incorporating nanoemulsified Pimenta racemosa essential oil (BLEO) for potential fresh-produce packaging applications.MethodsThe films were characterized for structural, mechanical, barrier, antioxidant and antimicrobial properties, and their preliminary applicability was assessed qualitatively using tomatoes.ResultsBLEO incorporation (0.5–1.5%) increased antioxidant activity by up to fivefold and enhanced antimicrobial activity against Escherichia coli, Salmonella spp. and Listeria monocytogenes compared with the control film (0% BLEO). FTIR and XRD analyses indicated that the BLEO modified the polymer network, resulting in reductions in tensile strength from 16.20 to 6.88 MPa and Young’s modulus from 597.91 to 133.65 MPa, while elongation at break increased from 12.86% to 20.48%. Oxygen permeability increased from 1.05 to 8.02 cm3 μm m-2 d-1 kPa-1, whereas water vapor permeability exhibited a non-linear response. In the preliminary tomato storage assessment, coated frui…",
+      "authors": "Che John, Akeem Mohammed, Rohanie Maharaj",
+      "published": "Sep 2026",
+      "feedName": "Frontiers Food Science",
+      "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.1944480",
+      "image": "",
+      "screen": "left"
+    },
+    {
       "title": "Smart preservation with cold plasma technology: enhancing safety and storage of meat-based hummus next-generation preservation of meat-based hummus using cold plasma",
       "abstract": "The present study was conducted to evaluate the potential of cold plasma technology as a novel preservation approach for extending the shelf-life of meat-based hummus and to compare its effectiveness with conventional antimicrobial interventions under refrigerated storage conditions. Several preliminary trials were conducted to optimize the formulation and processing conditions for development of meat-based hummus. A well-accepted formulation was prepared by replacing 50% chickpea paste with minced lamb meat, followed by cooking for 20 min. The shelf-life extension of meat-based hummus was attempted using different antimicrobial treatments, including T1-meat-based hummus incorporated with 0.4% sodium acid sulfate; T2-meat-based hummus incorporated with 0.1% sodium benzoate +0.1% potassium sorbate; and T3-meat-based hummus treated with cold plasma (0.7 cm product thickness for 3 min), compared with untreated control (C). The treated samples were stored under refrigerated conditions (4 °C ± 1 °C) and evaluated for physicochemical quality parameters (pH, TBARS, and instrumental color profile including L*, a*, and b* values) along with microbiological quality assessment. Total plate count (TPC) and Listeria monocytogenes count were evaluated during storage to determine the antimicrobial efficacy of different preservation treatments. The pH values of T1 were significantly (P < 0.05) lower than control and other treatments throughout storage, indicating effective acidification by sodium acid sulfate. TBARS values increased significantly (P < 0.05) in all samples during storage; h…",
       "authors": "Meena Goswami, Rishav Kumar, Xin Mei Teng et al.",
@@ -228,16 +238,6 @@
       "published": "Sep 2026",
       "feedName": "Frontiers Food Science",
       "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.1931313",
-      "image": "",
-      "screen": "left"
-    },
-    {
-      "title": "Anti-nutritional factors in plant-derived milk: a review on effects and effective reduction methods",
-      "abstract": "Growing consumer demand for healthy and sustainable food options has increased the consumption of plant-based milk alternatives (PBMAs) to unprecedented levels. While PBMAs offer nutritional and functional variety to consumers, their formulations differ in nutritional quality and nutrient bioavailability due to varying concentrations of antinutritional factors (ANFs). Classes of ANFs include phytic acid, tannins, oxalates, saponins, lectins, and protease inhibitors. Herein, we review the presence, mechanisms of action, nutritional importance, and processing-induced fate of major ANFs in plant-based milk matrices. Special consideration is given to differentiating between results reported for raw plant materials and those reported for laboratory-prepared and commercially available PBMAs, as extraction, soaking, germination, filtration, thermal processing, fermentation, enzymatic hydrolysis, and other processing treatments can significantly alter residual ANF concentrations and bioavailability. Where possible, reported evidence of ANF reduction is quantitatively consolidated by major processing approach. Comparison of methods also considers efficacy, nutritional and sensory implications, time requirements, scalability, cost, environmental impact, and concomitant loss of desirable nutrients and bioactive compounds. The determinants of the nutritional outcomes of residual ANFs are also discussed, including mineral fortification and supplementation, phytase activity, ANF–ANF interactions, protein–phenolic and mineral–phytate complexation, gastrointestinal digestion, and microbiot…",
-      "authors": "Nutakki Govardhini, Sonia Morya, Farhang Hameed Awlqadr et al.",
-      "published": "Sep 2026",
-      "feedName": "Frontiers Food Science",
-      "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.1935548",
       "image": "",
       "screen": "left"
     },
@@ -362,6 +362,16 @@
       "screen": "left"
     },
     {
+      "title": "New metal-free molecules glow deep red in water and boost MRI contrast in test images",
+      "abstract": "Bioimaging technologies, such as fluorescence imaging (FI) and magnetic resonance imaging (MRI), are powerful tools in basic research and clinical medicine. But they have drawbacks. FI allows researchers to visualize cells and other biological processes at high resolution, but it lacks imaging depth. MRI can capture images deep within the body, but it lacks the single-cell resolution provided by FI. Furthermore, MRI contrast agents contain paramagnetic metals, such as gadolinium, that can potentially cause adverse side effects.",
+      "authors": "",
+      "published": "Sep 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-09-metal-free-molecules-deep-red.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/a-new-metal-free-and-w.jpg",
+      "screen": "right"
+    },
+    {
       "title": "Pumpkin-derived enzyme weakens peanut proteins' binding to allergy antibodies in lab tests",
       "abstract": "Peanut allergy is one of the most serious food allergies and can lead to sudden, life-threatening reactions. Researchers from Wroclaw University of Environmental and Life Sciences, in collaboration with Wroclaw Medical University, investigated whether a natural enzyme obtained from figleaf gourd (Cucurbita ficifolia) could reduce recognition of peanut proteins by antibodies involved in allergic reactions.",
       "authors": "",
@@ -389,16 +399,6 @@
       "feedName": "Phys.org Analytics",
       "url": "https://phys.org/news/2026-09-century-solvent-enable-efficient-amide.html",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/chonnam-university-res.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "Molecular switch-up: Bacteria remodel a peptide to take on new role",
-      "abstract": "Remodeling may bring to mind construction crews and scaffolding, but the process is far from unique to buildings. Even molecules can be remodeled. Pandorachelins, newly discovered molecules produced by Pandoraea bacteria, are one example.",
-      "authors": "",
-      "published": "Sep 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-09-molecular-bacteria-remodel-peptide-role.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/molecular-switch-up-ba.jpg",
       "screen": "right"
     },
     {
@@ -482,42 +482,42 @@
       "screen": "right"
     },
     {
-      "title": "Feeding the estrobolome with sweet prebiotics?",
-      "abstract": "BackgroundSweeteners are widely consumed, yet their effects on the gut microbiota remain incompletely characterized, while their potential influence on the estrobolome has received little direct investigation. Although many sweeteners are absorbed in the small intestine, a variable fraction reaches the colon, where it interacts with the gut microbiota. Some sweeteners may also meet the definition of a prebiotic when they are selectively utilized by host microorganisms and such utilization confers a demonstrated health benefit. Because the estrobolome encompasses microbial genes encoding estrogen-metabolizing enzymes, including β-glucuronidases and sulfatases, sweetener-induced changes in gut microbial composition or function could plausibly influence enterohepatic estrogen metabolism and systemic estrogen availability.MethodsThis narrative review synthesizes current evidence on the effects of different sweeteners on the gut microbiota and examines their potential implications for the estrobolome. We summarize the consensus definition of prebiotics, the classification, metabolism, and colonic availability of major sweeteners, and review the biological basis of the estrobolome, with particular emphasis on microbial estrogen metabolism.ResultsExperimental and human studies indicate that individual sweeteners can modify gut microbial composition and metabolic activity, but the direction and magnitude of these effects vary substantially according to the compound, dose, study model, and host context. However, direct studies evaluating the impact of sweeteners on estrobolome funct…",
-      "authors": "Lorenzo Agoni, Canio Martinelli, Salvatore Cortellino et al.",
+      "title": "Editorial: Food-derived plant polysaccharides: composition, bioavailability and health-promoting properties",
+      "abstract": "",
+      "authors": "Abul Hossain",
       "published": "Sep 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1957439",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1984551",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Effects of higher versus lower protein intake in critically ill patients: a systematic review and meta-analysis",
-      "abstract": "BackgroundThe optimal protein dose for critically ill patients remains uncertain, and emerging evidence suggests that the effects of higher protein intake may differ across clinically relevant subgroups.MethodsPubMed, Embase, Web of Science, Scopus, and the Cochrane Library were searched for randomized controlled trials (RCTs) evaluating protein delivery in critical illness adults (up to July 2026). Higher and lower protein groups were defined according to each trial’s original allocation. Primary outcome was all-cause mortality. Secondary outcomes included mechanical ventilation (MV) duration, Intensive care unit (ICU) length of stay (LOS), muscle outcomes, health-related quality of life (HRQoL), biochemical outcomes, and adverse events. Results were reported as risk ratios (RRs) or mean difference (MD) and 95% confidence intervals (CIs). Trial Sequential Analysis (TSA) was performed to control for random error, and the certainty of evidence was rated using the GRADE framework.ResultsThirty three RCTs involving 11,622 participants were included. No significant differences were observed between higher and lower protein groups for all-cause mortality (RR 1.02, 95% CI 0.97 to 1.08), MV duration (MD −0.48, 95% CI −1.08 to 0.13), or ICU LOS (MD −0.18, 95% CI −0.86 to 0.51), with TSA confirming these null findings. Some muscle metrics favored the higher protein group; however, there was a trend towards poorer HRQoL (SMD −0.12, 95% CI −0.24 to 0.00). The higher protein group showed improved nitrogen balance (MD 5.58, 95% CI 2.89 to 8.27) and higher serum albumin levels (SMD 0.18,…",
-      "authors": "Shige Li, Yusheng Hou, Xinyu Li et al.",
+      "title": "Caregiver burden and malnutrition in patients with HIV-associated lymphoma: indirect pathways via symptom distress and family closeness, and a test of resilience as a mediator",
+      "abstract": "Background and objectiveMalnutrition is a frequent and clinically significant complication in patients with HIV-associated lymphoma, adversely affecting treatment tolerance, prognosis, and quality of life. Although disease-related and immunological determinants of malnutrition have been widely reported, the potential psychosocial pathways—particularly the role of caregiver burden—in patients with HIV-associated lymphoma remain insufficiently characterized. This study aimed to identify key determinants of malnutrition and to examine whether caregiver burden exerts indirect effects through symptom distress and psychosocial factors.MethodsThis single-center cross-sectional study included 200 patients with HIV-associated lymphoma and their family caregivers. Nutritional status was assessed using the Patient-Generated Subjective Global Assessment (PG-SGA), with the total score analyzed as a continuous outcome. Symptom burden, caregiver burden, psychological resilience, and family closeness were assessed using standardized instruments. Univariable and multivariable linear regression analyses were conducted using HC3 heteroscedasticity-consistent inference. Indirect statistical associations were examined using bootstrap analyses, followed by exploratory subgroup and sensitivity analyses.ResultsHigher symptom burden and IPI risk were associated with higher PG-SGA total scores, whereas higher CD4 + T-cell counts and serum albumin concentrations were associated with lower scores (all p ≤ 0.005). Age, sex, and caregiver burden were not independently associated with PG-SGA score. Explo…",
+      "authors": "Tingting Liu, Jing Lv, Luxiang Xu et al.",
       "published": "Sep 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1900749",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1921747",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Wearable abdominal acoustic biofeedback for dietary self-regulation among Taiwanese university students: an exploratory randomized pilot study",
-      "abstract": "BackgroundManual dietary self-monitoring can impose a burden on university students, limiting sustained engagement with digital nutrition tools. AbSound was developed as a wearable abdominal-acoustic biofeedback system that converts candidate gastrointestinal sound events into uncertainty-aware reflective prompts, rather than validated diagnoses of hunger, satiety, dietary intake, diet quality, or eating speed. This exploratory, randomized pilot study assessed feasibility, acceptability, user experience, preliminary self-reported behavioral signals, and agreement in acoustic event detection among Taiwanese university students.MethodSixty first- and second-year university students in Taipei were randomized 1:1 to AbSound plus a companion app or to an active app-based dietary-tracking comparator for 4 weeks. Primary feasibility outcomes included retention, daily wear time, days worn, prompt exposure, prompt acknowledgment, reported burden, and adverse events. Exploratory behavioral outcomes included self-reported late-night eating, perceived eating speed, a brief dietary-quality score, self-regulation of eating behavior, weight, and waist circumference. TAM ratings, Kano feature classifications, brief interviews, and descriptive acceptance-path analyses characterized adoption and design priorities. Acoustic performance was evaluated post hoc against selected manually reviewed event segments.ResultsAll participants completed follow-up. AbSound users wore the device for 9.2 ± 2.2 h per day on 25.7 ± 2.0 of 28 study days, corresponding to approximately 91.8% of possible study da…",
-      "authors": "Chen Han, Sheng-Ming Wang, Chuan-Chia Wang et al.",
+      "title": "Association of first-month beta-hydroxybutyrate levels with subsequent ketogenic diet response in children with drug-resistant epilepsy: a prospective cohort study",
+      "abstract": "BackgroundKetogenic diet therapy (KDT) is an established treatment for children with drug-resistant epilepsy (DRE), but the prognostic value of early blood beta-hydroxybutyrate (BHB) during diet stabilization remains uncertain.MethodsThis single-center prospective cohort study enrolled children with DRE who initiated classical KDT at Peking University First Hospital between June 2023 and January 2025. First-month BHB was defined as the mean of two fasting pre-breakfast BHB measurements obtained during the final week of the first month after KDT initiation. Continuous first-month BHB was analyzed in relation to 3-month seizure reduction. An exploratory group-based analysis used a 3.0 mmol/L cutoff. The primary outcome was 3-month treatment response, defined as ≥50% seizure reduction from baseline. Later response and retention were summarized descriptively.ResultsOf 40 screened children, 38 were analyzed (19 per group). Seizure type differed between groups (p = 0.028). At 3 months, response was 42.1% (8/19) in the higher-BHB group and 52.6% (10/19) in the lower-BHB group, with an absolute risk difference of −10.5 percentage points (95% CI, −38.1 to 19.6), risk ratio of 0.80 (95% CI, 0.41–1.58), and unadjusted OR of 0.65 (95% CI, 0.18–2.36). The adjusted OR was 0.64 (95% CI, 0.13–3.09; p = 0.575). Continuous BHB showed no clear monotonic association with 3-month seizure reduction (Spearman ρ = −0.105; p = 0.532). Overall treatment response was 47.4, 39.5, 26.3, and 26.3% at 3, 6, 9, and 12 months, respectively. Adverse events occurred in 13 patients (34.2%) and did not lead to…",
+      "authors": "Quanzhen Tan, Shuqian Zhang, Yulan Li et al.",
       "published": "Sep 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1799873",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1923059",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Aerobic exercise, whey protein, and creatine in adolescents: implications for performance, recovery, immunometabolic adaptation, and muscle–bone–brain crosstalk",
-      "abstract": "Adolescence constitutes a pivotal developmental phase for the enhancement of musculoskeletal and metabolic wellbeing, as well as neurodevelopment, during which specific exercise regimens and nutritional interventions can precipitate enduring physiological transformations. Although aerobic exercise has conventionally been linked to enhancements in cardiovascular fitness and metabolic control, the confluence of this form of exercise with anabolic and ergogenic supplements, including whey protein and creatine, in adolescent populations has not been extensively investigated. This narrative review examines current evidence on aerobic exercise, whey protein, and creatine in adolescents, with particular emphasis on exercise performance, recovery, immunometabolic adaptation, and muscle–bone–brain crosstalk. A narrative literature search was conducted in PubMed, Scopus, Web of Science, and Google Scholar using combinations of terms related to aerobic exercise, whey protein, creatine, adolescents, exercise performance, recovery, immunometabolism, and muscle–bone–brain signaling. Relevant peer-reviewed studies published from database inception to May 2026 were considered, with emphasis on adolescent human studies and selected mechanistic evidence from experimental and adult populations when directly relevant to biological interpretation. Aerobic exercise promotes oxidative metabolic processes, mitochondrial functionality, and endurance performance, thereby enhancing mitochondrial biogenesis and metabolic flexibility. Whey protein supplies critical amino acids that incite muscle protei…",
-      "authors": "Kun Qin, Juan Wu",
+      "title": "The effect of exercise snacks on cardiorespiratory fitness, body composition, metabolic health, and muscle strength in sedentary individuals: a systematic review and meta-analysis",
+      "abstract": "ObjectiveThis systematic review and meta-analysis aimed to investigate the effects of exercise snacks (ES) on cardiorespiratory fitness, body composition, metabolic health, and muscle strength in sedentary individuals.MethodsFrom database inception to February 5, 2026, four international databases (PubMed, Web of Science, SciELO, and the Cochrane Central Register of Controlled Trials) and one Chinese database (China National Knowledge Infrastructure) were searched. The GRADE approach was used to assess the certainty of evidence, while the Cochrane Risk of Bias tools (RoB 2) and Risk of Bias In Non-randomized Studies of Intervention (ROBINS-I) were applied to evaluate the quality of randomized controlled trials and non-randomized studies, respectively. The pooled effects of study outcomes were estimated using a random-effects model based on meta-analysis. Subgroup analyses and meta-regression were conducted to explore potential moderating variables.ResultsA total of 22 studies involving 994 participants were included. The meta-analysis showed that ES significantly improved VO2max (Hedges’ g = 1.24, 95% CI: 0.53 to 1.95, p < 0.001, I2 = 75.0%, τ2 = 1.13), VO2peak (Hedges’ g = 0.63, 95% CI: 0.05 to 1.22, p < 0.05, I2 = 55.0%, τ2 = 0.19), triglycerides (Hedges’ g = 1.05, 95% CI: 0.05 to 2.06, p < 0.05, I2 = 84.0%, τ2 = 0.65), and blood glucose (Hedges’ g = −0.83, 95% CI: −1.51 to −0.15, p < 0.05, I2 = 78.0%, τ2 = 0.69) in sedentary populations. However, significant publication bias was detected for VO2max, and the trim-and-fill analysis yielded an adjusted effect estimate that …",
+      "authors": "Kai Qi, Qiyi Wang, Decheng Xu et al.",
       "published": "Sep 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1915252",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1883923",
       "image": "",
       "screen": "right"
     },
@@ -899,86 +899,6 @@
       "researcher": {
         "name": "Gilad Davidson-Rozenfeld",
         "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=vh7tqKQAAAAJ"
-      }
-    },
-    {
-      "title": "The effect of simulation training on the counseling skills of nutritional science students in dietetic internships",
-      "abstract": "Simulations are a common tool in training aircrews, medical personnel and educators, providing experience in scenarios from the relevant content area and expanding the range of responses that simulation participants can acquire before they enter the field. Simulations have also been used in dietetic internships to improve clinical counseling skills. However, the use of structured simulations that involve progressive, multisession patient interactions has not been extensively studied in the context of dietetic internships. This study employed consecutive scenario models where interns developed ongoing interactions with the same simulated patient over multiple sessions, representing a significant methodological innovation in the field. A mixed method methodology was used to analyze closed and open-ended questionnaires which were administered to twenty-one interns, simulation actors and professional dietitians. This pilot study demonstrates the effectiveness of group and individual simulation training in enhancing dietetic interns’ counseling skills during their training and describes how simulation can contribute to both the professional skills and self-efficacy required to lead a counseling session. These findings will enable additional academic departments to examine the integration of simulation into the training programs of interns in tracks that include a practicum.",
-      "authors": "I. Linder, Zafit Lukach, Keren Pergament et al.",
-      "published": "2025",
-      "venue": "BMC Medical Education",
-      "feedName": "Lab Research",
-      "citationCount": 1,
-      "recentCitations": 0,
-      "quartile": "Q1",
-      "s2_paper_id": "5ee7aceac233a82917e92f646d2284fffcfd28b2",
-      "url": "https://doi.org/10.1186/s12909-025-07674-x",
-      "image": "",
-      "screen": "both",
-      "lab_paper": true,
-      "researcher": {
-        "name": "Rafi Steckler",
-        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=BOhLTM0AAAAJ"
-      }
-    },
-    {
-      "title": "The Anticonvulsant Effects of Different Cannabis Extracts in a Zebrafish Model of Epilepsy",
-      "abstract": "Epilepsy is a widespread neurological disorder that remains a critical global public health challenge. While numerous antiepileptic drugs (AEDs) are available, many patients either fail to achieve adequate seizure control or experience significant side effects. One promising alternative is pure cannabidiol (CBD), but using a whole cannabis extract may be equally effective and preferred for some patients. In the current study, we employed the pentylenetetrazole (PTZ)-induced hyperactivity model in zebrafish to compare the effects of CBD with various cannabis extracts. We evaluated three cannabis strains, each subjected to three different extraction methods, and benchmarked the results against the commercially available AED valproic acid (VPA). Our findings revealed that 5.7 µg/mL of CBD and 10 µg/mL of different extracts significantly reduced movement compared to PTZ and VPA. In addition, effective extracts produced effects similar to pure CBD despite containing much lower molecule levels. These results reinforced and expanded previous evidence supporting the clinical potential of both CBD and whole cannabis extracts for seizure control while suggesting a possible entourage effect. Further research is necessary to determine which patients may benefit more from pure CBD versus those who might prefer whole cannabis extracts.",
-      "authors": "Karen Jackson, Maytal Shabat-Simon, J. Bar-on et al.",
-      "published": "2025",
-      "venue": "Biomolecules",
-      "feedName": "Lab Research",
-      "citationCount": 4,
-      "recentCitations": 0,
-      "quartile": "Q1",
-      "s2_paper_id": "e8d95d5b119ba86262a480c8753459d85b64d105",
-      "url": "https://doi.org/10.3390/biom15050654",
-      "image": "",
-      "screen": "both",
-      "lab_paper": true,
-      "researcher": {
-        "name": "Rafi Steckler",
-        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=BOhLTM0AAAAJ"
-      }
-    },
-    {
-      "title": "Physiological Impacts of Energy Drink Consumption: A Clinical Analysis in Adolescents",
-      "abstract": "Energy drink (ED) consumption among Israeli-Arab adolescents is widespread. This study aimed to investigate the acute glycemic and insulin effects of EDs in healthy adolescents. Seventy-one Israeli-Arab adolescents (56% girls, average age 16.04 ± 1.03 years) participated in a non-randomized, case-controlled, open-label study. Participants consumed ED (n = 36) or a volume- and carbohydrate-matched non-caffeinated soft drink (SD, n = 35), followed by a 2 h glucose tolerance test. Blood glucose was measured at baseline and 15, 30, 60, and 120 min post-consumption (T0, T15, T30, T60 and T120, respectively). Serum insulin concentration and caffeine relative intensity were determined 45 min post-consumption (T45). Blood glucose levels peaked significantly at T15 and remained significantly higher at T30 in the ED group compared to the SD group (p = 0.005, p = 0.017, respectively). Insulin concentrations were substantially higher at T45 in the ED group (t [64] = 2.794, p = 0.001). This pattern was especially prominent in heavy ED consumers. A positive correlation emerged between the amount of caffeine consumed (mg/kg), blood glucose levels at T15 and T30, and insulin concentration at T45. This study is the first to demonstrate the glycemic and insulin responses to ED consumption in adolescents, suggesting that regulatory measures limiting ED sales to adolescents could improve their health.",
-      "authors": "Gilad Naveh, Bshara Mansour, Mahmoud Bader et al.",
-      "published": "2024",
-      "venue": "Nutrients",
-      "feedName": "Lab Research",
-      "citationCount": 7,
-      "recentCitations": 0,
-      "quartile": "Q1",
-      "s2_paper_id": "b97e4acafc9606b86df3bd0c797faa7fbcf900b7",
-      "url": "https://doi.org/10.3390/nu16142328",
-      "image": "",
-      "screen": "both",
-      "lab_paper": true,
-      "researcher": {
-        "name": "Rafi Steckler",
-        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=BOhLTM0AAAAJ"
-      }
-    },
-    {
-      "title": "Disrupted gut harmony in attention-deficit/hyperactivity disorder: Dysbiosis and decreased short-chain fatty acids",
-      "abstract": "Background Attention-Deficit Hyperactivity Disorder (ADHD) is a prevalent neurodevelopmental disorder with complex genetic and environmental underpinnings. Emerging evidence suggests a significant role of gut microbiota in ADHD pathophysiology. This study investigates variations in gut microbiota composition and Short-Chain Fatty Acid (SCFA) profiles between children and adolescents with ADHD and healthy controls. Methods The study included 42 ADHD patients and 31 healthy controls, aged 6–18 years. Fecal samples were analyzed for microbial composition using 16S rRNA gene sequencing and for SCFA profiles through gas chromatography-mass spectrometry (GC-MS). The study assessed both α and β diversity of gut microbiota and quantified various SCFAs to compare between the groups. Results ADHD subjects demonstrated significantly reduced gut microbiota diversity, as indicated by lower α-diversity indices (Shannon index, Observed species, Faith PD index) and a trend towards significance in β-diversity (Weighted UniFrac). Notably, the ADHD group exhibited significantly lower levels of key SCFAs, including acetic, propionic, isobutyric, isovaleric, and valeric acids, highlighting a distinct microbial and metabolic profile in these individuals. Conclusion This study uncovers significant alterations in gut microbiota and SCFA profiles in children with ADHD, compared to healthy controls. The observed changes in SCFAs, known for their associations with other behavioral and neurologic pathologies, and for their role in neural signaling. These findings offer a metabolite fingerprint that co…",
-      "authors": "Rafi Steckler, F. Magzal, M. Kokot et al.",
-      "published": "2024",
-      "venue": "Brain, Behavior, & Immunity - Health",
-      "feedName": "Lab Research",
-      "citationCount": 20,
-      "recentCitations": 0,
-      "quartile": null,
-      "s2_paper_id": "e6bf6bc6dc39538aed6d5e9f0a2aad62f0702494",
-      "url": "https://doi.org/10.1016/j.bbih.2024.100829",
-      "image": "",
-      "screen": "both",
-      "lab_paper": true,
-      "researcher": {
-        "name": "Rafi Steckler",
-        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=BOhLTM0AAAAJ"
       }
     },
     {

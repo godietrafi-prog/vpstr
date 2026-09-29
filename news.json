@@ -1,6 +1,16 @@
 {
-  "updated": "2026-09-29T17:21:47Z",
+  "updated": "2026-09-29T21:47:30Z",
   "items": [
+    {
+      "title": "Zero hunger is not achievable without peace",
+      "abstract": "The UN Sustainable Development Goal 2 (SDG 2) aims to end global hunger by 2030. A rising burden of armed conflict now obstructs progress, pointing to the fundamental importance of preventing and ending armed conflict to get SDG 2 back on track.",
+      "authors": "Halvard Buhaug, Paola Vesco",
+      "published": "Sep 2026",
+      "feedName": "Nature Food",
+      "url": "https://www.nature.com/articles/s43016-026-01439-5",
+      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs43016-026-01439-5/MediaObjects/43016_2026_1439_Fig1_HTML.png",
+      "screen": "left"
+    },
     {
       "title": "Food packaging claims need to be earned",
       "abstract": "More than half of new products in the United States carry a health-related claim, while only a third are actually nutritious, possibly misleading consumers to overestimate their healthfulness.",
@@ -29,16 +39,6 @@
       "feedName": "Nature Food",
       "url": "https://www.nature.com/articles/s43016-026-01435-9",
       "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs43016-026-01435-9/MediaObjects/43016_2026_1435_Fig1_HTML.png",
-      "screen": "left"
-    },
-    {
-      "title": "The nitrogen costs of soil salinity",
-      "abstract": "Soil salinization threatens crop production and carries additional costs through lower nitrogen-use efficiency and greater reactive-nitrogen losses, strengthening the need to manage soil, water and nutrients together.",
-      "authors": "Paolo Tarolli, Roberta Masin",
-      "published": "Sep 2026",
-      "feedName": "Nature Food",
-      "url": "https://www.nature.com/articles/s43016-026-01434-w",
-      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs43016-026-01434-w/MediaObjects/43016_2026_1434_Fig1_HTML.png",
       "screen": "left"
     },
     {
@@ -92,32 +92,32 @@
       "screen": "left"
     },
     {
-      "title": "Characteristics and modification technologies of cereal and pseudocereal crop allergens: A comprehensive review",
+      "title": "Framework materials for edible oil safety: Advances in matrix-tolerant sensing, enrichment, and contaminant removal",
       "abstract": "",
-      "authors": "Yuntong Ying, Tanying Zhang, Jinshen Chu et al.",
+      "authors": "Xiyi Liu, Xiao Hu, Xiong Liu et al.",
       "published": "Dec 2026",
       "feedName": "Trends in Food Sci & Tech",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426005820?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426005923?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
     {
-      "title": "Evaluating sweetness-enhancement claims in sugar-reduced sweet bakery products: Matrix constraints and validation priorities",
+      "title": "Sugar reduction via W/O/W emulsions: Structural design, sensory modulation, and functional performance",
       "abstract": "",
-      "authors": "Shijue Zhang, Jinchan Xiao, Yue Ma et al.",
+      "authors": "Yingying Gu, Xiaojie Ma, Jinjin Zhu et al.",
       "published": "Dec 2026",
       "feedName": "Trends in Food Sci & Tech",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426005790?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426005807?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
     {
-      "title": "The phytochemicals of durian ( Durio zibethinus ) pulp and agricultural by-products: A systematic review of their benefits for metabolic health and bio-waste valorisation",
+      "title": "Mapping of digital transformation in the African agri-food trade system",
       "abstract": "",
-      "authors": "Nur Sahira Noorhashim, Azrina Azlan, Nur Azlin Razali",
+      "authors": "Juriaan Wolfers, Ayalew Kassahun, Cor Verdouw et al.",
       "published": "Dec 2026",
       "feedName": "Trends in Food Sci & Tech",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426005753?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S092422442600556X?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -362,6 +362,26 @@
       "screen": "left"
     },
     {
+      "title": "AI structure prediction speeds discovery of 'molecular glues' to treat disease",
+      "abstract": "A Baylor College of Medicine-led team has developed a strategy that combines the analysis of thousands of proteins with artificial intelligence to accelerate the discovery of small molecules called molecular glues to treat disease. Their approach, published in Nature Communications, has uncovered a new class of molecular glues that could neutralize harmful proteins linked to blood cancers and autoimmune diseases. The work also shows how AI-based structural modeling can help chemists optimize compounds well before experiments reveal how they work.",
+      "authors": "",
+      "published": "Sep 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-09-ai-discovery-molecular-disease.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/ai-structure-predictio.jpg",
+      "screen": "right"
+    },
+    {
+      "title": "A new family of materials for efficiently converting sunlight into clean energy",
+      "abstract": "Researchers at Oregon State University have developed a new family of materials that use light to produce hydrogen from water, opening the door to new ways of converting the sun's rays into clean energy.",
+      "authors": "",
+      "published": "Sep 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-09-family-materials-efficiently-sunlight-energy.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/sunlight.jpg",
+      "screen": "right"
+    },
+    {
       "title": "Two-color glowing molecule could make wind tunnel tests more accurate",
       "abstract": "Most sensors can measure only one thing at a time, like a thermometer for temperature or a pressure gauge for pressure. Measuring two properties accurately from the same surface at the same moment usually means using two separate instruments—adding cost and complexity to the process.",
       "authors": "",
@@ -379,26 +399,6 @@
       "feedName": "Phys.org Analytics",
       "url": "https://phys.org/news/2026-09-chemists-harness-ai-uncover-fast.html",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/organic-chemists-harne-2.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "New metal-free molecules glow deep red in water and boost MRI contrast in test images",
-      "abstract": "Bioimaging technologies, such as fluorescence imaging (FI) and magnetic resonance imaging (MRI), are powerful tools in basic research and clinical medicine. But they have drawbacks. FI allows researchers to visualize cells and other biological processes at high resolution, but it lacks imaging depth. MRI can capture images deep within the body, but it lacks the single-cell resolution provided by FI. Furthermore, MRI contrast agents contain paramagnetic metals, such as gadolinium, that can potentially cause adverse side effects.",
-      "authors": "",
-      "published": "Sep 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-09-metal-free-molecules-deep-red.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/a-new-metal-free-and-w.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "Pumpkin-derived enzyme weakens peanut proteins' binding to allergy antibodies in lab tests",
-      "abstract": "Peanut allergy is one of the most serious food allergies and can lead to sudden, life-threatening reactions. Researchers from Wroclaw University of Environmental and Life Sciences, in collaboration with Wroclaw Medical University, investigated whether a natural enzyme obtained from figleaf gourd (Cucurbita ficifolia) could reduce recognition of peanut proteins by antibodies involved in allergic reactions.",
-      "authors": "",
-      "published": "Sep 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-09-pumpkin-derived-enzyme-weakens-peanut.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/pumpkin-enzyme-could-h.jpg",
       "screen": "right"
     },
     {

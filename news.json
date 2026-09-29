@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-28T22:48:11Z",
+  "updated": "2026-09-29T03:24:36Z",
   "items": [
     {
       "title": "Food packaging claims need to be earned",
@@ -362,6 +362,16 @@
       "screen": "left"
     },
     {
+      "title": "Two-color glowing molecule could make wind tunnel tests more accurate",
+      "abstract": "Most sensors can measure only one thing at a time, like a thermometer for temperature or a pressure gauge for pressure. Measuring two properties accurately from the same surface at the same moment usually means using two separate instruments—adding cost and complexity to the process.",
+      "authors": "",
+      "published": "Sep 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-09-molecule-tunnel-accurate.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/two-color-glowing-mole.jpg",
+      "screen": "right"
+    },
+    {
       "title": "Organic chemists harness AI to uncover how fast chemical reactions proceed",
       "abstract": "Chemists routinely optimize reactions to maximize the yield of their desired products, but understanding why those reactions work can require laborious experiments that track reactions over time. Researchers at the University of Tokyo have developed a method to extract hidden information about reaction speeds from yield data obtained during reaction optimization, using machine learning and rate equations developed by chemists.",
       "authors": "",
@@ -389,16 +399,6 @@
       "feedName": "Phys.org Analytics",
       "url": "https://phys.org/news/2026-09-pumpkin-derived-enzyme-weakens-peanut.html",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/pumpkin-enzyme-could-h.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "Blood pressure enzyme reveals second job: Making sulfur rings for cellular antioxidants",
-      "abstract": "Antioxidants such as vitamins C and E protect cells by neutralizing free radicals, such as reactive oxygen species, before they can damage genetic material or cell membranes. Such damage can contribute to the development of neurodegenerative diseases. Antioxidants therefore help prevent cellular damage.",
-      "authors": "",
-      "published": "Sep 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-09-blood-pressure-enzyme-reveals-job.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/fighting-cell-death-wi.jpg",
       "screen": "right"
     },
     {

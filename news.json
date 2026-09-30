@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-30T14:32:39Z",
+  "updated": "2026-09-30T20:29:33Z",
   "items": [
     {
       "title": "Zero hunger is not achievable without peace",
@@ -42,42 +42,42 @@
       "screen": "left"
     },
     {
-      "title": "Cold plasma–induced oxidation of tannic acid enhances bactericidal activity via quinone-driven singlet oxygen generation",
+      "title": "Modulating the stability and rheological behavior of camellia oil body emulsions via pH regulation and different charged polysaccharide coatings",
       "abstract": "",
-      "authors": "Sunna Jyung, So-Seum Yong, Soo-Hwan Kim et al.",
+      "authors": "Tin Nyawe Nyawe Hlaing, Shahzad Farooq, Sumeng Wei et al.",
       "published": "Dec 2026",
       "feedName": "Food Chemistry",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626033467?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626033248?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
     {
-      "title": "Upcycling pomegranate juice by-products into a new oenological tannin: wine color stabilization and sensory enhancement through pre-fermentation addition",
+      "title": "The natural variations in chickpea antinutrient profiles influence the bioaccessibility of fat-soluble micronutrients in a test meal",
       "abstract": "",
-      "authors": "Silvia D'Agostino, Lorenzo Cecchi, Lapo Pierguidi et al.",
+      "authors": "Angélique Berthomé, Stéphane Georgé, Quentin Lambert et al.",
       "published": "Dec 2026",
       "feedName": "Food Chemistry",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626034485?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626032954?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
     {
-      "title": "Screening and identification of novel walnut-derived hypolipidemic peptides and evaluation of their hypolipidemic effects",
+      "title": "Comparing polysaccharides in microfluidic-fabricated Zein-based lutein ternary composite nanoparticles: enhanced stability, bioaccessibility and assembly mechanisms",
       "abstract": "",
-      "authors": "Hao Yu, Rongrong Jin, Bingna Li et al.",
+      "authors": "Zijian Qiu, Xueqing Pan, Yumeng Miao et al.",
       "published": "Dec 2026",
       "feedName": "Food Chemistry",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626034199?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626035065?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
     {
-      "title": "Combining molecular simulations and bitter receptor modelling reveals the bitter-taste mechanism of walnut protease hydrolysates",
+      "title": "Six-year quantitative NMR profiling of polyfloral honey from a single beekeeping area in Okayama: harvest-season-associated variation in minor components",
       "abstract": "",
-      "authors": "Li Zhang, Wan-Ying Gong, Wen-Jing Wang et al.",
+      "authors": "Kodai Makino, Yuka Honda, Takaya Sumida et al.",
       "published": "Dec 2026",
       "feedName": "Food Chemistry",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626035028?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626034801?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -152,12 +152,12 @@
       "screen": "left"
     },
     {
-      "title": "More alike than unalike: Contextually aligned authority arguments amplify sustainable choices across cultures",
+      "title": "Non-linear estimates of nutritional properties, driven by health biases, lead to systematic errors in caloric food choice",
       "abstract": "",
-      "authors": "Marcelo Cardenas, Juan Jose Cardenas, Bruno Schivinski et al.",
+      "authors": "Caroline G. Candy, Alex Martin, Jason A. Avery",
       "published": "Feb 2027",
       "feedName": "Food Quality & Preference",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0950329326002764?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S095032932600282X?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -362,6 +362,16 @@
       "screen": "left"
     },
     {
+      "title": "UV light locks radiation-detecting materials into durable, water-resistant films",
+      "abstract": "Florida State University researchers have developed a method to make a class of materials more robust and potentially easier to manufacture for advanced radiation detection devices, including those used in medical imaging and radiation therapy as well as space technologies.",
+      "authors": "",
+      "published": "Sep 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-09-uv-materials-durable-resistant.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2019/medicalimagi.jpg",
+      "screen": "right"
+    },
+    {
       "title": "Rethinking liquid hydrogen storage with metal-organic frameworks",
       "abstract": "Liquid hydrogen (LH₂) is attractive for long-distance energy transport because of its high volumetric energy density. But even well-insulated tanks cannot completely prevent heat from entering. As the liquid warms, hydrogen evaporates and pressure builds, leading to boil-off losses during storage and transport.",
       "authors": "",
@@ -389,16 +399,6 @@
       "feedName": "Phys.org Analytics",
       "url": "https://phys.org/news/2026-09-molecular-simulations-reveal-enzyme-recognition.html",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/molecular-simulations-1.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "AI structure prediction speeds discovery of 'molecular glues' to treat disease",
-      "abstract": "A Baylor College of Medicine-led team has developed a strategy that combines the analysis of thousands of proteins with artificial intelligence to accelerate the discovery of small molecules called molecular glues to treat disease. Their approach, published in Nature Communications, has uncovered a new class of molecular glues that could neutralize harmful proteins linked to blood cancers and autoimmune diseases. The work also shows how AI-based structural modeling can help chemists optimize compounds well before experiments reveal how they work.",
-      "authors": "",
-      "published": "Sep 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-09-ai-discovery-molecular-disease.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/ai-structure-predictio.jpg",
       "screen": "right"
     },
     {
@@ -482,32 +482,12 @@
       "screen": "right"
     },
     {
-      "title": "Patterns and predictors of infant and young child feeding practices among mothers of children aged 6–23 months in Plateau State, Nigeria: a mixed-methods comparison of nutrition intervention beneficiaries and non-beneficiaries",
-      "abstract": "BackgroundNigeria ranks second globally in the burden of stunted children, with 40% of children under five affected and poor infant and young child feeding (IYCF) practices as a primary contributor. This study assessed mothers' knowledge, attitudes, and feeding practices related to IYCF in Plateau State, Nigeria, comparing beneficiaries and non-beneficiaries of the Accelerating Nutrition Results in Nigeria (ANRiN) project, and identifying sociodemographic predictors associated with these outcomes.MethodsA mixed-methods cross-sectional design was employed. A total of 503 mothers of children aged 6–23 months completed structured questionnaires for quantitative analysis, while 8 focus group discussions and 12 key informant interviews provided qualitative data. Knowledge, attitude, and practice scores were computed with categorization (adequate/inadequate, positive/negative, good/poor). Data were analyzed using chi-square tests, independent t-tests, and multivariable logistic regression stratified by beneficiary status.ResultsThe overall prevalence of adequate knowledge was 21.1%, positive attitudes 91.4%, and good feeding practices 55.7%. Beneficiaries demonstrated significantly better practice scores than non-beneficiaries (mean 6.95 ± 1.42 vs. 6.34 ± 1.57, p < 0.001), while non-beneficiaries showed slightly higher attitude scores (3.68 ± 0.64 vs. 3.52 ± 0.77, p = 0.012). No significant difference in knowledge scores was observed. Maternal tertiary education was significantly associated with adequate knowledge in both groups (p < 0.01), while healthcare provider information w…",
-      "authors": "Demilade Osoteku, Abdulateef Salisu, Muyi Aina et al.",
+      "title": "Associations of metabolic dysfunction-associated steatotic liver disease and significant fibrosis phenotypes with glomerular hyperfiltration defined by indexed eGFR",
+      "abstract": "BackgroundTo examine associations of metabolic dysfunction-associated steatotic liver disease (MASLD) and significant fibrosis with glomerular hyperfiltration (GHF) defined from indexed estimated glomerular filtration rate (eGFR), accounting for body size.MethodsWe analyzed 9,140 NHANES participants and 721 adults from a Chinese clinical study. Liver phenotypes were G1 (no steatosis/no significant fibrosis), G2 (MASLD without significant fibrosis), and G3 (MASLD with significant fibrosis). Primary GHF was indexed eGFR above the survey-weighted age- and sex-specific 95th percentile of a low-risk NHANES reference, applied unchanged to both studies. BMI-adjusted Model 3 was central; metabolic adjustment and alternative GHF definitions were sensitivity analyses.ResultsIn NHANES Model 3, G2 and G3 had higher odds of GHF than G1 (OR 2.19, 95% CI 1.57–3.07; OR 2.46, 1.51–4.00), whereas G3 did not differ from G2 (OR 1.12, 0.74–1.70). In the identical fasting subsample, further metabolic adjustment attenuated G2 and G3 versus G1 (OR 1.94 and 2.08), while G3 versus G2 remained near the null. In China, G2 versus G1 was null, whereas G3 had higher odds than G1 and G2; however, G3 included only 29 participants and 8 events. NHANES findings were generally robust to indexed P90, age/sex/BSA-residual, and de-indexed sensitivity definitions.ConclusionIn NHANES, MASLD phenotypes were associated with higher odds of GHF after accounting for body size, whereas significant fibrosis showed no clear incremental association beyond MASLD. The fibrosis-related association observed in the Chinese clin…",
+      "authors": "Wen Tian, Jiameng Wang, Xueling Xu et al.",
       "published": "Sep 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1951497",
-      "image": "",
-      "screen": "right"
-    },
-    {
-      "title": "Malnutrition risk factors and a pre-post evaluation of a multicomponent management program in older inpatients with chronic heart failure: a single-centre retrospective study",
-      "abstract": "ObjectiveTo investigate nutritional impairment-related outcomes admission among hospitalized older patients with chronic heart failure (CHF) and to conduct a pre-post evaluation of the clinical effect of a unified multicomponent management program delivered to all enrolled patients during their inpatient stay.MethodsA single-centre retrospective observational study was split into two independent analytical parts. Part 1: Retrospective risk factor and model construction analysis: We screened 200 complete medical records of elderly CHF inpatients admitted from March 2023 to March 2024, stratified participants into nutritionally impaired (n = 71) and non-impaired (n = 129) groups based on combined admission GNRI + NRS2002 assessment using a pre-defined “and” algorithm: impaired if GNRI ≤98 and NRS2002 ≥ 3; non-impaired if GNRI >98 and NRS2002 < 3, then performed univariate, multicollinearity and multivariate logistic regression analyses to screen nutritional risk-related variables and construct an internally validated nomogram prediction model, only using cross-sectional admission data without repeated follow-up assessment. Uncontrolled inpatient before-after observational sub-study: All 200 enrolled patients received a unified full-hospital multicomponent management program, which was uniformly implemented from the first day of each patient’s admission throughout their entire hospital stay. Nutritional risk status, NYHA classification, Hb, CRP, and SAS scores were measured at two fixed time points: baseline (admission day, before intervention initiation) and discharge day (po…",
-      "authors": "Sujun Yu, Miaomiao Wan, Yuqi Li",
-      "published": "Sep 2026",
-      "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1905053",
-      "image": "",
-      "screen": "right"
-    },
-    {
-      "title": "Editorial: Nutritional status and nutritional support in hospitalized patients",
-      "abstract": "",
-      "authors": "Beata Jabłońska, Aurelio Lo Buglio, Natalia Świątoniowska-Lonc",
-      "published": "Sep 2026",
-      "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1998511",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1944355",
       "image": "",
       "screen": "right"
     },
@@ -518,6 +498,26 @@
       "published": "Sep 2026",
       "feedName": "Frontiers Nutrition",
       "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1869229",
+      "image": "",
+      "screen": "right"
+    },
+    {
+      "title": "A nomogram incorporating nutritional risk for predicting 31-day unplanned readmission in adults with type 2 diabetes mellitus using LASSO regression",
+      "abstract": "ObjectiveTo develop and validate a nomogram incorporating nutritional risk for predicting 31-day unplanned readmission in patients with type 2 diabetes mellitus (T2DM).MethodsThis retrospective study included 1,627 T2DM patients. A nomogram was constructed using least absolute shrinkage and selection operator (LASSO) regression on a training set (n = 1,139) and an internal hold-out set (n = 488). Predictors were selected from demographics, lifestyle, clinical, and nutritional parameters. Model performance was evaluated using ROC curves, calibration plots, and decision curve analysis.ResultsThe 31-day unplanned readmission rate was 18.50%. Six predictors were identified: smoking history, peripheral vascular disease in patients with type 2 diabetes mellitus (PVD in T2DM), diabetes duration, glycated hemoglobin (HbA1c), nutritional risk and neutrophil-to-lymphocyte ratio (NLR). The nomogram showed good discrimination in both training (AUC = 0.846; 95% CI: 0.814–0.878) and internal hold-out set (AUC = 0.817; 95% CI: 0.761–0.873), with acceptable calibration.ConclusionIn this single-center retrospective cohort, the nomogram demonstrated potential for predicting 31-day unplanned readmission in T2DM patients by integrating clinical, metabolic, inflammatory, and nutritional dimensions. Routine nutritional assessment at admission may help identify high-risk individuals; however, external validation in geographically and temporally diverse populations is necessary before clinical application.",
+      "authors": "Jing Cao, Qiumei Shi, Zikai Yu et al.",
+      "published": "Sep 2026",
+      "feedName": "Frontiers Nutrition",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1863130",
+      "image": "",
+      "screen": "right"
+    },
+    {
+      "title": "Malnutrition risk factors and a pre-post evaluation of a multicomponent management program in older inpatients with chronic heart failure: a single-centre retrospective study",
+      "abstract": "ObjectiveTo investigate nutritional impairment-related outcomes admission among hospitalized older patients with chronic heart failure (CHF) and to conduct a pre-post evaluation of the clinical effect of a unified multicomponent management program delivered to all enrolled patients during their inpatient stay.MethodsA single-centre retrospective observational study was split into two independent analytical parts. Part 1: Retrospective risk factor and model construction analysis: We screened 200 complete medical records of elderly CHF inpatients admitted from March 2023 to March 2024, stratified participants into nutritionally impaired (n = 71) and non-impaired (n = 129) groups based on combined admission GNRI + NRS2002 assessment using a pre-defined “and” algorithm: impaired if GNRI ≤98 and NRS2002 ≥ 3; non-impaired if GNRI >98 and NRS2002 < 3, then performed univariate, multicollinearity and multivariate logistic regression analyses to screen nutritional risk-related variables and construct an internally validated nomogram prediction model, only using cross-sectional admission data without repeated follow-up assessment. Uncontrolled inpatient before-after observational sub-study: All 200 enrolled patients received a unified full-hospital multicomponent management program, which was uniformly implemented from the first day of each patient’s admission throughout their entire hospital stay. Nutritional risk status, NYHA classification, Hb, CRP, and SAS scores were measured at two fixed time points: baseline (admission day, before intervention initiation) and discharge day (po…",
+      "authors": "Sujun Yu, Miaomiao Wan, Yuqi Li",
+      "published": "Sep 2026",
+      "feedName": "Frontiers Nutrition",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1905053",
       "image": "",
       "screen": "right"
     },
@@ -579,146 +579,6 @@
       "researcher": {
         "name": "Iris Zohar",
         "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=YVQd-pwAAAAJ"
-      }
-    },
-    {
-      "title": "Continuing Medical (Anatomy) Education Series: Organ Donation and Transplantation, a Means of Continuity of Functional and Independent Life and Living",
-      "abstract": "Diseases and disease processes are key components of life and living. The understanding and appreciation of this axiom will impact greatly on the quality and standard of human health and life. The human body is bedeviled by a myriad of diverse and large spectrum of pathologies. These vary from hereditary, infectious, inflammatory, metabolic, structural degradation, genetic alterations, neoplastic, toxicological injury, ageing and trauma. All these reduce the functionalities of the affected organ/ organ system. There are established first line management strategies for these pathologies, however more often than not, they may not suffice. At this stage, the replacement of such organ becomes the only option for optimal quality of life or continuity of life. This can only be achieved through tissue and organ donation and transplantation. Over the decades, steady advancements are being made in the medical field of human tissue and organ donation and transplantation. Thus it becomes pertinent for students of human medicine to be well and adequately educated on the issues that relate to the donations of human tissues and organs and their transplantation. Such issues covered in this article include global statistics on organ donation and transplantation; historical antecedents of organ donation and transplantation; sources of organ transplants; tissue transplants; set guidelines and standards by The World Health Organization, The European Parliamentary Research Services and The Federal Ministry of Health and Social Welfare Nigeria.",
-      "authors": "R. S. Ajani, Ogheneochuko E. Akpobome, O. Benjamin et al.",
-      "published": "2026",
-      "venue": "Asian Journal of Medicine and Health",
-      "feedName": "Lab Research",
-      "citationCount": 0,
-      "recentCitations": 0,
-      "quartile": null,
-      "s2_paper_id": "1bc5b0dbc004a22568a84204d4f85fc6770e5354",
-      "url": "https://doi.org/10.9734/ajmah/2026/v24i31361",
-      "image": "",
-      "screen": "both",
-      "lab_paper": true,
-      "researcher": {
-        "name": "Ofir Benjamin",
-        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=FsjV0oIAAAAJ"
-      }
-    },
-    {
-      "title": "Effect of Quinoa Protein Concentrate in Particulate and Fibrillar Forms on the Physico-Chemical Properties of Quinoa Starch Gels",
-      "abstract": "The current study investigates the interactions between quinoa protein—both in particulate (protein concentrate, QPC) and fibrillar (QPF) forms—and quinoa starch (QS) gels, and how these interactions influence the thermal, pasting, and rheological properties of the gels. Gels were made by adding three different concentrations of QPC or QPF to a 10% QS dispersion (10, 25, and 50% w/w of starch). DSC results suggested an enhancement of amylopectin thermal stability and an acceleration of retrogradation upon a cooling stage by the addition of quinoa protein. FTIR spectra indicated that QS and QPC/QPF mostly interacted through hydrogen bonds. According to rheological measurements, in contrast to the increased G′ due to the addition of QPC (50%), only a slight increase in G′ was observed due to the addition of QPF (50%). Notably, this study is the first to directly compare the effects of QPC and QPF on starch gel properties, revealing that QPC markedly enhances gel elasticity. These findings highlight the potential application of the optimized quinoa starch-protein-based gels as functional ingredients in plant-based meat analogues, where improved textural and nutritional attributes are critical.",
-      "authors": "Shir T Segev, Eden Eran-Nagar, G. Rytwo et al.",
-      "published": "2025",
-      "venue": "Food and Bioprocess Technology",
-      "feedName": "Lab Research",
-      "citationCount": 4,
-      "recentCitations": 0,
-      "quartile": "Q1",
-      "s2_paper_id": "034d8c4f0c0f5607a4e6727360aa5d7287e60d5b",
-      "url": "https://doi.org/10.1007/s11947-025-03873-y",
-      "image": "",
-      "screen": "both",
-      "lab_paper": true,
-      "researcher": {
-        "name": "Ofir Benjamin",
-        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=FsjV0oIAAAAJ"
-      }
-    },
-    {
-      "title": "Relationships Between Chemical Compounds and Sensory Properties of Virgin Olive Oil in the US and Israel: Development of a Prediction Model for Defects",
-      "abstract": "Virgin olive oil (VOO) quality is defined by both chemical and sensory parameters. While the chemical parameters are objective and measured using instrument-based methods, sensory quality evaluation is based upon human panels, which can be subjective, have less repeatability, suffer from fatigue, and require long and costly training. Tasting biases could be minimized by a trained panel, but using humans as a testing instrument is inevitably prone to various psychological biases, stimulus-related factors, and carry-over effects. The objectives of this study were to evaluate instrumental methodologies that will assist the existing human panel in assessing the sensory characteristics of VOO and to develop chemistry-based predicting models for sensory properties in the oil using VOO samples originating from the US and Israel. Our results indicated that oil rancidity highly correlated with the contents of chemical components contents; 1-penten-3-one, 3-hexen-1-ol, (E)-2-pentanal, and 1-octen-3-ol are the major volatiles associated with rancidity defects (low concentrations of these compounds). Positive sensory attributes, such as fruitiness, correlated with 1- acetoxypinoresinol and hexanal, while bitterness correlated with pinoresinol, the aldehydic form of oleuropein aglycones, and the dialdehydic form of oleuropein aglycone. The random forest model suggested that luteolin, (E)-2-hexenal, 1-penten-3-one, and C18:0 are the most useful measurements in predicting the occurrence of sensory defects in the olive oil samples included. In other words, when these compounds are below or…",
-      "authors": "M. Calatayud, Xueqi Li, Arnon Dag et al.",
-      "published": "2024",
-      "venue": "Journal of Agricultural and Food Chemistry",
-      "feedName": "Lab Research",
-      "citationCount": 4,
-      "recentCitations": 0,
-      "quartile": "Q1",
-      "s2_paper_id": "2daf7bffd81d6b4f740d63bf18644047b1466c1f",
-      "url": "https://doi.org/10.1021/acs.jafc.4c06012",
-      "image": "",
-      "screen": "both",
-      "lab_paper": true,
-      "researcher": {
-        "name": "Ofir Benjamin",
-        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=FsjV0oIAAAAJ"
-      }
-    },
-    {
-      "title": "Synergistic effects of biochar and poultry manure on soil and cucumber (Cucumis sativus) performance: A case study from the southeastern Nigeria",
-      "abstract": "This study explores the suitability of different biomass feedstocks for biochar production and their effects on soil health and crop yield. Two planting seasons were conducted, involving cucumber as the test crop and eleven treatments combining biochar and poultry manure. Soil analysis revealed initial soil conditions with high sand content and low pH. Poultry manure and biochar exhibited pH, organic carbon, and nutrient level variations. Significant differences in cucumber growth and yield were observed, with the longest vine length in plots treated with palm kernel husk biochar and poultry manure. Residual effects in the second planting season displayed similar trends. Soil pH, organic carbon, and total nitrogen remained consistent between seasons, while available phosphorus increased significantly in plots amended with goat manure biochar and poultry manure. Calcium, magnesium, potassium, and sodium contents also varied. Fruit length, weight, and yield were significantly improved by biochar treatments, with the combination of palm kernel husk biochar and poultry manure yielding the highest fruit weight. Correlation and structural equation analyses (p < 0.05) highlighted the relationships between plant characteristics, soil properties, and fruit indices, emphasizing the importance of nitrogen and phosphorus in supporting fruit development. The study suggests that biochar application enhances soil nutrients, crop growth, and fruit yields while reducing reliance on chemical fertilizers. It recommends considering biochar for land reclamation and as an alternative to traditio…",
-      "authors": "E. O. Ayito, K. John, O. Benjamin et al.",
-      "published": "2024",
-      "venue": "Soil Science Annual",
-      "feedName": "Lab Research",
-      "citationCount": 9,
-      "recentCitations": 1,
-      "quartile": null,
-      "s2_paper_id": "8aa653c59706d0f1e9269886f0967e540b52e7f0",
-      "url": "https://doi.org/10.37501/soilsa/183903",
-      "image": "",
-      "screen": "both",
-      "lab_paper": true,
-      "researcher": {
-        "name": "Ofir Benjamin",
-        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=FsjV0oIAAAAJ"
-      }
-    },
-    {
-      "title": "Renal protective effects of natural honey on animal model of hypertension",
-      "abstract": "Hypertension, also known as high blood pressure, is a leading cause of cardiovascular disease and premature death worldwide. Numerous investigations have established that hypertension can cause alterations in the cardiovascular system as well as renal structure and function. Fresh honey is consumed worldwide and is claimed to be highly medicinal and has therapeutic effects against a wide range of medical conditions. We investigated the renal protective effect of natural honey in in animal model of hypertension. Forty (40) male albino rats, with average weight (120 ±10 g) were administered with high salt diet, HSD (80 g NaCl + 1 kg of diet and 1% NaCl in drinking water (10 g of NaCl + 1 L distilled water) for 10 weeks to induce hypertension in the rats. Following confirmation, hypertensive male rats were randomly selected for the experiment. Twenty (20) albino rats (15 hypertensive rats and 5 normotensive rats) were divided into 4 groups, Groups A-D. Group A: (Normotensive Control) no administration was given; Groups B-D (hypertensive rats) received the following treatments. Group B was treated with natural honey (15 ml/kg), Group C treated with hydrochlorothiazide (0.15 mg/kg), daily for 21 days; while Group D received no treatment, until the end of the 21 days administrations. Blood samples were taken in the end, and renal alterations were assessed via biochemical and histopathological analyses. Results showed that salt-induced hypertension caused a marked elevation of the renal biochemical parameters. The histopathological results agree with the biochemical findings. Howe…",
-      "authors": "Onwudiwe Saviour Nwachukwu, O. Benjamin, Nwankwo Emeka Christian et al.",
-      "published": "2023",
-      "venue": "Open Access Research Journal of Life Sciences",
-      "feedName": "Lab Research",
-      "citationCount": 0,
-      "recentCitations": 0,
-      "quartile": null,
-      "s2_paper_id": "3072198eabc4a0ba4b878787e54a629a0d5959af",
-      "url": "https://doi.org/10.53022/oarjls.2023.6.2.0068",
-      "image": "",
-      "screen": "both",
-      "lab_paper": true,
-      "researcher": {
-        "name": "Ofir Benjamin",
-        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=FsjV0oIAAAAJ"
-      }
-    },
-    {
-      "title": "Quality and Flavor of ‘Aliza’ Fruit: A Unique Pomelo × Mandarin Hybrid",
-      "abstract": "‘Aliza’ is a new pomelo × mandarin hybrid (Citrus maxima, cv. Red Chandler × Citrus reticulata, cv. Ora) developed by the Israeli citrus breeding program at the Volcani Institute. Here, we aimed to characterize the quality and flavor of ‘Aliza’ fruit as compared to other commercial citrus fruit, specifically pomelo (C. maxima), grapefruit (Citrus paradisi), orange (Citrus sinensis) and mandarin (C. reticulata). ‘Aliza’ fruits have a similar size as grapefruits, but have a thinner peel and a unique yellowish/golden color. ‘Aliza’ fruits are completely seedless and have especially high juice contents. They also have a unique, highly preferred flavor, characterized by high sweetness and moderate bitterness and acidity, with strong citrusy and tropical fruity aromas. Sensory analyses conducted with the aid of a trained panel and an electronic tongue revealed that the flavor of ‘Aliza’ fruits is different from the flavors of other citrus species. Consumer acceptance and preference tests revealed that ‘Aliza’ fruit are highly appreciated and favored. The aroma volatile profile of ‘Aliza’ fruit was somewhat similar to those of pomelo and grapefruit, but very different from those of orange and mandarin. Overall, ‘Aliza’ fruits can be distinguished from other citrus fruits by their unique color, high juice content and exceptional, unique flavor.",
-      "authors": "Hagar Pardo, A. Owoyemi, L. Goldenberg et al.",
-      "published": "2023",
-      "venue": "Horticulturae",
-      "feedName": "Lab Research",
-      "citationCount": 4,
-      "recentCitations": 0,
-      "quartile": null,
-      "s2_paper_id": "8fc9e49f80c03192aa54947839aa56e8d90f9d36",
-      "url": "https://doi.org/10.3390/horticulturae9040420",
-      "image": "",
-      "screen": "both",
-      "lab_paper": true,
-      "researcher": {
-        "name": "Ofir Benjamin",
-        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=FsjV0oIAAAAJ"
-      }
-    },
-    {
-      "title": "Flavor release and stability comparison between nano and conventional emulsion as influenced by saliva",
-      "abstract": "Flavour release and emulsion stability depend on volatile organic compounds' environmental conditions, food microstructure, and physicochemical properties. The effect of pH (3.5 vs 7.0) and saliva addition on stability and flavour release from nano and conventional emulsions was investigated using particle size, charge and Lumisizer measurments. Larger particle sizes were observed at lower pressures and in saliva-containing emulsions. At 1700 bar, nano-emulsions (below 150 nm) were created at pH 3.5 and 7.0 including saliva-containing emulsions. As was clear from the creaming velocity measurements, saliva addition decreased the emulsion stability by reducing particle charges and increased viscosity by more than 50%, especially when prepared at pH 3.5 closer to the isoelectric point of the used emulsifier β-lactoglobulin (pH 5.2). (5.2). Flavour release from emulsions was measured at equilibrium using a phase ratio variation to determine partition coefficients and dynamically using an electronic nose. Partition coefficients of the flavour compounds for most conditions were two to four times lower in emulsions prepared at pH 7.0 than at pH 3.5 and in emulsions without saliva. Emulsions prepared with higher pressures showed stronger flavor release rates, while additional salvia dropped the release rate for ethyl acetate at pH 3.5. The physicochemical properties of flavour compounds, saliva addition and pH of emulsions influenced flavour release more than homogenization pressures. The potential in using nano-emulsions in food applications an be attributed higher stability and e…",
-      "authors": "O. Sanni, C. Lakemond, O. Benjamin",
-      "published": "2022",
-      "venue": "Journal of food science and technology",
-      "feedName": "Lab Research",
-      "citationCount": 9,
-      "recentCitations": 0,
-      "quartile": "Q1",
-      "s2_paper_id": "435cee3aeeb4f44de0a7eef6197bce01a348c990",
-      "url": "https://doi.org/10.1007/s13197-022-05534-w",
-      "image": "",
-      "screen": "both",
-      "lab_paper": true,
-      "researcher": {
-        "name": "Ofir Benjamin",
-        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=FsjV0oIAAAAJ"
       }
     },
     {

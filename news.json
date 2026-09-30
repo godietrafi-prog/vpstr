@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-29T21:47:30Z",
+  "updated": "2026-09-30T00:55:53Z",
   "items": [
     {
       "title": "Zero hunger is not achievable without peace",
@@ -362,6 +362,36 @@
       "screen": "left"
     },
     {
+      "title": "Rethinking liquid hydrogen storage with metal-organic frameworks",
+      "abstract": "Liquid hydrogen (LH₂) is attractive for long-distance energy transport because of its high volumetric energy density. But even well-insulated tanks cannot completely prevent heat from entering. As the liquid warms, hydrogen evaporates and pressure builds, leading to boil-off losses during storage and transport.",
+      "authors": "",
+      "published": "Sep 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-09-rethinking-liquid-hydrogen-storage-metal.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/rethinking-liquid-hydr.jpg",
+      "screen": "right"
+    },
+    {
+      "title": "Light-driven nickel catalyst forms chemical bonds using less metal",
+      "abstract": "Pharmaceuticals, fine chemicals, and agrochemicals are produced industrially using a wide range of chemical reactions. These processes need to become more efficient, less expensive, and more sustainable.",
+      "authors": "",
+      "published": "Sep 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-09-driven-nickel-catalyst-chemical-bonds.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/light-activated-nickel.jpg",
+      "screen": "right"
+    },
+    {
+      "title": "Molecular simulations reveal how an enzyme's shape guides molecular recognition",
+      "abstract": "Enzymes are often described as molecular machines that recognize and process specific molecules. However, they are not rigid structures. Their shapes can change, affecting how molecules enter, interact with and remain within their active sites.",
+      "authors": "",
+      "published": "Sep 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-09-molecular-simulations-reveal-enzyme-recognition.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/molecular-simulations-1.jpg",
+      "screen": "right"
+    },
+    {
       "title": "AI structure prediction speeds discovery of 'molecular glues' to treat disease",
       "abstract": "A Baylor College of Medicine-led team has developed a strategy that combines the analysis of thousands of proteins with artificial intelligence to accelerate the discovery of small molecules called molecular glues to treat disease. Their approach, published in Nature Communications, has uncovered a new class of molecular glues that could neutralize harmful proteins linked to blood cancers and autoimmune diseases. The work also shows how AI-based structural modeling can help chemists optimize compounds well before experiments reveal how they work.",
       "authors": "",
@@ -369,36 +399,6 @@
       "feedName": "Phys.org Analytics",
       "url": "https://phys.org/news/2026-09-ai-discovery-molecular-disease.html",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/ai-structure-predictio.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "A new family of materials for efficiently converting sunlight into clean energy",
-      "abstract": "Researchers at Oregon State University have developed a new family of materials that use light to produce hydrogen from water, opening the door to new ways of converting the sun's rays into clean energy.",
-      "authors": "",
-      "published": "Sep 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-09-family-materials-efficiently-sunlight-energy.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/sunlight.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "Two-color glowing molecule could make wind tunnel tests more accurate",
-      "abstract": "Most sensors can measure only one thing at a time, like a thermometer for temperature or a pressure gauge for pressure. Measuring two properties accurately from the same surface at the same moment usually means using two separate instruments—adding cost and complexity to the process.",
-      "authors": "",
-      "published": "Sep 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-09-molecule-tunnel-accurate.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/two-color-glowing-mole.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "Organic chemists harness AI to uncover how fast chemical reactions proceed",
-      "abstract": "Chemists routinely optimize reactions to maximize the yield of their desired products, but understanding why those reactions work can require laborious experiments that track reactions over time. Researchers at the University of Tokyo have developed a method to extract hidden information about reaction speeds from yield data obtained during reaction optimization, using machine learning and rate equations developed by chemists.",
-      "authors": "",
-      "published": "Sep 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-09-chemists-harness-ai-uncover-fast.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/organic-chemists-harne-2.jpg",
       "screen": "right"
     },
     {

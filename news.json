@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-30T07:49:37Z",
+  "updated": "2026-09-30T14:32:39Z",
   "items": [
     {
       "title": "Zero hunger is not achievable without peace",
@@ -242,6 +242,16 @@
       "screen": "left"
     },
     {
+      "title": "The application progress of detection technology for Bacillus cereus in food: Challenges, innovations and future prospects",
+      "abstract": "",
+      "authors": "Yuhang Zhang, Xin Zhang, Haiying Zheng et al.",
+      "published": "Mar 2027",
+      "feedName": "Food Microbiology",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0740002026002741?dgcid=rss_sd_all",
+      "image": "",
+      "screen": "left"
+    },
+    {
       "title": "Investigation of the effect of simulated gastrointestinal digestive fluids on the infectivity of influenza A virus H1N1",
       "abstract": "",
       "authors": "Madeleine Blondin-Brosseau, Jennifer Harlow, Neda Nasheri",
@@ -268,16 +278,6 @@
       "published": "Mar 2027",
       "feedName": "Food Microbiology",
       "url": "https://www.sciencedirect.com/science/article/pii/S0740002026002790?dgcid=rss_sd_all",
-      "image": "",
-      "screen": "left"
-    },
-    {
-      "title": "Interpreting metabolite associations and proposed biosynthetic routes in Lactiplantibacillus plantarum-fermented Porphyra haitanensis",
-      "abstract": "",
-      "authors": "Nuo Chen, Xin Zhang",
-      "published": "Mar 2027",
-      "feedName": "Food Microbiology",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0740002026002765?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -442,6 +442,26 @@
       "screen": "right"
     },
     {
+      "title": "Mulberry may reshape gut bacteria and influence metabolism",
+      "abstract": "Mulberry compounds may reshape the gut microbiome in ways that support intestinal health and metabolism, with some combinations showing especially strong effects in animal studies. However, the results vary depending on the plant part and processing method, and the benefits have yet to be confirmed in humans.",
+      "authors": "",
+      "published": "Sep 2026",
+      "feedName": "ScienceDaily Nutrition",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260928100551.htm",
+      "image": "https://www.sciencedaily.com/images/1920/fresh-mulberry-fruit.webp",
+      "screen": "right"
+    },
+    {
+      "title": "Creatine may help build muscle even without exercise, researchers find",
+      "abstract": "Creatine helped middle-aged adults gain muscle and strength even without a structured workout program in a new 12-week study. When combined with exercise and a calorie-reduced diet, it produced even greater strength gains while helping participants add lean tissue and lose fat. Researchers say the results strengthen the case for creatine as a potentially useful tool for maintaining muscle with age.",
+      "authors": "",
+      "published": "Sep 2026",
+      "feedName": "ScienceDaily Nutrition",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260928100547.htm",
+      "image": "https://www.sciencedaily.com/images/1920/pouring-sport-supplement-powder-in-glass-of-water.webp",
+      "screen": "right"
+    },
+    {
       "title": "Scientists just discovered what coffee really does to your gut and brain",
       "abstract": "A new study suggests coffee may influence mood and brain function by changing the activity of microbes in the gut. Both caffeinated and decaf coffee were linked to lower stress, depression, and impulsivity, while also producing measurable changes in gut bacteria and metabolites. Decaf was associated with better learning and memory, while caffeinated coffee appeared to reduce anxiety and improve attention.",
       "authors": "",
@@ -459,26 +479,6 @@
       "feedName": "ScienceDaily Nutrition",
       "url": "https://www.sciencedaily.com/releases/2026/09/260925093210.htm",
       "image": "https://www.sciencedaily.com/images/1920/zepbound-tirzepatide-injection-pen.webp",
-      "screen": "right"
-    },
-    {
-      "title": "Pomegranate compound improves heart function by up to 80% in study",
-      "abstract": "A compound the body can make after eating pomegranates, walnuts, and some berries improved measures of heart function by up to 80% in animal models of a difficult-to-treat form of heart failure. Urolithin A helped stiff heart tissue relax and reduced scarring and abnormal enlargement. It also improved relaxation in engineered human heart tissue.",
-      "authors": "",
-      "published": "Sep 2026",
-      "feedName": "ScienceDaily Nutrition",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260925093157.htm",
-      "image": "https://www.sciencedaily.com/images/1920/ripe-pomegranates.webp",
-      "screen": "right"
-    },
-    {
-      "title": "GLP-1 weight loss and diabetes drugs linked to nutritional deficiencies in nearly 1 in 6 children",
-      "abstract": "Children taking GLP-1 medications (such as Victoza, Saxenda, Trulicity, and Ozempic) for weight loss, prediabetes, or type 2 diabetes may face an overlooked risk: nutritional deficiencies. A new study found that nearly 1 in 6 young patients developed a diagnosed deficiency within a year of starting treatment, with vitamin D deficiency affecting about 12%.",
-      "authors": "",
-      "published": "Sep 2026",
-      "feedName": "ScienceDaily Nutrition",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260923035926.htm",
-      "image": "https://www.sciencedaily.com/images/1920/sad-overweight-boy-with-weight-scale.webp",
       "screen": "right"
     },
     {

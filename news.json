@@ -1,6 +1,16 @@
 {
-  "updated": "2026-10-01T08:06:21Z",
+  "updated": "2026-10-01T16:50:01Z",
   "items": [
+    {
+      "title": "Cybersecurity and resiliency in agricultural and food systems",
+      "abstract": "Based on a workshop series involving more than 150 stakeholders, this Perspective proposes the implementation of a consortium led by regional land-grant universities with expertise in artificial intelligence and cybersecurity, outlining a roadmap for responding to emerging agrifood cyber risks.",
+      "authors": "Feras A. Batarseh, Manimaran Govindarasu, Monowar Hasan et al.",
+      "published": "Oct 2026",
+      "feedName": "Nature Food",
+      "url": "https://www.nature.com/articles/s43016-026-01422-0",
+      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs43016-026-01422-0/MediaObjects/43016_2026_1422_Fig1_HTML.png",
+      "screen": "left"
+    },
     {
       "title": "Zero hunger is not achievable without peace",
       "abstract": "The UN Sustainable Development Goal 2 (SDG 2) aims to end global hunger by 2030. A rising burden of armed conflict now obstructs progress, pointing to the fundamental importance of preventing and ending armed conflict to get SDG 2 back on track.",
@@ -32,52 +42,42 @@
       "screen": "left"
     },
     {
-      "title": "On-package claims are imperfect signals of overall nutritional quality",
-      "abstract": "Many food and beverage products contain on-package claims, such as ‘Low Calorie’, ‘High Protein’, ‘All Natural’ or ‘Heart Healthy’, to communicate nutritional or health-related benefits. This study finds that these claims do not consistently correspond to better overall product nutritional quality.",
-      "authors": "Pei Zhou, Yuqing Zheng, Harry M. Kaiser et al.",
-      "published": "Sep 2026",
-      "feedName": "Nature Food",
-      "url": "https://www.nature.com/articles/s43016-026-01435-9",
-      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs43016-026-01435-9/MediaObjects/43016_2026_1435_Fig1_HTML.png",
-      "screen": "left"
-    },
-    {
-      "title": "Modulating the stability and rheological behavior of camellia oil body emulsions via pH regulation and different charged polysaccharide coatings",
+      "title": "Mechanistic insights into α-cyclodextrin-mediated enhancement of phenolic extraction and aroma–sensory quality during wine fermentation: evidence from metabolomics and aroma–sensory relationships",
       "abstract": "",
-      "authors": "Tin Nyawe Nyawe Hlaing, Shahzad Farooq, Sumeng Wei et al.",
+      "authors": "Caiyun Liu, Zengshuai Zhang, Juan Jiang et al.",
       "published": "Dec 2026",
       "feedName": "Food Chemistry",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626033248?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S030881462603400X?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
     {
-      "title": "The natural variations in chickpea antinutrient profiles influence the bioaccessibility of fat-soluble micronutrients in a test meal",
+      "title": "Transfer learning-assisted snapshot multispectral imaging for robust prediction of chemical components during black tea fermentation under different processing conditions",
       "abstract": "",
-      "authors": "Angélique Berthomé, Stéphane Georgé, Quentin Lambert et al.",
+      "authors": "Dengshan Li, Rui Wang, Zhenzhou Fan et al.",
       "published": "Dec 2026",
       "feedName": "Food Chemistry",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626032954?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626034758?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
     {
-      "title": "Comparing polysaccharides in microfluidic-fabricated Zein-based lutein ternary composite nanoparticles: enhanced stability, bioaccessibility and assembly mechanisms",
+      "title": "Dual-ligand engineering of copper nanoclusters enables “turn-on” fluorescence label for pH-responsive freshness monitoring of shrimp",
       "abstract": "",
-      "authors": "Zijian Qiu, Xueqing Pan, Yumeng Miao et al.",
+      "authors": "Yuandong Lin, Chunfeng Zhang, Jiangbo Li et al.",
       "published": "Dec 2026",
       "feedName": "Food Chemistry",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626035065?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626035338?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
     {
-      "title": "Six-year quantitative NMR profiling of polyfloral honey from a single beekeeping area in Okayama: harvest-season-associated variation in minor components",
+      "title": "Construction and characterization of a ternary composite emulsion based on hydrolyzed soy protein isolate",
       "abstract": "",
-      "authors": "Kodai Makino, Yuka Honda, Takaya Sumida et al.",
+      "authors": "Yingying Zhang, Rui Shi, Jialing Long et al.",
       "published": "Dec 2026",
       "feedName": "Food Chemistry",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626034801?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626035284?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -88,6 +88,16 @@
       "published": "Dec 2026",
       "feedName": "Trends in Food Sci & Tech",
       "url": "https://www.sciencedirect.com/science/article/pii/S0924224426005261?dgcid=rss_sd_all",
+      "image": "",
+      "screen": "left"
+    },
+    {
+      "title": "Dietary lipoteichoic acid from fermented foods and postbiotics: structural fingerprints, gastrointestinal presentation, and context-dependent gut immunomodulation",
+      "abstract": "",
+      "authors": "Dingwu Qu, Zhihao Wang, Saisai Feng et al.",
+      "published": "Dec 2026",
+      "feedName": "Trends in Food Sci & Tech",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426005972?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -108,16 +118,6 @@
       "published": "Dec 2026",
       "feedName": "Trends in Food Sci & Tech",
       "url": "https://www.sciencedirect.com/science/article/pii/S0924224426005807?dgcid=rss_sd_all",
-      "image": "",
-      "screen": "left"
-    },
-    {
-      "title": "Mapping of digital transformation in the African agri-food trade system",
-      "abstract": "",
-      "authors": "Juriaan Wolfers, Ayalew Kassahun, Cor Verdouw et al.",
-      "published": "Dec 2026",
-      "feedName": "Trends in Food Sci & Tech",
-      "url": "https://www.sciencedirect.com/science/article/pii/S092422442600556X?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -202,12 +202,32 @@
       "screen": "left"
     },
     {
-      "title": "Effects of feed gas composition during dielectric barrier discharge cold plasma treatment on physicochemical attributes, total phenolic content, and storability of fresh Tangier figs",
-      "abstract": "Figs (Ficus carica L.) are highly nutritious fruits that offer considerable health benefits. Their management after harvest is a significant challenge due to rapid spoilage. Marketability is limited by their highly perishable nature, driven by high moisture content and the risk of pathogen contamination. Contamination can occur during growth, harvesting, drying, storage, transportation, and handling. Therefore, this study investigated the impact of pre-treating fresh figs cv. ‘Tangier’ with dielectric barrier discharge cold atmospheric plasma (DBD–ACPair) and nitrogen-enriched cold atmospheric plasma (DBD–ACPN2) for 2 min, followed by storage for 21 days at 5 °C. The fruits were evaluated for weight loss, firmness, color attributes, total soluble solids (TSS), titratable acidity (TA), total phenolic content (TPC), and microbial load. Plasma-treated figs (DBD–ACPair) exhibited lower weight loss (5% ± 0.78%), followed by DBD–ACPN2 (7% ± 1.37%), compared with the untreated control (8.38% ± 0.75%). DBD–ACPair (147.96 ± 12.51 mg GAE/100 mL), followed by DBD–ACPN2 (142.68 ± 10.88 mg GAE/100 mL), retained the highest TPC levels, better than the control (135.18 ± 9.34 mg GAE/100 mL), at the end of storage on Day 21. Treated figs showed better retention of TSS and TA during storage, while untreated figs showed a decline in TA levels from 0.53% ± 0.02% to 0.35% ± 0.03% on the last day of storage. Among the color parameters, only the b* value showed slight changes during storage. Both DBD–ACPair and DBD–ACPN2 significantly (p < 0.05) reduced microbial growth throughout the storage per…",
-      "authors": "Manyasha L. Letsie Ntsoane, Phushudi P. Tinyane, Lucia M. Ntsoane et al.",
-      "published": "Sep 2026",
+      "title": "Biomacromolecule-based encapsulation of Hibiscus sabdariffa polyphenols for functional foods and nutraceuticals",
+      "abstract": "Hibiscus sabdariffa is recognized not only as a source of bioactive polyphenols but also as an underutilized biomass resource. This review examines an integrated valorization approach that connects phytochemical variability and extraction strategies with biomacromolecule-based encapsulation for functional foods and nutraceuticals. Anthocyanins, flavonoids, phenolic acids, and organic acids vary among plant parts, accessions, and processing residues, highlighting the importance of residue-specific recovery and preservation. Extraction technologies can improve recovery, but higher extraction efficiency may compromise thermolabile anthocyanins, so recovery should be balanced with chemical integrity. Encapsulation approaches, including spray drying, freeze drying, calcium alginate gelation, carbohydrate and protein matrices, liposomes, polymeric systems, and nanostructured lipid carriers, provide options for improving the stability, handling, dispersibility, and gastrointestinal delivery of Hibiscus sabdariffa bioactive compounds. However, evidence specifically linking these encapsulation systems to residue-derived H. sabdariffa bioactives remains limited. Future research should integrate residue-specific extraction with food-compatible carrier design, quantitative release kinetics, bioaccessibility testing, scale-up, and sustainability to support the development of value-added roselle-derived ingredients while preserving sensory quality and commercial potential.",
+      "authors": "Naasrin Shaikh, Ramendra Pati Pandey, Lubna Shaik",
+      "published": "Oct 2026",
       "feedName": "Frontiers Food Science",
-      "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.1907914",
+      "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.1975629",
+      "image": "",
+      "screen": "left"
+    },
+    {
+      "title": "Oil palm fiber extract as a fermentable functional ingredient: in vitro gastrointestinal carbohydrate hydrolysis, feline fecal fermentation, and microbiota-associated metabolite production",
+      "abstract": "Obesity-associated gastrointestinal disturbances in companion animals have increased interest in dietary ingredients that may modulate intestinal fermentation and microbial metabolism. This study evaluated the in vitro gastrointestinal digestion, fecal fermentation, microbiota responses, and metabolite production associated with oil palm fiber extract (OPF) in a feline gastrointestinal model. OPF, commercial feline diet (CFD), OPF-supplemented CFD (OPF+CFD), and commercial weight-control diet (WCD) were subjected to simulated gastrointestinal digestion followed by 24 h of anaerobic fecal fermentation. Fecal samples from nine cats were pooled to prepare a common inoculum. Carbohydrate hydrolysis of OPF following simulated gastrointestinal digestion was 4.01% ± 0.54%, indicating limited hydrolysis under the experimental conditions. Phenolic and flavonoid-equivalent responses were retained after digestion, although values exceeding 100% were interpreted as increased assay responses rather than recovery above the initial values. During fermentation, OPF was associated with increased concentrations of acetate, propionate, and butyrate, together with changes in branched-chain fatty acids. Microbiome profiling indicated treatment-associated changes in bacterial community composition and diversity patterns. LC-QTOF-MS analysis detected several phenolic-related metabolites in OPF-containing treatments after fermentation, including hydroxyphenylpropionic acid- and coumarin-related compounds. However, these metabolites were tentatively annotated, and their formation from specific OPF …",
+      "authors": "Kristina Dea Ivanalie, Uchenna Kalu Akpi, Yada Duangnumsawang et al.",
+      "published": "Oct 2026",
+      "feedName": "Frontiers Food Science",
+      "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.1931174",
+      "image": "",
+      "screen": "left"
+    },
+    {
+      "title": "From predictive AI to autonomous food bioprocessing: a critical review of real-time quality monitoring, energy optimization, digital twins, and intelligent process control",
+      "abstract": "Food bioprocessing is transitioning from conventional automation towards intelligent, data-driven, and increasingly autonomous manufacturing. A substantial gap nevertheless remains between accurate process prediction and reliable autonomous control. This critical narrative review examines the convergence of real-time sensing, artificial intelligence (AI), energy and process optimisation, hybrid physics–AI modelling, digital twins, and intelligent closed-loop control in food bioprocess engineering, with explicit attention to what has been demonstrated experimentally, at pilot scale, or only in simulation versus what remains conceptual. A structured narrative review informed by SANRA principles was conducted using Scopus, Web of Science, ScienceDirect, IEEE Xplore, and Google Scholar, with literature published up to 17 August 2026 considered and supplemented by a second, targeted search cycle addressing process analytical technology, electronic sensing, convolutional-network quality evaluation, and digital-twin applications in thermal, baking, and cold-chain processes. Evidence was synthesised according to the technological progression from monitoring and prediction to optimisation, digital twins, intelligent control, and autonomy. The evidence indicates substantial advances in smart sensing, machine learning, multimodal quality assessment, and multi-objective optimisation, with demonstrated opportunities to improve product quality, energy efficiency, productivity, and resource utilisation. Nevertheless, most applications remain concentrated at monitoring, predictive-modellin…",
+      "authors": "Chinyere Nneoma Ugwu, Fabian Chukwudi Ogenyi, Jovita Nnenna Ugwu et al.",
+      "published": "Oct 2026",
+      "feedName": "Frontiers Food Science",
+      "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.1974464",
       "image": "",
       "screen": "left"
     },
@@ -222,22 +242,22 @@
       "screen": "left"
     },
     {
-      "title": "An EU-aligned protocol for triangulating food safety culture evidence in manufacturing plants: maturity gaps and confidence ratings",
-      "abstract": "Food safety failures continue to occur despite the widespread adoption of Food Safety Management Systems (FSMS). In the European Union, Regulation (EU) 2021/382 makes food safety culture (FSC) an explicit expectation and requires food business operators to provide evidence of an appropriate FSC. Staff questionnaires provide evidence of food safety climate through reported perceptions. Although these surveys are practical for large-scale screening, responses may be influenced by social desirability bias and, on their own, do not necessarily reflect how food safety practices are carried out in day-to-day work. A focused mapping review of empirical FSC assessments in manufacturing/processing plants was conducted, that combined at least two evidence streams beyond a single survey. Using an EU-aligned five-dimension (5D) framework (commitment, leadership, awareness, open communication, resources), the following data were extracted, for each study: (i) the evidence streams used, (ii) triangulation depth, and (iii) whether authors reported explicit integration logic and lagging outcomes. Six studies were selected for detailed analysis. All of these studies, used surveys (6/6) and most used interviews (5/6), whereas fewer included on-site observation (3/6) and document/record evidence (4/6). Practice-based or system/performance evidence were also included in most studies (5/6). However, explicit reporting of lagging outcomes and decision rules for resolving disagreement between streams was inconsistent. Only one study explicitly reported higher maturity scores from surveys than fro…",
-      "authors": "Chryssi Petraki, Nikolaos Solomakos, Sofia Liossi et al.",
-      "published": "Sep 2026",
-      "feedName": "Frontiers Food Science",
-      "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.1952161",
+      "title": "Differential persistence of Salmonella spp. and Listeria monocytogenes in soilless substrates for hydroponic lettuce production",
+      "abstract": "",
+      "authors": "Eric Nuertey Tetteh, Ryan W. Dickson, Rupesh Kariyat et al.",
+      "published": "Mar 2027",
+      "feedName": "Food Microbiology",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0740002026002856?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
     {
-      "title": "Reframing beef production in the Pampa biome: a life cycle assessment of environmental sustainability",
-      "abstract": "Beef production is central to global food systems, contributing to food security, rural economies, and the supply of animal protein. However, beef production is associated with considerable environmental impacts, mainly related to greenhouse gas emissions, land use, and alterations in nutrient cycles. The Pampa biome, spanning regions of Argentina, Brazil, and Uruguay, produces nearly one-twentieth of the world’s beef. Across its grasslands, diverse beef production systems coexist, varying in intensification, feed management, and input use, which can substantially affect environmental performance. In this context, this study aimed to quantify and compare the environmental impacts of different beef production systems in the Pampa biome using the Life Cycle Assessment (LCA) methodology. The functional unit adopted was 1 kg of chilled beef, considering 13 production scenarios distributed among the three countries, including extensive, semi-intensive systems based on sown pastures and grains, and intensive and integrated production systems. The following environmental impact categories were assessed: global warming potential (GWP), acidification potential (AP), eutrophication potential (EP), land use (LU), water use (WU), and energy use (EU). In addition, an exploratory carbon-balance indicator was estimated by comparing system emissions with literature-based estimates of gross vegetation CO2 uptake during the production period. The results showed a variation among the systems evaluated. GWP ranged from 32.59 to 52.93 kg CO2eq kg-1 of beef, with lower values ​​in semi-intensive…",
-      "authors": "Eduarda Funari Machado, Adriane Terezinha Schneider, Richard Luan Silva Machado et al.",
-      "published": "Sep 2026",
-      "feedName": "Frontiers Food Science",
-      "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.1840100",
+      "title": "Non-destructive and quantitative estimation of microbial growth rates on food surfaces using microscopic image analysis",
+      "abstract": "",
+      "authors": "Hisato Tamiya, Kentaro Tsuda, Akinori Ando et al.",
+      "published": "Mar 2027",
+      "feedName": "Food Microbiology",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0740002026002819?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -258,26 +278,6 @@
       "published": "Mar 2027",
       "feedName": "Food Microbiology",
       "url": "https://www.sciencedirect.com/science/article/pii/S0740002026002844?dgcid=rss_sd_all",
-      "image": "",
-      "screen": "left"
-    },
-    {
-      "title": "Age distribution of inoculated cells and stochasticity of inter-division times generate pseudo-lag in population growth",
-      "abstract": "",
-      "authors": "Leonardos Stathas, József Baranyi",
-      "published": "Mar 2027",
-      "feedName": "Food Microbiology",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0740002026002753?dgcid=rss_sd_all",
-      "image": "",
-      "screen": "left"
-    },
-    {
-      "title": "Stable-age sampling requires age–lifetime dependence in models of microbial pseudo-lag",
-      "abstract": "",
-      "authors": "Tiewu Tan, Xin Zhang, Hui Qin",
-      "published": "Mar 2027",
-      "feedName": "Food Microbiology",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0740002026002790?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -322,6 +322,16 @@
       "screen": "left"
     },
     {
+      "title": "MHISR: A spatial-spectral fusion network for microscopic hyperspectral image super-resolution with application in rice disease evaluation",
+      "abstract": "",
+      "authors": "Ping Sun, Mengze Du, Meijie Qi et al.",
+      "published": "",
+      "feedName": "AI in Agriculture",
+      "url": "https://www.sciencedirect.com/science/article/pii/S258972172600111X?dgcid=rss_sd_all",
+      "image": "",
+      "screen": "left"
+    },
+    {
       "title": "Multi-objective optimization of photovoltaic array layouts on farmland via a hybrid algorithm framework for enhanced agricultural production and energy generation",
       "abstract": "",
       "authors": "Long Zhang, Xiayun Geng, Hangwei Ding et al.",
@@ -352,14 +362,24 @@
       "screen": "left"
     },
     {
-      "title": "From phenome to genome: A cloud-based AI platform for integrative rice grain analysis and genetic mapping to empower grain-focused crop improvement",
-      "abstract": "",
-      "authors": "Jie Zhou, Ahong Wang, Yan Zhao et al.",
-      "published": "",
-      "feedName": "AI in Agriculture",
-      "url": "https://www.sciencedirect.com/science/article/pii/S2589721726001030?dgcid=rss_sd_all",
-      "image": "",
-      "screen": "left"
+      "title": "Stable salts unlock alternative to potentially explosive reagents in carbene chemistry",
+      "abstract": "Many useful reactions in chemistry come with a trade-off: the reactive reagents that make them effective can also present practical and safety challenges. Carbene chemistry is one such example. For decades, chemists have relied on diazo compounds to generate reactive carbenes, even though diazoalkanes can be toxic, unstable and potentially explosive.",
+      "authors": "",
+      "published": "Oct 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-10-stable-salts-alternative-potentially-explosive.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/safe-carbene-transfer.jpg",
+      "screen": "right"
+    },
+    {
+      "title": "Device detects 'Devil's Breath' in beverages in just 10 minutes",
+      "abstract": "Assault facilitated by drugs such as scopolamine (popularly known as Devil's Breath) is a serious public health and forensic concern. This drug is especially hazardous due to its strong amnesic, sedative and hallucinogenic effects, combined with its lack of color, odor and taste, which prevents it from being detected when ingested. Despite its toxicological importance, there are still few methods available for the rapid onsite detection of scopolamine.",
+      "authors": "",
+      "published": "Oct 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-10-device-devil-beverages-minutes.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/a-device-has-been-deve.jpg",
+      "screen": "right"
     },
     {
       "title": "Fine-tuning cobalt for cleaner chemical transformations",
@@ -379,26 +399,6 @@
       "feedName": "Phys.org Analytics",
       "url": "https://phys.org/news/2026-09-fluorescent-sensors-diabetes-action.html",
       "image": "https://scx1.b-cdn.net/csz/news/800/2021/sugar.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "UV light locks radiation-detecting materials into durable, water-resistant films",
-      "abstract": "Florida State University researchers have developed a method to make a class of materials more robust and potentially easier to manufacture for advanced radiation detection devices, including those used in medical imaging and radiation therapy as well as space technologies.",
-      "authors": "",
-      "published": "Sep 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-09-uv-materials-durable-resistant.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2019/medicalimagi.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "Rethinking liquid hydrogen storage with metal-organic frameworks",
-      "abstract": "Liquid hydrogen (LH₂) is attractive for long-distance energy transport because of its high volumetric energy density. But even well-insulated tanks cannot completely prevent heat from entering. As the liquid warms, hydrogen evaporates and pressure builds, leading to boil-off losses during storage and transport.",
-      "authors": "",
-      "published": "Sep 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-09-rethinking-liquid-hydrogen-storage-metal.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/rethinking-liquid-hydr.jpg",
       "screen": "right"
     },
     {
@@ -442,6 +442,26 @@
       "screen": "right"
     },
     {
+      "title": "This diet may slow brain aging by 2.5 years",
+      "abstract": "People who followed the MIND diet more closely showed slower brain shrinkage and less grey matter loss over time, with the strongest differences equivalent to about 2.5 years of delayed brain aging. Berries and poultry were linked with healthier brain changes, while sweets and fried fast foods were associated with greater tissue loss.",
+      "authors": "",
+      "published": "Oct 2026",
+      "feedName": "ScienceDaily Nutrition",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260930225503.htm",
+      "image": "https://www.sciencedaily.com/images/1920/human-brain-fresh-fruit-healthy-food.webp",
+      "screen": "right"
+    },
+    {
+      "title": "Could quitting ultra-processed food boost your mental health?",
+      "abstract": "People with depression who dramatically cut ultra-processed foods experienced notable improvements in their symptoms in a small preliminary study. Researchers suspect healthier eating may benefit the brain partly by reducing gut damage and chronic inflammation.",
+      "authors": "",
+      "published": "Oct 2026",
+      "feedName": "ScienceDaily Nutrition",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260930225448.htm",
+      "image": "https://www.sciencedaily.com/images/1920/unhealthy-ultraprocessed-junk-food.webp",
+      "screen": "right"
+    },
+    {
       "title": "Mulberry may reshape gut bacteria and influence metabolism",
       "abstract": "Mulberry compounds may reshape the gut microbiome in ways that support intestinal health and metabolism, with some combinations showing especially strong effects in animal studies. However, the results vary depending on the plant part and processing method, and the benefits have yet to be confirmed in humans.",
       "authors": "",
@@ -462,62 +482,42 @@
       "screen": "right"
     },
     {
-      "title": "Scientists just discovered what coffee really does to your gut and brain",
-      "abstract": "A new study suggests coffee may influence mood and brain function by changing the activity of microbes in the gut. Both caffeinated and decaf coffee were linked to lower stress, depression, and impulsivity, while also producing measurable changes in gut bacteria and metabolites. Decaf was associated with better learning and memory, while caffeinated coffee appeared to reduce anxiety and improve attention.",
-      "authors": "",
-      "published": "Sep 2026",
-      "feedName": "ScienceDaily Nutrition",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260927034331.htm",
-      "image": "https://www.sciencedaily.com/images/1920/woman-enjoying-morning-coffee-and-sunshine.webp",
-      "screen": "right"
-    },
-    {
-      "title": "Zepbound and Mounjaro may turn on the body’s calorie-burning brown fat",
-      "abstract": "Tirzepatide, sold as Mounjaro and Zepbound, activated calorie-burning brown fat in obese mice, revealing a potential metabolic effect beyond appetite suppression. If confirmed in humans, the finding could help explain the drug’s powerful benefits and inspire more comprehensive treatments for obesity and diabetes.",
-      "authors": "",
-      "published": "Sep 2026",
-      "feedName": "ScienceDaily Nutrition",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260925093210.htm",
-      "image": "https://www.sciencedaily.com/images/1920/zepbound-tirzepatide-injection-pen.webp",
-      "screen": "right"
-    },
-    {
-      "title": "Influence of Curcuma longa extract on cognitive function in mild cognitive impairment due to Alzheimer’s disease: a single-arm, open-label, observational study",
-      "abstract": "ObjectivesCurcuma longa, commonly known as turmeric, is a dietary spice with potential biological effects. This study evaluated the association between intake of C. longa extracts (CLE) and cognitive function in individuals with mild cognitive impairment (MCI) due to Alzheimer’s disease (AD).MethodsThis was a 4-month, single-arm, open-label, observational study of participants with MCI due to AD who were awaiting anti-amyloid therapy. Participants (n = 13) consumed the test food containing CLE, which includes the compounds bisacurone and turmeronols. Cognitive function was assessed at baseline and after 4 months using various cognitive assessments.ResultsAfter excluding participants with insufficient intake of CLE capsules or invalid data, 10 participants were included in the analysis set, consisting of 2 men and 8 women, with a mean ± standard deviation age of 74.8 ± 6.1 years. CLE intake was associated with significantly higher memory scores (Composite B) and significantly lower estimated brain age at 4 months compared with baseline, as measured by a digital cognitive assessment tool (Nou-Know). In the Japanese version of the Montreal Cognitive Assessment, total scores did not differ significantly after CLE intake, but subscale scores for the attention domain and digit span test increased significantly from baseline.DiscussionThis observational study provides preliminary evidence of a potential association between CLE intake and changes in frontal lobe-mediated functions, particularly working memory, in individuals with MCI due to AD, and further investigation is warrante…",
-      "authors": "Yuta Manabe",
-      "published": "Oct 2026",
-      "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1951923",
-      "image": "",
-      "screen": "right"
-    },
-    {
-      "title": "Dietary intake and circulating levels of vitamins, antioxidants, and fatty acids in relation to coronary heart disease risk: a systematic review and dose–response meta-analysis",
-      "abstract": "BackgroundAssociations between vitamin, antioxidant, and fatty acid exposure and coronary heart disease (CHD) risk remain uncertain, and dose–response relationships are poorly defined. This study aimed to evaluate the overall and dose–response associations between dietary and circulating vitamin, antioxidant, and fatty acid levels and CHD risk from observational evidence.MethodsPubMed, Web of Science, Embase, and the Cochrane Library were searched for studies published up to February 2, 2026 (PROSPERO: CRD420261380823). Eligible observational studies (case–control, cohort, cross-sectional) reporting associations between vitamin, antioxidant, or fatty acid levels and CHD risk were included. A total of 27 studies were analyzed. Categorical (highest vs. lowest) and dose–response analyses were performed, estimating pooled odds ratios (ORs), relative risks (RRs), and hazard ratios (HRs).ResultsTwenty-seven observational studies were included. In categorical analyses, higher circulating 25(OH)D (pooled HR = 0.79, 95% CI = 0.74–0.85; I2 = 1.4%, τ2 = 0.0000) and carotenoids (pooled OR = 0.64, 95% CI = 0.46–0.91; I2 = 0.0%, τ2 = 0.0000) were inversely associated with CHD risk. In analyses per 1-SD increase in circulating fatty acid levels, linoleic acid was inversely associated with CHD risk (pooled OR = 0.69, 95% CI = 0.57–0.84; I2 = 0.0%, τ2 = 0.0000), whereas palmitic acid (pooled OR = 1.52, 95% CI = 1.23–1.89; I2 = 0.0%, τ2 = 0.0000) and dihomo-γ-linolenic acid (DGLA; pooled OR = 1.26, 95% CI = 1.05–1.52; I2 = 0.0%, τ2 = 0.0000) were positively associated with CHD risk. Several …",
-      "authors": "Peng Tian, Chang Su, Yang Yang et al.",
-      "published": "Oct 2026",
-      "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1920716",
-      "image": "",
-      "screen": "right"
-    },
-    {
-      "title": "Probiotics and synbiotics as adjunctive therapies for heart failure: a systematic review with network and pairwise meta-analyses",
-      "abstract": "ObjectiveThis study aimed to evaluate the use of probiotics and synbiotics as microbiome-directed adjunctive therapies for heart failure (HF), while explicitly determining whether any eligible prebiotic-only trials existed.MethodsWe searched eight English- and Chinese-language databases from inception to 1 May 2026 and conducted expanded sensitivity searches in PubMed, Embase, and Web of Science on 15 July 2026. Random-effects network meta-analysis (NMA) was used only for connected multi-node evidence; two-node evidence was analyzed pairwise. As placebo, usual care, and food comparators were not clinically exchangeable, comparator-stratified sensitivity analyses of direct evidence were conducted using restricted maximum likelihood (REML) and Hartung-Knapp (HK) confidence intervals (CIs).ResultsA total of 12 randomized studies were included in the systematic review (14 reports); 11 contributed to at least one primary or sensitivity quantitative analysis, and 10 contributed to the primary analyses. The revision-stage search audit identified no additional eligible randomized trials and no eligible prebiotic-only trials. Across all the trial populations, 1,021 participants were randomized, 973 of whom were allocated to review-eligible arms. The left ventricular ejection fraction (LVEF) network included 7 studies and 539 participants in the analysis set; however, this network was star-shaped, had no closed loops, and depended on a combined comparator node. The exploratory NMA estimate for multi-strain bacterial probiotics versus the combined comparator was a mean difference (MD)…",
-      "authors": "Qin Liu, Huanxin Xie, Fenwang Lin et al.",
-      "published": "Oct 2026",
-      "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1898538",
-      "image": "",
-      "screen": "right"
-    },
-    {
       "title": "Case Report: Myelodysplastic changes and 7q deletion in a case of vitamin B12 deficiency: a diagnostic pitfall",
       "abstract": "Vitamin B12 plays a crucial role in DNA synthesis, and its deficiency can occasionally present with atypical hematological manifestations mimicking myelodysplastic syndrome (MDS). There is limited literature describing reversible chromosomal abnormalities associated with vitamin B12 deficiency. We report an 11-year-old girl who presented with generalized body aches for 1 month and fever, easy fatigability, and respiratory distress for 2 days. Examination revealed pallor and hepatomegaly, with no splenomegaly. Investigations showed severe anemia (hemoglobin 3.1 g/dL), thrombocytopenia, a low corrected reticulocyte count, and macrocytosis with macro-ovalocytes on a peripheral smear. Considering pancytopenia with congestive cardiac failure, the differential diagnoses included viral infection-induced cytopenias, leukemia, megaloblastic anemia, and MDS. Bone marrow examination demonstrated myelodysplastic changes, while cytogenetic analysis revealed a 7q deletion in 18% of metaphases. Serum vitamin B12 levels were markedly low ( < 83 pg./mL). The child received a packed red cell transfusion and oral vitamin B12 supplementation, following which the blood counts improved significantly. Repeat bone marrow examination after 2 months showed complete resolution of the abnormalities. Vitamin B12 deficiency can rarely lead to chromosomal abnormalities such as 7q and 20q deletions, aneuploidy, and hypoploidy because of impaired DNA synthesis and uracil misincorporation into DNA strands. Such abnormalities are classically associated with MDS and acute myeloid leukemia, potentially leading…",
       "authors": "Ritika Khurana, Purva Kanvinde, Sangeeta Mudaliar",
       "published": "Oct 2026",
       "feedName": "Frontiers Nutrition",
       "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1883509",
+      "image": "",
+      "screen": "right"
+    },
+    {
+      "title": "Food-based formula modulates gut microbial homeostasis and inflammatory responses following LPS challenge in mice",
+      "abstract": "BackgroundOral nutritional supplements (ONSs) are widely used to support patients with malnutrition or chronic diseases. However, their potential effects on inflammatory recovery and gut microbial composition remain insufficiently understood. This study evaluated a novel whole-food-based formula (FBF) composed of natural food-derived ingredients and investigated its effects on inflammation recovery and gut microbiota in a murine model of lipopolysaccharide (LPS)-induced low-grade inflammation.Methods21 male C57BL/6J mice were randomly assigned to a healthy control (HC) group, a milk-based formula (MBF) group, or a food-based formula (FBF) group. Mild systemic inflammation was induced by intraperitoneal injection of LPS (3 mg/kg). After LPS administration, mice received dietary intervention for 10 days. Serum inflammatory cytokines, colonic histopathology, and gut microbiota profiles were evaluated by ELISA, hematoxylin–eosin staining, and 16S rRNA gene sequencing, respectively.ResultsSerum IL-6 concentrations were elevated in the MBF group compared with healthy controls (p < 0.05), whereas no significant difference was observed between the FBF group and healthy controls. Histological evaluation showed a tendency toward reduced mucosal disruption and inflammatory cell infiltration in FBF-treated mice, although the differences in histological scores were not statistically significant. FBF was also associated with increased microbial richness and diversity, as indicated by higher ACE, Chao1, Shannon, and Simpson indices. Principal coordinate analysis and non-metric multidimens…",
+      "authors": "Xiaolan Ying, Jing Li, Yue Tang et al.",
+      "published": "Oct 2026",
+      "feedName": "Frontiers Nutrition",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1932946",
+      "image": "",
+      "screen": "right"
+    },
+    {
+      "title": "Screening of risk factors and construction of a prediction model for enteral nutrition intolerance in elderly patients with comorbidities and sarcopenia",
+      "abstract": "ObjectiveTo screen the independent risk factors for enteral nutrition intolerance (ENI) in elderly comorbid patients with sarcopenia, and to establish and validate a clinical prediction model for individualized risk assessment and targeted intervention.MethodsA total of 202 elderly comorbid patients with sarcopenia receiving enteral nutrition were retrospectively enrolled from the Geriatrics Department of Qingdao Municipal Hospital between January 2024 and December 2025. Patients were divided into ENI group (n = 108) and tolerant group (n = 94). Potential predictive indicators were initially screened via univariate logistic regression. Statistically significant variables were then included in multivariable logistic regression to determine independent risk factors for target events. A visual nomogram prediction model was developed incorporating these independent predictors. Four statistical methods were applied to fully assess model performance: ROC curves for discrimination evaluation, calibration curves for risk fitting verification, DCA for clinical utility assessment, and SHAP analysis to interpret the predictive weight of each variable.ResultsSevere dependence in activities of daily living (ADL) and concomitant psychiatric disorders were independently linked to higher ENI risk, whereas red blood cell (RBC) levels produced a protective effect. The predictive model delivered solid discriminative performance, registering an AUC of 0.77 (95% CI: 0.69–0.85) in the training cohort and 0.70 (95% CI: 0.57–0.84) in the validation cohort. The Hosmer–Lemeshow goodness-of-fit test …",
+      "authors": "Hao Wang, Ruichun Lu",
+      "published": "Oct 2026",
+      "feedName": "Frontiers Nutrition",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1917057",
+      "image": "",
+      "screen": "right"
+    },
+    {
+      "title": "Predictors of body appreciation in mothers of children living with ASD: the role of physical activity, self-compassion, and emotional eating",
+      "abstract": "IntroductionMothers of children living with Autism Spectrum Disorder (ASD) often experience high levels of emotional overload, which can negatively impact their eating behaviors and body image. In this context, body appreciation—a key facet of positive body image—serves as an important protective factor. However, evidence regarding the determinants of body appreciation among caregivers of children with ASD remains limited. This study aimed to investigate the sociodemographic, clinical, lifestyle, and psychological factors associated with body appreciation in mothers of children living with ASD.Materials and methodsThis cross-sectional study evaluated 143 mothers of children with ASD residing in Espírito Santo, Brazil. Data were collected online through self-administered questionnaires assessing sociodemographic and clinical characteristics, nutritional status, lifestyle habits, self-compassion, emotional eating, and body appreciation. Multiple linear regression analysis was conducted using Jeffreys’s Amazing Statistics Program (JASP, version 0.18.0) to identify predictors of body appreciation.ResultsMultiple regression analysis demonstrated that higher body appreciation was significantly predicted by engagement in physical activity (β = 0.293; p = 0.044), child’s age over six years (β = 0.329; p = 0.016), and higher self-compassion (β = 0.440; p < 0.001). High Body Mass Index (BMI) (β = -0.034; p = 0.005) and emotional eating (β = -0.010; p < 0.001) were inversely associated with body appreciation.DiscussionSelf-compassion and physical activity emerged as key positive corre…",
+      "authors": "Marina Reuter Pierote, Isabela Pereira Rocon, Gabriela Grillo da Silva et al.",
+      "published": "Oct 2026",
+      "feedName": "Frontiers Nutrition",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1775100",
       "image": "",
       "screen": "right"
     },
@@ -609,7 +609,7 @@
       "venue": "Food and Bioprocess Technology",
       "feedName": "Lab Research",
       "citationCount": 4,
-      "recentCitations": 0,
+      "recentCitations": 1,
       "quartile": "Q1",
       "s2_paper_id": "034d8c4f0c0f5607a4e6727360aa5d7287e60d5b",
       "url": "https://doi.org/10.1007/s11947-025-03873-y",
@@ -848,8 +848,8 @@
       "published": "2024",
       "venue": "Journal of the American Chemical Society",
       "feedName": "Lab Research",
-      "citationCount": 23,
-      "recentCitations": 0,
+      "citationCount": 24,
+      "recentCitations": 2,
       "quartile": "Q1",
       "s2_paper_id": "e8f95caa1e8ece0c16f246b34ead0788c6d4b146",
       "url": "https://doi.org/10.1021/jacs.4c00625",
@@ -1049,7 +1049,7 @@
       "venue": "Food and Bioprocess Technology",
       "feedName": "Lab Research",
       "citationCount": 4,
-      "recentCitations": 0,
+      "recentCitations": 1,
       "quartile": "Q1",
       "s2_paper_id": "034d8c4f0c0f5607a4e6727360aa5d7287e60d5b",
       "url": "https://doi.org/10.1007/s11947-025-03873-y",

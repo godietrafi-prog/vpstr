@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-01T00:57:23Z",
+  "updated": "2026-10-01T08:06:21Z",
   "items": [
     {
       "title": "Zero hunger is not achievable without peace",
@@ -282,6 +282,26 @@
       "screen": "left"
     },
     {
+      "title": "Transformer-based multimodal deep learning and its application in flavor-nutrition synchronous evaluation",
+      "abstract": "",
+      "authors": "Wenxi Qi, Meiqi Ding, Yi Zhang et al.",
+      "published": "Sep 2026",
+      "feedName": "npj Science of Food",
+      "url": "https://www.nature.com/articles/s41538-026-01186-8",
+      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01186-8/MediaObjects/41538_2026_1186_Fig1_HTML.png",
+      "screen": "left"
+    },
+    {
+      "title": "Milk matrix-driven structural reorganization modulates oral friction and sensory perception in coffee-milk systems",
+      "abstract": "",
+      "authors": "Tong Wu, Jiashuo Huang, Yang Hu et al.",
+      "published": "Sep 2026",
+      "feedName": "npj Science of Food",
+      "url": "https://www.nature.com/articles/s41538-026-01173-z",
+      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01173-z/MediaObjects/41538_2026_1173_Fig1_HTML.png",
+      "screen": "left"
+    },
+    {
       "title": "Bacillus subtilis fermentation improves the structural, textural and volatile properties of whole-wheat dough and steamed buns",
       "abstract": "",
       "authors": "Maosi Fan, Shikun Lin, Xuelian He et al.",
@@ -299,26 +319,6 @@
       "feedName": "npj Science of Food",
       "url": "https://www.nature.com/articles/s41538-026-01062-5",
       "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01062-5/MediaObjects/41538_2026_1062_Fig1_HTML.png",
-      "screen": "left"
-    },
-    {
-      "title": "Analysis of key compounds and flavor differences across four Liupao tea aroma types via flavoromics and molecular docking",
-      "abstract": "",
-      "authors": "Ya Li, Hailin Wu, Jianfeng Liang et al.",
-      "published": "Sep 2026",
-      "feedName": "npj Science of Food",
-      "url": "https://www.nature.com/articles/s41538-026-01166-y",
-      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01166-y/MediaObjects/41538_2026_1166_Fig1_HTML.png",
-      "screen": "left"
-    },
-    {
-      "title": "Nanoencapsulated flavonoids for inflammatory bowel disease: a targeted approach toward clinical application",
-      "abstract": "",
-      "authors": "Thiécla Katiane Osvaldt Rosales, Graziela Scheuer Gomes, Christian S. Carnero Canales et al.",
-      "published": "Sep 2026",
-      "feedName": "npj Science of Food",
-      "url": "https://www.nature.com/articles/s41538-026-01179-7",
-      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01179-7/MediaObjects/41538_2026_1179_Fig1_HTML.png",
       "screen": "left"
     },
     {
@@ -482,42 +482,42 @@
       "screen": "right"
     },
     {
-      "title": "Associations of metabolic dysfunction-associated steatotic liver disease and significant fibrosis phenotypes with glomerular hyperfiltration defined by indexed eGFR",
-      "abstract": "BackgroundTo examine associations of metabolic dysfunction-associated steatotic liver disease (MASLD) and significant fibrosis with glomerular hyperfiltration (GHF) defined from indexed estimated glomerular filtration rate (eGFR), accounting for body size.MethodsWe analyzed 9,140 NHANES participants and 721 adults from a Chinese clinical study. Liver phenotypes were G1 (no steatosis/no significant fibrosis), G2 (MASLD without significant fibrosis), and G3 (MASLD with significant fibrosis). Primary GHF was indexed eGFR above the survey-weighted age- and sex-specific 95th percentile of a low-risk NHANES reference, applied unchanged to both studies. BMI-adjusted Model 3 was central; metabolic adjustment and alternative GHF definitions were sensitivity analyses.ResultsIn NHANES Model 3, G2 and G3 had higher odds of GHF than G1 (OR 2.19, 95% CI 1.57–3.07; OR 2.46, 1.51–4.00), whereas G3 did not differ from G2 (OR 1.12, 0.74–1.70). In the identical fasting subsample, further metabolic adjustment attenuated G2 and G3 versus G1 (OR 1.94 and 2.08), while G3 versus G2 remained near the null. In China, G2 versus G1 was null, whereas G3 had higher odds than G1 and G2; however, G3 included only 29 participants and 8 events. NHANES findings were generally robust to indexed P90, age/sex/BSA-residual, and de-indexed sensitivity definitions.ConclusionIn NHANES, MASLD phenotypes were associated with higher odds of GHF after accounting for body size, whereas significant fibrosis showed no clear incremental association beyond MASLD. The fibrosis-related association observed in the Chinese clin…",
-      "authors": "Wen Tian, Jiameng Wang, Xueling Xu et al.",
-      "published": "Sep 2026",
+      "title": "Influence of Curcuma longa extract on cognitive function in mild cognitive impairment due to Alzheimer’s disease: a single-arm, open-label, observational study",
+      "abstract": "ObjectivesCurcuma longa, commonly known as turmeric, is a dietary spice with potential biological effects. This study evaluated the association between intake of C. longa extracts (CLE) and cognitive function in individuals with mild cognitive impairment (MCI) due to Alzheimer’s disease (AD).MethodsThis was a 4-month, single-arm, open-label, observational study of participants with MCI due to AD who were awaiting anti-amyloid therapy. Participants (n = 13) consumed the test food containing CLE, which includes the compounds bisacurone and turmeronols. Cognitive function was assessed at baseline and after 4 months using various cognitive assessments.ResultsAfter excluding participants with insufficient intake of CLE capsules or invalid data, 10 participants were included in the analysis set, consisting of 2 men and 8 women, with a mean ± standard deviation age of 74.8 ± 6.1 years. CLE intake was associated with significantly higher memory scores (Composite B) and significantly lower estimated brain age at 4 months compared with baseline, as measured by a digital cognitive assessment tool (Nou-Know). In the Japanese version of the Montreal Cognitive Assessment, total scores did not differ significantly after CLE intake, but subscale scores for the attention domain and digit span test increased significantly from baseline.DiscussionThis observational study provides preliminary evidence of a potential association between CLE intake and changes in frontal lobe-mediated functions, particularly working memory, in individuals with MCI due to AD, and further investigation is warrante…",
+      "authors": "Yuta Manabe",
+      "published": "Oct 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1944355",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1951923",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Impact of a 12-week high-intensity interval training program on working memory in young adults with overweight or obesity",
-      "abstract": "ObjectiveTo examine the association of a 12-week high-intensity interval training (HIIT) program with working-memory performance in young adults aged 18–25 years with overweight or obesity.MethodsA total of 120 young adults with overweight or obesity were randomly allocated to an HIIT group (n = 48) or a control group (n = 72). The HIIT group completed a 12-week structured program, whereas the control group maintained usual daily activities. Working-memory updating was assessed using 1-back and 2-back tasks. Post-test body weight and maximal oxygen consumption (VO2max) were analysed using baseline-adjusted analysis of covariance (ANCOVA), whereas body mass index (BMI) was analysed using repeated-measures ANCOVA. Reaction-time outcomes were analysed using a 2 × 2 × 2 mixed repeated-measures ANCOVA, with group as the between-subject factor and time and cognitive load as within-subject factors. Because marked baseline imbalance was observed for accuracy, 1-back and 2-back accuracy were analysed separately using baseline-adjusted post-test ANCOVA. Exploratory partial correlation analyses examined associations between changes in VO2max and n-back performance separately within the HIIT and control groups. An additional exploratory linear regression model tested whether the association between VO2max improvement and 2-back reaction-time improvement differed between groups.ResultsBaseline-adjusted ANCOVA showed lower post-test body weight in the HIIT group than in the control group [F(1,115) = 110.07, p < 0.001, η2 = 0.256] and higher post-test VO2max [F(1,115) = 300.86, p < 0.001,…",
-      "authors": "Li-Na Zhu, Wei Yuan, Qi-Zheng Gu et al.",
-      "published": "Sep 2026",
+      "title": "Dietary intake and circulating levels of vitamins, antioxidants, and fatty acids in relation to coronary heart disease risk: a systematic review and dose–response meta-analysis",
+      "abstract": "BackgroundAssociations between vitamin, antioxidant, and fatty acid exposure and coronary heart disease (CHD) risk remain uncertain, and dose–response relationships are poorly defined. This study aimed to evaluate the overall and dose–response associations between dietary and circulating vitamin, antioxidant, and fatty acid levels and CHD risk from observational evidence.MethodsPubMed, Web of Science, Embase, and the Cochrane Library were searched for studies published up to February 2, 2026 (PROSPERO: CRD420261380823). Eligible observational studies (case–control, cohort, cross-sectional) reporting associations between vitamin, antioxidant, or fatty acid levels and CHD risk were included. A total of 27 studies were analyzed. Categorical (highest vs. lowest) and dose–response analyses were performed, estimating pooled odds ratios (ORs), relative risks (RRs), and hazard ratios (HRs).ResultsTwenty-seven observational studies were included. In categorical analyses, higher circulating 25(OH)D (pooled HR = 0.79, 95% CI = 0.74–0.85; I2 = 1.4%, τ2 = 0.0000) and carotenoids (pooled OR = 0.64, 95% CI = 0.46–0.91; I2 = 0.0%, τ2 = 0.0000) were inversely associated with CHD risk. In analyses per 1-SD increase in circulating fatty acid levels, linoleic acid was inversely associated with CHD risk (pooled OR = 0.69, 95% CI = 0.57–0.84; I2 = 0.0%, τ2 = 0.0000), whereas palmitic acid (pooled OR = 1.52, 95% CI = 1.23–1.89; I2 = 0.0%, τ2 = 0.0000) and dihomo-γ-linolenic acid (DGLA; pooled OR = 1.26, 95% CI = 1.05–1.52; I2 = 0.0%, τ2 = 0.0000) were positively associated with CHD risk. Several …",
+      "authors": "Peng Tian, Chang Su, Yang Yang et al.",
+      "published": "Oct 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1869229",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1920716",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "A nomogram incorporating nutritional risk for predicting 31-day unplanned readmission in adults with type 2 diabetes mellitus using LASSO regression",
-      "abstract": "ObjectiveTo develop and validate a nomogram incorporating nutritional risk for predicting 31-day unplanned readmission in patients with type 2 diabetes mellitus (T2DM).MethodsThis retrospective study included 1,627 T2DM patients. A nomogram was constructed using least absolute shrinkage and selection operator (LASSO) regression on a training set (n = 1,139) and an internal hold-out set (n = 488). Predictors were selected from demographics, lifestyle, clinical, and nutritional parameters. Model performance was evaluated using ROC curves, calibration plots, and decision curve analysis.ResultsThe 31-day unplanned readmission rate was 18.50%. Six predictors were identified: smoking history, peripheral vascular disease in patients with type 2 diabetes mellitus (PVD in T2DM), diabetes duration, glycated hemoglobin (HbA1c), nutritional risk and neutrophil-to-lymphocyte ratio (NLR). The nomogram showed good discrimination in both training (AUC = 0.846; 95% CI: 0.814–0.878) and internal hold-out set (AUC = 0.817; 95% CI: 0.761–0.873), with acceptable calibration.ConclusionIn this single-center retrospective cohort, the nomogram demonstrated potential for predicting 31-day unplanned readmission in T2DM patients by integrating clinical, metabolic, inflammatory, and nutritional dimensions. Routine nutritional assessment at admission may help identify high-risk individuals; however, external validation in geographically and temporally diverse populations is necessary before clinical application.",
-      "authors": "Jing Cao, Qiumei Shi, Zikai Yu et al.",
-      "published": "Sep 2026",
+      "title": "Probiotics and synbiotics as adjunctive therapies for heart failure: a systematic review with network and pairwise meta-analyses",
+      "abstract": "ObjectiveThis study aimed to evaluate the use of probiotics and synbiotics as microbiome-directed adjunctive therapies for heart failure (HF), while explicitly determining whether any eligible prebiotic-only trials existed.MethodsWe searched eight English- and Chinese-language databases from inception to 1 May 2026 and conducted expanded sensitivity searches in PubMed, Embase, and Web of Science on 15 July 2026. Random-effects network meta-analysis (NMA) was used only for connected multi-node evidence; two-node evidence was analyzed pairwise. As placebo, usual care, and food comparators were not clinically exchangeable, comparator-stratified sensitivity analyses of direct evidence were conducted using restricted maximum likelihood (REML) and Hartung-Knapp (HK) confidence intervals (CIs).ResultsA total of 12 randomized studies were included in the systematic review (14 reports); 11 contributed to at least one primary or sensitivity quantitative analysis, and 10 contributed to the primary analyses. The revision-stage search audit identified no additional eligible randomized trials and no eligible prebiotic-only trials. Across all the trial populations, 1,021 participants were randomized, 973 of whom were allocated to review-eligible arms. The left ventricular ejection fraction (LVEF) network included 7 studies and 539 participants in the analysis set; however, this network was star-shaped, had no closed loops, and depended on a combined comparator node. The exploratory NMA estimate for multi-strain bacterial probiotics versus the combined comparator was a mean difference (MD)…",
+      "authors": "Qin Liu, Huanxin Xie, Fenwang Lin et al.",
+      "published": "Oct 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1863130",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1898538",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Malnutrition risk factors and a pre-post evaluation of a multicomponent management program in older inpatients with chronic heart failure: a single-centre retrospective study",
-      "abstract": "ObjectiveTo investigate nutritional impairment-related outcomes admission among hospitalized older patients with chronic heart failure (CHF) and to conduct a pre-post evaluation of the clinical effect of a unified multicomponent management program delivered to all enrolled patients during their inpatient stay.MethodsA single-centre retrospective observational study was split into two independent analytical parts. Part 1: Retrospective risk factor and model construction analysis: We screened 200 complete medical records of elderly CHF inpatients admitted from March 2023 to March 2024, stratified participants into nutritionally impaired (n = 71) and non-impaired (n = 129) groups based on combined admission GNRI + NRS2002 assessment using a pre-defined “and” algorithm: impaired if GNRI ≤98 and NRS2002 ≥ 3; non-impaired if GNRI >98 and NRS2002 < 3, then performed univariate, multicollinearity and multivariate logistic regression analyses to screen nutritional risk-related variables and construct an internally validated nomogram prediction model, only using cross-sectional admission data without repeated follow-up assessment. Uncontrolled inpatient before-after observational sub-study: All 200 enrolled patients received a unified full-hospital multicomponent management program, which was uniformly implemented from the first day of each patient’s admission throughout their entire hospital stay. Nutritional risk status, NYHA classification, Hb, CRP, and SAS scores were measured at two fixed time points: baseline (admission day, before intervention initiation) and discharge day (po…",
-      "authors": "Sujun Yu, Miaomiao Wan, Yuqi Li",
-      "published": "Sep 2026",
+      "title": "Case Report: Myelodysplastic changes and 7q deletion in a case of vitamin B12 deficiency: a diagnostic pitfall",
+      "abstract": "Vitamin B12 plays a crucial role in DNA synthesis, and its deficiency can occasionally present with atypical hematological manifestations mimicking myelodysplastic syndrome (MDS). There is limited literature describing reversible chromosomal abnormalities associated with vitamin B12 deficiency. We report an 11-year-old girl who presented with generalized body aches for 1 month and fever, easy fatigability, and respiratory distress for 2 days. Examination revealed pallor and hepatomegaly, with no splenomegaly. Investigations showed severe anemia (hemoglobin 3.1 g/dL), thrombocytopenia, a low corrected reticulocyte count, and macrocytosis with macro-ovalocytes on a peripheral smear. Considering pancytopenia with congestive cardiac failure, the differential diagnoses included viral infection-induced cytopenias, leukemia, megaloblastic anemia, and MDS. Bone marrow examination demonstrated myelodysplastic changes, while cytogenetic analysis revealed a 7q deletion in 18% of metaphases. Serum vitamin B12 levels were markedly low ( < 83 pg./mL). The child received a packed red cell transfusion and oral vitamin B12 supplementation, following which the blood counts improved significantly. Repeat bone marrow examination after 2 months showed complete resolution of the abnormalities. Vitamin B12 deficiency can rarely lead to chromosomal abnormalities such as 7q and 20q deletions, aneuploidy, and hypoploidy because of impaired DNA synthesis and uracil misincorporation into DNA strands. Such abnormalities are classically associated with MDS and acute myeloid leukemia, potentially leading…",
+      "authors": "Ritika Khurana, Purva Kanvinde, Sangeeta Mudaliar",
+      "published": "Oct 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1905053",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1883509",
       "image": "",
       "screen": "right"
     },
@@ -849,7 +849,7 @@
       "venue": "Journal of the American Chemical Society",
       "feedName": "Lab Research",
       "citationCount": 23,
-      "recentCitations": 1,
+      "recentCitations": 0,
       "quartile": "Q1",
       "s2_paper_id": "e8f95caa1e8ece0c16f246b34ead0788c6d4b146",
       "url": "https://doi.org/10.1021/jacs.4c00625",

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-01T16:50:01Z",
+  "updated": "2026-10-01T22:14:11Z",
   "items": [
     {
       "title": "Cybersecurity and resiliency in agricultural and food systems",
@@ -362,6 +362,26 @@
       "screen": "left"
     },
     {
+      "title": "AI method predicts retention times of small molecules more reliably",
+      "abstract": "Whether in drug discovery, environmental analysis or metabolomics: anyone analyzing complex biological samples often needs to identify the small molecules they contain. Researchers at Friedrich Schiller University Jena, in collaboration with partners from the Helmholtz Zentrum München and the Technical University of Munich, have developed a method that addresses a problem in analytical chemistry that has persisted for decades.",
+      "authors": "",
+      "published": "Oct 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-10-ai-method-retention-small-molecules.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/when-does-the-molecule-2.jpg",
+      "screen": "right"
+    },
+    {
+      "title": "Crystals thinner than human hair can move or partly dissolve when exposed to chloroform",
+      "abstract": "Many of the common materials we encounter in our daily lives are crystalline, including ice, salt and sugar. The crystal structures of some solids are formed from molecules arranged in simple geometric patterns, and these patterns can be changed to give the solids special properties required for high-tech applications. However, changing these connections requires extreme measures, such as high heat, leaving researchers with the challenge of finding an easier transformation method.",
+      "authors": "",
+      "published": "Oct 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-10-crystals-thinner-human-hair-dissolve.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/small-changes-strong-i.jpg",
+      "screen": "right"
+    },
+    {
       "title": "Stable salts unlock alternative to potentially explosive reagents in carbene chemistry",
       "abstract": "Many useful reactions in chemistry come with a trade-off: the reactive reagents that make them effective can also present practical and safety challenges. Carbene chemistry is one such example. For decades, chemists have relied on diazo compounds to generate reactive carbenes, even though diazoalkanes can be toxic, unstable and potentially explosive.",
       "authors": "",
@@ -379,26 +399,6 @@
       "feedName": "Phys.org Analytics",
       "url": "https://phys.org/news/2026-10-device-devil-beverages-minutes.html",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/a-device-has-been-deve.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "Fine-tuning cobalt for cleaner chemical transformations",
-      "abstract": "Finding alternatives to precious metals in chemical manufacturing may be less like sourcing a substitute and more like tuning an instrument already in hand.",
-      "authors": "",
-      "published": "Sep 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-09-fine-tuning-cobalt-cleaner-chemical.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/fine-tuning-cobalt-for.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "Fluorescent sensors could help researchers see diabetes in action",
-      "abstract": "Researchers from the University of Bath have developed fluorescent molecular probes that can detect changes in glucose levels inside living animals, giving scientists new ways of visualizing sugar uptake and studying diabetes, cancer and other metabolic diseases in whole organisms in real time. The findings are published in the journal Advanced Science.",
-      "authors": "",
-      "published": "Sep 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-09-fluorescent-sensors-diabetes-action.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2021/sugar.jpg",
       "screen": "right"
     },
     {
@@ -608,7 +608,7 @@
       "published": "2025",
       "venue": "Food and Bioprocess Technology",
       "feedName": "Lab Research",
-      "citationCount": 4,
+      "citationCount": 5,
       "recentCitations": 1,
       "quartile": "Q1",
       "s2_paper_id": "034d8c4f0c0f5607a4e6727360aa5d7287e60d5b",
@@ -1048,7 +1048,7 @@
       "published": "2025",
       "venue": "Food and Bioprocess Technology",
       "feedName": "Lab Research",
-      "citationCount": 4,
+      "citationCount": 5,
       "recentCitations": 1,
       "quartile": "Q1",
       "s2_paper_id": "034d8c4f0c0f5607a4e6727360aa5d7287e60d5b",

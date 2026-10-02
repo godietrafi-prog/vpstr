@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-01T22:14:11Z",
+  "updated": "2026-10-02T03:14:07Z",
   "items": [
     {
       "title": "Cybersecurity and resiliency in agricultural and food systems",
@@ -282,6 +282,16 @@
       "screen": "left"
     },
     {
+      "title": "Combinatorial effects of EPA and Bifidobacterium breve associated with autism: bioactive metabolites and molecular targets",
+      "abstract": "",
+      "authors": "Miaoyu Li, Qingcheng Wang, Jiaqi Wang et al.",
+      "published": "Oct 2026",
+      "feedName": "npj Science of Food",
+      "url": "https://www.nature.com/articles/s41538-026-01182-y",
+      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01182-y/MediaObjects/41538_2026_1182_Fig1_HTML.png",
+      "screen": "left"
+    },
+    {
       "title": "Transformer-based multimodal deep learning and its application in flavor-nutrition synchronous evaluation",
       "abstract": "",
       "authors": "Wenxi Qi, Meiqi Ding, Yi Zhang et al.",
@@ -309,16 +319,6 @@
       "feedName": "npj Science of Food",
       "url": "https://www.nature.com/articles/s41538-026-01172-0",
       "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01172-0/MediaObjects/41538_2026_1172_Fig1_HTML.png",
-      "screen": "left"
-    },
-    {
-      "title": "Cold plasma-assisted valorization of food industry byproducts: a review of mechanisms, applications and research gaps",
-      "abstract": "",
-      "authors": "Javaneh Karimi, Maryam Kazemi, Ali Ahsani et al.",
-      "published": "Sep 2026",
-      "feedName": "npj Science of Food",
-      "url": "https://www.nature.com/articles/s41538-026-01062-5",
-      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01062-5/MediaObjects/41538_2026_1062_Fig1_HTML.png",
       "screen": "left"
     },
     {
@@ -362,6 +362,26 @@
       "screen": "left"
     },
     {
+      "title": "Counteranions reshape molecular packing to tune magnetism in copper complexes",
+      "abstract": "Magnetic properties in molecular materials depend not only on the molecular components themselves but also on their solid-state organization. In charged π-electronic systems, electrostatic and dispersion forces can organize molecules into distinct ion-pairing structures.",
+      "authors": "",
+      "published": "Oct 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-10-counteranions-reshape-molecular-tune-magnetism.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/counteranions-reshape.jpg",
+      "screen": "right"
+    },
+    {
+      "title": "Ions help electrons hop through porous material with potential for brain-inspired computing",
+      "abstract": "Next-generation computing technologies could be one step closer to emulating how neurons respond and communicate with each other, thanks to research examining how electrons and ions move through materials.",
+      "authors": "",
+      "published": "Oct 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-10-ions-electrons-porous-material-potential.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/new-research-advances-1.jpg",
+      "screen": "right"
+    },
+    {
       "title": "AI method predicts retention times of small molecules more reliably",
       "abstract": "Whether in drug discovery, environmental analysis or metabolomics: anyone analyzing complex biological samples often needs to identify the small molecules they contain. Researchers at Friedrich Schiller University Jena, in collaboration with partners from the Helmholtz Zentrum München and the Technical University of Munich, have developed a method that addresses a problem in analytical chemistry that has persisted for decades.",
       "authors": "",
@@ -379,26 +399,6 @@
       "feedName": "Phys.org Analytics",
       "url": "https://phys.org/news/2026-10-crystals-thinner-human-hair-dissolve.html",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/small-changes-strong-i.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "Stable salts unlock alternative to potentially explosive reagents in carbene chemistry",
-      "abstract": "Many useful reactions in chemistry come with a trade-off: the reactive reagents that make them effective can also present practical and safety challenges. Carbene chemistry is one such example. For decades, chemists have relied on diazo compounds to generate reactive carbenes, even though diazoalkanes can be toxic, unstable and potentially explosive.",
-      "authors": "",
-      "published": "Oct 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-10-stable-salts-alternative-potentially-explosive.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/safe-carbene-transfer.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "Device detects 'Devil's Breath' in beverages in just 10 minutes",
-      "abstract": "Assault facilitated by drugs such as scopolamine (popularly known as Devil's Breath) is a serious public health and forensic concern. This drug is especially hazardous due to its strong amnesic, sedative and hallucinogenic effects, combined with its lack of color, odor and taste, which prevents it from being detected when ingested. Despite its toxicological importance, there are still few methods available for the rapid onsite detection of scopolamine.",
-      "authors": "",
-      "published": "Oct 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-10-device-devil-beverages-minutes.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/a-device-has-been-deve.jpg",
       "screen": "right"
     },
     {
@@ -649,7 +649,7 @@
       "venue": "Soil Science Annual",
       "feedName": "Lab Research",
       "citationCount": 9,
-      "recentCitations": 1,
+      "recentCitations": 0,
       "quartile": null,
       "s2_paper_id": "8aa653c59706d0f1e9269886f0967e540b52e7f0",
       "url": "https://doi.org/10.37501/soilsa/183903",
@@ -769,7 +769,7 @@
       "venue": "Toxins",
       "feedName": "Lab Research",
       "citationCount": 19,
-      "recentCitations": 1,
+      "recentCitations": 0,
       "quartile": null,
       "s2_paper_id": "e6a6854e55ee8f5a8ace3025ba0d32e33a650343",
       "url": "https://doi.org/10.3390/toxins16030163",
@@ -849,7 +849,7 @@
       "venue": "Journal of the American Chemical Society",
       "feedName": "Lab Research",
       "citationCount": 24,
-      "recentCitations": 2,
+      "recentCitations": 1,
       "quartile": "Q1",
       "s2_paper_id": "e8f95caa1e8ece0c16f246b34ead0788c6d4b146",
       "url": "https://doi.org/10.1021/jacs.4c00625",

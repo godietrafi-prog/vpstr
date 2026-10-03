@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-03T00:51:39Z",
+  "updated": "2026-10-03T07:20:33Z",
   "items": [
     {
       "title": "Cybersecurity and resiliency in agricultural and food systems",
@@ -222,22 +222,22 @@
       "screen": "left"
     },
     {
-      "title": "From predictive AI to autonomous food bioprocessing: a critical review of real-time quality monitoring, energy optimization, digital twins, and intelligent process control",
-      "abstract": "Food bioprocessing is transitioning from conventional automation towards intelligent, data-driven, and increasingly autonomous manufacturing. A substantial gap nevertheless remains between accurate process prediction and reliable autonomous control. This critical narrative review examines the convergence of real-time sensing, artificial intelligence (AI), energy and process optimisation, hybrid physics–AI modelling, digital twins, and intelligent closed-loop control in food bioprocess engineering, with explicit attention to what has been demonstrated experimentally, at pilot scale, or only in simulation versus what remains conceptual. A structured narrative review informed by SANRA principles was conducted using Scopus, Web of Science, ScienceDirect, IEEE Xplore, and Google Scholar, with literature published up to 17 August 2026 considered and supplemented by a second, targeted search cycle addressing process analytical technology, electronic sensing, convolutional-network quality evaluation, and digital-twin applications in thermal, baking, and cold-chain processes. Evidence was synthesised according to the technological progression from monitoring and prediction to optimisation, digital twins, intelligent control, and autonomy. The evidence indicates substantial advances in smart sensing, machine learning, multimodal quality assessment, and multi-objective optimisation, with demonstrated opportunities to improve product quality, energy efficiency, productivity, and resource utilisation. Nevertheless, most applications remain concentrated at monitoring, predictive-modellin…",
-      "authors": "Chinyere Nneoma Ugwu, Fabian Chukwudi Ogenyi, Jovita Nnenna Ugwu et al.",
-      "published": "Oct 2026",
-      "feedName": "Frontiers Food Science",
-      "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.1974464",
-      "image": "",
-      "screen": "left"
-    },
-    {
       "title": "Oil palm fiber extract as a fermentable functional ingredient: in vitro gastrointestinal carbohydrate hydrolysis, feline fecal fermentation, and microbiota-associated metabolite production",
       "abstract": "Obesity-associated gastrointestinal disturbances in companion animals have increased interest in dietary ingredients that may modulate intestinal fermentation and microbial metabolism. This study evaluated the in vitro gastrointestinal digestion, fecal fermentation, microbiota responses, and metabolite production associated with oil palm fiber extract (OPF) in a feline gastrointestinal model. OPF, commercial feline diet (CFD), OPF-supplemented CFD (OPF+CFD), and commercial weight-control diet (WCD) were subjected to simulated gastrointestinal digestion followed by 24 h of anaerobic fecal fermentation. Fecal samples from nine cats were pooled to prepare a common inoculum. Carbohydrate hydrolysis of OPF following simulated gastrointestinal digestion was 4.01% ± 0.54%, indicating limited hydrolysis under the experimental conditions. Phenolic and flavonoid-equivalent responses were retained after digestion, although values exceeding 100% were interpreted as increased assay responses rather than recovery above the initial values. During fermentation, OPF was associated with increased concentrations of acetate, propionate, and butyrate, together with changes in branched-chain fatty acids. Microbiome profiling indicated treatment-associated changes in bacterial community composition and diversity patterns. LC-QTOF-MS analysis detected several phenolic-related metabolites in OPF-containing treatments after fermentation, including hydroxyphenylpropionic acid- and coumarin-related compounds. However, these metabolites were tentatively annotated, and their formation from specific OPF …",
       "authors": "Kristina Dea Ivanalie, Uchenna Kalu Akpi, Yada Duangnumsawang et al.",
       "published": "Oct 2026",
       "feedName": "Frontiers Food Science",
       "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.1931174",
+      "image": "",
+      "screen": "left"
+    },
+    {
+      "title": "Biomacromolecule-based encapsulation of Hibiscus sabdariffa polyphenols for functional foods and nutraceuticals",
+      "abstract": "Hibiscus sabdariffa is recognized not only as a source of bioactive polyphenols but also as an underutilized biomass resource. This review examines an integrated valorization approach that connects phytochemical variability and extraction strategies with biomacromolecule-based encapsulation for functional foods and nutraceuticals. Anthocyanins, flavonoids, phenolic acids, and organic acids vary among plant parts, accessions, and processing residues, highlighting the importance of residue-specific recovery and preservation. Extraction technologies can improve recovery, but higher extraction efficiency may compromise thermolabile anthocyanins, so recovery should be balanced with chemical integrity. Encapsulation approaches, including spray drying, freeze drying, calcium alginate gelation, carbohydrate and protein matrices, liposomes, polymeric systems, and nanostructured lipid carriers, provide options for improving the stability, handling, dispersibility, and gastrointestinal delivery of Hibiscus sabdariffa bioactive compounds. However, evidence specifically linking these encapsulation systems to residue-derived H. sabdariffa bioactives remains limited. Future research should integrate residue-specific extraction with food-compatible carrier design, quantitative release kinetics, bioaccessibility testing, scale-up, and sustainability to support the development of value-added roselle-derived ingredients while preserving sensory quality and commercial potential.",
+      "authors": "Naasrin Shaikh, Ramendra Pati Pandey, Lubna Shaik",
+      "published": "Oct 2026",
+      "feedName": "Frontiers Food Science",
+      "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.1975629",
       "image": "",
       "screen": "left"
     },

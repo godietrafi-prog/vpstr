@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-03T20:23:11Z",
+  "updated": "2026-10-04T00:15:24Z",
   "items": [
     {
       "title": "Cybersecurity and resiliency in agricultural and food systems",
@@ -282,6 +282,36 @@
       "screen": "left"
     },
     {
+      "title": "Discovery of saltiness-enhancing peptides from Hypsizygus marmoreus via virtual screening, multisensory evaluation, electronic tongue, and molecular simulation",
+      "abstract": "",
+      "authors": "Wenping Kong, Li Lin, Liting Lai et al.",
+      "published": "Oct 2026",
+      "feedName": "npj Science of Food",
+      "url": "https://www.nature.com/articles/s41538-026-01088-9",
+      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01088-9/MediaObjects/41538_2026_1088_Fig1_HTML.png",
+      "screen": "left"
+    },
+    {
+      "title": "Age associated differences in the composition and function of yak milk",
+      "abstract": "",
+      "authors": "Yunduan Wang, Shaohui Beng, Kechao Chen et al.",
+      "published": "Oct 2026",
+      "feedName": "npj Science of Food",
+      "url": "https://www.nature.com/articles/s41538-026-01178-8",
+      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01178-8/MediaObjects/41538_2026_1178_Fig1_HTML.png",
+      "screen": "left"
+    },
+    {
+      "title": "Resource utilization and phenological dynamics in underground-aboveground parts of Rheum tanguticum via metabolomics and microbiomics",
+      "abstract": "",
+      "authors": "Jianan Li, Bo Wang, Xue Yang et al.",
+      "published": "Oct 2026",
+      "feedName": "npj Science of Food",
+      "url": "https://www.nature.com/articles/s41538-026-01185-9",
+      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01185-9/MediaObjects/41538_2026_1185_Fig1_HTML.png",
+      "screen": "left"
+    },
+    {
       "title": "Combinatorial effects of EPA and Bifidobacterium breve associated with autism: bioactive metabolites and molecular targets",
       "abstract": "",
       "authors": "Miaoyu Li, Qingcheng Wang, Jiaqi Wang et al.",
@@ -289,36 +319,6 @@
       "feedName": "npj Science of Food",
       "url": "https://www.nature.com/articles/s41538-026-01182-y",
       "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01182-y/MediaObjects/41538_2026_1182_Fig1_HTML.png",
-      "screen": "left"
-    },
-    {
-      "title": "Transformer-based multimodal deep learning and its application in flavor-nutrition synchronous evaluation",
-      "abstract": "",
-      "authors": "Wenxi Qi, Meiqi Ding, Yi Zhang et al.",
-      "published": "Sep 2026",
-      "feedName": "npj Science of Food",
-      "url": "https://www.nature.com/articles/s41538-026-01186-8",
-      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01186-8/MediaObjects/41538_2026_1186_Fig1_HTML.png",
-      "screen": "left"
-    },
-    {
-      "title": "Milk matrix-driven structural reorganization modulates oral friction and sensory perception in coffee-milk systems",
-      "abstract": "",
-      "authors": "Tong Wu, Jiashuo Huang, Yang Hu et al.",
-      "published": "Sep 2026",
-      "feedName": "npj Science of Food",
-      "url": "https://www.nature.com/articles/s41538-026-01173-z",
-      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01173-z/MediaObjects/41538_2026_1173_Fig1_HTML.png",
-      "screen": "left"
-    },
-    {
-      "title": "Bacillus subtilis fermentation improves the structural, textural and volatile properties of whole-wheat dough and steamed buns",
-      "abstract": "",
-      "authors": "Maosi Fan, Shikun Lin, Xuelian He et al.",
-      "published": "Sep 2026",
-      "feedName": "npj Science of Food",
-      "url": "https://www.nature.com/articles/s41538-026-01172-0",
-      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01172-0/MediaObjects/41538_2026_1172_Fig1_HTML.png",
       "screen": "left"
     },
     {

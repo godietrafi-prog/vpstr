@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05T00:22:59Z",
+  "updated": "2026-10-05T07:59:27Z",
   "items": [
     {
       "title": "Cybersecurity and resiliency in agricultural and food systems",
@@ -402,6 +402,16 @@
       "screen": "right"
     },
     {
+      "title": "The “glue” holding your cells together has a surprising second job",
+      "abstract": "Scientists have discovered that E-cadherin, a protein best known as the “glue” holding cells and tissues together, has a surprising second job: helping epithelial cells swallow nearby dead cells. Using live zebrafish and mouse embryos, researchers found that cells can dramatically reshape their lower surfaces to engulf cellular debris while keeping their upper surfaces stable, allowing protective barriers to remain sealed.",
+      "authors": "",
+      "published": "Oct 2026",
+      "feedName": "ScienceDaily Biotech",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261002080023.htm",
+      "image": "https://www.sciencedaily.com/images/1920/living-zebrafish-embryo-with-actin.webp",
+      "screen": "right"
+    },
+    {
       "title": "Scientists find evidence for two origins of life on Earth",
       "abstract": "Scientists probing life’s deepest origins have uncovered evidence that the first free-living cells may have emerged not once, but twice. The findings suggest a striking possibility: life may share one ancient genetic code, yet have undergone two separate transitions into free-living existence.",
       "authors": "",
@@ -429,16 +439,6 @@
       "feedName": "ScienceDaily Biotech",
       "url": "https://www.sciencedaily.com/releases/2026/03/260314030457.htm",
       "image": "https://www.sciencedaily.com/images/1920/mraz-protein.webp",
-      "screen": "right"
-    },
-    {
-      "title": "Light-guided evolution creates proteins that can switch, sense, and compute",
-      "abstract": "Researchers have created a method called optovolution that uses light to guide the evolution of proteins with dynamic behaviors. By engineering yeast cells so their survival depended on proteins switching states at the right time, scientists could rapidly select the best-performing variants. The technique produced new light-sensitive proteins that respond to different colors and improved optogenetic systems. It even evolved a protein that behaves like a tiny logic gate, activating genes only when two signals are present.",
-      "authors": "",
-      "published": "Mar 2026",
-      "feedName": "ScienceDaily Biotech",
-      "url": "https://www.sciencedaily.com/releases/2026/03/260309183211.htm",
-      "image": "https://www.sciencedaily.com/images/1920/activating-genes-with-light.webp",
       "screen": "right"
     },
     {
@@ -482,42 +482,42 @@
       "screen": "right"
     },
     {
-      "title": "Comparative characterization of volatile components in commercial Huangjiu with different sweetness classifications using electronic nose, HS-SPME-GC-MS and GC-IMS",
-      "abstract": "BackgroundHuangjiu has diverse flavor characteristics across four official sweetness classifications, and complementary analytical measurements can provide a more detailed comparison of volatile profiles among commercial products.MethodsCommercial Huangjiu samples representing dry, semi-dry, semi-sweet, and sweet types from the same manufacturer were characterized using an electronic nose, HS-SPME-GC-MS, and GC-IMS.ResultsE-nose responses indicated differences in response patterns among the four commercial products. HS-SPME-GC-MS tentatively identified 56 volatile compounds, while GC-IMS tentatively identified 54 volatile compounds, excluding the internal standard. The two platforms were complementary: GC-MS provided broader compound coverage, while GC-IMS showed enhanced sensitivity toward low-molecular-weight volatile compounds. Comparative analysis revealed differences in volatile composition and identified differential volatile compounds associated with sample separation in the fitted models.ConclusionThese findings provide a comparative chemical basis for understanding the quality characteristics of commercial Huangjiu with different sweetness classifications and demonstrate the value of integrating complementary analytical techniques for fermented food characterization and quality evaluation.",
-      "authors": "Ze Zheng, Dongxue Qi, Xiaolei Tang et al.",
+      "title": "Text-based nutrient estimation by large language models: a comparative evaluation against the Chinese Food Composition Table",
+      "abstract": "BackgroundLarge language models (LLMs) increasingly provide nutrient information, but their accuracy for Chinese foods and their consistency across repeated queries are not well established.ObjectiveTo compare nutrient estimates from nine general-purpose LLMs with the Chinese Food Composition Table (CFCT) and assess within-model reproducibility.MethodsFor 299 commonly consumed Chinese foods, each model estimated energy and 14 nutrients per 100 g in three independent runs (8,073 food-level outputs). Model means were compared with CFCT values using absolute-agreement intraclass correlation coefficients (ICCs), bias, mean absolute error (MAE), root mean squared error, percentage error, and Bland–Altman limits of agreement. Repeated-run ICCs and coefficients of variation assessed reproducibility.ResultsAgreement was excellent for energy, fat, carbohydrate, sodium, and vitamin C across all nine models, and good to excellent for protein. Performance was less consistent for vitamin A, zinc, iron, and potassium. Repeated-run stability was high for energy and macronutrients but lowest for vitamin A. GLM had the most favorable combined accuracy-stability profile, followed by Minimax and Qwen. Even when aggregate agreement was high, individual food estimates sometimes showed substantial error.ConclusionGeneral-purpose LLMs can approximate energy and macronutrient values for Chinese foods under controlled text-based conditions, but micronutrient estimates remain less dependable. Values intended for clinical or other high-stakes applications should be verified using validated food-compo…",
+      "authors": "Yongwen Cao, Zhendong Liu, Ning Wang et al.",
       "published": "Oct 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1941350",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1952757",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Knowledge, attitudes, and practices regarding enteral nutrition interruption management in intensive care units: a multicenter cross-sectional study predominantly among nurses",
-      "abstract": "BackgroundEnteral nutrition (EN) is essential for critically ill patients, yet enteral nutrition interruption (ENI) is common in intensive care unit (ICU) and compromises nutrient delivery. ENI reflects clinical conditions, workflows, team collaboration, and bedside implementation, but how knowledge, attitudes, and practices (KAP) interact remains unclear.ObjectiveTo assess ENI-related knowledge, attitudes, and practices among ICU healthcare professionals, predominantly nurses, and examine their interrelationships and associations with training, demographic, and organizational factors.MethodsThis multicenter cross-sectional survey included 478 ICU healthcare professionals from 14 hospitals in Shandong and Henan, China, between December 2025 and February 2026; 93.5% were nurses. Self-reported KAP were assessed using a validated questionnaire. Descriptive statistics, Spearman correlation, multiple linear regression, and observed-variable path analysis were conducted.ResultsSelf-assessed knowledge scores were lower than attitude and practice scores, particularly for items related to the operational definitions of ENI. The three KAP domains were positively correlated, with the strongest correlation between knowledge and practice (ρ = 0.738, p < 0.001). Path analysis suggested that knowledge was associated with both attitudes and practices and that attitudes were also associated with practices. Bootstrap analysis further indicated a possible indirect association between knowledge and practice through attitudes (indirect effect = 0.339, 95% CI 0.246–0.438). EN-related training wa…",
-      "authors": "Quanquan He, Weiwei Ni, Maoyun Miao et al.",
+      "title": "Clinical effects of probiotic supplementation on depressive symptom severity in adults with depressive disorders: a systematic review and meta-analysis",
+      "abstract": "BackgroundProbiotic supplementation has been investigated as a potential adjunctive treatment for depressive disorders, but its clinical efficacy and safety remain uncertain. This systematic review and meta-analysis aimed to evaluate the effects of probiotics on depressive symptom severity, clinical response, remission, treatment discontinuation, and adverse events in adults with clinically diagnosed depressive disorders.MethodsThis systematic review and meta-analysis was conducted in accordance with PRISMA guidelines. PubMed, Embase, Web of Science, and the Cochrane Library were searched from inception to May 8, 2026. Randomized controlled trials (RCTs) evaluating orally administered probiotics against placebo or another non-probiotic control were included. Continuous outcomes were summarized as standardized mean differences (SMDs) using Hedges’ g, and dichotomous outcomes as risk ratios (RRs), with 95% confidence intervals (CIs). Random-effects models used restricted maximum likelihood estimation with Hartung–Knapp adjustment. Heterogeneity was assessed using Cochran’s Q, I2, and τ2, and robustness was examined using leave-one-out sensitivity analysis.ResultsNine RCTs involving 460 participants were included. Probiotic supplementation was associated with a modest reduction in depressive symptom severity (SMD, −0.43; 95% CI, −0.73 to −0.12; I2 = 46.8%; τ2 = 0.069). The 95% prediction interval ranged from −1.10 to 0.25. Leave-one-out estimates ranged from −0.52 to −0.38, with all 95% CIs excluding zero. No significant effect modification was detected across formulation, dos…",
+      "authors": "You-Sheng Zhang, Li-Shuang Zhang, Kun Zhang et al.",
       "published": "Oct 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1888995",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1900466",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Editorial: Advanced biosensors and chemosensors toward mycotoxins analysis for food safety",
-      "abstract": "",
-      "authors": "Mengke Zhang, Xiaodong Guo, Marie-Laure Fauconnier",
+      "title": "Prevalence and patterns of sports supplement use in elite wheelchair basketball players: an analysis based on the AIS framework",
+      "abstract": "BackgroundSports supplement use is widespread in elite sport, yet evidence regarding supplementation practices in Paralympic team sports remains limited. Wheelchair basketball players present specific physiological and contextual characteristics that may influence supplement use and its alignment with current scientific evidence.MethodsA cross-sectional descriptive study was conducted in 66 elite Spanish wheelchair basketball players (57 men and 9 women) from 10 first-division teams. Participants completed a validated questionnaire assessing self-reported sports supplement use, reasons for consumption, and sources of information. Supplements were classified according to the Australian Institute of Sport (AIS) framework based on scientific evidence and safety. Descriptive and exploratory analyses were performed to examine associations between self-reported sports supplement use and athlete characteristics, including sex, functional classification, and training profile.ResultsOverall, 72.7% of athletes reported current self-reported sports supplement use. Expressed as proportions of the entire sample (n = 66), Group A products were consumed by 66.7% of athletes, Group B products by 31.8%, while no athletes reported using Group C (0%) or Group D (0%) substances. Protein supplements, creatine monohydrate, and caffeine were the most frequently consumed products. Supplement use patterns were generally similar across sex and functional classifications, although no statistically significant differences were observed.ConclusionElite wheelchair basketball players show a high prevalen…",
+      "authors": "David Romero-García, María Isabel Buceta-Toro, Sara Perpiñá-Martínez et al.",
       "published": "Oct 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.2006057",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1974031",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "From empirical efficacy to neurovascular and cerebrovascular systems perspective: a bibliometric and visualized analysis of traditional Chinese medicine for vascular dementia",
-      "abstract": "ObjectiveVascular dementia (VaD) is a major form of cognitive impairment associated with cerebrovascular injury, neuroinflammation, oxidative stress, impaired neurovascular coupling, and progressive disruption of brain homeostasis. Traditional Chinese medicine (TCM)-related interventions for VaD encompass heterogeneous categories, including herbal formulas, single herbs, natural products, plant-derived bioactive compounds, acupuncture, electroacupuncture, and moxibustion. Within this broad landscape, the herbal and natural-product branch provides an important interface linking TCM research with food–medicine homology, neurological nutrition, and neurovascular protection. This bibliometric study aimed to map the research landscape, knowledge structure, hotspots, and emerging trends of TCM-related interventions for VaD, with particular attention to herbal, natural-product, and neurovascular research.MethodsEnglish-language articles and reviews related to TCM treatment of VaD published from 1997 to 2025 were retrieved from the Web of Science Core Collection. VOSviewer, CiteSpace, and GraphPad Prism were used to analyze annual publication trends, countries/regions, institutions, authors, journals, co-cited references, and keywords. To address intervention heterogeneity, the findings were interpreted across herbal/natural-product, acupuncture/electroacupuncture, moxibustion, and mixed TCM-related categories.ResultsA total of 357 publications were included, comprising 256 original articles and 101 reviews. China ranked first with 281 publications and occupied a central position i…",
-      "authors": "Zixiang Jin, Qiuyue Huang, Xiaofen Jia et al.",
+      "title": "Phenolic compounds and antioxidant activities of moringa leaf processed by solid-state fermentation with A.niger",
+      "abstract": "Moringa leaf (ML) is rich in phenolic acids, flavonoids, alkaloids, isothiocyanates, tannins and other phytochemicals with diverse biological effects. This study aimed to explore the effect of A.niger fermentation on phenolic compounds and antioxidant activities on the ML. The optimized fermentation conditions as follows: moisture content 60%, fermentation temperature 30°C, fermentation time 8 days and inoculation quantity 107 spores/g fermentation sample. Filter paper enzyme (FPAse), carboxymethyl cellulase (CMCase), xylanase and β-glucosidase in ML increased significantly to 23.91 ± 0.85, 27.40 ± 1.12, 47.85 ± 0.91 and 2.45 ± 0.13 U/g DW respectively. Throughout 14 days of fermentation, a notable increase in total phenolic content (TPC), total flavonoid content (TFC) and antioxidant activity in soluble polyphenols (SPs) was observed. Specifically, TPC, TFC, DPPH radical scavenging activity (DRSA), trolox equivalent antioxidant capacity (TEAC), ferric reducing antioxidant power (FRAP) and hydrogen peroxide scavenging activity (HPSA) for ML were 146.74 ± 1.75 mg GAE/g DW, 2.12 ± 0.04 μmol CE/g DW, 32.56 ± 0.52 μmol TE/g D, 754.22 ± 3.24 μmol FE/g DW, 72.35 ± 0.25μmol FE/g DW, 105.79 ± 0.27μmol FE/g DW, respectively. In particular, the (-)-catechin, (-)-epicatechin were strongly positively correlated with the four antioxidant indexes. Moreover, fermentation with A. niger significantly increased the content of flavan-3-ols in ML. Furthermore, the inhibitory effects of α-amylase, α-glucosidase and lipase were significantly increased compared to unfermented moringa leaf (UF-ML)…",
+      "authors": "Mingjing Yang, Shuyu Pang, Lingyuan Luo et al.",
       "published": "Oct 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1880039",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1970171",
       "image": "",
       "screen": "right"
     },

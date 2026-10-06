@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T17:40:27Z",
+  "updated": "2026-10-06T22:05:43Z",
   "items": [
     {
       "title": "Cybersecurity and resiliency in agricultural and food systems",
@@ -282,6 +282,16 @@
       "screen": "left"
     },
     {
+      "title": "Effect of species on the flavor profile of boletes: insights from GC-MS, LC-MS, ATR-FTIR spectroscopy and chemometrics",
+      "abstract": "",
+      "authors": "Chen Zhong, Jie-Qing Li, Yuan-Zhong Wang",
+      "published": "Oct 2026",
+      "feedName": "npj Science of Food",
+      "url": "https://www.nature.com/articles/s41538-026-01187-7",
+      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01187-7/MediaObjects/41538_2026_1187_Fig1_HTML.png",
+      "screen": "left"
+    },
+    {
       "title": "Hybrid Artificial Neural Network-Genetic Algorithm modelling and optimization of multistage palm oil fractional crystallization",
       "abstract": "",
       "authors": "Noor Hidayu Othman, Mohd. Shareduwan Mohd Kasihmuddin, G. V. S. Bhagya Raj et al.",
@@ -309,16 +319,6 @@
       "feedName": "npj Science of Food",
       "url": "https://www.nature.com/articles/s41538-026-01088-9",
       "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01088-9/MediaObjects/41538_2026_1088_Fig1_HTML.png",
-      "screen": "left"
-    },
-    {
-      "title": "Age associated differences in the composition and function of yak milk",
-      "abstract": "",
-      "authors": "Yunduan Wang, Shaohui Beng, Kechao Chen et al.",
-      "published": "Oct 2026",
-      "feedName": "npj Science of Food",
-      "url": "https://www.nature.com/articles/s41538-026-01178-8",
-      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01178-8/MediaObjects/41538_2026_1178_Fig1_HTML.png",
       "screen": "left"
     },
     {
@@ -362,6 +362,36 @@
       "screen": "left"
     },
     {
+      "title": "Tetrahedral iron can help clays exchange electrons about ten times faster",
+      "abstract": "Smectites are clay minerals that can contain large amounts of structural iron. Unlike iron oxides, they do not dissolve when their iron is reduced, so they can be reduced and reoxidized many times. This makes them a recyclable pool of redox-active iron that supports microbial respiration, transforms contaminants and influences nutrient and trace element cycling.",
+      "authors": "",
+      "published": "Oct 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-10-tetrahedral-iron-clays-exchange-electrons.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/what-does-tetrahedral.jpg",
+      "screen": "right"
+    },
+    {
+      "title": "Blue-light labeling uncovers unexpected protein partners of folded DNA structures",
+      "abstract": "DNA can be more than just a double helix. When four strands are folded into a compact bundle, they form a G-quadruplex (G4). These bundles form in guanine-rich regions across the genome, including telomeres at the ends of chromosomes and the control regions of genes, where the proteins that dock onto them help decide which genes are switched on. G4 does not act the same way everywhere. What it does depends on where it forms and which proteins bind to it. This is why understanding the interactions surrounding G4 is so important.",
+      "authors": "",
+      "published": "Oct 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-10-blue-uncovers-unexpected-protein-partners.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/new-labeling-tool-unco.jpg",
+      "screen": "right"
+    },
+    {
+      "title": "A 2-in-1 approach captures toxic metals and recovers rare earth elements from wastewater",
+      "abstract": "We generally throw away a broken camera lens, earphones or an old phone that has stopped working and is beyond repair because they seem useless when they no longer function. However, these objects contain rare earth elements (REEs) that have applications in magnets, superconductivity, optics and batteries, among others. When these objects end up in water, recovering REEs becomes difficult.",
+      "authors": "",
+      "published": "Oct 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-10-approach-captures-toxic-metals-recovers.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/from-toxic-to-valuable.jpg",
+      "screen": "right"
+    },
+    {
       "title": "What happens when food-safety chemicals react with food?",
       "abstract": "Following the major Cyclospora outbreak linked to iceberg lettuce, consumers might assume that produce labeled \"triple-washed\" offers greater protection from foodborne illness. But industrial washing cannot necessarily eliminate pathogens already established on produce. At the same time, the disinfectants used during processing may react with the food itself, creating new compounds whose effects on human health are not yet fully understood.",
       "authors": "",
@@ -369,36 +399,6 @@
       "feedName": "Phys.org Analytics",
       "url": "https://phys.org/news/2026-10-food-safety-chemicals-react.html",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/iceberg-lettuce.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "Changes to platinum surface chemistry boost solar hydrogen production in organic photocatalysts",
-      "abstract": "Researchers from the LIMNO laboratory at EPFL have uncovered how different halides modify the surface chemistry of organic semiconductor nanoparticle photocatalysts. By controlling these phenomena, they have significantly improved the solar hydrogen production efficiency of these materials.",
-      "authors": "",
-      "published": "Oct 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-10-platinum-surface-chemistry-boost-solar.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/a-new-understanding-of.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "Ultrafast X-rays reveal how the light-responsive molecular switch azobenzene changes shape",
-      "abstract": "Azobenzene is one of the best-known molecules that can be switched between two forms by light. However, the question of how the molecule moves in the first few picoseconds (trillionths of a second) after it absorbs light has remained unresolved for nearly 50 years.",
-      "authors": "",
-      "published": "Oct 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-10-ultrafast-rays-reveal-responsive-molecular.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/kaist-reveals-how-the-3.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "Fluorescent test speeds screening of thousands of enzyme variants that modify plant compounds",
-      "abstract": "Many natural plant compounds have promising health-related properties, but their poor water solubility can limit how effectively they are absorbed and used. In previous work, researchers discovered an enzyme from Bacillus subtilis, called phenolic phosphate synthetase (BsPPS), that can attach phosphate groups to a broad range of phenolic compounds. This modification can help make these compounds more water-soluble and support the development of improved nutraceuticals and related products.",
-      "authors": "",
-      "published": "Oct 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-10-fluorescent-screening-thousands-enzyme-variants.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/fluorescent-test-speed.jpg",
       "screen": "right"
     },
     {

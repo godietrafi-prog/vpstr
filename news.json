@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T03:57:24Z",
+  "updated": "2026-10-06T10:59:02Z",
   "items": [
     {
       "title": "Cybersecurity and resiliency in agricultural and food systems",
@@ -42,42 +42,42 @@
       "screen": "left"
     },
     {
-      "title": "Metabolomic dynamics and health-related properties of red radish ( Raphanus sativus var. sativus ) through lactic acid fermentation and storage",
+      "title": "Using lipidomics to reveal the changes in lipid composition during soymilk processing",
       "abstract": "",
-      "authors": "Marika Mróz, Szymon Litewski, Karol Parchem et al.",
+      "authors": "Qin Zhang, Yuchen Wei, Binjing Tang et al.",
       "published": "Dec 2026",
       "feedName": "Food Chemistry",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626035430?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626035569?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
     {
-      "title": "Molecular mechanism of SIRT1 activation by polymethoxyflavonoids derived from citrus peels",
+      "title": "Rapid determination of reducing sugars in demerara sugar using a sustainable smartphone-based digital colorimetry approach",
       "abstract": "",
-      "authors": "Dwina Juliana Warman, Koh Takeuchi, Sayaka Okonogi et al.",
+      "authors": "Vandressa Alves, Isabel M.P.L.V.O. Ferreira, Maria L. Felsner",
       "published": "Dec 2026",
       "feedName": "Food Chemistry",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626035508?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626035971?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
     {
-      "title": "Pulsed electric field pre-treatment of sweet potato: cultivar-dependent effects on phytochemical stability and bioaccessibility",
+      "title": "Composition-dependent amorphous matrix formation controls vitamin C stability in reconstituted freeze-dried lactose–whey protein isolate systems",
       "abstract": "",
-      "authors": "Nelson Pereira, Ana C. Ramos, Diogo Gonçalves et al.",
+      "authors": "Juhyun Kim, Muthu Thiruvengadam, Bum-Su Jung et al.",
       "published": "Dec 2026",
       "feedName": "Food Chemistry",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626035703?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626035016?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
     {
-      "title": "Determination of synthetic antioxidant tert -butylhydroquinone in food matrices using a DyVO 4 /SnO 2 /graphene oxide-based sensor",
+      "title": "Perilla essential oil-loaded gelatin–hyaluronic acid films for kiwiberry preservation: Effects of dual crosslinking on film properties and proteomic responses",
       "abstract": "",
-      "authors": "Anu Vijayakumar, Sea-Fue Wang",
+      "authors": "Song Zhang, Qingrui Wang, Jia Hou et al.",
       "published": "Dec 2026",
       "feedName": "Food Chemistry",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626034898?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626035545?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -482,42 +482,42 @@
       "screen": "right"
     },
     {
-      "title": "Not always protective: health literacy, school connectedness and adolescent healthy eating behaviors—the moderating role of physical activity participation",
-      "abstract": "PurposeTo explore the effects of Health literacy on adolescent healthy eating behaviors, a moderated-mediation model was constructed in this study to examine the mediating effect of School connectedness and the moderating effect of Physical activity participation.MethodsStratified cluster sampling was adopted. Questionnaires were administered to 3, 009 middle-school students recruited from 12 middle schools across 6 provinces nationwide, using the Health literacy scale, Eating behaviors scale, School connectedness scale, and Physical activity participation scale. Data analyses were performed using SPSS 26.0 and PROCESS Model 15.Results(1) Health literacy was significantly and positively associated with adolescent healthy eating behaviors. (2) A statistically significant indirect effect through School connectedness was identified; however, its direction was opposite to the hypothesized positive mediation, indicating a suppression pattern. (3) Physical activity participation significantly moderated the direct association between Health literacy and healthy eating behaviors, with this positive association progressively weakening as Physical activity participation increased. (4) Physical activity participation also moderated the second stage of the indirect pathway (School connectedness → healthy eating behaviors). The suppression pattern was stronger at low levels of Physical activity participation but was attenuated and statistically reversed at high levels, where the conditional indirect effect became weakly positive.ConclusionAdolescent healthy eating behaviors are shaped b…",
-      "authors": "Jiawei Chen, Mengfen Liu, Xinjie Han et al.",
+      "title": "Clinical evaluation of AI Chatbots’ performance and safety for total parenteral nutrition planning in critically ill patients: a simulation-based benchmarking study",
+      "abstract": "IntroductionTotal parenteral nutrition (TPN) is essential for critically ill adults unable to meet their nutritional needs via the gastrointestinal tract. Recent advancements in large language models (LLMs) have sparked interest in their potential to support healthcare providers in complex clinical decisions. Nonetheless, no prior research has systematically compared publicly accessible chatbots to pharmacist-developed reference TPN plans across a diverse patient cohort, using a predefined, guideline-based rubric assessing accuracy, completeness, safety, error types, and numerical precision. This study presents a simulation-based benchmarking to evaluate (i) the accuracy and comprehensiveness of chatbot-generated TPN plans, (ii) their safety, acceptability, and error profiles, and (iii) the numerical agreement and concordance with expert pharmacist references.MethodsThis benchmarking study, based on simulations and cross-sectional analysis, evaluated the performance of four publicly accessible AI chatbots—ChatGPT, Gemini, Copilot, and Perplexity—in formulating TPN plans for critically ill adults. Copilot declined to generate patient-specific TPN plans; this refusal was retained as a performance outcome, while Copilot was excluded from analyses requiring an analyzable TPN prescription. Each chatbot produced one plan for each of 10 standardized clinical cases, resulting in a total of 30 TPN plans. Friedman tests, Kendall’s W, and Holm-adjusted Wilcoxon signed-rank tests were used for comparative analyses.ResultsChatGPT produced comprehensive plans for all 10 cases, compared t…",
+      "authors": "Sufyan Alomair",
       "published": "Oct 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1976575",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1969789",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Nutritional management strategies post-liver transplantation: a comparative review of pediatric and adult recipients",
-      "abstract": "Postoperative malnutrition occurs in 30–60% of liver transplant recipients and impairs perioperative recovery and long-term survival. Distinct malnutrition phenotypes exist across age groups, adult recipients mainly develop sarcopenia driven by sustained hypercatabolism, while pediatric counterparts suffer growth retardation and feeding dysfunction resulting from congenital cholestasis and high anabolic demands. Current studies mostly focus on short-term nutritional support, lacking age-stratified full-cycle intervention covering pre-transplant, early postoperative and long-term maintenance phases, and insufficiently summarize differentiated micronutrient supplementation schemes. This review systematically comparing pathological, metabolic, psychological and nutritional discrepancies between pediatric and adult liver transplant recipients. This review delineates age-specific requirements for macronutrients, fat- and water-soluble vitamins, and trace elements, and summarizes stratified nutritional assessment modalities, enteral and parenteral feeding regimens, and targeted interventions to counteract metabolic adverse effects induced by immunosuppressive agents. Multidisciplinary, staged individualized nutritional regimens are proposed to correct malnutrition, promote catch-up growth in children, preserve muscle mass and reduce metabolic complications in adults, providing evidence-based guidance for clinical precision nutritional management after liver transplantation.",
-      "authors": "Man Wang, Wei Gao, Zhixin Zhang et al.",
+      "title": "Effects of Citri Reticulatae Pericarpium powder on the baking quality and volatile flavor compounds of toast bread",
+      "abstract": "BackgroundCitri Reticulatae Pericarpium (CRP) is rich in terpene volatiles, particularly D-limonene, and has a distinctive citrus-like aroma. However, its effects as a natural flavoring ingredient on the baking quality and volatile aroma profile of toast bread remain insufficiently characterized. This study evaluated the effects of CRP powder addition on baking quality and aroma characteristics and screened potential odor-active compounds associated with different addition levels.MethodsCRP powder partially replaced high-gluten wheat flour at levels of 0, 1.0, 2.0, and 3.0%. Baking quality attributes were evaluated by measuring specific volume, loaf height, baking loss, color, and texture. Aroma characteristics were assessed by sensory analysis and an electronic nose, while volatile compounds were analyzed by gas chromatography–mass spectrometry (GC–MS). Odor activity values (OAVs) and partial least squares discriminant analysis (PLS-DA) were used to characterize potential odor-active compounds and differences among treatments.ResultsIncreasing CRP powder reduced specific volume from 2.98 to 2.54 cm3/g and increased hardness from 7.41 to 9.37 N and chewiness from 47.18 to 57.80 mJ. Crumb lightness decreased, whereas yellowness increased. Sensory analysis showed a progressive enhancement of characteristic CRP aroma, with the 2.0% group exhibiting relatively favorable aroma harmony, purity, and fullness. Electronic-nose PCA clearly separated the control from CRP-supplemented samples. GC–MS detected 33 volatile compounds. Terpenes became the dominant volatile class after CRP a…",
+      "authors": "Yongfeng Jiang, Han Yang, Yuanyuan Hu et al.",
       "published": "Oct 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1920355",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1964585",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Prevalence and patterns of sports supplement use in elite wheelchair basketball players: an analysis based on the AIS framework",
-      "abstract": "BackgroundSports supplement use is widespread in elite sport, yet evidence regarding supplementation practices in Paralympic team sports remains limited. Wheelchair basketball players present specific physiological and contextual characteristics that may influence supplement use and its alignment with current scientific evidence.MethodsA cross-sectional descriptive study was conducted in 66 elite Spanish wheelchair basketball players (57 men and 9 women) from 10 first-division teams. Participants completed a validated questionnaire assessing self-reported sports supplement use, reasons for consumption, and sources of information. Supplements were classified according to the Australian Institute of Sport (AIS) framework based on scientific evidence and safety. Descriptive and exploratory analyses were performed to examine associations between self-reported sports supplement use and athlete characteristics, including sex, functional classification, and training profile.ResultsOverall, 72.7% of athletes reported current self-reported sports supplement use. Expressed as proportions of the entire sample (n = 66), Group A products were consumed by 66.7% of athletes, Group B products by 31.8%, while no athletes reported using Group C (0%) or Group D (0%) substances. Protein supplements, creatine monohydrate, and caffeine were the most frequently consumed products. Supplement use patterns were generally similar across sex and functional classifications, although no statistically significant differences were observed.ConclusionElite wheelchair basketball players show a high prevalen…",
-      "authors": "David Romero-García, María Isabel Buceta-Toro, Sara Perpiñá-Martínez et al.",
+      "title": "LVEF-defined septic cardiomyopathy modifies the association between the prognostic nutritional index and mortality in adults with sepsis: a 72-h landmark analysis",
+      "abstract": "BackgroundThe prognostic nutritional index (PNI) combines albumin and lymphocyte count and may capture nutrition-related immune-inflammatory status in sepsis. Whether its association with mortality differs by left ventricular ejection fraction (LVEF)-defined septic cardiomyopathy (SCM) is unclear.MethodsWe conducted a retrospective 72-h landmark study of MIMIC-IV adults with Sepsis-3 who survived to the landmark, had clinically indicated pre-landmark echocardiographic LVEF assessment, and had calculable early PNI. The prespecified primary analysis tested the lower-PNI-by-LVEF-defined-SCM interaction for 28-day mortality in an adjusted Cox model. Ninety-day and sensitivity analyses were supportive or exploratory. A single-center cohort was examined separately, not as formal validation.ResultsAmong 1,976 patients, 240 had LVEF-defined SCM; 506 and 633 died by 28 and 90 days, respectively. Each 5-point lower PNI was associated with higher 28-day mortality without SCM (adjusted hazard ratio [HR], 1.18; 95% CI, 1.11–1.24) but not with LVEF-defined SCM (HR, 0.96; 95% CI, 0.87–1.05); the ratio of HRs was 0.82 (95% CI, 0.73–0.91; p < 0.001). The secondary 90-day ratio was 0.84 (95% CI, 0.76–0.94; nominal p = 0.001). Absolute-risk and restricted-mean-survival-time analyses supported attenuation, whereas same-calendar-day PNI pairing and some alternative LVEF definitions attenuated the interaction estimates toward the null. The external estimate was imprecise and statistically inconclusive (ratio of odds ratios, 0.89; 95% CI, 0.51–1.55).ConclusionAmong selected 72-h survivors with cl…",
+      "authors": "Xianju Wang, Min Cheng, Fengqi Ruan et al.",
       "published": "Oct 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1974031",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1903225",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Metabolic complexity and nutritional reductionism. Deconstructing the single active ingredient paradigm in protein and amino acid supplements",
-      "abstract": "Metabolism is an adaptive and highly interconnected system in which biological outcomes emerge from dynamic interactions among genes, proteins, metabolites, signaling pathways, microbiota, and environmental factors. Nevertheless, nutritional research has traditionally relied on a reductionist paradigm, attributing biological effects to isolated compounds acting on specific molecular targets through linear cause–effect relationships. While this approach has been instrumental in elucidating biochemical mechanisms and addressing nutrient deficiencies, its explanatory and predictive power is limited in complex biological systems and multi-component nutritional interventions. Dietary supplements, particularly protein- and amino acid-based formulations, may exert effects through synergistic or antagonistic interactions, network modulation, and context-dependent responses that cannot be adequately predicted from isolated molecular effects. Interindividual variability, metabolic plasticity, and feedback regulation further challenge deterministic models and may contribute to inconsistent clinical findings. A systems-based perspective complements reductionist approaches by considering metabolism as a dynamic network in which biological responses emerge from nonlinear interactions across multiple organizational levels. This narrative review specifically covers protein and amino acid supplement categories, including intact protein concentrates (whey, casein, collagen, soy, pea and rice), individual amino acids (Leucine, β-hydroxy-β-methyl butyrate), and amino acid mixtures (branched ch…",
-      "authors": "Giovanni Corsetti, Evasio Pasini",
+      "title": "Time-restricted feeding during the inactive phase vs. ad libitum feeding: diet-dependent effects on weight and metabolic markers in male Wistar rats",
+      "abstract": "Background/objectivesIn recent years, intermittent fasting has become a popular method for preventing and treating obesity and chronic diseases. This study explored the metabolic and inflammatory effects of inactive-phase (Day) time-restricted feeding (TRF) vs. ad libitum feeding (Ad) in rats under high-fat (HF) and standard (S) diet for 8 weeks.MethodsFour groups (TRF + HF, TRF + S, Ad + S, Ad + HF; n = 7 each) were monitored for temporal changes in key biomarkers, including TNF-α, IL-6, LPS, insulin, glucose, and lipid profiles, and body weight. Baseline-adjusted two-way ANCOVA was used to evaluate the main effects of Diet and Feeding pattern and their interaction, with complementary multivariate analyses performed as sensitivity analyses.ResultsBody weight was significantly associated with both Diet and Feeding pattern after baseline adjustment, with the greatest observed weight gain in Ad + HF and the smallest in TRF + S. TNF-α showed a significant Diet × Feeding interaction, characterized by marked reductions in both TRF groups and little change in Ad + HF. Lipid metabolism exhibited distinct interactions between diet type and feeding regimens. Total cholesterol levels increased in both ad libitum-fed groups, whereas a reduction was observed in the TRF + S group. Triglyceride responses also showed pronounced treatment effects, with the TRF + HF group demonstrating the greatest decrease over the intervention period. IL-6, LPS, insulin, glucose, and LDL-C did not display significant group × time interactions.ConclusionsOverall, inactive-phase time-restricted feeding was …",
+      "authors": "Ladan Hajhamidiasl, Murat Baş, Ozgur Yilmaz et al.",
       "published": "Oct 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1970280",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1968504",
       "image": "",
       "screen": "right"
     },

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T10:59:02Z",
+  "updated": "2026-10-06T17:40:27Z",
   "items": [
     {
       "title": "Cybersecurity and resiliency in agricultural and food systems",
@@ -92,32 +92,32 @@
       "screen": "left"
     },
     {
-      "title": "From biomimetics to AI-guided rational design: Four-component cell-wall-derived films for fresh horticultural produce with bidirectional humidity-gas modulation",
+      "title": "Unique advantages of marine polysaccharides in the development of dysphagia foods: A comprehensive review",
       "abstract": "",
-      "authors": "Ruifeng Ying, Qiuhong Liao, Meigui Huang",
+      "authors": "Jingyi Li, Zhenzi Yun, Xi Yu et al.",
       "published": "Dec 2026",
       "feedName": "Trends in Food Sci & Tech",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426005893?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426006126?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
     {
-      "title": "Trustworthy and physics-informed artificial intelligence for food processing operations: validation, control relevance, and industrial readiness",
+      "title": "From barrier metrics to cold-chain outcomes: A performance-based qualification framework for bio-based and biodegradable food-packaging films",
       "abstract": "",
-      "authors": "Behnam Alaei, Reza Amiri Chayjan, Alex Martynenko",
+      "authors": "Azmi Alvian Gabriel, Tetsu Yonezawa",
       "published": "Dec 2026",
       "feedName": "Trends in Food Sci & Tech",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426006059?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426005959?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
     {
-      "title": "Requirements for an anti-food-fraud culture: an overview for food business operators",
+      "title": "Plant-based fat substitutes: From structural design to application-specific performance",
       "abstract": "",
-      "authors": "Abdelkarim Moujanni",
+      "authors": "Shidi Men, Yuanhao Xu, Jiawei Liu et al.",
       "published": "Dec 2026",
       "feedName": "Trends in Food Sci & Tech",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426006060?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426005960?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -282,6 +282,26 @@
       "screen": "left"
     },
     {
+      "title": "Hybrid Artificial Neural Network-Genetic Algorithm modelling and optimization of multistage palm oil fractional crystallization",
+      "abstract": "",
+      "authors": "Noor Hidayu Othman, Mohd. Shareduwan Mohd Kasihmuddin, G. V. S. Bhagya Raj et al.",
+      "published": "Oct 2026",
+      "feedName": "npj Science of Food",
+      "url": "https://www.nature.com/articles/s41538-026-01133-7",
+      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01133-7/MediaObjects/41538_2026_1133_Fig1_HTML.png",
+      "screen": "left"
+    },
+    {
+      "title": "Solution-blown PAN/Congo red nanofibrous sensors for colorimetric detection of soybean oil oxidation",
+      "abstract": "",
+      "authors": "Shamous M. Ibrahim, Ayat F. Hashim, Ayman El Said et al.",
+      "published": "Oct 2026",
+      "feedName": "npj Science of Food",
+      "url": "https://www.nature.com/articles/s41538-026-01157-z",
+      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01157-z/MediaObjects/41538_2026_1157_Fig1_HTML.png",
+      "screen": "left"
+    },
+    {
       "title": "Discovery of saltiness-enhancing peptides from Hypsizygus marmoreus via virtual screening, multisensory evaluation, electronic tongue, and molecular simulation",
       "abstract": "",
       "authors": "Wenping Kong, Li Lin, Liting Lai et al.",
@@ -299,26 +319,6 @@
       "feedName": "npj Science of Food",
       "url": "https://www.nature.com/articles/s41538-026-01178-8",
       "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01178-8/MediaObjects/41538_2026_1178_Fig1_HTML.png",
-      "screen": "left"
-    },
-    {
-      "title": "Resource utilization and phenological dynamics in underground-aboveground parts of Rheum tanguticum via metabolomics and microbiomics",
-      "abstract": "",
-      "authors": "Jianan Li, Bo Wang, Xue Yang et al.",
-      "published": "Oct 2026",
-      "feedName": "npj Science of Food",
-      "url": "https://www.nature.com/articles/s41538-026-01185-9",
-      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01185-9/MediaObjects/41538_2026_1185_Fig1_HTML.png",
-      "screen": "left"
-    },
-    {
-      "title": "Combinatorial effects of EPA and Bifidobacterium breve associated with autism: bioactive metabolites and molecular targets",
-      "abstract": "",
-      "authors": "Miaoyu Li, Qingcheng Wang, Jiaqi Wang et al.",
-      "published": "Oct 2026",
-      "feedName": "npj Science of Food",
-      "url": "https://www.nature.com/articles/s41538-026-01182-y",
-      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01182-y/MediaObjects/41538_2026_1182_Fig1_HTML.png",
       "screen": "left"
     },
     {
@@ -362,6 +362,16 @@
       "screen": "left"
     },
     {
+      "title": "What happens when food-safety chemicals react with food?",
+      "abstract": "Following the major Cyclospora outbreak linked to iceberg lettuce, consumers might assume that produce labeled \"triple-washed\" offers greater protection from foodborne illness. But industrial washing cannot necessarily eliminate pathogens already established on produce. At the same time, the disinfectants used during processing may react with the food itself, creating new compounds whose effects on human health are not yet fully understood.",
+      "authors": "",
+      "published": "Oct 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-10-food-safety-chemicals-react.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/iceberg-lettuce.jpg",
+      "screen": "right"
+    },
+    {
       "title": "Changes to platinum surface chemistry boost solar hydrogen production in organic photocatalysts",
       "abstract": "Researchers from the LIMNO laboratory at EPFL have uncovered how different halides modify the surface chemistry of organic semiconductor nanoparticle photocatalysts. By controlling these phenomena, they have significantly improved the solar hydrogen production efficiency of these materials.",
       "authors": "",
@@ -389,16 +399,6 @@
       "feedName": "Phys.org Analytics",
       "url": "https://phys.org/news/2026-10-fluorescent-screening-thousands-enzyme-variants.html",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/fluorescent-test-speed.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "Uranium forms rare triple bond with carbon in newly isolated compound",
-      "abstract": "In a study published in Nature Chemistry, an international team of researchers from Germany and the U.K., including chemists from The University of Manchester, has synthesized and characterized what they describe as the first isolable uranium Fischer-type carbyne, a compound in which carbon forms an unusual triple-bond interaction with uranium.",
-      "authors": "",
-      "published": "Oct 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-10-uranium-rare-triple-bond-carbon.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/first-uraniumcarbon-tr.jpg",
       "screen": "right"
     },
     {
@@ -452,6 +452,16 @@
       "screen": "right"
     },
     {
+      "title": "MIT scientists find a hidden cancer risk of the keto diet",
+      "abstract": "A ketogenic diet increased small-intestinal tumors in cancer-prone mice while reducing tumors in the colon, revealing a strikingly different response within neighboring parts of the gut. Researchers traced the increased risk not to ketones, but to the way intestinal stem cells processed the diet’s high levels of fat. That fat-burning activity pushed the cells to multiply more rapidly, potentially raising the chance of cancerous changes.",
+      "authors": "",
+      "published": "Oct 2026",
+      "feedName": "ScienceDaily Nutrition",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261002080037.htm",
+      "image": "https://www.sciencedaily.com/images/1920/male-anatomy-small-intestine-cancer.webp",
+      "screen": "right"
+    },
+    {
       "title": "Diet drinks work as well as water for weight loss, major trial finds",
       "abstract": "A two-year randomized clinical trial involving 493 adults with overweight or obesity found that diet soft drinks were essentially as effective as water for long-term weight loss and weight maintenance. Participants drinking beverages sweetened with aspartame, acesulfame-K, or sucralose lost a similar amount of weight to those drinking water, while both groups also saw improvements in waist size, body composition, and several metabolic measures.",
       "authors": "",
@@ -472,32 +482,22 @@
       "screen": "right"
     },
     {
-      "title": "This diet may slow brain aging by 2.5 years",
-      "abstract": "People who followed the MIND diet more closely showed slower brain shrinkage and less grey matter loss over time, with the strongest differences equivalent to about 2.5 years of delayed brain aging. Berries and poultry were linked with healthier brain changes, while sweets and fried fast foods were associated with greater tissue loss.",
-      "authors": "",
-      "published": "Oct 2026",
-      "feedName": "ScienceDaily Nutrition",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260930225503.htm",
-      "image": "https://www.sciencedaily.com/images/1920/human-brain-fresh-fruit-healthy-food.webp",
-      "screen": "right"
-    },
-    {
-      "title": "Clinical evaluation of AI Chatbots’ performance and safety for total parenteral nutrition planning in critically ill patients: a simulation-based benchmarking study",
-      "abstract": "IntroductionTotal parenteral nutrition (TPN) is essential for critically ill adults unable to meet their nutritional needs via the gastrointestinal tract. Recent advancements in large language models (LLMs) have sparked interest in their potential to support healthcare providers in complex clinical decisions. Nonetheless, no prior research has systematically compared publicly accessible chatbots to pharmacist-developed reference TPN plans across a diverse patient cohort, using a predefined, guideline-based rubric assessing accuracy, completeness, safety, error types, and numerical precision. This study presents a simulation-based benchmarking to evaluate (i) the accuracy and comprehensiveness of chatbot-generated TPN plans, (ii) their safety, acceptability, and error profiles, and (iii) the numerical agreement and concordance with expert pharmacist references.MethodsThis benchmarking study, based on simulations and cross-sectional analysis, evaluated the performance of four publicly accessible AI chatbots—ChatGPT, Gemini, Copilot, and Perplexity—in formulating TPN plans for critically ill adults. Copilot declined to generate patient-specific TPN plans; this refusal was retained as a performance outcome, while Copilot was excluded from analyses requiring an analyzable TPN prescription. Each chatbot produced one plan for each of 10 standardized clinical cases, resulting in a total of 30 TPN plans. Friedman tests, Kendall’s W, and Holm-adjusted Wilcoxon signed-rank tests were used for comparative analyses.ResultsChatGPT produced comprehensive plans for all 10 cases, compared t…",
-      "authors": "Sufyan Alomair",
+      "title": "Macro-micro dynamics of child undernutrition in Pakistan: a structural learning-based Bayesian network analysis of household and policy drivers",
+      "abstract": "BackgroundChild undernutrition remains a major public health concern and creates health-related inequalities in developing countries, with long-term consequences for human development deficits. Most of these early studies were conducted using conventional econometric techniques; however, understanding the complex, multi-level determinants of undernutrition may require more advanced analytical methods.MethodsThis study, PC algorithm is used for Structural Learning-Based Bayesian Networks [SL-BN] (a graphical model based on directed acyclic graph with joint and conditional associations)—which is conceptually different than the weight-based networks, to examine the macro- and micro-level determinants of child undernutrition in Pakistan. Macro-level analysis combines historical nutrition policy evaluation (critical discourse) with WDI and UNDP data (2000–2022), spanning the MDG and SDG eras. Micro-level analysis draws on the Pakistan Demographic and Health Survey (PDHS 2017–18) to identify socioeconomic drivers of child malnutrition and nutritional inequalities.ResultsIn micro analysis, the SL-BN network structure identifies household-level determinants—such as poor wealth status, rural residence, poor environmental conditions, low maternal education, and diarrhea—as key drivers of child undernutrition. Inequality is stark, with malnutrition disproportionately concentrated among the poorest. However, the SL-BN findings and critical assessment of nutritional policies and programs found that low investment in human development, foreign dependency on health, poverty, inflation, an…",
+      "authors": "Muhammad Shahid, Jiayi Song, Zaiba Ali et al.",
       "published": "Oct 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1969789",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1882524",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Effects of Citri Reticulatae Pericarpium powder on the baking quality and volatile flavor compounds of toast bread",
-      "abstract": "BackgroundCitri Reticulatae Pericarpium (CRP) is rich in terpene volatiles, particularly D-limonene, and has a distinctive citrus-like aroma. However, its effects as a natural flavoring ingredient on the baking quality and volatile aroma profile of toast bread remain insufficiently characterized. This study evaluated the effects of CRP powder addition on baking quality and aroma characteristics and screened potential odor-active compounds associated with different addition levels.MethodsCRP powder partially replaced high-gluten wheat flour at levels of 0, 1.0, 2.0, and 3.0%. Baking quality attributes were evaluated by measuring specific volume, loaf height, baking loss, color, and texture. Aroma characteristics were assessed by sensory analysis and an electronic nose, while volatile compounds were analyzed by gas chromatography–mass spectrometry (GC–MS). Odor activity values (OAVs) and partial least squares discriminant analysis (PLS-DA) were used to characterize potential odor-active compounds and differences among treatments.ResultsIncreasing CRP powder reduced specific volume from 2.98 to 2.54 cm3/g and increased hardness from 7.41 to 9.37 N and chewiness from 47.18 to 57.80 mJ. Crumb lightness decreased, whereas yellowness increased. Sensory analysis showed a progressive enhancement of characteristic CRP aroma, with the 2.0% group exhibiting relatively favorable aroma harmony, purity, and fullness. Electronic-nose PCA clearly separated the control from CRP-supplemented samples. GC–MS detected 33 volatile compounds. Terpenes became the dominant volatile class after CRP a…",
-      "authors": "Yongfeng Jiang, Han Yang, Yuanyuan Hu et al.",
+      "title": "Prognostic value of postoperative dynamic PNI trajectories for biochemical recurrence in patients with high-risk localized prostate cancer: a longitudinal trajectory clustering study",
+      "abstract": "BackgroundThe prognostic nutritional index (PNI) reflects nutritional-immune status, but the value of a single baseline PNI for predicting biochemical recurrence (BCR) after radical prostatectomy in high-risk localized prostate cancer remains unclear. We aimed to identify postoperative PNI trajectories and compare their BCR predictive value with baseline PNI.MethodsWe retrospectively included 436 patients. PNI was measured preoperatively (T0) and at 3 (T1) and 12 (T2) months post-surgery. Longitudinal trajectory clustering identified three PNI trajectory classes: persistently high (PHigh, n = 169, 46.4%), persistently low (PLow, n = 146, 40.1%), and declining (Declining, n = 49, 13.5%). Cox regression assessed associations with BCR; a Cox-based time-to-event prediction model was evaluated using time-dependent AUC, IPCW Brier score, and calibration at 3-year and 5-year horizons. A 12-month landmark analysis was performed to address potential guarantee-time bias.ResultsDuring median 38.2-month follow-up, 122 (28.0%) developed BCR. Baseline PNI was not independently associated with BCR (continuous HR = 0.97, p = 0.320; dichotomized HR = 1.23, p = 0.347). Three trajectories emerged: persistently high (PHigh, 46.4%), persistently low (PLow, 40.1%), and declining (Declining, 13.5%). Relative to PHigh, PLow (HR = 2.95) and Declining (HR = 5.80) both had significantly higher BCR risk (p < 0.001). A 12-month landmark analysis confirmed these findings (PLow HR = 2.72, p = 0.002; Declining HR = 4.79, p = 1.24 × 10−6). The multivariable Cox model combining trajectory, log PSA, surgical…",
+      "authors": "Bo Yu, Xuchao Dai, Jianguo Zhu",
       "published": "Oct 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1964585",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1963784",
       "image": "",
       "screen": "right"
     },
@@ -608,8 +608,8 @@
       "published": "2025",
       "venue": "Food and Bioprocess Technology",
       "feedName": "Lab Research",
-      "citationCount": 5,
-      "recentCitations": 1,
+      "citationCount": 6,
+      "recentCitations": 2,
       "quartile": "Q1",
       "s2_paper_id": "034d8c4f0c0f5607a4e6727360aa5d7287e60d5b",
       "url": "https://doi.org/10.1007/s11947-025-03873-y",
@@ -1048,8 +1048,8 @@
       "published": "2025",
       "venue": "Food and Bioprocess Technology",
       "feedName": "Lab Research",
-      "citationCount": 5,
-      "recentCitations": 1,
+      "citationCount": 6,
+      "recentCitations": 2,
       "quartile": "Q1",
       "s2_paper_id": "034d8c4f0c0f5607a4e6727360aa5d7287e60d5b",
       "url": "https://doi.org/10.1007/s11947-025-03873-y",

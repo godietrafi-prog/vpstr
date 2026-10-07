@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07T03:28:59Z",
+  "updated": "2026-10-07T10:45:04Z",
   "items": [
     {
       "title": "Cybersecurity and resiliency in agricultural and food systems",
@@ -92,32 +92,32 @@
       "screen": "left"
     },
     {
-      "title": "Unique advantages of marine polysaccharides in the development of dysphagia foods: A comprehensive review",
+      "title": "From static to dynamic: The evolution of 3D/4D-printed indicator labels for freshness monitoring in food supply chains",
       "abstract": "",
-      "authors": "Jingyi Li, Zhenzi Yun, Xi Yu et al.",
+      "authors": "Jingyao Zhu, Ruixue Liu, Zifan Dou et al.",
       "published": "Dec 2026",
       "feedName": "Trends in Food Sci & Tech",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426006126?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426006023?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
     {
-      "title": "From barrier metrics to cold-chain outcomes: A performance-based qualification framework for bio-based and biodegradable food-packaging films",
+      "title": "Engineered ferritin nanocages for delivery of food bioactive compounds",
       "abstract": "",
-      "authors": "Azmi Alvian Gabriel, Tetsu Yonezawa",
+      "authors": "Hemeng Ma, Huijia Yan, Jiachen Zang et al.",
       "published": "Dec 2026",
       "feedName": "Trends in Food Sci & Tech",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426005959?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426005832?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
     {
-      "title": "Plant-based fat substitutes: From structural design to application-specific performance",
+      "title": "Recent advances in shrimp melanosis inhibition by active packaging: Inhibitory effects, mechanisms and synergistic approaches",
       "abstract": "",
-      "authors": "Shidi Men, Yuanhao Xu, Jiawei Liu et al.",
+      "authors": "Jia-Yin Huang, Xin Ling, Le-Chang Sun et al.",
       "published": "Dec 2026",
       "feedName": "Trends in Food Sci & Tech",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426005960?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426006096?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -202,6 +202,26 @@
       "screen": "left"
     },
     {
+      "title": "Volatile profile and antioxidant-related measurements of two Sauvignon Blanc vinifications from the Brazilian Cerrado: an exploratory chemical characterization",
+      "abstract": "In this exploratory study, two Sauvignon Blanc wines produced from a single grape lot in the Brazilian Cerrado were chemically characterized. T1 was fermented with Saccharomyces cerevisiae, whereas T2 was co-inoculated with S. cerevisiae and Hanseniaspora vineae. One fermentation was conducted per condition, and the reported triplicates were repeated analytical measurements of the same wines. Analyses included physicochemical parameters, Folin-Ciocalteu reducing capacity, flavonoid content, DPPH• and ABTS•+ radical-scavenging assays, voltammetry, and GC-MS profiling of free and glycosidically bound volatile compounds. T2 had a higher pH, lower total acidity and malic acid, and a higher lactic acid concentration, indicating more advanced spontaneous malolactic fermentation at the time of analysis. T1 showed a higher Folin-Ciocalteu response, whereas T2 showed lower DPPH• and ABTS•+ IC50 values and a slightly higher electrochemical index. These observations are reported descriptively because independent fermentation replicates were not available. GC-MS analysis tentatively identified 57 free volatile compounds, mainly esters and alcohols. The semi-quantitative internal-standard-equivalent estimate of 2-phenylethyl acetate was higher in T2 (28.57 µg L−1). Nineteen compounds were tentatively identified after hydrolysis of the glycosidically bound fraction, including terpenoid-, norisoprenoid-, and benzenoid-related compounds. This study therefore provides an initial, hypothesis-generating chemical characterization of two Sauvignon Blanc vinifications from the Brazilian Cerrado.",
+      "authors": "Luis Felipe Lima Guimarães, Paolla Xavier de Amorim, Izadora Viana Maia et al.",
+      "published": "Oct 2026",
+      "feedName": "Frontiers Food Science",
+      "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.1914854",
+      "image": "",
+      "screen": "left"
+    },
+    {
+      "title": "Probiotic-based functional beverages: a comprehensive review of strain selection, formulation strategies, viability challenges, and health-promoting potential",
+      "abstract": "Probiotic-based functional beverages represent one of the fastest-growing categories within the global functional food industry, driven by rising consumer demand for convenient, palatable vehicles of gut-health-promoting live microorganisms. Although dairy matrices historically dominated this segment, lactose intolerance, veganism, cholesterol concerns, and allergen sensitivities have accelerated interest in non-dairy alternatives derived from fruits, vegetables, cereals, legumes, and herbal infusions. This comprehensive review synthesizes and critically appraises the current evidence on (i) the classification and diversification of probiotic beverage matrices; (ii) the criteria and workflows used to select, characterize, and safety-screen candidate probiotic strains; (iii) formulation and processing strategies applied across dairy, non-dairy, and herbal systems; (iv) the physicochemical determinants of product quality, including pH, titratable acidity, viscosity, total soluble solids, colour, and flavour; (v) strategies to preserve probiotic viability during processing, storage, and gastrointestinal transit, with particular emphasis on microencapsulation and prebiotic fortification; and (vi) the health-promoting mechanisms, regulatory frameworks, and safety considerations governing probiotic beverage commercialization. Beyond consolidating the descriptive literature, this review identifies recurring methodological inconsistencies across studies (variable viability endpoints, non-standardized storage conditions, and limited in vivo validation), highlights matrix-specific tr…",
+      "authors": "Samadhan Dahikar, Sarita Bhutada, Rutika Yeole et al.",
+      "published": "Oct 2026",
+      "feedName": "Frontiers Food Science",
+      "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.1938248",
+      "image": "",
+      "screen": "left"
+    },
+    {
       "title": "Nutraceutical potential of Terminalia arjuna bark powder in enhancing enzymatic antioxidant defenses and disease resistance in aquaculture: implications for sustainable food safety and quality",
       "abstract": "The indiscriminate use of prophylactic antibiotics in aquaculture poses serious threats to food safety, environmental health, and antimicrobial resistance, necessitating sustainable plant-based alternatives. This study evaluated the nutraceutical potential of Terminalia arjuna bark powder (TABP) as a dietary immunostimulant in Labeo rohita. Bark, leaf, and fruit materials were extracted using seven solvents of increasing polarity and screened for phytochemicals and in vitro antioxidant capacity via TPC, flavonoid, DPPH, ABTS, FRAP, and NO-scavenging assays. Based on superior bioactivity, TABP was incorporated into four iso-nitrogenous (30.36% crude protein) and iso-caloric diets at 0% (control), 0.1%, 1.0%, and 1.5%, which were fed to juvenile L. rohita (n = 540) for 90 days in a completely randomized design. Growth performance, serum biochemistry, digestive enzyme activities (amylase, protease, lipase), oxidative stress biomarkers (SOD, catalase, GST), acetylcholinesterase activity, and serum hormones (cortisol, T3, T4) were assessed, followed by a bacterial challenge with Aeromonas hydrophila and Edwardsiella tarda and computation of the Integrated Biomarker Response (IBR) index. Bark extracts demonstrated the highest antioxidant potential across all assays. Dietary TABP significantly improved weight gain, feed efficiency, and digestive enzyme activities, while dose-dependently enhancing enzymatic antioxidant defenses, reducing serum cortisol, and elevating thyroid hormone levels. Post-challenge survival was significantly higher in TABP-supplemented groups, with IBR analy…",
       "authors": "D. K. Meena, B. K. Das, A. K. Sahoo",
@@ -218,26 +238,6 @@
       "published": "Oct 2026",
       "feedName": "Frontiers Food Science",
       "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.1941070",
-      "image": "",
-      "screen": "left"
-    },
-    {
-      "title": "Oil palm fiber extract as a fermentable functional ingredient: in vitro gastrointestinal carbohydrate hydrolysis, feline fecal fermentation, and microbiota-associated metabolite production",
-      "abstract": "Obesity-associated gastrointestinal disturbances in companion animals have increased interest in dietary ingredients that may modulate intestinal fermentation and microbial metabolism. This study evaluated the in vitro gastrointestinal digestion, fecal fermentation, microbiota responses, and metabolite production associated with oil palm fiber extract (OPF) in a feline gastrointestinal model. OPF, commercial feline diet (CFD), OPF-supplemented CFD (OPF+CFD), and commercial weight-control diet (WCD) were subjected to simulated gastrointestinal digestion followed by 24 h of anaerobic fecal fermentation. Fecal samples from nine cats were pooled to prepare a common inoculum. Carbohydrate hydrolysis of OPF following simulated gastrointestinal digestion was 4.01% ± 0.54%, indicating limited hydrolysis under the experimental conditions. Phenolic and flavonoid-equivalent responses were retained after digestion, although values exceeding 100% were interpreted as increased assay responses rather than recovery above the initial values. During fermentation, OPF was associated with increased concentrations of acetate, propionate, and butyrate, together with changes in branched-chain fatty acids. Microbiome profiling indicated treatment-associated changes in bacterial community composition and diversity patterns. LC-QTOF-MS analysis detected several phenolic-related metabolites in OPF-containing treatments after fermentation, including hydroxyphenylpropionic acid- and coumarin-related compounds. However, these metabolites were tentatively annotated, and their formation from specific OPF …",
-      "authors": "Kristina Dea Ivanalie, Uchenna Kalu Akpi, Yada Duangnumsawang et al.",
-      "published": "Oct 2026",
-      "feedName": "Frontiers Food Science",
-      "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.1931174",
-      "image": "",
-      "screen": "left"
-    },
-    {
-      "title": "Biomacromolecule-based encapsulation of Hibiscus sabdariffa polyphenols for functional foods and nutraceuticals",
-      "abstract": "Hibiscus sabdariffa is recognized not only as a source of bioactive polyphenols but also as an underutilized biomass resource. This review examines an integrated valorization approach that connects phytochemical variability and extraction strategies with biomacromolecule-based encapsulation for functional foods and nutraceuticals. Anthocyanins, flavonoids, phenolic acids, and organic acids vary among plant parts, accessions, and processing residues, highlighting the importance of residue-specific recovery and preservation. Extraction technologies can improve recovery, but higher extraction efficiency may compromise thermolabile anthocyanins, so recovery should be balanced with chemical integrity. Encapsulation approaches, including spray drying, freeze drying, calcium alginate gelation, carbohydrate and protein matrices, liposomes, polymeric systems, and nanostructured lipid carriers, provide options for improving the stability, handling, dispersibility, and gastrointestinal delivery of Hibiscus sabdariffa bioactive compounds. However, evidence specifically linking these encapsulation systems to residue-derived H. sabdariffa bioactives remains limited. Future research should integrate residue-specific extraction with food-compatible carrier design, quantitative release kinetics, bioaccessibility testing, scale-up, and sustainability to support the development of value-added roselle-derived ingredients while preserving sensory quality and commercial potential.",
-      "authors": "Naasrin Shaikh, Ramendra Pati Pandey, Lubna Shaik",
-      "published": "Oct 2026",
-      "feedName": "Frontiers Food Science",
-      "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.1975629",
       "image": "",
       "screen": "left"
     },
@@ -482,42 +482,42 @@
       "screen": "right"
     },
     {
-      "title": "Macro-micro dynamics of child undernutrition in Pakistan: a structural learning-based Bayesian network analysis of household and policy drivers",
-      "abstract": "BackgroundChild undernutrition remains a major public health concern and creates health-related inequalities in developing countries, with long-term consequences for human development deficits. Most of these early studies were conducted using conventional econometric techniques; however, understanding the complex, multi-level determinants of undernutrition may require more advanced analytical methods.MethodsThis study, PC algorithm is used for Structural Learning-Based Bayesian Networks [SL-BN] (a graphical model based on directed acyclic graph with joint and conditional associations)—which is conceptually different than the weight-based networks, to examine the macro- and micro-level determinants of child undernutrition in Pakistan. Macro-level analysis combines historical nutrition policy evaluation (critical discourse) with WDI and UNDP data (2000–2022), spanning the MDG and SDG eras. Micro-level analysis draws on the Pakistan Demographic and Health Survey (PDHS 2017–18) to identify socioeconomic drivers of child malnutrition and nutritional inequalities.ResultsIn micro analysis, the SL-BN network structure identifies household-level determinants—such as poor wealth status, rural residence, poor environmental conditions, low maternal education, and diarrhea—as key drivers of child undernutrition. Inequality is stark, with malnutrition disproportionately concentrated among the poorest. However, the SL-BN findings and critical assessment of nutritional policies and programs found that low investment in human development, foreign dependency on health, poverty, inflation, an…",
-      "authors": "Muhammad Shahid, Jiayi Song, Zaiba Ali et al.",
+      "title": "Development and validation of a food photography atlas for portion size estimation of traditional Croatian dishes in adults",
+      "abstract": "BackgroundAccurate portion size estimation is an important component of dietary assessment. Food photography atlases, which are among the most commonly used portion size measurement aids, are designed to take into account the cultural context and dietary patterns of the target population. Therefore, the aim of this study was to develop and validate food photography atlas of traditional Croatian dishes for adults.MethodsThe 30 dishes were selected, in accordance with the gastronomic regions defined by Croatian National Tourist Board. The portion sizes were determined using data from the first Croatian national food consumption survey of the adult population, conducted in accordance with the EU Menu methodology. The photographs were validated by comparing them with the actual dishes served to 110 participants over a three-day period. Validity assessment included mean differences between actual and estimated portion sizes using the Wilcoxon signed-rank test, correlations between actual and estimated portion sizes, Bland– Altman limits of agreement, and quadratic weighted Cohen’s kappa.ResultsOf the 30 selected traditional dishes, no significant differences between actual and estimated portion sizes were observed for 46.7% of dishes, whereas portion sizes were underestimated for 30% and overestimated for 23.3%. For half of the dishes, at least 50% of the estimates were within ±10% of the differences between actual and estimated portion size. Spearman’s correlation showed a strong association between actual and estimated portion size for all 30 dishes. Bland–Altman analysis demo…",
+      "authors": "Ivana Rumbak, Ana Ilić, Tea Knezović et al.",
       "published": "Oct 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1882524",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1956906",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Prognostic value of postoperative dynamic PNI trajectories for biochemical recurrence in patients with high-risk localized prostate cancer: a longitudinal trajectory clustering study",
-      "abstract": "BackgroundThe prognostic nutritional index (PNI) reflects nutritional-immune status, but the value of a single baseline PNI for predicting biochemical recurrence (BCR) after radical prostatectomy in high-risk localized prostate cancer remains unclear. We aimed to identify postoperative PNI trajectories and compare their BCR predictive value with baseline PNI.MethodsWe retrospectively included 436 patients. PNI was measured preoperatively (T0) and at 3 (T1) and 12 (T2) months post-surgery. Longitudinal trajectory clustering identified three PNI trajectory classes: persistently high (PHigh, n = 169, 46.4%), persistently low (PLow, n = 146, 40.1%), and declining (Declining, n = 49, 13.5%). Cox regression assessed associations with BCR; a Cox-based time-to-event prediction model was evaluated using time-dependent AUC, IPCW Brier score, and calibration at 3-year and 5-year horizons. A 12-month landmark analysis was performed to address potential guarantee-time bias.ResultsDuring median 38.2-month follow-up, 122 (28.0%) developed BCR. Baseline PNI was not independently associated with BCR (continuous HR = 0.97, p = 0.320; dichotomized HR = 1.23, p = 0.347). Three trajectories emerged: persistently high (PHigh, 46.4%), persistently low (PLow, 40.1%), and declining (Declining, 13.5%). Relative to PHigh, PLow (HR = 2.95) and Declining (HR = 5.80) both had significantly higher BCR risk (p < 0.001). A 12-month landmark analysis confirmed these findings (PLow HR = 2.72, p = 0.002; Declining HR = 4.79, p = 1.24 × 10−6). The multivariable Cox model combining trajectory, log PSA, surgical…",
-      "authors": "Bo Yu, Xuchao Dai, Jianguo Zhu",
+      "title": "Global research landscape and emerging frontiers of ultra-processed food intake and cardiometabolic health: a bibliometric and knowledge-mapping analysis (2015–2025)",
+      "abstract": "ObjectiveBibliometric and visual analysis of research on ultra-processed food (UPF) intake and cardiometabolic health from 2015 to 2025.MethodsPublications from 2015 to 2025 were retrieved from the Web of Science Core Collection (WoSCC) and Scopus databases. Analyses were conducted using R software (bibliometrix package), VOSviewer, CiteSpace, and Origin 2018.ResultsScholarly output in this field demonstrated a continuous growth trajectory throughout the study period, with the steepest rise concentrated between 2020 and 2021. Brazil led in publication output, followed by the United States and China. The University of São Paulo ranked first among contributing institutions. Nutrients, Public Health Nutrition, and Frontiers in Nutrition were the most productive journals, while Public Health Nutrition, Nutrients, and the American Journal of Clinical Nutrition dominated the co-citation network. Prominent keywords included obesity, cardiovascular diseases, children, dietary patterns, and diabetes mellitus, reflecting the central themes of this field. Bibliometric analysis identified three key research hotspots: the association between UPF intake and cardiometabolic diseases (CMDs); the association between UPF consumption and early cardiometabolic impairment in children and adolescents; and mechanisms underlying food matrix disruption and food additive-mediated cardiometabolic dysregulation.ConclusionGlobal research interest in the relationship between UPF intake and cardiometabolic health has grown substantially over the past decade. This study provides a comprehensive mapping of…",
+      "authors": "Tianao Chen, Ping Ni, Minxin Li et al.",
       "published": "Oct 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1963784",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1916253",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "LVEF-defined septic cardiomyopathy modifies the association between the prognostic nutritional index and mortality in adults with sepsis: a 72-h landmark analysis",
-      "abstract": "BackgroundThe prognostic nutritional index (PNI) combines albumin and lymphocyte count and may capture nutrition-related immune-inflammatory status in sepsis. Whether its association with mortality differs by left ventricular ejection fraction (LVEF)-defined septic cardiomyopathy (SCM) is unclear.MethodsWe conducted a retrospective 72-h landmark study of MIMIC-IV adults with Sepsis-3 who survived to the landmark, had clinically indicated pre-landmark echocardiographic LVEF assessment, and had calculable early PNI. The prespecified primary analysis tested the lower-PNI-by-LVEF-defined-SCM interaction for 28-day mortality in an adjusted Cox model. Ninety-day and sensitivity analyses were supportive or exploratory. A single-center cohort was examined separately, not as formal validation.ResultsAmong 1,976 patients, 240 had LVEF-defined SCM; 506 and 633 died by 28 and 90 days, respectively. Each 5-point lower PNI was associated with higher 28-day mortality without SCM (adjusted hazard ratio [HR], 1.18; 95% CI, 1.11–1.24) but not with LVEF-defined SCM (HR, 0.96; 95% CI, 0.87–1.05); the ratio of HRs was 0.82 (95% CI, 0.73–0.91; p < 0.001). The secondary 90-day ratio was 0.84 (95% CI, 0.76–0.94; nominal p = 0.001). Absolute-risk and restricted-mean-survival-time analyses supported attenuation, whereas same-calendar-day PNI pairing and some alternative LVEF definitions attenuated the interaction estimates toward the null. The external estimate was imprecise and statistically inconclusive (ratio of odds ratios, 0.89; 95% CI, 0.51–1.55).ConclusionAmong selected 72-h survivors with cl…",
-      "authors": "Xianju Wang, Min Cheng, Fengqi Ruan et al.",
+      "title": "The role of maternal gut microbiota in prenatal depression and offspring neurodevelopment",
+      "abstract": "Prenatal depression is a prevalent complication during pregnancy that not only adversely affects maternal mental health and elevates the risk of postpartum depression but also has enduring implications for offspring development. Alterations in the host metabolome and gut microbiome have been linked to the onset and progression of depression; however, the biological mechanisms underlying the association between maternal mood disorders and fetal brain development remain inadequately understood. Recent studies have associated prenatal depression and psychological stress with alterations in the maternal gut microbiota, microbial metabolism, and immune signaling. However, most human evidence remains observational, and it remains unclear whether these microbial alterations precede depressive symptoms, arise as a consequence of depression or psychological stress, or act as intermediate factors within the maternal gut–brain axis. These findings offer novel strategies for the prevention and treatment of threats to maternal-fetal health. This article systematically reviews recent advancements in research concerning the “microbiota-gut-brain” axis in the context of maternal-fetal health. It investigates the roles and mechanisms of gut microbiota through preclinical and clinical studies, assesses the feasibility of potential therapeutic strategies, and suggests directions for future research. The aim is to provide a theoretical foundation for interventions targeting maternal-fetal health in cases of prenatal depression.",
+      "authors": "Qiushuang Jia, Chengqian Diao, Shuai Liu et al.",
       "published": "Oct 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1903225",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1958794",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Time-restricted feeding during the inactive phase vs. ad libitum feeding: diet-dependent effects on weight and metabolic markers in male Wistar rats",
-      "abstract": "Background/objectivesIn recent years, intermittent fasting has become a popular method for preventing and treating obesity and chronic diseases. This study explored the metabolic and inflammatory effects of inactive-phase (Day) time-restricted feeding (TRF) vs. ad libitum feeding (Ad) in rats under high-fat (HF) and standard (S) diet for 8 weeks.MethodsFour groups (TRF + HF, TRF + S, Ad + S, Ad + HF; n = 7 each) were monitored for temporal changes in key biomarkers, including TNF-α, IL-6, LPS, insulin, glucose, and lipid profiles, and body weight. Baseline-adjusted two-way ANCOVA was used to evaluate the main effects of Diet and Feeding pattern and their interaction, with complementary multivariate analyses performed as sensitivity analyses.ResultsBody weight was significantly associated with both Diet and Feeding pattern after baseline adjustment, with the greatest observed weight gain in Ad + HF and the smallest in TRF + S. TNF-α showed a significant Diet × Feeding interaction, characterized by marked reductions in both TRF groups and little change in Ad + HF. Lipid metabolism exhibited distinct interactions between diet type and feeding regimens. Total cholesterol levels increased in both ad libitum-fed groups, whereas a reduction was observed in the TRF + S group. Triglyceride responses also showed pronounced treatment effects, with the TRF + HF group demonstrating the greatest decrease over the intervention period. IL-6, LPS, insulin, glucose, and LDL-C did not display significant group × time interactions.ConclusionsOverall, inactive-phase time-restricted feeding was …",
-      "authors": "Ladan Hajhamidiasl, Murat Baş, Ozgur Yilmaz et al.",
+      "title": "Serum 25-hydroxyvitamin D levels and prevalent diabetic retinopathy in adults with type 2 diabetes: a retrospective hospital-based matched case-control study",
+      "abstract": "BackgroundDiabetic retinopathy (DR) is a major microvascular complication of type 2 diabetes mellitus (T2DM). This study examined the adjusted association between serum 25-hydroxyvitamin D [25(OH)D] and prevalent DR.MethodsThis retrospective, single-center matched case–control study was conducted at a tertiary hospital in China among adults with T2DM treated between January 2023 and March 2025. Serum 25(OH)D testing was not routine for all patients and was ordered at the treating clinician’s discretion. Participants were eligible only when a 25(OH)D result was available within ±7 days of bilateral fundus photography. Cases had prevalent DR and controls had no DR; individual 1:2 matching used sex, age within ±3 years, and diabetes duration within ±2 years. The prespecified primary analysis modeled 25(OH)D continuously in conditional logistic regression, and missing covariates were handled by multiple imputation.ResultsThe final sample included 399 selectively tested participants (133 with DR and 266 without DR) in 133 matched sets. Mean serum 25(OH)D was 18.6 ± 7.4 ng/mL in the DR group and 23.4 ± 8.1 ng/mL in the non-DR group. In the prespecified adjusted model, each 10 ng/mL higher serum 25(OH)D level was associated with lower prevalence odds of DR (OR, 0.62; 95% CI, 0.48–0.81; p < 0.001). Additional adjustment for continuous age and diabetes duration yielded a similar estimate (OR, 0.63; 95% CI, 0.48–0.83; p = 0.001). In an exploratory unadjusted analysis, mean 25(OH)D decreased across ICDR categories from no DR to proliferative DR (23.4 to 15.2 ng/mL; P for trend < 0.001…",
+      "authors": "Rong-Feng Dai, Yu Qian, Si-Qi Liu et al.",
       "published": "Oct 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1968504",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1828254",
       "image": "",
       "screen": "right"
     },
@@ -789,7 +789,7 @@
       "venue": "Foods",
       "feedName": "Lab Research",
       "citationCount": 42,
-      "recentCitations": 0,
+      "recentCitations": 2,
       "quartile": "Q2",
       "s2_paper_id": "58107c8058774580a57d044f21566325035de229",
       "url": "https://doi.org/10.3390/foods11233858",

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07T10:45:04Z",
+  "updated": "2026-10-07T18:10:04Z",
   "items": [
     {
       "title": "Cybersecurity and resiliency in agricultural and food systems",
@@ -52,32 +52,32 @@
       "screen": "left"
     },
     {
-      "title": "Rapid determination of reducing sugars in demerara sugar using a sustainable smartphone-based digital colorimetry approach",
+      "title": "A metrologically traceable approach for quantifying proteinaceous fining agents by HPLC-HRMS",
       "abstract": "",
-      "authors": "Vandressa Alves, Isabel M.P.L.V.O. Ferreira, Maria L. Felsner",
+      "authors": "Beatrice Aiuto, Consolato Schiavone, Loredana Tarraran et al.",
       "published": "Dec 2026",
       "feedName": "Food Chemistry",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626035971?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626036320?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
     {
-      "title": "Composition-dependent amorphous matrix formation controls vitamin C stability in reconstituted freeze-dried lactose–whey protein isolate systems",
+      "title": "Bioactive compounds from coffee husk ( Coffea arabica ) obtained by green extraction methods: Characterisation, antioxidant capacity and inhibition of lipid peroxidation",
       "abstract": "",
-      "authors": "Juhyun Kim, Muthu Thiruvengadam, Bum-Su Jung et al.",
+      "authors": "Jorge Armando Gaitán-Oyola, Andrés Felipe Alzate-Arbeláez, Walter Murillo-Arango et al.",
       "published": "Dec 2026",
       "feedName": "Food Chemistry",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626035016?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626035272?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
     {
-      "title": "Perilla essential oil-loaded gelatin–hyaluronic acid films for kiwiberry preservation: Effects of dual crosslinking on film properties and proteomic responses",
+      "title": "Flaxseed oil cake as a functional ingredient of gluten-free bread: impact on antioxidant properties, volatile organic compounds, and bioaccessibility of minerals",
       "abstract": "",
-      "authors": "Song Zhang, Qingrui Wang, Jia Hou et al.",
+      "authors": "Daniela Oliveira, Urszula Krupa-Kozak, Michał Adam Janiak et al.",
       "published": "Dec 2026",
       "feedName": "Food Chemistry",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626035545?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626035077?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -152,12 +152,12 @@
       "screen": "left"
     },
     {
-      "title": "What drives hybrid cultivated meat acceptance? Evidence from a controlled real-product tasting",
+      "title": "Pathways to plant-based meal consumption: A two-wave test of the health action process approach (HAPA)",
       "abstract": "",
-      "authors": "Pericle Raverta, Mark Chong, Siti Amelia Juraimi et al.",
+      "authors": "Fernanda Ramos, Cícero Roberto Pereira, David Guedes et al.",
       "published": "Feb 2027",
       "feedName": "Food Quality & Preference",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0950329326002843?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0950329326002879?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -242,6 +242,16 @@
       "screen": "left"
     },
     {
+      "title": "Persistence of hepatitis A virus in a hydroponic nutrient solution at different temperatures",
+      "abstract": "",
+      "authors": "Elena Jerkovic, Kellie Walters, Doris H. D'Souza",
+      "published": "Mar 2027",
+      "feedName": "Food Microbiology",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0740002026002832?dgcid=rss_sd_all",
+      "image": "",
+      "screen": "left"
+    },
+    {
       "title": "Multi-omics and functional validation profiling reveals the regulatory mechanism of biofilm-forming Tetragenococcus halophilus JY1 in response to salt tolerance",
       "abstract": "",
       "authors": "Chi Zhao, Dongdong Sun, Shenmiao Li et al.",
@@ -268,16 +278,6 @@
       "published": "Mar 2027",
       "feedName": "Food Microbiology",
       "url": "https://www.sciencedirect.com/science/article/pii/S0740002026002856?dgcid=rss_sd_all",
-      "image": "",
-      "screen": "left"
-    },
-    {
-      "title": "Non-destructive and quantitative estimation of microbial growth rates on food surfaces using microscopic image analysis",
-      "abstract": "",
-      "authors": "Hisato Tamiya, Kentaro Tsuda, Akinori Ando et al.",
-      "published": "Mar 2027",
-      "feedName": "Food Microbiology",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0740002026002819?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -322,6 +322,16 @@
       "screen": "left"
     },
     {
+      "title": "Integrating large multi-modal models for automated powdery mildew phenotyping in grapevines",
+      "abstract": "",
+      "authors": "Yiyuan Lin, Zachary Dashner, Ana Jimenez et al.",
+      "published": "",
+      "feedName": "AI in Agriculture",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2589721726001157?dgcid=rss_sd_all",
+      "image": "",
+      "screen": "left"
+    },
+    {
       "title": "Pixel-level high-throughput estimation of crop photosynthetic phenotyping parameters using a multi-task deep learning framework",
       "abstract": "",
       "authors": "Mengqi Zhang, Jiaren Zhou, Qingfeng Song et al.",
@@ -352,14 +362,14 @@
       "screen": "left"
     },
     {
-      "title": "Research and trials on multi-pose picking of Sichuan pepper based on multi-task perception",
-      "abstract": "",
-      "authors": "Chunlin Chen, Ziheng Wang, Tianqin Cheng et al.",
-      "published": "",
-      "feedName": "AI in Agriculture",
-      "url": "https://www.sciencedirect.com/science/article/pii/S2589721726001145?dgcid=rss_sd_all",
-      "image": "",
-      "screen": "left"
+      "title": "Quantum simulations suggest lithium isotopes could affect biological reactions differently",
+      "abstract": "While lithium has been used as a first-line treatment for the long-term management of bipolar disorder for more than 70 years, scientists still do not fully understand how it produces its therapeutic effects in the brain.In a new study published in PLOS ONE, Surrey researchers used computational chemistry and quantum simulations to investigate whether part of the answer could lie in \"nuclear spin\"—a quantum property that makes an atom's nucleus behave like a tiny magnet, allowing it to influence nearby electrons and potentially change the outcome of chemical reactions.",
+      "authors": "",
+      "published": "Oct 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-10-quantum-simulations-lithium-isotopes-affect.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/quantum-study-offers-n.jpg",
+      "screen": "right"
     },
     {
       "title": "Nearly 10,000 mapped reactions reveal overlooked steps in CO₂-to-fuel conversion",
@@ -389,16 +399,6 @@
       "feedName": "Phys.org Analytics",
       "url": "https://phys.org/news/2026-10-tetrahedral-iron-clays-exchange-electrons.html",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/what-does-tetrahedral.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "Blue-light labeling uncovers unexpected protein partners of folded DNA structures",
-      "abstract": "DNA can be more than just a double helix. When four strands are folded into a compact bundle, they form a G-quadruplex (G4). These bundles form in guanine-rich regions across the genome, including telomeres at the ends of chromosomes and the control regions of genes, where the proteins that dock onto them help decide which genes are switched on. G4 does not act the same way everywhere. What it does depends on where it forms and which proteins bind to it. This is why understanding the interactions surrounding G4 is so important.",
-      "authors": "",
-      "published": "Oct 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-10-blue-uncovers-unexpected-protein-partners.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/new-labeling-tool-unco.jpg",
       "screen": "right"
     },
     {
@@ -442,6 +442,16 @@
       "screen": "right"
     },
     {
+      "title": "Taking antibiotics? Sugar may be making the damage worse",
+      "abstract": "Eating more sugar while taking antibiotics was linked to greater disruption of the gut microbiome and increased growth of potentially harmful bacteria. Researchers say temporarily cutting back on sweets during and after antibiotic treatment could be a simple way to reduce this damage, though clinical trials are still needed.",
+      "authors": "",
+      "published": "Oct 2026",
+      "feedName": "ScienceDaily Nutrition",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261007042059.htm",
+      "image": "https://www.sciencedaily.com/images/1920/bacteria-intestinal-microbiome-in-digestive-tract.webp",
+      "screen": "right"
+    },
+    {
       "title": "Scientists reveal what seven days of fasting does to the human body",
       "abstract": "Scientists found that prolonged fasting triggers major changes throughout the body, but many of the most interesting effects only appeared after about three days without food. The results suggest fasting may influence health in ways that go beyond weight loss and could eventually inspire treatments that mimic its effects.",
       "authors": "",
@@ -472,32 +482,22 @@
       "screen": "right"
     },
     {
-      "title": "Leucine does more than build muscle. It powers up your cells",
-      "abstract": "The essential amino acid leucine can boost cellular energy production by protecting key proteins on mitochondria from being destroyed. The discovery reveals a new connection between nutrition and metabolism that could eventually lead to new approaches for metabolic disorders and cancer.",
-      "authors": "",
-      "published": "Oct 2026",
-      "feedName": "ScienceDaily Nutrition",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261001095319.htm",
-      "image": "https://www.sciencedaily.com/images/1920/glowing-mitochondria-cell-biology.webp",
-      "screen": "right"
-    },
-    {
-      "title": "Development and validation of a food photography atlas for portion size estimation of traditional Croatian dishes in adults",
-      "abstract": "BackgroundAccurate portion size estimation is an important component of dietary assessment. Food photography atlases, which are among the most commonly used portion size measurement aids, are designed to take into account the cultural context and dietary patterns of the target population. Therefore, the aim of this study was to develop and validate food photography atlas of traditional Croatian dishes for adults.MethodsThe 30 dishes were selected, in accordance with the gastronomic regions defined by Croatian National Tourist Board. The portion sizes were determined using data from the first Croatian national food consumption survey of the adult population, conducted in accordance with the EU Menu methodology. The photographs were validated by comparing them with the actual dishes served to 110 participants over a three-day period. Validity assessment included mean differences between actual and estimated portion sizes using the Wilcoxon signed-rank test, correlations between actual and estimated portion sizes, Bland– Altman limits of agreement, and quadratic weighted Cohen’s kappa.ResultsOf the 30 selected traditional dishes, no significant differences between actual and estimated portion sizes were observed for 46.7% of dishes, whereas portion sizes were underestimated for 30% and overestimated for 23.3%. For half of the dishes, at least 50% of the estimates were within ±10% of the differences between actual and estimated portion size. Spearman’s correlation showed a strong association between actual and estimated portion size for all 30 dishes. Bland–Altman analysis demo…",
-      "authors": "Ivana Rumbak, Ana Ilić, Tea Knezović et al.",
+      "title": "Shift work in the digital food environment: associations with nutrition knowledge and online food ordering attitudes",
+      "abstract": "IntroductionShift work may influence individuals’ online food-ordering behaviors by altering meal timing and access to food; however, the role of nutrition knowledge in this relationship remains insufficiently understood. This study aimed to examine the association between nutrition knowledge levels and attitudes toward online food ordering among adults with different work schedules. Methods: This cross-sectional study included 352 employees aged 18–64 years. Sociodemographic characteristics, work schedules, and online food-ordering behaviors were assessed using a structured questionnaire. Nutrition knowledge was evaluated using the Nutrition Knowledge Level Scale for Adults, while attitudes toward online food ordering were assessed using the Attitude Scale Toward Online Food Ordering.MethodsThis cross-sectional study included 352 employees aged 18–64 years. Sociodemographic characteristics, work schedules, and online food-ordering behaviors were assessed using a structured questionnaire. Nutrition knowledge was evaluated using the Nutrition Knowledge Level Scale for Adults, while attitudes toward online food ordering were assessed using the Attitude Scale Toward Online Food Ordering.ResultsOf the participants, 84.7% reported that their dietary patterns changed on working days, while 64.8% indicated that fast-food products were the most frequently ordered food category. The total attitude score toward online food ordering differed significantly according to shift type, with fixed night-shift workers having higher scores than fixed evening-shift workers (58.73 ± 11.47 vs. 50…",
+      "authors": "Tuğçe Özlü Karahan, Aslı Akbeniz, Gamze Çavuşoğlu et al.",
       "published": "Oct 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1956906",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1958118",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Global research landscape and emerging frontiers of ultra-processed food intake and cardiometabolic health: a bibliometric and knowledge-mapping analysis (2015–2025)",
-      "abstract": "ObjectiveBibliometric and visual analysis of research on ultra-processed food (UPF) intake and cardiometabolic health from 2015 to 2025.MethodsPublications from 2015 to 2025 were retrieved from the Web of Science Core Collection (WoSCC) and Scopus databases. Analyses were conducted using R software (bibliometrix package), VOSviewer, CiteSpace, and Origin 2018.ResultsScholarly output in this field demonstrated a continuous growth trajectory throughout the study period, with the steepest rise concentrated between 2020 and 2021. Brazil led in publication output, followed by the United States and China. The University of São Paulo ranked first among contributing institutions. Nutrients, Public Health Nutrition, and Frontiers in Nutrition were the most productive journals, while Public Health Nutrition, Nutrients, and the American Journal of Clinical Nutrition dominated the co-citation network. Prominent keywords included obesity, cardiovascular diseases, children, dietary patterns, and diabetes mellitus, reflecting the central themes of this field. Bibliometric analysis identified three key research hotspots: the association between UPF intake and cardiometabolic diseases (CMDs); the association between UPF consumption and early cardiometabolic impairment in children and adolescents; and mechanisms underlying food matrix disruption and food additive-mediated cardiometabolic dysregulation.ConclusionGlobal research interest in the relationship between UPF intake and cardiometabolic health has grown substantially over the past decade. This study provides a comprehensive mapping of…",
-      "authors": "Tianao Chen, Ping Ni, Minxin Li et al.",
+      "title": "Joint and interactive associations of nutritional risk and pulmonary infection with tracheostomy decannulation in neurorehabilitation inpatients: a retrospective cohort study",
+      "abstract": "BackgroundNutritional risk and pulmonary infection are common in tracheostomized patients entering neurorehabilitation. Their coexistence may combine limited physiological reserve with respiratory instability, but evidence on their joint association and interaction with decannulation is limited.MethodsThis retrospective cohort included 884 tracheostomized adults with neurological disorders admitted to a tertiary rehabilitation department between January 2020 and May 2025. Nutritional risk was defined as a Nutritional Risk Screening 2002 score ≥3, and active pulmonary infection was assessed at rehabilitation admission. Successful decannulation within 30 days was the event. Cox models were used to explore individual and joint associations and multiplicative interaction. The primary adjusted model was adjusted for demographic characteristics, comorbidity, neurological severity, and acute-care trajectory. An extended model additionally included concurrent respiratory-support, airway-protection, secretion-management, and care-related characteristics. Fifteen-day, pre-rehabilitation timing, and censoring sensitivity analyses were performed. Adjusted 15-and 30-day decannulation probabilities and 30-day restricted mean time remaining tracheostomized were also estimated.ResultsOverall, 574 patients (64.9%) were successfully decannulated within 30 days. Kaplan–Meier probabilities of decannulation were 95.4% with neither condition, 82.2% with pulmonary infection alone, 85.6% with nutritional risk alone, and 49.5% with both conditions. In the primary adjusted model, the hazard ratios (…",
+      "authors": "Jiang Wang, Shuguang Liang, Huizhen Zhang et al.",
       "published": "Oct 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1916253",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1944451",
       "image": "",
       "screen": "right"
     },

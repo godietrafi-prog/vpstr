@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07T18:10:04Z",
+  "updated": "2026-10-07T23:57:30Z",
   "items": [
     {
       "title": "Cybersecurity and resiliency in agricultural and food systems",
@@ -282,6 +282,16 @@
       "screen": "left"
     },
     {
+      "title": "Comparing the bioactivity of grape byproducts (pomace, seed extract, and skin/pulp food coloring) on DSS-induced intestinal stress in early life",
+      "abstract": "",
+      "authors": "Melissa Y. Huang, Elad Tako",
+      "published": "Oct 2026",
+      "feedName": "npj Science of Food",
+      "url": "https://www.nature.com/articles/s41538-026-01148-0",
+      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01148-0/MediaObjects/41538_2026_1148_Fig1_HTML.png",
+      "screen": "left"
+    },
+    {
       "title": "Effect of species on the flavor profile of boletes: insights from GC-MS, LC-MS, ATR-FTIR spectroscopy and chemometrics",
       "abstract": "",
       "authors": "Chen Zhong, Jie-Qing Li, Yuan-Zhong Wang",
@@ -309,16 +319,6 @@
       "feedName": "npj Science of Food",
       "url": "https://www.nature.com/articles/s41538-026-01157-z",
       "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01157-z/MediaObjects/41538_2026_1157_Fig1_HTML.png",
-      "screen": "left"
-    },
-    {
-      "title": "Discovery of saltiness-enhancing peptides from Hypsizygus marmoreus via virtual screening, multisensory evaluation, electronic tongue, and molecular simulation",
-      "abstract": "",
-      "authors": "Wenping Kong, Li Lin, Liting Lai et al.",
-      "published": "Oct 2026",
-      "feedName": "npj Science of Food",
-      "url": "https://www.nature.com/articles/s41538-026-01088-9",
-      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01088-9/MediaObjects/41538_2026_1088_Fig1_HTML.png",
       "screen": "left"
     },
     {
@@ -362,6 +362,16 @@
       "screen": "left"
     },
     {
+      "title": "Polymer coating tackles MXene's water stability challenge, boosting CO₂-to-methane production",
+      "abstract": "A research team has developed a photocatalytic technology that improves the stability of MXene, an emerging material vulnerable to water, to efficiently convert carbon dioxide into methane.",
+      "authors": "",
+      "published": "Oct 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-10-polymer-coating-tackles-mxene-stability.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/overcoming-mxenes-wate.jpg",
+      "screen": "right"
+    },
+    {
       "title": "Quantum simulations suggest lithium isotopes could affect biological reactions differently",
       "abstract": "While lithium has been used as a first-line treatment for the long-term management of bipolar disorder for more than 70 years, scientists still do not fully understand how it produces its therapeutic effects in the brain.In a new study published in PLOS ONE, Surrey researchers used computational chemistry and quantum simulations to investigate whether part of the answer could lie in \"nuclear spin\"—a quantum property that makes an atom's nucleus behave like a tiny magnet, allowing it to influence nearby electrons and potentially change the outcome of chemical reactions.",
       "authors": "",
@@ -389,16 +399,6 @@
       "feedName": "Phys.org Analytics",
       "url": "https://phys.org/news/2026-10-crystal-alignment-magnesium-alloy-plates.html",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/pusan-national-univers-17.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "Tetrahedral iron can help clays exchange electrons about ten times faster",
-      "abstract": "Smectites are clay minerals that can contain large amounts of structural iron. Unlike iron oxides, they do not dissolve when their iron is reduced, so they can be reduced and reoxidized many times. This makes them a recyclable pool of redox-active iron that supports microbial respiration, transforms contaminants and influences nutrient and trace element cycling.",
-      "authors": "",
-      "published": "Oct 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-10-tetrahedral-iron-clays-exchange-electrons.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/what-does-tetrahedral.jpg",
       "screen": "right"
     },
     {

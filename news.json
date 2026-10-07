@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T22:05:43Z",
+  "updated": "2026-10-07T03:28:59Z",
   "items": [
     {
       "title": "Cybersecurity and resiliency in agricultural and food systems",
@@ -362,6 +362,26 @@
       "screen": "left"
     },
     {
+      "title": "Nearly 10,000 mapped reactions reveal overlooked steps in CO₂-to-fuel conversion",
+      "abstract": "Scientists are increasingly exploring carbon dioxide (CO₂) hydrogenation—where CO₂ reacts with hydrogen over a catalyst to produce products like methanol—to convert CO₂ into useful chemicals and fuels. However, it involves thousands of tiny chemical steps happening on the catalyst surface.",
+      "authors": "",
+      "published": "Oct 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-10-reactions-reveal-overlooked-fuel-conversion.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/using-machine-learning-2.jpg",
+      "screen": "right"
+    },
+    {
+      "title": "Crystal alignment explains why magnesium alloy plates resist ballistic impacts better in one direction",
+      "abstract": "Magnesium (Mg) alloys offer a pathway to lighter, more efficient aerospace and defense structures because of their low density, high specific strength and excellent damping capacity. However, their hexagonal close-packed (HCP) crystal structure makes deformation highly dependent on crystallographic orientation.",
+      "authors": "",
+      "published": "Oct 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-10-crystal-alignment-magnesium-alloy-plates.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/pusan-national-univers-17.jpg",
+      "screen": "right"
+    },
+    {
       "title": "Tetrahedral iron can help clays exchange electrons about ten times faster",
       "abstract": "Smectites are clay minerals that can contain large amounts of structural iron. Unlike iron oxides, they do not dissolve when their iron is reduced, so they can be reduced and reoxidized many times. This makes them a recyclable pool of redox-active iron that supports microbial respiration, transforms contaminants and influences nutrient and trace element cycling.",
       "authors": "",
@@ -379,26 +399,6 @@
       "feedName": "Phys.org Analytics",
       "url": "https://phys.org/news/2026-10-blue-uncovers-unexpected-protein-partners.html",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/new-labeling-tool-unco.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "A 2-in-1 approach captures toxic metals and recovers rare earth elements from wastewater",
-      "abstract": "We generally throw away a broken camera lens, earphones or an old phone that has stopped working and is beyond repair because they seem useless when they no longer function. However, these objects contain rare earth elements (REEs) that have applications in magnets, superconductivity, optics and batteries, among others. When these objects end up in water, recovering REEs becomes difficult.",
-      "authors": "",
-      "published": "Oct 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-10-approach-captures-toxic-metals-recovers.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/from-toxic-to-valuable.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "What happens when food-safety chemicals react with food?",
-      "abstract": "Following the major Cyclospora outbreak linked to iceberg lettuce, consumers might assume that produce labeled \"triple-washed\" offers greater protection from foodborne illness. But industrial washing cannot necessarily eliminate pathogens already established on produce. At the same time, the disinfectants used during processing may react with the food itself, creating new compounds whose effects on human health are not yet fully understood.",
-      "authors": "",
-      "published": "Oct 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-10-food-safety-chemicals-react.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/iceberg-lettuce.jpg",
       "screen": "right"
     },
     {
@@ -789,7 +789,7 @@
       "venue": "Foods",
       "feedName": "Lab Research",
       "citationCount": 42,
-      "recentCitations": 2,
+      "recentCitations": 0,
       "quartile": "Q2",
       "s2_paper_id": "58107c8058774580a57d044f21566325035de229",
       "url": "https://doi.org/10.3390/foods11233858",

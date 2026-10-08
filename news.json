@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-08T11:08:24Z",
+  "updated": "2026-10-08T18:14:48Z",
   "items": [
     {
       "title": "Refined crop modelling reveals intensifying impacts of droughts and heatwaves on global wheat productivity",
@@ -52,32 +52,32 @@
       "screen": "left"
     },
     {
-      "title": "A metrologically traceable approach for quantifying proteinaceous fining agents by HPLC-HRMS",
+      "title": "Fingerprint spectrum construction for Chinese wolfberry (CW) origin tracing and key element prediction via multi-source data fusion and intelligent algorithms",
       "abstract": "",
-      "authors": "Beatrice Aiuto, Consolato Schiavone, Loredana Tarraran et al.",
+      "authors": "Peng Chen, Rao Fu, Peina Zhou et al.",
       "published": "Dec 2026",
       "feedName": "Food Chemistry",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626036320?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626035648?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
     {
-      "title": "Bioactive compounds from coffee husk ( Coffea arabica ) obtained by green extraction methods: Characterisation, antioxidant capacity and inhibition of lipid peroxidation",
+      "title": "Apigenin modifies the structure and function of Lactoferrin through non-covalent and covalent binding: Antioxidant, antibacterial, and anticancer activities",
       "abstract": "",
-      "authors": "Jorge Armando Gaitán-Oyola, Andrés Felipe Alzate-Arbeláez, Walter Murillo-Arango et al.",
+      "authors": "Huimin Liu, Lixia Yuan, Aiju Chen et al.",
       "published": "Dec 2026",
       "feedName": "Food Chemistry",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626035272?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626035429?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
     {
-      "title": "Flaxseed oil cake as a functional ingredient of gluten-free bread: impact on antioxidant properties, volatile organic compounds, and bioaccessibility of minerals",
+      "title": "Fabrication of a high internal phase emulsion stabilized with Pleurotus eryngii protein modified by ultra-high pressure combined with glutamine transaminase treatment as a potential fat substitute in pork patty formulations",
       "abstract": "",
-      "authors": "Daniela Oliveira, Urszula Krupa-Kozak, Michał Adam Janiak et al.",
+      "authors": "Jiahui Li, Yiran Wang, Suping Ou et al.",
       "published": "Dec 2026",
       "feedName": "Food Chemistry",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626035077?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626035417?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -88,6 +88,16 @@
       "published": "Dec 2026",
       "feedName": "Trends in Food Sci & Tech",
       "url": "https://www.sciencedirect.com/science/article/pii/S0924224426005261?dgcid=rss_sd_all",
+      "image": "",
+      "screen": "left"
+    },
+    {
+      "title": "Preservative tolerance in the clean-label era: Do natural bio-preservation strategies risk recreating an old antimicrobial resistance problem?",
+      "abstract": "",
+      "authors": "Susai Arul Selvan, Monish Bisen, Gangarapu Dimple et al.",
+      "published": "Dec 2026",
+      "feedName": "Trends in Food Sci & Tech",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426006163?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -108,16 +118,6 @@
       "published": "Dec 2026",
       "feedName": "Trends in Food Sci & Tech",
       "url": "https://www.sciencedirect.com/science/article/pii/S0924224426005832?dgcid=rss_sd_all",
-      "image": "",
-      "screen": "left"
-    },
-    {
-      "title": "Recent advances in shrimp melanosis inhibition by active packaging: Inhibitory effects, mechanisms and synergistic approaches",
-      "abstract": "",
-      "authors": "Jia-Yin Huang, Xin Ling, Le-Chang Sun et al.",
-      "published": "Dec 2026",
-      "feedName": "Trends in Food Sci & Tech",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426006096?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -152,12 +152,12 @@
       "screen": "left"
     },
     {
-      "title": "Pathways to plant-based meal consumption: A two-wave test of the health action process approach (HAPA)",
+      "title": "Personality traits add incremental value beyond food choice motives in predicting food-group consumption",
       "abstract": "",
-      "authors": "Fernanda Ramos, Cícero Roberto Pereira, David Guedes et al.",
+      "authors": "Lucas Rangel Schirmer, Jean Carlos Natividade",
       "published": "Feb 2027",
       "feedName": "Food Quality & Preference",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0950329326002879?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0950329326002934?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -202,22 +202,22 @@
       "screen": "left"
     },
     {
+      "title": "Biophysical transport control in smart nanocomposite packaging under non-thermal food preservation technologies",
+      "abstract": "Smart nanocomposite packaging has emerged as a promising approach for enhancing food preservation by improving barrier performance, enabling active functionality, and supporting intelligent quality monitoring. Its integration with non-thermal preservation technologies, including pulsed electric fields, cold plasma, ultraviolet irradiation, and high-pressure processing, offers new opportunities to extend shelf life while minimizing thermal damage to food products. This review examines the interactions between smart nanocomposite packaging and non-thermal processing, with emphasis on the transport phenomena governing mass transfer, permeability, and interfacial stability that influence food quality and microbial safety. Recent advances in nanocomposite materials are discussed in relation to improved mechanical strength, gas and moisture barrier properties, and compatibility with non-thermal treatments. The review also highlights emerging intelligent packaging systems incorporating nanosensors, Internet of Things connectivity, and artificial intelligence for real-time quality monitoring and predictive shelf-life assessment. Current challenges, including nanomaterial migration, regulatory considerations, industrial scalability, and long-term stability, are critically evaluated. Finally, future research directions are proposed to facilitate the development of sustainable, intelligent packaging systems that complement non-thermal food processing technologies. Overall, this review provides a comprehensive perspective on the synergistic integration of smart nanocomposite packaging …",
+      "authors": "Adeshina Fadeyibi, Azeez Ayinla Adebayo, Zinash Delebo Osunde et al.",
+      "published": "Oct 2026",
+      "feedName": "Frontiers Food Science",
+      "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.1980752",
+      "image": "",
+      "screen": "left"
+    },
+    {
       "title": "Finger millet flour based batter coating: effects on frying behavior, oil uptake, and storage stability of chicken popcorn",
       "abstract": "IntroductionBatter coating systems in fried poultry products are primarily designed to enhance sensory attributes, such as crispiness and flavor; however, their potential role as functional matrices for improving frying performance and nutritional quality remains largely unexplored.MethodsThis study investigated the effect of incorporating finger millet flour (FMF) as a functional batter ingredient on the frying behavior, oil uptake, and storage stability of chicken popcorn. Batter formulations were developed by replacing cornflour with FMF at 0%, 5%, 10%, and 15%, designated as Control, T1, T2, and T3, respectively. The enrobed products were evaluated for proximate composition, cooking quality parameters, physicochemical characteristics, microbiological quality, and sensory attributes during four weeks of refrigerated storage (4 ± 1 °C).ResultsIncorporation of FMF significantly influenced frying performance (p < 0.05), resulting in improved cooking yield and moisture retention while reducing fat uptake during frying. The formulation containing 10% FMF (T2) exhibited the most favourable technological performance, with the highest cooking yield (86.38%) and moisture retention (83.01%) alongside reduced fat content in cooked samples compared with the control. During storage, progressive increases in pH, tyrosine value, thiobarbituric acid value, free fatty acids, and microbial counts were observed across all treatments, reflecting typical storage related spoilage. However, FMF treated samples exhibited comparatively lower oxidative and proteolytic changes, indicating modest i…",
       "authors": "Kiran M., Md. Yousufuddin, B. Manojkumar et al.",
       "published": "Oct 2026",
       "feedName": "Frontiers Food Science",
       "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.1901708",
-      "image": "",
-      "screen": "left"
-    },
-    {
-      "title": "Volatile profile and antioxidant-related measurements of two Sauvignon Blanc vinifications from the Brazilian Cerrado: an exploratory chemical characterization",
-      "abstract": "In this exploratory study, two Sauvignon Blanc wines produced from a single grape lot in the Brazilian Cerrado were chemically characterized. T1 was fermented with Saccharomyces cerevisiae, whereas T2 was co-inoculated with S. cerevisiae and Hanseniaspora vineae. One fermentation was conducted per condition, and the reported triplicates were repeated analytical measurements of the same wines. Analyses included physicochemical parameters, Folin-Ciocalteu reducing capacity, flavonoid content, DPPH• and ABTS•+ radical-scavenging assays, voltammetry, and GC-MS profiling of free and glycosidically bound volatile compounds. T2 had a higher pH, lower total acidity and malic acid, and a higher lactic acid concentration, indicating more advanced spontaneous malolactic fermentation at the time of analysis. T1 showed a higher Folin-Ciocalteu response, whereas T2 showed lower DPPH• and ABTS•+ IC50 values and a slightly higher electrochemical index. These observations are reported descriptively because independent fermentation replicates were not available. GC-MS analysis tentatively identified 57 free volatile compounds, mainly esters and alcohols. The semi-quantitative internal-standard-equivalent estimate of 2-phenylethyl acetate was higher in T2 (28.57 µg L−1). Nineteen compounds were tentatively identified after hydrolysis of the glycosidically bound fraction, including terpenoid-, norisoprenoid-, and benzenoid-related compounds. This study therefore provides an initial, hypothesis-generating chemical characterization of two Sauvignon Blanc vinifications from the Brazilian Cerrado.",
-      "authors": "Luis Felipe Lima Guimarães, Paolla Xavier de Amorim, Izadora Viana Maia et al.",
-      "published": "Oct 2026",
-      "feedName": "Frontiers Food Science",
-      "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.1914854",
       "image": "",
       "screen": "left"
     },
@@ -232,12 +232,12 @@
       "screen": "left"
     },
     {
-      "title": "Peel-inclusive flours from out-of-specification immature Cavendish and Saba bananas: process optimization for improved flour lightness and product characterization",
-      "abstract": "IntroductionOut-of-specification (OOS) immature Cavendish and Saba bananas represent a major source of postharvest losses in the Philippine banana industry because of their poor ripening quality after harvest. While converting these rejected fruits into flour offers a sustainable valorization strategy, peel inclusion remains challenging due to its potential effects on flour color, a key quality attribute that may influence consumer acceptance. This study aimed to optimize processing conditions using Response Surface Methodology (RSM) to produce lighter-colored peel-inclusive flours from OOS immature Cavendish and Saba bananas and to determine how the optimized process affected the properties of the final product.MethodsThe optimized flours were evaluated for their physicochemical, proximate, and functional properties, and compared with untreated and commercial flours.Results and DiscussionResults showed that the optimized process produced flours with higher color quality, as reflected by high lightness values (L* = 87.32–89.51), while maintaining the overall characteristics of the flours with only minimal changes in most of the evaluated properties. The optimized process influenced the techno-functional, pasting, and thermal properties of the flours, indicating changes in starch functionality. Compared with commercial banana flours, optimized OOS flours exhibited higher resistant starch and fiber contents, along with distinct techno-functional properties. Overall, this study demonstrates the potential of whole OOS immature Cavendish and Saba bananas as value-added flours wi…",
-      "authors": "Aiza B. Umali, Frances Hannah A. Atienza, Faith Ester Joy M. Manalo et al.",
+      "title": "Volatile profile and antioxidant-related measurements of two Sauvignon Blanc vinifications from the Brazilian Cerrado: an exploratory chemical characterization",
+      "abstract": "In this exploratory study, two Sauvignon Blanc wines produced from a single grape lot in the Brazilian Cerrado were chemically characterized. T1 was fermented with Saccharomyces cerevisiae, whereas T2 was co-inoculated with S. cerevisiae and Hanseniaspora vineae. One fermentation was conducted per condition, and the reported triplicates were repeated analytical measurements of the same wines. Analyses included physicochemical parameters, Folin-Ciocalteu reducing capacity, flavonoid content, DPPH• and ABTS•+ radical-scavenging assays, voltammetry, and GC-MS profiling of free and glycosidically bound volatile compounds. T2 had a higher pH, lower total acidity and malic acid, and a higher lactic acid concentration, indicating more advanced spontaneous malolactic fermentation at the time of analysis. T1 showed a higher Folin-Ciocalteu response, whereas T2 showed lower DPPH• and ABTS•+ IC50 values and a slightly higher electrochemical index. These observations are reported descriptively because independent fermentation replicates were not available. GC-MS analysis tentatively identified 57 free volatile compounds, mainly esters and alcohols. The semi-quantitative internal-standard-equivalent estimate of 2-phenylethyl acetate was higher in T2 (28.57 µg L−1). Nineteen compounds were tentatively identified after hydrolysis of the glycosidically bound fraction, including terpenoid-, norisoprenoid-, and benzenoid-related compounds. This study therefore provides an initial, hypothesis-generating chemical characterization of two Sauvignon Blanc vinifications from the Brazilian Cerrado.",
+      "authors": "Luis Felipe Lima Guimarães, Paolla Xavier de Amorim, Izadora Viana Maia et al.",
       "published": "Oct 2026",
       "feedName": "Frontiers Food Science",
-      "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.1941070",
+      "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.1914854",
       "image": "",
       "screen": "left"
     },
@@ -282,6 +282,36 @@
       "screen": "left"
     },
     {
+      "title": "An AI-enabled proteome-scale framework for identifying sustainable protein alternatives for future food systems",
+      "abstract": "",
+      "authors": "Eunyeong Lee, Hee Yang",
+      "published": "Oct 2026",
+      "feedName": "npj Science of Food",
+      "url": "https://www.nature.com/articles/s41538-026-01159-x",
+      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01159-x/MediaObjects/41538_2026_1159_Fig1_HTML.png",
+      "screen": "left"
+    },
+    {
+      "title": "Predicting early school-age neurocognitive outcomes from maternal nutrition and sociodemographic factors in a pilot machine learning study",
+      "abstract": "",
+      "authors": "Rina Bao, Di Wu, Rutvi Vyas et al.",
+      "published": "Oct 2026",
+      "feedName": "npj Science of Food",
+      "url": "https://www.nature.com/articles/s41538-026-01094-x",
+      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01094-x/MediaObjects/41538_2026_1094_Fig1_HTML.png",
+      "screen": "left"
+    },
+    {
+      "title": "Profiling C‑Phycocyanin: From Extraction to Structure, IgE Recognition and Digestive Transformation of Spirulina’s Major Pigment‑Protein",
+      "abstract": "",
+      "authors": "Delfino Danila, Kelly Bugatti, Sara Cutroneo et al.",
+      "published": "Oct 2026",
+      "feedName": "npj Science of Food",
+      "url": "https://www.nature.com/articles/s41538-026-01184-w",
+      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01184-w/MediaObjects/41538_2026_1184_Fig1_HTML.png",
+      "screen": "left"
+    },
+    {
       "title": "Comparing the bioactivity of grape byproducts (pomace, seed extract, and skin/pulp food coloring) on DSS-induced intestinal stress in early life",
       "abstract": "",
       "authors": "Melissa Y. Huang, Elad Tako",
@@ -289,36 +319,6 @@
       "feedName": "npj Science of Food",
       "url": "https://www.nature.com/articles/s41538-026-01148-0",
       "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01148-0/MediaObjects/41538_2026_1148_Fig1_HTML.png",
-      "screen": "left"
-    },
-    {
-      "title": "Effect of species on the flavor profile of boletes: insights from GC-MS, LC-MS, ATR-FTIR spectroscopy and chemometrics",
-      "abstract": "",
-      "authors": "Chen Zhong, Jie-Qing Li, Yuan-Zhong Wang",
-      "published": "Oct 2026",
-      "feedName": "npj Science of Food",
-      "url": "https://www.nature.com/articles/s41538-026-01187-7",
-      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01187-7/MediaObjects/41538_2026_1187_Fig1_HTML.png",
-      "screen": "left"
-    },
-    {
-      "title": "Hybrid Artificial Neural Network-Genetic Algorithm modelling and optimization of multistage palm oil fractional crystallization",
-      "abstract": "",
-      "authors": "Noor Hidayu Othman, Mohd. Shareduwan Mohd Kasihmuddin, G. V. S. Bhagya Raj et al.",
-      "published": "Oct 2026",
-      "feedName": "npj Science of Food",
-      "url": "https://www.nature.com/articles/s41538-026-01133-7",
-      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01133-7/MediaObjects/41538_2026_1133_Fig1_HTML.png",
-      "screen": "left"
-    },
-    {
-      "title": "Solution-blown PAN/Congo red nanofibrous sensors for colorimetric detection of soybean oil oxidation",
-      "abstract": "",
-      "authors": "Shamous M. Ibrahim, Ayat F. Hashim, Ayman El Said et al.",
-      "published": "Oct 2026",
-      "feedName": "npj Science of Food",
-      "url": "https://www.nature.com/articles/s41538-026-01157-z",
-      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01157-z/MediaObjects/41538_2026_1157_Fig1_HTML.png",
       "screen": "left"
     },
     {
@@ -362,6 +362,16 @@
       "screen": "left"
     },
     {
+      "title": "New electrode design breaks key barrier to greener ammonia production",
+      "abstract": "A new approach to producing ammonia using renewable electricity has overcome a fundamental energy limitation of the technology, opening new possibilities for cleaner and potentially more cost-effective production of one of the world's most important chemicals.",
+      "authors": "",
+      "published": "Oct 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-10-electrode-key-barrier-greener-ammonia.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2018/2-chemistry.jpg",
+      "screen": "right"
+    },
+    {
       "title": "Polymer coating tackles MXene's water stability challenge, boosting CO₂-to-methane production",
       "abstract": "A research team has developed a photocatalytic technology that improves the stability of MXene, an emerging material vulnerable to water, to efficiently convert carbon dioxide into methane.",
       "authors": "",
@@ -389,16 +399,6 @@
       "feedName": "Phys.org Analytics",
       "url": "https://phys.org/news/2026-10-reactions-reveal-overlooked-fuel-conversion.html",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/using-machine-learning-2.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "Crystal alignment explains why magnesium alloy plates resist ballistic impacts better in one direction",
-      "abstract": "Magnesium (Mg) alloys offer a pathway to lighter, more efficient aerospace and defense structures because of their low density, high specific strength and excellent damping capacity. However, their hexagonal close-packed (HCP) crystal structure makes deformation highly dependent on crystallographic orientation.",
-      "authors": "",
-      "published": "Oct 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-10-crystal-alignment-magnesium-alloy-plates.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/pusan-national-univers-17.jpg",
       "screen": "right"
     },
     {
@@ -462,6 +462,16 @@
       "screen": "right"
     },
     {
+      "title": "Just 7 days of strength training started shrinking fat cells in mice",
+      "abstract": "Just seven strength-training sessions helped obese mice shrink visceral fat cells and reactivate molecular pathways involved in burning stored fat, despite no change in overall body weight. The findings suggest some benefits of resistance exercise may begin long before weight loss becomes visible, though the results still need to be confirmed in humans.",
+      "authors": "",
+      "published": "Oct 2026",
+      "feedName": "ScienceDaily Nutrition",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261006234509.htm",
+      "image": "https://www.sciencedaily.com/images/1920/fat-burning-human-tissue-cells.webp",
+      "screen": "right"
+    },
+    {
       "title": "Not all trans fats are bad, major review finds",
       "abstract": "A large analysis of 22 studies found that the trans fats naturally present in dairy foods such as milk, butter, yogurt, and cheese do not appear to raise the risk of heart disease or type 2 diabetes. Unlike industrial trans fats from partially hydrogenated oils, dairy trans fats showed no meaningful harmful effects on blood fats in controlled trials and were not linked to higher rates of heart disease, stroke, cardiovascular death, or diabetes in long-term studies.",
       "authors": "",
@@ -469,16 +479,6 @@
       "feedName": "ScienceDaily Nutrition",
       "url": "https://www.sciencedaily.com/releases/2026/10/261006234505.htm",
       "image": "https://www.sciencedaily.com/images/1920/cheese-milk-dairy-cows.webp",
-      "screen": "right"
-    },
-    {
-      "title": "Scientists reveal what seven days of fasting does to the human body",
-      "abstract": "Scientists found that prolonged fasting triggers major changes throughout the body, but many of the most interesting effects only appeared after about three days without food. The results suggest fasting may influence health in ways that go beyond weight loss and could eventually inspire treatments that mimic its effects.",
-      "authors": "",
-      "published": "Oct 2026",
-      "feedName": "ScienceDaily Nutrition",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261005012444.htm",
-      "image": "https://www.sciencedaily.com/images/1920/body-rejuvenation-longevity-strength-boost-biochemistry-technology.webp",
       "screen": "right"
     },
     {
@@ -492,22 +492,22 @@
       "screen": "right"
     },
     {
-      "title": "Head-to-head comparison of glucose-to-albumin ratio against five albumin-derived indices for predicting 28-day ICU mortality in critically ill patients with spontaneous intracerebral hemorrhage: a multicenter retrospective study",
-      "abstract": "BackgroundSpontaneous intracerebral hemorrhage (ICH) carries a 30-day mortality exceeding 40%. The glucose-to-albumin ratio (GAR) reflects metabolic stress and nutritional status. Although previous studies have demonstrated its prognostic value in ICH, its utility specifically in ICU-admitted patients and its comparative performance against other albumin-derived indices remain incompletely characterized.MethodsWe included 1,625 ICU ICH patients from MIMIC-IV (derivation) and 861 from two Chinese centers (external validation). Log-transformed GAR (LogGAR) was the exposure; 28-day ICU mortality was the primary outcome. Cox regression, restricted cubic splines, Kaplan–Meier, and Fine–Gray competing-risk models assessed LogGAR’s independent prognostic value, compared head-to-head with five albumin-derived indices. Lasso-selected features informed a multilayer perceptron (MLP), benchmarked against severity scores and a penalized logistic regression on identical features.ResultsLogGAR was independently associated with 28-day ICU mortality (derivation: HR = 1.81, 95% CI 1.33–2.47, p < 0.001; external: HR = 3.48, 95% CI 2.54–4.78, p < 0.001), with linear dose–response (RCS P-nonlinear = 0.315). Fine–Gray competing-risk analysis confirmed robustness (subdistribution HR = 2.01, 95% CI 1.58–2.57, p < 0.001). Adding LogGAR to six severity scores improved discrimination (external ΔAUC = 0.085–0.107, all p < 0.001). Among six indices, LogGAR was comparable to logLDAR in the derivation cohort (0.679 vs. 0.681, p = 0.78) and highest in the external cohort (0.691). Subgroup analyses identif…",
-      "authors": "Fangbin Hao, Luokai Huangfu, Wenxuan Li et al.",
+      "title": "Knowledge, attitudes, and practices of emergency nurses regarding sepsis nutritional management: a multicenter cross-sectional study",
+      "abstract": "BackgroundNutritional management is an important component of supportive care for patients with sepsis, but its implementation in emergency settings may be challenging alongside other time-critical priorities. This study assessed emergency department (ED) nurses’ knowledge, attitudes, and practices (KAP) regarding nutritional management in patients with sepsis.MethodsThis multicenter cross-sectional study was conducted among ED nurses from hospitals in Jiangsu Province, China, between January and May 2026. A structured Chinese questionnaire with satisfactory internal consistency was used to assess KAP, with KAP levels descriptively classified using modified Bloom’s cut-off criteria. Multivariable linear regression was performed to identify factors associated with KAP scores, and structural equation modeling (SEM) was used to further evaluate the direct and indirect relationships among KAP domains.ResultsA total of 630 valid questionnaires were analyzed, including 558 female nurses (88.6%). The median knowledge, attitude, and practice scores were 9.00 (9.00, 15.00), 40.50 (36.00, 45.00), and 29.00 (22.25, 36.00), respectively, out of possible ranges of 0–18, 9–45, and 9–45. In multivariable analyses, nurses without recent training had significantly lower knowledge scores (β = −4.676, 95% CI: −5.386 to −3.965, p < 0.001) and practice scores (β = −3.014, 95% CI: −4.296 to −1.732, p < 0.001). Higher knowledge scores were independently associated with more positive attitudes (β = 0.419, 95% CI: 0.337 to 0.501, p < 0.001) and better practices (β = 0.860, 95% CI: 0.723 to 0.997, p…",
+      "authors": "Lin Xiao, Weijia Pei, Huijun Zhu",
       "published": "Oct 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1909009",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1933045",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Temporal and spatial variation characteristics of environmental iodine elements in the Gansu region, China",
-      "abstract": "ObjectiveThis study investigates the spatiotemporal variation of iodine concentrations in drinking water and soil across Gansu Province, aiming to generate observational evidence for adjusting iodine deficiency disorder (IDD) prevention strategies, given inherent methodological limitations of historical unpaired cross-sectional surveys.MethodsWe collected data on water iodine from four surveys (1972, 1985, 2014, and 2017) and soil iodine from two surveys (1985 and 2014) in Gansu Province, along with related information. These data were analyzed to examine trends in iodine levels across different time periods, watersheds, and geomorphological types.ResultsWater iodine concentrations consistently followed the order: Yellow River > Inland River > Yangtze River at the watershed level, and Longdong > Longzhong > Hexi > Longnan at the regional level, with consistent distribution patterns across both watersheds and regions.Water iodine concentrations exhibited temporal fluctuations across survey rounds, with relatively lower iodine medians observed in recent surveys; these apparent shifts may partly stem from sampling heterogeneity rather than genuine environmental change. However, due to the unpaired sampling design and methodological variability across surveys, these findings should be interpreted as observational patterns rather than definitive causal trends.Soil iodine content in Hexi and Longnan decreased significantly, and soil iodine content in other regions did not change significantly.ConclusionsPersistent environmental iodine deficiency was observed across all surveys in…",
-      "authors": "Yongqin Cao, Yating Jin, Wei Sun et al.",
+      "title": "Epilepsy as a consequence of infantile vitamin B12 deficiency: observations from a prospective cohort study and a review of the literature",
+      "abstract": "IntroductionSymptomatic infantile vitamin B12 deficiency has far-reaching neurological consequences for affected children. Development of epilepsy is one such consequence whose incidence and characteristics have been scarcely studied and reported in the literature.ObjectiveTo describe the incidence, characteristics, and outcomes of epilepsy in a prospective cohort of children treated for infantile vitamin B12 deficiency and to briefly review the published literature on the topic.MethodsA hospital-based prospective cohort study enrolling consecutive children with symptomatic infantile vitamin B12 deficiency was conducted from January 2021 to June 2023 to study the neurological consequences of deficiency. The cohort was followed through March 2026 to determine the incidence of epilepsy during follow-up. Those who developed epilepsy were evaluated for seizure and epilepsy types, neuroimaging and electroencephalography findings, treatment, response to treatment, and outcomes. Multivariable Cox proportional hazards modeling was performed using baseline predictors identified through univariate screening to determine independent associations with epilepsy.ResultsA total of 141 children with infantile vitamin B12 deficiency were part of the original cohort. Four died, 25 were lost to follow-up. Among the rest of the 112 children, at a median follow-up of 51 months (IQR: 45–55), 31 (28, 95% CI 19–36%) developed epilepsy. In those with epilepsy, the mean age at diagnosis of infantile vitamin B12 deficiency was 12.39 ± 3.9 months, and epilepsy developed after a mean interval of 4.7 ± …",
+      "authors": "Pawan Kumar, Sujatha Manjunathan, Sameer Vyas et al.",
       "published": "Oct 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1915926",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1903748",
       "image": "",
       "screen": "right"
     },
@@ -869,7 +869,7 @@
       "venue": "ACS Applied Materials and Interfaces",
       "feedName": "Lab Research",
       "citationCount": 19,
-      "recentCitations": 0,
+      "recentCitations": 1,
       "quartile": "Q1",
       "s2_paper_id": "0cd0b8a2502ea570ed30a29089c9004f8ad62735",
       "url": "https://doi.org/10.1021/acsami.3c06230",
@@ -968,8 +968,8 @@
       "published": "2024",
       "venue": "Brain, Behavior, & Immunity - Health",
       "feedName": "Lab Research",
-      "citationCount": 20,
-      "recentCitations": 0,
+      "citationCount": 21,
+      "recentCitations": 1,
       "quartile": null,
       "s2_paper_id": "e6bf6bc6dc39538aed6d5e9f0a2aad62f0702494",
       "url": "https://doi.org/10.1016/j.bbih.2024.100829",

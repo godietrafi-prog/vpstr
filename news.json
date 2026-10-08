@@ -1,6 +1,16 @@
 {
-  "updated": "2026-10-08T03:57:41Z",
+  "updated": "2026-10-08T11:08:24Z",
   "items": [
+    {
+      "title": "Refined crop modelling reveals intensifying impacts of droughts and heatwaves on global wheat productivity",
+      "abstract": "Extreme weather events, including heatwaves, droughts and especially compound heatwave–drought events, increasingly threaten global wheat production, yet their impacts are often underestimated by existing models. Improved crop modelling enables more accurate simulations of yield losses and reveals that the effectiveness of irrigation in mitigating these impacts has weakened over recent decades.",
+      "authors": "Yuchuan Luo, Zhao Zhang, Juan Cao et al.",
+      "published": "Oct 2026",
+      "feedName": "Nature Food",
+      "url": "https://www.nature.com/articles/s43016-026-01432-y",
+      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs43016-026-01432-y/MediaObjects/43016_2026_1432_Fig1_HTML.png",
+      "screen": "left"
+    },
     {
       "title": "Cybersecurity and resiliency in agricultural and food systems",
       "abstract": "Based on a workshop series involving more than 150 stakeholders, this Perspective proposes the implementation of a consortium led by regional land-grant universities with expertise in artificial intelligence and cybersecurity, outlining a roadmap for responding to emerging agrifood cyber risks.",
@@ -29,16 +39,6 @@
       "feedName": "Nature Food",
       "url": "https://www.nature.com/articles/s43016-026-01442-w",
       "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs43016-026-01442-w/MediaObjects/43016_2026_1442_Fig1_HTML.png",
-      "screen": "left"
-    },
-    {
-      "title": "Armed conflict accelerates cropland loss and food insecurity worldwide",
-      "abstract": "A global analysis and mapping exercise reveals that armed conflicts disproportionately affect cropland, causing agricultural land loss and diminishing potential food production, with implications for food security and Zero Hunger targets.",
-      "authors": "Guangdong Li, Wei Qi, Siao Sun et al.",
-      "published": "Sep 2026",
-      "feedName": "Nature Food",
-      "url": "https://www.nature.com/articles/s43016-026-01436-8",
-      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs43016-026-01436-8/MediaObjects/43016_2026_1436_Fig1_HTML.png",
       "screen": "left"
     },
     {
@@ -202,6 +202,16 @@
       "screen": "left"
     },
     {
+      "title": "Finger millet flour based batter coating: effects on frying behavior, oil uptake, and storage stability of chicken popcorn",
+      "abstract": "IntroductionBatter coating systems in fried poultry products are primarily designed to enhance sensory attributes, such as crispiness and flavor; however, their potential role as functional matrices for improving frying performance and nutritional quality remains largely unexplored.MethodsThis study investigated the effect of incorporating finger millet flour (FMF) as a functional batter ingredient on the frying behavior, oil uptake, and storage stability of chicken popcorn. Batter formulations were developed by replacing cornflour with FMF at 0%, 5%, 10%, and 15%, designated as Control, T1, T2, and T3, respectively. The enrobed products were evaluated for proximate composition, cooking quality parameters, physicochemical characteristics, microbiological quality, and sensory attributes during four weeks of refrigerated storage (4 ± 1 °C).ResultsIncorporation of FMF significantly influenced frying performance (p < 0.05), resulting in improved cooking yield and moisture retention while reducing fat uptake during frying. The formulation containing 10% FMF (T2) exhibited the most favourable technological performance, with the highest cooking yield (86.38%) and moisture retention (83.01%) alongside reduced fat content in cooked samples compared with the control. During storage, progressive increases in pH, tyrosine value, thiobarbituric acid value, free fatty acids, and microbial counts were observed across all treatments, reflecting typical storage related spoilage. However, FMF treated samples exhibited comparatively lower oxidative and proteolytic changes, indicating modest i…",
+      "authors": "Kiran M., Md. Yousufuddin, B. Manojkumar et al.",
+      "published": "Oct 2026",
+      "feedName": "Frontiers Food Science",
+      "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.1901708",
+      "image": "",
+      "screen": "left"
+    },
+    {
       "title": "Volatile profile and antioxidant-related measurements of two Sauvignon Blanc vinifications from the Brazilian Cerrado: an exploratory chemical characterization",
       "abstract": "In this exploratory study, two Sauvignon Blanc wines produced from a single grape lot in the Brazilian Cerrado were chemically characterized. T1 was fermented with Saccharomyces cerevisiae, whereas T2 was co-inoculated with S. cerevisiae and Hanseniaspora vineae. One fermentation was conducted per condition, and the reported triplicates were repeated analytical measurements of the same wines. Analyses included physicochemical parameters, Folin-Ciocalteu reducing capacity, flavonoid content, DPPH• and ABTS•+ radical-scavenging assays, voltammetry, and GC-MS profiling of free and glycosidically bound volatile compounds. T2 had a higher pH, lower total acidity and malic acid, and a higher lactic acid concentration, indicating more advanced spontaneous malolactic fermentation at the time of analysis. T1 showed a higher Folin-Ciocalteu response, whereas T2 showed lower DPPH• and ABTS•+ IC50 values and a slightly higher electrochemical index. These observations are reported descriptively because independent fermentation replicates were not available. GC-MS analysis tentatively identified 57 free volatile compounds, mainly esters and alcohols. The semi-quantitative internal-standard-equivalent estimate of 2-phenylethyl acetate was higher in T2 (28.57 µg L−1). Nineteen compounds were tentatively identified after hydrolysis of the glycosidically bound fraction, including terpenoid-, norisoprenoid-, and benzenoid-related compounds. This study therefore provides an initial, hypothesis-generating chemical characterization of two Sauvignon Blanc vinifications from the Brazilian Cerrado.",
       "authors": "Luis Felipe Lima Guimarães, Paolla Xavier de Amorim, Izadora Viana Maia et al.",
@@ -218,16 +228,6 @@
       "published": "Oct 2026",
       "feedName": "Frontiers Food Science",
       "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.1938248",
-      "image": "",
-      "screen": "left"
-    },
-    {
-      "title": "Nutraceutical potential of Terminalia arjuna bark powder in enhancing enzymatic antioxidant defenses and disease resistance in aquaculture: implications for sustainable food safety and quality",
-      "abstract": "The indiscriminate use of prophylactic antibiotics in aquaculture poses serious threats to food safety, environmental health, and antimicrobial resistance, necessitating sustainable plant-based alternatives. This study evaluated the nutraceutical potential of Terminalia arjuna bark powder (TABP) as a dietary immunostimulant in Labeo rohita. Bark, leaf, and fruit materials were extracted using seven solvents of increasing polarity and screened for phytochemicals and in vitro antioxidant capacity via TPC, flavonoid, DPPH, ABTS, FRAP, and NO-scavenging assays. Based on superior bioactivity, TABP was incorporated into four iso-nitrogenous (30.36% crude protein) and iso-caloric diets at 0% (control), 0.1%, 1.0%, and 1.5%, which were fed to juvenile L. rohita (n = 540) for 90 days in a completely randomized design. Growth performance, serum biochemistry, digestive enzyme activities (amylase, protease, lipase), oxidative stress biomarkers (SOD, catalase, GST), acetylcholinesterase activity, and serum hormones (cortisol, T3, T4) were assessed, followed by a bacterial challenge with Aeromonas hydrophila and Edwardsiella tarda and computation of the Integrated Biomarker Response (IBR) index. Bark extracts demonstrated the highest antioxidant potential across all assays. Dietary TABP significantly improved weight gain, feed efficiency, and digestive enzyme activities, while dose-dependently enhancing enzymatic antioxidant defenses, reducing serum cortisol, and elevating thyroid hormone levels. Post-challenge survival was significantly higher in TABP-supplemented groups, with IBR analy…",
-      "authors": "D. K. Meena, B. K. Das, A. K. Sahoo",
-      "published": "Oct 2026",
-      "feedName": "Frontiers Food Science",
-      "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.1956111",
       "image": "",
       "screen": "left"
     },
@@ -442,6 +442,16 @@
       "screen": "right"
     },
     {
+      "title": "Scientists warn a popular vitamin D supplement may have a hidden downside",
+      "abstract": "Not all vitamin D supplements are created equal, and new research suggests that one popular form may have an unexpected downside. Scientists found that taking vitamin D2 can actually lower the body's levels of vitamin D3, the form naturally produced by sunlight and more effective at boosting overall vitamin D. Previous studies also suggest that vitamin D3 may provide stronger immune protection against viruses and bacteria.",
+      "authors": "",
+      "published": "Oct 2026",
+      "feedName": "ScienceDaily Nutrition",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261007232940.htm",
+      "image": "https://www.sciencedaily.com/images/1920/hand-holding-vitamin-d-pill-in-sunshine.webp",
+      "screen": "right"
+    },
+    {
       "title": "Taking antibiotics? Sugar may be making the damage worse",
       "abstract": "Eating more sugar while taking antibiotics was linked to greater disruption of the gut microbiome and increased growth of potentially harmful bacteria. Researchers say temporarily cutting back on sweets during and after antibiotic treatment could be a simple way to reduce this damage, though clinical trials are still needed.",
       "authors": "",
@@ -449,6 +459,16 @@
       "feedName": "ScienceDaily Nutrition",
       "url": "https://www.sciencedaily.com/releases/2026/10/261007042059.htm",
       "image": "https://www.sciencedaily.com/images/1920/bacteria-intestinal-microbiome-in-digestive-tract.webp",
+      "screen": "right"
+    },
+    {
+      "title": "Not all trans fats are bad, major review finds",
+      "abstract": "A large analysis of 22 studies found that the trans fats naturally present in dairy foods such as milk, butter, yogurt, and cheese do not appear to raise the risk of heart disease or type 2 diabetes. Unlike industrial trans fats from partially hydrogenated oils, dairy trans fats showed no meaningful harmful effects on blood fats in controlled trials and were not linked to higher rates of heart disease, stroke, cardiovascular death, or diabetes in long-term studies.",
+      "authors": "",
+      "published": "Oct 2026",
+      "feedName": "ScienceDaily Nutrition",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261006234505.htm",
+      "image": "https://www.sciencedaily.com/images/1920/cheese-milk-dairy-cows.webp",
       "screen": "right"
     },
     {
@@ -462,62 +482,42 @@
       "screen": "right"
     },
     {
-      "title": "MIT scientists find a hidden cancer risk of the keto diet",
-      "abstract": "A ketogenic diet increased small-intestinal tumors in cancer-prone mice while reducing tumors in the colon, revealing a strikingly different response within neighboring parts of the gut. Researchers traced the increased risk not to ketones, but to the way intestinal stem cells processed the diet’s high levels of fat. That fat-burning activity pushed the cells to multiply more rapidly, potentially raising the chance of cancerous changes.",
-      "authors": "",
-      "published": "Oct 2026",
-      "feedName": "ScienceDaily Nutrition",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261002080037.htm",
-      "image": "https://www.sciencedaily.com/images/1920/male-anatomy-small-intestine-cancer.webp",
-      "screen": "right"
-    },
-    {
-      "title": "Diet drinks work as well as water for weight loss, major trial finds",
-      "abstract": "A two-year randomized clinical trial involving 493 adults with overweight or obesity found that diet soft drinks were essentially as effective as water for long-term weight loss and weight maintenance. Participants drinking beverages sweetened with aspartame, acesulfame-K, or sucralose lost a similar amount of weight to those drinking water, while both groups also saw improvements in waist size, body composition, and several metabolic measures.",
-      "authors": "",
-      "published": "Oct 2026",
-      "feedName": "ScienceDaily Nutrition",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261002080017.htm",
-      "image": "https://www.sciencedaily.com/images/1920/woman-smiling-holding-diet-cola.webp",
-      "screen": "right"
-    },
-    {
-      "title": "Shift work in the digital food environment: associations with nutrition knowledge and online food ordering attitudes",
-      "abstract": "IntroductionShift work may influence individuals’ online food-ordering behaviors by altering meal timing and access to food; however, the role of nutrition knowledge in this relationship remains insufficiently understood. This study aimed to examine the association between nutrition knowledge levels and attitudes toward online food ordering among adults with different work schedules. Methods: This cross-sectional study included 352 employees aged 18–64 years. Sociodemographic characteristics, work schedules, and online food-ordering behaviors were assessed using a structured questionnaire. Nutrition knowledge was evaluated using the Nutrition Knowledge Level Scale for Adults, while attitudes toward online food ordering were assessed using the Attitude Scale Toward Online Food Ordering.MethodsThis cross-sectional study included 352 employees aged 18–64 years. Sociodemographic characteristics, work schedules, and online food-ordering behaviors were assessed using a structured questionnaire. Nutrition knowledge was evaluated using the Nutrition Knowledge Level Scale for Adults, while attitudes toward online food ordering were assessed using the Attitude Scale Toward Online Food Ordering.ResultsOf the participants, 84.7% reported that their dietary patterns changed on working days, while 64.8% indicated that fast-food products were the most frequently ordered food category. The total attitude score toward online food ordering differed significantly according to shift type, with fixed night-shift workers having higher scores than fixed evening-shift workers (58.73 ± 11.47 vs. 50…",
-      "authors": "Tuğçe Özlü Karahan, Aslı Akbeniz, Gamze Çavuşoğlu et al.",
+      "title": "Baseline serum 25 hydroxyvitamin D concentration does not predict functional recovery in intensive inpatient rehabilitation: a retrospective observational study",
+      "abstract": "IntroductionVitamin D deficiency is highly prevalent among hospitalized patients, and its effects on skeletal muscle function and systemic inflammation suggest that baseline status might influence functional recovery; however, evidence specifically in intensive inpatient rehabilitation remains scarce.MethodsIn this retrospective observational cohort study, 97 adults (mean age 65.0 ± 13.1 years) admitted to intensive inpatient rehabilitation were enrolled. Serum 25-hydroxyvitamin D [25(OH)D] obtained within 48 h of admission was analyzed both as a continuous variable and categorized into deficient, insufficient, and sufficient groups. The primary outcome was the Functional Independence Measure (FIM) at discharge adjusted for admission score; secondary outcomes included the Barthel Index (BI), Functional Ambulation Category (FAC), 6-min walk test (6MWT), and length of stay. Hierarchical linear regression was performed adjusting for admission functional status, age, comorbidity burden, and diagnostic group, with robust standard errors and bootstrap confidence intervals.ResultsHypovitaminosis D affected 78.4% of patients. Despite substantial functional improvement across the cohort, baseline serum 25(OH)D was not associated with any outcome measure—neither as a continuous variable nor across vitamin D categories—in unadjusted or fully adjusted analyses. Admission functional status (i.e., FIM) was the dominant predictor in all models.DiscussionBaseline serum 25(OH)D did not predict functional recovery during intensive inpatient rehabilitation, irrespective of outcome measure. Al…",
+      "authors": "Federica Bellone, Angelo Alito, Laura Turriziani et al.",
       "published": "Oct 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1958118",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1966784",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Joint and interactive associations of nutritional risk and pulmonary infection with tracheostomy decannulation in neurorehabilitation inpatients: a retrospective cohort study",
-      "abstract": "BackgroundNutritional risk and pulmonary infection are common in tracheostomized patients entering neurorehabilitation. Their coexistence may combine limited physiological reserve with respiratory instability, but evidence on their joint association and interaction with decannulation is limited.MethodsThis retrospective cohort included 884 tracheostomized adults with neurological disorders admitted to a tertiary rehabilitation department between January 2020 and May 2025. Nutritional risk was defined as a Nutritional Risk Screening 2002 score ≥3, and active pulmonary infection was assessed at rehabilitation admission. Successful decannulation within 30 days was the event. Cox models were used to explore individual and joint associations and multiplicative interaction. The primary adjusted model was adjusted for demographic characteristics, comorbidity, neurological severity, and acute-care trajectory. An extended model additionally included concurrent respiratory-support, airway-protection, secretion-management, and care-related characteristics. Fifteen-day, pre-rehabilitation timing, and censoring sensitivity analyses were performed. Adjusted 15-and 30-day decannulation probabilities and 30-day restricted mean time remaining tracheostomized were also estimated.ResultsOverall, 574 patients (64.9%) were successfully decannulated within 30 days. Kaplan–Meier probabilities of decannulation were 95.4% with neither condition, 82.2% with pulmonary infection alone, 85.6% with nutritional risk alone, and 49.5% with both conditions. In the primary adjusted model, the hazard ratios (…",
-      "authors": "Jiang Wang, Shuguang Liang, Huizhen Zhang et al.",
+      "title": "Head-to-head comparison of glucose-to-albumin ratio against five albumin-derived indices for predicting 28-day ICU mortality in critically ill patients with spontaneous intracerebral hemorrhage: a multicenter retrospective study",
+      "abstract": "BackgroundSpontaneous intracerebral hemorrhage (ICH) carries a 30-day mortality exceeding 40%. The glucose-to-albumin ratio (GAR) reflects metabolic stress and nutritional status. Although previous studies have demonstrated its prognostic value in ICH, its utility specifically in ICU-admitted patients and its comparative performance against other albumin-derived indices remain incompletely characterized.MethodsWe included 1,625 ICU ICH patients from MIMIC-IV (derivation) and 861 from two Chinese centers (external validation). Log-transformed GAR (LogGAR) was the exposure; 28-day ICU mortality was the primary outcome. Cox regression, restricted cubic splines, Kaplan–Meier, and Fine–Gray competing-risk models assessed LogGAR’s independent prognostic value, compared head-to-head with five albumin-derived indices. Lasso-selected features informed a multilayer perceptron (MLP), benchmarked against severity scores and a penalized logistic regression on identical features.ResultsLogGAR was independently associated with 28-day ICU mortality (derivation: HR = 1.81, 95% CI 1.33–2.47, p < 0.001; external: HR = 3.48, 95% CI 2.54–4.78, p < 0.001), with linear dose–response (RCS P-nonlinear = 0.315). Fine–Gray competing-risk analysis confirmed robustness (subdistribution HR = 2.01, 95% CI 1.58–2.57, p < 0.001). Adding LogGAR to six severity scores improved discrimination (external ΔAUC = 0.085–0.107, all p < 0.001). Among six indices, LogGAR was comparable to logLDAR in the derivation cohort (0.679 vs. 0.681, p = 0.78) and highest in the external cohort (0.691). Subgroup analyses identif…",
+      "authors": "Fangbin Hao, Luokai Huangfu, Wenxuan Li et al.",
       "published": "Oct 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1944451",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1909009",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "The role of maternal gut microbiota in prenatal depression and offspring neurodevelopment",
-      "abstract": "Prenatal depression is a prevalent complication during pregnancy that not only adversely affects maternal mental health and elevates the risk of postpartum depression but also has enduring implications for offspring development. Alterations in the host metabolome and gut microbiome have been linked to the onset and progression of depression; however, the biological mechanisms underlying the association between maternal mood disorders and fetal brain development remain inadequately understood. Recent studies have associated prenatal depression and psychological stress with alterations in the maternal gut microbiota, microbial metabolism, and immune signaling. However, most human evidence remains observational, and it remains unclear whether these microbial alterations precede depressive symptoms, arise as a consequence of depression or psychological stress, or act as intermediate factors within the maternal gut–brain axis. These findings offer novel strategies for the prevention and treatment of threats to maternal-fetal health. This article systematically reviews recent advancements in research concerning the “microbiota-gut-brain” axis in the context of maternal-fetal health. It investigates the roles and mechanisms of gut microbiota through preclinical and clinical studies, assesses the feasibility of potential therapeutic strategies, and suggests directions for future research. The aim is to provide a theoretical foundation for interventions targeting maternal-fetal health in cases of prenatal depression.",
-      "authors": "Qiushuang Jia, Chengqian Diao, Shuai Liu et al.",
+      "title": "Temporal and spatial variation characteristics of environmental iodine elements in the Gansu region, China",
+      "abstract": "ObjectiveThis study investigates the spatiotemporal variation of iodine concentrations in drinking water and soil across Gansu Province, aiming to generate observational evidence for adjusting iodine deficiency disorder (IDD) prevention strategies, given inherent methodological limitations of historical unpaired cross-sectional surveys.MethodsWe collected data on water iodine from four surveys (1972, 1985, 2014, and 2017) and soil iodine from two surveys (1985 and 2014) in Gansu Province, along with related information. These data were analyzed to examine trends in iodine levels across different time periods, watersheds, and geomorphological types.ResultsWater iodine concentrations consistently followed the order: Yellow River > Inland River > Yangtze River at the watershed level, and Longdong > Longzhong > Hexi > Longnan at the regional level, with consistent distribution patterns across both watersheds and regions.Water iodine concentrations exhibited temporal fluctuations across survey rounds, with relatively lower iodine medians observed in recent surveys; these apparent shifts may partly stem from sampling heterogeneity rather than genuine environmental change. However, due to the unpaired sampling design and methodological variability across surveys, these findings should be interpreted as observational patterns rather than definitive causal trends.Soil iodine content in Hexi and Longnan decreased significantly, and soil iodine content in other regions did not change significantly.ConclusionsPersistent environmental iodine deficiency was observed across all surveys in…",
+      "authors": "Yongqin Cao, Yating Jin, Wei Sun et al.",
       "published": "Oct 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1958794",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1915926",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Serum 25-hydroxyvitamin D levels and prevalent diabetic retinopathy in adults with type 2 diabetes: a retrospective hospital-based matched case-control study",
-      "abstract": "BackgroundDiabetic retinopathy (DR) is a major microvascular complication of type 2 diabetes mellitus (T2DM). This study examined the adjusted association between serum 25-hydroxyvitamin D [25(OH)D] and prevalent DR.MethodsThis retrospective, single-center matched case–control study was conducted at a tertiary hospital in China among adults with T2DM treated between January 2023 and March 2025. Serum 25(OH)D testing was not routine for all patients and was ordered at the treating clinician’s discretion. Participants were eligible only when a 25(OH)D result was available within ±7 days of bilateral fundus photography. Cases had prevalent DR and controls had no DR; individual 1:2 matching used sex, age within ±3 years, and diabetes duration within ±2 years. The prespecified primary analysis modeled 25(OH)D continuously in conditional logistic regression, and missing covariates were handled by multiple imputation.ResultsThe final sample included 399 selectively tested participants (133 with DR and 266 without DR) in 133 matched sets. Mean serum 25(OH)D was 18.6 ± 7.4 ng/mL in the DR group and 23.4 ± 8.1 ng/mL in the non-DR group. In the prespecified adjusted model, each 10 ng/mL higher serum 25(OH)D level was associated with lower prevalence odds of DR (OR, 0.62; 95% CI, 0.48–0.81; p < 0.001). Additional adjustment for continuous age and diabetes duration yielded a similar estimate (OR, 0.63; 95% CI, 0.48–0.83; p = 0.001). In an exploratory unadjusted analysis, mean 25(OH)D decreased across ICDR categories from no DR to proliferative DR (23.4 to 15.2 ng/mL; P for trend < 0.001…",
-      "authors": "Rong-Feng Dai, Yu Qian, Si-Qi Liu et al.",
+      "title": "Relationship of sustainable and healthy eating behaviors with health literacy, digital healthy diet literacy, and food neophobia among university students: a cross-sectional study",
+      "abstract": "BackgroundSustainable and healthy eating behaviors play an important role in supporting both individual health and environmental sustainability. This study aimed to examine the relationships of health literacy, digital healthy diet literacy, and food neophobia with sustainable and healthy eating behaviors among university students, and to evaluate the associations of these variables with sustainable and healthy eating behaviors after accounting for sociodemographic, anthropometric, and selected dietary characteristics.MethodsThis cross-sectional study was conducted with 300 undergraduate students selected via convenience sampling from a single state university in Türkiye between May and July 2022. Sociodemographic, anthropometric, and nutritional characteristics of the participants were assessed. Health literacy, digital healthy eating literacy, food neophobia, and sustainable and healthy eating behaviors were measured using valid and reliable scales. Relationships among variables were examined using Pearson correlation analysis. Factors independently associated with sustainable and healthy eating behaviors were evaluated using hierarchical multiple linear regression analysis.ResultsThe mean age of the participants was 22.3 ± 3.16 years, and 70.0% were female. The total score for sustainable and healthy eating behaviors was found to be 3.79 ± 1.13. Health literacy was positively correlated with sustainable and healthy eating behaviors (r = 0.215; p < 0.001). Digital healthy diet literacy (r = 0.045; p = 0.435) and food neophobia (r = 0.017; p = 0.767) were not significantly…",
+      "authors": "Gözde Ede İleri, Rüveyda Esra Özkalaycı, Tuba Koç et al.",
       "published": "Oct 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1828254",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1989865",
       "image": "",
       "screen": "right"
     },
@@ -869,7 +869,7 @@
       "venue": "ACS Applied Materials and Interfaces",
       "feedName": "Lab Research",
       "citationCount": 19,
-      "recentCitations": 1,
+      "recentCitations": 0,
       "quartile": "Q1",
       "s2_paper_id": "0cd0b8a2502ea570ed30a29089c9004f8ad62735",
       "url": "https://doi.org/10.1021/acsami.3c06230",

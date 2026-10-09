@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09T16:46:10Z",
+  "updated": "2026-10-09T22:05:48Z",
   "items": [
     {
       "title": "Refined crop modelling reveals intensifying impacts of droughts and heatwaves on global wheat productivity",
@@ -282,6 +282,26 @@
       "screen": "left"
     },
     {
+      "title": "Four dietary flavonoids differentially modulate the gut microbiota–barrier interaction against colitis-driven cognitive deficits",
+      "abstract": "",
+      "authors": "Qiqiong Li, Shanfeng Qiao, Xinke Nie et al.",
+      "published": "Oct 2026",
+      "feedName": "npj Science of Food",
+      "url": "https://www.nature.com/articles/s41538-026-01191-x",
+      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01191-x/MediaObjects/41538_2026_1191_Fig1_HTML.png",
+      "screen": "left"
+    },
+    {
+      "title": "Thermosonication-assisted CaCl 2 treatment reduces mung bean starch digestibility through cell-wall structural modification and starch reorganization",
+      "abstract": "",
+      "authors": "Qingyu Yang, Dongyang Xu, Lin Zhao et al.",
+      "published": "Oct 2026",
+      "feedName": "npj Science of Food",
+      "url": "https://www.nature.com/articles/s41538-026-01189-5",
+      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01189-5/MediaObjects/41538_2026_1189_Fig1_HTML.png",
+      "screen": "left"
+    },
+    {
       "title": "An AI-enabled proteome-scale framework for identifying sustainable protein alternatives for future food systems",
       "abstract": "",
       "authors": "Eunyeong Lee, Hee Yang",
@@ -299,26 +319,6 @@
       "feedName": "npj Science of Food",
       "url": "https://www.nature.com/articles/s41538-026-01094-x",
       "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01094-x/MediaObjects/41538_2026_1094_Fig1_HTML.png",
-      "screen": "left"
-    },
-    {
-      "title": "Profiling C‑Phycocyanin: From Extraction to Structure, IgE Recognition and Digestive Transformation of Spirulina’s Major Pigment‑Protein",
-      "abstract": "",
-      "authors": "Delfino Danila, Kelly Bugatti, Sara Cutroneo et al.",
-      "published": "Oct 2026",
-      "feedName": "npj Science of Food",
-      "url": "https://www.nature.com/articles/s41538-026-01184-w",
-      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01184-w/MediaObjects/41538_2026_1184_Fig1_HTML.png",
-      "screen": "left"
-    },
-    {
-      "title": "Comparing the bioactivity of grape byproducts (pomace, seed extract, and skin/pulp food coloring) on DSS-induced intestinal stress in early life",
-      "abstract": "",
-      "authors": "Melissa Y. Huang, Elad Tako",
-      "published": "Oct 2026",
-      "feedName": "npj Science of Food",
-      "url": "https://www.nature.com/articles/s41538-026-01148-0",
-      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01148-0/MediaObjects/41538_2026_1148_Fig1_HTML.png",
       "screen": "left"
     },
     {
@@ -362,6 +362,26 @@
       "screen": "left"
     },
     {
+      "title": "'Mix-and-match' material's properties can be tuned by changing its metallic 'recipe'",
+      "abstract": "Scientists have created a new family of materials whose behavior can be tuned by changing their metallic \"recipe\"—opening new possibilities for uses including gas storage and sensing.",
+      "authors": "",
+      "published": "Oct 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-10-material-properties-tuned-metallic-recipe.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/mix-and-match-material.jpg",
+      "screen": "right"
+    },
+    {
+      "title": "AI reveals how coating thickness changes the link between surface roughness and pitting resistance",
+      "abstract": "Localized pitting corrosion can cause sudden failure in aluminum components even when overall corrosion rates are low. Steam coating offers a water-vapor-based route to protective boehmite films, but processing simultaneously changes film thickness, surface morphology, crystallinity and substrate defects.",
+      "authors": "",
+      "published": "Oct 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-10-ai-reveals-coating-thickness-link.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/ai-reveals-how-coating.jpg",
+      "screen": "right"
+    },
+    {
       "title": "'Molecular movie' finally reveals how penicillin is made",
       "abstract": "Researchers from the University of Oxford and international collaborators have revealed previously unseen rapid chemical stages in the formation of β-lactam antibiotics like penicillin, offering insights that can support future antibiotic development. The findings have been published in Nature Catalysis.",
       "authors": "",
@@ -379,26 +399,6 @@
       "feedName": "Phys.org Analytics",
       "url": "https://phys.org/news/2026-10-chemists-uncover-true-surface-nickel.html",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/a-schematic-illustrati.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "Real-time oxygen measurements expose hidden losses in solar water splitting",
-      "abstract": "A new technique developed at Imperial College London measures oxygen production in real time, revealing hidden losses in solar water splitting. The researchers found that electrical current did not always correspond to oxygen generation in hematite, one of the most widely studied materials in the field, revealing a previously unknown limitation in the reaction.",
-      "authors": "",
-      "published": "Oct 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-10-real-oxygen-expose-hidden-losses.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/new-technique-reveals-6.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "Light-driven method puts notoriously reactive hydrogen atoms to work for chemical synthesis",
-      "abstract": "Hydrogen is the simplest element in the periodic table, consisting of just one proton and one electron. In chemistry, however, the smallest of atoms is anything but simple. First produced by Nobel laureate Irving Langmuir over a century ago, single hydrogen atoms (H•) are so reactive that they are almost impossible to prepare and use.",
-      "authors": "",
-      "published": "Oct 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-10-driven-method-notoriously-reactive-hydrogen.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/the-simplest-atom-is-n.jpg",
       "screen": "right"
     },
     {

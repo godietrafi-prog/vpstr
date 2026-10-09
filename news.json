@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-08T18:14:48Z",
+  "updated": "2026-10-09T00:04:58Z",
   "items": [
     {
       "title": "Refined crop modelling reveals intensifying impacts of droughts and heatwaves on global wheat productivity",
@@ -282,36 +282,6 @@
       "screen": "left"
     },
     {
-      "title": "An AI-enabled proteome-scale framework for identifying sustainable protein alternatives for future food systems",
-      "abstract": "",
-      "authors": "Eunyeong Lee, Hee Yang",
-      "published": "Oct 2026",
-      "feedName": "npj Science of Food",
-      "url": "https://www.nature.com/articles/s41538-026-01159-x",
-      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01159-x/MediaObjects/41538_2026_1159_Fig1_HTML.png",
-      "screen": "left"
-    },
-    {
-      "title": "Predicting early school-age neurocognitive outcomes from maternal nutrition and sociodemographic factors in a pilot machine learning study",
-      "abstract": "",
-      "authors": "Rina Bao, Di Wu, Rutvi Vyas et al.",
-      "published": "Oct 2026",
-      "feedName": "npj Science of Food",
-      "url": "https://www.nature.com/articles/s41538-026-01094-x",
-      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01094-x/MediaObjects/41538_2026_1094_Fig1_HTML.png",
-      "screen": "left"
-    },
-    {
-      "title": "Profiling C‑Phycocyanin: From Extraction to Structure, IgE Recognition and Digestive Transformation of Spirulina’s Major Pigment‑Protein",
-      "abstract": "",
-      "authors": "Delfino Danila, Kelly Bugatti, Sara Cutroneo et al.",
-      "published": "Oct 2026",
-      "feedName": "npj Science of Food",
-      "url": "https://www.nature.com/articles/s41538-026-01184-w",
-      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01184-w/MediaObjects/41538_2026_1184_Fig1_HTML.png",
-      "screen": "left"
-    },
-    {
       "title": "Comparing the bioactivity of grape byproducts (pomace, seed extract, and skin/pulp food coloring) on DSS-induced intestinal stress in early life",
       "abstract": "",
       "authors": "Melissa Y. Huang, Elad Tako",
@@ -319,6 +289,36 @@
       "feedName": "npj Science of Food",
       "url": "https://www.nature.com/articles/s41538-026-01148-0",
       "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01148-0/MediaObjects/41538_2026_1148_Fig1_HTML.png",
+      "screen": "left"
+    },
+    {
+      "title": "Effect of species on the flavor profile of boletes: insights from GC-MS, LC-MS, ATR-FTIR spectroscopy and chemometrics",
+      "abstract": "",
+      "authors": "Chen Zhong, Jie-Qing Li, Yuan-Zhong Wang",
+      "published": "Oct 2026",
+      "feedName": "npj Science of Food",
+      "url": "https://www.nature.com/articles/s41538-026-01187-7",
+      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01187-7/MediaObjects/41538_2026_1187_Fig1_HTML.png",
+      "screen": "left"
+    },
+    {
+      "title": "Hybrid Artificial Neural Network-Genetic Algorithm modelling and optimization of multistage palm oil fractional crystallization",
+      "abstract": "",
+      "authors": "Noor Hidayu Othman, Mohd. Shareduwan Mohd Kasihmuddin, G. V. S. Bhagya Raj et al.",
+      "published": "Oct 2026",
+      "feedName": "npj Science of Food",
+      "url": "https://www.nature.com/articles/s41538-026-01133-7",
+      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01133-7/MediaObjects/41538_2026_1133_Fig1_HTML.png",
+      "screen": "left"
+    },
+    {
+      "title": "Solution-blown PAN/Congo red nanofibrous sensors for colorimetric detection of soybean oil oxidation",
+      "abstract": "",
+      "authors": "Shamous M. Ibrahim, Ayat F. Hashim, Ayman El Said et al.",
+      "published": "Oct 2026",
+      "feedName": "npj Science of Food",
+      "url": "https://www.nature.com/articles/s41538-026-01157-z",
+      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01157-z/MediaObjects/41538_2026_1157_Fig1_HTML.png",
       "screen": "left"
     },
     {
@@ -362,43 +362,43 @@
       "screen": "left"
     },
     {
-      "title": "New electrode design breaks key barrier to greener ammonia production",
-      "abstract": "A new approach to producing ammonia using renewable electricity has overcome a fundamental energy limitation of the technology, opening new possibilities for cleaner and potentially more cost-effective production of one of the world's most important chemicals.",
+      "title": "Chemists uncover the true active surface of nickel catalysts",
+      "abstract": "Nickel is a promising, cost-effective and robust catalyst for alkaline water electrolysis—a key technology for the climate-neutral production of hydrogen. However, the actual structure of the active surface of such nickel electrodes under reaction conditions had not yet been conclusively determined. A research team at Ulm University has now refuted a decades-old assumption: The catalytically active surface does not consist of nickel oxyhydroxide (NiOOH), as was previously widely assumed, but is nickel dioxide (NiO₂). The findings have been published in the journal Nature Catalysis.",
       "authors": "",
       "published": "Oct 2026",
       "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-10-electrode-key-barrier-greener-ammonia.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2018/2-chemistry.jpg",
+      "url": "https://phys.org/news/2026-10-chemists-uncover-true-surface-nickel.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/a-schematic-illustrati.jpg",
       "screen": "right"
     },
     {
-      "title": "Polymer coating tackles MXene's water stability challenge, boosting CO₂-to-methane production",
-      "abstract": "A research team has developed a photocatalytic technology that improves the stability of MXene, an emerging material vulnerable to water, to efficiently convert carbon dioxide into methane.",
+      "title": "Real-time oxygen measurements expose hidden losses in solar water splitting",
+      "abstract": "A new technique developed at Imperial College London measures oxygen production in real time, revealing hidden losses in solar water splitting. The researchers found that electrical current did not always correspond to oxygen generation in hematite, one of the most widely studied materials in the field, revealing a previously unknown limitation in the reaction.",
       "authors": "",
       "published": "Oct 2026",
       "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-10-polymer-coating-tackles-mxene-stability.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/overcoming-mxenes-wate.jpg",
+      "url": "https://phys.org/news/2026-10-real-oxygen-expose-hidden-losses.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/new-technique-reveals-6.jpg",
       "screen": "right"
     },
     {
-      "title": "Quantum simulations suggest lithium isotopes could affect biological reactions differently",
-      "abstract": "While lithium has been used as a first-line treatment for the long-term management of bipolar disorder for more than 70 years, scientists still do not fully understand how it produces its therapeutic effects in the brain.In a new study published in PLOS ONE, Surrey researchers used computational chemistry and quantum simulations to investigate whether part of the answer could lie in \"nuclear spin\"—a quantum property that makes an atom's nucleus behave like a tiny magnet, allowing it to influence nearby electrons and potentially change the outcome of chemical reactions.",
+      "title": "Light-driven method puts notoriously reactive hydrogen atoms to work for chemical synthesis",
+      "abstract": "Hydrogen is the simplest element in the periodic table, consisting of just one proton and one electron. In chemistry, however, the smallest of atoms is anything but simple. First produced by Nobel laureate Irving Langmuir over a century ago, single hydrogen atoms (H•) are so reactive that they are almost impossible to prepare and use.",
       "authors": "",
       "published": "Oct 2026",
       "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-10-quantum-simulations-lithium-isotopes-affect.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/quantum-study-offers-n.jpg",
+      "url": "https://phys.org/news/2026-10-driven-method-notoriously-reactive-hydrogen.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/the-simplest-atom-is-n.jpg",
       "screen": "right"
     },
     {
-      "title": "Nearly 10,000 mapped reactions reveal overlooked steps in CO₂-to-fuel conversion",
-      "abstract": "Scientists are increasingly exploring carbon dioxide (CO₂) hydrogenation—where CO₂ reacts with hydrogen over a catalyst to produce products like methanol—to convert CO₂ into useful chemicals and fuels. However, it involves thousands of tiny chemical steps happening on the catalyst surface.",
+      "title": "Nickel catalyst unlocks hard-to-make β-amino alcohols",
+      "abstract": "Many molecules in living organisms and pharmaceuticals share a structure called a β-amino alcohol, in which an amino group and a hydroxyl group sit on neighboring carbon atoms. These groups, important building blocks in biology and medicine, are found in compounds such as sphingosine and ephedrine.",
       "authors": "",
       "published": "Oct 2026",
       "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-10-reactions-reveal-overlooked-fuel-conversion.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/using-machine-learning-2.jpg",
+      "url": "https://phys.org/news/2026-10-nickel-catalyst-hard-amino-alcohols.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/innovative-nickel-cata.jpg",
       "screen": "right"
     },
     {

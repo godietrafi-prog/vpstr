@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T03:29:28Z",
+  "updated": "2026-10-10T10:17:37Z",
   "items": [
     {
       "title": "Refined crop modelling reveals intensifying impacts of droughts and heatwaves on global wheat productivity",
@@ -282,6 +282,26 @@
       "screen": "left"
     },
     {
+      "title": "Four dietary flavonoids differentially modulate the gut microbiota–barrier interaction against colitis-driven cognitive deficits",
+      "abstract": "",
+      "authors": "Qiqiong Li, Shanfeng Qiao, Xinke Nie et al.",
+      "published": "Oct 2026",
+      "feedName": "npj Science of Food",
+      "url": "https://www.nature.com/articles/s41538-026-01191-x",
+      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01191-x/MediaObjects/41538_2026_1191_Fig1_HTML.png",
+      "screen": "left"
+    },
+    {
+      "title": "Thermosonication-assisted CaCl 2 treatment reduces mung bean starch digestibility through cell-wall structural modification and starch reorganization",
+      "abstract": "",
+      "authors": "Qingyu Yang, Dongyang Xu, Lin Zhao et al.",
+      "published": "Oct 2026",
+      "feedName": "npj Science of Food",
+      "url": "https://www.nature.com/articles/s41538-026-01189-5",
+      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01189-5/MediaObjects/41538_2026_1189_Fig1_HTML.png",
+      "screen": "left"
+    },
+    {
       "title": "An AI-enabled proteome-scale framework for identifying sustainable protein alternatives for future food systems",
       "abstract": "",
       "authors": "Eunyeong Lee, Hee Yang",
@@ -299,26 +319,6 @@
       "feedName": "npj Science of Food",
       "url": "https://www.nature.com/articles/s41538-026-01094-x",
       "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01094-x/MediaObjects/41538_2026_1094_Fig1_HTML.png",
-      "screen": "left"
-    },
-    {
-      "title": "Profiling C‑Phycocyanin: From Extraction to Structure, IgE Recognition and Digestive Transformation of Spirulina’s Major Pigment‑Protein",
-      "abstract": "",
-      "authors": "Delfino Danila, Kelly Bugatti, Sara Cutroneo et al.",
-      "published": "Oct 2026",
-      "feedName": "npj Science of Food",
-      "url": "https://www.nature.com/articles/s41538-026-01184-w",
-      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01184-w/MediaObjects/41538_2026_1184_Fig1_HTML.png",
-      "screen": "left"
-    },
-    {
-      "title": "Comparing the bioactivity of grape byproducts (pomace, seed extract, and skin/pulp food coloring) on DSS-induced intestinal stress in early life",
-      "abstract": "",
-      "authors": "Melissa Y. Huang, Elad Tako",
-      "published": "Oct 2026",
-      "feedName": "npj Science of Food",
-      "url": "https://www.nature.com/articles/s41538-026-01148-0",
-      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01148-0/MediaObjects/41538_2026_1148_Fig1_HTML.png",
       "screen": "left"
     },
     {

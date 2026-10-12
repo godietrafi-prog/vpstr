@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T08:20:27Z",
+  "updated": "2026-10-12T19:34:04Z",
   "items": [
     {
       "title": "Refined crop modelling reveals intensifying impacts of droughts and heatwaves on global wheat productivity",
@@ -62,22 +62,22 @@
       "screen": "left"
     },
     {
-      "title": "Mechanistic insights into structural reorganization and quality formation of starch coated pork tenderloin under mechanical pounding",
+      "title": "Capillary electrophoresis with diode array detection for the determination of organic acids in fermented food samples",
       "abstract": "",
-      "authors": "Ze-Xuan Gong, Long Yang, Yu-Ling Yang et al.",
+      "authors": "Joanna Pluta, Aleksandra Bazan, Michał Woźniakiewicz",
       "published": "Dec 2026",
       "feedName": "Food Chemistry",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626035922?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626036605?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
     {
-      "title": "A RCA-based signal amplification and machine learning-assisted sandwich-type dual-mode split aptamers sensor for the simultaneous detection of diarrhetic shellfish toxins",
+      "title": "Protective effects of gamma-irradiated ice-nucleating Pseudomonas syringae on quality loss in rainbow trout during freeze-thaw cycles",
       "abstract": "",
-      "authors": "Yifei Liu, Chunyun Zhang, Mengyuan Yuan et al.",
+      "authors": "Houshmand Sharafi, Mehran Moradi, Mehdi Nikoo",
       "published": "Dec 2026",
       "feedName": "Food Chemistry",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626035302?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626036356?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -212,6 +212,16 @@
       "screen": "left"
     },
     {
+      "title": "From solar heat to digital drying: integrating computational fluid dynamics, process optimisation, and digital twins for sustainable tuber-chip drying",
+      "abstract": "Root and tuber crops such as cassava, yam, and sweet potato are central to tropical food systems but remain highly vulnerable to postharvest deterioration because of their high moisture content. Solar drying offers a renewable route to stabilisation, yet practical performance is constrained by fluctuating weather, non-uniform airflow, spatial temperature and humidity gradients, product loading, and strong coupling between external convection and internal moisture transport. This structured narrative mini-review, informed by SANRA and PRISMA reporting principles, synthesises evidence on active solar drying, computational fluid dynamics (CFD), experimental validation, response-surface and multi-objective optimisation, artificial intelligence (AI), sensor systems, and digital twins for tuber-chip processing. Six databases were searched, sources were screened against explicit eligibility criteria, and each of the 45 cited sources was classified by its relationship to tuber-chip drying so that tuber-specific evidence is separated from evidence transferred from other foods and dryer types. Only 12 of the 45 sources were tuber-specific; they concentrate on yam drying kinetics, cassava dryer performance, and one integrated machine-learning and 4E study of sweet-potato solar drying. CFD validation, robust optimisation, surrogate modelling, and digital-twin architectures are, in the evidence assembled, largely transferred from other products or from unloaded or non-tuber systems. Reported effective moisture diffusivities for yam span roughly 6.4 × 10−9 to 1.6 × 10−7 m2 s-1 (up to 4.2…",
+      "authors": "Chinyere Nneoma Ugwu",
+      "published": "Oct 2026",
+      "feedName": "Frontiers Food Science",
+      "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.1985752",
+      "image": "",
+      "screen": "left"
+    },
+    {
       "title": "Nutritional dynamics of weeds in agroecosystem and their utilization in the agro-food industry within a circular economy framework",
       "abstract": "Edible weeds are becoming more widely acknowledged that edible weeds are underutilized natural resources with substantial potential to promote circular bio-economy initiatives and sustainable food systems. Many weed species have nutritional content, a variety of bioactive chemicals, and numerous uses in human nutrition, livestock feeding, and value-added agro-food products, while being historically considered unwanted elements of agricultural landscapes. The nutritional makeup, phytochemical profile, functional characteristics, and agro-food usage of a few edible weed species that are frequently found in agricultural habitats are all critically summarised in this narrative review. Major scientific databases, such as Scopus, Web of Science, PubMed, ScienceDirect, and Google Scholar, were used to retrieve literature published between recent years. The selection of species was based on their documented edible use, the availability of peer-reviewed information about their nutritional composition and potential applications, and their frequent occurrence as agricultural weeds. Evidence suggests that edible weeds are abundant in vitamins, minerals, phenolic compounds, flavonoids, carotenoids, essential amino acids, dietary fibre, weeds are abundant in vitamins, minerals, phenolic compounds, flavonoids, carotenoids, essential amino acids, dietary fibre, and other phytochemicals with antibacterial, anti-inflammatory, antioxidant, and metabolic regulating qualities. Although interesting biological activities have been shown in experimental research, there is still a dearth of solid c…",
       "authors": "Arshiya Dogra, Neha Sharma, Sunny Sharma",
@@ -232,12 +242,12 @@
       "screen": "left"
     },
     {
-      "title": "Finger millet flour based batter coating: effects on frying behavior, oil uptake, and storage stability of chicken popcorn",
-      "abstract": "IntroductionBatter coating systems in fried poultry products are primarily designed to enhance sensory attributes, such as crispiness and flavor; however, their potential role as functional matrices for improving frying performance and nutritional quality remains largely unexplored.MethodsThis study investigated the effect of incorporating finger millet flour (FMF) as a functional batter ingredient on the frying behavior, oil uptake, and storage stability of chicken popcorn. Batter formulations were developed by replacing cornflour with FMF at 0%, 5%, 10%, and 15%, designated as Control, T1, T2, and T3, respectively. The enrobed products were evaluated for proximate composition, cooking quality parameters, physicochemical characteristics, microbiological quality, and sensory attributes during four weeks of refrigerated storage (4 ± 1 °C).ResultsIncorporation of FMF significantly influenced frying performance (p < 0.05), resulting in improved cooking yield and moisture retention while reducing fat uptake during frying. The formulation containing 10% FMF (T2) exhibited the most favourable technological performance, with the highest cooking yield (86.38%) and moisture retention (83.01%) alongside reduced fat content in cooked samples compared with the control. During storage, progressive increases in pH, tyrosine value, thiobarbituric acid value, free fatty acids, and microbial counts were observed across all treatments, reflecting typical storage related spoilage. However, FMF treated samples exhibited comparatively lower oxidative and proteolytic changes, indicating modest i…",
-      "authors": "Kiran M., Md. Yousufuddin, B. Manojkumar et al.",
-      "published": "Oct 2026",
-      "feedName": "Frontiers Food Science",
-      "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.1901708",
+      "title": "Cold-induced transcriptomic responses are associated with strain-dependent Salmonella enterica persistence in refrigerated lettuce leaves",
+      "abstract": "",
+      "authors": "Yohaily Rodríguez-Alvarez, Nicolás González, María Paz Araya et al.",
+      "published": "Mar 2027",
+      "feedName": "Food Microbiology",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0740002026002911?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -272,13 +282,23 @@
       "screen": "left"
     },
     {
-      "title": "Multi-omics and functional validation profiling reveals the regulatory mechanism of biofilm-forming Tetragenococcus halophilus JY1 in response to salt tolerance",
+      "title": "Effects of packaging materials and storage temperature on the microbiological and physicochemical quality of garlic cloves during storage",
       "abstract": "",
-      "authors": "Chi Zhao, Dongdong Sun, Shenmiao Li et al.",
-      "published": "Mar 2027",
-      "feedName": "Food Microbiology",
-      "url": "https://www.sciencedirect.com/science/article/pii/S074000202600287X?dgcid=rss_sd_all",
-      "image": "",
+      "authors": "Hany S. El-Mesery, Mansuur Husein, Zicheng Hu et al.",
+      "published": "Oct 2026",
+      "feedName": "npj Science of Food",
+      "url": "https://www.nature.com/articles/s41538-026-01151-5",
+      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01151-5/MediaObjects/41538_2026_1151_Fig1_HTML.png",
+      "screen": "left"
+    },
+    {
+      "title": "Daucus carota-derived extracellular vesicles lowers ammonia and improves lysine–butanoate metabolism in animal model of hepatic encephalopathy",
+      "abstract": "",
+      "authors": "P. Debishree Subudhi, Sukriti Baweja, Shruthi Chalil Sureshan et al.",
+      "published": "Oct 2026",
+      "feedName": "npj Science of Food",
+      "url": "https://www.nature.com/articles/s41538-026-01183-x",
+      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01183-x/MediaObjects/41538_2026_1183_Fig1_HTML.png",
       "screen": "left"
     },
     {
@@ -299,26 +319,6 @@
       "feedName": "npj Science of Food",
       "url": "https://www.nature.com/articles/s41538-026-01196-6",
       "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01196-6/MediaObjects/41538_2026_1196_Fig1_HTML.png",
-      "screen": "left"
-    },
-    {
-      "title": "Four dietary flavonoids differentially modulate the gut microbiota–barrier interaction against colitis-driven cognitive deficits",
-      "abstract": "",
-      "authors": "Qiqiong Li, Shanfeng Qiao, Xinke Nie et al.",
-      "published": "Oct 2026",
-      "feedName": "npj Science of Food",
-      "url": "https://www.nature.com/articles/s41538-026-01191-x",
-      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01191-x/MediaObjects/41538_2026_1191_Fig1_HTML.png",
-      "screen": "left"
-    },
-    {
-      "title": "Thermosonication-assisted CaCl 2 treatment reduces mung bean starch digestibility through cell-wall structural modification and starch reorganization",
-      "abstract": "",
-      "authors": "Qingyu Yang, Dongyang Xu, Lin Zhao et al.",
-      "published": "Oct 2026",
-      "feedName": "npj Science of Food",
-      "url": "https://www.nature.com/articles/s41538-026-01189-5",
-      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01189-5/MediaObjects/41538_2026_1189_Fig1_HTML.png",
       "screen": "left"
     },
     {
@@ -402,6 +402,16 @@
       "screen": "right"
     },
     {
+      "title": "Scientists discover why a 100-year-old mushroom disease won't go away",
+      "abstract": "Scientists have uncovered a surprising secret behind a mushroom disease that has frustrated growers for more than a century: It involves more than 17 species of harmful bacteria, not just one. The discovery could explain why treatments have struggled to stop the disease and open the door to more effective, eco-friendly solutions.",
+      "authors": "",
+      "published": "Oct 2026",
+      "feedName": "ScienceDaily Biotech",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261008102716.htm",
+      "image": "https://www.sciencedaily.com/images/1920/mushroom-farm.webp",
+      "screen": "right"
+    },
+    {
       "title": "The “glue” holding your cells together has a surprising second job",
       "abstract": "Scientists have discovered that E-cadherin, a protein best known as the “glue” holding cells and tissues together, has a surprising second job: helping epithelial cells swallow nearby dead cells. Using live zebrafish and mouse embryos, researchers found that cells can dramatically reshape their lower surfaces to engulf cellular debris while keeping their upper surfaces stable, allowing protective barriers to remain sealed.",
       "authors": "",
@@ -432,13 +442,23 @@
       "screen": "right"
     },
     {
-      "title": "A donut-shaped protein breaks apart to start bacterial cell division",
-      "abstract": "Researchers have revealed how bacteria precisely control the genes that trigger cell division. The study shows that the MraZ protein, which normally forms a donut-shaped structure, must bend and partially break apart to bind key DNA sequences that activate division genes. Using cryo-electron microscopy, scientists captured this interaction in remarkable detail. The mechanism appears to be widespread across bacteria, offering a new window into how microbes regulate growth.",
+      "title": "Popular weight loss drugs linked to a surprising fingernail problem",
+      "abstract": "Popular GLP-1 weight loss drugs, such as Ozempic and Wegovy, have been linked to unexpectedly high rates of nail detachment, hair loss, and scalp inflammation, with some problems occurring several times more frequently among users. Researchers found that weight loss alone could not fully explain the differences, suggesting there may be more to these overlooked symptoms.",
       "authors": "",
-      "published": "Mar 2026",
-      "feedName": "ScienceDaily Biotech",
-      "url": "https://www.sciencedaily.com/releases/2026/03/260314030457.htm",
-      "image": "https://www.sciencedaily.com/images/1920/mraz-protein.webp",
+      "published": "Oct 2026",
+      "feedName": "ScienceDaily Nutrition",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261011211604.htm",
+      "image": "https://www.sciencedaily.com/images/1920/fingernail-detachment.webp",
+      "screen": "right"
+    },
+    {
+      "title": "Scientists find hidden driver of aging and a simple amino acid that fights memory loss in mice",
+      "abstract": "Scientists discovered that declining levels of a protein called Menin may help drive aging, and restoring it in older mice reversed several age-related changes in just 30 days. Even more surprisingly, supplementing with a simple amino acid called D-serine improved memory and learning, offering a potential new approach to age-related cognitive decline.",
+      "authors": "",
+      "published": "Oct 2026",
+      "feedName": "ScienceDaily Nutrition",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261009025708.htm",
+      "image": "https://www.sciencedaily.com/images/1920/anti-aging-beauty-skincare.webp",
       "screen": "right"
     },
     {
@@ -452,33 +472,13 @@
       "screen": "right"
     },
     {
-      "title": "Eating olive oil before carbs has a surprising effect on blood sugar",
-      "abstract": "A simple change in the order you eat your food could help prevent blood sugar spikes. Scientists discovered that giving mice olive oil before carbohydrates slowed digestion and activated a surprising combination of hormones and nerve signals that helped regulate blood sugar, even in mice with type 2 diabetes.",
+      "title": "New injection makes fat cells self-destruct",
+      "abstract": "Scientists have developed an experimental injection that destroys fat cells and significantly reduces dangerous belly fat, potentially opening a new path to treating obesity. Early research also suggests it could help prevent the weight regain that often follows stopping popular weight loss drugs like Ozempic and Wegovy.",
       "authors": "",
       "published": "Oct 2026",
       "feedName": "ScienceDaily Nutrition",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261008102700.htm",
-      "image": "https://www.sciencedaily.com/images/1920/slice-of-bread-seasoned-with-olive-oil.webp",
-      "screen": "right"
-    },
-    {
-      "title": "Only one workout helped older adults lose fat and keep muscle",
-      "abstract": "A six-month study suggests that high-intensity interval training (HIIT) may offer older adults a powerful advantage: losing body fat while keeping their muscle. Unlike moderate-intensity workouts, which led to a small loss of lean muscle, HIIT preserved it while also improving body composition around the waist.",
-      "authors": "",
-      "published": "Oct 2026",
-      "feedName": "ScienceDaily Nutrition",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261007233348.htm",
-      "image": "https://www.sciencedaily.com/images/1920/smling-senior-woman-weight-loss-loose-pants.webp",
-      "screen": "right"
-    },
-    {
-      "title": "Scientists warn a popular vitamin D supplement may have a hidden downside",
-      "abstract": "Not all vitamin D supplements are created equal, and new research suggests that one popular form may have an unexpected downside. Scientists found that taking vitamin D2 can actually lower the body's levels of vitamin D3, the form naturally produced by sunlight and more effective at boosting overall vitamin D. Previous studies also suggest that vitamin D3 may provide stronger immune protection against viruses and bacteria.",
-      "authors": "",
-      "published": "Oct 2026",
-      "feedName": "ScienceDaily Nutrition",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261007232940.htm",
-      "image": "https://www.sciencedaily.com/images/1920/hand-holding-vitamin-d-pill-in-sunshine.webp",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261008102713.htm",
+      "image": "https://www.sciencedaily.com/images/1920/weight-loss-burning-fat-cells-adipose-tissue.webp",
       "screen": "right"
     },
     {
@@ -584,7 +584,7 @@
     {
       "title": "Continuing Medical (Anatomy) Education Series: Organ Donation and Transplantation, a Means of Continuity of Functional and Independent Life and Living",
       "abstract": "Diseases and disease processes are key components of life and living. The understanding and appreciation of this axiom will impact greatly on the quality and standard of human health and life. The human body is bedeviled by a myriad of diverse and large spectrum of pathologies. These vary from hereditary, infectious, inflammatory, metabolic, structural degradation, genetic alterations, neoplastic, toxicological injury, ageing and trauma. All these reduce the functionalities of the affected organ/ organ system. There are established first line management strategies for these pathologies, however more often than not, they may not suffice. At this stage, the replacement of such organ becomes the only option for optimal quality of life or continuity of life. This can only be achieved through tissue and organ donation and transplantation. Over the decades, steady advancements are being made in the medical field of human tissue and organ donation and transplantation. Thus it becomes pertinent for students of human medicine to be well and adequately educated on the issues that relate to the donations of human tissues and organs and their transplantation. Such issues covered in this article include global statistics on organ donation and transplantation; historical antecedents of organ donation and transplantation; sources of organ transplants; tissue transplants; set guidelines and standards by The World Health Organization, The European Parliamentary Research Services and The Federal Ministry of Health and Social Welfare Nigeria.",
-      "authors": "R. S. Ajani, Ogheneochuko E. Akpobome, O. Benjamin et al.",
+      "authors": "R. Ajani, Ogheneochuko E. Akpobome, O. Benjamin et al.",
       "published": "2026",
       "venue": "Asian Journal of Medicine and Health",
       "feedName": "Lab Research",

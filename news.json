@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T19:34:04Z",
+  "updated": "2026-10-13T01:45:15Z",
   "items": [
     {
       "title": "Refined crop modelling reveals intensifying impacts of droughts and heatwaves on global wheat productivity",
@@ -362,6 +362,36 @@
       "screen": "left"
     },
     {
+      "title": "Vapor-based method creates ultralight aerogels without conventional liquid-based chemistry",
+      "abstract": "Researchers at National Taiwan University (NTU), working across the College of Engineering, College of Medicine and National Taiwan University Hospital (NTUH), have developed a new method for producing aerogels, introducing what they describe as the world's first purely gaseous-born aerogel fabrication platform. The study is published in Nature Communications.",
+      "authors": "",
+      "published": "Oct 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-10-vapor-based-method-ultralight-aerogels.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/new-research-reveals-p.jpg",
+      "screen": "right"
+    },
+    {
+      "title": "High-speed microscopy captures sugar-building enzymes forming rigid pairs and flexible assemblies",
+      "abstract": "From a rigid molecular pair to flexible assemblies with moving domains, the enzymes that build sugar chains display strikingly different behaviors.",
+      "authors": "",
+      "published": "Oct 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-10-high-microscopy-captures-sugar-enzymes.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/from-a-rigid-dimer-to.jpg",
+      "screen": "right"
+    },
+    {
+      "title": "New light-emitting organic materials could enable deep-tissue bioimaging",
+      "abstract": "Researchers at the University of St Andrews have identified the first examples of a new class of advanced organic semiconductor materials that could one day be used as bioimaging agents, opening up new possibilities for deep-tissue imaging. The study, published in Nature Communications, was led by the Zysman-Colman group in the School of Chemistry at the University of St Andrews in collaboration with the Pal group at Durham University.",
+      "authors": "",
+      "published": "Oct 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-10-emitting-materials-enable-deep-tissue.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/new-light-emitting-org.jpg",
+      "screen": "right"
+    },
+    {
       "title": "New catalyst enables lower-temperature methane conversion with sustained performance",
       "abstract": "Oxidative coupling of methane (OCM) is a chemical reaction that directly converts methane and oxygen, the main components of natural gas, into higher-value hydrocarbons such as ethane and ethylene. However, the reaction presents a fundamental selectivity challenge.",
       "authors": "",
@@ -369,36 +399,6 @@
       "feedName": "Phys.org Analytics",
       "url": "https://phys.org/news/2026-10-catalyst-enables-temperature-methane-conversion.html",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/high-entropy-lanthanoi.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "'Mix-and-match' material's properties can be tuned by changing its metallic 'recipe'",
-      "abstract": "Scientists have created a new family of materials whose behavior can be tuned by changing their metallic \"recipe\"—opening new possibilities for uses including gas storage and sensing.",
-      "authors": "",
-      "published": "Oct 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-10-material-properties-tuned-metallic-recipe.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/mix-and-match-material.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "AI reveals how coating thickness changes the link between surface roughness and pitting resistance",
-      "abstract": "Localized pitting corrosion can cause sudden failure in aluminum components even when overall corrosion rates are low. Steam coating offers a water-vapor-based route to protective boehmite films, but processing simultaneously changes film thickness, surface morphology, crystallinity and substrate defects.",
-      "authors": "",
-      "published": "Oct 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-10-ai-reveals-coating-thickness-link.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/ai-reveals-how-coating.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "'Molecular movie' finally reveals how penicillin is made",
-      "abstract": "Researchers from the University of Oxford and international collaborators have revealed previously unseen rapid chemical stages in the formation of β-lactam antibiotics like penicillin, offering insights that can support future antibiotic development. The findings have been published in Nature Catalysis.",
-      "authors": "",
-      "published": "Oct 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-10-molecular-movie-reveals-penicillin.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/ingenious-molecular-mo.jpg",
       "screen": "right"
     },
     {

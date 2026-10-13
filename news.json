@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T08:47:41Z",
+  "updated": "2026-10-13T17:18:38Z",
   "items": [
     {
       "title": "Refined crop modelling reveals intensifying impacts of droughts and heatwaves on global wheat productivity",
@@ -42,6 +42,16 @@
       "screen": "left"
     },
     {
+      "title": "Comment on “Qualitative non-targeted screening by high resolution mass spectrometry of chemicals transference from plastic food contact materials after cooking”",
+      "abstract": "",
+      "authors": "Monika Beszterda-Buszczak, Magdalena Frańska",
+      "published": "Dec 2026",
+      "feedName": "Food Chemistry",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626035521?dgcid=rss_sd_all",
+      "image": "",
+      "screen": "left"
+    },
+    {
       "title": "Configurational transformation of dihydromyricetin during thermal processing and its implications for quality evaluation",
       "abstract": "",
       "authors": "Shuang Li, Xuming Sha, Xinying Luo et al.",
@@ -62,22 +72,12 @@
       "screen": "left"
     },
     {
-      "title": "Capillary electrophoresis with diode array detection for the determination of organic acids in fermented food samples",
+      "title": "Proteolysis and peptide release during in vitro digestion at infant conditions of bovine casein ingredients in comparison with human milk",
       "abstract": "",
-      "authors": "Joanna Pluta, Aleksandra Bazan, Michał Woźniakiewicz",
+      "authors": "Mengjia Li, Katrine Munch Andresen, Tine Steen Dige Madsen et al.",
       "published": "Dec 2026",
       "feedName": "Food Chemistry",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626036605?dgcid=rss_sd_all",
-      "image": "",
-      "screen": "left"
-    },
-    {
-      "title": "Protective effects of gamma-irradiated ice-nucleating Pseudomonas syringae on quality loss in rainbow trout during freeze-thaw cycles",
-      "abstract": "",
-      "authors": "Houshmand Sharafi, Mehran Moradi, Mehdi Nikoo",
-      "published": "Dec 2026",
-      "feedName": "Food Chemistry",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626036356?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626037222?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -212,16 +212,6 @@
       "screen": "left"
     },
     {
-      "title": "Tailoring soy protein isolate–alginate double emulsion composite gel microcapsules for cheese-like texture and probiotic protection in plant-based cheese analogues",
-      "abstract": "While the market for plant-based dairy alternatives is expanding rapidly, most products mainly focus on the sensory attributes of traditional dairy items and lack functional fortification, such as the incorporation of probiotic bacteria. The objective of this study was to develop and characterize novel water-in-oil-in-water (W/O/W) double emulsion-based gelled microcapsules for Lactobacillus rhamnosus GG (LRGG) using a soy protein isolate (SPI) (3.0%–6.0% w/w) and sodium alginate (SA) (0.5%–2.0% w/w) composite with Ca2+ cross-linking, aiming to tailor and customize the microcapsules for cheese-like textural characteristics from spread to semi-hard types, while preserving probiotic viability for incorporation into plant-based cheese analogues. Using Response Surface Methodology (RSM) under a 32 full factorial design with center-point replication, the complex interactions between the wall materials and their effects on physical, textural, and functional properties were systematically evaluated. The results revealed that SA concentration strongly enhanced bulk firmness and particle size (D50) through robust calcium cross-linking. In contrast, SPI played a crucial role in providing protection against simulated gastrointestinal fluids during digestion testing. Ultimately, this study demonstrates that the SPI-SA system bridges the gap between macroscopic structural integrity and biological viability, providing a tunable structural base for probiotic-fortified plant-based cheese analogues.",
-      "authors": "Toshifumi Udo, Ethan He, Gopinath Mummaleti et al.",
-      "published": "Oct 2026",
-      "feedName": "Frontiers Food Science",
-      "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.1972949",
-      "image": "",
-      "screen": "left"
-    },
-    {
       "title": "From solar heat to digital drying: integrating computational fluid dynamics, process optimisation, and digital twins for sustainable tuber-chip drying",
       "abstract": "Root and tuber crops such as cassava, yam, and sweet potato are central to tropical food systems but remain highly vulnerable to postharvest deterioration because of their high moisture content. Solar drying offers a renewable route to stabilisation, yet practical performance is constrained by fluctuating weather, non-uniform airflow, spatial temperature and humidity gradients, product loading, and strong coupling between external convection and internal moisture transport. This structured narrative mini-review, informed by SANRA and PRISMA reporting principles, synthesises evidence on active solar drying, computational fluid dynamics (CFD), experimental validation, response-surface and multi-objective optimisation, artificial intelligence (AI), sensor systems, and digital twins for tuber-chip processing. Six databases were searched, sources were screened against explicit eligibility criteria, and each of the 45 cited sources was classified by its relationship to tuber-chip drying so that tuber-specific evidence is separated from evidence transferred from other foods and dryer types. Only 12 of the 45 sources were tuber-specific; they concentrate on yam drying kinetics, cassava dryer performance, and one integrated machine-learning and 4E study of sweet-potato solar drying. CFD validation, robust optimisation, surrogate modelling, and digital-twin architectures are, in the evidence assembled, largely transferred from other products or from unloaded or non-tuber systems. Reported effective moisture diffusivities for yam span roughly 6.4 × 10−9 to 1.6 × 10−7 m2 s-1 (up to 4.2…",
       "authors": "Chinyere Nneoma Ugwu",
@@ -232,12 +222,42 @@
       "screen": "left"
     },
     {
+      "title": "Tailoring soy protein isolate–alginate double emulsion composite gel microcapsules for cheese-like texture and probiotic protection in plant-based cheese analogues",
+      "abstract": "While the market for plant-based dairy alternatives is expanding rapidly, most products mainly focus on the sensory attributes of traditional dairy items and lack functional fortification, such as the incorporation of probiotic bacteria. The objective of this study was to develop and characterize novel water-in-oil-in-water (W/O/W) double emulsion-based gelled microcapsules for Lactobacillus rhamnosus GG (LRGG) using a soy protein isolate (SPI) (3.0%–6.0% w/w) and sodium alginate (SA) (0.5%–2.0% w/w) composite with Ca2+ cross-linking, aiming to tailor and customize the microcapsules for cheese-like textural characteristics from spread to semi-hard types, while preserving probiotic viability for incorporation into plant-based cheese analogues. Using Response Surface Methodology (RSM) under a 32 full factorial design with center-point replication, the complex interactions between the wall materials and their effects on physical, textural, and functional properties were systematically evaluated. The results revealed that SA concentration strongly enhanced bulk firmness and particle size (D50) through robust calcium cross-linking. In contrast, SPI played a crucial role in providing protection against simulated gastrointestinal fluids during digestion testing. Ultimately, this study demonstrates that the SPI-SA system bridges the gap between macroscopic structural integrity and biological viability, providing a tunable structural base for probiotic-fortified plant-based cheese analogues.",
+      "authors": "Toshifumi Udo, Ethan He, Gopinath Mummaleti et al.",
+      "published": "Oct 2026",
+      "feedName": "Frontiers Food Science",
+      "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.1972949",
+      "image": "",
+      "screen": "left"
+    },
+    {
       "title": "Nutritional dynamics of weeds in agroecosystem and their utilization in the agro-food industry within a circular economy framework",
       "abstract": "Edible weeds are becoming more widely acknowledged that edible weeds are underutilized natural resources with substantial potential to promote circular bio-economy initiatives and sustainable food systems. Many weed species have nutritional content, a variety of bioactive chemicals, and numerous uses in human nutrition, livestock feeding, and value-added agro-food products, while being historically considered unwanted elements of agricultural landscapes. The nutritional makeup, phytochemical profile, functional characteristics, and agro-food usage of a few edible weed species that are frequently found in agricultural habitats are all critically summarised in this narrative review. Major scientific databases, such as Scopus, Web of Science, PubMed, ScienceDirect, and Google Scholar, were used to retrieve literature published between recent years. The selection of species was based on their documented edible use, the availability of peer-reviewed information about their nutritional composition and potential applications, and their frequent occurrence as agricultural weeds. Evidence suggests that edible weeds are abundant in vitamins, minerals, phenolic compounds, flavonoids, carotenoids, essential amino acids, dietary fibre, weeds are abundant in vitamins, minerals, phenolic compounds, flavonoids, carotenoids, essential amino acids, dietary fibre, and other phytochemicals with antibacterial, anti-inflammatory, antioxidant, and metabolic regulating qualities. Although interesting biological activities have been shown in experimental research, there is still a dearth of solid c…",
       "authors": "Arshiya Dogra, Neha Sharma, Sunny Sharma",
       "published": "Oct 2026",
       "feedName": "Frontiers Food Science",
       "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.1890529",
+      "image": "",
+      "screen": "left"
+    },
+    {
+      "title": "Effects of indigenous microbiota in fresh produce on Salmonella survival and inactivation by oregano essential oil vapor",
+      "abstract": "",
+      "authors": "Zejia Lin, Menglu Chen, Yinuo Miao et al.",
+      "published": "Mar 2027",
+      "feedName": "Food Microbiology",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0740002026002893?dgcid=rss_sd_all",
+      "image": "",
+      "screen": "left"
+    },
+    {
+      "title": "Microbial succession and genome-resolved metabolic functions shape flavor evolution during sauce-flavor Baijiu fermentation",
+      "abstract": "",
+      "authors": "Jialiang Niu, Weiwei Li, Xi Chen et al.",
+      "published": "Mar 2027",
+      "feedName": "Food Microbiology",
+      "url": "https://www.sciencedirect.com/science/article/pii/S074000202600290X?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -262,23 +282,23 @@
       "screen": "left"
     },
     {
-      "title": "Tea polyphenols amplify oxidative stress-induced eradication of Staphylococcus aureus by disrupting the hydrogen sulfide (H 2 S) signaling pathway",
+      "title": "Effects of packaging materials and storage temperature on the microbiological and physicochemical quality of garlic cloves during storage",
       "abstract": "",
-      "authors": "Yaping Wang, Weiwei Zhong, Ting Nie et al.",
-      "published": "Mar 2027",
-      "feedName": "Food Microbiology",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0740002026002820?dgcid=rss_sd_all",
-      "image": "",
+      "authors": "Hany S. El-Mesery, Mansuur Husein, Zicheng Hu et al.",
+      "published": "Oct 2026",
+      "feedName": "npj Science of Food",
+      "url": "https://www.nature.com/articles/s41538-026-01151-5",
+      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01151-5/MediaObjects/41538_2026_1151_Fig1_HTML.png",
       "screen": "left"
     },
     {
-      "title": "Persistence of hepatitis A virus in a hydroponic nutrient solution at different temperatures",
+      "title": "Daucus carota-derived extracellular vesicles lowers ammonia and improves lysine–butanoate metabolism in animal model of hepatic encephalopathy",
       "abstract": "",
-      "authors": "Elena Jerkovic, Kellie Walters, Doris H. D'Souza",
-      "published": "Mar 2027",
-      "feedName": "Food Microbiology",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0740002026002832?dgcid=rss_sd_all",
-      "image": "",
+      "authors": "P. Debishree Subudhi, Sukriti Baweja, Shruthi Chalil Sureshan et al.",
+      "published": "Oct 2026",
+      "feedName": "npj Science of Food",
+      "url": "https://www.nature.com/articles/s41538-026-01183-x",
+      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01183-x/MediaObjects/41538_2026_1183_Fig1_HTML.png",
       "screen": "left"
     },
     {
@@ -299,26 +319,6 @@
       "feedName": "npj Science of Food",
       "url": "https://www.nature.com/articles/s41538-026-01196-6",
       "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01196-6/MediaObjects/41538_2026_1196_Fig1_HTML.png",
-      "screen": "left"
-    },
-    {
-      "title": "Four dietary flavonoids differentially modulate the gut microbiota–barrier interaction against colitis-driven cognitive deficits",
-      "abstract": "",
-      "authors": "Qiqiong Li, Shanfeng Qiao, Xinke Nie et al.",
-      "published": "Oct 2026",
-      "feedName": "npj Science of Food",
-      "url": "https://www.nature.com/articles/s41538-026-01191-x",
-      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01191-x/MediaObjects/41538_2026_1191_Fig1_HTML.png",
-      "screen": "left"
-    },
-    {
-      "title": "Thermosonication-assisted CaCl 2 treatment reduces mung bean starch digestibility through cell-wall structural modification and starch reorganization",
-      "abstract": "",
-      "authors": "Qingyu Yang, Dongyang Xu, Lin Zhao et al.",
-      "published": "Oct 2026",
-      "feedName": "npj Science of Food",
-      "url": "https://www.nature.com/articles/s41538-026-01189-5",
-      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01189-5/MediaObjects/41538_2026_1189_Fig1_HTML.png",
       "screen": "left"
     },
     {
@@ -362,6 +362,16 @@
       "screen": "left"
     },
     {
+      "title": "Powerful X-rays reveal unexpected roles for water in enzymes linked to cancer and penicillin",
+      "abstract": "In biology, a group of enzymes called 2-oxoglutarate-dependent oxygenases is responsible for catalyzing a wide range of reactions that play a role in everything from how genetic code is used by cells to the synthesis of antibiotics.",
+      "authors": "",
+      "published": "Oct 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-10-powerful-rays-reveal-unexpected-roles.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/powerful-x-rays-reveal.jpg",
+      "screen": "right"
+    },
+    {
       "title": "Vapor-based method creates ultralight aerogels without conventional liquid-based chemistry",
       "abstract": "Researchers at National Taiwan University (NTU), working across the College of Engineering, College of Medicine and National Taiwan University Hospital (NTUH), have developed a new method for producing aerogels, introducing what they describe as the world's first purely gaseous-born aerogel fabrication platform. The study is published in Nature Communications.",
       "authors": "",
@@ -389,16 +399,6 @@
       "feedName": "Phys.org Analytics",
       "url": "https://phys.org/news/2026-10-emitting-materials-enable-deep-tissue.html",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/new-light-emitting-org.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "New catalyst enables lower-temperature methane conversion with sustained performance",
-      "abstract": "Oxidative coupling of methane (OCM) is a chemical reaction that directly converts methane and oxygen, the main components of natural gas, into higher-value hydrocarbons such as ethane and ethylene. However, the reaction presents a fundamental selectivity challenge.",
-      "authors": "",
-      "published": "Oct 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-10-catalyst-enables-temperature-methane-conversion.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/high-entropy-lanthanoi.jpg",
       "screen": "right"
     },
     {
@@ -442,6 +442,16 @@
       "screen": "right"
     },
     {
+      "title": "Your gut bacteria could be changing how many calories you absorb",
+      "abstract": "Scientists have developed a model showing that gut bacteria play a surprisingly important role in how many calories we absorb, meaning food labels may not tell the full story. In a controlled study, people eating a high-fiber diet absorbed about 116 fewer calories per day than those eating a typical Western diet, without feeling hungrier.",
+      "authors": "",
+      "published": "Oct 2026",
+      "feedName": "ScienceDaily Nutrition",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261011211613.htm",
+      "image": "https://www.sciencedaily.com/images/1920/bacteria-intestinal-microbiome-in-digestive-tract.webp",
+      "screen": "right"
+    },
+    {
       "title": "Popular weight loss drugs linked to a surprising fingernail problem",
       "abstract": "Popular GLP-1 weight loss drugs, such as Ozempic and Wegovy, have been linked to unexpectedly high rates of nail detachment, hair loss, and scalp inflammation, with some problems occurring several times more frequently among users. Researchers found that weight loss alone could not fully explain the differences, suggesting there may be more to these overlooked symptoms.",
       "authors": "",
@@ -472,22 +482,12 @@
       "screen": "right"
     },
     {
-      "title": "New injection makes fat cells self-destruct",
-      "abstract": "Scientists have developed an experimental injection that destroys fat cells and significantly reduces dangerous belly fat, potentially opening a new path to treating obesity. Early research also suggests it could help prevent the weight regain that often follows stopping popular weight loss drugs like Ozempic and Wegovy.",
-      "authors": "",
-      "published": "Oct 2026",
-      "feedName": "ScienceDaily Nutrition",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261008102713.htm",
-      "image": "https://www.sciencedaily.com/images/1920/weight-loss-burning-fat-cells-adipose-tissue.webp",
-      "screen": "right"
-    },
-    {
-      "title": "Protein supplementation and resistance training-induced strength gains in young adults: a meta-analysis",
-      "abstract": "BackgroundThis study aimed to determine whether protein supplementation confers additional benefits for muscle strength gains beyond those induced by resistance training (RT) alone in healthy young adults.MethodsA systematic literature search was performed in PubMed, Web of Science, Cochrane Library, and SPORTDiscus through April 1, 2026. Twenty-three randomized controlled trials involving 611 healthy young adults were included. Pooled estimates were calculated as weighted mean differences (WMD) with 95% confidence intervals (CIs) using a random-effects model. Subgroup analysis, meta-regression, and leave-one-out and leave-one-category-out sensitivity analysis were performed to explore heterogeneity.ResultsCompared with RT alone, combined RT and protein supplementation produced significant improvements in both bench press (WMD: 2.63 kg, 95% CI: 0.77–4.49, p = 0.006) and squat strength (WMD: 7.40 kg, 95% CI: 2.15–12.66, p = 0.006). Subgroup analysis revealed that the ergogenic effect on squat strength was predominantly observed when the intervention lasted ≤12 weeks, or when protein was ingested both around exercise (pre- and/or post-exercise) and before sleep. Meta-regression identified intervention duration as a significant moderator (p = 0.037) and protein timing as a borderline moderator (p = 0.073) of squat strength heterogeneity. Sensitivity analysis showed that the pooled effects remained significant and consistent in direction.ConclusionProtein supplementation combined with resistance training enhances muscle strength in young healthy adults, but its incremental bene…",
-      "authors": "Chenkun Zhang, Yahai Wang, Wenying Huang",
+      "title": "Multidimensional characterization of vegetable breads using multisource intelligent sensory technologies and feature-level data fusion",
+      "abstract": "BackgroundFood sensory quality is multidimensional, and a single intelligent sensory technique cannot simultaneously characterize color, taste, and odor across multiple dimensions. Multisource intelligent sensory analysis combined with data fusion provides an approach for the objective characterization of multidimensional food sensory characteristics.MethodsControl bread (CK) and four vegetable breads prepared with pumpkin (PU), Pueraria thomsonii (PG), red pepper (RP), and celery (CE) were analyzed using an electronic eye, an electronic tongue, and an ultrafast gas chromatography electronic nose. These instruments provided color, taste-response, and volatile-compound information, respectively. Principal component analysis (PCA), differential-peak screening, and tentative assignment based on dual-column retention-index (RI) matching were used to compare characteristics among formulations. Principal components from each single-modality dataset were then retained for feature-level data fusion followed by PCA.ResultsThe vegetable juices produced distinct color, taste-response, and volatile-compound characteristics in the breads. The first three electronic-eye principal components explained 91.95% of the variance. PU was dominated by strong yellow and vivid yellow, RP showed a clear orange-yellow appearance, and CE retained a green hue. The first two electronic-tongue principal components explained 90.03% of the variance. PG showed relatively high umami and bitterness response indices, whereas CE showed a relatively high saltiness response index. The first five principal compon…",
+      "authors": "Yongfeng Jiang, Han Yang, Cuiying Jian et al.",
       "published": "Oct 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1946052",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1970901",
       "image": "",
       "screen": "right"
     },
@@ -502,22 +502,22 @@
       "screen": "right"
     },
     {
-      "title": "Optimizing hydration in Chinese youth taekwondo athletes: evidence-based daily and training session-specific fluid intake recommendations",
-      "abstract": "BackgroundAdequate hydration is crucial for athletic performance and health, particularly in adolescent athletes with distinct physiological demands. Comprehensive data on the daily and training-specific hydration status of populations like Chinese youth taekwondo athletes remain limited, hindering evidence-based strategy development.ObjectiveThis study aimed to rigorously evaluate the daily and training session hydration status of taekwondo athletes in the Chinese youth team.MethodsThis study evaluated the daily and training session hydration status of 58 Chinese youth taekwondo athletes (30 males, 28 females; age 17.7 ± 2.2 years) over a 7-day period. Assessment included 24-h rehydration behavior, daily fluid intake surveys, and objective hydration indices (urine osmolality, specific gravity, sweat ion concentrations).ResultsA significant prevalence of suboptimal hydration, with 48.3% of athletes demonstrating persistent dehydration (defined as urine specific gravity >1.020 and urine osmolality ≥800 mOsm/kg) throughout the entire 7-day period. Median daily fluid intake for male athletes was 27.98 mL/kg BM, and for female athletes was 29.70 mL/kg BM; both values were below the daily fluid replacement volume of urine specific gravity ≤ 1.020 subjects for this athletic population. Training sessions significantly exacerbated dehydration, evidenced by elevated post-session urine specific gravity and osmolality of technical/tactical training session (P < 0.05), alongside substantial median body mass loss rate of 2.51% for technical/tactical, 2.16% for physical fitness, and 1.97…",
-      "authors": "Ge Song, Yue Chen, Jiaqi Li et al.",
+      "title": "From plausible menus to trustworthy nutrition: a risk-proportionate VALID-Diet framework for artificial intelligence-generated dietary advice",
+      "abstract": "Generative artificial intelligence can produce menus, recipes, shopping lists, and dietary explanations that appear individualized and clinically informed. Fluency alone, however, provides little evidence of nutritional accuracy, safety, feasibility, or benefit. We propose VALID-Diet, a staged framework for evaluating systems that generate actionable dietary recommendations as sociotechnical interventions. Its domains are Verification of nutritional targets and composition; Adversarial safety and boundary testing; Linkage between user inputs and recommendation changes; Implementation feasibility and inclusion; and Documentation, versioning, and reproducibility. Stage 0 defines intended use, input integrity, and a structured risk profile based on harm severity, exposure, autonomy, reversibility, and enforceable oversight. Stage 1 separates target validity, menu achievement, and arithmetic agreement and, for integrated systems, tests retrieval, calculation, and generation as distinct components. Stage 2 evaluates safety, substantive personalization, feasibility, and inclusion using pre-specified case blueprints. Stage 3 evaluates human oversight, workflow utility, and prospective outcomes only after earlier gates are passed. A retrospective worked application to a published retrieval-augmented personalized-nutrition system illustrates risk assignment and progression decisions. VALID-Diet is not a regulatory standard or consensus guideline; it is a testable proposal intended to align research claims with evidentiary strength.",
+      "authors": "Jingyi Xu, Weina Xing, Lili Jia et al.",
       "published": "Oct 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1923019",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1957211",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Multidimensional characterization of vegetable breads using multisource intelligent sensory technologies and feature-level data fusion",
-      "abstract": "BackgroundFood sensory quality is multidimensional, and a single intelligent sensory technique cannot simultaneously characterize color, taste, and odor across multiple dimensions. Multisource intelligent sensory analysis combined with data fusion provides an approach for the objective characterization of multidimensional food sensory characteristics.MethodsControl bread (CK) and four vegetable breads prepared with pumpkin (PU), Pueraria thomsonii (PG), red pepper (RP), and celery (CE) were analyzed using an electronic eye, an electronic tongue, and an ultrafast gas chromatography electronic nose. These instruments provided color, taste-response, and volatile-compound information, respectively. Principal component analysis (PCA), differential-peak screening, and tentative assignment based on dual-column retention-index (RI) matching were used to compare characteristics among formulations. Principal components from each single-modality dataset were then retained for feature-level data fusion followed by PCA.ResultsThe vegetable juices produced distinct color, taste-response, and volatile-compound characteristics in the breads. The first three electronic-eye principal components explained 91.95% of the variance. PU was dominated by strong yellow and vivid yellow, RP showed a clear orange-yellow appearance, and CE retained a green hue. The first two electronic-tongue principal components explained 90.03% of the variance. PG showed relatively high umami and bitterness response indices, whereas CE showed a relatively high saltiness response index. The first five principal compon…",
-      "authors": "Yongfeng Jiang, Han Yang, Cuiying Jian et al.",
+      "title": "Enhanced acute absorption of vitamin D3 with a liposomal formulation (Cymbiotika) compared to a standard formulation in healthy adults: a randomized double-blind crossover study",
+      "abstract": "BackgroundVitamin D deficiency is increasingly prevalent and linked to impaired health and disease. While vitamin D3 supplementation is effective, variability in absorption can influence bioavailability and clinical responses, with formulation characteristics potentially contributing to this variability.MethodThe aim of this randomized, double-blind, crossover absorption study was to compare the absorption of a liposomal vitamin D3 formulation (Cymbiotika) with that of a conventional non-liposomal vitamin D3 formulation. Healthy adult participants received a single oral dose of both formulations in random order separated by a 2-week washout period. Blood samples were collected over 48 h post-dose and plasma cholecalciferol concentrations quantified. Absorption parameters including area under the concentration-time curve (AUC), maximum plasma concentration (Cmax), and time to peak concentration (Tmax) were calculated following baseline correction.ResultsTwelve participants completed the study (mean age 34.3 ± 9.7 years; BMI 24.8 ± 2.7 kg/m2). The liposomal formulation showed greater systemic absorption compared with the comparator formulation, with a 1.9-fold higher AUC (199 vs. 106 ng·h/mL). Peak concentration was also higher for the liposomal formulation (8.4 vs. 6.0 ng/mL). Circulating cholecalciferol concentrations remained elevated above baseline at 48 h in the liposomal formulation but returned to baseline in the comparator formulation.ConclusionThese findings suggest that the Cymbiotika formulation may enhance the acute absorption of orally administered vitamin D3. Wh…",
+      "authors": "David Briskey, Sandra Rahman, Shilpa Raut et al.",
       "published": "Oct 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1970901",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1858064",
       "image": "",
       "screen": "right"
     },
@@ -969,7 +969,7 @@
       "venue": "Brain, Behavior, & Immunity - Health",
       "feedName": "Lab Research",
       "citationCount": 21,
-      "recentCitations": 0,
+      "recentCitations": 1,
       "quartile": null,
       "s2_paper_id": "e6bf6bc6dc39538aed6d5e9f0a2aad62f0702494",
       "url": "https://doi.org/10.1016/j.bbih.2024.100829",

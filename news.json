@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T01:45:15Z",
+  "updated": "2026-10-13T08:47:41Z",
   "items": [
     {
       "title": "Refined crop modelling reveals intensifying impacts of droughts and heatwaves on global wheat productivity",
@@ -202,6 +202,16 @@
       "screen": "left"
     },
     {
+      "title": "Phytochemical composition and anti-aging potential of different dragon Fruit materials across production seasons",
+      "abstract": "BackgroundDragon fruit (Selenicereus spp.) is an important tropical fruit with considerable variation in nutritional and phytochemical quality among fruit types, tissues, and production seasons. This study evaluated such variation using a two-stage experimental design.MethodsFirst, pulp and peel from three dragon fruit types were comparatively characterized for nutritional and phytochemical composition. Second, whole-fruit samples from the three types were evaluated across the January off-season, June main-season, and August late main-season for total phenolic content (TPC), total flavonoid content (TFC), polysaccharide content, DPPH radical-scavenging activity, and elastase and collagenase inhibitory activities. Relationships among compositional and biological variables were further examined using Pearson correlation analysis, principal component analysis (PCA), and CRITIC–TOPSIS.ResultsFruit type and tissue significantly affected the nutritional and phytochemical characteristics evaluated during the January off-season (p < 0.05). In the seasonal experiment, both dragon fruit type and production season significantly influenced all compositional and biological responses (p < 0.001), while significant type × season interactions were observed for most variables (p < 0.05). Across the nine type × season combinations, TPC, TFC, polysaccharide content, DPPH activity, elastase inhibition, and collagenase inhibition ranged from 2.50–4.00 mg GAE/g FW, 2.10–3.20 mg QE/g FW, 1.40–2.70 mg GE/g FW, 65.0–80.0%, 50.0–63.0%, and 45.0–60.0%, respectively. January off-season samples consist…",
+      "authors": "Duy Linh Nguyen, Xuan Cuong Dang, Hong Quan Duong et al.",
+      "published": "Oct 2026",
+      "feedName": "Frontiers Food Science",
+      "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.1969633",
+      "image": "",
+      "screen": "left"
+    },
+    {
       "title": "Tailoring soy protein isolate–alginate double emulsion composite gel microcapsules for cheese-like texture and probiotic protection in plant-based cheese analogues",
       "abstract": "While the market for plant-based dairy alternatives is expanding rapidly, most products mainly focus on the sensory attributes of traditional dairy items and lack functional fortification, such as the incorporation of probiotic bacteria. The objective of this study was to develop and characterize novel water-in-oil-in-water (W/O/W) double emulsion-based gelled microcapsules for Lactobacillus rhamnosus GG (LRGG) using a soy protein isolate (SPI) (3.0%–6.0% w/w) and sodium alginate (SA) (0.5%–2.0% w/w) composite with Ca2+ cross-linking, aiming to tailor and customize the microcapsules for cheese-like textural characteristics from spread to semi-hard types, while preserving probiotic viability for incorporation into plant-based cheese analogues. Using Response Surface Methodology (RSM) under a 32 full factorial design with center-point replication, the complex interactions between the wall materials and their effects on physical, textural, and functional properties were systematically evaluated. The results revealed that SA concentration strongly enhanced bulk firmness and particle size (D50) through robust calcium cross-linking. In contrast, SPI played a crucial role in providing protection against simulated gastrointestinal fluids during digestion testing. Ultimately, this study demonstrates that the SPI-SA system bridges the gap between macroscopic structural integrity and biological viability, providing a tunable structural base for probiotic-fortified plant-based cheese analogues.",
       "authors": "Toshifumi Udo, Ethan He, Gopinath Mummaleti et al.",
@@ -228,16 +238,6 @@
       "published": "Oct 2026",
       "feedName": "Frontiers Food Science",
       "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.1890529",
-      "image": "",
-      "screen": "left"
-    },
-    {
-      "title": "Biophysical transport control in smart nanocomposite packaging under non-thermal food preservation technologies",
-      "abstract": "Smart nanocomposite packaging has emerged as a promising approach for enhancing food preservation by improving barrier performance, enabling active functionality, and supporting intelligent quality monitoring. Its integration with non-thermal preservation technologies, including pulsed electric fields, cold plasma, ultraviolet irradiation, and high-pressure processing, offers new opportunities to extend shelf life while minimizing thermal damage to food products. This review examines the interactions between smart nanocomposite packaging and non-thermal processing, with emphasis on the transport phenomena governing mass transfer, permeability, and interfacial stability that influence food quality and microbial safety. Recent advances in nanocomposite materials are discussed in relation to improved mechanical strength, gas and moisture barrier properties, and compatibility with non-thermal treatments. The review also highlights emerging intelligent packaging systems incorporating nanosensors, Internet of Things connectivity, and artificial intelligence for real-time quality monitoring and predictive shelf-life assessment. Current challenges, including nanomaterial migration, regulatory considerations, industrial scalability, and long-term stability, are critically evaluated. Finally, future research directions are proposed to facilitate the development of sustainable, intelligent packaging systems that complement non-thermal food processing technologies. Overall, this review provides a comprehensive perspective on the synergistic integration of smart nanocomposite packaging …",
-      "authors": "Adeshina Fadeyibi, Azeez Ayinla Adebayo, Zinash Delebo Osunde et al.",
-      "published": "Oct 2026",
-      "feedName": "Frontiers Food Science",
-      "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.1980752",
       "image": "",
       "screen": "left"
     },
@@ -282,26 +282,6 @@
       "screen": "left"
     },
     {
-      "title": "Effects of packaging materials and storage temperature on the microbiological and physicochemical quality of garlic cloves during storage",
-      "abstract": "",
-      "authors": "Hany S. El-Mesery, Mansuur Husein, Zicheng Hu et al.",
-      "published": "Oct 2026",
-      "feedName": "npj Science of Food",
-      "url": "https://www.nature.com/articles/s41538-026-01151-5",
-      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01151-5/MediaObjects/41538_2026_1151_Fig1_HTML.png",
-      "screen": "left"
-    },
-    {
-      "title": "Daucus carota-derived extracellular vesicles lowers ammonia and improves lysine–butanoate metabolism in animal model of hepatic encephalopathy",
-      "abstract": "",
-      "authors": "P. Debishree Subudhi, Sukriti Baweja, Shruthi Chalil Sureshan et al.",
-      "published": "Oct 2026",
-      "feedName": "npj Science of Food",
-      "url": "https://www.nature.com/articles/s41538-026-01183-x",
-      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01183-x/MediaObjects/41538_2026_1183_Fig1_HTML.png",
-      "screen": "left"
-    },
-    {
       "title": "Comparative metabolomic characterization of secondary metabolites in Gnaphalium affine D. Don considering the influence of growth stages and cultivation systems",
       "abstract": "",
       "authors": "Sujin Hong, Han Gyeol Lee, Seon Min Oh et al.",
@@ -319,6 +299,26 @@
       "feedName": "npj Science of Food",
       "url": "https://www.nature.com/articles/s41538-026-01196-6",
       "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01196-6/MediaObjects/41538_2026_1196_Fig1_HTML.png",
+      "screen": "left"
+    },
+    {
+      "title": "Four dietary flavonoids differentially modulate the gut microbiota–barrier interaction against colitis-driven cognitive deficits",
+      "abstract": "",
+      "authors": "Qiqiong Li, Shanfeng Qiao, Xinke Nie et al.",
+      "published": "Oct 2026",
+      "feedName": "npj Science of Food",
+      "url": "https://www.nature.com/articles/s41538-026-01191-x",
+      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01191-x/MediaObjects/41538_2026_1191_Fig1_HTML.png",
+      "screen": "left"
+    },
+    {
+      "title": "Thermosonication-assisted CaCl 2 treatment reduces mung bean starch digestibility through cell-wall structural modification and starch reorganization",
+      "abstract": "",
+      "authors": "Qingyu Yang, Dongyang Xu, Lin Zhao et al.",
+      "published": "Oct 2026",
+      "feedName": "npj Science of Food",
+      "url": "https://www.nature.com/articles/s41538-026-01189-5",
+      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01189-5/MediaObjects/41538_2026_1189_Fig1_HTML.png",
       "screen": "left"
     },
     {
@@ -482,42 +482,42 @@
       "screen": "right"
     },
     {
-      "title": "Outcome reporting in randomized trials of medicine–food homology interventions for cardiometabolic disease: a scoping review",
-      "abstract": "BackgroundSubstances classified as medicine-food homology (MFH) are tested as dietary interventions for cardiometabolic disease. The usefulness of this fast-growing evidence depends on whether trials choose, measure, and report outcomes in ways that can be compared and combined.ObjectiveTo map outcomes reported in randomized controlled trials (RCTs) of MFH substances primarily addressing cardiometabolic health identified through four selected databases, describing their distribution across substances, clinical interpretation, and signals of reporting completeness.MethodsFollowing PRISMA for Scoping Reviews, we searched four databases and included RCTs of MFH substances on the review’s 110-item operational list with a cardiometabolic focus. Outcomes were charted verbatim, coded inductively into domains, and grouped as clinical events and mortality (T1), intermediate cardiometabolic measures (T2), or mechanistic biomarkers (T3), with other outcomes retained separately. Findings were summarized descriptively.ResultsWe included 416 studies reporting 2,231 outcome records (median 5 per study). Reporting concentrated on glycaemic (82.9% of studies), lipid (62.5%), anthropometric (53.4%), and blood-pressure (34.4%) domains, focusing heavily on five substances. The conventional lipid panel was commonly reported. Glycaemic measures covered different constructs and timescales; fasting glucose and HbA1c appeared in 50.1 and 31.3% of glycaemic studies, respectively. Of all outcome records, 0.7% were clinical events or mortality, 72.2% intermediate cardiometabolic measures, and 18.0% me…",
-      "authors": "Jianguo Xu, Qingyong Zheng, Tengfei Li et al.",
+      "title": "Protein supplementation and resistance training-induced strength gains in young adults: a meta-analysis",
+      "abstract": "BackgroundThis study aimed to determine whether protein supplementation confers additional benefits for muscle strength gains beyond those induced by resistance training (RT) alone in healthy young adults.MethodsA systematic literature search was performed in PubMed, Web of Science, Cochrane Library, and SPORTDiscus through April 1, 2026. Twenty-three randomized controlled trials involving 611 healthy young adults were included. Pooled estimates were calculated as weighted mean differences (WMD) with 95% confidence intervals (CIs) using a random-effects model. Subgroup analysis, meta-regression, and leave-one-out and leave-one-category-out sensitivity analysis were performed to explore heterogeneity.ResultsCompared with RT alone, combined RT and protein supplementation produced significant improvements in both bench press (WMD: 2.63 kg, 95% CI: 0.77–4.49, p = 0.006) and squat strength (WMD: 7.40 kg, 95% CI: 2.15–12.66, p = 0.006). Subgroup analysis revealed that the ergogenic effect on squat strength was predominantly observed when the intervention lasted ≤12 weeks, or when protein was ingested both around exercise (pre- and/or post-exercise) and before sleep. Meta-regression identified intervention duration as a significant moderator (p = 0.037) and protein timing as a borderline moderator (p = 0.073) of squat strength heterogeneity. Sensitivity analysis showed that the pooled effects remained significant and consistent in direction.ConclusionProtein supplementation combined with resistance training enhances muscle strength in young healthy adults, but its incremental bene…",
+      "authors": "Chenkun Zhang, Yahai Wang, Wenying Huang",
       "published": "Oct 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1937261",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1946052",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Editorial: Dietary transformations and health implications among migrant populations",
-      "abstract": "",
-      "authors": "Megan A. Carney, Abiodun T. Atoloye, Alyshia Gálvez",
+      "title": "Integrated metabolomic and transcriptomic analyses reveal tissue-specific distribution and gene-metabolite associations of quality-related metabolites in the Tibetan Plateau turnip landrace “Yushuyuangen” (Brassica rapa ssp. rapa)",
+      "abstract": "Yushuyuangen (Brassica rapa ssp. rapa) is a characteristic turnip landrace cultivated on the Qinghai–Tibet Plateau and valued for its nutritional and flavor qualities. However, the tissue-specific distribution of quality-related metabolites and the gene-expression patterns associated with their accumulation remain poorly understood. Here, metabolomics and transcriptomics were integrated with weighted gene co-expression network analysis (WGCNA) to investigate three root tissues in two varieties, YPW (purple-white) and YGW (green-white): the upper colored peel (purple in YPW and green in YGW), lower white peel, and root flesh. A total of 775 metabolites were identified, showing clear tissue-dependent metabolic differentiation. Sugar-phosphate intermediates and aromatic/aspartate-family amino acids accumulated mainly in root flesh (glucose-6-phosphate, fructose-6-phosphate, phenylalanine, and homoserine), whereas branched-chain amino acids were abundant in colored peel (valine and leucine). Purple peel accumulated higher levels of p-coumaric acid and ferulic acid, while flavonoids differed markedly between purple and green peel, represented by phloretin and diosmetin in purple peel and trifolin and kaempferol-7-O-glucoside in green peel. Integrated WGCNA and correlation analyses further identified tissue-associated relationships among metabolites, structural genes, and transcription factors. Four candidate transcription factor–structural gene–metabolite associations were highlighted: NAC22–F16P2.1–D-fructose-6-phosphate, bHLH65/ARFD4–TRBP2.2–L-tryptophan, MYB62/AGL63–PAL1.2/C4…",
+      "authors": "Caixia Li, Ruxue Qian, Quanhui Li et al.",
       "published": "Oct 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.2002042",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1980490",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Impact of a dietary intervention with French maritime pine bark extract (Pycnogenol®) on bone turnover markers in women with osteoporotic bone loss: a randomized, placebo-controlled double-blind study—Part I",
-      "abstract": "IntroductionOsteoporosis is a highly prevalent health concern both in terms of disability to an individual and costs to society. While antiresorptive drugs are the standard treatment, nutritional supplementation may offer additional advantages, particularly in the pre-therapeutic stage of osteopenia or clinically stable osteoporosis. The French maritime pine bark extract Pycnogenol® exhibits antioxidant and anti-inflammatory properties, but its influence on bone turnover has not been investigated in humans yet.MethodsIn this randomized, placebo-controlled, double-blind clinical trial, 67 women received either Pycnogenol® (100 mg twice daily; n = 33) or placebo (n = 34) during a 3-month placebo-controlled phase, followed by a 3-month active-treatment extension, in which all participants took Pycnogenol®. The primary endpoint included changes in the bone resorption marker C-terminal telopeptide of type I collagen (CTX-1) and bone formation marker procollagen type I N propeptide (P1NP) in serum. Secondary endpoints comprised other bone turnover markers (N-terminal telopeptide of type I collagen, NTX-1; tartrate-resistant acid phosphatase 5b, TRAP5b; bone sialoprotein, BSP), an inflammatory marker (interleukin-6, IL-6), the microbial metabolite 5-(3′,4′-dihydroxyphenyl)-γ-valerolactone (M1), and in vitro differentiation experiments with human mesenchymal stromal cells (hMSCs).ResultsWithin the Pycnogenol® group, serum CTX-1 levels were significantly reduced after both three (p = 0.0327) and 6 months (p = 0.0227) compared to baseline, while no between-group differences were obse…",
-      "authors": "Christian Scherg, Franca Genest, Jonas Maghary et al.",
+      "title": "Optimizing hydration in Chinese youth taekwondo athletes: evidence-based daily and training session-specific fluid intake recommendations",
+      "abstract": "BackgroundAdequate hydration is crucial for athletic performance and health, particularly in adolescent athletes with distinct physiological demands. Comprehensive data on the daily and training-specific hydration status of populations like Chinese youth taekwondo athletes remain limited, hindering evidence-based strategy development.ObjectiveThis study aimed to rigorously evaluate the daily and training session hydration status of taekwondo athletes in the Chinese youth team.MethodsThis study evaluated the daily and training session hydration status of 58 Chinese youth taekwondo athletes (30 males, 28 females; age 17.7 ± 2.2 years) over a 7-day period. Assessment included 24-h rehydration behavior, daily fluid intake surveys, and objective hydration indices (urine osmolality, specific gravity, sweat ion concentrations).ResultsA significant prevalence of suboptimal hydration, with 48.3% of athletes demonstrating persistent dehydration (defined as urine specific gravity >1.020 and urine osmolality ≥800 mOsm/kg) throughout the entire 7-day period. Median daily fluid intake for male athletes was 27.98 mL/kg BM, and for female athletes was 29.70 mL/kg BM; both values were below the daily fluid replacement volume of urine specific gravity ≤ 1.020 subjects for this athletic population. Training sessions significantly exacerbated dehydration, evidenced by elevated post-session urine specific gravity and osmolality of technical/tactical training session (P < 0.05), alongside substantial median body mass loss rate of 2.51% for technical/tactical, 2.16% for physical fitness, and 1.97…",
+      "authors": "Ge Song, Yue Chen, Jiaqi Li et al.",
       "published": "Oct 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1923949",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1923019",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Integrated metabolomic and single-cell analyses reveal crotonylation-related epithelial remodeling and SDC4 dysregulation in adenomyosis",
-      "abstract": "BackgroundAdenomyosis (AM) is characterized by ectopic endometrial invasion and myometrial fibrosis, yet the molecular links between local metabolic remodeling, lysine crotonylation (Kcr), and epithelial dysfunction remain poorly understood. We investigated the metabolic and crotonylation-related landscape of AM and sought to identify epithelial molecular features associated with these alterations.MethodsClinical metabolic profiles, public and newly generated tissue metabolomic data, crotonyl-CoA measurements, and tissue crotonylation assays were integrated with single-cell and bulk transcriptomic analyses. Kcr-related transcriptional patterns were characterized using multiple gene-set scoring approaches and co-expression analysis, followed by multi-algorithm feature prioritization. SDC4-associated epithelial states were further examined using trajectory inference, cell-cell communication analysis, transcription-factor prediction, and in silico perturbation.ResultsAdjusted clinical analyses showed no robust differences in circulating lipid profiles, whereas tissue-level metabolomic analyses revealed alterations in lipid- and lysine-related metabolites in AM. Crotonyl-CoA estimates were higher in AM tissue, accompanied by increased H3K18cr. A higher p65-associated Kcr signal was also observed in a single IP comparison; given that only one IP measurement was available per group, this finding should be considered a preliminary descriptive observation. Single-cell analyses identified prominent Kcr-related transcriptional patterns in epithelial cells and linked this state to adh…",
-      "authors": "Jiaxi Wang, Yue Li, Hongyu Zhang et al.",
+      "title": "Multidimensional characterization of vegetable breads using multisource intelligent sensory technologies and feature-level data fusion",
+      "abstract": "BackgroundFood sensory quality is multidimensional, and a single intelligent sensory technique cannot simultaneously characterize color, taste, and odor across multiple dimensions. Multisource intelligent sensory analysis combined with data fusion provides an approach for the objective characterization of multidimensional food sensory characteristics.MethodsControl bread (CK) and four vegetable breads prepared with pumpkin (PU), Pueraria thomsonii (PG), red pepper (RP), and celery (CE) were analyzed using an electronic eye, an electronic tongue, and an ultrafast gas chromatography electronic nose. These instruments provided color, taste-response, and volatile-compound information, respectively. Principal component analysis (PCA), differential-peak screening, and tentative assignment based on dual-column retention-index (RI) matching were used to compare characteristics among formulations. Principal components from each single-modality dataset were then retained for feature-level data fusion followed by PCA.ResultsThe vegetable juices produced distinct color, taste-response, and volatile-compound characteristics in the breads. The first three electronic-eye principal components explained 91.95% of the variance. PU was dominated by strong yellow and vivid yellow, RP showed a clear orange-yellow appearance, and CE retained a green hue. The first two electronic-tongue principal components explained 90.03% of the variance. PG showed relatively high umami and bitterness response indices, whereas CE showed a relatively high saltiness response index. The first five principal compon…",
+      "authors": "Yongfeng Jiang, Han Yang, Cuiying Jian et al.",
       "published": "Oct 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1917718",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1970901",
       "image": "",
       "screen": "right"
     },
@@ -969,7 +969,7 @@
       "venue": "Brain, Behavior, & Immunity - Health",
       "feedName": "Lab Research",
       "citationCount": 21,
-      "recentCitations": 1,
+      "recentCitations": 0,
       "quartile": null,
       "s2_paper_id": "e6bf6bc6dc39538aed6d5e9f0a2aad62f0702494",
       "url": "https://doi.org/10.1016/j.bbih.2024.100829",

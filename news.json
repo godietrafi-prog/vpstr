@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14T19:54:28Z",
+  "updated": "2026-10-14T22:55:59Z",
   "items": [
     {
       "title": "Refined crop modelling reveals intensifying impacts of droughts and heatwaves on global wheat productivity",
@@ -282,6 +282,16 @@
       "screen": "left"
     },
     {
+      "title": "Microplastic release from plastic tea bags versus bulk tea and migration of bisphenol A and plasticizer esters",
+      "abstract": "",
+      "authors": "Necla Pehlivan, Kenan Gedik",
+      "published": "Oct 2026",
+      "feedName": "npj Science of Food",
+      "url": "https://www.nature.com/articles/s41538-026-01175-x",
+      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01175-x/MediaObjects/41538_2026_1175_Fig1_HTML.png",
+      "screen": "left"
+    },
+    {
       "title": "Effects of packaging materials and storage temperature on the microbiological and physicochemical quality of garlic cloves during storage",
       "abstract": "",
       "authors": "Hany S. El-Mesery, Mansuur Husein, Zicheng Hu et al.",
@@ -309,16 +319,6 @@
       "feedName": "npj Science of Food",
       "url": "https://www.nature.com/articles/s41538-026-01194-8",
       "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01194-8/MediaObjects/41538_2026_1194_Fig1_HTML.png",
-      "screen": "left"
-    },
-    {
-      "title": "A miniaturized solid-phase extraction cartridge for DNA-based detection of food allergens",
-      "abstract": "",
-      "authors": "Carla Teixeira, Andrey Ipatov, Mariana Macedo et al.",
-      "published": "Oct 2026",
-      "feedName": "npj Science of Food",
-      "url": "https://www.nature.com/articles/s41538-026-01196-6",
-      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01196-6/MediaObjects/41538_2026_1196_Fig1_HTML.png",
       "screen": "left"
     },
     {
@@ -362,6 +362,16 @@
       "screen": "left"
     },
     {
+      "title": "A single carbon atom stitches flat molecules into 3D structures",
+      "abstract": "Flat is fine for a sheet of paper, but many of the most useful molecules need depth. Now, researchers from Japan have found a way to give them that depth using nothing more than a single carbon atom.",
+      "authors": "",
+      "published": "Oct 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-10-carbon-atom-flat-molecules-3d.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/one-atom-four-bonds-a.jpg",
+      "screen": "right"
+    },
+    {
       "title": "Superheavy-element compound reveals weaker-than-expected bond due to relativistic effects",
       "abstract": "An international collaboration led by a research group from GSI/FAIR in Darmstadt, Germany, has achieved the first measurement of the chemical stability of a superheavy element compound.",
       "authors": "",
@@ -389,16 +399,6 @@
       "feedName": "Phys.org Analytics",
       "url": "https://phys.org/news/2026-10-patterned-rays-3d-chemical-faster.html",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/new-x-ray-imaging-meth.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "A new way to replace carbon with nitrogen atoms could lead to better medicines",
-      "abstract": "When drugmakers want to improve on compounds they have already created, they can replace a carbon atom with a nitrogen atom. While effective, the techniques they use to perform this chemical swap, known as skeletal editing, have some downsides. For example, older approaches often require harsh chemicals or only work on specific types of molecules.",
-      "authors": "",
-      "published": "Oct 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-10-carbon-nitrogen-atoms-medicines.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/molecular-chemistry.jpg",
       "screen": "right"
     },
     {
@@ -849,7 +849,7 @@
       "venue": "Journal of the American Chemical Society",
       "feedName": "Lab Research",
       "citationCount": 26,
-      "recentCitations": 3,
+      "recentCitations": 0,
       "quartile": "Q1",
       "s2_paper_id": "e8f95caa1e8ece0c16f246b34ead0788c6d4b146",
       "url": "https://doi.org/10.1021/jacs.4c00625",

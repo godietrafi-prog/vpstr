@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14T14:50:54Z",
+  "updated": "2026-10-14T19:54:28Z",
   "items": [
     {
       "title": "Refined crop modelling reveals intensifying impacts of droughts and heatwaves on global wheat productivity",
@@ -362,6 +362,26 @@
       "screen": "left"
     },
     {
+      "title": "Superheavy-element compound reveals weaker-than-expected bond due to relativistic effects",
+      "abstract": "An international collaboration led by a research group from GSI/FAIR in Darmstadt, Germany, has achieved the first measurement of the chemical stability of a superheavy element compound.",
+      "authors": "",
+      "published": "Oct 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-10-superheavy-element-compound-reveals-weaker.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/chemical-bond-of-a-sup.jpg",
+      "screen": "right"
+    },
+    {
+      "title": "Enzyme discovery opens a new route to natural UV-absorbing saclipins",
+      "abstract": "Ultraviolet (UV)-absorbing compounds from natural sources are attracting interest as potential ingredients for cosmetics and other protective materials. Saclipins A and B are unusual UV-absorbing oxylipins produced by the edible freshwater cyanobacterium Aphanothece sacrum, known in Japan as Suizenji-nori. Although these compounds show promising UV-absorbing and other functional properties, their low natural abundance and poorly understood biosynthesis have limited efforts to use them more broadly.",
+      "authors": "",
+      "published": "Oct 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-10-enzyme-discovery-route-natural-uv.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/enzyme-discovery-opens.jpg",
+      "screen": "right"
+    },
+    {
       "title": "Patterned X-rays map 3D chemical structures faster with fewer measurements",
       "abstract": "Seeing inside an object is one thing; seeing exactly what it is made of, in three dimensions, is far more difficult. Now, researchers at Bar-Ilan University and collaborating institutions have developed a new X-ray imaging technique that can map the three-dimensional chemical composition of an object 43 times faster than conventional approaches, while using more than 97% less measurement data.",
       "authors": "",
@@ -379,26 +399,6 @@
       "feedName": "Phys.org Analytics",
       "url": "https://phys.org/news/2026-10-carbon-nitrogen-atoms-medicines.html",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/molecular-chemistry.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "Chemical surroundings, not size alone, help glucose-processing enzyme stay active as temperatures rise",
-      "abstract": "Cells must produce energy despite changing conditions. But what keeps metabolic enzymes functional during temperature fluctuations? A team led by professor Simon Ebbinghaus and Dr. Harshita Rastogi at Ruhr University Bochum and the Research Center for Chemical Sciences and Sustainability investigated this question using the platelet isoform of phosphofructokinase-1 (PFKP), a central enzyme in glucose metabolism.",
-      "authors": "",
-      "published": "Oct 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-10-chemical-size-glucose-enzyme-stay.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/robust-enzymes.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "Powerful X-rays reveal unexpected roles for water in enzymes linked to cancer and penicillin",
-      "abstract": "In biology, a group of enzymes called 2-oxoglutarate-dependent oxygenases is responsible for catalyzing a wide range of reactions that play a role in everything from how genetic code is used by cells to the synthesis of antibiotics.",
-      "authors": "",
-      "published": "Oct 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-10-powerful-rays-reveal-unexpected-roles.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/powerful-x-rays-reveal.jpg",
       "screen": "right"
     },
     {
@@ -828,8 +828,8 @@
       "published": "2026",
       "venue": "ACS Applied Materials and Interfaces",
       "feedName": "Lab Research",
-      "citationCount": 0,
-      "recentCitations": 0,
+      "citationCount": 1,
+      "recentCitations": 1,
       "quartile": "Q1",
       "s2_paper_id": "daeea6fa97917f764c7ad91e09d41dbb9652690e",
       "url": "https://doi.org/10.1021/acsami.6c07915",
@@ -848,8 +848,8 @@
       "published": "2024",
       "venue": "Journal of the American Chemical Society",
       "feedName": "Lab Research",
-      "citationCount": 25,
-      "recentCitations": 2,
+      "citationCount": 26,
+      "recentCitations": 3,
       "quartile": "Q1",
       "s2_paper_id": "e8f95caa1e8ece0c16f246b34ead0788c6d4b146",
       "url": "https://doi.org/10.1021/jacs.4c00625",

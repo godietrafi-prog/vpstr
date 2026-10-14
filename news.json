@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14T09:14:46Z",
+  "updated": "2026-10-14T14:50:54Z",
   "items": [
     {
       "title": "Refined crop modelling reveals intensifying impacts of droughts and heatwaves on global wheat productivity",
@@ -72,52 +72,52 @@
       "screen": "left"
     },
     {
-      "title": "Proteolysis and peptide release during in vitro digestion at infant conditions of bovine casein ingredients in comparison with human milk",
+      "title": "Engineering covalent organic frameworks for tailored encapsulation and controlled release of fragrances",
       "abstract": "",
-      "authors": "Mengjia Li, Katrine Munch Andresen, Tine Steen Dige Madsen et al.",
+      "authors": "Lulu Zhou, Yiping Yun, Xiaofan Zhang et al.",
       "published": "Dec 2026",
       "feedName": "Food Chemistry",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626037222?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626036642?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
     {
-      "title": "From ecology to edibility: defining microalgae-bacteria communities for safe food-grade production of microalgae",
+      "title": "Effects of processing and modification technologies on the structure and techno-functional properties of pea protein isolates",
       "abstract": "",
-      "authors": "Arpitha Chatchatnahalli Tharanath, Rocio Espinosa, Karthik Rajendra et al.",
-      "published": "Dec 2026",
+      "authors": "Tiantian Lin, William Anthony, Nagul Naguleswaran et al.",
+      "published": "Jan 2027",
       "feedName": "Trends in Food Sci & Tech",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426005261?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426005649?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
     {
-      "title": "Safe to scale? Food safety readiness in sustainable food innovation",
+      "title": "From sensing advances to package decisions: commercialization bottlenecks and implementation strategies for intelligent packaging indicators",
       "abstract": "",
-      "authors": "Bablu Kumar Dhar",
-      "published": "Dec 2026",
+      "authors": "Yuhong Xue, Xiaodong Zhai, Zhou Qin et al.",
+      "published": "Jan 2027",
       "feedName": "Trends in Food Sci & Tech",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426006114?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426006072?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
     {
-      "title": "Toward closing the loop: safe autonomy, validation, and trust in AI-driven nonthermal food processing",
+      "title": "Slaughterhouse waste-derived biopolymers for cultured meat production and packaging: A review of circular biomaterial valorization",
       "abstract": "",
-      "authors": "Muhammad Talha Afraz, Yuhuan Geng, Wenhao Xiao et al.",
-      "published": "Dec 2026",
+      "authors": "Shiv Dutt Purohit, Ruchir Priyadarshi, Peter R. Corridon",
+      "published": "Jan 2027",
       "feedName": "Trends in Food Sci & Tech",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426006254?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426006266?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
     {
-      "title": "The clean-label paradigm: innovative ingredients and emerging technologies for reduced-phosphate meat formulations",
+      "title": "FlavourGrams: A systematic approach to make aroma analysis inherently more sensory-meaningful",
       "abstract": "",
-      "authors": "Rodrigo Silveira de Albuquerque, Yago Alves de Aguiar Bernardo, Carlos Adam Conte-Junior",
+      "authors": "Roelant Hilgers, Hans-Gerd Janssen",
       "published": "Dec 2026",
       "feedName": "Trends in Food Sci & Tech",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426006278?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426006138?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -442,6 +442,16 @@
       "screen": "right"
     },
     {
+      "title": "Scientists reveal why some workout recovery tricks can backfire",
+      "abstract": "Ice baths, massages, compression garments, and recovery supplements promise faster muscle recovery, but research suggests their benefits are often overstated, and some techniques may even undermine long-term gains. Scientists say the most effective recovery methods are far simpler and cheaper: getting enough sleep, eating well, and giving muscles time to rebuild.",
+      "authors": "",
+      "published": "Oct 2026",
+      "feedName": "ScienceDaily Nutrition",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261013015805.htm",
+      "image": "https://www.sciencedaily.com/images/1920/athletic-man-workout-recovery-ice-bath.webp",
+      "screen": "right"
+    },
+    {
       "title": "Your gut bacteria could be changing how many calories you absorb",
       "abstract": "Scientists have developed a model showing that gut bacteria play a surprisingly important role in how many calories we absorb, meaning food labels may not tell the full story. In a controlled study, people eating a high-fiber diet absorbed about 116 fewer calories per day than those eating a typical Western diet, without feeling hungrier.",
       "authors": "",
@@ -472,42 +482,22 @@
       "screen": "right"
     },
     {
-      "title": "A plastic once thought harmless may be fueling fatty liver disease",
-      "abstract": "One of the world's most common plastics may pose a hidden threat to liver health. Texas A&M researchers discovered that polyethylene microplastics can contribute to fatty liver disease, with potentially worse effects when combined with an unhealthy diet. Even more surprising, this widely used plastic was previously considered relatively harmless.",
-      "authors": "",
-      "published": "Oct 2026",
-      "feedName": "ScienceDaily Nutrition",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261008102718.htm",
-      "image": "https://www.sciencedaily.com/images/1920/human-liver-organ-damage.webp",
-      "screen": "right"
-    },
-    {
-      "title": "Nutritional diversity and bioactive potential of thirteen wild edible insects in India: implications for sustainable food and nutrition security",
-      "abstract": "BackgroundEdible insects are increasingly recognized as sustainable alternative food resources owing to their high nutritional value, diverse bioactive compounds, and low environmental footprint. However, comprehensive nutritional characterization of many wild edible insect species remains limited. Therefore, this study evaluated the nutritional composition, amino acid and fatty acid profiles, bioactive properties, and multivariate nutritional relationships of 13 wild-harvested edible insect species traditionally consumed in Nagaland, India.MethodsProximate composition, total phenolic content, antioxidant content, amino acid composition, and fatty acid profiles were determined via standard analytical methods. Spearman’s correlation analysis, principal component analysis (PCA), and chord diagram visualization were employed to examine associations among nutritional variables and species-specific nutritional characteristics.ResultsAcross all 13 species, protein content ranged from 18.90 to 63.91%, while the lipid content varied from 4.31 to 35.08%. The total phenolic content ranged from 2.80 to 13.89 mg GAE g−1, and the antioxidant content ranged from 2.01 to 45.11 mg AAE g−1. Eight essential and nine nonessential amino acids were detected across all species, with leucine and proline as the predominant amino acids. Fatty acid profiling revealed myristic, palmitic, stearic, palmitoleic, oleic, and linoleic acids as the major fatty acids, with monounsaturated fatty acids constituting the dominant lipid fraction (46.28–56.90 μg 100 g−1), followed by saturated (29.69–42.50 μg100 g…",
-      "authors": "Lobeno Mozhui, L. N. Kakati, Neha Trivedi et al.",
+      "title": "D-allulose attenuates dyslipidemia, oxidative stress, and inflammation in high-fat-diet-induced metabolic dysfunction-associated steatotic liver disease in rats",
+      "abstract": "BackgroundMetabolic dysfunction-associated steatotic liver disease (MASLD) is a diet-related metabolic disorder characterized by hepatic lipid accumulation, dyslipidemia, insulin resistance, oxidative stress, and chronic inflammation, highlighting the need for safe nutritional interventions.AimThis study evaluated the antihyperlipidemic, antioxidant, and anti-inflammatory effects of D-allulose, alone or in combination with dorsomorphin, in a high-fat diet (HFD)-induced rat model of Metabolic dysfunction-associated steatotic liver disease (MASLD).MethodsForty-eight male Wistar rats were allocated to a control diet group, an HFD group, or an HFD group treated orally with D-allulose (0.3 or 0.6 g/kg) with or without dorsomorphin (0.2 mg/kg) orally for 12 weeks. Omnibus 𝑝-values for the 22 biochemical endpoints were subjected to a retrospective Benjamini–Hochberg false-discovery-rate sensitivity analysis.ResultsHFD feeding induced weight gain, dyslipidemia, hepatic injury, oxidative stress, inflammation, and hyperinsulinemia. D-allulose dose-dependently ameliorated these disturbances, reducing atherogenic lipids, lipid peroxidation, inflammatory cytokines, and insulin while improving antioxidant status. Notably, TG decreased from 164.51 mg dL−1 in HFD rats to 113.52 and 99.43 mg dL−1 with low- and high-dose D-allulose, respectively, while LDL-C decreased from 86.45 to 53.19 and 49.24 mg dL−1; HDL-C remained unchanged. D-allulose also attenuated HFD-induced hepatic steatosis, degeneration, necrosis, inflammation, and early fibrosis, and this histological protection was maintaine…",
+      "authors": "Sami O. Almutairi, Abu ElGasim A. Yagoub, Hassan Barakat",
       "published": "Oct 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1942254",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1982241",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Dietary intake and nutritional profiles characterize patients with Inflammatory Bowel Disease from Argentina",
-      "abstract": "BackgroundDiet is increasingly recognized as a modifiable determinant of Inflammatory Bowel Disease (IBD) onset and progression, including patients with Ulcerative Colitis (UC) and Crohn’s Disease (CD); however, comprehensive nutritional characterization of these populations in Latin America remains scarce.ObjectivesTo evaluate dietary intake and nutritional profiles among healthy individuals and IBD patients, focusing on fiber intake and the food-source distribution of dietary tryptophan, and to assess differences according to disease phenotype and activity.MethodsAn observational cross-sectional study recruited 14 healthy individuals, 15 UC patients, and 10 CD patients at the Hospital Privado Universitario de Córdoba, Argentina. Dietary intake was assessed using a prospective seven-day food record analyzed with Nutrio V2.1 software and energy-adjusted by the Willett residual method. Plasma tryptophan was measured by validated HPLC and disease activity by the Mayo score (UC) or the Harvey-Bradshaw index (CD).ResultsNo significant differences were observed in total energy, macronutrient, or tryptophan intake between groups. In univariate exploratory analyses, weekly consumption frequency was lower than in healthy individuals for cheese in both UC (p = 0.017) and CD (p = 0.012), and for whole cereals (p = 0.010) and hot beverages (p = 0.003) in UC. The relative contribution of specific food groups to total dietary tryptophan also differed, being lower for cheese in CD (p = 0.037) and for whole cereals in UC (p = 0.008), and higher for meat in UC (p = 0.031). Dietary fiber in…",
-      "authors": "Victoria Lambert, Leonela Tantucci, Dafne Cabrera et al.",
+      "title": "Reciprocal modulation between beef protein and wine phenolics during in vitro co-digestion: a proposed ternary complex-mediated mechanism modulated by cooking technique",
+      "abstract": "BackgroundBeef and red wine form a classic dietary combination, yet how their components reciprocally influence each other during digestion remains unclear.MethodsThis study co-digested steamed, boiled and grilled beef with red wine using the INFOGEST 2.0 in vitro digestion model, combined with molecular docking, to investigate bidirectional modulation between beef proteins and wine phenolics.ResultsWine co-digestion suppressed gastric carbonyl formation by 21.5%−30.8% and preserved free sulfhydryl groups by 27.7%−50.5% across cooking methods. Two-way analysis of variance indicated significant cooking × wine interactions for protein oxidation and amino acid release. The largest improvement occurred in grilled beef, whose gastric digestibility and intestinal amino acid content increased by 20.9% and 67.2%, respectively. Docking simulations predicted that selected phenolics bound to myosin heavy chain and pepsin through hydrogen bonding and hydrophobic interactions, supporting a proposed phenolics-pepsin-myosin ternary complex that may strengthen enzyme-substrate association. Reciprocally, the beef matrix enhanced ABTS antioxidant activity by 24.9% (gastric) and 125.3% (intestinal) relative to wine alone, and was associated with selective phenolic regulation: gastric gallic acid increased by up to 135.7%, whereas intestinal epicatechin and resveratrol rose up to 3.5- and 11.6-fold, respectively.ConclusionThese findings support the proposed ternary complex as a plausible molecular hub governing protein–phenolic reciprocity, providing a proposed mechanistic basis for optimizing…",
+      "authors": "Ziruo Sun, Shaoyun Xing, Weixiang Tang et al.",
       "published": "Oct 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1913858",
-      "image": "",
-      "screen": "right"
-    },
-    {
-      "title": "Comparative study of in vitro digestibility and antioxidant activities of whey from different milks",
-      "abstract": "IntroductionWhey proteins, a protein-rich by-product of milk, contribute to various biological benefits. These bioactivities play an important role in human health and can be enhanced when whey proteins are digested, yet the digestion of whey proteins from different animal species under standardized protocols of in vitro digestion and its effect on antioxidant activity remain insufficiently characterized. This work aims to compare the digestibility and antioxidant activities of whey from the milk of different animal species: cameline, bovine, ovine, caprine, and equine.MethodsMilk samples from the five species were coagulated to obtain whey. The whey proteins were digested with pepsin and pancreatin in an in vitro process that mimics digestion in the gastrointestinal tract. Physicochemical parameters, protein profiles (SDS‑PAGE), peptide concentration, degree of hydrolysis (DH), and antioxidant activities were analyzed to assess inter‑species differences.Results and discussionAfter milk coagulation, a slight increase in pH values was observed in all whey samples. The maximum peptide concentration was observed in the digested ewe whey, while digested mare whey showed the lowest. Camel whey has the highest content of sodium, potassium, zinc and iron, while goat whey has the highest concentration of copper and ewe whey has the highest concentration of calcium. The SDS-PAGE profiles showed that all five milk types had an identical protein profile, with the exception of camel whey, which was characterised by the absence of β-lactoglobulin (β-Lg) and the presence of two different…",
-      "authors": "Meriem Ben Yagoub, Zeineb Jrad, Olfa Oussaeif et al.",
-      "published": "Oct 2026",
-      "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1896587",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1967708",
       "image": "",
       "screen": "right"
     },
@@ -518,6 +508,16 @@
       "published": "Oct 2026",
       "feedName": "Frontiers Nutrition",
       "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1987519",
+      "image": "",
+      "screen": "right"
+    },
+    {
+      "title": "Mediterranean diet adherence, social media use, and anxiety symptoms: an exploratory cross-sectional pilot survey",
+      "abstract": "BackgroundAnxiety and depressive symptoms are common, and dietary patterns have been proposed as a modifiable influence on them. The majority of the evidence rests on composite adherence indices such as the Mediterranean Diet Adherence Screener (MEDAS), which sums its components as if they all contributed equally and addresses depression more often than anxiety. Whether individual dietary components relate to symptoms independently of the composite index has rarely been tested, and rarely alongside social media use, a further exposure proposed to shape both diet and mood.MethodsAn anonymous online survey in English, Spanish, and Russian was completed by 115 adults aged 18 to 65 years with no previous diagnosis of mental illness, comprising a 14-item modified Mediterranean Diet Score (mMEDS), the Hospital Anxiety and Depression Scale (HADS), and questions on daily time spent on Instagram, Facebook, and Twitter/X. Four primary hypotheses tested the associations of olive oil intake and red and processed meat intake with each HADS subscale; all other comparisons were exploratory. The Benjamini–Hochberg correction was applied within each family. Effect sizes are reported with bootstrap 95% confidence intervals. The primary comparisons were additionally adjusted for sex, age band, and educational level.ResultsAll four primary estimates lay in the hypothesized direction. Higher olive oil intake was associated with lower anxiety scores (r = −0.249, 95% CI − 0.448 to −0.050, p = 0.021), and restricted red and processed meat intake was associated with lower anxiety and depression sco…",
+      "authors": "Piotr Religa, Michel-Edwar Mickael, Norwin Kubick et al.",
+      "published": "Oct 2026",
+      "feedName": "Frontiers Nutrition",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1883903",
       "image": "",
       "screen": "right"
     },

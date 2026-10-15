@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T14:54:11Z",
+  "updated": "2026-10-15T19:47:04Z",
   "items": [
     {
       "title": "Refined crop modelling reveals intensifying impacts of droughts and heatwaves on global wheat productivity",
@@ -202,22 +202,22 @@
       "screen": "left"
     },
     {
-      "title": "Preparation and characterization of corn starch-based food packaging films: effects of thymol essential oil and ZnO nanoparticles on physicochemical, mechanical, barrier, thermal, and antimicrobial properties",
-      "abstract": "Conventional petroleum-based food packaging materials pose significant environmental challenges due to their non-biodegradable nature, highlighting the need for sustainable alternatives with enhanced functional properties. Therefore, this study aimed to develop biodegradable corn starch-based composite films incorporated with varying concentrations of thymol essential oil (0.1, 0.2, and 0.3 wt% of corn starch) and ZnO nanoparticles (5, 16, 28, and 33 wt% of corn starch) and to evaluate their physicochemical, structural, thermal, and antimicrobial properties. The films were characterized using thermogravimetric analysis (TGA), scanning electron microscopy (SEM), X-ray diffraction (XRD), and other physicochemical analyses, while their antimicrobial activity against Staphylococcus aureus was also investigated. The results demonstrated that ZnO nanoparticles significantly enhanced the thermal stability and crystallinity of the corn starch films, whereas thymol essential oil markedly improved their antimicrobial activity. Among all formulations, the film containing 0.3 wt% thymol and 28 wt% ZnO nanoparticles exhibited the well-balanced performance, showing improved mechanical strength, reduced water vapor permeability, enhanced structural integrity, and effective antimicrobial activity. The incorporation of thymol and ZnO nanoparticles also influenced the films’ thickness and optical properties, indicating successful modification of the starch matrix. These findings demonstrate that thymol- and ZnO nanoparticle-reinforced corn starch films are promising biodegradable materials f…",
-      "authors": "Annie Fatima, Faizan Ahamd, Pir Mohammad Junaid",
-      "published": "Oct 2026",
-      "feedName": "Frontiers Food Science",
-      "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.1922246",
-      "image": "",
-      "screen": "left"
-    },
-    {
       "title": "Valorisation of Stichopus fusiformiossa body wall with high-pressure-induced endogenous proteolysis",
       "abstract": "Collagen-rich marine biomass is a promising source of proteins, peptides, and glycosaminoglycans, but their recovery is constrained by the dense extracellular matrix. This study evaluated high-pressure processing as a short-duration, non-thermal strategy for systematically disassembling the mutable collagenous tissue of Stichopus fusiformiossa and promoting endogenous biotransformation without added water or exogenous enzymes. Body-wall homogenates were treated at 100–600 MPa for 10 min and analysed for recoverable protease activity, protein solubilisation, TCA-soluble peptide-reactive material, sulfated glycosaminoglycans, residual-matrix structure, antioxidant capacity, and pancreatic α-amylase inhibition. HPP increased protease activity from ∼6.3 to 36.9 U/g and soluble protein from ∼46 to 59 mg/g. The TCA-soluble fraction and soluble glycosaminoglycans were maximal at 400 MPa, indicating pressure-dependent matrix mobilisation. FTIR and two-dimensional electrophoresis showed conformational and compositional changes in the residual insoluble collagen-rich fraction, consistent with altered protein partitioning rather than definitive proteome remodelling. Radical-scavenging capacity increased to ∼10.2 μmol Trolox equivalents/g, phenolic compounds to ∼7.1 mg gallic acid equivalents/g, and pancreatic α-amylase inhibition to ∼55%. Collectively, the results support an HPP-associated mechanism involving matrix restructuring, increased endogenous protease accessibility, and mobilisation of functional constituents, establishing HPP as a promising non-thermal valorisation strategy …",
       "authors": "Aimi Zafirah Kamaruddin, Annette Jaya-Ram, Sau Pinn Woo et al.",
       "published": "Oct 2026",
       "feedName": "Frontiers Food Science",
       "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.1955019",
+      "image": "",
+      "screen": "left"
+    },
+    {
+      "title": "Preparation and characterization of corn starch-based food packaging films: effects of thymol essential oil and ZnO nanoparticles on physicochemical, mechanical, barrier, thermal, and antimicrobial properties",
+      "abstract": "Conventional petroleum-based food packaging materials pose significant environmental challenges due to their non-biodegradable nature, highlighting the need for sustainable alternatives with enhanced functional properties. Therefore, this study aimed to develop biodegradable corn starch-based composite films incorporated with varying concentrations of thymol essential oil (0.1, 0.2, and 0.3 wt% of corn starch) and ZnO nanoparticles (5, 16, 28, and 33 wt% of corn starch) and to evaluate their physicochemical, structural, thermal, and antimicrobial properties. The films were characterized using thermogravimetric analysis (TGA), scanning electron microscopy (SEM), X-ray diffraction (XRD), and other physicochemical analyses, while their antimicrobial activity against Staphylococcus aureus was also investigated. The results demonstrated that ZnO nanoparticles significantly enhanced the thermal stability and crystallinity of the corn starch films, whereas thymol essential oil markedly improved their antimicrobial activity. Among all formulations, the film containing 0.3 wt% thymol and 28 wt% ZnO nanoparticles exhibited the well-balanced performance, showing improved mechanical strength, reduced water vapor permeability, enhanced structural integrity, and effective antimicrobial activity. The incorporation of thymol and ZnO nanoparticles also influenced the films’ thickness and optical properties, indicating successful modification of the starch matrix. These findings demonstrate that thymol- and ZnO nanoparticle-reinforced corn starch films are promising biodegradable materials f…",
+      "authors": "Annie Fatima, Faizan Ahamd, Pir Mohammad Junaid",
+      "published": "Oct 2026",
+      "feedName": "Frontiers Food Science",
+      "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.1922246",
       "image": "",
       "screen": "left"
     },
@@ -232,12 +232,12 @@
       "screen": "left"
     },
     {
-      "title": "From solar heat to digital drying: integrating computational fluid dynamics, process optimisation, and digital twins for sustainable tuber-chip drying",
-      "abstract": "Root and tuber crops such as cassava, yam, and sweet potato are central to tropical food systems but remain highly vulnerable to postharvest deterioration because of their high moisture content. Solar drying offers a renewable route to stabilisation, yet practical performance is constrained by fluctuating weather, non-uniform airflow, spatial temperature and humidity gradients, product loading, and strong coupling between external convection and internal moisture transport. This structured narrative mini-review, informed by SANRA and PRISMA reporting principles, synthesises evidence on active solar drying, computational fluid dynamics (CFD), experimental validation, response-surface and multi-objective optimisation, artificial intelligence (AI), sensor systems, and digital twins for tuber-chip processing. Six databases were searched, sources were screened against explicit eligibility criteria, and each of the 45 cited sources was classified by its relationship to tuber-chip drying so that tuber-specific evidence is separated from evidence transferred from other foods and dryer types. Only 12 of the 45 sources were tuber-specific; they concentrate on yam drying kinetics, cassava dryer performance, and one integrated machine-learning and 4E study of sweet-potato solar drying. CFD validation, robust optimisation, surrogate modelling, and digital-twin architectures are, in the evidence assembled, largely transferred from other products or from unloaded or non-tuber systems. Reported effective moisture diffusivities for yam span roughly 6.4 × 10−9 to 1.6 × 10−7 m2 s-1 (up to 4.2…",
-      "authors": "Chinyere Nneoma Ugwu",
+      "title": "Tailoring soy protein isolate–alginate double emulsion composite gel microcapsules for cheese-like texture and probiotic protection in plant-based cheese analogues",
+      "abstract": "While the market for plant-based dairy alternatives is expanding rapidly, most products mainly focus on the sensory attributes of traditional dairy items and lack functional fortification, such as the incorporation of probiotic bacteria. The objective of this study was to develop and characterize novel water-in-oil-in-water (W/O/W) double emulsion-based gelled microcapsules for Lactobacillus rhamnosus GG (LRGG) using a soy protein isolate (SPI) (3.0%–6.0% w/w) and sodium alginate (SA) (0.5%–2.0% w/w) composite with Ca2+ cross-linking, aiming to tailor and customize the microcapsules for cheese-like textural characteristics from spread to semi-hard types, while preserving probiotic viability for incorporation into plant-based cheese analogues. Using Response Surface Methodology (RSM) under a 32 full factorial design with center-point replication, the complex interactions between the wall materials and their effects on physical, textural, and functional properties were systematically evaluated. The results revealed that SA concentration strongly enhanced bulk firmness and particle size (D50) through robust calcium cross-linking. In contrast, SPI played a crucial role in providing protection against simulated gastrointestinal fluids during digestion testing. Ultimately, this study demonstrates that the SPI-SA system bridges the gap between macroscopic structural integrity and biological viability, providing a tunable structural base for probiotic-fortified plant-based cheese analogues.",
+      "authors": "Toshifumi Udo, Ethan He, Gopinath Mummaleti et al.",
       "published": "Oct 2026",
       "feedName": "Frontiers Food Science",
-      "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.1985752",
+      "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.1972949",
       "image": "",
       "screen": "left"
     },
@@ -282,6 +282,16 @@
       "screen": "left"
     },
     {
+      "title": "Preventive mechanisms of Potentilla longifolia against MASLD based on chemical profiling, network pharmacology, and metabolomics",
+      "abstract": "",
+      "authors": "Shengxi Lin, Liqiu Zhang, Zimo Wang et al.",
+      "published": "Oct 2026",
+      "feedName": "npj Science of Food",
+      "url": "https://www.nature.com/articles/s41538-026-01193-9",
+      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01193-9/MediaObjects/41538_2026_1193_Fig1_HTML.png",
+      "screen": "left"
+    },
+    {
       "title": "Microplastic release from plastic tea bags versus bulk tea and migration of bisphenol A and plasticizer esters",
       "abstract": "",
       "authors": "Necla Pehlivan, Kenan Gedik",
@@ -312,13 +322,13 @@
       "screen": "left"
     },
     {
-      "title": "Comparative metabolomic characterization of secondary metabolites in Gnaphalium affine D. Don considering the influence of growth stages and cultivation systems",
+      "title": "Self-supervised learning for crop yield prediction across diversified cropping systems",
       "abstract": "",
-      "authors": "Sujin Hong, Han Gyeol Lee, Seon Min Oh et al.",
-      "published": "Oct 2026",
-      "feedName": "npj Science of Food",
-      "url": "https://www.nature.com/articles/s41538-026-01194-8",
-      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01194-8/MediaObjects/41538_2026_1194_Fig1_HTML.png",
+      "authors": "Stefan Stiller, Kathrin Grahmann, Masahiro Ryo",
+      "published": "",
+      "feedName": "AI in Agriculture",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2589721726001248?dgcid=rss_sd_all",
+      "image": "",
       "screen": "left"
     },
     {
@@ -348,16 +358,6 @@
       "published": "",
       "feedName": "AI in Agriculture",
       "url": "https://www.sciencedirect.com/science/article/pii/S2589721726001121?dgcid=rss_sd_all",
-      "image": "",
-      "screen": "left"
-    },
-    {
-      "title": "Deep learning-based multi-view perception and adaptive grasp pose correction for cooperative dual-arm fruit harvesting under occlusion",
-      "abstract": "",
-      "authors": "Jeongil Seo, Han Ul Yoon, KwangEun Ko",
-      "published": "",
-      "feedName": "AI in Agriculture",
-      "url": "https://www.sciencedirect.com/science/article/pii/S2589721726001133?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -482,42 +482,42 @@
       "screen": "right"
     },
     {
-      "title": "A scoping review of microbiological safety, bioactive components, nutrient retention, and feasibility of flash-heating expressed breastmilk: exploring potential use during infectious disease outbreaks",
-      "abstract": "IntroductionInfectious disease outbreaks can disrupt breastfeeding due to concerns about pathogen transmission through close contact or breastmilk. In these contexts, infants are often fed commercial milk formula or other breastmilk substitutes despite their known risks, which are exacerbated in low-resource settings. Existing technologies to inactivate pathogens in human milk, such as holder and high-temperature short-time (HTST) pasteurization, require specialized equipment and may not be feasible in emergency settings. Flash-heating (FH) is a low-cost, household-level alternative that approximates HTST conditions and can inactivate pathogens while preserving key nutritional and immunological components. This review examines the evidence on FH as a potential method for pasteurizing expressed breastmilk during infectious disease outbreaks.MethodsThis scoping review followed the Joanna Briggs Institute guidelines and the PRISMA-ScR checklist. Searches were performed in PubMed, Scopus, CINAHL, Embase, and Web of Science, supplemented by grey literature and forward citation searching. Studies on FH of expressed human milk were included if they evaluated on (1) microbiological safety, (2) preservation of nutritional and immunological components, and (3) feasibility in low-resource and outbreak settings. Two independent reviewers screened studies and extracted data using Covidence, and the evidence were descriptively synthesized.ResultsA total of 24 studies published between 2005 and 2025 were included. FH is effective in inhibiting growth of a range of bacterial and viral path…",
-      "authors": "Helen Natalia, Carolina Guzman, Bindi Borg et al.",
+      "title": "Association between serum 25-hydroxyvitamin D₃ and retinol in Chinese children (2019–2023): an isoform-specific cross-sectional analysis",
+      "abstract": "BackgroundChina’s national pediatric supplementation program exclusively uses vitamin D₃ (cholecalciferol). Yet, the association between circulating 25-hydroxyvitamin D₃ [25(OH)D₃] and retinol in Chinese children has not been fully characterized with isoform-specific assays in a large, temporally expanded cohort. This study aimed to characterize the non-linear dose–response relationship between serum 25(OH)D₃ and retinol and to examine how this association varies across demographic and seasonal strata.MethodsWe retrospectively analyzed 6,774 children aged 0–10 years who underwent routine health surveillance across 22 community centers in Ningbo, China (2019–2023). Serum 25(OH)D₃ was resolved separately from D₂ by liquid chromatography–tandem mass spectrometry. Restricted cubic splines (RCS), multivariable linear regression, and bootstrap-validated (n = 1,000) non-linear modeling were used to characterize the D₃–retinol association. Subgroup analyses by sex, age, season, and D₃ stratum were visualized using forest plots.ResultsMean serum 25(OH)D₃ was 30.9 ± 11.1 ng/mL and mean retinol was 272.5 ± 80.6 ng/mL. A significant non-linear, saturable relationship was evident (p-overall < 0.001; p-non-linearity < 0.001). In the lower repletion range, each 1 ng/mL increment in D₃ corresponded to a 3.16 ng/mL rise in retinol (95% CI: 2.66–3.65; p < 0.001); as D₃ increased, the slope progressively attenuated to 1.80 (95% CI: 1.46–2.15; p < 0.001) but remained positive. Bootstrap resampling confirmed a stable transition zone centered at 28.7 ng/mL (95% CI: 26.4–31.2). The association wa…",
+      "authors": "Yue Bi, Jiaxing Yi, Qiao Wang et al.",
       "published": "Oct 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1926806",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1985336",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Culinary medicine as a new paradigm integrating clinical nutrition and medical practice: a narrative review",
-      "abstract": "Culinary medicine is an emerging interdisciplinary field that integrates nutrition science, culinary practice, behavioral support, and medical care to translate dietary recommendations into feasible meals and sustainable eating behaviors. This narrative review examines its conceptual scope, plausible mechanisms, clinical and educational applications, implementation models, and future research priorities. Culinary medicine differs from general culinary education by linking food preparation skills to evidence-based nutritional and clinical goals. It complements medical nutrition therapy, precision nutrition, and Food-is-Medicine interventions by providing the practical competencies required to select, plan, prepare, and consume meals consistent with individualized recommendations. Its potential effects operate through interrelated behavioral and physiological pathways. Hands-on culinary education may strengthen cooking self-efficacy, food skills, dietary adherence, and nutrition-related self-management. Cooking methods and food combinations may also modify protein and starch digestibility, advanced glycation end-product formation, nutrient bioavailability, postprandial metabolic responses, and microbial fermentation. Current applications include health professional education, interprofessional training, teaching kitchens, disease-specific nutrition programs, community-based interventions, and virtual or hybrid delivery. Existing evidence more consistently supports improvements in cooking confidence, self-efficacy, dietary behavior, and self-management than sustained changes i…",
-      "authors": "Hyung Gyu Park, Hyunjung Lim",
+      "title": "Uric acid-to-HDL-cholesterol ratio and incident carotid atherosclerosis: a retrospective cohort study",
+      "abstract": "BackgroundThe uric acid-to-HDL-cholesterol ratio (UHR) has been proposed as a composite cardiometabolic biomarker, but prospective evidence linking UHR to incident carotid atherosclerosis remains limited.MethodsIn a retrospective cohort of 16,572 adults from a tertiary health examination center in Zhejiang, China, we examined the association between baseline UHR and incident carotid artery lesions using Cox proportional hazards regression. Incremental predictive performance was evaluated using C-statistic, integrated discrimination improvement, continuous net reclassification improvement, median improvement in individual predicted event probabilities, and decision curve analysis.ResultsOver a mean follow-up of 2.7 years, 4,454 incident events occurred. Each 1-SD increment in baseline UHR was independently associated with a 6% higher hazard of incident carotid artery lesions (HR 1.06, 95% CI 1.01–1.11; p = 0.015). In exploratory sex-stratified analyses, the association was statistically significant in males (HR 1.07, 95% CI 1.02–1.12; p = 0.010) but not in females (HR 0.98, 95% CI 0.93–1.04; p = 0.524), though the formal interaction test was not significant (p = 0.261). UHR did not improve discrimination (ΔC = 0.0003) or net clinical benefit despite significant changes in individual predicted event probabilities in males (p = 0.008).ConclusionHigher baseline UHR was independently associated with short-term carotid atherosclerotic progression. Exploratory analyses suggested a possible sex difference, but this requires confirmation in adequately powered studies. While UHR prov…",
+      "authors": "Hezhi Wen, Kaiyang Shao, Yaling Li et al.",
       "published": "Oct 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1963264",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1951708",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Correction: The effects of magnesium L-threonate (Magtein®) on cognitive performance and sleep quality in adults: a randomised, double-blind, placebo-controlled trial",
-      "abstract": "",
-      "authors": "Adrian L. Lopresti, Stephen J. Smith",
+      "title": "Dietary frequency, body satisfaction, anxiety symptoms, and depressive symptoms among offspring of healthcare workers in China",
+      "abstract": "BackgroundDietary behaviors may be associated with body image and emotional health in young people, but evidence integrating these outcomes in Chinese populations remains limited. This study examined associations of dietary frequency with body satisfaction, anxiety symptoms, and depressive symptoms.MethodsThis cross-sectional study included 584 offspring of healthcare workers aged 10–24 years in Zhejiang, China. A 10-item food-frequency questionnaire generated a frequency-based score reflecting more frequent consumption of meat, fish, vegetables, fruit, eggs, soy products, and dairy products and less frequent consumption of pickled, sugary, and fried foods. Multivariable logistic regression and restricted cubic splines were used to assess associations and dose–response patterns. Counterfactual mediation analysis estimated indirect associations through body satisfaction.ResultsThe proportions screening positive for anxiety and depressive symptoms were 23.1 and 33.6%, respectively. In fully adjusted models, higher dietary frequency scores were associated with higher odds of body satisfaction (OR = 1.21, 95% CI: 1.02–1.44) and lower odds of anxiety (OR = 0.65, 95% CI: 0.52–0.79) and depressive symptoms (OR = 0.84, 95% CI: 0.70–0.99). Restricted cubic spline analyses indicated approximately linear associations, with no evidence of nonlinearity. For each 1-SD increase in the dietary frequency score, indirect associations through higher body satisfaction were observed for anxiety (OR = 0.97, 95% CI: 0.93–0.99; 6.8%) and depressive symptoms (OR = 0.96, 95% CI: 0.92–0.99; 17.3%).Co…",
+      "authors": "Tingke Xu, Rongxiu Ding, Chao Lin et al.",
       "published": "Oct 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.2010644",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1908874",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Association between social media use, social appearance anxiety, and eating disorder risk in adolescents",
-      "abstract": "IntroductionThis study aimed to examine the relationships between social media use and social appearance anxiety, eating behavior, and eating disorders in adolescents.MethodsIn this study, a questionnaire including the social media use scale, social appearance anxiety scale, and eating disorder assessment questionnaire-short form was administered face-to-face to 309 adolescents.ResultsIn total, 47.2% of participants were girls and 52.8% were boys, with an average age of 16.0 ± 0.9 years. The most commonly used social media applications are WhatsApp (83.2%) and Instagram (81.2%). The mean social appearance anxiety score of the girls (38.1 ± 16.8) was higher than that of the boys (30.8 ± 13.9). There was a positive relationship between social appearance anxiety and continuity of social media use, as well as the risk of eating disorders (p < 0.05). There was also a positive relationship between social media use continuity and the risk of eating disorders (p < 0.05). The continuous use of social media increased the likelihood of social appearance anxiety (β = 0.963, 95% CI: 0.520–1.406); increased anxiety about social appearance was associated with a higher likelihood of developing an eating disorder (β = 0.068, %95 CI: 0.053–0.083) (p < 0.05).ConclusionIncreased social media use in adolescents is associated with higher levels of social appearance anxiety and an increased risk of eating disorders. Educating adolescents about social media use may help reduce the incidence of eating disorders.",
-      "authors": "Gülin Öztürk Özkan, Melis Nur Yüce, Beyza Karagöl",
+      "title": "Nutritional literacy profiles and their association with dietary motivation in adolescents with chronic kidney disease",
+      "abstract": "ObjectiveTo explore potential categories of nutritional literacy among adolescents with chronic kidney disease and differences in dietary motivations across these categories.MethodsThis cross-sectional study included 433 adolescents with chronic kidney disease treated in the pediatric department of a tertiary hospital between March and September 2025. Latent profile analysis identified nutrition literacy profiles, and dietary motivation scores were compared across profiles. Multinomial logistic regression examined associations between participant characteristics and profile membership, using the moderate-literacy profile as the reference. Adjusted odds ratios and 95% confidence intervals were reported.ResultsNutritional literacy among adolescents with chronic kidney disease can be divided into three latent categories: Category 1 is the “high nutrition literacy” comprising 159 participants (36.8%); Category 2 is the “moderate nutrition literacy” comprising 95 participants (21.9%); Category 3 is the “low nutrition literacy” comprising 179 participants (41.3%). Comparisons of total dietary motivation scores among adolescents with chronic kidney disease in different nutritional literacy categories revealed statistically significant differences (p < 0.05). Logistic regression analysis results indicated that gender, being an only child, monthly income, and method of medical payment were independent factors influencing the latent categories of nutritional literacy among adolescents with chronic kidney disease (p < 0.05).ConclusionThere is heterogeneity in nutritional literacy amon…",
+      "authors": "Shuo Bai, Jiwei Qi, Wuyue Xu et al.",
       "published": "Oct 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1812469",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1965268",
       "image": "",
       "screen": "right"
     },
@@ -609,7 +609,7 @@
       "venue": "Food and Bioprocess Technology",
       "feedName": "Lab Research",
       "citationCount": 6,
-      "recentCitations": 0,
+      "recentCitations": 2,
       "quartile": "Q1",
       "s2_paper_id": "034d8c4f0c0f5607a4e6727360aa5d7287e60d5b",
       "url": "https://doi.org/10.1007/s11947-025-03873-y",
@@ -799,106 +799,6 @@
       "researcher": {
         "name": "Loai Basheer",
         "photo": "media/photos/loai_basheer.png"
-      }
-    },
-    {
-      "title": "Dictated cell adhesion and migration using microfluidic-controlled synthetic hydrogels exhibiting programmable viscoelasticities.",
-      "abstract": "Mechanosensing interactions between the extracellular matrix (ECM) and the intracellular cytoskeleton are fundamental to cellular functions such as motility, proliferation, and adhesion, driven by the dynamic, bidirectional, tension-regulated maturation of focal adhesion (FA) sites. We demonstrate that native mechanosensing interactions and their downstream functions are precisely controlled using synthetic hydrogels. We introduce a microfluidic-assisted synthesis of imine-crosslinked hyaluronic acid-gelatin copolymer hydrogels (HAG), enabling controlled, predefined gradient viscoelasticity. Specifically, three native tissues (muscle, epidermis, and cartilage)-mimicking HAG hydrogels were prepared, matching their effective Young's modulus (Ymod) and stress relaxation time (τ1/2). Enhanced cell spreading and directional cell migration are observed, with a preference for substrates with tissue-matching viscoelasticity. These mechanosensing reactions are confirmed by traction force microscopy, revealing a tight correlation between native tissue mechano-properties and the hydrogel viscoelastic parameters. We demonstrate that the signaling efficacies of the FAK and associated YAP/TAZ pathways, central regulators of FA formation and cell migration, are tuned by substrate tissue-matching viscoelasticity. We implement these preprogrammed viscoelastic gradient hydrogels as spatiotemporal cell-separation matrices, enabling viscoelasticity-driven migration of binary cell mixtures. This work provides a potent platform for studying cell-material interactions, offering significant potent…",
-      "authors": "Haochen Yang, Ziyuan Li, Gilad Davidson-Rozenfeld et al.",
-      "published": "2026",
-      "venue": "Journal of materials chemistry. B",
-      "feedName": "Lab Research",
-      "citationCount": 1,
-      "recentCitations": 0,
-      "quartile": "Q1",
-      "s2_paper_id": "1d4f87214f79048150a17cc2d0738bf0fb72b106",
-      "url": "https://doi.org/10.1039/d6tb00438e",
-      "image": "",
-      "screen": "both",
-      "lab_paper": true,
-      "researcher": {
-        "name": "Gilad Davidson-Rozenfeld",
-        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=vh7tqKQAAAAJ"
-      }
-    },
-    {
-      "title": "Redox- and Photo-Responsive Fe3+/2+-Cross-Linked Carboxymethyl Cellulose Methacrylate Dissipative Gels: Synthesis and Applications",
-      "abstract": "The synthesis of redox-active Fe3+-cross-linked carboxymethyl cellulose methacrylate cryogels (Fe 3+ -CMCMA), revealing switchable, transient, dissipative stiffness properties, is introduced. The switchable, transient functions are triggered by ascorbate-mediated reduction of the high-stiffness gel to the lower-stiffness Fe2+-CMCMA gel, and the concomitant aerobic oxidation of the Fe2+-CMCMA to the Fe3+-CMCMA gel state. Alternatively, integration of native photosynthetic photosystem-I (PS-I) into the cryogel matrix allows the photosensitized reduction of the Fe3+-CMCMA cryogel to the lower stiffness state Fe2+-CMCMA, and the concomitant, temporal, aerobic recovery of Fe2+-CMCMA to the high-stiffness Fe3+-CMCMA gel. The transient dissipative stiffness of the Fe3+/2+-CMCMA cryogel is characterized by temporal rheometry, dynamic stretching stress–strain experiments, XPS, and SEM imaging. The transient chemical/light-triggered stiffness functions of the Fe3+/2+-CMCMA, or PS-I-integrated Fe3+/2+-CMCMA gels are applied to develop transient self-healing matrices, and frameworks for cyclic, transient release of loads integrated in the gel matrices. This is exemplified by the ascorbate/light-induced cyclic transient release of tetramethyl rhodamine-dextran (TMR-D), insulin, and the anti-VEGF aptamer loads. In addition, the stimuli-responsive Fe3+/2+-CMCMA cryogel is used to construct a bilayer-soft-robotic bending device. Bilayer composite consisting of thermoresponsive poly-N-isopropylacrylamide (pNIPAM)/Fe3+/2+-CMCMA, or pNIPAM/PS-I-loaded-Fe3+/2+-CMCMA devices are assembled. Swit…",
-      "authors": "Jiang-He Zhao, Yunlong Qin, Muhammad Abdel-Haq et al.",
-      "published": "2026",
-      "venue": "ACS Applied Materials and Interfaces",
-      "feedName": "Lab Research",
-      "citationCount": 1,
-      "recentCitations": 0,
-      "quartile": "Q1",
-      "s2_paper_id": "daeea6fa97917f764c7ad91e09d41dbb9652690e",
-      "url": "https://doi.org/10.1021/acsami.6c07915",
-      "image": "",
-      "screen": "both",
-      "lab_paper": true,
-      "researcher": {
-        "name": "Gilad Davidson-Rozenfeld",
-        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=vh7tqKQAAAAJ"
-      }
-    },
-    {
-      "title": "Chemical and Photochemical-Driven Dissipative Fe3+/Fe2+-Ion Cross-Linked Carboxymethyl Cellulose Gels Operating Under Aerobic Conditions: Applications for Transient Controlled Release and Mechanical Actuation",
-      "abstract": "A Fe3+-ion cross-linked carboxymethyl cellulose, Fe3+-CMC, redox-active gel exhibiting dissipative, transient stiffness properties is introduced. Chemical or photosensitized reduction of the higher-stiffness Fe3+-CMC to the lower-stiffness Fe2+-CMC gel, accompanied by the aerobic reoxidation of the Fe2+-CMC matrix, leads to the dissipative, transient stiffness, functional matrix. The light-induced, temporal, transient release of a load (Texas red dextran) and the light-triggered, transient mechanical bending of a poly-N-isopropylacrylamide (p-NIPAM)/Fe3+-CMC bilayer construct are introduced, thus demonstrating the potential use of the dissipative Fe3+-CMC gel for controlled drug release or soft robotic applications.",
-      "authors": "Roberto Baretta, Gilad Davidson-Rozenfeld, V. Gutkin et al.",
-      "published": "2024",
-      "venue": "Journal of the American Chemical Society",
-      "feedName": "Lab Research",
-      "citationCount": 26,
-      "recentCitations": 3,
-      "quartile": "Q1",
-      "s2_paper_id": "e8f95caa1e8ece0c16f246b34ead0788c6d4b146",
-      "url": "https://doi.org/10.1021/jacs.4c00625",
-      "image": "",
-      "screen": "both",
-      "lab_paper": true,
-      "researcher": {
-        "name": "Gilad Davidson-Rozenfeld",
-        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=vh7tqKQAAAAJ"
-      }
-    },
-    {
-      "title": "Stimuli-Responsive DNA-Based Hydrogels on Surfaces for Switchable Bioelectrocatalysis and Controlled Release of Loads",
-      "abstract": "The assembly of enzyme [glucose oxidase (GOx)]-loaded stimuli-responsive DNA-based hydrogels on electrode surfaces, and the triggered control over the stiffness of the hydrogels, provides a means to switch the bioelectrocatalytic functions of the hydrogels. One system includes the assembly of GOx-loaded, pH-responsive, hydrogel matrices cross-linked by two cooperative nucleic acid motives comprising permanent duplex nucleic acids and “caged” i-motif pH-responsive duplexes. Bioelectrocatalyzed oxidation of glucose leads to the formation of gluconic acid that acidifies the hydrogel resulting in the separation of the i-motif constituents and lowering the hydrogel stiffness. Loading of the hydrogel matrices with insulin results in the potential-triggered, glucose concentration-controlled, switchable release of insulin from the hydrogel-modified electrodes. The switchable bioelectrocatalyzed release of insulin is demonstrated in the presence of ferrocenemethanol as a diffusional electron mediator or by applying an electrically wired integrated matrix that includes ferrocenyl-modified GOx embedded in the hydrogel. The second GOx-loaded, stimuli-responsive, DNA-based hydrogel matrix associated with the electrode includes a polyacrylamide hydrogel cooperatively cross-linked by duplex nucleic acids and “caged” G-quadruplex-responsive duplexes. The hydrogel matrix undergoes K+-ions/crown ether-triggered stiffness changes by the cyclic K+-ion-stimulated formation of G-quadruplexes (lower stiffness) and the crown ether-induced separation of the G-quadruplexes (higher stiffness). The hy…",
-      "authors": "M. Fadeev, Gilad Davidson-Rozenfeld, Zhenzhen Li et al.",
-      "published": "2023",
-      "venue": "ACS Applied Materials and Interfaces",
-      "feedName": "Lab Research",
-      "citationCount": 19,
-      "recentCitations": 1,
-      "quartile": "Q1",
-      "s2_paper_id": "0cd0b8a2502ea570ed30a29089c9004f8ad62735",
-      "url": "https://doi.org/10.1021/acsami.3c06230",
-      "image": "",
-      "screen": "both",
-      "lab_paper": true,
-      "researcher": {
-        "name": "Gilad Davidson-Rozenfeld",
-        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=vh7tqKQAAAAJ"
-      }
-    },
-    {
-      "title": "Stiffness‐Switchable, Biocatalytic pH‐Responsive DNA‐Functionalized Polyacrylamide Cryogels and their Mechanical Applications",
-      "abstract": "The large‐pore interconnected channels in cryogels, allow convectional flow and rapid mass‐transport of solute constituents between the solution and cryogel polymer framework, as compared to slower, diffusionally‐controlled mass‐transport in small‐pore hydrogels. These features are applied to develop enzyme‐loaded polyacrylamide (pAAm) cryogels, and glucose oxidase (GOx)‐loaded pH‐responsive DNA‐based pAAm cryogels, revealing enhanced biocatalytic transformations, enhanced temporal stiffness changes, and mechanical bending functions, as compared to analog hydrogels. DNA‐based pAAm cryogel/hydrogel matrices, revealing pH‐switchable stiffness properties through reversible reconfiguration of DNA‐bridging units into i‐motif structures, are introduced. Enhanced switchable stiffness changes of DNA‐based pAAm cryogels, as compared to analog hydrogels, are demonstrated upon subjecting the cryogel/hydrogel matrices to auxiliary pH‐changes, or by integration of GOx into the frameworks, and driving pH‐changes through GOx‐catalyzed aerobic oxidation of glucose to gluconic acid. Enhanced stiffness changes of pAAm cryogels represent a major advance to control the mechanical properties of cryogels and are attributed to the convectionally‐controlled mass‐transport in the cryogel matrices. Moreover, bilayer constructs consisting of poly‐N‐isopropylacrylamide (pNIPAM) cryogels and pH‐responsive DNA‐based pAAm cryogel or hydrogel structures are constructed. Enhanced pH/glucose triggered mechanical bending rates of the pNIPAM cryogel/pAAm cryogel or pNIPAM cryogel/GOx‐loaded pAAm cryogel, as c…",
-      "authors": "Gilad Davidson-Rozenfeld, Xinghua Chen, Yunlong Qin et al.",
-      "published": "2023",
-      "venue": "Advanced Functional Materials",
-      "feedName": "Lab Research",
-      "citationCount": 23,
-      "recentCitations": 0,
-      "quartile": "Q1",
-      "s2_paper_id": "f8de42bddd0ecab555075b5f1e2cdce6f18f1a56",
-      "url": "https://doi.org/10.1002/adfm.202306586",
-      "image": "",
-      "screen": "both",
-      "lab_paper": true,
-      "researcher": {
-        "name": "Gilad Davidson-Rozenfeld",
-        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=vh7tqKQAAAAJ"
       }
     },
     {

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T09:03:22Z",
+  "updated": "2026-10-15T14:54:11Z",
   "items": [
     {
       "title": "Refined crop modelling reveals intensifying impacts of droughts and heatwaves on global wheat productivity",
@@ -42,42 +42,62 @@
       "screen": "left"
     },
     {
-      "title": "Comment on “Qualitative non-targeted screening by high resolution mass spectrometry of chemicals transference from plastic food contact materials after cooking”",
+      "title": "Measuring wine tannin through pigment subtraction by spectrophotometer",
       "abstract": "",
-      "authors": "Monika Beszterda-Buszczak, Magdalena Frańska",
+      "authors": "James R. Campbell, Elisabeth J. Forrestel",
       "published": "Dec 2026",
       "feedName": "Food Chemistry",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626035521?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626037672?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
     {
-      "title": "Configurational transformation of dihydromyricetin during thermal processing and its implications for quality evaluation",
+      "title": "Magnetic dispersive solid-phase microextraction of fourteen rare earth elements (REEs) from herbs, tea, and water using bimetallic spinel magnetic NiZnFe 2 O 4 nanomaterial followed by ICP-OES determination",
       "abstract": "",
-      "authors": "Shuang Li, Xuming Sha, Xinying Luo et al.",
+      "authors": "Şerife Tokalıoğlu, Melike Selenay Demirişler, Halil Şahan et al.",
       "published": "Dec 2026",
       "feedName": "Food Chemistry",
-      "url": "https://www.sciencedirect.com/science/article/pii/S030881462603671X?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626036319?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
     {
-      "title": "Using lipidomics to reveal the changes in lipid composition during soymilk processing",
+      "title": "Mechanistic insights into deodorization of Pyropia haitanensis by ultrasound-assisted Lactiplantibacillus plantarum fermentation: Linking key odorants with amino acid metabolism",
       "abstract": "",
-      "authors": "Qin Zhang, Yuchen Wei, Binjing Tang et al.",
+      "authors": "Dehua Wang, Yi Zhang, Xinxing Xu et al.",
       "published": "Dec 2026",
       "feedName": "Food Chemistry",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626035569?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626036708?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
     {
-      "title": "Engineering covalent organic frameworks for tailored encapsulation and controlled release of fragrances",
+      "title": "Synergistic modification of wheat starch by freeze-thaw treatment and fucoidan: Insight into the gel properties, rheological behaviors, multiscale structure, and the application in hot-dry noodles",
       "abstract": "",
-      "authors": "Lulu Zhou, Yiping Yun, Xiaofan Zhang et al.",
+      "authors": "Peili Lin, Xiao Zhang, Yiying Wang et al.",
       "published": "Dec 2026",
       "feedName": "Food Chemistry",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626036642?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626036800?dgcid=rss_sd_all",
+      "image": "",
+      "screen": "left"
+    },
+    {
+      "title": "Valorizing seafood processing by-products for prebiotic development: a circular economy approach to gut health",
+      "abstract": "",
+      "authors": "Ali Hassan, Nadia Yasin, Sana Shahid et al.",
+      "published": "Jan 2027",
+      "feedName": "Trends in Food Sci & Tech",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426006035?dgcid=rss_sd_all",
+      "image": "",
+      "screen": "left"
+    },
+    {
+      "title": "Interfacial molecular engineering in lipid digestion: effective mechanisms, regulating strategy and application prospect",
+      "abstract": "",
+      "authors": "Xin Huang, Yiqing Su, Wenhui Li et al.",
+      "published": "Jan 2027",
+      "feedName": "Trends in Food Sci & Tech",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426005881?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -98,26 +118,6 @@
       "published": "Jan 2027",
       "feedName": "Trends in Food Sci & Tech",
       "url": "https://www.sciencedirect.com/science/article/pii/S0924224426006072?dgcid=rss_sd_all",
-      "image": "",
-      "screen": "left"
-    },
-    {
-      "title": "Slaughterhouse waste-derived biopolymers for cultured meat production and packaging: A review of circular biomaterial valorization",
-      "abstract": "",
-      "authors": "Shiv Dutt Purohit, Ruchir Priyadarshi, Peter R. Corridon",
-      "published": "Jan 2027",
-      "feedName": "Trends in Food Sci & Tech",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426006266?dgcid=rss_sd_all",
-      "image": "",
-      "screen": "left"
-    },
-    {
-      "title": "FlavourGrams: A systematic approach to make aroma analysis inherently more sensory-meaningful",
-      "abstract": "",
-      "authors": "Roelant Hilgers, Hans-Gerd Janssen",
-      "published": "Dec 2026",
-      "feedName": "Trends in Food Sci & Tech",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426006138?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -242,6 +242,16 @@
       "screen": "left"
     },
     {
+      "title": "Population structure and source associations in 489 sesame-associated Salmonella genomes, and loss of the invA detection target",
+      "abstract": "",
+      "authors": "Mustafa Guzel",
+      "published": "Apr 2027",
+      "feedName": "Food Microbiology",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0740002026002935?dgcid=rss_sd_all",
+      "image": "",
+      "screen": "left"
+    },
+    {
       "title": "Effects of indigenous microbiota in fresh produce on Salmonella survival and inactivation by oregano essential oil vapor",
       "abstract": "",
       "authors": "Zejia Lin, Menglu Chen, Yinuo Miao et al.",
@@ -268,16 +278,6 @@
       "published": "Mar 2027",
       "feedName": "Food Microbiology",
       "url": "https://www.sciencedirect.com/science/article/pii/S0740002026002911?dgcid=rss_sd_all",
-      "image": "",
-      "screen": "left"
-    },
-    {
-      "title": "Persistence and epidemiological relevance of Salmonella enterica Newport in public-access waters from a central California coastal agricultural region",
-      "abstract": "",
-      "authors": "Michelle Qiu Carter, Diana Carychao, Lisa Gorski",
-      "published": "Mar 2027",
-      "feedName": "Food Microbiology",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0740002026002868?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -442,6 +442,16 @@
       "screen": "right"
     },
     {
+      "title": "Eating late at night linked to up to 30% higher risk of liver disease",
+      "abstract": "Eating late at night could be putting your liver at risk, according to a large study led by Oregon Health & Science University. Researchers analyzed data from nearly 200,000 people and found that those who regularly ate after dinner or around bedtime had a 20% to 30% higher risk of liver disease, including fatty liver disease and cirrhosis.",
+      "authors": "",
+      "published": "Oct 2026",
+      "feedName": "ScienceDaily Nutrition",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261014015503.htm",
+      "image": "https://www.sciencedaily.com/images/1920/human-liver-organ-damage.webp",
+      "screen": "right"
+    },
+    {
       "title": "Cancer is rising in younger adults, and scientists can't fully explain why",
       "abstract": "A major study found that several cancers are rising faster among younger adults in England, even as smoking, diet, and other established risk factors have generally improved. Excess weight explains only part of the increase, leaving scientists searching for other possible causes, including changes in the gut microbiome and early-life exposures.",
       "authors": "",
@@ -472,36 +482,6 @@
       "screen": "right"
     },
     {
-      "title": "Popular weight loss drugs linked to a surprising fingernail problem",
-      "abstract": "Popular GLP-1 weight loss drugs, such as Ozempic and Wegovy, have been linked to unexpectedly high rates of nail detachment, hair loss, and scalp inflammation, with some problems occurring several times more frequently among users. Researchers found that weight loss alone could not fully explain the differences, suggesting there may be more to these overlooked symptoms.",
-      "authors": "",
-      "published": "Oct 2026",
-      "feedName": "ScienceDaily Nutrition",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261011211604.htm",
-      "image": "https://www.sciencedaily.com/images/1920/fingernail-detachment.webp",
-      "screen": "right"
-    },
-    {
-      "title": "Perioperative nutrition-related laboratory profiles predict outcomes after digestive procedures in patients with gastrointestinal cancer",
-      "abstract": "Routine laboratory measurements may capture nutritional, inflammatory, and organ-function vulnerability in patients with gastrointestinal cancer. We developed nested logistic regression models using INSPIRE v1.4.2 and evaluated a portable model in MIMIC-IV v3.1. The original INSPIRE cohort comprised 11,471 operations among 10,728 patients, with 893 deaths within 365 days. Patients were allocated to development and held-out test sets. For 365-day mortality, area under the receiver operating characteristic curve (AUROC) was 0.783 (95% CI 0.752–0.811) for clinical variables, 0.843 (95% CI 0.820–0.868) after adding laboratory variables, and 0.856 (95% CI 0.834–0.879) for the full perioperative model. Patient-level full-pipeline bootstrap analysis yielded an optimism-corrected AUROC of 0.837. External AUROC was 0.676 (95% CI 0.663–0.688) for 365-day mortality and 0.724 (95% CI 0.692–0.754) for recorded hospital death after harmonizing CRP units. Calibration drift was substantial, and hospital-death discrimination was sensitive to laboratory timing. Corrected operation-linked risk tertiles showed graded mortality and lower albumin and hemoglobin levels in higher-risk groups. Perioperative nutrition-related laboratory profiles provided additional discrimination for 365-day mortality beyond clinical variables, although limited external performance and calibration drift warrant further validation before clinical use.",
-      "authors": "Menghui Zhang, Liangliang Hui, Jialing Zhang et al.",
-      "published": "Oct 2026",
-      "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1927720",
-      "image": "",
-      "screen": "right"
-    },
-    {
-      "title": "Gut microbial metabolism in aging: from metabolite production to organ-specific immunometabolic effects",
-      "abstract": "Age-related changes in gut microbiota metabolism are heterogeneous across populations and pathways, and their relationships with immunometabolism and organ phenotypes should be interpreted in the context of health status and disease. Microbial abundance or the concentration of a single metabolite does not, by itself, capture microbial production, host exposure, or effects in target tissues. This narrative review summarizes upstream influences, including gastrointestinal physiology, dietary substrates, comorbidities, and medications, and discusses the origins and host processing of major metabolites, their immunometabolic effects, and associated organ phenotypes. Studies in some older populations report lower fecal short-chain fatty acid concentrations. Microbiota-derived indole derivatives and host-synthesized, microbiota-modified bile acids show molecule- and population-specific patterns. Circulating concentrations of some host–microbe co-metabolites are higher in selected older or disease populations, but are also shaped by host biotransformation and clearance. Human evidence is predominantly observational and links metabolic features to health status or clinical phenotypes, whereas animal and cell studies support effects on barrier function, inflammation, and cellular metabolism under specific experimental conditions. Personalized nutrition, metabolite supplementation, selective targeting of microbial enzymes, and multi-omics-based responder stratification are promising research directions; prospective evidence that these strategies improve functional outcomes in older a…",
-      "authors": "Zhen Wang, Yang Liu",
-      "published": "Oct 2026",
-      "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1984798",
-      "image": "",
-      "screen": "right"
-    },
-    {
       "title": "A scoping review of microbiological safety, bioactive components, nutrient retention, and feasibility of flash-heating expressed breastmilk: exploring potential use during infectious disease outbreaks",
       "abstract": "IntroductionInfectious disease outbreaks can disrupt breastfeeding due to concerns about pathogen transmission through close contact or breastmilk. In these contexts, infants are often fed commercial milk formula or other breastmilk substitutes despite their known risks, which are exacerbated in low-resource settings. Existing technologies to inactivate pathogens in human milk, such as holder and high-temperature short-time (HTST) pasteurization, require specialized equipment and may not be feasible in emergency settings. Flash-heating (FH) is a low-cost, household-level alternative that approximates HTST conditions and can inactivate pathogens while preserving key nutritional and immunological components. This review examines the evidence on FH as a potential method for pasteurizing expressed breastmilk during infectious disease outbreaks.MethodsThis scoping review followed the Joanna Briggs Institute guidelines and the PRISMA-ScR checklist. Searches were performed in PubMed, Scopus, CINAHL, Embase, and Web of Science, supplemented by grey literature and forward citation searching. Studies on FH of expressed human milk were included if they evaluated on (1) microbiological safety, (2) preservation of nutritional and immunological components, and (3) feasibility in low-resource and outbreak settings. Two independent reviewers screened studies and extracted data using Covidence, and the evidence were descriptively synthesized.ResultsA total of 24 studies published between 2005 and 2025 were included. FH is effective in inhibiting growth of a range of bacterial and viral path…",
       "authors": "Helen Natalia, Carolina Guzman, Bindi Borg et al.",
@@ -512,12 +492,32 @@
       "screen": "right"
     },
     {
-      "title": "Nutritional literacy profiles and their association with dietary motivation in adolescents with chronic kidney disease",
-      "abstract": "ObjectiveTo explore potential categories of nutritional literacy among adolescents with chronic kidney disease and differences in dietary motivations across these categories.MethodsThis cross-sectional study included 433 adolescents with chronic kidney disease treated in the pediatric department of a tertiary hospital between March and September 2025. Latent profile analysis identified nutrition literacy profiles, and dietary motivation scores were compared across profiles. Multinomial logistic regression examined associations between participant characteristics and profile membership, using the moderate-literacy profile as the reference. Adjusted odds ratios and 95% confidence intervals were reported.ResultsNutritional literacy among adolescents with chronic kidney disease can be divided into three latent categories: Category 1 is the “high nutrition literacy” comprising 159 participants (36.8%); Category 2 is the “moderate nutrition literacy” comprising 95 participants (21.9%); Category 3 is the “low nutrition literacy” comprising 179 participants (41.3%). Comparisons of total dietary motivation scores among adolescents with chronic kidney disease in different nutritional literacy categories revealed statistically significant differences (p < 0.05). Logistic regression analysis results indicated that gender, being an only child, monthly income, and method of medical payment were independent factors influencing the latent categories of nutritional literacy among adolescents with chronic kidney disease (p < 0.05).ConclusionThere is heterogeneity in nutritional literacy amon…",
-      "authors": "Shuo Bai, Jiwei Qi, Wuyue Xu et al.",
+      "title": "Culinary medicine as a new paradigm integrating clinical nutrition and medical practice: a narrative review",
+      "abstract": "Culinary medicine is an emerging interdisciplinary field that integrates nutrition science, culinary practice, behavioral support, and medical care to translate dietary recommendations into feasible meals and sustainable eating behaviors. This narrative review examines its conceptual scope, plausible mechanisms, clinical and educational applications, implementation models, and future research priorities. Culinary medicine differs from general culinary education by linking food preparation skills to evidence-based nutritional and clinical goals. It complements medical nutrition therapy, precision nutrition, and Food-is-Medicine interventions by providing the practical competencies required to select, plan, prepare, and consume meals consistent with individualized recommendations. Its potential effects operate through interrelated behavioral and physiological pathways. Hands-on culinary education may strengthen cooking self-efficacy, food skills, dietary adherence, and nutrition-related self-management. Cooking methods and food combinations may also modify protein and starch digestibility, advanced glycation end-product formation, nutrient bioavailability, postprandial metabolic responses, and microbial fermentation. Current applications include health professional education, interprofessional training, teaching kitchens, disease-specific nutrition programs, community-based interventions, and virtual or hybrid delivery. Existing evidence more consistently supports improvements in cooking confidence, self-efficacy, dietary behavior, and self-management than sustained changes i…",
+      "authors": "Hyung Gyu Park, Hyunjung Lim",
       "published": "Oct 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1965268",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1963264",
+      "image": "",
+      "screen": "right"
+    },
+    {
+      "title": "Correction: The effects of magnesium L-threonate (Magtein®) on cognitive performance and sleep quality in adults: a randomised, double-blind, placebo-controlled trial",
+      "abstract": "",
+      "authors": "Adrian L. Lopresti, Stephen J. Smith",
+      "published": "Oct 2026",
+      "feedName": "Frontiers Nutrition",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.2010644",
+      "image": "",
+      "screen": "right"
+    },
+    {
+      "title": "Association between social media use, social appearance anxiety, and eating disorder risk in adolescents",
+      "abstract": "IntroductionThis study aimed to examine the relationships between social media use and social appearance anxiety, eating behavior, and eating disorders in adolescents.MethodsIn this study, a questionnaire including the social media use scale, social appearance anxiety scale, and eating disorder assessment questionnaire-short form was administered face-to-face to 309 adolescents.ResultsIn total, 47.2% of participants were girls and 52.8% were boys, with an average age of 16.0 ± 0.9 years. The most commonly used social media applications are WhatsApp (83.2%) and Instagram (81.2%). The mean social appearance anxiety score of the girls (38.1 ± 16.8) was higher than that of the boys (30.8 ± 13.9). There was a positive relationship between social appearance anxiety and continuity of social media use, as well as the risk of eating disorders (p < 0.05). There was also a positive relationship between social media use continuity and the risk of eating disorders (p < 0.05). The continuous use of social media increased the likelihood of social appearance anxiety (β = 0.963, 95% CI: 0.520–1.406); increased anxiety about social appearance was associated with a higher likelihood of developing an eating disorder (β = 0.068, %95 CI: 0.053–0.083) (p < 0.05).ConclusionIncreased social media use in adolescents is associated with higher levels of social appearance anxiety and an increased risk of eating disorders. Educating adolescents about social media use may help reduce the incidence of eating disorders.",
+      "authors": "Gülin Öztürk Özkan, Melis Nur Yüce, Beyza Karagöl",
+      "published": "Oct 2026",
+      "feedName": "Frontiers Nutrition",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1812469",
       "image": "",
       "screen": "right"
     },
@@ -609,7 +609,7 @@
       "venue": "Food and Bioprocess Technology",
       "feedName": "Lab Research",
       "citationCount": 6,
-      "recentCitations": 2,
+      "recentCitations": 0,
       "quartile": "Q1",
       "s2_paper_id": "034d8c4f0c0f5607a4e6727360aa5d7287e60d5b",
       "url": "https://doi.org/10.1007/s11947-025-03873-y",
@@ -829,7 +829,7 @@
       "venue": "ACS Applied Materials and Interfaces",
       "feedName": "Lab Research",
       "citationCount": 1,
-      "recentCitations": 1,
+      "recentCitations": 0,
       "quartile": "Q1",
       "s2_paper_id": "daeea6fa97917f764c7ad91e09d41dbb9652690e",
       "url": "https://doi.org/10.1021/acsami.6c07915",
@@ -869,7 +869,7 @@
       "venue": "ACS Applied Materials and Interfaces",
       "feedName": "Lab Research",
       "citationCount": 19,
-      "recentCitations": 0,
+      "recentCitations": 1,
       "quartile": "Q1",
       "s2_paper_id": "0cd0b8a2502ea570ed30a29089c9004f8ad62735",
       "url": "https://doi.org/10.1021/acsami.3c06230",
@@ -969,7 +969,7 @@
       "venue": "Brain, Behavior, & Immunity - Health",
       "feedName": "Lab Research",
       "citationCount": 21,
-      "recentCitations": 0,
+      "recentCitations": 1,
       "quartile": null,
       "s2_paper_id": "e6bf6bc6dc39538aed6d5e9f0a2aad62f0702494",
       "url": "https://doi.org/10.1016/j.bbih.2024.100829",
@@ -1049,7 +1049,7 @@
       "venue": "Food and Bioprocess Technology",
       "feedName": "Lab Research",
       "citationCount": 6,
-      "recentCitations": 2,
+      "recentCitations": 0,
       "quartile": "Q1",
       "s2_paper_id": "034d8c4f0c0f5607a4e6727360aa5d7287e60d5b",
       "url": "https://doi.org/10.1007/s11947-025-03873-y",

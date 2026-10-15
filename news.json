@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T02:29:54Z",
+  "updated": "2026-10-15T09:03:22Z",
   "items": [
     {
       "title": "Refined crop modelling reveals intensifying impacts of droughts and heatwaves on global wheat productivity",
@@ -442,6 +442,16 @@
       "screen": "right"
     },
     {
+      "title": "Cancer is rising in younger adults, and scientists can't fully explain why",
+      "abstract": "A major study found that several cancers are rising faster among younger adults in England, even as smoking, diet, and other established risk factors have generally improved. Excess weight explains only part of the increase, leaving scientists searching for other possible causes, including changes in the gut microbiome and early-life exposures.",
+      "authors": "",
+      "published": "Oct 2026",
+      "feedName": "ScienceDaily Nutrition",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261013015837.htm",
+      "image": "https://www.sciencedaily.com/images/1920/cancer-cells-hiding-on-tissue.webp",
+      "screen": "right"
+    },
+    {
       "title": "Scientists reveal why some workout recovery tricks can backfire",
       "abstract": "Ice baths, massages, compression garments, and recovery supplements promise faster muscle recovery, but research suggests their benefits are often overstated, and some techniques may even undermine long-term gains. Scientists say the most effective recovery methods are far simpler and cheaper: getting enough sleep, eating well, and giving muscles time to rebuild.",
       "authors": "",
@@ -472,52 +482,42 @@
       "screen": "right"
     },
     {
-      "title": "Scientists find hidden driver of aging and a simple amino acid that fights memory loss in mice",
-      "abstract": "Scientists discovered that declining levels of a protein called Menin may help drive aging, and restoring it in older mice reversed several age-related changes in just 30 days. Even more surprisingly, supplementing with a simple amino acid called D-serine improved memory and learning, offering a potential new approach to age-related cognitive decline.",
-      "authors": "",
-      "published": "Oct 2026",
-      "feedName": "ScienceDaily Nutrition",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261009025708.htm",
-      "image": "https://www.sciencedaily.com/images/1920/anti-aging-beauty-skincare.webp",
-      "screen": "right"
-    },
-    {
-      "title": "D-allulose attenuates dyslipidemia, oxidative stress, and inflammation in high-fat-diet-induced metabolic dysfunction-associated steatotic liver disease in rats",
-      "abstract": "BackgroundMetabolic dysfunction-associated steatotic liver disease (MASLD) is a diet-related metabolic disorder characterized by hepatic lipid accumulation, dyslipidemia, insulin resistance, oxidative stress, and chronic inflammation, highlighting the need for safe nutritional interventions.AimThis study evaluated the antihyperlipidemic, antioxidant, and anti-inflammatory effects of D-allulose, alone or in combination with dorsomorphin, in a high-fat diet (HFD)-induced rat model of Metabolic dysfunction-associated steatotic liver disease (MASLD).MethodsForty-eight male Wistar rats were allocated to a control diet group, an HFD group, or an HFD group treated orally with D-allulose (0.3 or 0.6 g/kg) with or without dorsomorphin (0.2 mg/kg) orally for 12 weeks. Omnibus 𝑝-values for the 22 biochemical endpoints were subjected to a retrospective Benjamini–Hochberg false-discovery-rate sensitivity analysis.ResultsHFD feeding induced weight gain, dyslipidemia, hepatic injury, oxidative stress, inflammation, and hyperinsulinemia. D-allulose dose-dependently ameliorated these disturbances, reducing atherogenic lipids, lipid peroxidation, inflammatory cytokines, and insulin while improving antioxidant status. Notably, TG decreased from 164.51 mg dL−1 in HFD rats to 113.52 and 99.43 mg dL−1 with low- and high-dose D-allulose, respectively, while LDL-C decreased from 86.45 to 53.19 and 49.24 mg dL−1; HDL-C remained unchanged. D-allulose also attenuated HFD-induced hepatic steatosis, degeneration, necrosis, inflammation, and early fibrosis, and this histological protection was maintaine…",
-      "authors": "Sami O. Almutairi, Abu ElGasim A. Yagoub, Hassan Barakat",
+      "title": "Perioperative nutrition-related laboratory profiles predict outcomes after digestive procedures in patients with gastrointestinal cancer",
+      "abstract": "Routine laboratory measurements may capture nutritional, inflammatory, and organ-function vulnerability in patients with gastrointestinal cancer. We developed nested logistic regression models using INSPIRE v1.4.2 and evaluated a portable model in MIMIC-IV v3.1. The original INSPIRE cohort comprised 11,471 operations among 10,728 patients, with 893 deaths within 365 days. Patients were allocated to development and held-out test sets. For 365-day mortality, area under the receiver operating characteristic curve (AUROC) was 0.783 (95% CI 0.752–0.811) for clinical variables, 0.843 (95% CI 0.820–0.868) after adding laboratory variables, and 0.856 (95% CI 0.834–0.879) for the full perioperative model. Patient-level full-pipeline bootstrap analysis yielded an optimism-corrected AUROC of 0.837. External AUROC was 0.676 (95% CI 0.663–0.688) for 365-day mortality and 0.724 (95% CI 0.692–0.754) for recorded hospital death after harmonizing CRP units. Calibration drift was substantial, and hospital-death discrimination was sensitive to laboratory timing. Corrected operation-linked risk tertiles showed graded mortality and lower albumin and hemoglobin levels in higher-risk groups. Perioperative nutrition-related laboratory profiles provided additional discrimination for 365-day mortality beyond clinical variables, although limited external performance and calibration drift warrant further validation before clinical use.",
+      "authors": "Menghui Zhang, Liangliang Hui, Jialing Zhang et al.",
       "published": "Oct 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1982241",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1927720",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Reciprocal modulation between beef protein and wine phenolics during in vitro co-digestion: a proposed ternary complex-mediated mechanism modulated by cooking technique",
-      "abstract": "BackgroundBeef and red wine form a classic dietary combination, yet how their components reciprocally influence each other during digestion remains unclear.MethodsThis study co-digested steamed, boiled and grilled beef with red wine using the INFOGEST 2.0 in vitro digestion model, combined with molecular docking, to investigate bidirectional modulation between beef proteins and wine phenolics.ResultsWine co-digestion suppressed gastric carbonyl formation by 21.5%−30.8% and preserved free sulfhydryl groups by 27.7%−50.5% across cooking methods. Two-way analysis of variance indicated significant cooking × wine interactions for protein oxidation and amino acid release. The largest improvement occurred in grilled beef, whose gastric digestibility and intestinal amino acid content increased by 20.9% and 67.2%, respectively. Docking simulations predicted that selected phenolics bound to myosin heavy chain and pepsin through hydrogen bonding and hydrophobic interactions, supporting a proposed phenolics-pepsin-myosin ternary complex that may strengthen enzyme-substrate association. Reciprocally, the beef matrix enhanced ABTS antioxidant activity by 24.9% (gastric) and 125.3% (intestinal) relative to wine alone, and was associated with selective phenolic regulation: gastric gallic acid increased by up to 135.7%, whereas intestinal epicatechin and resveratrol rose up to 3.5- and 11.6-fold, respectively.ConclusionThese findings support the proposed ternary complex as a plausible molecular hub governing protein–phenolic reciprocity, providing a proposed mechanistic basis for optimizing…",
-      "authors": "Ziruo Sun, Shaoyun Xing, Weixiang Tang et al.",
+      "title": "Gut microbial metabolism in aging: from metabolite production to organ-specific immunometabolic effects",
+      "abstract": "Age-related changes in gut microbiota metabolism are heterogeneous across populations and pathways, and their relationships with immunometabolism and organ phenotypes should be interpreted in the context of health status and disease. Microbial abundance or the concentration of a single metabolite does not, by itself, capture microbial production, host exposure, or effects in target tissues. This narrative review summarizes upstream influences, including gastrointestinal physiology, dietary substrates, comorbidities, and medications, and discusses the origins and host processing of major metabolites, their immunometabolic effects, and associated organ phenotypes. Studies in some older populations report lower fecal short-chain fatty acid concentrations. Microbiota-derived indole derivatives and host-synthesized, microbiota-modified bile acids show molecule- and population-specific patterns. Circulating concentrations of some host–microbe co-metabolites are higher in selected older or disease populations, but are also shaped by host biotransformation and clearance. Human evidence is predominantly observational and links metabolic features to health status or clinical phenotypes, whereas animal and cell studies support effects on barrier function, inflammation, and cellular metabolism under specific experimental conditions. Personalized nutrition, metabolite supplementation, selective targeting of microbial enzymes, and multi-omics-based responder stratification are promising research directions; prospective evidence that these strategies improve functional outcomes in older a…",
+      "authors": "Zhen Wang, Yang Liu",
       "published": "Oct 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1967708",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1984798",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "From yield to nutrition: re-imagining crop nutritional resilience for global nutrition security under climate change",
-      "abstract": "Climate change is increasingly challenging crop-based food and nutrition security not only through reductions in crop productivity but also by altering the nutritional composition, bioavailability, and functionality properties of food. Rising temperature, drought, excessive rainfall and flooding, elevated atmospheric CO2, and salinity can modify the accumulation, partitioning, and availability of proteins, minerals, vitamins, carotenoids, phenolics, flavonoids, and other bioactive compounds in crop-derived foods. Elevated CO2 is frequently associated with dilution of protein, iron (Fe), zinc (Zn), and other minerals in crops while heat and water stress can further disrupt nutrient uptake, translocation, and grain filling. However, responses are not universally negative: moderate environmental stress may stimulate selected phytochemicals and antioxidants, and responses depend strongly on crop species, genotype, nutrient, stress intensity and duration, developmental stage, and environmental context. Nutrient concentration alone also does not determine nutritional value because anti-nutritional factors, food matrix characteristics, processing, digestibility, and bioavailability influence the nutrients ultimately available to consumers. This mini-review synthesizes the evidence on climate-related changes in crop nutritional quality and develops the concept of nutritional resilience around four interconnected dimensions: productivity, nutrient density, bioavailability, and dietary diversity. The framework is intended to complement, not replace, existing food security, nutrition-…",
-      "authors": "D. M. S. B. Dissanayaka",
+      "title": "A scoping review of microbiological safety, bioactive components, nutrient retention, and feasibility of flash-heating expressed breastmilk: exploring potential use during infectious disease outbreaks",
+      "abstract": "IntroductionInfectious disease outbreaks can disrupt breastfeeding due to concerns about pathogen transmission through close contact or breastmilk. In these contexts, infants are often fed commercial milk formula or other breastmilk substitutes despite their known risks, which are exacerbated in low-resource settings. Existing technologies to inactivate pathogens in human milk, such as holder and high-temperature short-time (HTST) pasteurization, require specialized equipment and may not be feasible in emergency settings. Flash-heating (FH) is a low-cost, household-level alternative that approximates HTST conditions and can inactivate pathogens while preserving key nutritional and immunological components. This review examines the evidence on FH as a potential method for pasteurizing expressed breastmilk during infectious disease outbreaks.MethodsThis scoping review followed the Joanna Briggs Institute guidelines and the PRISMA-ScR checklist. Searches were performed in PubMed, Scopus, CINAHL, Embase, and Web of Science, supplemented by grey literature and forward citation searching. Studies on FH of expressed human milk were included if they evaluated on (1) microbiological safety, (2) preservation of nutritional and immunological components, and (3) feasibility in low-resource and outbreak settings. Two independent reviewers screened studies and extracted data using Covidence, and the evidence were descriptively synthesized.ResultsA total of 24 studies published between 2005 and 2025 were included. FH is effective in inhibiting growth of a range of bacterial and viral path…",
+      "authors": "Helen Natalia, Carolina Guzman, Bindi Borg et al.",
       "published": "Oct 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1987519",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1926806",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Mediterranean diet adherence, social media use, and anxiety symptoms: an exploratory cross-sectional pilot survey",
-      "abstract": "BackgroundAnxiety and depressive symptoms are common, and dietary patterns have been proposed as a modifiable influence on them. The majority of the evidence rests on composite adherence indices such as the Mediterranean Diet Adherence Screener (MEDAS), which sums its components as if they all contributed equally and addresses depression more often than anxiety. Whether individual dietary components relate to symptoms independently of the composite index has rarely been tested, and rarely alongside social media use, a further exposure proposed to shape both diet and mood.MethodsAn anonymous online survey in English, Spanish, and Russian was completed by 115 adults aged 18 to 65 years with no previous diagnosis of mental illness, comprising a 14-item modified Mediterranean Diet Score (mMEDS), the Hospital Anxiety and Depression Scale (HADS), and questions on daily time spent on Instagram, Facebook, and Twitter/X. Four primary hypotheses tested the associations of olive oil intake and red and processed meat intake with each HADS subscale; all other comparisons were exploratory. The Benjamini–Hochberg correction was applied within each family. Effect sizes are reported with bootstrap 95% confidence intervals. The primary comparisons were additionally adjusted for sex, age band, and educational level.ResultsAll four primary estimates lay in the hypothesized direction. Higher olive oil intake was associated with lower anxiety scores (r = −0.249, 95% CI − 0.448 to −0.050, p = 0.021), and restricted red and processed meat intake was associated with lower anxiety and depression sco…",
-      "authors": "Piotr Religa, Michel-Edwar Mickael, Norwin Kubick et al.",
+      "title": "Nutritional literacy profiles and their association with dietary motivation in adolescents with chronic kidney disease",
+      "abstract": "ObjectiveTo explore potential categories of nutritional literacy among adolescents with chronic kidney disease and differences in dietary motivations across these categories.MethodsThis cross-sectional study included 433 adolescents with chronic kidney disease treated in the pediatric department of a tertiary hospital between March and September 2025. Latent profile analysis identified nutrition literacy profiles, and dietary motivation scores were compared across profiles. Multinomial logistic regression examined associations between participant characteristics and profile membership, using the moderate-literacy profile as the reference. Adjusted odds ratios and 95% confidence intervals were reported.ResultsNutritional literacy among adolescents with chronic kidney disease can be divided into three latent categories: Category 1 is the “high nutrition literacy” comprising 159 participants (36.8%); Category 2 is the “moderate nutrition literacy” comprising 95 participants (21.9%); Category 3 is the “low nutrition literacy” comprising 179 participants (41.3%). Comparisons of total dietary motivation scores among adolescents with chronic kidney disease in different nutritional literacy categories revealed statistically significant differences (p < 0.05). Logistic regression analysis results indicated that gender, being an only child, monthly income, and method of medical payment were independent factors influencing the latent categories of nutritional literacy among adolescents with chronic kidney disease (p < 0.05).ConclusionThere is heterogeneity in nutritional literacy amon…",
+      "authors": "Shuo Bai, Jiwei Qi, Wuyue Xu et al.",
       "published": "Oct 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1883903",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1965268",
       "image": "",
       "screen": "right"
     },
@@ -869,7 +869,7 @@
       "venue": "ACS Applied Materials and Interfaces",
       "feedName": "Lab Research",
       "citationCount": 19,
-      "recentCitations": 1,
+      "recentCitations": 0,
       "quartile": "Q1",
       "s2_paper_id": "0cd0b8a2502ea570ed30a29089c9004f8ad62735",
       "url": "https://doi.org/10.1021/acsami.3c06230",
@@ -969,7 +969,7 @@
       "venue": "Brain, Behavior, & Immunity - Health",
       "feedName": "Lab Research",
       "citationCount": 21,
-      "recentCitations": 1,
+      "recentCitations": 0,
       "quartile": null,
       "s2_paper_id": "e6bf6bc6dc39538aed6d5e9f0a2aad62f0702494",
       "url": "https://doi.org/10.1016/j.bbih.2024.100829",

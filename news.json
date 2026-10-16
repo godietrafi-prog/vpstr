@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T14:29:48Z",
+  "updated": "2026-10-16T19:14:04Z",
   "items": [
     {
       "title": "Refined crop modelling reveals intensifying impacts of droughts and heatwaves on global wheat productivity",
@@ -42,42 +42,42 @@
       "screen": "left"
     },
     {
-      "title": "Measuring wine tannin through pigment subtraction by spectrophotometer",
+      "title": "Sugar selection modulates bread flavor through carbon source-dependent metabolism and transcriptional reprogramming in baker's yeast",
       "abstract": "",
-      "authors": "James R. Campbell, Elisabeth J. Forrestel",
+      "authors": "Na Ree Han, Nayoung Lim, Eun Ju Yun et al.",
       "published": "Dec 2026",
       "feedName": "Food Chemistry",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626037672?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626036939?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
     {
-      "title": "Magnetic dispersive solid-phase microextraction of fourteen rare earth elements (REEs) from herbs, tea, and water using bimetallic spinel magnetic NiZnFe 2 O 4 nanomaterial followed by ICP-OES determination",
+      "title": "Competitive difference-driven Ag@Pt nanozyme on a single gold nanowire sensing platform integrated with machine learning for accurate identification of multiple tetracycline antibiotics",
       "abstract": "",
-      "authors": "Şerife Tokalıoğlu, Melike Selenay Demirişler, Halil Şahan et al.",
+      "authors": "Yan Zhou, Yaohui Xu, Yu Jin et al.",
       "published": "Dec 2026",
       "feedName": "Food Chemistry",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626036319?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626037155?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
     {
-      "title": "Mechanistic insights into deodorization of Pyropia haitanensis by ultrasound-assisted Lactiplantibacillus plantarum fermentation: Linking key odorants with amino acid metabolism",
+      "title": "Deep chemometrics for retrospective auditing of the water-nutrient nexus in olive oil via 1D-CNN and explainable AI",
       "abstract": "",
-      "authors": "Dehua Wang, Yi Zhang, Xinxing Xu et al.",
+      "authors": "Lahcen Hssaini",
       "published": "Dec 2026",
       "feedName": "Food Chemistry",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626036708?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626037064?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
     {
-      "title": "Synergistic modification of wheat starch by freeze-thaw treatment and fucoidan: Insight into the gel properties, rheological behaviors, multiscale structure, and the application in hot-dry noodles",
+      "title": "A dataset-calibrated multi-module model for evaluating plant oil similarity to human milk lipids: single oil ranking, blending optimization, and machine learning assisted cross-checking",
       "abstract": "",
-      "authors": "Peili Lin, Xiao Zhang, Yiying Wang et al.",
+      "authors": "Yuankai Wang, Fanlong Wang, Lu Wang et al.",
       "published": "Dec 2026",
       "feedName": "Food Chemistry",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626036800?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626036794?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -242,6 +242,26 @@
       "screen": "left"
     },
     {
+      "title": "Microbial ecology of Baijiu fermentation: Community assembly, functional succession, and environmental feedback in an open solid-state ecosystem",
+      "abstract": "",
+      "authors": "Yan Chen, Huilin Shi, Fengxia Yan et al.",
+      "published": "Apr 2027",
+      "feedName": "Food Microbiology",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0740002026002881?dgcid=rss_sd_all",
+      "image": "",
+      "screen": "left"
+    },
+    {
+      "title": "Identification and characterization of biofilm-degrading aptamers against Escherichia coli by Inhibition-SELEX and analysis of their target proteins and interactions",
+      "abstract": "",
+      "authors": "Deji Gao, Jiangyuan Huang, Wei Yan et al.",
+      "published": "Apr 2027",
+      "feedName": "Food Microbiology",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0740002026002923?dgcid=rss_sd_all",
+      "image": "",
+      "screen": "left"
+    },
+    {
       "title": "Population structure and source associations in 489 sesame-associated Salmonella genomes, and loss of the invA detection target",
       "abstract": "",
       "authors": "Mustafa Guzel",
@@ -258,26 +278,6 @@
       "published": "Mar 2027",
       "feedName": "Food Microbiology",
       "url": "https://www.sciencedirect.com/science/article/pii/S0740002026002893?dgcid=rss_sd_all",
-      "image": "",
-      "screen": "left"
-    },
-    {
-      "title": "Microbial succession and genome-resolved metabolic functions shape flavor evolution during sauce-flavor Baijiu fermentation",
-      "abstract": "",
-      "authors": "Jialiang Niu, Weiwei Li, Xi Chen et al.",
-      "published": "Mar 2027",
-      "feedName": "Food Microbiology",
-      "url": "https://www.sciencedirect.com/science/article/pii/S074000202600290X?dgcid=rss_sd_all",
-      "image": "",
-      "screen": "left"
-    },
-    {
-      "title": "Cold-induced transcriptomic responses are associated with strain-dependent Salmonella enterica persistence in refrigerated lettuce leaves",
-      "abstract": "",
-      "authors": "Yohaily Rodríguez-Alvarez, Nicolás González, María Paz Araya et al.",
-      "published": "Mar 2027",
-      "feedName": "Food Microbiology",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0740002026002911?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -322,44 +322,54 @@
       "screen": "left"
     },
     {
-      "title": "Self-supervised learning for crop yield prediction across diversified cropping systems",
+      "title": "End-effector picking-pose estimation for tomato harvesting: a fusion approach combining instance segmentation and optimised point-cloud fitting",
       "abstract": "",
-      "authors": "Stefan Stiller, Kathrin Grahmann, Masahiro Ryo",
+      "authors": "Zheming Cui, Jufei Wang, Wuxiong Weng et al.",
       "published": "",
       "feedName": "AI in Agriculture",
-      "url": "https://www.sciencedirect.com/science/article/pii/S2589721726001248?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2589721726001224?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
     {
-      "title": "Integrating large multi-modal models for automated powdery mildew phenotyping in grapevines",
+      "title": "CropINSs: A multi-objective irrigation and nitrogen scheduling optimization framework for silage maize based on coupling remote sensing and crop models",
       "abstract": "",
-      "authors": "Yiyuan Lin, Zachary Dashner, Ana Jimenez et al.",
+      "authors": "Ge Li, Weibo Nie, Qiancheng Wang et al.",
       "published": "",
       "feedName": "AI in Agriculture",
-      "url": "https://www.sciencedirect.com/science/article/pii/S2589721726001157?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2589721726001182?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
     {
-      "title": "Pixel-level high-throughput estimation of crop photosynthetic phenotyping parameters using a multi-task deep learning framework",
+      "title": "Real-time, robust, and highly accurate robotic grasp detection of fruits with variable sizes and shapes",
       "abstract": "",
-      "authors": "Mengqi Zhang, Jiaren Zhou, Qingfeng Song et al.",
+      "authors": "Boyuan Cao, Yang Li, Congmin Guo et al.",
       "published": "",
       "feedName": "AI in Agriculture",
-      "url": "https://www.sciencedirect.com/science/article/pii/S2589721726000991?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2589721726001170?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
     {
-      "title": "UGV based multi-RGBD SLAM framework for high-throughput in-situ 3D phenotyping of field maize",
+      "title": "AI-IoT architectures for dairy welfare assessment: multimodal monitoring, deployment constraints, and the emerging role of digital twins",
       "abstract": "",
-      "authors": "Si Yang, Yuqiang Liang, Guanming Huang et al.",
+      "authors": "Yi Zhang, Dongying Bai, Yuanxiao Li et al.",
       "published": "",
       "feedName": "AI in Agriculture",
-      "url": "https://www.sciencedirect.com/science/article/pii/S2589721726001121?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2589721726001194?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
+    },
+    {
+      "title": "New water safety rapid testing method cuts time to results from six hours to 30 minutes",
+      "abstract": "FIU researchers have developed a faster, more efficient method to detect forever chemicals in the water system, cutting the testing time from over six hours to just 30 minutes. These findings, which could enhance how water safety is monitored, were published in the Journal of Chromatography A.",
+      "authors": "",
+      "published": "Oct 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-10-safety-rapid-method-results-hours.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/new-water-safety-rapid.jpg",
+      "screen": "right"
     },
     {
       "title": "Fully automated testing of bulk metals paves the way for AI-driven materials development",
@@ -389,16 +399,6 @@
       "feedName": "Phys.org Analytics",
       "url": "https://phys.org/news/2026-10-electron-density-chemistry-difficult-metal.html",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/the-right-starting-pla.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "A single carbon atom stitches flat molecules into 3D structures",
-      "abstract": "Flat is fine for a sheet of paper, but many of the most useful molecules need depth. Now, researchers from Japan have found a way to give them that depth using nothing more than a single carbon atom.",
-      "authors": "",
-      "published": "Oct 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-10-carbon-atom-flat-molecules-3d.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/one-atom-four-bonds-a.jpg",
       "screen": "right"
     },
     {
@@ -482,22 +482,32 @@
       "screen": "right"
     },
     {
-      "title": "Comparative effects of calcium, vitamin D, and combined supplementation on growth and bone mineral density in healthy children and adolescents: a systematic review and network meta-analysis",
-      "abstract": "BackgroundCalcium and vitamin D are central to skeletal development in childhood, yet the relative effects of calcium alone, vitamin D alone, and their combination on somatic growth and bone mineral density (BMD) in healthy children and adolescents remain unclear.MethodsEight databases were searched from inception through June 2026 for randomized controlled trials of oral calcium and/or vitamin D supplementation. Random-effects pairwise meta-analyses and Bayesian network meta-analysis (NMA) evaluated monthly height growth, monthly weight gain, and BMD at the lumbar spine, femoral neck, and total body.ResultsSixteen RCTs involving approximately 2,100 participants were included. Supplementation did not significantly affect monthly height growth (MD = 0.0441 cm/month, 95% CI [−0.0114, 0.0996]) or monthly weight gain (MD = 0.0075 kg/month, 95% CI [−0.0064, 0.0214]). Small positive differences were observed for lumbar spine BMD (MD = 0.0145 g/cm2, 95% CI [0.0040, 0.0249]), femoral neck BMD (MD = 0.0101 g/cm2, 95% CI [0.0064, 0.0138]), and total body BMD (MD = 0.0110 g/cm2, 95% CI [0.0049, 0.0170]), with substantial heterogeneity for lumbar spine and total body outcomes. Age-subgroup findings were exploratory, and no significant subgroup differences were found by intervention duration. The NMA did not establish consistent superiority of any active regimen.ConclusionCalcium and/or vitamin D supplementation did not appreciably accelerate height or weight gain. Small site-specific increases in aBMD were observed, but their clinical significance remains uncertain and they do not esta…",
-      "authors": "Guochun Lv, Pan Liu, Jing He et al.",
+      "title": "Addressing the burden and associated factors of undernutrition in under-five children with congenital heart disease in Pakistan: evidence from a multicenter cross-sectional study",
+      "abstract": "BackgroundChildren with congenital heart disease (CHD) are at heightened risk of undernutrition due to elevated metabolic demands, feeding intolerance, and growth failure. This study aimed to identify the associated factors of undernutrition among children under 5 years with CHD in Pakistan.MethodsA hospital-based study was carried out among 197 confirmed CHD across three tertiary hospitals in Bannu, Khyber Pakhtunkhwa (KP). WHO-recommended standards and structured questionnaires were used. Multivariable logistic regression analysis was performed to identify independent predictors of undernutrition.ResultsOverall, 58.9% were male, 40.1% were stunted, 44.2% were underweight, and 35.5% were wasted. Ventricular septal defect was the most common CHD (34.5%), followed by patent ductus arteriosus (23.4%). Infants aged 6–11 months had the most severe deficits. Male children had significantly higher odds of wasting than female children (adjusted odds ratio [aOR] = 2.10, 95% CI: 1.10–3.98), whereas children from households with a monthly income of ≥ PKR 40,000 had lower odds of wasting (aOR = 0.45, 95% CI: 0.24–0.84) and underweight (aOR = 0.52, 95% CI: 0.29–0.94). Similarly, children whose fathers were government employees (aOR = 0.30, 95% CI: 0.09–0.98) also had lower odds of being underweight. No sociodemographic or clinical variables were significantly associated with stunting (all p > 0.05).ConclusionUndernutrition exhibits a high distribution and severity among young CHD children. Multiple associated factors of undernutrition based on wasting and underweight were identified. T…",
+      "authors": "Muhammad Imran Khan, Ijaz ul Haq, Muhammad Awais et al.",
       "published": "Oct 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1979566",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1953133",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Dietary exogenous microRNAs in the gut: biological effects, mechanistic evidence, and controversies",
-      "abstract": "Dietary exogenous microRNAs (miRNAs) have emerged as potential mediators of interorganismal communication, with growing interest in their ability to influence gastrointestinal physiology and the gut microbiota. These molecules encompass plant-derived miRNAs implicated in cross-kingdom regulation, animal-derived dietary miRNAs involved in cross-species communication, and maternal milk miRNAs that may participate in mother-to-offspring molecular crosstalk. A proportion of dietary miRNAs are associated with extracellular vesicles or other protective complexes, which may enhance their stability during food processing and gastrointestinal transit and facilitate interactions with intestinal epithelial cells, immune cells, and microbial communities. This review critically evaluates recent computational, detection-based, in vitro, in vivo, and human observational evidence concerning the gastrointestinal stability, uptake, target engagement, and biological activity of dietary exogenous miRNAs. Experimental studies have reported effects on inflammatory signaling, epithelial barrier integrity, macrophage polarization, intestinal development, tumor-associated pathways, and gut microbial composition and gene expression. However, the strength of this evidence varies considerably. In particular, detection of dietary miRNAs in food, extracellular vesicles, feces, or recipient tissues does not by itself establish functional target regulation, while studies using purified vesicles, synthetic miRNA mimics, or engineered delivery systems may involve exposures that differ substantially from nor…",
-      "authors": "Andrea Méndez-García, Marely Abigail García-Mendoza, Paulina Pérez-Martínez et al.",
+      "title": "Vitamin B12 deficiency: epidemiological trends and risk factors",
+      "abstract": "Vitamin B12 (cobalamin) can only be obtained from animal food sources and is important for several functions, including DNA synthesis, haematopoiesis and myelination. It is one of the most common micronutrient deficiencies worldwide. Accurate estimates of the global burden remain difficult to ascertain because studies differ in the biomarker used (total serum/plasma B12, holotranscobalamin, or methylmalonic acid) and in the diagnostic cut-off applied, and because countrywide, longitudinally comparable data remain limited. This narrative review conducted following a defined literature search and selection strategy described in Section 1.1—synthesizes the current epidemiology of vitamin B12 deficiency, compares India's experience with other nations, and examines how reported prevalence has changed over the past 50 years. Pooled meta-analytic estimates indicate that approximately 50% of the Indian population is affected by vitamin B12 deficiency, among the highest rates reported worldwide. Reported prevalence rises across the life course, from 14% to 17% to 31% to 48% to 62% in pre-schoolers, school-aged children, adolescents, adults and the elderly respectively, with substantial regional heterogeneity within India (Section 2.8). Prevalence among pregnant women has been reported to range from 40% to 70%. The most consistently reported associated factors are dietary pattern (vegetarianism), low socioeconomic status, advancing age and female sex; because the underlying studies are predominantly cross-sectional, these should be read as associations rather than established causal …",
+      "authors": "Gurudayal S. Toteja, Nishant Toteja",
       "published": "Oct 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1974997",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1930037",
+      "image": "",
+      "screen": "right"
+    },
+    {
+      "title": "Study on the correlation between SPISE-IR, METs-IR, TyG and short-term adverse cardiovascular events in patients with heart failure and diabetes mellitus",
+      "abstract": "ObjectiveHeart failure (HF) patients with type 2 diabetes mellitus (T2DM) are at high risk of short-term major adverse cardiovascular events (MACE). Insulin resistance (IR) is a key shared mechanism, yet simple prognostic markers remain limited. This multicenter retrospective cohort study compared three IR surrogate indices (SPISE-IR, METs-IR, and TyG) for predicting 18-month post-discharge MACE in hospitalized HF-T2DM patients, aiming to identify practical tools for risk stratification.MethodsA total of 477 hospitalized HF-T2DM patients from two tertiary hospitals in Zhejiang (2018–2024) were enrolled according to unified criteria. Baseline clinical, laboratory, echocardiographic, and medication data were collected to calculate SPISE-IR, METs-IR, and TyG. The primary outcome was 18-month post-discharge composite MACE. Associations were evaluated using Cox regression and RCS, while predictive performance was assessed by ROC and PR curves, DCA, NRI, IDI, and subgroup analyses.ResultsOf 477 patients, 191 (40.04%) experienced MACE over 18 months, including 3 cardiovascular deaths. Patients with MACE were older, had lower LVEF, worse renal function, and higher NT-proBNP (all p < 0.05). On multivariable analysis, SPISE-IR (HR 9.31, 95% CI 5.96–14.55, p < 0.001) and METs-IR (HR 1.07, 95% CI 1.05–1.09, p < 0.001) were associated with MACE, whereas TyG was not (HR 1.19, 95% CI 0.95–1.49, p = 0.127). SPISE-IR and METs-IR showed significant nonlinear dose–response relationships and yielded AUCs of 0.790 and 0.801, respectively, versus 0.539 for TyG. Higher SPISE-IR and METs-IR quarti…",
+      "authors": "Haoxuan Deng, Qiyue Zhu, Changjin Lin et al.",
+      "published": "Oct 2026",
+      "feedName": "Frontiers Nutrition",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1938459",
       "image": "",
       "screen": "right"
     },
@@ -508,16 +518,6 @@
       "published": "Oct 2026",
       "feedName": "Frontiers Nutrition",
       "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1818522",
-      "image": "",
-      "screen": "right"
-    },
-    {
-      "title": "Addressing the burden and associated factors of undernutrition in under-five children with congenital heart disease in Pakistan: evidence from a multicenter cross-sectional study",
-      "abstract": "BackgroundChildren with congenital heart disease (CHD) are at heightened risk of undernutrition due to elevated metabolic demands, feeding intolerance, and growth failure. This study aimed to identify the associated factors of undernutrition among children under 5 years with CHD in Pakistan.MethodsA hospital-based study was carried out among 197 confirmed CHD across three tertiary hospitals in Bannu, Khyber Pakhtunkhwa (KP). WHO-recommended standards and structured questionnaires were used. Multivariable logistic regression analysis was performed to identify independent predictors of undernutrition.ResultsOverall, 58.9% were male, 40.1% were stunted, 44.2% were underweight, and 35.5% were wasted. Ventricular septal defect was the most common CHD (34.5%), followed by patent ductus arteriosus (23.4%). Infants aged 6–11 months had the most severe deficits. Male children had significantly higher odds of wasting than female children (adjusted odds ratio [aOR] = 2.10, 95% CI: 1.10–3.98), whereas children from households with a monthly income of ≥ PKR 40,000 had lower odds of wasting (aOR = 0.45, 95% CI: 0.24–0.84) and underweight (aOR = 0.52, 95% CI: 0.29–0.94). Similarly, children whose fathers were government employees (aOR = 0.30, 95% CI: 0.09–0.98) also had lower odds of being underweight. No sociodemographic or clinical variables were significantly associated with stunting (all p > 0.05).ConclusionUndernutrition exhibits a high distribution and severity among young CHD children. Multiple associated factors of undernutrition based on wasting and underweight were identified. T…",
-      "authors": "Muhammad Imran Khan, Ijaz ul Haq, Muhammad Awais et al.",
-      "published": "Oct 2026",
-      "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1953133",
       "image": "",
       "screen": "right"
     },
@@ -924,7 +924,7 @@
     {
       "title": "The Anticonvulsant Effects of Different Cannabis Extracts in a Zebrafish Model of Epilepsy",
       "abstract": "Epilepsy is a widespread neurological disorder that remains a critical global public health challenge. While numerous antiepileptic drugs (AEDs) are available, many patients either fail to achieve adequate seizure control or experience significant side effects. One promising alternative is pure cannabidiol (CBD), but using a whole cannabis extract may be equally effective and preferred for some patients. In the current study, we employed the pentylenetetrazole (PTZ)-induced hyperactivity model in zebrafish to compare the effects of CBD with various cannabis extracts. We evaluated three cannabis strains, each subjected to three different extraction methods, and benchmarked the results against the commercially available AED valproic acid (VPA). Our findings revealed that 5.7 µg/mL of CBD and 10 µg/mL of different extracts significantly reduced movement compared to PTZ and VPA. In addition, effective extracts produced effects similar to pure CBD despite containing much lower molecule levels. These results reinforced and expanded previous evidence supporting the clinical potential of both CBD and whole cannabis extracts for seizure control while suggesting a possible entourage effect. Further research is necessary to determine which patients may benefit more from pure CBD versus those who might prefer whole cannabis extracts.",
-      "authors": "Karen Jackson, Maytal Shabat-Simon, J. Bar-on et al.",
+      "authors": "Karen Jackson, M. Shabat-Simon, J. Bar-on et al.",
       "published": "2025",
       "venue": "Biomolecules",
       "feedName": "Lab Research",
@@ -1148,8 +1148,8 @@
       "published": "2023",
       "venue": "Atmospheric Chemistry and Physics",
       "feedName": "Lab Research",
-      "citationCount": 11,
-      "recentCitations": 0,
+      "citationCount": 12,
+      "recentCitations": 1,
       "quartile": "Q1",
       "s2_paper_id": "d2f58630c5b33511a9ff3fe822b2154de726bbcb",
       "url": "https://doi.org/10.5194/acp-23-4881-2023",

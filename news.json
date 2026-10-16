@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T19:14:04Z",
+  "updated": "2026-10-16T22:23:32Z",
   "items": [
     {
       "title": "Refined crop modelling reveals intensifying impacts of droughts and heatwaves on global wheat productivity",
@@ -282,6 +282,16 @@
       "screen": "left"
     },
     {
+      "title": "A glycoprotein from Hericium erinaceus attenuates metabolic disorders in type 2 diabetic mice",
+      "abstract": "",
+      "authors": "Ximei Wang, Yuanfeng Wang, Di Wu et al.",
+      "published": "Oct 2026",
+      "feedName": "npj Science of Food",
+      "url": "https://www.nature.com/articles/s41538-026-01205-8",
+      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01205-8/MediaObjects/41538_2026_1205_Fig1_HTML.png",
+      "screen": "left"
+    },
+    {
       "title": "Preventive mechanisms of Potentilla longifolia against MASLD based on chemical profiling, network pharmacology, and metabolomics",
       "abstract": "",
       "authors": "Shengxi Lin, Liqiu Zhang, Zimo Wang et al.",
@@ -309,16 +319,6 @@
       "feedName": "npj Science of Food",
       "url": "https://www.nature.com/articles/s41538-026-01151-5",
       "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01151-5/MediaObjects/41538_2026_1151_Fig1_HTML.png",
-      "screen": "left"
-    },
-    {
-      "title": "Daucus carota-derived extracellular vesicles lowers ammonia and improves lysine–butanoate metabolism in animal model of hepatic encephalopathy",
-      "abstract": "",
-      "authors": "P. Debishree Subudhi, Sukriti Baweja, Shruthi Chalil Sureshan et al.",
-      "published": "Oct 2026",
-      "feedName": "npj Science of Food",
-      "url": "https://www.nature.com/articles/s41538-026-01183-x",
-      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01183-x/MediaObjects/41538_2026_1183_Fig1_HTML.png",
       "screen": "left"
     },
     {
@@ -362,6 +362,16 @@
       "screen": "left"
     },
     {
+      "title": "Light and ultrasound reveal renewable routes to compounds for pharmaceutical research",
+      "abstract": "Sustainable packaging is only the beginning. What a medicine is made from—and how its ingredients are produced—matters just as much. Yet the synthesis of compounds for pharmaceutical research can still depend on fossil feedstocks, high temperatures, strong oxidants and metals that raise costs and complicate purification. Two recently published studies from Colmenares' group at IPC PAS demonstrate that cleaner chemistry can begin at the level of a single chemical bond. The studies are published in the journal Ultrasonics Sonochemistry and Chemistry—A European Journal.",
+      "authors": "",
+      "published": "Oct 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-10-ultrasound-reveal-renewable-routes-compounds.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/green-pharmaceuticals.jpg",
+      "screen": "right"
+    },
+    {
       "title": "New water safety rapid testing method cuts time to results from six hours to 30 minutes",
       "abstract": "FIU researchers have developed a faster, more efficient method to detect forever chemicals in the water system, cutting the testing time from over six hours to just 30 minutes. These findings, which could enhance how water safety is monitored, were published in the Journal of Chromatography A.",
       "authors": "",
@@ -389,16 +399,6 @@
       "feedName": "Phys.org Analytics",
       "url": "https://phys.org/news/2026-10-chemical-approach-trial-error.html",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/transferable-chemical.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "Electron density check offers better starting point for chemistry's most difficult metal molecules",
-      "abstract": "New materials and catalysts have the potential to transform everything from food production and medicine to batteries and stainless steel. Computer simulations help scientists narrow down promising candidates before testing them in a lab, but those simulations can be unreliable, especially for molecules that contain multiple metals.",
-      "authors": "",
-      "published": "Oct 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-10-electron-density-chemistry-difficult-metal.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/the-right-starting-pla.jpg",
       "screen": "right"
     },
     {

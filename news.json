@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T02:29:44Z",
+  "updated": "2026-10-16T08:42:14Z",
   "items": [
     {
       "title": "Refined crop modelling reveals intensifying impacts of droughts and heatwaves on global wheat productivity",
@@ -202,12 +202,12 @@
       "screen": "left"
     },
     {
-      "title": "Preparation and characterization of corn starch-based food packaging films: effects of thymol essential oil and ZnO nanoparticles on physicochemical, mechanical, barrier, thermal, and antimicrobial properties",
-      "abstract": "Conventional petroleum-based food packaging materials pose significant environmental challenges due to their non-biodegradable nature, highlighting the need for sustainable alternatives with enhanced functional properties. Therefore, this study aimed to develop biodegradable corn starch-based composite films incorporated with varying concentrations of thymol essential oil (0.1, 0.2, and 0.3 wt% of corn starch) and ZnO nanoparticles (5, 16, 28, and 33 wt% of corn starch) and to evaluate their physicochemical, structural, thermal, and antimicrobial properties. The films were characterized using thermogravimetric analysis (TGA), scanning electron microscopy (SEM), X-ray diffraction (XRD), and other physicochemical analyses, while their antimicrobial activity against Staphylococcus aureus was also investigated. The results demonstrated that ZnO nanoparticles significantly enhanced the thermal stability and crystallinity of the corn starch films, whereas thymol essential oil markedly improved their antimicrobial activity. Among all formulations, the film containing 0.3 wt% thymol and 28 wt% ZnO nanoparticles exhibited the well-balanced performance, showing improved mechanical strength, reduced water vapor permeability, enhanced structural integrity, and effective antimicrobial activity. The incorporation of thymol and ZnO nanoparticles also influenced the films’ thickness and optical properties, indicating successful modification of the starch matrix. These findings demonstrate that thymol- and ZnO nanoparticle-reinforced corn starch films are promising biodegradable materials f…",
-      "authors": "Annie Fatima, Faizan Ahamd, Pir Mohammad Junaid",
+      "title": "AI-guided extraction of plant-derived bioactives for edible packaging films",
+      "abstract": "The increasing concern for plastic pollution and the rising demand for sustainable food packaging, have accelerated research on edible packaging films fortified with bioactive compounds from plants. Phytochemicals such as flavonoids, terpenoids and polyphenols confer antioxidant, antimicrobial and functional properties to improve food safety, maintain quality and extend shelf-life. However, conventional extraction methods such as Soxhlet, maceration and solvent extraction have disadvantages of high solvent and energy consumption, low selectivity and extraction efficiency and thermal degradation of bioactives. Furthermore, the nonlinear relationships among the extraction variables are complex and limit the performance of conventional statistical optimization methods. This review critically examines the integration of conventional statistical optimization tools, especially response surface methodology (RSM) and design of experiments (DoE), with machine learning (ML) and deep learning (DL) strategies for advanced green extraction processes such as microwave-assisted, ultrasound-assisted, enzyme-assisted, supercritical fluid, pulsed electric field, and pressurized liquid extraction. RSM/DoE helps in systematic experimental design and optimization of processes, whereas ML methods, including Artificial Neural Network (ANN), Support Vector Regression (SVR), Random Forest (RF), and Adaptive Neuro-Fuzzy Inference System (ANFIS), enable data-assisted prediction of nonlinear relationships. DL architectures, including Convolutional Neural Networks (CNNs), autoencoders (AE), transformer…",
+      "authors": "Yogesh Kumar Awasthi, Renu Bala Sharma, Mehak Katyal et al.",
       "published": "Oct 2026",
       "feedName": "Frontiers Food Science",
-      "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.1922246",
+      "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.1970043",
       "image": "",
       "screen": "left"
     },
@@ -222,22 +222,22 @@
       "screen": "left"
     },
     {
+      "title": "Preparation and characterization of corn starch-based food packaging films: effects of thymol essential oil and ZnO nanoparticles on physicochemical, mechanical, barrier, thermal, and antimicrobial properties",
+      "abstract": "Conventional petroleum-based food packaging materials pose significant environmental challenges due to their non-biodegradable nature, highlighting the need for sustainable alternatives with enhanced functional properties. Therefore, this study aimed to develop biodegradable corn starch-based composite films incorporated with varying concentrations of thymol essential oil (0.1, 0.2, and 0.3 wt% of corn starch) and ZnO nanoparticles (5, 16, 28, and 33 wt% of corn starch) and to evaluate their physicochemical, structural, thermal, and antimicrobial properties. The films were characterized using thermogravimetric analysis (TGA), scanning electron microscopy (SEM), X-ray diffraction (XRD), and other physicochemical analyses, while their antimicrobial activity against Staphylococcus aureus was also investigated. The results demonstrated that ZnO nanoparticles significantly enhanced the thermal stability and crystallinity of the corn starch films, whereas thymol essential oil markedly improved their antimicrobial activity. Among all formulations, the film containing 0.3 wt% thymol and 28 wt% ZnO nanoparticles exhibited the well-balanced performance, showing improved mechanical strength, reduced water vapor permeability, enhanced structural integrity, and effective antimicrobial activity. The incorporation of thymol and ZnO nanoparticles also influenced the films’ thickness and optical properties, indicating successful modification of the starch matrix. These findings demonstrate that thymol- and ZnO nanoparticle-reinforced corn starch films are promising biodegradable materials f…",
+      "authors": "Annie Fatima, Faizan Ahamd, Pir Mohammad Junaid",
+      "published": "Oct 2026",
+      "feedName": "Frontiers Food Science",
+      "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.1922246",
+      "image": "",
+      "screen": "left"
+    },
+    {
       "title": "Phytochemical composition and anti-aging potential of different dragon Fruit materials across production seasons",
       "abstract": "BackgroundDragon fruit (Selenicereus spp.) is an important tropical fruit with considerable variation in nutritional and phytochemical quality among fruit types, tissues, and production seasons. This study evaluated such variation using a two-stage experimental design.MethodsFirst, pulp and peel from three dragon fruit types were comparatively characterized for nutritional and phytochemical composition. Second, whole-fruit samples from the three types were evaluated across the January off-season, June main-season, and August late main-season for total phenolic content (TPC), total flavonoid content (TFC), polysaccharide content, DPPH radical-scavenging activity, and elastase and collagenase inhibitory activities. Relationships among compositional and biological variables were further examined using Pearson correlation analysis, principal component analysis (PCA), and CRITIC–TOPSIS.ResultsFruit type and tissue significantly affected the nutritional and phytochemical characteristics evaluated during the January off-season (p < 0.05). In the seasonal experiment, both dragon fruit type and production season significantly influenced all compositional and biological responses (p < 0.001), while significant type × season interactions were observed for most variables (p < 0.05). Across the nine type × season combinations, TPC, TFC, polysaccharide content, DPPH activity, elastase inhibition, and collagenase inhibition ranged from 2.50–4.00 mg GAE/g FW, 2.10–3.20 mg QE/g FW, 1.40–2.70 mg GE/g FW, 65.0–80.0%, 50.0–63.0%, and 45.0–60.0%, respectively. January off-season samples consist…",
       "authors": "Duy Linh Nguyen, Xuan Cuong Dang, Hong Quan Duong et al.",
       "published": "Oct 2026",
       "feedName": "Frontiers Food Science",
       "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.1969633",
-      "image": "",
-      "screen": "left"
-    },
-    {
-      "title": "From solar heat to digital drying: integrating computational fluid dynamics, process optimisation, and digital twins for sustainable tuber-chip drying",
-      "abstract": "Root and tuber crops such as cassava, yam, and sweet potato are central to tropical food systems but remain highly vulnerable to postharvest deterioration because of their high moisture content. Solar drying offers a renewable route to stabilisation, yet practical performance is constrained by fluctuating weather, non-uniform airflow, spatial temperature and humidity gradients, product loading, and strong coupling between external convection and internal moisture transport. This structured narrative mini-review, informed by SANRA and PRISMA reporting principles, synthesises evidence on active solar drying, computational fluid dynamics (CFD), experimental validation, response-surface and multi-objective optimisation, artificial intelligence (AI), sensor systems, and digital twins for tuber-chip processing. Six databases were searched, sources were screened against explicit eligibility criteria, and each of the 45 cited sources was classified by its relationship to tuber-chip drying so that tuber-specific evidence is separated from evidence transferred from other foods and dryer types. Only 12 of the 45 sources were tuber-specific; they concentrate on yam drying kinetics, cassava dryer performance, and one integrated machine-learning and 4E study of sweet-potato solar drying. CFD validation, robust optimisation, surrogate modelling, and digital-twin architectures are, in the evidence assembled, largely transferred from other products or from unloaded or non-tuber systems. Reported effective moisture diffusivities for yam span roughly 6.4 × 10−9 to 1.6 × 10−7 m2 s-1 (up to 4.2…",
-      "authors": "Chinyere Nneoma Ugwu",
-      "published": "Oct 2026",
-      "feedName": "Frontiers Food Science",
-      "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.1985752",
       "image": "",
       "screen": "left"
     },
@@ -482,42 +482,42 @@
       "screen": "right"
     },
     {
-      "title": "Association between serum 25-hydroxyvitamin D₃ and retinol in Chinese children (2019–2023): an isoform-specific cross-sectional analysis",
-      "abstract": "BackgroundChina’s national pediatric supplementation program exclusively uses vitamin D₃ (cholecalciferol). Yet, the association between circulating 25-hydroxyvitamin D₃ [25(OH)D₃] and retinol in Chinese children has not been fully characterized with isoform-specific assays in a large, temporally expanded cohort. This study aimed to characterize the non-linear dose–response relationship between serum 25(OH)D₃ and retinol and to examine how this association varies across demographic and seasonal strata.MethodsWe retrospectively analyzed 6,774 children aged 0–10 years who underwent routine health surveillance across 22 community centers in Ningbo, China (2019–2023). Serum 25(OH)D₃ was resolved separately from D₂ by liquid chromatography–tandem mass spectrometry. Restricted cubic splines (RCS), multivariable linear regression, and bootstrap-validated (n = 1,000) non-linear modeling were used to characterize the D₃–retinol association. Subgroup analyses by sex, age, season, and D₃ stratum were visualized using forest plots.ResultsMean serum 25(OH)D₃ was 30.9 ± 11.1 ng/mL and mean retinol was 272.5 ± 80.6 ng/mL. A significant non-linear, saturable relationship was evident (p-overall < 0.001; p-non-linearity < 0.001). In the lower repletion range, each 1 ng/mL increment in D₃ corresponded to a 3.16 ng/mL rise in retinol (95% CI: 2.66–3.65; p < 0.001); as D₃ increased, the slope progressively attenuated to 1.80 (95% CI: 1.46–2.15; p < 0.001) but remained positive. Bootstrap resampling confirmed a stable transition zone centered at 28.7 ng/mL (95% CI: 26.4–31.2). The association wa…",
-      "authors": "Yue Bi, Jiaxing Yi, Qiao Wang et al.",
+      "title": "From digestion to inflammatory signaling: the Postprandial Bioactive Exposure Axis as a compartment-based conceptual model for mechanistic nutrition research",
+      "abstract": "Mechanistic nutrition research often moves from what a meal contains to what it is claimed to do without clearly defining the exposure steps between ingestion and biological response. This becomes problematic when studies use causal or quasi-causal language about inflammation, barrier function or systemic effects. Digestion, intestinal interaction, epithelial uptake, enterocyte metabolism, microbial conversion, portal or lymphatic transport and post-absorptive handling can each alter the chemical form, concentration, timing and site of action of food-derived molecules. This article proposes the Postprandial Bioactive Exposure Axis, or PBEA, as a compartment-based model for organizing these steps in mechanistic nutrition research. The model separates four operational fractions: bioaccessible, intestinally bioactive, absorbed and systemically relevant. These fractions are levels of exposure inference, not discrete biological compartments. The aim is to help authors match claims to the compartment actually measured. The PBEA adds value by separating luminal availability from local intestinal action, and absorption from systemic relevance. It also helps prevent common overinterpretations, including equating intake with exposure, micellarisation with bioavailability, plasma detection with physiological relevance and indirect blood markers with direct evidence of altered barrier function. The model is intended as a practical tool for study design, model selection, temporal interpretation and more cautious mechanistic claims.",
+      "authors": "Abdulmannan Fadel, Yazan Ranneh",
       "published": "Oct 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1985336",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1859744",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Uric acid-to-HDL-cholesterol ratio and incident carotid atherosclerosis: a retrospective cohort study",
-      "abstract": "BackgroundThe uric acid-to-HDL-cholesterol ratio (UHR) has been proposed as a composite cardiometabolic biomarker, but prospective evidence linking UHR to incident carotid atherosclerosis remains limited.MethodsIn a retrospective cohort of 16,572 adults from a tertiary health examination center in Zhejiang, China, we examined the association between baseline UHR and incident carotid artery lesions using Cox proportional hazards regression. Incremental predictive performance was evaluated using C-statistic, integrated discrimination improvement, continuous net reclassification improvement, median improvement in individual predicted event probabilities, and decision curve analysis.ResultsOver a mean follow-up of 2.7 years, 4,454 incident events occurred. Each 1-SD increment in baseline UHR was independently associated with a 6% higher hazard of incident carotid artery lesions (HR 1.06, 95% CI 1.01–1.11; p = 0.015). In exploratory sex-stratified analyses, the association was statistically significant in males (HR 1.07, 95% CI 1.02–1.12; p = 0.010) but not in females (HR 0.98, 95% CI 0.93–1.04; p = 0.524), though the formal interaction test was not significant (p = 0.261). UHR did not improve discrimination (ΔC = 0.0003) or net clinical benefit despite significant changes in individual predicted event probabilities in males (p = 0.008).ConclusionHigher baseline UHR was independently associated with short-term carotid atherosclerotic progression. Exploratory analyses suggested a possible sex difference, but this requires confirmation in adequately powered studies. While UHR prov…",
-      "authors": "Hezhi Wen, Kaiyang Shao, Yaling Li et al.",
+      "title": "A nutrition–inflammation index weighted toward disease burden: the lactate dehydrogenase-to-albumin ratio in TP53-mutated myeloid neoplasms",
+      "abstract": "BackgroundAlbumin-containing composite indices are frequently labeled as nutrition–inflammation biomarkers, although their biological meaning remains uncertain when direct nutritional assessment is unavailable. We investigated the construct validity and interpretive boundaries of the lactate dehydrogenase-to-albumin ratio (LAR) in TP53-mutated acute myeloid leukemia (AML) and myelodysplastic syndromes (MDS). Specifically, we examined whether pretreatment LAR more closely reflected disease burden or systemic inflammatory status, evaluated the relative contributions of its LDH and albumin components, and assessed its outcome associations and incremental prognostic information.MethodsThis retrospective cohort included 116 patients, with 114 adults included in the primary analysis. Associations of continuous log2-transformed LAR with prespecified disease-burden, acute-phase, and blood-count-derived markers were evaluated using Spearman correlations with false-discovery-rate control. Cox models assessed overall survival (OS), composite progression-free survival (PFS), and the cause-specific rate of progression or relapse. Sensitivity analyses additionally adjusted for the number of TP53 variants detected, co-occurring myeloid mutations and treatment category. Aalen–Johansen and Fine–Gray methods were used to evaluate progression cumulative incidence while accounting for death before progression as a competing event. Nonlinearity and incremental model performance were also examined.ResultsAmong 114 adults, 74 deaths, 93 composite PFS events, 76 progression or relapse events, and …",
+      "authors": "Xiaoqin Xin, Zongqi Wang",
       "published": "Oct 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1951708",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1966874",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Dietary frequency, body satisfaction, anxiety symptoms, and depressive symptoms among offspring of healthcare workers in China",
-      "abstract": "BackgroundDietary behaviors may be associated with body image and emotional health in young people, but evidence integrating these outcomes in Chinese populations remains limited. This study examined associations of dietary frequency with body satisfaction, anxiety symptoms, and depressive symptoms.MethodsThis cross-sectional study included 584 offspring of healthcare workers aged 10–24 years in Zhejiang, China. A 10-item food-frequency questionnaire generated a frequency-based score reflecting more frequent consumption of meat, fish, vegetables, fruit, eggs, soy products, and dairy products and less frequent consumption of pickled, sugary, and fried foods. Multivariable logistic regression and restricted cubic splines were used to assess associations and dose–response patterns. Counterfactual mediation analysis estimated indirect associations through body satisfaction.ResultsThe proportions screening positive for anxiety and depressive symptoms were 23.1 and 33.6%, respectively. In fully adjusted models, higher dietary frequency scores were associated with higher odds of body satisfaction (OR = 1.21, 95% CI: 1.02–1.44) and lower odds of anxiety (OR = 0.65, 95% CI: 0.52–0.79) and depressive symptoms (OR = 0.84, 95% CI: 0.70–0.99). Restricted cubic spline analyses indicated approximately linear associations, with no evidence of nonlinearity. For each 1-SD increase in the dietary frequency score, indirect associations through higher body satisfaction were observed for anxiety (OR = 0.97, 95% CI: 0.93–0.99; 6.8%) and depressive symptoms (OR = 0.96, 95% CI: 0.92–0.99; 17.3%).Co…",
-      "authors": "Tingke Xu, Rongxiu Ding, Chao Lin et al.",
+      "title": "Addressing the burden and associated factors of undernutrition in under-five children with congenital heart disease in Pakistan: evidence from a multicenter cross-sectional study",
+      "abstract": "BackgroundChildren with congenital heart disease (CHD) are at heightened risk of undernutrition due to elevated metabolic demands, feeding intolerance, and growth failure. This study aimed to identify the associated factors of undernutrition among children under 5 years with CHD in Pakistan.MethodsA hospital-based study was carried out among 197 confirmed CHD across three tertiary hospitals in Bannu, Khyber Pakhtunkhwa (KP). WHO-recommended standards and structured questionnaires were used. Multivariable logistic regression analysis was performed to identify independent predictors of undernutrition.ResultsOverall, 58.9% were male, 40.1% were stunted, 44.2% were underweight, and 35.5% were wasted. Ventricular septal defect was the most common CHD (34.5%), followed by patent ductus arteriosus (23.4%). Infants aged 6–11 months had the most severe deficits. Male children had significantly higher odds of wasting than female children (adjusted odds ratio [aOR] = 2.10, 95% CI: 1.10–3.98), whereas children from households with a monthly income of ≥ PKR 40,000 had lower odds of wasting (aOR = 0.45, 95% CI: 0.24–0.84) and underweight (aOR = 0.52, 95% CI: 0.29–0.94). Similarly, children whose fathers were government employees (aOR = 0.30, 95% CI: 0.09–0.98) also had lower odds of being underweight. No sociodemographic or clinical variables were significantly associated with stunting (all p > 0.05).ConclusionUndernutrition exhibits a high distribution and severity among young CHD children. Multiple associated factors of undernutrition based on wasting and underweight were identified. T…",
+      "authors": "Muhammad Imran Khan, Ijaz ul Haq, Muhammad Awais et al.",
       "published": "Oct 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1908874",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1953133",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Nutritional literacy profiles and their association with dietary motivation in adolescents with chronic kidney disease",
-      "abstract": "ObjectiveTo explore potential categories of nutritional literacy among adolescents with chronic kidney disease and differences in dietary motivations across these categories.MethodsThis cross-sectional study included 433 adolescents with chronic kidney disease treated in the pediatric department of a tertiary hospital between March and September 2025. Latent profile analysis identified nutrition literacy profiles, and dietary motivation scores were compared across profiles. Multinomial logistic regression examined associations between participant characteristics and profile membership, using the moderate-literacy profile as the reference. Adjusted odds ratios and 95% confidence intervals were reported.ResultsNutritional literacy among adolescents with chronic kidney disease can be divided into three latent categories: Category 1 is the “high nutrition literacy” comprising 159 participants (36.8%); Category 2 is the “moderate nutrition literacy” comprising 95 participants (21.9%); Category 3 is the “low nutrition literacy” comprising 179 participants (41.3%). Comparisons of total dietary motivation scores among adolescents with chronic kidney disease in different nutritional literacy categories revealed statistically significant differences (p < 0.05). Logistic regression analysis results indicated that gender, being an only child, monthly income, and method of medical payment were independent factors influencing the latent categories of nutritional literacy among adolescents with chronic kidney disease (p < 0.05).ConclusionThere is heterogeneity in nutritional literacy amon…",
-      "authors": "Shuo Bai, Jiwei Qi, Wuyue Xu et al.",
+      "title": "Enhancement without a rationale? Black pepper extract (piperine) in dietary supplements and the future of formulation: a perspective from Japan",
+      "abstract": "Bioavailability enhancers, most notably black pepper extract (piperine), are increasingly added to dietary supplements with claims of “improved absorption.” Piperine raises systemic exposure to co-administered compounds not by enhancing absorption but mainly by inhibiting drug-metabolizing systems, including CYP3A4, CYP2C9, and P-glycoprotein, and can therefore alter concentrations of concomitant medications, including drugs with a narrow therapeutic index. This Perspective argues that piperine is frequently included in multi-ingredient products without a defensible formulation rationale and, in the author's observation, now appears in Japan's practitioner-exclusive (clinic-dispensed) supplement market. A structured summary of 22 human pharmacokinetic studies shows that reports of enhanced nutrient absorption derive from manufacturer-affiliated studies of a few chemical forms; that trials without piperine-manufacturer involvement have not confirmed enhancement for curcumin or resveratrol at supplement doses; and that interaction studies with prescription drugs, mostly from groups with no commercial interest, repeatedly demonstrate altered drug exposure. This asymmetry is compounded by inadvertent supplement–supplement combinations and reports of turmeric–piperine-associated liver injury. The conditions under which piperine is a rational formulation choice are defined, and label warnings are endorsed as necessary but insufficient. “Practitioner-exclusive” labeling does not guarantee a sound formulation, and the good manufacturing practice requirements mandatory for Foods wit…",
+      "authors": "Masaki Kaneko",
       "published": "Oct 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1965268",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1981406",
       "image": "",
       "screen": "right"
     },
@@ -899,6 +899,86 @@
       "researcher": {
         "name": "Gilad Davidson-Rozenfeld",
         "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=vh7tqKQAAAAJ"
+      }
+    },
+    {
+      "title": "The effect of simulation training on the counseling skills of nutritional science students in dietetic internships",
+      "abstract": "Simulations are a common tool in training aircrews, medical personnel and educators, providing experience in scenarios from the relevant content area and expanding the range of responses that simulation participants can acquire before they enter the field. Simulations have also been used in dietetic internships to improve clinical counseling skills. However, the use of structured simulations that involve progressive, multisession patient interactions has not been extensively studied in the context of dietetic internships. This study employed consecutive scenario models where interns developed ongoing interactions with the same simulated patient over multiple sessions, representing a significant methodological innovation in the field. A mixed method methodology was used to analyze closed and open-ended questionnaires which were administered to twenty-one interns, simulation actors and professional dietitians. This pilot study demonstrates the effectiveness of group and individual simulation training in enhancing dietetic interns’ counseling skills during their training and describes how simulation can contribute to both the professional skills and self-efficacy required to lead a counseling session. These findings will enable additional academic departments to examine the integration of simulation into the training programs of interns in tracks that include a practicum.",
+      "authors": "I. Linder, Zafit Lukach, Keren Pergament et al.",
+      "published": "2025",
+      "venue": "BMC Medical Education",
+      "feedName": "Lab Research",
+      "citationCount": 1,
+      "recentCitations": 0,
+      "quartile": "Q1",
+      "s2_paper_id": "5ee7aceac233a82917e92f646d2284fffcfd28b2",
+      "url": "https://doi.org/10.1186/s12909-025-07674-x",
+      "image": "",
+      "screen": "both",
+      "lab_paper": true,
+      "researcher": {
+        "name": "Rafi Steckler",
+        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=BOhLTM0AAAAJ"
+      }
+    },
+    {
+      "title": "The Anticonvulsant Effects of Different Cannabis Extracts in a Zebrafish Model of Epilepsy",
+      "abstract": "Epilepsy is a widespread neurological disorder that remains a critical global public health challenge. While numerous antiepileptic drugs (AEDs) are available, many patients either fail to achieve adequate seizure control or experience significant side effects. One promising alternative is pure cannabidiol (CBD), but using a whole cannabis extract may be equally effective and preferred for some patients. In the current study, we employed the pentylenetetrazole (PTZ)-induced hyperactivity model in zebrafish to compare the effects of CBD with various cannabis extracts. We evaluated three cannabis strains, each subjected to three different extraction methods, and benchmarked the results against the commercially available AED valproic acid (VPA). Our findings revealed that 5.7 µg/mL of CBD and 10 µg/mL of different extracts significantly reduced movement compared to PTZ and VPA. In addition, effective extracts produced effects similar to pure CBD despite containing much lower molecule levels. These results reinforced and expanded previous evidence supporting the clinical potential of both CBD and whole cannabis extracts for seizure control while suggesting a possible entourage effect. Further research is necessary to determine which patients may benefit more from pure CBD versus those who might prefer whole cannabis extracts.",
+      "authors": "Karen Jackson, Maytal Shabat-Simon, J. Bar-on et al.",
+      "published": "2025",
+      "venue": "Biomolecules",
+      "feedName": "Lab Research",
+      "citationCount": 4,
+      "recentCitations": 0,
+      "quartile": "Q1",
+      "s2_paper_id": "e8d95d5b119ba86262a480c8753459d85b64d105",
+      "url": "https://doi.org/10.3390/biom15050654",
+      "image": "",
+      "screen": "both",
+      "lab_paper": true,
+      "researcher": {
+        "name": "Rafi Steckler",
+        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=BOhLTM0AAAAJ"
+      }
+    },
+    {
+      "title": "Physiological Impacts of Energy Drink Consumption: A Clinical Analysis in Adolescents",
+      "abstract": "Energy drink (ED) consumption among Israeli-Arab adolescents is widespread. This study aimed to investigate the acute glycemic and insulin effects of EDs in healthy adolescents. Seventy-one Israeli-Arab adolescents (56% girls, average age 16.04 ± 1.03 years) participated in a non-randomized, case-controlled, open-label study. Participants consumed ED (n = 36) or a volume- and carbohydrate-matched non-caffeinated soft drink (SD, n = 35), followed by a 2 h glucose tolerance test. Blood glucose was measured at baseline and 15, 30, 60, and 120 min post-consumption (T0, T15, T30, T60 and T120, respectively). Serum insulin concentration and caffeine relative intensity were determined 45 min post-consumption (T45). Blood glucose levels peaked significantly at T15 and remained significantly higher at T30 in the ED group compared to the SD group (p = 0.005, p = 0.017, respectively). Insulin concentrations were substantially higher at T45 in the ED group (t [64] = 2.794, p = 0.001). This pattern was especially prominent in heavy ED consumers. A positive correlation emerged between the amount of caffeine consumed (mg/kg), blood glucose levels at T15 and T30, and insulin concentration at T45. This study is the first to demonstrate the glycemic and insulin responses to ED consumption in adolescents, suggesting that regulatory measures limiting ED sales to adolescents could improve their health.",
+      "authors": "Gilad Naveh, Bshara Mansour, Mahmoud Bader et al.",
+      "published": "2024",
+      "venue": "Nutrients",
+      "feedName": "Lab Research",
+      "citationCount": 7,
+      "recentCitations": 0,
+      "quartile": "Q1",
+      "s2_paper_id": "b97e4acafc9606b86df3bd0c797faa7fbcf900b7",
+      "url": "https://doi.org/10.3390/nu16142328",
+      "image": "",
+      "screen": "both",
+      "lab_paper": true,
+      "researcher": {
+        "name": "Rafi Steckler",
+        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=BOhLTM0AAAAJ"
+      }
+    },
+    {
+      "title": "Disrupted gut harmony in attention-deficit/hyperactivity disorder: Dysbiosis and decreased short-chain fatty acids",
+      "abstract": "Background Attention-Deficit Hyperactivity Disorder (ADHD) is a prevalent neurodevelopmental disorder with complex genetic and environmental underpinnings. Emerging evidence suggests a significant role of gut microbiota in ADHD pathophysiology. This study investigates variations in gut microbiota composition and Short-Chain Fatty Acid (SCFA) profiles between children and adolescents with ADHD and healthy controls. Methods The study included 42 ADHD patients and 31 healthy controls, aged 6–18 years. Fecal samples were analyzed for microbial composition using 16S rRNA gene sequencing and for SCFA profiles through gas chromatography-mass spectrometry (GC-MS). The study assessed both α and β diversity of gut microbiota and quantified various SCFAs to compare between the groups. Results ADHD subjects demonstrated significantly reduced gut microbiota diversity, as indicated by lower α-diversity indices (Shannon index, Observed species, Faith PD index) and a trend towards significance in β-diversity (Weighted UniFrac). Notably, the ADHD group exhibited significantly lower levels of key SCFAs, including acetic, propionic, isobutyric, isovaleric, and valeric acids, highlighting a distinct microbial and metabolic profile in these individuals. Conclusion This study uncovers significant alterations in gut microbiota and SCFA profiles in children with ADHD, compared to healthy controls. The observed changes in SCFAs, known for their associations with other behavioral and neurologic pathologies, and for their role in neural signaling. These findings offer a metabolite fingerprint that co…",
+      "authors": "Rafi Steckler, F. Magzal, M. Kokot et al.",
+      "published": "2024",
+      "venue": "Brain, Behavior, & Immunity - Health",
+      "feedName": "Lab Research",
+      "citationCount": 21,
+      "recentCitations": 1,
+      "quartile": null,
+      "s2_paper_id": "e6bf6bc6dc39538aed6d5e9f0a2aad62f0702494",
+      "url": "https://doi.org/10.1016/j.bbih.2024.100829",
+      "image": "",
+      "screen": "both",
+      "lab_paper": true,
+      "researcher": {
+        "name": "Rafi Steckler",
+        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=BOhLTM0AAAAJ"
       }
     },
     {

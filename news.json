@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T08:42:14Z",
+  "updated": "2026-10-16T14:29:48Z",
   "items": [
     {
       "title": "Refined crop modelling reveals intensifying impacts of droughts and heatwaves on global wheat productivity",
@@ -82,42 +82,42 @@
       "screen": "left"
     },
     {
-      "title": "Valorizing seafood processing by-products for prebiotic development: a circular economy approach to gut health",
+      "title": "Probiotics as a dual-function platform: Reshaping food flavor and counteracting pesticide-induced toxicities",
       "abstract": "",
-      "authors": "Ali Hassan, Nadia Yasin, Sana Shahid et al.",
+      "authors": "Jiahui Chen, Haonan Sun, Jiafan Liang et al.",
       "published": "Jan 2027",
       "feedName": "Trends in Food Sci & Tech",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426006035?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426006308?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
     {
-      "title": "Interfacial molecular engineering in lipid digestion: effective mechanisms, regulating strategy and application prospect",
+      "title": "The milpa diet and metabolic health: nutritional, processing, and mechanistic perspectives",
       "abstract": "",
-      "authors": "Xin Huang, Yiqing Su, Wenhui Li et al.",
+      "authors": "Román Cardona-Herrera, Esther Pérez-Carrillo, Elena Franco-Robles et al.",
       "published": "Jan 2027",
       "feedName": "Trends in Food Sci & Tech",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426005881?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S092422442600628X?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
     {
-      "title": "Effects of processing and modification technologies on the structure and techno-functional properties of pea protein isolates",
+      "title": "Artificial intelligence for rational design of bioactive-loaded food emulsions: Leveraging multiscale structural states and multimodal data",
       "abstract": "",
-      "authors": "Tiantian Lin, William Anthony, Nagul Naguleswaran et al.",
+      "authors": "Xiaoyang Shao, Aihang Jiang, Haitao Wang et al.",
       "published": "Jan 2027",
       "feedName": "Trends in Food Sci & Tech",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426005649?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426006242?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
     {
-      "title": "From sensing advances to package decisions: commercialization bottlenecks and implementation strategies for intelligent packaging indicators",
+      "title": "Micro- and nano-carrier systems for enzyme-based active and intelligent packaging: fabrication strategies, applications, and prospects",
       "abstract": "",
-      "authors": "Yuhong Xue, Xiaodong Zhai, Zhou Qin et al.",
+      "authors": "Haoran Han, David Julian McClements, Andreas Blennow et al.",
       "published": "Jan 2027",
       "feedName": "Trends in Food Sci & Tech",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426006072?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426006230?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -362,6 +362,26 @@
       "screen": "left"
     },
     {
+      "title": "Fully automated testing of bulk metals paves the way for AI-driven materials development",
+      "abstract": "Developing stronger and tougher structural metals such as steel requires exploring an enormous range of processing conditions. Even for the same alloy composition, heat treatment can dramatically change the material's microstructure and mechanical properties. If there were a way to automate the process, we could pinpoint ideal conditions much more efficiently. However, experiments on bulk metallic materials are difficult to automate because they require handling solid specimens and integrating large, specialized equipment.",
+      "authors": "",
+      "published": "Oct 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-10-fully-automated-bulk-metals-paves.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/fully-automated-metal.jpg",
+      "screen": "right"
+    },
+    {
+      "title": "Transferable chemical prediction approach may help reduce trial and error",
+      "abstract": "Chemical predictions can help prevent unwanted reactions or improve the efficacy of industrial processes, among other applications, but predicting how chemicals interact can be costly and time-consuming—especially because chemicals may behave differently from one environment to another.",
+      "authors": "",
+      "published": "Oct 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-10-chemical-approach-trial-error.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/transferable-chemical.jpg",
+      "screen": "right"
+    },
+    {
       "title": "Electron density check offers better starting point for chemistry's most difficult metal molecules",
       "abstract": "New materials and catalysts have the potential to transform everything from food production and medicine to batteries and stainless steel. Computer simulations help scientists narrow down promising candidates before testing them in a lab, but those simulations can be unreliable, especially for molecules that contain multiple metals.",
       "authors": "",
@@ -382,23 +402,13 @@
       "screen": "right"
     },
     {
-      "title": "Superheavy-element compound reveals weaker-than-expected bond due to relativistic effects",
-      "abstract": "An international collaboration led by a research group from GSI/FAIR in Darmstadt, Germany, has achieved the first measurement of the chemical stability of a superheavy element compound.",
+      "title": "Scientists discover a plastic-eating “Pac-Man” enzyme with a surprising secret",
+      "abstract": "Scientists have discovered a remarkable “Pac-Man enzyme” that helps bacteria devour certain types of plastic and may offer new hope in the fight against plastic pollution. Researchers found that several biodegradable plastics completely broke down in soil within about a year, while conventional plastic remained largely unchanged.",
       "authors": "",
       "published": "Oct 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-10-superheavy-element-compound-reveals-weaker.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/chemical-bond-of-a-sup.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "Enzyme discovery opens a new route to natural UV-absorbing saclipins",
-      "abstract": "Ultraviolet (UV)-absorbing compounds from natural sources are attracting interest as potential ingredients for cosmetics and other protective materials. Saclipins A and B are unusual UV-absorbing oxylipins produced by the edible freshwater cyanobacterium Aphanothece sacrum, known in Japan as Suizenji-nori. Although these compounds show promising UV-absorbing and other functional properties, their low natural abundance and poorly understood biosynthesis have limited efforts to use them more broadly.",
-      "authors": "",
-      "published": "Oct 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-10-enzyme-discovery-route-natural-uv.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/enzyme-discovery-opens.jpg",
+      "feedName": "ScienceDaily Biotech",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261014015509.htm",
+      "image": "https://www.sciencedaily.com/images/1920/plastic-degrading-bacteria-ideonella-sakaiensis.webp",
       "screen": "right"
     },
     {
@@ -429,16 +439,6 @@
       "feedName": "ScienceDaily Biotech",
       "url": "https://www.sciencedaily.com/releases/2026/08/260811011134.htm",
       "image": "https://www.sciencedaily.com/images/1920/origin-of-life-first-cells-biochemistry.webp",
-      "screen": "right"
-    },
-    {
-      "title": "Scientists just found what keeps plant cells from growing out of control",
-      "abstract": "Before seedlings can photosynthesize, they depend on fatty acids—and on peroxisomes to process them. Researchers discovered that the protein PEX11 not only helps these structures divide but also controls their size during early growth. When key genes were altered, peroxisomes grew abnormally large, suggesting internal vesicles normally keep them in balance. Remarkably, a yeast version of the protein fixed the problem, pointing to a deeply conserved mechanism across species.",
-      "authors": "",
-      "published": "Apr 2026",
-      "feedName": "ScienceDaily Biotech",
-      "url": "https://www.sciencedaily.com/releases/2026/04/260424233201.htm",
-      "image": "https://www.sciencedaily.com/images/1920/enlarged-peroxisomes-lacking-vesicles.webp",
       "screen": "right"
     },
     {
@@ -482,22 +482,32 @@
       "screen": "right"
     },
     {
-      "title": "From digestion to inflammatory signaling: the Postprandial Bioactive Exposure Axis as a compartment-based conceptual model for mechanistic nutrition research",
-      "abstract": "Mechanistic nutrition research often moves from what a meal contains to what it is claimed to do without clearly defining the exposure steps between ingestion and biological response. This becomes problematic when studies use causal or quasi-causal language about inflammation, barrier function or systemic effects. Digestion, intestinal interaction, epithelial uptake, enterocyte metabolism, microbial conversion, portal or lymphatic transport and post-absorptive handling can each alter the chemical form, concentration, timing and site of action of food-derived molecules. This article proposes the Postprandial Bioactive Exposure Axis, or PBEA, as a compartment-based model for organizing these steps in mechanistic nutrition research. The model separates four operational fractions: bioaccessible, intestinally bioactive, absorbed and systemically relevant. These fractions are levels of exposure inference, not discrete biological compartments. The aim is to help authors match claims to the compartment actually measured. The PBEA adds value by separating luminal availability from local intestinal action, and absorption from systemic relevance. It also helps prevent common overinterpretations, including equating intake with exposure, micellarisation with bioavailability, plasma detection with physiological relevance and indirect blood markers with direct evidence of altered barrier function. The model is intended as a practical tool for study design, model selection, temporal interpretation and more cautious mechanistic claims.",
-      "authors": "Abdulmannan Fadel, Yazan Ranneh",
+      "title": "Comparative effects of calcium, vitamin D, and combined supplementation on growth and bone mineral density in healthy children and adolescents: a systematic review and network meta-analysis",
+      "abstract": "BackgroundCalcium and vitamin D are central to skeletal development in childhood, yet the relative effects of calcium alone, vitamin D alone, and their combination on somatic growth and bone mineral density (BMD) in healthy children and adolescents remain unclear.MethodsEight databases were searched from inception through June 2026 for randomized controlled trials of oral calcium and/or vitamin D supplementation. Random-effects pairwise meta-analyses and Bayesian network meta-analysis (NMA) evaluated monthly height growth, monthly weight gain, and BMD at the lumbar spine, femoral neck, and total body.ResultsSixteen RCTs involving approximately 2,100 participants were included. Supplementation did not significantly affect monthly height growth (MD = 0.0441 cm/month, 95% CI [−0.0114, 0.0996]) or monthly weight gain (MD = 0.0075 kg/month, 95% CI [−0.0064, 0.0214]). Small positive differences were observed for lumbar spine BMD (MD = 0.0145 g/cm2, 95% CI [0.0040, 0.0249]), femoral neck BMD (MD = 0.0101 g/cm2, 95% CI [0.0064, 0.0138]), and total body BMD (MD = 0.0110 g/cm2, 95% CI [0.0049, 0.0170]), with substantial heterogeneity for lumbar spine and total body outcomes. Age-subgroup findings were exploratory, and no significant subgroup differences were found by intervention duration. The NMA did not establish consistent superiority of any active regimen.ConclusionCalcium and/or vitamin D supplementation did not appreciably accelerate height or weight gain. Small site-specific increases in aBMD were observed, but their clinical significance remains uncertain and they do not esta…",
+      "authors": "Guochun Lv, Pan Liu, Jing He et al.",
       "published": "Oct 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1859744",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1979566",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "A nutrition–inflammation index weighted toward disease burden: the lactate dehydrogenase-to-albumin ratio in TP53-mutated myeloid neoplasms",
-      "abstract": "BackgroundAlbumin-containing composite indices are frequently labeled as nutrition–inflammation biomarkers, although their biological meaning remains uncertain when direct nutritional assessment is unavailable. We investigated the construct validity and interpretive boundaries of the lactate dehydrogenase-to-albumin ratio (LAR) in TP53-mutated acute myeloid leukemia (AML) and myelodysplastic syndromes (MDS). Specifically, we examined whether pretreatment LAR more closely reflected disease burden or systemic inflammatory status, evaluated the relative contributions of its LDH and albumin components, and assessed its outcome associations and incremental prognostic information.MethodsThis retrospective cohort included 116 patients, with 114 adults included in the primary analysis. Associations of continuous log2-transformed LAR with prespecified disease-burden, acute-phase, and blood-count-derived markers were evaluated using Spearman correlations with false-discovery-rate control. Cox models assessed overall survival (OS), composite progression-free survival (PFS), and the cause-specific rate of progression or relapse. Sensitivity analyses additionally adjusted for the number of TP53 variants detected, co-occurring myeloid mutations and treatment category. Aalen–Johansen and Fine–Gray methods were used to evaluate progression cumulative incidence while accounting for death before progression as a competing event. Nonlinearity and incremental model performance were also examined.ResultsAmong 114 adults, 74 deaths, 93 composite PFS events, 76 progression or relapse events, and …",
-      "authors": "Xiaoqin Xin, Zongqi Wang",
+      "title": "Dietary exogenous microRNAs in the gut: biological effects, mechanistic evidence, and controversies",
+      "abstract": "Dietary exogenous microRNAs (miRNAs) have emerged as potential mediators of interorganismal communication, with growing interest in their ability to influence gastrointestinal physiology and the gut microbiota. These molecules encompass plant-derived miRNAs implicated in cross-kingdom regulation, animal-derived dietary miRNAs involved in cross-species communication, and maternal milk miRNAs that may participate in mother-to-offspring molecular crosstalk. A proportion of dietary miRNAs are associated with extracellular vesicles or other protective complexes, which may enhance their stability during food processing and gastrointestinal transit and facilitate interactions with intestinal epithelial cells, immune cells, and microbial communities. This review critically evaluates recent computational, detection-based, in vitro, in vivo, and human observational evidence concerning the gastrointestinal stability, uptake, target engagement, and biological activity of dietary exogenous miRNAs. Experimental studies have reported effects on inflammatory signaling, epithelial barrier integrity, macrophage polarization, intestinal development, tumor-associated pathways, and gut microbial composition and gene expression. However, the strength of this evidence varies considerably. In particular, detection of dietary miRNAs in food, extracellular vesicles, feces, or recipient tissues does not by itself establish functional target regulation, while studies using purified vesicles, synthetic miRNA mimics, or engineered delivery systems may involve exposures that differ substantially from nor…",
+      "authors": "Andrea Méndez-García, Marely Abigail García-Mendoza, Paulina Pérez-Martínez et al.",
       "published": "Oct 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1966874",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1974997",
+      "image": "",
+      "screen": "right"
+    },
+    {
+      "title": "A systematic review of the effects of diet on the gut microbiota in individuals at elevated risk for colorectal cancer",
+      "abstract": "BackgroundColorectal cancer (CRC) poses a major public health concern, with emerging evidence highlighting the critical role of the gut microbiota in CRC progression. Considering that diet is a major modifiable factor influencing CRC risk, partly through its interaction with the gut microbiome, this systematic review evaluated the effects of dietary intervention RCTs, including supplements, functional foods, whole foods, and dietary patterns, on the gut microbiome in elevated-risk individuals.MethodsA search of PubMed, Scopus, and Web of Science, and manual sourcing of systematic reviews, meta-analyses, and reference lists of relevant papers identified 5,558 records.ResultsFollowing screening, seven studies met inclusion criteria, focusing on microbial diversity and taxonomic composition. Findings demonstrate that effects on microbial diversity metrics were minimal and were observed only with a general healthy eating dietary pattern, navy bean powder interventions, and with one rice bran intervention. No consistent patterns emerged by intervention type (functional compounds, whole foods, or dietary pattern), intervention duration, or by diversity metric. In contrast, genus-level compositional shifts were more frequently reported, although directionality varied by dietary exposure. Enrichment of Faecalibacterium, Bifidobacterium, and Lactobacillus was reported in some rice bran and navy bean interventions, whereas reductions in Akkermansia, Ruminococcus, Bacteroides, Prevotella, and Porphyromonas were observed in others. Among the four trials assessing microbial-derived meta…",
+      "authors": "Saurabh Pandey, Jenna Skidmore, Jaapna Dhillon",
+      "published": "Oct 2026",
+      "feedName": "Frontiers Nutrition",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1818522",
       "image": "",
       "screen": "right"
     },
@@ -508,16 +518,6 @@
       "published": "Oct 2026",
       "feedName": "Frontiers Nutrition",
       "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1953133",
-      "image": "",
-      "screen": "right"
-    },
-    {
-      "title": "Enhancement without a rationale? Black pepper extract (piperine) in dietary supplements and the future of formulation: a perspective from Japan",
-      "abstract": "Bioavailability enhancers, most notably black pepper extract (piperine), are increasingly added to dietary supplements with claims of “improved absorption.” Piperine raises systemic exposure to co-administered compounds not by enhancing absorption but mainly by inhibiting drug-metabolizing systems, including CYP3A4, CYP2C9, and P-glycoprotein, and can therefore alter concentrations of concomitant medications, including drugs with a narrow therapeutic index. This Perspective argues that piperine is frequently included in multi-ingredient products without a defensible formulation rationale and, in the author's observation, now appears in Japan's practitioner-exclusive (clinic-dispensed) supplement market. A structured summary of 22 human pharmacokinetic studies shows that reports of enhanced nutrient absorption derive from manufacturer-affiliated studies of a few chemical forms; that trials without piperine-manufacturer involvement have not confirmed enhancement for curcumin or resveratrol at supplement doses; and that interaction studies with prescription drugs, mostly from groups with no commercial interest, repeatedly demonstrate altered drug exposure. This asymmetry is compounded by inadvertent supplement–supplement combinations and reports of turmeric–piperine-associated liver injury. The conditions under which piperine is a rational formulation choice are defined, and label warnings are endorsed as necessary but insufficient. “Practitioner-exclusive” labeling does not guarantee a sound formulation, and the good manufacturing practice requirements mandatory for Foods wit…",
-      "authors": "Masaki Kaneko",
-      "published": "Oct 2026",
-      "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1981406",
       "image": "",
       "screen": "right"
     },

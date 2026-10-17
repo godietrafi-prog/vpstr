@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T13:28:50Z",
+  "updated": "2026-10-17T16:49:51Z",
   "items": [
     {
       "title": "Refined crop modelling reveals intensifying impacts of droughts and heatwaves on global wheat productivity",
@@ -42,42 +42,42 @@
       "screen": "left"
     },
     {
-      "title": "Sugar selection modulates bread flavor through carbon source-dependent metabolism and transcriptional reprogramming in baker's yeast",
+      "title": "Structure–function relationships of potato protein–gum arabic–β-cyclodextrin ternary complexes for emulsion stability and suppression of volatile release from Chinese giant salamander oil",
       "abstract": "",
-      "authors": "Na Ree Han, Nayoung Lim, Eun Ju Yun et al.",
+      "authors": "Kexin Li, Mengyao Ma, Hanbing Bian et al.",
       "published": "Dec 2026",
       "feedName": "Food Chemistry",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626036939?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626037556?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
     {
-      "title": "Competitive difference-driven Ag@Pt nanozyme on a single gold nanowire sensing platform integrated with machine learning for accurate identification of multiple tetracycline antibiotics",
+      "title": "Synergistic co-stabilization of Pickering-surfactant hybrid emulsions using cellulose nanocrystals and chitin-glucan nanofibers for curcumin delivery systems",
       "abstract": "",
-      "authors": "Yan Zhou, Yaohui Xu, Yu Jin et al.",
+      "authors": "Niramon Maeda, Niramol Sakkayawong, Jirada Singkhonrat",
       "published": "Dec 2026",
       "feedName": "Food Chemistry",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626037155?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S030881462603551X?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
     {
-      "title": "Deep chemometrics for retrospective auditing of the water-nutrient nexus in olive oil via 1D-CNN and explainable AI",
+      "title": "Cocoa bean shell as a novel substrate for kombucha: fermentation dynamics and bioactive potential",
       "abstract": "",
-      "authors": "Lahcen Hssaini",
+      "authors": "Daiana da Silva Dias, Laís de Freitas Leite, Rayssa Neves Alves et al.",
       "published": "Dec 2026",
       "feedName": "Food Chemistry",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626037064?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S030881462603801X?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
     {
-      "title": "A dataset-calibrated multi-module model for evaluating plant oil similarity to human milk lipids: single oil ranking, blending optimization, and machine learning assisted cross-checking",
+      "title": "Positional-isomer composition of palm-kernel-stearin diacylglycerols regulates cooling-induced interfacial crystallization and whipping performance of partially crystalline emulsions",
       "abstract": "",
-      "authors": "Yuankai Wang, Fanlong Wang, Lu Wang et al.",
+      "authors": "Pengkai Xie, Jiajuan Shang, Jianqiang Cheng et al.",
       "published": "Dec 2026",
       "feedName": "Food Chemistry",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626036794?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626037969?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -442,6 +442,16 @@
       "screen": "right"
     },
     {
+      "title": "Scientists discover how deep sleep builds muscle, burns fat, and boosts the brain",
+      "abstract": "Scientists have discovered a surprising two-way relationship between sleep and growth hormone, revealing how the brain carefully balances physical recovery with wakefulness. The findings could help explain why poor sleep harms metabolism and brain health, potentially opening the door to new treatments for sleep and neurological disorders.",
+      "authors": "",
+      "published": "Oct 2026",
+      "feedName": "ScienceDaily Nutrition",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261016081140.htm",
+      "image": "https://www.sciencedaily.com/images/1920/deep-sleep-and-growth-hormone.webp",
+      "screen": "right"
+    },
+    {
       "title": "Eating late at night linked to up to 30% higher risk of liver disease",
       "abstract": "Eating late at night could be putting your liver at risk, according to a large study led by Oregon Health & Science University. Researchers analyzed data from nearly 200,000 people and found that those who regularly ate after dinner or around bedtime had a 20% to 30% higher risk of liver disease, including fatty liver disease and cirrhosis.",
       "authors": "",
@@ -469,16 +479,6 @@
       "feedName": "ScienceDaily Nutrition",
       "url": "https://www.sciencedaily.com/releases/2026/10/261013015805.htm",
       "image": "https://www.sciencedaily.com/images/1920/athletic-man-workout-recovery-ice-bath.webp",
-      "screen": "right"
-    },
-    {
-      "title": "Your gut bacteria could be changing how many calories you absorb",
-      "abstract": "Scientists have developed a model showing that gut bacteria play a surprisingly important role in how many calories we absorb, meaning food labels may not tell the full story. In a controlled study, people eating a high-fiber diet absorbed about 116 fewer calories per day than those eating a typical Western diet, without feeling hungrier.",
-      "authors": "",
-      "published": "Oct 2026",
-      "feedName": "ScienceDaily Nutrition",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261011211613.htm",
-      "image": "https://www.sciencedaily.com/images/1920/bacteria-intestinal-microbiome-in-digestive-tract.webp",
       "screen": "right"
     },
     {
@@ -789,7 +789,7 @@
       "venue": "Foods",
       "feedName": "Lab Research",
       "citationCount": 42,
-      "recentCitations": 1,
+      "recentCitations": 0,
       "quartile": "Q2",
       "s2_paper_id": "58107c8058774580a57d044f21566325035de229",
       "url": "https://doi.org/10.3390/foods11233858",

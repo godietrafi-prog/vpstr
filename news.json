@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T19:57:10Z",
+  "updated": "2026-10-17T21:55:25Z",
   "items": [
     {
       "title": "Refined crop modelling reveals intensifying impacts of droughts and heatwaves on global wheat productivity",
@@ -282,6 +282,16 @@
       "screen": "left"
     },
     {
+      "title": "De novo design of protein binders targeting the human sweet taste receptor as potential sweet proteins",
+      "abstract": "",
+      "authors": "Saisai Ding, Yi Zhang",
+      "published": "Oct 2026",
+      "feedName": "npj Science of Food",
+      "url": "https://www.nature.com/articles/s41538-026-01202-x",
+      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01202-x/MediaObjects/41538_2026_1202_Fig1_HTML.png",
+      "screen": "left"
+    },
+    {
       "title": "A glycoprotein from Hericium erinaceus attenuates metabolic disorders in type 2 diabetic mice",
       "abstract": "",
       "authors": "Ximei Wang, Yuanfeng Wang, Di Wu et al.",
@@ -309,16 +319,6 @@
       "feedName": "npj Science of Food",
       "url": "https://www.nature.com/articles/s41538-026-01175-x",
       "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01175-x/MediaObjects/41538_2026_1175_Fig1_HTML.png",
-      "screen": "left"
-    },
-    {
-      "title": "Effects of packaging materials and storage temperature on the microbiological and physicochemical quality of garlic cloves during storage",
-      "abstract": "",
-      "authors": "Hany S. El-Mesery, Mansuur Husein, Zicheng Hu et al.",
-      "published": "Oct 2026",
-      "feedName": "npj Science of Food",
-      "url": "https://www.nature.com/articles/s41538-026-01151-5",
-      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01151-5/MediaObjects/41538_2026_1151_Fig1_HTML.png",
       "screen": "left"
     },
     {

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T17:04:20Z",
+  "updated": "2026-10-18T19:57:14Z",
   "items": [
     {
       "title": "Refined crop modelling reveals intensifying impacts of droughts and heatwaves on global wheat productivity",
@@ -82,42 +82,42 @@
       "screen": "left"
     },
     {
+      "title": "Artificial intelligence-enabled monitoring and control of heat-induced chemical contaminants during food processing: A review",
+      "abstract": "",
+      "authors": "Qi Zhang, Haiyang Wei, Zhihua Li et al.",
+      "published": "Jan 2027",
+      "feedName": "Trends in Food Sci & Tech",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426006345?dgcid=rss_sd_all",
+      "image": "",
+      "screen": "left"
+    },
+    {
+      "title": "Function-specific test conditions and multiple-function prediction in AI-assisted discovery of food-derived bioactive peptides: Advances, challenges and prospects",
+      "abstract": "",
+      "authors": "Wei Luo, Shuaida Wang, Xixi Cai et al.",
+      "published": "Jan 2027",
+      "feedName": "Trends in Food Sci & Tech",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426006047?dgcid=rss_sd_all",
+      "image": "",
+      "screen": "left"
+    },
+    {
+      "title": "From interfacial engineering to machine learning: Multidimensional anti-interference architectures for biosensors",
+      "abstract": "",
+      "authors": "Xiaopeng Hu, Yuxuan Lin, Xiwen Liu et al.",
+      "published": "Jan 2027",
+      "feedName": "Trends in Food Sci & Tech",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426006369?dgcid=rss_sd_all",
+      "image": "",
+      "screen": "left"
+    },
+    {
       "title": "From clean label to functional food: The characteristics, functionality, and application of phospholipases in the food industry",
       "abstract": "",
       "authors": "Yihao Liu, Hui Sun, Ruili An et al.",
       "published": "Jan 2027",
       "feedName": "Trends in Food Sci & Tech",
       "url": "https://www.sciencedirect.com/science/article/pii/S0924224426006205?dgcid=rss_sd_all",
-      "image": "",
-      "screen": "left"
-    },
-    {
-      "title": "Synthetic microbial communities for vinegar fermentation: Ecological principles and engineering strategies in the context of traditional fermented foods",
-      "abstract": "",
-      "authors": "Ke Wang, Jinsong Li, Yongjian Yu et al.",
-      "published": "Jan 2027",
-      "feedName": "Trends in Food Sci & Tech",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426006321?dgcid=rss_sd_all",
-      "image": "",
-      "screen": "left"
-    },
-    {
-      "title": "Biosensors for bacterial foodborne pathogens in real food matrices: From analytical sensitivity to method readiness",
-      "abstract": "",
-      "authors": "Xingkai Hao, Lijuan He, Zhichao Huang et al.",
-      "published": "Jan 2027",
-      "feedName": "Trends in Food Sci & Tech",
-      "url": "https://www.sciencedirect.com/science/article/pii/S092422442600631X?dgcid=rss_sd_all",
-      "image": "",
-      "screen": "left"
-    },
-    {
-      "title": "Probiotics as a dual-function platform: Reshaping food flavor and counteracting pesticide-induced toxicities",
-      "abstract": "",
-      "authors": "Jiahui Chen, Haonan Sun, Jiafan Liang et al.",
-      "published": "Jan 2027",
-      "feedName": "Trends in Food Sci & Tech",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426006308?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },

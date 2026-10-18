@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T13:45:48Z",
+  "updated": "2026-10-18T17:04:20Z",
   "items": [
     {
       "title": "Refined crop modelling reveals intensifying impacts of droughts and heatwaves on global wheat productivity",
@@ -42,42 +42,42 @@
       "screen": "left"
     },
     {
-      "title": "Structure–function relationships of potato protein–gum arabic–β-cyclodextrin ternary complexes for emulsion stability and suppression of volatile release from Chinese giant salamander oil",
+      "title": "Multi-omics analysis revealed oil accumulation and compositional remodeling in Rhodosporidium toruloides under nitrogen limitation",
       "abstract": "",
-      "authors": "Kexin Li, Mengyao Ma, Hanbing Bian et al.",
+      "authors": "Di Yu, Qitian Huang, Guoqin Ji et al.",
       "published": "Dec 2026",
       "feedName": "Food Chemistry",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626037556?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626037416?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
     {
-      "title": "Synergistic co-stabilization of Pickering-surfactant hybrid emulsions using cellulose nanocrystals and chitin-glucan nanofibers for curcumin delivery systems",
+      "title": "Transfer and processing fate of pesticide residues from feed to milk and dairy products: Kinetics, transformation and precision control",
       "abstract": "",
-      "authors": "Niramon Maeda, Niramol Sakkayawong, Jirada Singkhonrat",
+      "authors": "Naseer Ahmad, Zafir Muhammad, Nazir Ahmad khan et al.",
       "published": "Dec 2026",
       "feedName": "Food Chemistry",
-      "url": "https://www.sciencedirect.com/science/article/pii/S030881462603551X?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626037842?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
     {
-      "title": "Cocoa bean shell as a novel substrate for kombucha: fermentation dynamics and bioactive potential",
+      "title": "Effects of ultrasonic treatment on the quality of dough enriched with whole soybean pulp: insights from starch multi-scale structure and physicochemical properties",
       "abstract": "",
-      "authors": "Daiana da Silva Dias, Laís de Freitas Leite, Rayssa Neves Alves et al.",
+      "authors": "Feng Han, Jialin Song, Ying Sun et al.",
       "published": "Dec 2026",
       "feedName": "Food Chemistry",
-      "url": "https://www.sciencedirect.com/science/article/pii/S030881462603801X?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626037088?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
     {
-      "title": "Positional-isomer composition of palm-kernel-stearin diacylglycerols regulates cooling-induced interfacial crystallization and whipping performance of partially crystalline emulsions",
+      "title": "Electrochemical biosensor for rapid quantification of hyaluronic acid using a carbohydrate-binding module as the recognition element",
       "abstract": "",
-      "authors": "Pengkai Xie, Jiajuan Shang, Jianqiang Cheng et al.",
+      "authors": "Menghui Sun, Xuanwei Mei, Jiajing Li et al.",
       "published": "Dec 2026",
       "feedName": "Food Chemistry",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626037969?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626036332?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -322,6 +322,16 @@
       "screen": "left"
     },
     {
+      "title": "A meta-learning with adversarial domain adaptation method for few-shot cross-region maize height and yield joint prediction",
+      "abstract": "",
+      "authors": "Yongxia Yang, Jiexiao Peng, Jiani Wu et al.",
+      "published": "",
+      "feedName": "AI in Agriculture",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2589721726001212?dgcid=rss_sd_all",
+      "image": "",
+      "screen": "left"
+    },
+    {
       "title": "End-effector picking-pose estimation for tomato harvesting: a fusion approach combining instance segmentation and optimised point-cloud fitting",
       "abstract": "",
       "authors": "Zheming Cui, Jufei Wang, Wuxiong Weng et al.",
@@ -348,16 +358,6 @@
       "published": "",
       "feedName": "AI in Agriculture",
       "url": "https://www.sciencedirect.com/science/article/pii/S2589721726001170?dgcid=rss_sd_all",
-      "image": "",
-      "screen": "left"
-    },
-    {
-      "title": "AI-IoT architectures for dairy welfare assessment: multimodal monitoring, deployment constraints, and the emerging role of digital twins",
-      "abstract": "",
-      "authors": "Yi Zhang, Dongying Bai, Yuanxiao Li et al.",
-      "published": "",
-      "feedName": "AI in Agriculture",
-      "url": "https://www.sciencedirect.com/science/article/pii/S2589721726001194?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -442,6 +442,26 @@
       "screen": "right"
     },
     {
+      "title": "Scientists discover a natural compound that could protect the brain from too much salt",
+      "abstract": "Eating too much salt may do more than raise blood pressure. It could also harm memory and social behavior. In a new study, Japanese researchers discovered that a soy-derived compound called LPC70 helped protect mice from several damaging effects of a high-salt diet. Mice given the supplement had lower blood pressure, better memory, and improved social interactions compared with mice consuming excess salt alone.",
+      "authors": "",
+      "published": "Oct 2026",
+      "feedName": "ScienceDaily Nutrition",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261017230032.htm",
+      "image": "https://www.sciencedaily.com/images/1920/brain-shield-dementia-protection.webp",
+      "screen": "right"
+    },
+    {
+      "title": "Scientists link a strange sugar in red meat to a 63% higher diabetes risk",
+      "abstract": "A study of nearly 90,000 adults found that people consuming the most of a little-known sugar found in red meat had a 63% higher risk of developing type 2 diabetes. Scientists suspect the sugar may trigger chronic inflammation, potentially revealing a hidden connection between red meat and diabetes that goes beyond weight gain.",
+      "authors": "",
+      "published": "Oct 2026",
+      "feedName": "ScienceDaily Nutrition",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261017230031.htm",
+      "image": "https://www.sciencedaily.com/images/1920/fresh-japanese-kobe-beef-steak.webp",
+      "screen": "right"
+    },
+    {
       "title": "Scientists discover how deep sleep builds muscle, burns fat, and boosts the brain",
       "abstract": "Scientists have discovered a surprising two-way relationship between sleep and growth hormone, revealing how the brain carefully balances physical recovery with wakefulness. The findings could help explain why poor sleep harms metabolism and brain health, potentially opening the door to new treatments for sleep and neurological disorders.",
       "authors": "",
@@ -452,33 +472,13 @@
       "screen": "right"
     },
     {
-      "title": "Eating late at night linked to up to 30% higher risk of liver disease",
-      "abstract": "Eating late at night could be putting your liver at risk, according to a large study led by Oregon Health & Science University. Researchers analyzed data from nearly 200,000 people and found that those who regularly ate after dinner or around bedtime had a 20% to 30% higher risk of liver disease, including fatty liver disease and cirrhosis.",
+      "title": "Scientists tested 39 sweeteners and uncovered surprising gut effects",
+      "abstract": "Scientists have discovered that many common sweeteners can interfere with gut bacteria, with some combinations involving medications producing surprisingly strong effects. One sweetener mixed with a widely prescribed antidepressant reduced beneficial bacteria and microbial diversity in laboratory experiments, raising new questions about potential effects on gut health and immunity.",
       "authors": "",
       "published": "Oct 2026",
       "feedName": "ScienceDaily Nutrition",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261014015503.htm",
-      "image": "https://www.sciencedaily.com/images/1920/human-liver-organ-damage.webp",
-      "screen": "right"
-    },
-    {
-      "title": "Cancer is rising in younger adults, and scientists can't fully explain why",
-      "abstract": "A major study found that several cancers are rising faster among younger adults in England, even as smoking, diet, and other established risk factors have generally improved. Excess weight explains only part of the increase, leaving scientists searching for other possible causes, including changes in the gut microbiome and early-life exposures.",
-      "authors": "",
-      "published": "Oct 2026",
-      "feedName": "ScienceDaily Nutrition",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261013015837.htm",
-      "image": "https://www.sciencedaily.com/images/1920/cancer-cells-hiding-on-tissue.webp",
-      "screen": "right"
-    },
-    {
-      "title": "Scientists reveal why some workout recovery tricks can backfire",
-      "abstract": "Ice baths, massages, compression garments, and recovery supplements promise faster muscle recovery, but research suggests their benefits are often overstated, and some techniques may even undermine long-term gains. Scientists say the most effective recovery methods are far simpler and cheaper: getting enough sleep, eating well, and giving muscles time to rebuild.",
-      "authors": "",
-      "published": "Oct 2026",
-      "feedName": "ScienceDaily Nutrition",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261013015805.htm",
-      "image": "https://www.sciencedaily.com/images/1920/athletic-man-workout-recovery-ice-bath.webp",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261016081103.htm",
+      "image": "https://www.sciencedaily.com/images/1920/bifidobacteria-gut-microbiome-probiotic-bacteria.webp",
       "screen": "right"
     },
     {

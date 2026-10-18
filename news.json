@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T23:41:14Z",
+  "updated": "2026-10-18T02:16:50Z",
   "items": [
     {
       "title": "Refined crop modelling reveals intensifying impacts of droughts and heatwaves on global wheat productivity",
@@ -212,22 +212,22 @@
       "screen": "left"
     },
     {
-      "title": "Valorisation of Stichopus fusiformiossa body wall with high-pressure-induced endogenous proteolysis",
-      "abstract": "Collagen-rich marine biomass is a promising source of proteins, peptides, and glycosaminoglycans, but their recovery is constrained by the dense extracellular matrix. This study evaluated high-pressure processing as a short-duration, non-thermal strategy for systematically disassembling the mutable collagenous tissue of Stichopus fusiformiossa and promoting endogenous biotransformation without added water or exogenous enzymes. Body-wall homogenates were treated at 100–600 MPa for 10 min and analysed for recoverable protease activity, protein solubilisation, TCA-soluble peptide-reactive material, sulfated glycosaminoglycans, residual-matrix structure, antioxidant capacity, and pancreatic α-amylase inhibition. HPP increased protease activity from ∼6.3 to 36.9 U/g and soluble protein from ∼46 to 59 mg/g. The TCA-soluble fraction and soluble glycosaminoglycans were maximal at 400 MPa, indicating pressure-dependent matrix mobilisation. FTIR and two-dimensional electrophoresis showed conformational and compositional changes in the residual insoluble collagen-rich fraction, consistent with altered protein partitioning rather than definitive proteome remodelling. Radical-scavenging capacity increased to ∼10.2 μmol Trolox equivalents/g, phenolic compounds to ∼7.1 mg gallic acid equivalents/g, and pancreatic α-amylase inhibition to ∼55%. Collectively, the results support an HPP-associated mechanism involving matrix restructuring, increased endogenous protease accessibility, and mobilisation of functional constituents, establishing HPP as a promising non-thermal valorisation strategy …",
-      "authors": "Aimi Zafirah Kamaruddin, Annette Jaya-Ram, Sau Pinn Woo et al.",
-      "published": "Oct 2026",
-      "feedName": "Frontiers Food Science",
-      "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.1955019",
-      "image": "",
-      "screen": "left"
-    },
-    {
       "title": "Preparation and characterization of corn starch-based food packaging films: effects of thymol essential oil and ZnO nanoparticles on physicochemical, mechanical, barrier, thermal, and antimicrobial properties",
       "abstract": "Conventional petroleum-based food packaging materials pose significant environmental challenges due to their non-biodegradable nature, highlighting the need for sustainable alternatives with enhanced functional properties. Therefore, this study aimed to develop biodegradable corn starch-based composite films incorporated with varying concentrations of thymol essential oil (0.1, 0.2, and 0.3 wt% of corn starch) and ZnO nanoparticles (5, 16, 28, and 33 wt% of corn starch) and to evaluate their physicochemical, structural, thermal, and antimicrobial properties. The films were characterized using thermogravimetric analysis (TGA), scanning electron microscopy (SEM), X-ray diffraction (XRD), and other physicochemical analyses, while their antimicrobial activity against Staphylococcus aureus was also investigated. The results demonstrated that ZnO nanoparticles significantly enhanced the thermal stability and crystallinity of the corn starch films, whereas thymol essential oil markedly improved their antimicrobial activity. Among all formulations, the film containing 0.3 wt% thymol and 28 wt% ZnO nanoparticles exhibited the well-balanced performance, showing improved mechanical strength, reduced water vapor permeability, enhanced structural integrity, and effective antimicrobial activity. The incorporation of thymol and ZnO nanoparticles also influenced the films’ thickness and optical properties, indicating successful modification of the starch matrix. These findings demonstrate that thymol- and ZnO nanoparticle-reinforced corn starch films are promising biodegradable materials f…",
       "authors": "Annie Fatima, Faizan Ahamd, Pir Mohammad Junaid",
       "published": "Oct 2026",
       "feedName": "Frontiers Food Science",
       "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.1922246",
+      "image": "",
+      "screen": "left"
+    },
+    {
+      "title": "Valorisation of Stichopus fusiformiossa body wall with high-pressure-induced endogenous proteolysis",
+      "abstract": "Collagen-rich marine biomass is a promising source of proteins, peptides, and glycosaminoglycans, but their recovery is constrained by the dense extracellular matrix. This study evaluated high-pressure processing as a short-duration, non-thermal strategy for systematically disassembling the mutable collagenous tissue of Stichopus fusiformiossa and promoting endogenous biotransformation without added water or exogenous enzymes. Body-wall homogenates were treated at 100–600 MPa for 10 min and analysed for recoverable protease activity, protein solubilisation, TCA-soluble peptide-reactive material, sulfated glycosaminoglycans, residual-matrix structure, antioxidant capacity, and pancreatic α-amylase inhibition. HPP increased protease activity from ∼6.3 to 36.9 U/g and soluble protein from ∼46 to 59 mg/g. The TCA-soluble fraction and soluble glycosaminoglycans were maximal at 400 MPa, indicating pressure-dependent matrix mobilisation. FTIR and two-dimensional electrophoresis showed conformational and compositional changes in the residual insoluble collagen-rich fraction, consistent with altered protein partitioning rather than definitive proteome remodelling. Radical-scavenging capacity increased to ∼10.2 μmol Trolox equivalents/g, phenolic compounds to ∼7.1 mg gallic acid equivalents/g, and pancreatic α-amylase inhibition to ∼55%. Collectively, the results support an HPP-associated mechanism involving matrix restructuring, increased endogenous protease accessibility, and mobilisation of functional constituents, establishing HPP as a promising non-thermal valorisation strategy …",
+      "authors": "Aimi Zafirah Kamaruddin, Annette Jaya-Ram, Sau Pinn Woo et al.",
+      "published": "Oct 2026",
+      "feedName": "Frontiers Food Science",
+      "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.1955019",
       "image": "",
       "screen": "left"
     },
@@ -282,16 +282,6 @@
       "screen": "left"
     },
     {
-      "title": "De novo design of protein binders targeting the human sweet taste receptor as potential sweet proteins",
-      "abstract": "",
-      "authors": "Saisai Ding, Yi Zhang",
-      "published": "Oct 2026",
-      "feedName": "npj Science of Food",
-      "url": "https://www.nature.com/articles/s41538-026-01202-x",
-      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01202-x/MediaObjects/41538_2026_1202_Fig1_HTML.png",
-      "screen": "left"
-    },
-    {
       "title": "A glycoprotein from Hericium erinaceus attenuates metabolic disorders in type 2 diabetic mice",
       "abstract": "",
       "authors": "Ximei Wang, Yuanfeng Wang, Di Wu et al.",
@@ -319,6 +309,16 @@
       "feedName": "npj Science of Food",
       "url": "https://www.nature.com/articles/s41538-026-01175-x",
       "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01175-x/MediaObjects/41538_2026_1175_Fig1_HTML.png",
+      "screen": "left"
+    },
+    {
+      "title": "Effects of packaging materials and storage temperature on the microbiological and physicochemical quality of garlic cloves during storage",
+      "abstract": "",
+      "authors": "Hany S. El-Mesery, Mansuur Husein, Zicheng Hu et al.",
+      "published": "Oct 2026",
+      "feedName": "npj Science of Food",
+      "url": "https://www.nature.com/articles/s41538-026-01151-5",
+      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01151-5/MediaObjects/41538_2026_1151_Fig1_HTML.png",
       "screen": "left"
     },
     {

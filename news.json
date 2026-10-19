@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19T16:48:49Z",
+  "updated": "2026-10-19T21:57:31Z",
   "items": [
     {
       "title": "Refined crop modelling reveals intensifying impacts of droughts and heatwaves on global wheat productivity",
@@ -302,6 +302,16 @@
       "screen": "left"
     },
     {
+      "title": "Computational refinement for structural identification of catechins and oxidation products in Chinese black tea",
+      "abstract": "",
+      "authors": "Shanbo Zhang, Zhi En Low, Kim-Huey Ee et al.",
+      "published": "Oct 2026",
+      "feedName": "npj Science of Food",
+      "url": "https://www.nature.com/articles/s41538-026-01190-y",
+      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01190-y/MediaObjects/41538_2026_1190_Fig1_HTML.png",
+      "screen": "left"
+    },
+    {
       "title": "De novo design of protein binders targeting the human sweet taste receptor as potential sweet proteins",
       "abstract": "",
       "authors": "Saisai Ding, Yi Zhang",
@@ -309,16 +319,6 @@
       "feedName": "npj Science of Food",
       "url": "https://www.nature.com/articles/s41538-026-01202-x",
       "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01202-x/MediaObjects/41538_2026_1202_Fig1_HTML.png",
-      "screen": "left"
-    },
-    {
-      "title": "A glycoprotein from Hericium erinaceus attenuates metabolic disorders in type 2 diabetic mice",
-      "abstract": "",
-      "authors": "Ximei Wang, Yuanfeng Wang, Di Wu et al.",
-      "published": "Oct 2026",
-      "feedName": "npj Science of Food",
-      "url": "https://www.nature.com/articles/s41538-026-01205-8",
-      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01205-8/MediaObjects/41538_2026_1205_Fig1_HTML.png",
       "screen": "left"
     },
     {

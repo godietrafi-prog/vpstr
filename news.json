@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19T09:34:25Z",
+  "updated": "2026-10-19T16:48:49Z",
   "items": [
     {
       "title": "Refined crop modelling reveals intensifying impacts of droughts and heatwaves on global wheat productivity",
@@ -42,42 +42,42 @@
       "screen": "left"
     },
     {
-      "title": "Multi-omics analysis revealed oil accumulation and compositional remodeling in Rhodosporidium toruloides under nitrogen limitation",
+      "title": "An NIR fluorescent probe for dynamic monitoring of β-lactoglobulin: from milk quality analysis to biological imaging",
       "abstract": "",
-      "authors": "Di Yu, Qitian Huang, Guoqin Ji et al.",
+      "authors": "Wen-Xuan Qin, Jing Zhang, Xiang Ding et al.",
       "published": "Dec 2026",
       "feedName": "Food Chemistry",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626037416?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626037933?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
     {
-      "title": "Transfer and processing fate of pesticide residues from feed to milk and dairy products: Kinetics, transformation and precision control",
+      "title": "Pigment-associated metabolic signatures and processing stability in color-diverse carrot accessions: a chemometric and functional analysis",
       "abstract": "",
-      "authors": "Naseer Ahmad, Zafir Muhammad, Nazir Ahmad khan et al.",
+      "authors": "Aneela Nijabat, Aqil Farooq, Muhammad Anwer Shah et al.",
       "published": "Dec 2026",
       "feedName": "Food Chemistry",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626037842?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626037702?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
     {
-      "title": "Effects of ultrasonic treatment on the quality of dough enriched with whole soybean pulp: insights from starch multi-scale structure and physicochemical properties",
+      "title": "Encapsulation of cinnamaldehyde into V-type starch derived from different sources: structural characteristics and emulsifying properties",
       "abstract": "",
-      "authors": "Feng Han, Jialin Song, Ying Sun et al.",
+      "authors": "Jieyao Chen, Shixin Wan, Pei Chen et al.",
       "published": "Dec 2026",
       "feedName": "Food Chemistry",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626037088?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626037192?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
     {
-      "title": "Electrochemical biosensor for rapid quantification of hyaluronic acid using a carbohydrate-binding module as the recognition element",
+      "title": "Hydroxyl position of 3 flavonoid isomers modulate gelatin structure-properties relationship: Structural rearrangement, non-covalent binding mechanism and function regulation",
       "abstract": "",
-      "authors": "Menghui Sun, Xuanwei Mei, Jiajing Li et al.",
+      "authors": "Kexin Fu, Jie Gao, Fangkun Zhao et al.",
       "published": "Dec 2026",
       "feedName": "Food Chemistry",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626036332?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626036721?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -282,6 +282,26 @@
       "screen": "left"
     },
     {
+      "title": "α-Tocopherol-dependent occurrence of linoleic acid 11-hydroperoxide in triacylglycerol: what it signifies in food oxidation and quality",
+      "abstract": "",
+      "authors": "Yuki Kadono, Shunji Kato, Ibuki Kusumoto et al.",
+      "published": "Oct 2026",
+      "feedName": "npj Science of Food",
+      "url": "https://www.nature.com/articles/s41538-026-01200-z",
+      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01200-z/MediaObjects/41538_2026_1200_Fig1_HTML.png",
+      "screen": "left"
+    },
+    {
+      "title": "Banana starch nanoparticles exacerbate colitis by impairing intestinal barrier integrity in mice",
+      "abstract": "",
+      "authors": "Bing Jiang, Chenglu Peng, Przemyslaw Zalewski et al.",
+      "published": "Oct 2026",
+      "feedName": "npj Science of Food",
+      "url": "https://www.nature.com/articles/s41538-026-01206-7",
+      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01206-7/MediaObjects/41538_2026_1206_Fig1_HTML.png",
+      "screen": "left"
+    },
+    {
       "title": "De novo design of protein binders targeting the human sweet taste receptor as potential sweet proteins",
       "abstract": "",
       "authors": "Saisai Ding, Yi Zhang",
@@ -299,26 +319,6 @@
       "feedName": "npj Science of Food",
       "url": "https://www.nature.com/articles/s41538-026-01205-8",
       "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01205-8/MediaObjects/41538_2026_1205_Fig1_HTML.png",
-      "screen": "left"
-    },
-    {
-      "title": "Preventive mechanisms of Potentilla longifolia against MASLD based on chemical profiling, network pharmacology, and metabolomics",
-      "abstract": "",
-      "authors": "Shengxi Lin, Liqiu Zhang, Zimo Wang et al.",
-      "published": "Oct 2026",
-      "feedName": "npj Science of Food",
-      "url": "https://www.nature.com/articles/s41538-026-01193-9",
-      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01193-9/MediaObjects/41538_2026_1193_Fig1_HTML.png",
-      "screen": "left"
-    },
-    {
-      "title": "Microplastic release from plastic tea bags versus bulk tea and migration of bisphenol A and plasticizer esters",
-      "abstract": "",
-      "authors": "Necla Pehlivan, Kenan Gedik",
-      "published": "Oct 2026",
-      "feedName": "npj Science of Food",
-      "url": "https://www.nature.com/articles/s41538-026-01175-x",
-      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01175-x/MediaObjects/41538_2026_1175_Fig1_HTML.png",
       "screen": "left"
     },
     {
@@ -362,43 +362,43 @@
       "screen": "left"
     },
     {
-      "title": "Light and ultrasound reveal renewable routes to compounds for pharmaceutical research",
-      "abstract": "Sustainable packaging is only the beginning. What a medicine is made from—and how its ingredients are produced—matters just as much. Yet the synthesis of compounds for pharmaceutical research can still depend on fossil feedstocks, high temperatures, strong oxidants and metals that raise costs and complicate purification. Two recently published studies from Colmenares' group at IPC PAS demonstrate that cleaner chemistry can begin at the level of a single chemical bond. The studies are published in the journal Ultrasonics Sonochemistry and Chemistry—A European Journal.",
+      "title": "Giving AI a 'crystal clear' view of the materials world by mapping geometry to text",
+      "abstract": "In principle, artificial intelligence could make finding the right material for an application as simple as ordering dinner: Scientists would tell a large language model what they want, and it would serve them the perfect material for the job.",
       "authors": "",
       "published": "Oct 2026",
       "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-10-ultrasound-reveal-renewable-routes-compounds.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/green-pharmaceuticals.jpg",
+      "url": "https://phys.org/news/2026-10-ai-crystal-view-materials-world.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/giving-ai-a-crystal-cl.jpg",
       "screen": "right"
     },
     {
-      "title": "New water safety rapid testing method cuts time to results from six hours to 30 minutes",
-      "abstract": "FIU researchers have developed a faster, more efficient method to detect forever chemicals in the water system, cutting the testing time from over six hours to just 30 minutes. These findings, which could enhance how water safety is monitored, were published in the Journal of Chromatography A.",
+      "title": "'24/7 unmanned synthesis platform' uses robots and light to produce drug candidates",
+      "abstract": "Even when AI designs molecules with potential as medicines, drug development can be delayed if the process of producing them is slow. KAIST researchers have developed an \"unmanned synthesis platform\" that uses synthesis robots and light to automatically carry out the entire process from mixing raw materials to synthesis and analysis. The technology is expected to help secure a wider range of drug candidate compounds by reducing the burden of repetitive experiments.",
       "authors": "",
       "published": "Oct 2026",
       "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-10-safety-rapid-method-results-hours.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/new-water-safety-rapid.jpg",
+      "url": "https://phys.org/news/2026-10-unmanned-synthesis-platform-robots-drug.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/kaist-develops-247-unm.jpg",
       "screen": "right"
     },
     {
-      "title": "Fully automated testing of bulk metals paves the way for AI-driven materials development",
-      "abstract": "Developing stronger and tougher structural metals such as steel requires exploring an enormous range of processing conditions. Even for the same alloy composition, heat treatment can dramatically change the material's microstructure and mechanical properties. If there were a way to automate the process, we could pinpoint ideal conditions much more efficiently. However, experiments on bulk metallic materials are difficult to automate because they require handling solid specimens and integrating large, specialized equipment.",
+      "title": "A new way to make iridium catalysts for hydrogen production last longer",
+      "abstract": "There are many ways to produce hydrogen, but not all of them are environmentally friendly. Water electrolysis is a promising method that uses electricity to split water into hydrogen and oxygen without producing carbon dioxide (CO₂).",
       "authors": "",
       "published": "Oct 2026",
       "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-10-fully-automated-bulk-metals-paves.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/fully-automated-metal.jpg",
+      "url": "https://phys.org/news/2026-10-iridium-catalysts-hydrogen-production-longer.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/a-new-way-to-make-irid-4.jpg",
       "screen": "right"
     },
     {
-      "title": "Transferable chemical prediction approach may help reduce trial and error",
-      "abstract": "Chemical predictions can help prevent unwanted reactions or improve the efficacy of industrial processes, among other applications, but predicting how chemicals interact can be costly and time-consuming—especially because chemicals may behave differently from one environment to another.",
+      "title": "Frozen in action: Visualizing how a cancer drug scaffold is built",
+      "abstract": "A joint research group led by Ryo Tanifuji and Hiroki Oguri from the University of Tokyo and Yoshikazu Tanaka from Tohoku University has visualized SacC, an enzyme that plays a key role in building the complex five-ring core of safracin B. This core structure is shared with trabectedin, a drug used to treat soft tissue sarcoma.",
       "authors": "",
       "published": "Oct 2026",
       "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-10-chemical-approach-trial-error.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/transferable-chemical.jpg",
+      "url": "https://phys.org/news/2026-10-frozen-action-visualizing-cancer-drug.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/frozen-in-action-visua.jpg",
       "screen": "right"
     },
     {
@@ -418,7 +418,7 @@
       "published": "Oct 2026",
       "feedName": "ScienceDaily Biotech",
       "url": "https://www.sciencedaily.com/releases/2026/10/261008102716.htm",
-      "image": "",
+      "image": "https://www.sciencedaily.com/images/1920/mushroom-farm.webp",
       "screen": "right"
     },
     {
@@ -439,6 +439,16 @@
       "feedName": "ScienceDaily Biotech",
       "url": "https://www.sciencedaily.com/releases/2026/08/260811011134.htm",
       "image": "https://www.sciencedaily.com/images/1920/origin-of-life-first-cells-biochemistry.webp",
+      "screen": "right"
+    },
+    {
+      "title": "Scientists discover why some people still can’t taste food after COVID-19",
+      "abstract": "Scientists have uncovered a possible explanation for why some people struggle to taste food more than a year after recovering from COVID-19. By examining taste buds from patients with lingering symptoms, researchers discovered molecular abnormalities that weaken the signals responsible for detecting sweet, bitter, and savory flavors.",
+      "authors": "",
+      "published": "Oct 2026",
+      "feedName": "ScienceDaily Nutrition",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261018205033.htm",
+      "image": "https://www.sciencedaily.com/images/1920/woman-tongue-taste-buds-close.webp",
       "screen": "right"
     },
     {
@@ -469,16 +479,6 @@
       "feedName": "ScienceDaily Nutrition",
       "url": "https://www.sciencedaily.com/releases/2026/10/261016081140.htm",
       "image": "https://www.sciencedaily.com/images/1920/deep-sleep-and-growth-hormone.webp",
-      "screen": "right"
-    },
-    {
-      "title": "Scientists tested 39 sweeteners and uncovered surprising gut effects",
-      "abstract": "Scientists have discovered that many common sweeteners can interfere with gut bacteria, with some combinations involving medications producing surprisingly strong effects. One sweetener mixed with a widely prescribed antidepressant reduced beneficial bacteria and microbial diversity in laboratory experiments, raising new questions about potential effects on gut health and immunity.",
-      "authors": "",
-      "published": "Oct 2026",
-      "feedName": "ScienceDaily Nutrition",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261016081103.htm",
-      "image": "https://www.sciencedaily.com/images/1920/bifidobacteria-gut-microbiome-probiotic-bacteria.webp",
       "screen": "right"
     },
     {
@@ -764,7 +764,7 @@
     {
       "title": "New Analytical Approach to Quinolizidine Alkaloids and Their Assumed Biosynthesis Pathways in Lupin Seeds",
       "abstract": "Alkaloids play an essential role in protecting plants against herbivores. Humans can also benefit from the pharmacological effects of these compounds. Plants produce an immense variety of structurally different alkaloids, including quinolizidine alkaloids, a group of bi-, tri-, and tetracyclic compounds produced by Lupinus species. Various lupin species produce different alkaloid profiles. To study the composition of quinolizidine alkaloids in lupin seeds, we collected 31 populations of two wild species native to Israel, L. pilosus and L. palaestinus, and analyzed their quinolizidine alkaloid contents. Our goal was to study the alkaloid profiles of these two wild species to better understand the challenges and prospective uses of wild lupins. We compared their profiles with those of other commercial and wild lupin species. To this end, a straightforward method for extracting alkaloids from seeds and determining the quinolizidine alkaloid profile by LC–MS/MS was developed and validated in-house. For the quantification of quinolizidine alkaloids, 15 analytical reference standards were used. We used GC–MS to verify and cross-reference the identity of certain alkaloids for which no analytical standards were available. The results enabled further exploration of quinolizidine alkaloid biosynthesis. We reviewed and re-analyzed the suggested quinolizidine alkaloid biosynthesis pathway, including the relationship between the amino acid precursor l-lysine and the different quinolizidine alkaloids occurring in seeds of lupin species. Revealing alkaloid compositions and highlighting so…",
-      "authors": "D. Namdar, Patrick P. J. Mulder, E. Ben-Simchon et al.",
+      "authors": "Dvory Namdar, Patrick P. J. Mulder, E. Ben-Simchon et al.",
       "published": "2024",
       "venue": "Toxins",
       "feedName": "Lab Research",
@@ -849,7 +849,7 @@
       "venue": "Journal of the American Chemical Society",
       "feedName": "Lab Research",
       "citationCount": 26,
-      "recentCitations": 0,
+      "recentCitations": 3,
       "quartile": "Q1",
       "s2_paper_id": "e8f95caa1e8ece0c16f246b34ead0788c6d4b146",
       "url": "https://doi.org/10.1021/jacs.4c00625",

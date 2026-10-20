@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20T13:18:41Z",
+  "updated": "2026-10-20T18:32:33Z",
   "items": [
     {
       "title": "Refined crop modelling reveals intensifying impacts of droughts and heatwaves on global wheat productivity",
@@ -42,42 +42,42 @@
       "screen": "left"
     },
     {
-      "title": "An NIR fluorescent probe for dynamic monitoring of β-lactoglobulin: from milk quality analysis to biological imaging",
+      "title": "Electroactive MnO 2 nanorods-integrated grafted pectic acid nanocomposite for enzyme-free hydrogen peroxide determination in milk and salami samples",
       "abstract": "",
-      "authors": "Wen-Xuan Qin, Jing Zhang, Xiang Ding et al.",
+      "authors": "M.S. Hashem, Hend S. Magar",
       "published": "Dec 2026",
       "feedName": "Food Chemistry",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626037933?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626036666?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
     {
-      "title": "Pigment-associated metabolic signatures and processing stability in color-diverse carrot accessions: a chemometric and functional analysis",
+      "title": "In-situ formed selenium-enriched CoSe 2 –FeSe 2 /N-doped MWCNT heterostructure for detection of butralin in agricultural food commodities",
       "abstract": "",
-      "authors": "Aneela Nijabat, Aqil Farooq, Muhammad Anwer Shah et al.",
+      "authors": "Thangavelu Sakthi Priya, Shen-Ming Chen",
       "published": "Dec 2026",
       "feedName": "Food Chemistry",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626037702?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626037143?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
     {
-      "title": "Encapsulation of cinnamaldehyde into V-type starch derived from different sources: structural characteristics and emulsifying properties",
+      "title": "Hydrophobic modified starch reinforced chitosan/lignosulfonate composite film for cherry tomatoes preservation",
       "abstract": "",
-      "authors": "Jieyao Chen, Shixin Wan, Pei Chen et al.",
+      "authors": "Xijiao Bian, Zhuqing Liu, Jiaqian Cui et al.",
       "published": "Dec 2026",
       "feedName": "Food Chemistry",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626037192?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626037489?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
     {
-      "title": "Hydroxyl position of 3 flavonoid isomers modulate gelatin structure-properties relationship: Structural rearrangement, non-covalent binding mechanism and function regulation",
+      "title": "Ratio-dependent co-encapsulation of heptanal and 1-octen-3-ol by V-type starch: Structural characterization and molecular dynamics insights",
       "abstract": "",
-      "authors": "Kexin Fu, Jie Gao, Fangkun Zhao et al.",
+      "authors": "Yaolin Dai, Yinghui Zhang, Wuyin Weng et al.",
       "published": "Dec 2026",
       "feedName": "Food Chemistry",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626036721?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626037337?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -362,6 +362,16 @@
       "screen": "left"
     },
     {
+      "title": "New analytical method reveals what happens inside tiny molecular frameworks",
+      "abstract": "Tiny magnetic probes can be used to investigate the chemical forces at work inside the pores of molecular framework compounds, but until now, this had only been possible to a limited degree. A new method developed by a team at Martin Luther University Halle-Wittenberg (MLU) could help to better understand the properties of these materials and control these properties in the future. The study is published in the journal Small.",
+      "authors": "",
+      "published": "Oct 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-10-analytical-method-reveals-tiny-molecular.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/new-analytical-method-1.jpg",
+      "screen": "right"
+    },
+    {
       "title": "Giving AI a 'crystal clear' view of the materials world by mapping geometry to text",
       "abstract": "In principle, artificial intelligence could make finding the right material for an application as simple as ordering dinner: Scientists would tell a large language model what they want, and it would serve them the perfect material for the job.",
       "authors": "",
@@ -389,16 +399,6 @@
       "feedName": "Phys.org Analytics",
       "url": "https://phys.org/news/2026-10-iridium-catalysts-hydrogen-production-longer.html",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/a-new-way-to-make-irid-4.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "Frozen in action: Visualizing how a cancer drug scaffold is built",
-      "abstract": "A joint research group led by Ryo Tanifuji and Hiroki Oguri from the University of Tokyo and Yoshikazu Tanaka from Tohoku University has visualized SacC, an enzyme that plays a key role in building the complex five-ring core of safracin B. This core structure is shared with trabectedin, a drug used to treat soft tissue sarcoma.",
-      "authors": "",
-      "published": "Oct 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-10-frozen-action-visualizing-cancer-drug.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/frozen-in-action-visua.jpg",
       "screen": "right"
     },
     {
@@ -482,12 +482,12 @@
       "screen": "right"
     },
     {
-      "title": "Plant-derived bioactives and nutraceuticals in chronic prostatitis/chronic pelvic pain syndrome: clinical evidence, pain-sensitization mechanisms and nutritional translation",
-      "abstract": "Chronic prostatitis/chronic pelvic pain syndrome (CP/CPPS) is a common cause of persistent pelvic pain in men, often accompanied by urinary, sexual and psychosocial symptoms. Clinical heterogeneity and inconsistent treatment responses have shifted mechanistic attention beyond the prostate to peripheral nociceptor sensitization, spinal amplification and altered central pain processing. Plant foods and botanical materials contain polyphenols, terpenes, carotenoids, alkaloids and isothiocyanates that influence inflammatory, redox, nociceptive and microbiota-related pathways. CP/CPPS trials have evaluated these exposures mainly as standardized extracts, concentrated supplements or fixed nutraceutical formulations. This targeted narrative review integrates their clinical evidence with pain-sensitization biology and the determinants of nutritional exposure. Literature searches covered PubMed, Web of Science Core Collection and Scopus for publications dated on or before 8 August 2026, with priority given to controlled and prospective human CP/CPPS studies. Selected standardized extracts have shown clinical benefits, while quercetin is supported by preliminary clinical evidence from one small placebo-controlled trial. Curcumin and antioxidant products have been tested mainly as multi-ingredient formulations. β-Caryophyllene, berberine and sulforaphane provide emerging experimental or adjacent-condition evidence. Across candidates, the most consistent biological links involve peripheral inflammation, oxidative stress, nociceptor excitability and lower urinary tract function. Togethe…",
-      "authors": "Xue Liu, Junfu Mo, Zhirui Sun et al.",
+      "title": "Nutritional status, inflammatory burden, and CT-derived muscle phenotypes for predicting chronic postsurgical pain after total hip arthroplasty: an explainable machine learning study",
+      "abstract": "BackgroundHip fracture (HF) is a common fragility fracture in older adults and may lead to persistent pain and impaired recovery. Chronic postsurgical pain (CPSP) after total hip arthroplasty (THA) negatively affects rehabilitation and quality of life. This study aimed to develop and validate a machine learning model integrating clinical variables, peri-hip muscle characteristics, and nutrition-related inflammatory indicators for CPSP prediction after THA in patients with HF.MethodsThis single-center cohort study included patients with HF undergoing primary unilateral THA between October 2022 and March 2026. Patients from October 2022 to September 2024 were randomly divided into training and internal validation sets, while those from October 2024 to March 2026 served as an independent temporal test set. CPSP was defined as surgery-related pain persisting for ≥3 months with NRS ≥4. Candidate predictors included clinical, psychological, nutritional, inflammatory, and CT-derived muscle parameters. LASSO and Boruta were used for feature selection, and six machine learning algorithms were compared. SHAP analysis was applied to interpret the optimal model.ResultsAmong 881 patients, 137/529 (25.9%) developed CPSP in the development cohort. Seven predictors were selected: GNRI, gluteus medius/minimus muscle density, gluteus medius/minimus cross-sectional area, NLR, age, preoperative anxiety, and PNI. The SVM model showed the best performance, achieving an AUC of 0.854 in the temporal test set, with accuracy of 0.770, sensitivity of 0.789, specificity of 0.763, NPV of 0.913, F1-scor…",
+      "authors": "Xiaodong Jia, Xinkun Han, Xinyu Cui et al.",
       "published": "Oct 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1966858",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1958865",
       "image": "",
       "screen": "right"
     },
@@ -502,22 +502,22 @@
       "screen": "right"
     },
     {
-      "title": "Berberine improves lipid levels, vascular function, and gut microbial-dependent metabolites in stable coronary artery disease patients",
-      "abstract": "Berberine (BBR) has been demonstrated to exert cardiovascular protective effects by regulating lipids and ameliorating inflammation. Recent studies reported the interaction between BBR and gut microbiota in various metabolic diseases due to its low bioavailability. However, few studies examine the effect of BBR on the gut microbiota in coronary artery disease (CAD) individuals. We hence conducted a parallel-controlled, regularly visited clinical trial with 23 stable CAD patients who recently underwent percutaneous coronary intervention and completed a 12-week BBR ± standard therapy treatment. The BBR intervention was associated with a directional improvement in endothelial function, enhanced levels of low-density lipoprotein cholesterol (LDL-C), and a reduction in circulating inflammatory mediators (IL-1α, IL-17, MCP-1, MIP-1β, and VEGF). Using metagenomics and metabolomic studies, we identified that bacterial signatures varied significantly with gradually increasing doses of BBR. These results showed that a specific group of short-chain fatty acid (SCFA)-producing bacteria, mainly Ruminococcus sp., Roseburia sp., and Anaerostipes hadrus, were elevated following the BBR intervention, which was also negatively correlated with inflammatory factors. Notably, regardless of the background standard therapy, BBR reshaped gut-microbiota–encoded aromatic amino acid catabolism: it selectively enriched the microbial L-dopa, 3-hydroxyphenylacetic acid, and phenylpropionic acid branches, which were anchored by increased abundances of dopamine β-monooxygenase, porA, and acdA genes. Overa…",
-      "authors": "Honghong Liu, Siqin Feng, Muyun Tang et al.",
+      "title": "Chinese HSCT patients' perceptions and experiences of nutrition management during transplant-unit hospitalization: a qualitative study",
+      "abstract": "BackgroundMalnutrition and inadequate oral intake are common during hematopoietic stem cell transplantation (HSCT), yet little is known about how patients perceive and experience nutrition management during transplant-unit hospitalization.ObjectiveTo explore Chinese HSCT patients' perceptions and experiences of nutrition management during transplant-unit hospitalization.MethodsA descriptive qualitative study was conducted. 16 HSCT patients were recruited using purposive and maximum variation sampling and completed semi-structured interviews after transplantation. Data were analyzed inductively using conventional content analysis, followed by clinically relevant interpretation informed by interpretive description.ResultsFive themes were identified. Participants recognized nutrition as important, but often held low expectations for nutritional recovery and accepted reduced intake during hospitalization. The transplant-unit environment reduced control over eating through disrupted routines, dietary restrictions, unfamiliar food practices, and mismatched meal patterns. Nutrition-impact symptoms (NIS) not only limited intake, but also changed the meaning of food. Patients sought to regain some control through pragmatic adaptation and expressed preferences for nutritional care that was practical and symptom-adapted, family-inclusive and culturally meaningful, and aligned with realistic recovery timelines.ConclusionsNutrition management during transplant-unit hospitalization was experienced less as a route to recovery than as a constrained effort to sustain minimal intake. These f…",
+      "authors": "Yuqi Wang, Qiuqin Cheng, Minfang Zhu et al.",
       "published": "Oct 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1945710",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1970435",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "The effects of four-week supplementation of Lion’s mane and a Lion’s mane and Reishi blend on prioritised mood and wellbeing measures in young women",
-      "abstract": "BackgroundFunctional mushrooms, particularly Lion’s mane (Hericium erinaceus) and Reishi (Ganoderma lucidum), are increasingly marketed for cognitive and mood-related benefits, despite limited evidence to date.ObjectivesThis trial examined the effects of four-week supplementation of Lion’s mane and a Lion’s mane and Reishi mushroom blend on mood and wellbeing in Gen Z women experiencing subjective stress and/or anxiety.MethodsA preliminary sort-and-rank study was conducted to identify priority outcomes for the population. Following this, a randomised, double-blind, placebo-controlled, parallel-groups trial was conducted. Eighty-four young women (aged 18–26) received either 1.8 g powdered Lion’s mane, 1.8 g powdered Lion’s mane and Reishi mushroom blend, or placebo in capsulated form for 28-days. Mood and wellbeing were assessed at baseline, weekly during the intervention period and at Day 42 (follow-up). Qualitative data regarding subjective changes to wellbeing were collected on Days 28 and 42.ResultsAnalysis indicated that the mushroom blend resulted in lower anxiety (GAD-7) than Lion’s Mane, overall (p = 0.018) and at Day 28 (p = 0.003). Following FDR correction, secondary interactions for anxiety (HADS) and stress (PSS) were attenuated to trend-level, exploratory post hoc tests suggested a pattern of benefits of the mushroom blend over Lion’s mane and placebo at various timepoints (p = 0.001–0.043), though these should be interpreted cautiously rather than confirmatory. Qualitative data supported this pattern. Significant improvements across all psychological measures w…",
-      "authors": "Ellen F. Smith, Sarah Docherty",
+      "title": "Characterization and optimization of a zein-based mesoscopic complex system for Venenum Bufonis delivery",
+      "abstract": "Venenum Bufonis (VB), a traditional Chinese medicine with multiple pharmacological activities, exhibits promising therapeutic potential but is limited by poor aqueous solubility, low bioavailability, and gastrointestinal irritation caused by its toxic components. Developing an effective delivery system is therefore critical for improving its application potential. In this study, zein was employed as a biocompatible carrier to encapsulate VB and construct zein-based mesoscopic complexes (MCS). Four zein-to-VB mass ratios were investigated, and the physicochemical properties, encapsulation performance, stability, and in vitro gastrointestinal release behaviors of the obtained complexes were systematically evaluated. Fourier transform infrared spectroscopy (FTIR) analysis suggested that hydrogen bonding and hydrophobic interactions contributed to the association between zein and VB. Among the investigated formulations, the zein–VB complex prepared at a zein-to-VB mass ratio of 10:1 exhibited the most favorable overall performance, with the highest encapsulation efficiency (98.29%) and moderate drug loading capacity (9.04%). Furthermore, this formulation demonstrated improved storage stability and sustained VB release behavior, with a cumulative release rate of 49.0% under simulated gastrointestinal conditions. The zein-based mesoscopic complex system effectively improved VB dispersibility and provided controlled release characteristics, which may reduce gastrointestinal irritation and enhance VB utilization efficiency. This study provides a potential strategy for developing pl…",
+      "authors": "Peizhi Mao, Shiyin Chen, Fuge Niu et al.",
       "published": "Oct 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1887408",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1916662",
       "image": "",
       "screen": "right"
     },
@@ -722,86 +722,6 @@
       }
     },
     {
-      "title": "Phosphorus in Balance: Evaluating the Costs and Benefits of a Circular Economy Approach",
-      "abstract": "This paper presents a comprehensive cost-benefit analysis of producing alternative phosphorus (P) fertilizers from recycled water treatment residuals (Fe-WTR) and cowshed effluents. The cost-benefit values of Fe-WTR are compared to the net costs of recycling P using a synthetic adsorbent (commonly used practice-layered double hydroxide, P-LDH) and the costs of commercial fertilizers. Dairy wastewater is used as a source of P. The cost of 1 ton P using the Fe-WTR process is €329. In contrast, synthetic adsorbents (P-LDH) incur significantly higher costs, amounting to €3329 per ton, underscoring the economic advantage of utilizing waste-derived materials. Adopting Fe-WTR fertilizer not only offers substantial cost savings by avoiding landfill fees (€40 per ton) and wastewater discharge fines (€500 per ton) but also reduces environmental impacts when compared to the use of commercial P fertilizers (non-recycled P). The Fe-WTR method mitigates eutrophication and pollution, presenting the dual benefit of cost-effectiveness and environmental protection, which exceeds the common P recycling practice (LDH). Our conclusions are based on production processes in Israel and compared to previous cost estimations at the world level, assessing the potential gain from such circular production of P globally. Recycling P from waste streams can be economically viable and environmentally preferable at small and large economic scales, supporting global sustainability goals.",
-      "authors": "H. E. Ganem, I. Zohar, M. Litaor et al.",
-      "published": "2024",
-      "venue": "Journal of Environmental Science Studies",
-      "feedName": "Lab Research",
-      "citationCount": 0,
-      "recentCitations": 0,
-      "quartile": null,
-      "s2_paper_id": "5a7645fb724f2527117a809194848a4b84de25da",
-      "url": "https://doi.org/10.20849/jess.v7i2.1469",
-      "image": "",
-      "screen": "both",
-      "lab_paper": true,
-      "researcher": {
-        "name": "Adi Jonas-Levi",
-        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=MbCf9l4AAAAJ"
-      }
-    },
-    {
-      "title": "The impact of alternative recycled and synthetic phosphorus sources on plant growth and responses, soil interactions and sustainable agriculture - lettuce (Lactuca sativa) as a case model.",
-      "abstract": "This research assesses the efficacy of two phosphorus (P) adsorbents as alternative fertilizers in promoting lettuce growth. A synthetic Mg/Al-layered double hydroxide (LDH) and an iron-based recycled water treatment residual (Fe-WTR), both enriched with P from dairy wastewater and added at three dosage levels. We hypothesized that the adsorbents' physicochemical nature will overshadow the biological efforts in the plant ecosystem to increase P solubility, impacting plant growth, nutritional composition, and metabolite profiles. Fe-WTR significantly enhanced lettuce biomass compared to LDH. Yet, elemental analysis revealed higher or equal P concentrations in the low-biomass LDH plants relative to other treatments. Phosphorus uptake appears to influence the assimilation of other nutrients that divided into two groups: calcium, magnesium, zinc, and copper with notable correlations to P and nitrogen, iron, aluminum, vanadium and manganese with low correlations to P. Conversely, P retained poor correlation with most metabolites whereas iron showed a higher correlation with numerous metabolites. Analysis of metabolites, encompassing carbohydrates, the Krebs cycle, amino acids, nucleic acids, and stress and regulatory pathways, revealed diminished levels in the LDH treatments. Overall, carbon assimilation (plant growth) was more effectively predicted by soil P availability (adsorbent type and dose) rather than by cellular P concentration, suggesting root signaling was at play, influencing carbohydrate translocation to the roots. Diminished levels of cellular sugars further affect…",
-      "authors": "I. Zohar, H. E. Ganem, D. DiSegni et al.",
-      "published": "2024",
-      "venue": "Science of the Total Environment",
-      "feedName": "Lab Research",
-      "citationCount": 8,
-      "recentCitations": 0,
-      "quartile": "Q1",
-      "s2_paper_id": "716a87e9602f04f6b3d7fe6c3b411a15d1beaf4a",
-      "url": "https://doi.org/10.1016/j.scitotenv.2024.174719",
-      "image": "",
-      "screen": "both",
-      "lab_paper": true,
-      "researcher": {
-        "name": "Adi Jonas-Levi",
-        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=MbCf9l4AAAAJ"
-      }
-    },
-    {
-      "title": "New Analytical Approach to Quinolizidine Alkaloids and Their Assumed Biosynthesis Pathways in Lupin Seeds",
-      "abstract": "Alkaloids play an essential role in protecting plants against herbivores. Humans can also benefit from the pharmacological effects of these compounds. Plants produce an immense variety of structurally different alkaloids, including quinolizidine alkaloids, a group of bi-, tri-, and tetracyclic compounds produced by Lupinus species. Various lupin species produce different alkaloid profiles. To study the composition of quinolizidine alkaloids in lupin seeds, we collected 31 populations of two wild species native to Israel, L. pilosus and L. palaestinus, and analyzed their quinolizidine alkaloid contents. Our goal was to study the alkaloid profiles of these two wild species to better understand the challenges and prospective uses of wild lupins. We compared their profiles with those of other commercial and wild lupin species. To this end, a straightforward method for extracting alkaloids from seeds and determining the quinolizidine alkaloid profile by LC–MS/MS was developed and validated in-house. For the quantification of quinolizidine alkaloids, 15 analytical reference standards were used. We used GC–MS to verify and cross-reference the identity of certain alkaloids for which no analytical standards were available. The results enabled further exploration of quinolizidine alkaloid biosynthesis. We reviewed and re-analyzed the suggested quinolizidine alkaloid biosynthesis pathway, including the relationship between the amino acid precursor l-lysine and the different quinolizidine alkaloids occurring in seeds of lupin species. Revealing alkaloid compositions and highlighting so…",
-      "authors": "Dvory Namdar, Patrick P. J. Mulder, E. Ben-Simchon et al.",
-      "published": "2024",
-      "venue": "Toxins",
-      "feedName": "Lab Research",
-      "citationCount": 19,
-      "recentCitations": 0,
-      "quartile": null,
-      "s2_paper_id": "e6a6854e55ee8f5a8ace3025ba0d32e33a650343",
-      "url": "https://doi.org/10.3390/toxins16030163",
-      "image": "",
-      "screen": "both",
-      "lab_paper": true,
-      "researcher": {
-        "name": "Loai Basheer",
-        "photo": "media/photos/loai_basheer.png"
-      }
-    },
-    {
-      "title": "Valorization of Local Legumes and Nuts as Key Components of the Mediterranean Diet",
-      "abstract": "Legumes and nuts are components of high importance in the diet of many countries, mainly those in the Mediterranean region. They are also very versatile and culturally diverse foods found all over the world, acting as a basic protein source in certain countries. Their genetic diversity is needed to sustain the food supply and security for humans and livestock, especially because of the current loss of habitats, species, and genetic diversity worldwide, but also because of the ever present need to feed the increasing human population. Even though both legumes and nuts are considered as high-protein food and environmentally friendly crops, developed countries have lower consumption rates when compared to Asia or Africa. With a view to increasing the consumption of legumes and nuts, the objective of this review is to present the advantages on the use of autochthonous varieties from different countries around the world, thus providing a boost to the local market in the area. The consumption of these varieties could be helped by their use in ready-to-eat foods (RTE), which are now on the rise thanks to today’s fast-paced lifestyles and the search for more nutritious and sustainable foods. The versatility of legumes and nuts covers a wide range of possibilities through their use in plant-based dairy analogues, providing alternative-protein and maximal amounts of nutrients and bioactive compounds, potential plant-based flours for bakery and pasta, and added-value traditional RTE meals. For this reason, information about legume and nut nutrition could possibly increase its acceptan…",
-      "authors": "Israel Hernández-López, J. Ortiz-Solà, C. Alamprese et al.",
-      "published": "2022",
-      "venue": "Foods",
-      "feedName": "Lab Research",
-      "citationCount": 42,
-      "recentCitations": 1,
-      "quartile": "Q2",
-      "s2_paper_id": "58107c8058774580a57d044f21566325035de229",
-      "url": "https://doi.org/10.3390/foods11233858",
-      "image": "",
-      "screen": "both",
-      "lab_paper": true,
-      "researcher": {
-        "name": "Loai Basheer",
-        "photo": "media/photos/loai_basheer.png"
-      }
-    },
-    {
       "title": "Dictated cell adhesion and migration using microfluidic-controlled synthetic hydrogels exhibiting programmable viscoelasticities.",
       "abstract": "Mechanosensing interactions between the extracellular matrix (ECM) and the intracellular cytoskeleton are fundamental to cellular functions such as motility, proliferation, and adhesion, driven by the dynamic, bidirectional, tension-regulated maturation of focal adhesion (FA) sites. We demonstrate that native mechanosensing interactions and their downstream functions are precisely controlled using synthetic hydrogels. We introduce a microfluidic-assisted synthesis of imine-crosslinked hyaluronic acid-gelatin copolymer hydrogels (HAG), enabling controlled, predefined gradient viscoelasticity. Specifically, three native tissues (muscle, epidermis, and cartilage)-mimicking HAG hydrogels were prepared, matching their effective Young's modulus (Ymod) and stress relaxation time (τ1/2). Enhanced cell spreading and directional cell migration are observed, with a preference for substrates with tissue-matching viscoelasticity. These mechanosensing reactions are confirmed by traction force microscopy, revealing a tight correlation between native tissue mechano-properties and the hydrogel viscoelastic parameters. We demonstrate that the signaling efficacies of the FAK and associated YAP/TAZ pathways, central regulators of FA formation and cell migration, are tuned by substrate tissue-matching viscoelasticity. We implement these preprogrammed viscoelastic gradient hydrogels as spatiotemporal cell-separation matrices, enabling viscoelasticity-driven migration of binary cell mixtures. This work provides a potent platform for studying cell-material interactions, offering significant potent…",
       "authors": "Haochen Yang, Ziyuan Li, Gilad Davidson-Rozenfeld et al.",
@@ -849,7 +769,7 @@
       "venue": "Journal of the American Chemical Society",
       "feedName": "Lab Research",
       "citationCount": 26,
-      "recentCitations": 3,
+      "recentCitations": 0,
       "quartile": "Q1",
       "s2_paper_id": "e8f95caa1e8ece0c16f246b34ead0788c6d4b146",
       "url": "https://doi.org/10.1021/jacs.4c00625",
@@ -869,7 +789,7 @@
       "venue": "ACS Applied Materials and Interfaces",
       "feedName": "Lab Research",
       "citationCount": 19,
-      "recentCitations": 1,
+      "recentCitations": 0,
       "quartile": "Q1",
       "s2_paper_id": "0cd0b8a2502ea570ed30a29089c9004f8ad62735",
       "url": "https://doi.org/10.1021/acsami.3c06230",

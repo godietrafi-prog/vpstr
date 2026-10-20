@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20T18:32:33Z",
+  "updated": "2026-10-20T22:54:45Z",
   "items": [
     {
       "title": "Refined crop modelling reveals intensifying impacts of droughts and heatwaves on global wheat productivity",
@@ -282,6 +282,16 @@
       "screen": "left"
     },
     {
+      "title": "AI-guided discovery of fungal-derived salty and saltiness-enhancing peptides for sodium-reduced foods",
+      "abstract": "",
+      "authors": "Yan Zhang, Xiaoli Shen, Yuyang Liu et al.",
+      "published": "Oct 2026",
+      "feedName": "npj Science of Food",
+      "url": "https://www.nature.com/articles/s41538-026-01209-4",
+      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01209-4/MediaObjects/41538_2026_1209_Fig1_HTML.png",
+      "screen": "left"
+    },
+    {
       "title": "Quantitative lipidomics reveals differences in oil metabolism and nutritional profiles of soybeans with various seed coat colors",
       "abstract": "",
       "authors": "Yao Zhao, Siyu Zhao, Jian Li et al.",
@@ -309,16 +319,6 @@
       "feedName": "npj Science of Food",
       "url": "https://www.nature.com/articles/s41538-026-01206-7",
       "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01206-7/MediaObjects/41538_2026_1206_Fig1_HTML.png",
-      "screen": "left"
-    },
-    {
-      "title": "Computational refinement for structural identification of catechins and oxidation products in Chinese black tea",
-      "abstract": "",
-      "authors": "Shanbo Zhang, Zhi En Low, Kim-Huey Ee et al.",
-      "published": "Oct 2026",
-      "feedName": "npj Science of Food",
-      "url": "https://www.nature.com/articles/s41538-026-01190-y",
-      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01190-y/MediaObjects/41538_2026_1190_Fig1_HTML.png",
       "screen": "left"
     },
     {
@@ -362,6 +362,16 @@
       "screen": "left"
     },
     {
+      "title": "Fluorescent reaction maps reveal how catalyst activity changes with operating conditions",
+      "abstract": "Catalysts spur chemical reactions used across industries, from producing fuels and medicines to manufacturing chemicals and treating pollutants. Improving their performance requires understanding where and how reactions happen on their surfaces. However, conventional measurements average the activity of many catalyst particles, concealing local differences that could hold clues to designing more effective materials.",
+      "authors": "",
+      "published": "Oct 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-10-fluorescent-reaction-reveal-catalyst-conditions.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/nus-cde-researchers-ma-2.jpg",
+      "screen": "right"
+    },
+    {
       "title": "New analytical method reveals what happens inside tiny molecular frameworks",
       "abstract": "Tiny magnetic probes can be used to investigate the chemical forces at work inside the pores of molecular framework compounds, but until now, this had only been possible to a limited degree. A new method developed by a team at Martin Luther University Halle-Wittenberg (MLU) could help to better understand the properties of these materials and control these properties in the future. The study is published in the journal Small.",
       "authors": "",
@@ -389,16 +399,6 @@
       "feedName": "Phys.org Analytics",
       "url": "https://phys.org/news/2026-10-unmanned-synthesis-platform-robots-drug.html",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/kaist-develops-247-unm.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "A new way to make iridium catalysts for hydrogen production last longer",
-      "abstract": "There are many ways to produce hydrogen, but not all of them are environmentally friendly. Water electrolysis is a promising method that uses electricity to split water into hydrogen and oxygen without producing carbon dioxide (CO₂).",
-      "authors": "",
-      "published": "Oct 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-10-iridium-catalysts-hydrogen-production-longer.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/a-new-way-to-make-irid-4.jpg",
       "screen": "right"
     },
     {
@@ -582,323 +582,83 @@
       }
     },
     {
-      "title": "Continuing Medical (Anatomy) Education Series: Organ Donation and Transplantation, a Means of Continuity of Functional and Independent Life and Living",
-      "abstract": "Diseases and disease processes are key components of life and living. The understanding and appreciation of this axiom will impact greatly on the quality and standard of human health and life. The human body is bedeviled by a myriad of diverse and large spectrum of pathologies. These vary from hereditary, infectious, inflammatory, metabolic, structural degradation, genetic alterations, neoplastic, toxicological injury, ageing and trauma. All these reduce the functionalities of the affected organ/ organ system. There are established first line management strategies for these pathologies, however more often than not, they may not suffice. At this stage, the replacement of such organ becomes the only option for optimal quality of life or continuity of life. This can only be achieved through tissue and organ donation and transplantation. Over the decades, steady advancements are being made in the medical field of human tissue and organ donation and transplantation. Thus it becomes pertinent for students of human medicine to be well and adequately educated on the issues that relate to the donations of human tissues and organs and their transplantation. Such issues covered in this article include global statistics on organ donation and transplantation; historical antecedents of organ donation and transplantation; sources of organ transplants; tissue transplants; set guidelines and standards by The World Health Organization, The European Parliamentary Research Services and The Federal Ministry of Health and Social Welfare Nigeria.",
-      "authors": "R. Ajani, Ogheneochuko E. Akpobome, O. Benjamin et al.",
-      "published": "2026",
-      "venue": "Asian Journal of Medicine and Health",
+      "title": "Phosphorus in Balance: Evaluating the Costs and Benefits of a Circular Economy Approach",
+      "abstract": "This paper presents a comprehensive cost-benefit analysis of producing alternative phosphorus (P) fertilizers from recycled water treatment residuals (Fe-WTR) and cowshed effluents. The cost-benefit values of Fe-WTR are compared to the net costs of recycling P using a synthetic adsorbent (commonly used practice-layered double hydroxide, P-LDH) and the costs of commercial fertilizers. Dairy wastewater is used as a source of P. The cost of 1 ton P using the Fe-WTR process is €329. In contrast, synthetic adsorbents (P-LDH) incur significantly higher costs, amounting to €3329 per ton, underscoring the economic advantage of utilizing waste-derived materials. Adopting Fe-WTR fertilizer not only offers substantial cost savings by avoiding landfill fees (€40 per ton) and wastewater discharge fines (€500 per ton) but also reduces environmental impacts when compared to the use of commercial P fertilizers (non-recycled P). The Fe-WTR method mitigates eutrophication and pollution, presenting the dual benefit of cost-effectiveness and environmental protection, which exceeds the common P recycling practice (LDH). Our conclusions are based on production processes in Israel and compared to previous cost estimations at the world level, assessing the potential gain from such circular production of P globally. Recycling P from waste streams can be economically viable and environmentally preferable at small and large economic scales, supporting global sustainability goals.",
+      "authors": "H. E. Ganem, I. Zohar, M. Litaor et al.",
+      "published": "2024",
+      "venue": "Journal of Environmental Science Studies",
       "feedName": "Lab Research",
       "citationCount": 0,
       "recentCitations": 0,
       "quartile": null,
-      "s2_paper_id": "1bc5b0dbc004a22568a84204d4f85fc6770e5354",
-      "url": "https://doi.org/10.9734/ajmah/2026/v24i31361",
+      "s2_paper_id": "5a7645fb724f2527117a809194848a4b84de25da",
+      "url": "https://doi.org/10.20849/jess.v7i2.1469",
       "image": "",
       "screen": "both",
       "lab_paper": true,
       "researcher": {
-        "name": "Ofir Benjamin",
-        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=FsjV0oIAAAAJ"
+        "name": "Adi Jonas-Levi",
+        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=MbCf9l4AAAAJ"
       }
     },
     {
-      "title": "Effect of Quinoa Protein Concentrate in Particulate and Fibrillar Forms on the Physico-Chemical Properties of Quinoa Starch Gels",
-      "abstract": "The current study investigates the interactions between quinoa protein—both in particulate (protein concentrate, QPC) and fibrillar (QPF) forms—and quinoa starch (QS) gels, and how these interactions influence the thermal, pasting, and rheological properties of the gels. Gels were made by adding three different concentrations of QPC or QPF to a 10% QS dispersion (10, 25, and 50% w/w of starch). DSC results suggested an enhancement of amylopectin thermal stability and an acceleration of retrogradation upon a cooling stage by the addition of quinoa protein. FTIR spectra indicated that QS and QPC/QPF mostly interacted through hydrogen bonds. According to rheological measurements, in contrast to the increased G′ due to the addition of QPC (50%), only a slight increase in G′ was observed due to the addition of QPF (50%). Notably, this study is the first to directly compare the effects of QPC and QPF on starch gel properties, revealing that QPC markedly enhances gel elasticity. These findings highlight the potential application of the optimized quinoa starch-protein-based gels as functional ingredients in plant-based meat analogues, where improved textural and nutritional attributes are critical.",
-      "authors": "Shir T Segev, Eden Eran-Nagar, G. Rytwo et al.",
-      "published": "2025",
-      "venue": "Food and Bioprocess Technology",
-      "feedName": "Lab Research",
-      "citationCount": 6,
-      "recentCitations": 2,
-      "quartile": "Q1",
-      "s2_paper_id": "034d8c4f0c0f5607a4e6727360aa5d7287e60d5b",
-      "url": "https://doi.org/10.1007/s11947-025-03873-y",
-      "image": "",
-      "screen": "both",
-      "lab_paper": true,
-      "researcher": {
-        "name": "Ofir Benjamin",
-        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=FsjV0oIAAAAJ"
-      }
-    },
-    {
-      "title": "Relationships Between Chemical Compounds and Sensory Properties of Virgin Olive Oil in the US and Israel: Development of a Prediction Model for Defects",
-      "abstract": "Virgin olive oil (VOO) quality is defined by both chemical and sensory parameters. While the chemical parameters are objective and measured using instrument-based methods, sensory quality evaluation is based upon human panels, which can be subjective, have less repeatability, suffer from fatigue, and require long and costly training. Tasting biases could be minimized by a trained panel, but using humans as a testing instrument is inevitably prone to various psychological biases, stimulus-related factors, and carry-over effects. The objectives of this study were to evaluate instrumental methodologies that will assist the existing human panel in assessing the sensory characteristics of VOO and to develop chemistry-based predicting models for sensory properties in the oil using VOO samples originating from the US and Israel. Our results indicated that oil rancidity highly correlated with the contents of chemical components contents; 1-penten-3-one, 3-hexen-1-ol, (E)-2-pentanal, and 1-octen-3-ol are the major volatiles associated with rancidity defects (low concentrations of these compounds). Positive sensory attributes, such as fruitiness, correlated with 1- acetoxypinoresinol and hexanal, while bitterness correlated with pinoresinol, the aldehydic form of oleuropein aglycones, and the dialdehydic form of oleuropein aglycone. The random forest model suggested that luteolin, (E)-2-hexenal, 1-penten-3-one, and C18:0 are the most useful measurements in predicting the occurrence of sensory defects in the olive oil samples included. In other words, when these compounds are below or…",
-      "authors": "M. Calatayud, Xueqi Li, Arnon Dag et al.",
+      "title": "The impact of alternative recycled and synthetic phosphorus sources on plant growth and responses, soil interactions and sustainable agriculture - lettuce (Lactuca sativa) as a case model.",
+      "abstract": "This research assesses the efficacy of two phosphorus (P) adsorbents as alternative fertilizers in promoting lettuce growth. A synthetic Mg/Al-layered double hydroxide (LDH) and an iron-based recycled water treatment residual (Fe-WTR), both enriched with P from dairy wastewater and added at three dosage levels. We hypothesized that the adsorbents' physicochemical nature will overshadow the biological efforts in the plant ecosystem to increase P solubility, impacting plant growth, nutritional composition, and metabolite profiles. Fe-WTR significantly enhanced lettuce biomass compared to LDH. Yet, elemental analysis revealed higher or equal P concentrations in the low-biomass LDH plants relative to other treatments. Phosphorus uptake appears to influence the assimilation of other nutrients that divided into two groups: calcium, magnesium, zinc, and copper with notable correlations to P and nitrogen, iron, aluminum, vanadium and manganese with low correlations to P. Conversely, P retained poor correlation with most metabolites whereas iron showed a higher correlation with numerous metabolites. Analysis of metabolites, encompassing carbohydrates, the Krebs cycle, amino acids, nucleic acids, and stress and regulatory pathways, revealed diminished levels in the LDH treatments. Overall, carbon assimilation (plant growth) was more effectively predicted by soil P availability (adsorbent type and dose) rather than by cellular P concentration, suggesting root signaling was at play, influencing carbohydrate translocation to the roots. Diminished levels of cellular sugars further affect…",
+      "authors": "I. Zohar, H. E. Ganem, D. DiSegni et al.",
       "published": "2024",
-      "venue": "Journal of Agricultural and Food Chemistry",
+      "venue": "Science of the Total Environment",
       "feedName": "Lab Research",
-      "citationCount": 4,
+      "citationCount": 8,
       "recentCitations": 0,
       "quartile": "Q1",
-      "s2_paper_id": "2daf7bffd81d6b4f740d63bf18644047b1466c1f",
-      "url": "https://doi.org/10.1021/acs.jafc.4c06012",
+      "s2_paper_id": "716a87e9602f04f6b3d7fe6c3b411a15d1beaf4a",
+      "url": "https://doi.org/10.1016/j.scitotenv.2024.174719",
       "image": "",
       "screen": "both",
       "lab_paper": true,
       "researcher": {
-        "name": "Ofir Benjamin",
-        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=FsjV0oIAAAAJ"
+        "name": "Adi Jonas-Levi",
+        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=MbCf9l4AAAAJ"
       }
     },
     {
-      "title": "Synergistic effects of biochar and poultry manure on soil and cucumber (Cucumis sativus) performance: A case study from the southeastern Nigeria",
-      "abstract": "This study explores the suitability of different biomass feedstocks for biochar production and their effects on soil health and crop yield. Two planting seasons were conducted, involving cucumber as the test crop and eleven treatments combining biochar and poultry manure. Soil analysis revealed initial soil conditions with high sand content and low pH. Poultry manure and biochar exhibited pH, organic carbon, and nutrient level variations. Significant differences in cucumber growth and yield were observed, with the longest vine length in plots treated with palm kernel husk biochar and poultry manure. Residual effects in the second planting season displayed similar trends. Soil pH, organic carbon, and total nitrogen remained consistent between seasons, while available phosphorus increased significantly in plots amended with goat manure biochar and poultry manure. Calcium, magnesium, potassium, and sodium contents also varied. Fruit length, weight, and yield were significantly improved by biochar treatments, with the combination of palm kernel husk biochar and poultry manure yielding the highest fruit weight. Correlation and structural equation analyses (p < 0.05) highlighted the relationships between plant characteristics, soil properties, and fruit indices, emphasizing the importance of nitrogen and phosphorus in supporting fruit development. The study suggests that biochar application enhances soil nutrients, crop growth, and fruit yields while reducing reliance on chemical fertilizers. It recommends considering biochar for land reclamation and as an alternative to traditio…",
-      "authors": "E. O. Ayito, K. John, O. Benjamin et al.",
+      "title": "New Analytical Approach to Quinolizidine Alkaloids and Their Assumed Biosynthesis Pathways in Lupin Seeds",
+      "abstract": "Alkaloids play an essential role in protecting plants against herbivores. Humans can also benefit from the pharmacological effects of these compounds. Plants produce an immense variety of structurally different alkaloids, including quinolizidine alkaloids, a group of bi-, tri-, and tetracyclic compounds produced by Lupinus species. Various lupin species produce different alkaloid profiles. To study the composition of quinolizidine alkaloids in lupin seeds, we collected 31 populations of two wild species native to Israel, L. pilosus and L. palaestinus, and analyzed their quinolizidine alkaloid contents. Our goal was to study the alkaloid profiles of these two wild species to better understand the challenges and prospective uses of wild lupins. We compared their profiles with those of other commercial and wild lupin species. To this end, a straightforward method for extracting alkaloids from seeds and determining the quinolizidine alkaloid profile by LC–MS/MS was developed and validated in-house. For the quantification of quinolizidine alkaloids, 15 analytical reference standards were used. We used GC–MS to verify and cross-reference the identity of certain alkaloids for which no analytical standards were available. The results enabled further exploration of quinolizidine alkaloid biosynthesis. We reviewed and re-analyzed the suggested quinolizidine alkaloid biosynthesis pathway, including the relationship between the amino acid precursor l-lysine and the different quinolizidine alkaloids occurring in seeds of lupin species. Revealing alkaloid compositions and highlighting so…",
+      "authors": "Dvory Namdar, Patrick P. J. Mulder, E. Ben-Simchon et al.",
       "published": "2024",
-      "venue": "Soil Science Annual",
-      "feedName": "Lab Research",
-      "citationCount": 9,
-      "recentCitations": 0,
-      "quartile": null,
-      "s2_paper_id": "8aa653c59706d0f1e9269886f0967e540b52e7f0",
-      "url": "https://doi.org/10.37501/soilsa/183903",
-      "image": "",
-      "screen": "both",
-      "lab_paper": true,
-      "researcher": {
-        "name": "Ofir Benjamin",
-        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=FsjV0oIAAAAJ"
-      }
-    },
-    {
-      "title": "Renal protective effects of natural honey on animal model of hypertension",
-      "abstract": "Hypertension, also known as high blood pressure, is a leading cause of cardiovascular disease and premature death worldwide. Numerous investigations have established that hypertension can cause alterations in the cardiovascular system as well as renal structure and function. Fresh honey is consumed worldwide and is claimed to be highly medicinal and has therapeutic effects against a wide range of medical conditions. We investigated the renal protective effect of natural honey in in animal model of hypertension. Forty (40) male albino rats, with average weight (120 ±10 g) were administered with high salt diet, HSD (80 g NaCl + 1 kg of diet and 1% NaCl in drinking water (10 g of NaCl + 1 L distilled water) for 10 weeks to induce hypertension in the rats. Following confirmation, hypertensive male rats were randomly selected for the experiment. Twenty (20) albino rats (15 hypertensive rats and 5 normotensive rats) were divided into 4 groups, Groups A-D. Group A: (Normotensive Control) no administration was given; Groups B-D (hypertensive rats) received the following treatments. Group B was treated with natural honey (15 ml/kg), Group C treated with hydrochlorothiazide (0.15 mg/kg), daily for 21 days; while Group D received no treatment, until the end of the 21 days administrations. Blood samples were taken in the end, and renal alterations were assessed via biochemical and histopathological analyses. Results showed that salt-induced hypertension caused a marked elevation of the renal biochemical parameters. The histopathological results agree with the biochemical findings. Howe…",
-      "authors": "Onwudiwe Saviour Nwachukwu, O. Benjamin, Nwankwo Emeka Christian et al.",
-      "published": "2023",
-      "venue": "Open Access Research Journal of Life Sciences",
-      "feedName": "Lab Research",
-      "citationCount": 0,
-      "recentCitations": 0,
-      "quartile": null,
-      "s2_paper_id": "3072198eabc4a0ba4b878787e54a629a0d5959af",
-      "url": "https://doi.org/10.53022/oarjls.2023.6.2.0068",
-      "image": "",
-      "screen": "both",
-      "lab_paper": true,
-      "researcher": {
-        "name": "Ofir Benjamin",
-        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=FsjV0oIAAAAJ"
-      }
-    },
-    {
-      "title": "Quality and Flavor of ‘Aliza’ Fruit: A Unique Pomelo × Mandarin Hybrid",
-      "abstract": "‘Aliza’ is a new pomelo × mandarin hybrid (Citrus maxima, cv. Red Chandler × Citrus reticulata, cv. Ora) developed by the Israeli citrus breeding program at the Volcani Institute. Here, we aimed to characterize the quality and flavor of ‘Aliza’ fruit as compared to other commercial citrus fruit, specifically pomelo (C. maxima), grapefruit (Citrus paradisi), orange (Citrus sinensis) and mandarin (C. reticulata). ‘Aliza’ fruits have a similar size as grapefruits, but have a thinner peel and a unique yellowish/golden color. ‘Aliza’ fruits are completely seedless and have especially high juice contents. They also have a unique, highly preferred flavor, characterized by high sweetness and moderate bitterness and acidity, with strong citrusy and tropical fruity aromas. Sensory analyses conducted with the aid of a trained panel and an electronic tongue revealed that the flavor of ‘Aliza’ fruits is different from the flavors of other citrus species. Consumer acceptance and preference tests revealed that ‘Aliza’ fruit are highly appreciated and favored. The aroma volatile profile of ‘Aliza’ fruit was somewhat similar to those of pomelo and grapefruit, but very different from those of orange and mandarin. Overall, ‘Aliza’ fruits can be distinguished from other citrus fruits by their unique color, high juice content and exceptional, unique flavor.",
-      "authors": "Hagar Pardo, A. Owoyemi, L. Goldenberg et al.",
-      "published": "2023",
-      "venue": "Horticulturae",
-      "feedName": "Lab Research",
-      "citationCount": 4,
-      "recentCitations": 0,
-      "quartile": null,
-      "s2_paper_id": "8fc9e49f80c03192aa54947839aa56e8d90f9d36",
-      "url": "https://doi.org/10.3390/horticulturae9040420",
-      "image": "",
-      "screen": "both",
-      "lab_paper": true,
-      "researcher": {
-        "name": "Ofir Benjamin",
-        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=FsjV0oIAAAAJ"
-      }
-    },
-    {
-      "title": "Flavor release and stability comparison between nano and conventional emulsion as influenced by saliva",
-      "abstract": "Flavour release and emulsion stability depend on volatile organic compounds' environmental conditions, food microstructure, and physicochemical properties. The effect of pH (3.5 vs 7.0) and saliva addition on stability and flavour release from nano and conventional emulsions was investigated using particle size, charge and Lumisizer measurments. Larger particle sizes were observed at lower pressures and in saliva-containing emulsions. At 1700 bar, nano-emulsions (below 150 nm) were created at pH 3.5 and 7.0 including saliva-containing emulsions. As was clear from the creaming velocity measurements, saliva addition decreased the emulsion stability by reducing particle charges and increased viscosity by more than 50%, especially when prepared at pH 3.5 closer to the isoelectric point of the used emulsifier β-lactoglobulin (pH 5.2). (5.2). Flavour release from emulsions was measured at equilibrium using a phase ratio variation to determine partition coefficients and dynamically using an electronic nose. Partition coefficients of the flavour compounds for most conditions were two to four times lower in emulsions prepared at pH 7.0 than at pH 3.5 and in emulsions without saliva. Emulsions prepared with higher pressures showed stronger flavor release rates, while additional salvia dropped the release rate for ethyl acetate at pH 3.5. The physicochemical properties of flavour compounds, saliva addition and pH of emulsions influenced flavour release more than homogenization pressures. The potential in using nano-emulsions in food applications an be attributed higher stability and e…",
-      "authors": "O. Sanni, C. Lakemond, O. Benjamin",
-      "published": "2022",
-      "venue": "Journal of food science and technology",
-      "feedName": "Lab Research",
-      "citationCount": 9,
-      "recentCitations": 0,
-      "quartile": "Q1",
-      "s2_paper_id": "435cee3aeeb4f44de0a7eef6197bce01a348c990",
-      "url": "https://doi.org/10.1007/s13197-022-05534-w",
-      "image": "",
-      "screen": "both",
-      "lab_paper": true,
-      "researcher": {
-        "name": "Ofir Benjamin",
-        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=FsjV0oIAAAAJ"
-      }
-    },
-    {
-      "title": "Dictated cell adhesion and migration using microfluidic-controlled synthetic hydrogels exhibiting programmable viscoelasticities.",
-      "abstract": "Mechanosensing interactions between the extracellular matrix (ECM) and the intracellular cytoskeleton are fundamental to cellular functions such as motility, proliferation, and adhesion, driven by the dynamic, bidirectional, tension-regulated maturation of focal adhesion (FA) sites. We demonstrate that native mechanosensing interactions and their downstream functions are precisely controlled using synthetic hydrogels. We introduce a microfluidic-assisted synthesis of imine-crosslinked hyaluronic acid-gelatin copolymer hydrogels (HAG), enabling controlled, predefined gradient viscoelasticity. Specifically, three native tissues (muscle, epidermis, and cartilage)-mimicking HAG hydrogels were prepared, matching their effective Young's modulus (Ymod) and stress relaxation time (τ1/2). Enhanced cell spreading and directional cell migration are observed, with a preference for substrates with tissue-matching viscoelasticity. These mechanosensing reactions are confirmed by traction force microscopy, revealing a tight correlation between native tissue mechano-properties and the hydrogel viscoelastic parameters. We demonstrate that the signaling efficacies of the FAK and associated YAP/TAZ pathways, central regulators of FA formation and cell migration, are tuned by substrate tissue-matching viscoelasticity. We implement these preprogrammed viscoelastic gradient hydrogels as spatiotemporal cell-separation matrices, enabling viscoelasticity-driven migration of binary cell mixtures. This work provides a potent platform for studying cell-material interactions, offering significant potent…",
-      "authors": "Haochen Yang, Ziyuan Li, Gilad Davidson-Rozenfeld et al.",
-      "published": "2026",
-      "venue": "Journal of materials chemistry. B",
-      "feedName": "Lab Research",
-      "citationCount": 1,
-      "recentCitations": 0,
-      "quartile": "Q1",
-      "s2_paper_id": "1d4f87214f79048150a17cc2d0738bf0fb72b106",
-      "url": "https://doi.org/10.1039/d6tb00438e",
-      "image": "",
-      "screen": "both",
-      "lab_paper": true,
-      "researcher": {
-        "name": "Gilad Davidson-Rozenfeld",
-        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=vh7tqKQAAAAJ"
-      }
-    },
-    {
-      "title": "Redox- and Photo-Responsive Fe3+/2+-Cross-Linked Carboxymethyl Cellulose Methacrylate Dissipative Gels: Synthesis and Applications",
-      "abstract": "The synthesis of redox-active Fe3+-cross-linked carboxymethyl cellulose methacrylate cryogels (Fe 3+ -CMCMA), revealing switchable, transient, dissipative stiffness properties, is introduced. The switchable, transient functions are triggered by ascorbate-mediated reduction of the high-stiffness gel to the lower-stiffness Fe2+-CMCMA gel, and the concomitant aerobic oxidation of the Fe2+-CMCMA to the Fe3+-CMCMA gel state. Alternatively, integration of native photosynthetic photosystem-I (PS-I) into the cryogel matrix allows the photosensitized reduction of the Fe3+-CMCMA cryogel to the lower stiffness state Fe2+-CMCMA, and the concomitant, temporal, aerobic recovery of Fe2+-CMCMA to the high-stiffness Fe3+-CMCMA gel. The transient dissipative stiffness of the Fe3+/2+-CMCMA cryogel is characterized by temporal rheometry, dynamic stretching stress–strain experiments, XPS, and SEM imaging. The transient chemical/light-triggered stiffness functions of the Fe3+/2+-CMCMA, or PS-I-integrated Fe3+/2+-CMCMA gels are applied to develop transient self-healing matrices, and frameworks for cyclic, transient release of loads integrated in the gel matrices. This is exemplified by the ascorbate/light-induced cyclic transient release of tetramethyl rhodamine-dextran (TMR-D), insulin, and the anti-VEGF aptamer loads. In addition, the stimuli-responsive Fe3+/2+-CMCMA cryogel is used to construct a bilayer-soft-robotic bending device. Bilayer composite consisting of thermoresponsive poly-N-isopropylacrylamide (pNIPAM)/Fe3+/2+-CMCMA, or pNIPAM/PS-I-loaded-Fe3+/2+-CMCMA devices are assembled. Swit…",
-      "authors": "Jiang-He Zhao, Yunlong Qin, Muhammad Abdel-Haq et al.",
-      "published": "2026",
-      "venue": "ACS Applied Materials and Interfaces",
-      "feedName": "Lab Research",
-      "citationCount": 1,
-      "recentCitations": 0,
-      "quartile": "Q1",
-      "s2_paper_id": "daeea6fa97917f764c7ad91e09d41dbb9652690e",
-      "url": "https://doi.org/10.1021/acsami.6c07915",
-      "image": "",
-      "screen": "both",
-      "lab_paper": true,
-      "researcher": {
-        "name": "Gilad Davidson-Rozenfeld",
-        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=vh7tqKQAAAAJ"
-      }
-    },
-    {
-      "title": "Chemical and Photochemical-Driven Dissipative Fe3+/Fe2+-Ion Cross-Linked Carboxymethyl Cellulose Gels Operating Under Aerobic Conditions: Applications for Transient Controlled Release and Mechanical Actuation",
-      "abstract": "A Fe3+-ion cross-linked carboxymethyl cellulose, Fe3+-CMC, redox-active gel exhibiting dissipative, transient stiffness properties is introduced. Chemical or photosensitized reduction of the higher-stiffness Fe3+-CMC to the lower-stiffness Fe2+-CMC gel, accompanied by the aerobic reoxidation of the Fe2+-CMC matrix, leads to the dissipative, transient stiffness, functional matrix. The light-induced, temporal, transient release of a load (Texas red dextran) and the light-triggered, transient mechanical bending of a poly-N-isopropylacrylamide (p-NIPAM)/Fe3+-CMC bilayer construct are introduced, thus demonstrating the potential use of the dissipative Fe3+-CMC gel for controlled drug release or soft robotic applications.",
-      "authors": "Roberto Baretta, Gilad Davidson-Rozenfeld, V. Gutkin et al.",
-      "published": "2024",
-      "venue": "Journal of the American Chemical Society",
-      "feedName": "Lab Research",
-      "citationCount": 26,
-      "recentCitations": 0,
-      "quartile": "Q1",
-      "s2_paper_id": "e8f95caa1e8ece0c16f246b34ead0788c6d4b146",
-      "url": "https://doi.org/10.1021/jacs.4c00625",
-      "image": "",
-      "screen": "both",
-      "lab_paper": true,
-      "researcher": {
-        "name": "Gilad Davidson-Rozenfeld",
-        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=vh7tqKQAAAAJ"
-      }
-    },
-    {
-      "title": "Stimuli-Responsive DNA-Based Hydrogels on Surfaces for Switchable Bioelectrocatalysis and Controlled Release of Loads",
-      "abstract": "The assembly of enzyme [glucose oxidase (GOx)]-loaded stimuli-responsive DNA-based hydrogels on electrode surfaces, and the triggered control over the stiffness of the hydrogels, provides a means to switch the bioelectrocatalytic functions of the hydrogels. One system includes the assembly of GOx-loaded, pH-responsive, hydrogel matrices cross-linked by two cooperative nucleic acid motives comprising permanent duplex nucleic acids and “caged” i-motif pH-responsive duplexes. Bioelectrocatalyzed oxidation of glucose leads to the formation of gluconic acid that acidifies the hydrogel resulting in the separation of the i-motif constituents and lowering the hydrogel stiffness. Loading of the hydrogel matrices with insulin results in the potential-triggered, glucose concentration-controlled, switchable release of insulin from the hydrogel-modified electrodes. The switchable bioelectrocatalyzed release of insulin is demonstrated in the presence of ferrocenemethanol as a diffusional electron mediator or by applying an electrically wired integrated matrix that includes ferrocenyl-modified GOx embedded in the hydrogel. The second GOx-loaded, stimuli-responsive, DNA-based hydrogel matrix associated with the electrode includes a polyacrylamide hydrogel cooperatively cross-linked by duplex nucleic acids and “caged” G-quadruplex-responsive duplexes. The hydrogel matrix undergoes K+-ions/crown ether-triggered stiffness changes by the cyclic K+-ion-stimulated formation of G-quadruplexes (lower stiffness) and the crown ether-induced separation of the G-quadruplexes (higher stiffness). The hy…",
-      "authors": "M. Fadeev, Gilad Davidson-Rozenfeld, Zhenzhen Li et al.",
-      "published": "2023",
-      "venue": "ACS Applied Materials and Interfaces",
+      "venue": "Toxins",
       "feedName": "Lab Research",
       "citationCount": 19,
       "recentCitations": 0,
-      "quartile": "Q1",
-      "s2_paper_id": "0cd0b8a2502ea570ed30a29089c9004f8ad62735",
-      "url": "https://doi.org/10.1021/acsami.3c06230",
-      "image": "",
-      "screen": "both",
-      "lab_paper": true,
-      "researcher": {
-        "name": "Gilad Davidson-Rozenfeld",
-        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=vh7tqKQAAAAJ"
-      }
-    },
-    {
-      "title": "Stiffness‐Switchable, Biocatalytic pH‐Responsive DNA‐Functionalized Polyacrylamide Cryogels and their Mechanical Applications",
-      "abstract": "The large‐pore interconnected channels in cryogels, allow convectional flow and rapid mass‐transport of solute constituents between the solution and cryogel polymer framework, as compared to slower, diffusionally‐controlled mass‐transport in small‐pore hydrogels. These features are applied to develop enzyme‐loaded polyacrylamide (pAAm) cryogels, and glucose oxidase (GOx)‐loaded pH‐responsive DNA‐based pAAm cryogels, revealing enhanced biocatalytic transformations, enhanced temporal stiffness changes, and mechanical bending functions, as compared to analog hydrogels. DNA‐based pAAm cryogel/hydrogel matrices, revealing pH‐switchable stiffness properties through reversible reconfiguration of DNA‐bridging units into i‐motif structures, are introduced. Enhanced switchable stiffness changes of DNA‐based pAAm cryogels, as compared to analog hydrogels, are demonstrated upon subjecting the cryogel/hydrogel matrices to auxiliary pH‐changes, or by integration of GOx into the frameworks, and driving pH‐changes through GOx‐catalyzed aerobic oxidation of glucose to gluconic acid. Enhanced stiffness changes of pAAm cryogels represent a major advance to control the mechanical properties of cryogels and are attributed to the convectionally‐controlled mass‐transport in the cryogel matrices. Moreover, bilayer constructs consisting of poly‐N‐isopropylacrylamide (pNIPAM) cryogels and pH‐responsive DNA‐based pAAm cryogel or hydrogel structures are constructed. Enhanced pH/glucose triggered mechanical bending rates of the pNIPAM cryogel/pAAm cryogel or pNIPAM cryogel/GOx‐loaded pAAm cryogel, as c…",
-      "authors": "Gilad Davidson-Rozenfeld, Xinghua Chen, Yunlong Qin et al.",
-      "published": "2023",
-      "venue": "Advanced Functional Materials",
-      "feedName": "Lab Research",
-      "citationCount": 23,
-      "recentCitations": 0,
-      "quartile": "Q1",
-      "s2_paper_id": "f8de42bddd0ecab555075b5f1e2cdce6f18f1a56",
-      "url": "https://doi.org/10.1002/adfm.202306586",
-      "image": "",
-      "screen": "both",
-      "lab_paper": true,
-      "researcher": {
-        "name": "Gilad Davidson-Rozenfeld",
-        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=vh7tqKQAAAAJ"
-      }
-    },
-    {
-      "title": "The effect of simulation training on the counseling skills of nutritional science students in dietetic internships",
-      "abstract": "Simulations are a common tool in training aircrews, medical personnel and educators, providing experience in scenarios from the relevant content area and expanding the range of responses that simulation participants can acquire before they enter the field. Simulations have also been used in dietetic internships to improve clinical counseling skills. However, the use of structured simulations that involve progressive, multisession patient interactions has not been extensively studied in the context of dietetic internships. This study employed consecutive scenario models where interns developed ongoing interactions with the same simulated patient over multiple sessions, representing a significant methodological innovation in the field. A mixed method methodology was used to analyze closed and open-ended questionnaires which were administered to twenty-one interns, simulation actors and professional dietitians. This pilot study demonstrates the effectiveness of group and individual simulation training in enhancing dietetic interns’ counseling skills during their training and describes how simulation can contribute to both the professional skills and self-efficacy required to lead a counseling session. These findings will enable additional academic departments to examine the integration of simulation into the training programs of interns in tracks that include a practicum.",
-      "authors": "I. Linder, Zafit Lukach, Keren Pergament et al.",
-      "published": "2025",
-      "venue": "BMC Medical Education",
-      "feedName": "Lab Research",
-      "citationCount": 1,
-      "recentCitations": 0,
-      "quartile": "Q1",
-      "s2_paper_id": "5ee7aceac233a82917e92f646d2284fffcfd28b2",
-      "url": "https://doi.org/10.1186/s12909-025-07674-x",
-      "image": "",
-      "screen": "both",
-      "lab_paper": true,
-      "researcher": {
-        "name": "Rafi Steckler",
-        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=BOhLTM0AAAAJ"
-      }
-    },
-    {
-      "title": "The Anticonvulsant Effects of Different Cannabis Extracts in a Zebrafish Model of Epilepsy",
-      "abstract": "Epilepsy is a widespread neurological disorder that remains a critical global public health challenge. While numerous antiepileptic drugs (AEDs) are available, many patients either fail to achieve adequate seizure control or experience significant side effects. One promising alternative is pure cannabidiol (CBD), but using a whole cannabis extract may be equally effective and preferred for some patients. In the current study, we employed the pentylenetetrazole (PTZ)-induced hyperactivity model in zebrafish to compare the effects of CBD with various cannabis extracts. We evaluated three cannabis strains, each subjected to three different extraction methods, and benchmarked the results against the commercially available AED valproic acid (VPA). Our findings revealed that 5.7 µg/mL of CBD and 10 µg/mL of different extracts significantly reduced movement compared to PTZ and VPA. In addition, effective extracts produced effects similar to pure CBD despite containing much lower molecule levels. These results reinforced and expanded previous evidence supporting the clinical potential of both CBD and whole cannabis extracts for seizure control while suggesting a possible entourage effect. Further research is necessary to determine which patients may benefit more from pure CBD versus those who might prefer whole cannabis extracts.",
-      "authors": "Karen Jackson, M. Shabat-Simon, J. Bar-on et al.",
-      "published": "2025",
-      "venue": "Biomolecules",
-      "feedName": "Lab Research",
-      "citationCount": 4,
-      "recentCitations": 0,
-      "quartile": "Q1",
-      "s2_paper_id": "e8d95d5b119ba86262a480c8753459d85b64d105",
-      "url": "https://doi.org/10.3390/biom15050654",
-      "image": "",
-      "screen": "both",
-      "lab_paper": true,
-      "researcher": {
-        "name": "Rafi Steckler",
-        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=BOhLTM0AAAAJ"
-      }
-    },
-    {
-      "title": "Physiological Impacts of Energy Drink Consumption: A Clinical Analysis in Adolescents",
-      "abstract": "Energy drink (ED) consumption among Israeli-Arab adolescents is widespread. This study aimed to investigate the acute glycemic and insulin effects of EDs in healthy adolescents. Seventy-one Israeli-Arab adolescents (56% girls, average age 16.04 ± 1.03 years) participated in a non-randomized, case-controlled, open-label study. Participants consumed ED (n = 36) or a volume- and carbohydrate-matched non-caffeinated soft drink (SD, n = 35), followed by a 2 h glucose tolerance test. Blood glucose was measured at baseline and 15, 30, 60, and 120 min post-consumption (T0, T15, T30, T60 and T120, respectively). Serum insulin concentration and caffeine relative intensity were determined 45 min post-consumption (T45). Blood glucose levels peaked significantly at T15 and remained significantly higher at T30 in the ED group compared to the SD group (p = 0.005, p = 0.017, respectively). Insulin concentrations were substantially higher at T45 in the ED group (t [64] = 2.794, p = 0.001). This pattern was especially prominent in heavy ED consumers. A positive correlation emerged between the amount of caffeine consumed (mg/kg), blood glucose levels at T15 and T30, and insulin concentration at T45. This study is the first to demonstrate the glycemic and insulin responses to ED consumption in adolescents, suggesting that regulatory measures limiting ED sales to adolescents could improve their health.",
-      "authors": "Gilad Naveh, Bshara Mansour, Mahmoud Bader et al.",
-      "published": "2024",
-      "venue": "Nutrients",
-      "feedName": "Lab Research",
-      "citationCount": 7,
-      "recentCitations": 0,
-      "quartile": "Q1",
-      "s2_paper_id": "b97e4acafc9606b86df3bd0c797faa7fbcf900b7",
-      "url": "https://doi.org/10.3390/nu16142328",
-      "image": "",
-      "screen": "both",
-      "lab_paper": true,
-      "researcher": {
-        "name": "Rafi Steckler",
-        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=BOhLTM0AAAAJ"
-      }
-    },
-    {
-      "title": "Disrupted gut harmony in attention-deficit/hyperactivity disorder: Dysbiosis and decreased short-chain fatty acids",
-      "abstract": "Background Attention-Deficit Hyperactivity Disorder (ADHD) is a prevalent neurodevelopmental disorder with complex genetic and environmental underpinnings. Emerging evidence suggests a significant role of gut microbiota in ADHD pathophysiology. This study investigates variations in gut microbiota composition and Short-Chain Fatty Acid (SCFA) profiles between children and adolescents with ADHD and healthy controls. Methods The study included 42 ADHD patients and 31 healthy controls, aged 6–18 years. Fecal samples were analyzed for microbial composition using 16S rRNA gene sequencing and for SCFA profiles through gas chromatography-mass spectrometry (GC-MS). The study assessed both α and β diversity of gut microbiota and quantified various SCFAs to compare between the groups. Results ADHD subjects demonstrated significantly reduced gut microbiota diversity, as indicated by lower α-diversity indices (Shannon index, Observed species, Faith PD index) and a trend towards significance in β-diversity (Weighted UniFrac). Notably, the ADHD group exhibited significantly lower levels of key SCFAs, including acetic, propionic, isobutyric, isovaleric, and valeric acids, highlighting a distinct microbial and metabolic profile in these individuals. Conclusion This study uncovers significant alterations in gut microbiota and SCFA profiles in children with ADHD, compared to healthy controls. The observed changes in SCFAs, known for their associations with other behavioral and neurologic pathologies, and for their role in neural signaling. These findings offer a metabolite fingerprint that co…",
-      "authors": "Rafi Steckler, F. Magzal, M. Kokot et al.",
-      "published": "2024",
-      "venue": "Brain, Behavior, & Immunity - Health",
-      "feedName": "Lab Research",
-      "citationCount": 21,
-      "recentCitations": 1,
       "quartile": null,
-      "s2_paper_id": "e6bf6bc6dc39538aed6d5e9f0a2aad62f0702494",
-      "url": "https://doi.org/10.1016/j.bbih.2024.100829",
+      "s2_paper_id": "e6a6854e55ee8f5a8ace3025ba0d32e33a650343",
+      "url": "https://doi.org/10.3390/toxins16030163",
       "image": "",
       "screen": "both",
       "lab_paper": true,
       "researcher": {
-        "name": "Rafi Steckler",
-        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=BOhLTM0AAAAJ"
+        "name": "Loai Basheer",
+        "photo": "media/photos/loai_basheer.png"
+      }
+    },
+    {
+      "title": "Valorization of Local Legumes and Nuts as Key Components of the Mediterranean Diet",
+      "abstract": "Legumes and nuts are components of high importance in the diet of many countries, mainly those in the Mediterranean region. They are also very versatile and culturally diverse foods found all over the world, acting as a basic protein source in certain countries. Their genetic diversity is needed to sustain the food supply and security for humans and livestock, especially because of the current loss of habitats, species, and genetic diversity worldwide, but also because of the ever present need to feed the increasing human population. Even though both legumes and nuts are considered as high-protein food and environmentally friendly crops, developed countries have lower consumption rates when compared to Asia or Africa. With a view to increasing the consumption of legumes and nuts, the objective of this review is to present the advantages on the use of autochthonous varieties from different countries around the world, thus providing a boost to the local market in the area. The consumption of these varieties could be helped by their use in ready-to-eat foods (RTE), which are now on the rise thanks to today’s fast-paced lifestyles and the search for more nutritious and sustainable foods. The versatility of legumes and nuts covers a wide range of possibilities through their use in plant-based dairy analogues, providing alternative-protein and maximal amounts of nutrients and bioactive compounds, potential plant-based flours for bakery and pasta, and added-value traditional RTE meals. For this reason, information about legume and nut nutrition could possibly increase its acceptan…",
+      "authors": "Israel Hernández-López, J. Ortiz-Solà, C. Alamprese et al.",
+      "published": "2022",
+      "venue": "Foods",
+      "feedName": "Lab Research",
+      "citationCount": 42,
+      "recentCitations": 1,
+      "quartile": "Q2",
+      "s2_paper_id": "58107c8058774580a57d044f21566325035de229",
+      "url": "https://doi.org/10.3390/foods11233858",
+      "image": "",
+      "screen": "both",
+      "lab_paper": true,
+      "researcher": {
+        "name": "Loai Basheer",
+        "photo": "media/photos/loai_basheer.png"
       }
     },
     {

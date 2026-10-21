@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-21T09:00:35Z",
+  "updated": "2026-10-21T14:50:40Z",
   "items": [
     {
       "title": "Refined crop modelling reveals intensifying impacts of droughts and heatwaves on global wheat productivity",
@@ -42,42 +42,52 @@
       "screen": "left"
     },
     {
-      "title": "Electroactive MnO 2 nanorods-integrated grafted pectic acid nanocomposite for enzyme-free hydrogen peroxide determination in milk and salami samples",
+      "title": "Low-conjugation carbonized polymer dots enable rapid dual-mode detection of nitrite via diazotization–coupling and synergistic inner filter effect/static quenching",
       "abstract": "",
-      "authors": "M.S. Hashem, Hend S. Magar",
+      "authors": "Tao Li, Haochen Li, Zhijia Huo et al.",
       "published": "Dec 2026",
       "feedName": "Food Chemistry",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626036666?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626038343?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
     {
-      "title": "In-situ formed selenium-enriched CoSe 2 –FeSe 2 /N-doped MWCNT heterostructure for detection of butralin in agricultural food commodities",
+      "title": "Electrochemical sensing of rutin using MoS₂@f-CB nanocomposite a facile strategy for enhanced sensitivity and selectivity toward real-time detection in natural food samples",
       "abstract": "",
-      "authors": "Thangavelu Sakthi Priya, Shen-Ming Chen",
+      "authors": "Nithishkumar Marimuthu, Mani Govindasamy, Mohamed A. Habila et al.",
       "published": "Dec 2026",
       "feedName": "Food Chemistry",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626037143?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626035600?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
     {
-      "title": "Hydrophobic modified starch reinforced chitosan/lignosulfonate composite film for cherry tomatoes preservation",
+      "title": "High resolution NMR and mass spectrometry to evaluate the metabolome of novel strawberry advanced breeding selections and correlate it with the fruit quality",
       "abstract": "",
-      "authors": "Xijiao Bian, Zhuqing Liu, Jiaqian Cui et al.",
+      "authors": "Pierluigi Mazzei, Maria Luisa Graziano, Gessica Altieri et al.",
       "published": "Dec 2026",
       "feedName": "Food Chemistry",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626037489?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626037763?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
     {
-      "title": "Ratio-dependent co-encapsulation of heptanal and 1-octen-3-ol by V-type starch: Structural characterization and molecular dynamics insights",
+      "title": "Mild oxidation- and L -Cysteine-mediated disulfide bond modulation restores gelation performance of freeze-damaged myofibrillar protein",
       "abstract": "",
-      "authors": "Yaolin Dai, Yinghui Zhang, Wuyin Weng et al.",
+      "authors": "Binyu Wang, Congcong Ye, Yanyun Cao et al.",
       "published": "Dec 2026",
       "feedName": "Food Chemistry",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626037337?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626038276?dgcid=rss_sd_all",
+      "image": "",
+      "screen": "left"
+    },
+    {
+      "title": "Food-grade engineered microorganisms for cognitive health: Directed fermentation of neuroactive functional ingredients",
+      "abstract": "",
+      "authors": "Zhang Zhen, Zhou Hongmiao, Ma Baihe et al.",
+      "published": "Jan 2027",
+      "feedName": "Trends in Food Sci & Tech",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426006485?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -108,16 +118,6 @@
       "published": "Jan 2027",
       "feedName": "Trends in Food Sci & Tech",
       "url": "https://www.sciencedirect.com/science/article/pii/S0924224426006394?dgcid=rss_sd_all",
-      "image": "",
-      "screen": "left"
-    },
-    {
-      "title": "Artificial intelligence-enabled monitoring and control of heat-induced chemical contaminants during food processing: A review",
-      "abstract": "",
-      "authors": "Qi Zhang, Haiyang Wei, Zhihua Li et al.",
-      "published": "Jan 2027",
-      "feedName": "Trends in Food Sci & Tech",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426006345?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -242,42 +242,42 @@
       "screen": "left"
     },
     {
+      "title": "Functional metagenomics yields insights into the adaptive mechanisms of microbial persistence in beef processing drains",
+      "abstract": "",
+      "authors": "Zachariah A. Vice, Joseph M. Bosilevac, Rong Wang et al.",
+      "published": "Apr 2027",
+      "feedName": "Food Microbiology",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0740002026002947?dgcid=rss_sd_all",
+      "image": "",
+      "screen": "left"
+    },
+    {
+      "title": "Contrasting growth and spoilage traits combined with antagonistic core-periphery network organization reveal distinct ecological strategies among dairy-associated Pseudomonas subgroups",
+      "abstract": "",
+      "authors": "Darina Colcanap, Marcia Leyva Salas, Mohammed Khatbane et al.",
+      "published": "Apr 2027",
+      "feedName": "Food Microbiology",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0740002026003126?dgcid=rss_sd_all",
+      "image": "",
+      "screen": "left"
+    },
+    {
+      "title": "BcBOT 1/3/4 contribute to temperature-dependent growth, conidial germination and virulence of Botrytis cinerea on grape berries",
+      "abstract": "",
+      "authors": "Lifang Yuan, Xiaowei Yao, Tinggang Li et al.",
+      "published": "Apr 2027",
+      "feedName": "Food Microbiology",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0740002026002996?dgcid=rss_sd_all",
+      "image": "",
+      "screen": "left"
+    },
+    {
       "title": "The non-coding small RNA MicA regulates biofilm formation in Salmonella Typhimurium",
       "abstract": "",
       "authors": "Zhi Ma, Ruonan Qiu, Tianlei Xu et al.",
       "published": "Apr 2027",
       "feedName": "Food Microbiology",
       "url": "https://www.sciencedirect.com/science/article/pii/S0740002026002960?dgcid=rss_sd_all",
-      "image": "",
-      "screen": "left"
-    },
-    {
-      "title": "Effect of temperature on bacteriophage-based control of non-typhoidal Salmonella on raw chicken meat",
-      "abstract": "",
-      "authors": "Danielle M. Schultze, David Dennison, Siyun Wang",
-      "published": "Apr 2027",
-      "feedName": "Food Microbiology",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0740002026002972?dgcid=rss_sd_all",
-      "image": "",
-      "screen": "left"
-    },
-    {
-      "title": "Microbial ecology of Baijiu fermentation: Community assembly, functional succession, and environmental feedback in an open solid-state ecosystem",
-      "abstract": "",
-      "authors": "Yan Chen, Huilin Shi, Fengxia Yan et al.",
-      "published": "Apr 2027",
-      "feedName": "Food Microbiology",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0740002026002881?dgcid=rss_sd_all",
-      "image": "",
-      "screen": "left"
-    },
-    {
-      "title": "Identification and characterization of biofilm-degrading aptamers against Escherichia coli by Inhibition-SELEX and analysis of their target proteins and interactions",
-      "abstract": "",
-      "authors": "Deji Gao, Jiangyuan Huang, Wei Yan et al.",
-      "published": "Apr 2027",
-      "feedName": "Food Microbiology",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0740002026002923?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -442,6 +442,26 @@
       "screen": "right"
     },
     {
+      "title": "Massive study of 460,000 people challenges ultra-processed food cancer fears",
+      "abstract": "A massive study of more than 460,000 Americans found that ultra-processed foods were not associated with increased colorectal cancer risk overall, challenging a widely held assumption. While processed meat was linked to higher cancer incidence, ultra-processed whole grains and dairy products were associated with lower incidence.",
+      "authors": "",
+      "published": "Oct 2026",
+      "feedName": "ScienceDaily Nutrition",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261020085014.htm",
+      "image": "https://www.sciencedaily.com/images/1920/fast-food-burgers-fries-chicken-nuggets.webp",
+      "screen": "right"
+    },
+    {
+      "title": "Scientists find 10 different diets linked to slower aging",
+      "abstract": "A study by DZNE finds that healthy eating is associated with slower biological aging—and that there is more than one way to eat healthily. The researchers examined ten dietary patterns considered healthy, including the Mediterranean, Nordic, and a plant-based diet, as well as the DASH diet, which is designed to help lower blood pressure. The findings are published in the journal Nature Communications.",
+      "authors": "",
+      "published": "Oct 2026",
+      "feedName": "ScienceDaily Nutrition",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261019093439.htm",
+      "image": "https://www.sciencedaily.com/images/1920/longevity-anti-aging-beauty-skincare.webp",
+      "screen": "right"
+    },
+    {
       "title": "Scientists discover a surprising link between vitamin C and cancer survival",
       "abstract": "A surprising clinical trial suggests that taking vitamin C daily could improve survival in people with precancerous blood disorders and early-stage blood cancers. Patients receiving the supplement had fewer adverse events and showed a promising survival advantage, raising hopes that a common vitamin could help protect against leukemia-related complications.",
       "authors": "",
@@ -462,62 +482,42 @@
       "screen": "right"
     },
     {
-      "title": "Scientists discover a natural compound that could protect the brain from too much salt",
-      "abstract": "Eating too much salt may do more than raise blood pressure. It could also harm memory and social behavior. In a new study, Japanese researchers discovered that a soy-derived compound called LPC70 helped protect mice from several damaging effects of a high-salt diet. Mice given the supplement had lower blood pressure, better memory, and improved social interactions compared with mice consuming excess salt alone.",
-      "authors": "",
-      "published": "Oct 2026",
-      "feedName": "ScienceDaily Nutrition",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261017230032.htm",
-      "image": "https://www.sciencedaily.com/images/1920/brain-shield-dementia-protection.webp",
-      "screen": "right"
-    },
-    {
-      "title": "Scientists link a strange sugar in red meat to a 63% higher diabetes risk",
-      "abstract": "A study of nearly 90,000 adults found that people consuming the most of a little-known sugar found in red meat had a 63% higher risk of developing type 2 diabetes. Scientists suspect the sugar may trigger chronic inflammation, potentially revealing a hidden connection between red meat and diabetes that goes beyond weight gain.",
-      "authors": "",
-      "published": "Oct 2026",
-      "feedName": "ScienceDaily Nutrition",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261017230031.htm",
-      "image": "https://www.sciencedaily.com/images/1920/fresh-japanese-kobe-beef-steak.webp",
-      "screen": "right"
-    },
-    {
-      "title": "Beyond nutritional risk scores: domain-guided perioperative nutrition in patients with pancreatic ductal adenocarcinoma undergoing pancreaticoduodenectomy",
-      "abstract": "Patients with pancreatic ductal adenocarcinoma (PDAC) proceeding to pancreaticoduodenectomy rarely have a single nutritional problem. Poor intake may coexist with pancreatic exocrine insufficiency, loss of muscle function, systemic inflammation, and unstable glucose control. Screening tools identify vulnerability, but they do not show which of these processes is most important at a particular point in treatment. This Perspective sets out a domain-guided approach in which screening is followed by an explicit treatment hypothesis. Four overlapping domains are considered: muscle loss and functional decline; pancreatic exocrine insufficiency and impaired digestion; inflammatory and catabolic burden; and glycemic instability with pancreatic endocrine insufficiency. The domains are not new diagnoses and do not replace the Nutrition Care Process. They are a practical way to connect a clinically important finding with a defined action, a responsible clinician, a response measure, an escalation rule, and a reassessment date. Intake and symptom burden are treated as cross-cutting variables because they influence every domain. The framework is intended for use during neoadjuvant treatment, the preoperative interval, hospitalization, and early recovery. Its value will depend on whether it improves function, symptom control, protein-energy adequacy, glycemic stability, postoperative recovery, and delivery of planned oncologic treatment.",
-      "authors": "Jingyi Xu, Lei Yang, Yuehua Liang et al.",
+      "title": "Nutritional modulation of microbiome proteomics in insulin resistance",
+      "abstract": "",
+      "authors": "Beraat Dener, Sueda İzem Gülal, Miraç Bulut et al.",
       "published": "Oct 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1955662",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1913314",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Body mass index and overall survival in patients with gastric cancer: stage-specific associations and prognostic implications",
-      "abstract": "IntroductionNutritional impairment is common in gastric cancer and may affect treatment outcomes and overall survival (OS). However, the prognostic significance of body mass index (BMI), particularly across disease stages, remains uncertain. This study aimed to evaluate the association between baseline BMI and OS, examine potential stage-specific differences, and assess the additional prognostic value of nutritional and functional indicators.MethodsThis observational cohort study included 380 adults with histologically confirmed gastric cancer, categorized as underweight (BMI < 18.5 kg/m2), normal weight (18.5–23.9 kg/m2), overweight (24.0–27.9 kg/m2), or obese (≥28.0 kg/m2). Associations with OS were evaluated using Kaplan–Meier analysis, multivariable Cox regression, BMI-by-stage interaction testing, parsimonious stage-specific sensitivity analyses, and restricted cubic splines. Prognostic performance was assessed using bootstrap-corrected concordance indices (C-indices) and time-dependent areas under the curve (AUCs).ResultsAmong 374 patients included in the primary multivariable analysis, 202 deaths occurred. After adjustment for clinical, nutritional, and treatment-related factors, overweight was associated with lower mortality than normal weight (hazard ratio [HR], 0.62; 95% confidence interval [CI], 0.41–0.93; p = 0.020), whereas underweight and obesity were not significantly associated with OS. The BMI-by-stage interaction was not significant (p = 0.173). In stage-specific sensitivity analyses, overweight was associated with lower mortality in stage III–IV disease (…",
-      "authors": "Sijing Zhou, Dong Yu, Xiaojie Wang et al.",
+      "title": "Acute study of the glycemic, insulinemic and triglyceride responses on white bread with peanuts and cashews in different forms (whole nut, nut butter and nut milk)",
+      "abstract": "Frequent nut consumption is associated with reduced cardiovascular disease (CVD) risk and mortality, particularly in individuals with diabetes, highlighting their potential health benefits. This study investigated the acute postprandial glycemic, insulinemic, and triglyceride responses to white bread consumed with peanuts and cashews in three forms: whole nuts, nut butter, and nut milk. Given that particle size and food form influence postprandial responses, it was hypothesized that nut milk would significantly modulate these metabolic parameters compared to whole nuts and nut butter. Fifteen healthy participants completed a randomized crossover study. Participants consumed a standardized serving of 42.5 g of peanuts or cashews in each form alongside two slices of white bread. Compared to white bread alone, all nut forms significantly attenuated postprandial glucose peaks and reduced glycemic responses, with a slight increase in insulin responses. Notably, nut butter and nut milk elicited 52 and 44% higher triglyceride responses, respectively, compared to whole nuts. Furthermore, peanuts resulted in a lower glucose incremental area under the curve (iAUC, 2 h) and a higher triglyceride response than cashews. However, these differences were not statistically significant. The incorporation of peanuts and cashews into white bread demonstrated improved glycemic control. While nut form primarily impacted triglyceride responses, suggesting a critical role for lipid bioaccessibility in modulating postprandial lipid metabolism, it did not significantly influence glucose or acute ins…",
+      "authors": "Saihah Mohamed Salleh, Sharifah Fatanah Bte Syed Abdullah, Kalpana Bhaskaran",
       "published": "Oct 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1937418",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1838715",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Advanced recovery of ergosterol- and vitamin D2-rich fractions from mushrooms: process intensification and scale-up challenges",
-      "abstract": "Vitamin D insufficiency remains widespread, intensifying interest in mushrooms as non-animal sources of vitamin D₂ and in their processing side streams as sustainable reservoirs of its precursor, ergosterol. This review evaluates the advanced recovery of ergosterol- and vitamin D₂-rich fractions from edible mushrooms, integrating feedstock preparation, extraction, UV photoconversion, process intensification, scale-up, environmental and economic performance, and patent activity. Although these approaches can improve recovery, selectivity, and processing efficiency, most evidence remains laboratory-based. Matrix properties, solvent use, energy delivery, light penetration, reactor design, and fractionation jointly determine product yield, stability, and scalability. The limited environmental and economic assessments currently available identify drying, electricity demand, solvent recovery, and purification as major feasibility constraints. Patent trends reveal a shift from simple mushroom irradiation toward integrated extraction–photoconversion–purification platforms, yet pilot-scale validation remains limited. Future research should prioritize complete process chains, specific solvent circularity, and integrated techno-economic and life-cycle assessment. Bridging these gaps is essential for translating mushroom-derived ergosterol and vitamin D₂ into scalable, nutritionally relevant, and sustainable food ingredients.",
-      "authors": "Kristian Pastor, Jelena Vladic, Nataša Nastić",
+      "title": "Dietary Approaches to Stop Hypertension score is associated with depressive symptoms among Chinese adults: a cross-sectional study",
+      "abstract": "BackgroundThe relationship between diet and depressive symptoms is increasingly recognized. However, studies of the association between the Dietary Approaches to Stop Hypertension (DASH) diet and depressive symptoms are limited, and data from Chinese adults are lacking.ObjectiveThe goal of this study was to explore the association between the DASH score and depressive symptoms in Chinese adults and to analyze the dose-response relationship and threshold effect.MethodsA total of 3,465 adults were enrolled in this study. Dietary intake was assessed using a food frequency questionnaire, and then the DASH score was calculated. Depressive symptoms were evaluated using the Zung Self-Rating Depression Scale. Subsequently, multivariable logistic regression analysis was used to assess the association between DASH score and depressive symptoms. Restricted cubic spline and two-piecewise logistic regression models were applied to explore dose-response relationships and threshold effect.ResultsLogistic regression analysis showed a significant negative association between the DASH score and depressive symptoms (p for trend = 0.045), which remained stable across different adjusted models. A significant non-linear dose-response relationship was observed (p for non-linearity = 0.001). An exploratory inflection point was identified at a DASH score of 4.124 (95% CI: 2.050–6.450) in this cross-sectional sample. Below this value, a higher DASH score was associated with lower odds of depressive symptoms (OR = 0.397, 95% CI: 0.261–0.605, p < 0.001); above this value, the association was not signi…",
+      "authors": "Ping Li, Yue Li, Yanru Zhao et al.",
       "published": "Oct 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1987834",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1913667",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Production of white cheese using the gel brine technique and determination of its physicochemical, color, and microbiological properties using multivariate statistical analyses",
-      "abstract": "BackgroundIn this research, a new salting method called the “gel brine technique” was developed and applied in cheese salting. The gel brine technique involves increasing the viscosity of the brine used in cheese salting by adding certain thickening and gelling stabilizers.MethodsThe aim was to reduce the salt content of brined white cheese, which holds an important place in the human diet due to its nutritional components. In the study, white cheese brine was prepared in gel form by adding different stabilizers (gelatin, xanthan gum, carrageenan gum, and pectin). The stabilizers were used at the following concentrations: carrageenan gum and xanthan gum at 0.5, 1.0, 1.5%; pectin and gelatin at 1.0, 2.0, 3.0%; and salt at 2.0, 4.0, and 6.0%. A control group consisting of brine without stabilizers but containing salt at 2.0, 4.0, and 6.0% was also included. The white cheeses were then kept in these brines for 90 days and stored at +4 °C. The physicochemical, color and microbiological properties of the cheeses produced in duplicate were analyzed.ResultsAs a result, the dry matter content of cheeses produced with gel brine ranged from 28.26 to 44.81%, salt content from 0.79 to 3.45%, water activity (aw) from 0.92 to 0.93, and L* values (color parameter) from 71.82 to 94.59. For microbiological counts, total yeast-mold counts ranged from 1.0 to 6.7 log cfu/g. Since the gel brines in this study were prepared with very low salt levels, some cheeses did not survive until the end of the storage period and exhibited melting. For example, the control group samples melted completely, s…",
-      "authors": "Mustafa Çavuş, Hasan Yetim, Hasan Cankurt",
+      "title": "Beyond solute clearance: the kidney–gut–immune–nutrition axis in hemodialysis and peritoneal dialysis and a proposed framework for integrated risk stratification",
+      "abstract": "Kidney disease affects approximately ~850 million people globally, with millions dependent on dialysis as life-sustaining renal replacement therapy. While dialysis corrects solute accumulation and fluid overload, it incompletely replicates normal renal physiology and introduces its own biological stressors, perpetuating a cycle of systemic dysfunction that extends well beyond the kidney. Central to this dysfunction is the kidney–gut–immune–nutrition (KGIN) axis: a bidirectional network linking renal clearance, intestinal microbial homeostasis, immune regulation, and nutritional metabolism. In end-stage renal disease, each component of this axis is simultaneously disrupted and becomes a driver of further deterioration. Uremic toxin accumulation remodels the gut microbiome toward a dysbiotic state, characterized by depletion of short-chain fatty acid-producing organisms and expansion of pathobionts. The resulting compromise of intestinal barrier integrity permits systemic translocation of lipopolysaccharide and other microbial products, sustaining chronic low-grade inflammation and a paradoxical state of immune dysfunction marked by heightened inflammatory signaling alongside impaired pathogen defense. These perturbations converge on nutritional status, driving protein-energy wasting through catabolic cytokine signaling, anorexia, and suppression of anabolic pathways, with sarcopenia reported in several dialysis cohorts to progress at two to three fold faster than age related muscle loss. Hemodialysis and peritoneal dialysis produce distinct patterns of axis disruption: hemod…",
+      "authors": "Atul Rawat, Narayan Prasad, Pratima Rawat et al.",
       "published": "Oct 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1930095",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1931760",
       "image": "",
       "screen": "right"
     },
@@ -609,7 +609,7 @@
       "venue": "Food and Bioprocess Technology",
       "feedName": "Lab Research",
       "citationCount": 6,
-      "recentCitations": 2,
+      "recentCitations": 0,
       "quartile": "Q1",
       "s2_paper_id": "034d8c4f0c0f5607a4e6727360aa5d7287e60d5b",
       "url": "https://doi.org/10.1007/s11947-025-03873-y",

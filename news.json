@@ -1,6 +1,16 @@
 {
-  "updated": "2026-10-21T19:52:18Z",
+  "updated": "2026-10-21T22:55:33Z",
   "items": [
+    {
+      "title": "Plant-based meat alternatives can support reductions in agricultural land expansion and greenhouse gas emissions but entail micronutrient trade-offs",
+      "abstract": "Substitution of ruminant meat with plant-based meat alternatives can support lower food system greenhouse gas emissions and limit agricultural land expansion, but micronutrient inadequacy may arise from this dietary shift.",
+      "authors": "Junqi Xiong, Zhaowu Yu, Yi Gong et al.",
+      "published": "Oct 2026",
+      "feedName": "Nature Food",
+      "url": "https://www.nature.com/articles/s43016-026-01447-5",
+      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs43016-026-01447-5/MediaObjects/43016_2026_1447_Fig1_HTML.png",
+      "screen": "left"
+    },
     {
       "title": "Refined crop modelling reveals intensifying impacts of droughts and heatwaves on global wheat productivity",
       "abstract": "Extreme weather events, including heatwaves, droughts and especially compound heatwave–drought events, increasingly threaten global wheat production, yet their impacts are often underestimated by existing models. Improved crop modelling enables more accurate simulations of yield losses and reveals that the effectiveness of irrigation in mitigating these impacts has weakened over recent decades.",
@@ -29,16 +39,6 @@
       "feedName": "Nature Food",
       "url": "https://www.nature.com/articles/s43016-026-01439-5",
       "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs43016-026-01439-5/MediaObjects/43016_2026_1439_Fig1_HTML.png",
-      "screen": "left"
-    },
-    {
-      "title": "Food packaging claims need to be earned",
-      "abstract": "More than half of new products in the United States carry a health-related claim, while only a third are actually nutritious, possibly misleading consumers to overestimate their healthfulness.",
-      "authors": "Belen Beltramo",
-      "published": "Sep 2026",
-      "feedName": "Nature Food",
-      "url": "https://www.nature.com/articles/s43016-026-01442-w",
-      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs43016-026-01442-w/MediaObjects/43016_2026_1442_Fig1_HTML.png",
       "screen": "left"
     },
     {
@@ -282,6 +282,16 @@
       "screen": "left"
     },
     {
+      "title": "Nova was never built for the populations it claims to protect",
+      "abstract": "",
+      "authors": "Jimmy Chun Yu Louie",
+      "published": "Oct 2026",
+      "feedName": "npj Science of Food",
+      "url": "https://www.nature.com/articles/s41538-026-01198-4",
+      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01198-4/MediaObjects/41538_2026_1198_Fig1_HTML.png",
+      "screen": "left"
+    },
+    {
       "title": "AI-guided discovery of fungal-derived salty and saltiness-enhancing peptides for sodium-reduced foods",
       "abstract": "",
       "authors": "Yan Zhang, Xiaoli Shen, Yuyang Liu et al.",
@@ -309,16 +319,6 @@
       "feedName": "npj Science of Food",
       "url": "https://www.nature.com/articles/s41538-026-01200-z",
       "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01200-z/MediaObjects/41538_2026_1200_Fig1_HTML.png",
-      "screen": "left"
-    },
-    {
-      "title": "Banana starch nanoparticles exacerbate colitis by impairing intestinal barrier integrity in mice",
-      "abstract": "",
-      "authors": "Bing Jiang, Chenglu Peng, Przemyslaw Zalewski et al.",
-      "published": "Oct 2026",
-      "feedName": "npj Science of Food",
-      "url": "https://www.nature.com/articles/s41538-026-01206-7",
-      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01206-7/MediaObjects/41538_2026_1206_Fig1_HTML.png",
       "screen": "left"
     },
     {
@@ -362,6 +362,16 @@
       "screen": "left"
     },
     {
+      "title": "AI designs functional enzyme components that could help expand drug discovery",
+      "abstract": "New active ingredients for drugs to treat infections, cancer or other serious diseases are often based on substances originally discovered in microorganisms, plants or other living organisms. Producing or improving such active ingredients in a targeted manner using microorganisms is often challenging because the underlying biological processes are extremely complex.",
+      "authors": "",
+      "published": "Oct 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-10-ai-functional-enzyme-components-drug.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/ai-aids-in-the-develop.jpg",
+      "screen": "right"
+    },
+    {
       "title": "Mirror-image molecules are difficult to separate from their counterparts, but a new catalytic method might be the answer",
       "abstract": "Just like gloves, molecules can have left- and right-handed—or mirror-image—forms. Because the left- and right-handed molecules are still very similar, scientists have had trouble separating them from each other. But a team of researchers in Japan might have found a solution. In their new study, published in Science Advances, the team successfully separated an equal mixture of mirror-image molecules created by replacing hydrogen with deuterium in one form.",
       "authors": "",
@@ -389,16 +399,6 @@
       "feedName": "Phys.org Analytics",
       "url": "https://phys.org/news/2026-10-analytical-method-reveals-tiny-molecular.html",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/new-analytical-method-1.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "Giving AI a 'crystal clear' view of the materials world by mapping geometry to text",
-      "abstract": "In principle, artificial intelligence could make finding the right material for an application as simple as ordering dinner: Scientists would tell a large language model what they want, and it would serve them the perfect material for the job.",
-      "authors": "",
-      "published": "Oct 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-10-ai-crystal-view-materials-world.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/giving-ai-a-crystal-cl.jpg",
       "screen": "right"
     },
     {

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-21T14:50:40Z",
+  "updated": "2026-10-21T19:52:18Z",
   "items": [
     {
       "title": "Refined crop modelling reveals intensifying impacts of droughts and heatwaves on global wheat productivity",
@@ -122,6 +122,16 @@
       "screen": "left"
     },
     {
+      "title": "Effect of taste- and health-related information on consumer perception of plant-based beverages: The moderating role of health consciousness",
+      "abstract": "",
+      "authors": "Chae-Young Ma, Min-A Kim",
+      "published": "Feb 2027",
+      "feedName": "Food Quality & Preference",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0950329326003095?dgcid=rss_sd_all",
+      "image": "",
+      "screen": "left"
+    },
+    {
       "title": "Comparing direct and indirect measures of attitudes toward health and sustainability in the perception of organic and ancient wheat labels",
       "abstract": "",
       "authors": "E. Boci, L. Pierguidi, C. Dinnella et al.",
@@ -148,16 +158,6 @@
       "published": "Feb 2027",
       "feedName": "Food Quality & Preference",
       "url": "https://www.sciencedirect.com/science/article/pii/S0950329326002636?dgcid=rss_sd_all",
-      "image": "",
-      "screen": "left"
-    },
-    {
-      "title": "Sensing the path forward: AI as amplifier in sensory and consumer science",
-      "abstract": "",
-      "authors": "John M. Ennis, Vanessa Rios de Souza, Maria Elena Lozano et al.",
-      "published": "Feb 2027",
-      "feedName": "Food Quality & Preference",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0950329326002594?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -362,6 +362,16 @@
       "screen": "left"
     },
     {
+      "title": "Mirror-image molecules are difficult to separate from their counterparts, but a new catalytic method might be the answer",
+      "abstract": "Just like gloves, molecules can have left- and right-handed—or mirror-image—forms. Because the left- and right-handed molecules are still very similar, scientists have had trouble separating them from each other. But a team of researchers in Japan might have found a solution. In their new study, published in Science Advances, the team successfully separated an equal mixture of mirror-image molecules created by replacing hydrogen with deuterium in one form.",
+      "authors": "",
+      "published": "Oct 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-10-mirror-image-molecules-difficult-counterparts.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/mirror-image-molecules-2.jpg",
+      "screen": "right"
+    },
+    {
       "title": "Fluorescent reaction maps reveal how catalyst activity changes with operating conditions",
       "abstract": "Catalysts spur chemical reactions used across industries, from producing fuels and medicines to manufacturing chemicals and treating pollutants. Improving their performance requires understanding where and how reactions happen on their surfaces. However, conventional measurements average the activity of many catalyst particles, concealing local differences that could hold clues to designing more effective materials.",
       "authors": "",
@@ -389,16 +399,6 @@
       "feedName": "Phys.org Analytics",
       "url": "https://phys.org/news/2026-10-ai-crystal-view-materials-world.html",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/giving-ai-a-crystal-cl.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "'24/7 unmanned synthesis platform' uses robots and light to produce drug candidates",
-      "abstract": "Even when AI designs molecules with potential as medicines, drug development can be delayed if the process of producing them is slow. KAIST researchers have developed an \"unmanned synthesis platform\" that uses synthesis robots and light to automatically carry out the entire process from mixing raw materials to synthesis and analysis. The technology is expected to help secure a wider range of drug candidate compounds by reducing the burden of repetitive experiments.",
-      "authors": "",
-      "published": "Oct 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-10-unmanned-synthesis-platform-robots-drug.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/kaist-develops-247-unm.jpg",
       "screen": "right"
     },
     {
@@ -609,7 +609,7 @@
       "venue": "Food and Bioprocess Technology",
       "feedName": "Lab Research",
       "citationCount": 6,
-      "recentCitations": 0,
+      "recentCitations": 2,
       "quartile": "Q1",
       "s2_paper_id": "034d8c4f0c0f5607a4e6727360aa5d7287e60d5b",
       "url": "https://doi.org/10.1007/s11947-025-03873-y",

@@ -1,6 +1,26 @@
 {
-  "updated": "2026-10-22T09:08:43Z",
+  "updated": "2026-10-22T14:51:17Z",
   "items": [
+    {
+      "title": "Conflict with industrial fleets undermines the contributions of small-scale fisheries to sustainable development in vulnerable regions",
+      "abstract": "Small-scale fisheries are vulnerable to conflict with industrial fishing. The small-scale and industrial fisheries interaction index reveals regions with weak governance and emphasizes the need for enhanced access rights and management strategies.",
+      "authors": "Melissa R. Cronin, Elena Finkbeiner, John Virdin et al.",
+      "published": "Oct 2026",
+      "feedName": "Nature Food",
+      "url": "https://www.nature.com/articles/s43016-026-01431-z",
+      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs43016-026-01431-z/MediaObjects/43016_2026_1431_Fig1_HTML.png",
+      "screen": "left"
+    },
+    {
+      "title": "The global potential of aquavoltaics for power generation and offsetting the carbon footprint of freshwater aquaculture",
+      "abstract": "Satellite observations and climate-driven photovoltaic deployment simulations show that integrating solar panels at aquaculture production sites could generate substantial clean electricity while offsetting aquaculture-sector carbon emissions.",
+      "authors": "Zilong Xia, Simon R. Bush, Nan Jia et al.",
+      "published": "Oct 2026",
+      "feedName": "Nature Food",
+      "url": "https://www.nature.com/articles/s43016-026-01446-6",
+      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs43016-026-01446-6/MediaObjects/43016_2026_1446_Fig1_HTML.png",
+      "screen": "left"
+    },
     {
       "title": "Plant-based meat alternatives can support reductions in agricultural land expansion and greenhouse gas emissions but entail micronutrient trade-offs",
       "abstract": "Substitution of ruminant meat with plant-based meat alternatives can support lower food system greenhouse gas emissions and limit agricultural land expansion, but micronutrient inadequacy may arise from this dietary shift.",
@@ -22,62 +42,62 @@
       "screen": "left"
     },
     {
-      "title": "Cybersecurity and resiliency in agricultural and food systems",
-      "abstract": "Based on a workshop series involving more than 150 stakeholders, this Perspective proposes the implementation of a consortium led by regional land-grant universities with expertise in artificial intelligence and cybersecurity, outlining a roadmap for responding to emerging agrifood cyber risks.",
-      "authors": "Feras A. Batarseh, Manimaran Govindarasu, Monowar Hasan et al.",
-      "published": "Oct 2026",
-      "feedName": "Nature Food",
-      "url": "https://www.nature.com/articles/s43016-026-01422-0",
-      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs43016-026-01422-0/MediaObjects/43016_2026_1422_Fig1_HTML.png",
-      "screen": "left"
-    },
-    {
-      "title": "Zero hunger is not achievable without peace",
-      "abstract": "The UN Sustainable Development Goal 2 (SDG 2) aims to end global hunger by 2030. A rising burden of armed conflict now obstructs progress, pointing to the fundamental importance of preventing and ending armed conflict to get SDG 2 back on track.",
-      "authors": "Halvard Buhaug, Paola Vesco",
-      "published": "Sep 2026",
-      "feedName": "Nature Food",
-      "url": "https://www.nature.com/articles/s43016-026-01439-5",
-      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs43016-026-01439-5/MediaObjects/43016_2026_1439_Fig1_HTML.png",
-      "screen": "left"
-    },
-    {
-      "title": "Low-conjugation carbonized polymer dots enable rapid dual-mode detection of nitrite via diazotization–coupling and synergistic inner filter effect/static quenching",
+      "title": "Reduction in bovine milk fat globule size is characterized by remodeling of membrane-associated lipids in milk",
       "abstract": "",
-      "authors": "Tao Li, Haochen Li, Zhijia Huo et al.",
+      "authors": "Jingna Yang, Yifan Fang, Bo Gao et al.",
       "published": "Dec 2026",
       "feedName": "Food Chemistry",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626038343?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626036940?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
     {
-      "title": "Electrochemical sensing of rutin using MoS₂@f-CB nanocomposite a facile strategy for enhanced sensitivity and selectivity toward real-time detection in natural food samples",
+      "title": "Simultaneous enantiomeric separation and analysis of dimpropyridaz and its two major metabolites in plant-origin foods by UHPLC-MS/MS",
       "abstract": "",
-      "authors": "Nithishkumar Marimuthu, Mani Govindasamy, Mohamed A. Habila et al.",
+      "authors": "Yuan Ma, Junhao Jiang, Yingqiu Zhang et al.",
       "published": "Dec 2026",
       "feedName": "Food Chemistry",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626035600?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626036836?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
     {
-      "title": "High resolution NMR and mass spectrometry to evaluate the metabolome of novel strawberry advanced breeding selections and correlate it with the fruit quality",
+      "title": "Molecular interactions of fiber-rich banana blossom powder during the structuring of mung bean protein-based high-moisture meat analogs",
       "abstract": "",
-      "authors": "Pierluigi Mazzei, Maria Luisa Graziano, Gessica Altieri et al.",
+      "authors": "Ibrahim Khalifa, Raouf Aslam, Xiaobo Zou et al.",
       "published": "Dec 2026",
       "feedName": "Food Chemistry",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626037763?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626038124?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
     {
-      "title": "Mild oxidation- and L -Cysteine-mediated disulfide bond modulation restores gelation performance of freeze-damaged myofibrillar protein",
+      "title": "Deamidation-enabled fabrication of tough, stretchable, and transparent plant protein hydrogels",
       "abstract": "",
-      "authors": "Binyu Wang, Congcong Ye, Yanyun Cao et al.",
+      "authors": "Tang-Hao Li, Yao-Qin Yang, Jian Guo et al.",
       "published": "Dec 2026",
       "feedName": "Food Chemistry",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626038276?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626037994?dgcid=rss_sd_all",
+      "image": "",
+      "screen": "left"
+    },
+    {
+      "title": "Understanding restaurant food waste as a system: Integrating operational and contextual drivers through a systematic mapping review",
+      "abstract": "",
+      "authors": "Alexandra Neill, Khalid Ramadan Medani, Beth Clark et al.",
+      "published": "Jan 2027",
+      "feedName": "Trends in Food Sci & Tech",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426006448?dgcid=rss_sd_all",
+      "image": "",
+      "screen": "left"
+    },
+    {
+      "title": "Antifreeze peptides from animal by-products: A hierarchical framework from biodiversity to rational design",
+      "abstract": "",
+      "authors": "Jiaqi Yu, Yiping Yang, Yan Zhang et al.",
+      "published": "Jan 2027",
+      "feedName": "Trends in Food Sci & Tech",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426006503?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -98,26 +118,6 @@
       "published": "Jan 2027",
       "feedName": "Trends in Food Sci & Tech",
       "url": "https://www.sciencedirect.com/science/article/pii/S0924224426006333?dgcid=rss_sd_all",
-      "image": "",
-      "screen": "left"
-    },
-    {
-      "title": "From Andean grains to healthy foods: a systematic review of how quinoa, amaranth, and cañihua reshape the nutritional, technological, and sensory quality of foods",
-      "abstract": "",
-      "authors": "Erick Saldaña, Karina Eduardo, Rebeca Salvador-Reyes",
-      "published": "Jan 2027",
-      "feedName": "Trends in Food Sci & Tech",
-      "url": "https://www.sciencedirect.com/science/article/pii/S092422442600645X?dgcid=rss_sd_all",
-      "image": "",
-      "screen": "left"
-    },
-    {
-      "title": "Spatiotemporal heterogeneity in traditional fermentation: Mechanisms, multidimensional characterization, and process regulation",
-      "abstract": "",
-      "authors": "Fuhao Liang, Xinlei Huang, Zinuan Han et al.",
-      "published": "Jan 2027",
-      "feedName": "Trends in Food Sci & Tech",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426006394?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -282,6 +282,16 @@
       "screen": "left"
     },
     {
+      "title": "Valorization of yak bone collagen byproducts: computational screening and experimental validation of anti-aging peptides targeting MMP-1",
+      "abstract": "",
+      "authors": "Yuyang Liu, Yan Zhang, Qida Li et al.",
+      "published": "Oct 2026",
+      "feedName": "npj Science of Food",
+      "url": "https://www.nature.com/articles/s41538-026-01223-6",
+      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01223-6/MediaObjects/41538_2026_1223_Fig1_HTML.png",
+      "screen": "left"
+    },
+    {
       "title": "Nova was never built for the populations it claims to protect",
       "abstract": "",
       "authors": "Jimmy Chun Yu Louie",
@@ -312,13 +322,13 @@
       "screen": "left"
     },
     {
-      "title": "α-Tocopherol-dependent occurrence of linoleic acid 11-hydroperoxide in triacylglycerol: what it signifies in food oxidation and quality",
+      "title": "A lightweight perception and decision framework for single-camera three-lane online apple defect sorting",
       "abstract": "",
-      "authors": "Yuki Kadono, Shunji Kato, Ibuki Kusumoto et al.",
-      "published": "Oct 2026",
-      "feedName": "npj Science of Food",
-      "url": "https://www.nature.com/articles/s41538-026-01200-z",
-      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01200-z/MediaObjects/41538_2026_1200_Fig1_HTML.png",
+      "authors": "Peng Qiao, Geng Chen, Zhiguo Li et al.",
+      "published": "",
+      "feedName": "AI in Agriculture",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2589721726001200?dgcid=rss_sd_all",
+      "image": "",
       "screen": "left"
     },
     {
@@ -348,16 +358,6 @@
       "published": "",
       "feedName": "AI in Agriculture",
       "url": "https://www.sciencedirect.com/science/article/pii/S2589721726001182?dgcid=rss_sd_all",
-      "image": "",
-      "screen": "left"
-    },
-    {
-      "title": "Real-time, robust, and highly accurate robotic grasp detection of fruits with variable sizes and shapes",
-      "abstract": "",
-      "authors": "Boyuan Cao, Yang Li, Congmin Guo et al.",
-      "published": "",
-      "feedName": "AI in Agriculture",
-      "url": "https://www.sciencedirect.com/science/article/pii/S2589721726001170?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -442,6 +442,36 @@
       "screen": "right"
     },
     {
+      "title": "Coffee calories have jumped nearly 40%. Sugar isn't the biggest culprit",
+      "abstract": "Your morning coffee may be packing more calories than you realize, and sugar isn't the biggest reason. A study of 30,000 Americans found that non-dairy creamer has overtaken sugar and milk as the leading source of added coffee calories, helping drive a nearly 40% increase between 2003 and 2018.",
+      "authors": "",
+      "published": "Oct 2026",
+      "feedName": "ScienceDaily Nutrition",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261021231224.htm",
+      "image": "https://www.sciencedaily.com/images/1920/coffee-creamer-pour-cream-into-black-coffee.webp",
+      "screen": "right"
+    },
+    {
+      "title": "Millions take fish oil for brain health. A two-year study found no benefit",
+      "abstract": "A surprising two-year clinical trial found that fish oil supplements successfully delivered omega-3s to the brain but failed to improve memory or protect against Alzheimer's-related brain shrinkage. Researchers suspect that getting these nutrients through a healthy diet may offer benefits that supplements alone cannot provide.",
+      "authors": "",
+      "published": "Oct 2026",
+      "feedName": "ScienceDaily Nutrition",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261020085427.htm",
+      "image": "https://www.sciencedaily.com/images/1920/fish-oil-omega-3-capsules-dha-epa.webp",
+      "screen": "right"
+    },
+    {
+      "title": "People are taking an unapproved weight-loss drug. AI found something surprising",
+      "abstract": "Researchers analyzing nearly 150,000 Reddit posts uncovered unexpected symptom reports linked by users to unapproved versions of retatrutide, including increased appetite, sleep disturbances, and elevated heart rates. The findings differ from clinical trial results and highlight how AI could help identify potential drug safety signals that warrant further investigation.",
+      "authors": "",
+      "published": "Oct 2026",
+      "feedName": "ScienceDaily Nutrition",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261020085018.htm",
+      "image": "https://www.sciencedaily.com/images/1920/happy-young-woman-with-pink-donuts.webp",
+      "screen": "right"
+    },
+    {
       "title": "Massive study of 460,000 people challenges ultra-processed food cancer fears",
       "abstract": "A massive study of more than 460,000 Americans found that ultra-processed foods were not associated with increased colorectal cancer risk overall, challenging a widely held assumption. While processed meat was linked to higher cancer incidence, ultra-processed whole grains and dairy products were associated with lower incidence.",
       "authors": "",
@@ -449,46 +479,6 @@
       "feedName": "ScienceDaily Nutrition",
       "url": "https://www.sciencedaily.com/releases/2026/10/261020085014.htm",
       "image": "https://www.sciencedaily.com/images/1920/fast-food-burgers-fries-chicken-nuggets.webp",
-      "screen": "right"
-    },
-    {
-      "title": "Scientists find 10 different diets linked to slower aging",
-      "abstract": "A study by DZNE finds that healthy eating is associated with slower biological aging—and that there is more than one way to eat healthily. The researchers examined ten dietary patterns considered healthy, including the Mediterranean, Nordic, and a plant-based diet, as well as the DASH diet, which is designed to help lower blood pressure. The findings are published in the journal Nature Communications.",
-      "authors": "",
-      "published": "Oct 2026",
-      "feedName": "ScienceDaily Nutrition",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261019093439.htm",
-      "image": "https://www.sciencedaily.com/images/1920/longevity-anti-aging-beauty-skincare.webp",
-      "screen": "right"
-    },
-    {
-      "title": "Scientists discover a surprising link between vitamin C and cancer survival",
-      "abstract": "A surprising clinical trial suggests that taking vitamin C daily could improve survival in people with precancerous blood disorders and early-stage blood cancers. Patients receiving the supplement had fewer adverse events and showed a promising survival advantage, raising hopes that a common vitamin could help protect against leukemia-related complications.",
-      "authors": "",
-      "published": "Oct 2026",
-      "feedName": "ScienceDaily Nutrition",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261019093437.htm",
-      "image": "https://www.sciencedaily.com/images/1920/acute-lymphoblastic-leukemia-all-cancer-cells-in-blood.webp",
-      "screen": "right"
-    },
-    {
-      "title": "Scientists discover why some people still can’t taste food after COVID-19",
-      "abstract": "Scientists have uncovered a possible explanation for why some people struggle to taste food more than a year after recovering from COVID-19. By examining taste buds from patients with lingering symptoms, researchers discovered molecular abnormalities that weaken the signals responsible for detecting sweet, bitter, and savory flavors.",
-      "authors": "",
-      "published": "Oct 2026",
-      "feedName": "ScienceDaily Nutrition",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261018205033.htm",
-      "image": "https://www.sciencedaily.com/images/1920/woman-tongue-taste-buds-close.webp",
-      "screen": "right"
-    },
-    {
-      "title": "Acute changes in saliva metabolomic profile after drinking water instead of apple juice or no drink signal improved insulin-related metabolism in healthy children: a randomized controlled trial",
-      "abstract": "ObjectiveIn the Saliva Insulin as Biomarker (SIB) randomized controlled trial (RCT), saliva insulin increased more, within 60 min, after one serving of apple juice, and normalized less, after no drink, compared to the acute change after one serving of drinking water. This paper tested for corresponding drink treatment effects on metabolomic profile, recognizing that effects on insulin, a metabolic switch, imply co-occurring effects on many metabolic pathways, simultaneously, and potential for school-based drinking water interventions to efficiently target risk factor profiles. Metabolic pathways potentially impacted by each drink treatment were described by baseline weight condition to generate hypotheses about potential metabolic targets for drinking water intervention.MethodsUntargeted metabolomic assays were completed for saliva from 105 healthy children (5–10y), who participated in the 3-arm parallel group SIB RCT (NCT05211843), prior to a routine dental check-up on a weekday morning or afternoon. Unstimulated saliva was collected, at baseline, before study participants were randomly assigned to drink 500 mL water (W), 200 mL apple juice (AJ), or no drink (ND), and 45–60 min post-drink treatment. Randomization and analysis were stratified by age-and-sex-specific BMI percentile (5–85th or >85th). Drink treatment effects on change in saliva metabolomic profiles were compared using orthogonal partial least squares discriminant analysis (OPLS-DA), permutational multivariate analysis of variance (PERMANOVA), and Metaboanalyst 6.0 pathway module.ResultsW significantly altered…",
-      "authors": "Jodi D. Stookey, Mimansa Cholera, Rowena Cape",
-      "published": "Oct 2026",
-      "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1812940",
-      "image": "",
       "screen": "right"
     },
     {
@@ -502,16 +492,6 @@
       "screen": "right"
     },
     {
-      "title": "Functional resilience strategies for environmental destabilization of antagonistic yeast metabolite-mediated postharvest biocontrol management",
-      "abstract": "The biocontrol activity of antagonistic yeasts is through multiple mechanisms, one of which is metabolite-mediated antagonism involving volatile organic compounds, killer toxins, lytic enzymes, organic acids, and other bioactive compounds. However, the effectiveness of these yeasts in the management of postharvest diseases is affected by adverse environmental conditions such as preharvest climate drivers, postharvest storage microclimate, engineered preservation conditions, and supply-chain perturbations. These conditions may influence interactions between the yeasts, their metabolites, pathogens, and harvested products. Although some existing studies demonstrate that environmental conditions can affect yeast survival, colonization, metabolic activity, pathogen development, and postharvest nutritional quality, direct evidence simultaneously linking environmental stress, changes in yeast metabolite functionality, pathogen suppression, and preservation of nutritional value remains limited. This review therefore synthesizes evidence from various relevant studies to develop a functional resilience framework for yeast metabolite-mediated biocontrol. The framework takes resistance, recovery, persistence, stability, and functional redundancy as dimensions of resilience. The review also discusses stress preconditioning, protective delivery systems, responsive coatings, metabolite consortia, sensing technologies, and predictive approaches as potential strategies for promoting functional resilience. It also highlights integrated perturbation experiments, multi-omics, predictive valid…",
-      "authors": "Aasia Muhammed Jamiu, Fatimah Ahmed-Umar, Habiba Lawal et al.",
-      "published": "Oct 2026",
-      "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1930432",
-      "image": "",
-      "screen": "right"
-    },
-    {
       "title": "Impact of high fat and low vitamin A intervention on cortical transcriptional profiles in APP/PS1 mice and neuronal EEF1AKMT4-ECE2-associated amyloid metabolism",
       "abstract": "Background:Vitamin A (VA) deficiency and lipid metabolism disorders are associated with the pathogenesis of Alzheimer's disease (AD). However, their effects on cortical gene expression profile and the molecular pathways related to amyloid generation remain insufficiently understood.Methods3-month-old APP/PS1 mice were fed with control, high fat, high fat with normal or low VA containing diets for 8 months. RNA-sequencing technique was applied to measure the cortical gene expression profile. Differentially expressed genes were further validated by real-time quantitative PCR and Western blot analysis. Additionally, SH-SY5Y neuronal cells were used to explore the functional role of the differential expressed molecule EEF1AKMT4-ECE2 (ECE2) in amyloid β (Aβ) metabolism.ResultsTranscriptome analysis identified multiple differentially expressed genes related to diets containing different fat and/or VA, which are mainly involved in amyloid protein metabolism, neuronal differentiation, myelin structure, and metabolic signal transduction. Among them, Ece2 gene was identified as a key nutrient-sensitive gene, showing a significant upregulated expression under high-fat diet intervention. Hes3 and Fam168b were among the differentially expressed genes in the cortical of mice treated with diets contained different dosage of VA, and these genes potentially related to neuronal differentiation and myelin structure. In SH-SY5Y cells, Aβ treatment significantly up-regulated ECE2 protein expression. ECE2 activation rebalanced Aβ species toward Aβ40, yet its efficacy was undermined by high-fat a…",
       "authors": "Xiuwen Ren, Lu Liu, Yiran Wang et al.",
@@ -520,6 +500,86 @@
       "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1923538",
       "image": "",
       "screen": "right"
+    },
+    {
+      "title": "Acute changes in saliva metabolomic profile after drinking water instead of apple juice or no drink signal improved insulin-related metabolism in healthy children: a randomized controlled trial",
+      "abstract": "ObjectiveIn the Saliva Insulin as Biomarker (SIB) randomized controlled trial (RCT), saliva insulin increased more, within 60 min, after one serving of apple juice, and normalized less, after no drink, compared to the acute change after one serving of drinking water. This paper tested for corresponding drink treatment effects on metabolomic profile, recognizing that effects on insulin, a metabolic switch, imply co-occurring effects on many metabolic pathways, simultaneously, and potential for school-based drinking water interventions to efficiently target risk factor profiles. Metabolic pathways potentially impacted by each drink treatment were described by baseline weight condition to generate hypotheses about potential metabolic targets for drinking water intervention.MethodsUntargeted metabolomic assays were completed for saliva from 105 healthy children (5–10y), who participated in the 3-arm parallel group SIB RCT (NCT05211843), prior to a routine dental check-up on a weekday morning or afternoon. Unstimulated saliva was collected, at baseline, before study participants were randomly assigned to drink 500 mL water (W), 200 mL apple juice (AJ), or no drink (ND), and 45–60 min post-drink treatment. Randomization and analysis were stratified by age-and-sex-specific BMI percentile (5–85th or >85th). Drink treatment effects on change in saliva metabolomic profiles were compared using orthogonal partial least squares discriminant analysis (OPLS-DA), permutational multivariate analysis of variance (PERMANOVA), and Metaboanalyst 6.0 pathway module.ResultsW significantly altered…",
+      "authors": "Jodi D. Stookey, Mimansa Cholera, Rowena Cape",
+      "published": "Oct 2026",
+      "feedName": "Frontiers Nutrition",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1812940",
+      "image": "",
+      "screen": "right"
+    },
+    {
+      "title": "Joint effects of dietary diversity and intake of edible mushrooms and algae on cognitive impairment among Chinese older adults: a population-based cross-sectional study",
+      "abstract": "ObjectiveThis study aimed to investigate the joint association of dietary diversity (DD) and the intake of edible mushrooms and algae (EMA) with cognitive impairment among Chinese older adults and examine their potential interaction.MethodsChinese older adults were recruited from the Chinese Longitudinal Healthy Longevity Survey. Descriptive statistics and multivariable logistic regression models adjusting for demographic, lifestyle, and health-related covariates were employed to evaluate associations. Additive interactions were assessed using the relative excess risk due to interaction (RERI), attributable proportion (AP), and synergy index (SI).ResultsMultivariable logistic regression analysis revealed the joint association of DD and EMA with cognitive impairment among Chinese older adults. In the unadjusted model, compared with participants with poor DD and poor EMA intake (Group 1), both good DD alone (Group 3: OR = 0.653, 95% CI: 0.591–0.873) and good DD combined with good EMA intake (Group 4: OR = 0.466, 95% CI: 0.405–0.779) were associated with lower odds of cognitive impairment (p < 0.001). After adjusting for demographic, lifestyle and health-related factors, these inverse associations remained robust (Group 3: OR = 0.766, 95% CI: 0.672–0.897; Group 4: OR = 0.635, 95% CI: 0.525–0.744). Good EMA intake without adequate DD showed no significant association in any adjusted model. No significant multiplicative (p = 0.405) or additive (RERI = −0.174, 95% CI: −0.750 to 0.402) interaction was observed between DD and EMA intake.ConclusionDD was independently associated wit…",
+      "authors": "Qian Yu, Yingtian Wang, Manshu Yu et al.",
+      "published": "Oct 2026",
+      "feedName": "Frontiers Nutrition",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1960150",
+      "image": "",
+      "screen": "right"
+    },
+    {
+      "title": "Phosphorus in Balance: Evaluating the Costs and Benefits of a Circular Economy Approach",
+      "abstract": "This paper presents a comprehensive cost-benefit analysis of producing alternative phosphorus (P) fertilizers from recycled water treatment residuals (Fe-WTR) and cowshed effluents. The cost-benefit values of Fe-WTR are compared to the net costs of recycling P using a synthetic adsorbent (commonly used practice-layered double hydroxide, P-LDH) and the costs of commercial fertilizers. Dairy wastewater is used as a source of P. The cost of 1 ton P using the Fe-WTR process is €329. In contrast, synthetic adsorbents (P-LDH) incur significantly higher costs, amounting to €3329 per ton, underscoring the economic advantage of utilizing waste-derived materials. Adopting Fe-WTR fertilizer not only offers substantial cost savings by avoiding landfill fees (€40 per ton) and wastewater discharge fines (€500 per ton) but also reduces environmental impacts when compared to the use of commercial P fertilizers (non-recycled P). The Fe-WTR method mitigates eutrophication and pollution, presenting the dual benefit of cost-effectiveness and environmental protection, which exceeds the common P recycling practice (LDH). Our conclusions are based on production processes in Israel and compared to previous cost estimations at the world level, assessing the potential gain from such circular production of P globally. Recycling P from waste streams can be economically viable and environmentally preferable at small and large economic scales, supporting global sustainability goals.",
+      "authors": "H. E. Ganem, I. Zohar, M. Litaor et al.",
+      "published": "2024",
+      "venue": "Journal of Environmental Science Studies",
+      "feedName": "Lab Research",
+      "citationCount": 0,
+      "recentCitations": 0,
+      "quartile": null,
+      "s2_paper_id": "5a7645fb724f2527117a809194848a4b84de25da",
+      "url": "https://doi.org/10.20849/jess.v7i2.1469",
+      "image": "",
+      "screen": "both",
+      "lab_paper": true,
+      "researcher": {
+        "name": "Iris Zohar",
+        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=YVQd-pwAAAAJ"
+      }
+    },
+    {
+      "title": "The impact of alternative recycled and synthetic phosphorus sources on plant growth and responses, soil interactions and sustainable agriculture - lettuce (Lactuca sativa) as a case model.",
+      "abstract": "This research assesses the efficacy of two phosphorus (P) adsorbents as alternative fertilizers in promoting lettuce growth. A synthetic Mg/Al-layered double hydroxide (LDH) and an iron-based recycled water treatment residual (Fe-WTR), both enriched with P from dairy wastewater and added at three dosage levels. We hypothesized that the adsorbents' physicochemical nature will overshadow the biological efforts in the plant ecosystem to increase P solubility, impacting plant growth, nutritional composition, and metabolite profiles. Fe-WTR significantly enhanced lettuce biomass compared to LDH. Yet, elemental analysis revealed higher or equal P concentrations in the low-biomass LDH plants relative to other treatments. Phosphorus uptake appears to influence the assimilation of other nutrients that divided into two groups: calcium, magnesium, zinc, and copper with notable correlations to P and nitrogen, iron, aluminum, vanadium and manganese with low correlations to P. Conversely, P retained poor correlation with most metabolites whereas iron showed a higher correlation with numerous metabolites. Analysis of metabolites, encompassing carbohydrates, the Krebs cycle, amino acids, nucleic acids, and stress and regulatory pathways, revealed diminished levels in the LDH treatments. Overall, carbon assimilation (plant growth) was more effectively predicted by soil P availability (adsorbent type and dose) rather than by cellular P concentration, suggesting root signaling was at play, influencing carbohydrate translocation to the roots. Diminished levels of cellular sugars further affect…",
+      "authors": "I. Zohar, H. E. Ganem, D. DiSegni et al.",
+      "published": "2024",
+      "venue": "Science of the Total Environment",
+      "feedName": "Lab Research",
+      "citationCount": 8,
+      "recentCitations": 0,
+      "quartile": "Q1",
+      "s2_paper_id": "716a87e9602f04f6b3d7fe6c3b411a15d1beaf4a",
+      "url": "https://doi.org/10.1016/j.scitotenv.2024.174719",
+      "image": "",
+      "screen": "both",
+      "lab_paper": true,
+      "researcher": {
+        "name": "Iris Zohar",
+        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=YVQd-pwAAAAJ"
+      }
+    },
+    {
+      "title": "Biogeochemical impacts on soil phosphorus and other macro- and micro elements solubility, ratios and forms during heatwaves",
+      "abstract": "Increased frequency and amplitude of extreme heat events can affect soil temperature, and biogeochemical processes. High temperatures may have contradicting geochemical and biological effects on essential elements solubility and forms. Endothermic behavior of minerals and oxides results in decreased solubility with increased temperature, while bio-mineralization is stimulated in response to high temperature. To elucidate heatwave impacts on soil biogeochemical processes, we performed a controlled soil incubation experiment and a field survey. Wet and dry alluvial soil sets were incubated at background temperature (33°C) for two weeks and then, a sequence of three heat events was induced (41°C/33°C alternations, five days each) followed by two short events of extreme heat (48°C for two days). Most soil indices changed trends after about 25-30 days. At the first part of the period, P, Al, Fe appeared to reflect endothermic behavior of (hydr)oxides and minerals in the dry soil (i.e., sorbed P was likely dependent on Fe (hydr)oxides dissolution), while trends of Fe/Al in the wet soil followed the dissolved organic C trend. Phosphatases enzymatic activities fluctuated positively with temperature, emphasizing the activity of residual extracellular enzymes sorbed to soil particles (dry soil) in addition to living cells excreted enzymes (wet soil). With the 3 rd heatwave, soluble P dramatically fluctuated with temperature, suggesting a sequence of temperature-enhanced bio-mineralization, releasing P to the soil solution, counteracted by geochemical sorption, removing P from solutio…",
+      "authors": "I. Zohar, M. Khoury, Yael Kirshenbaum et al.",
+      "published": "2023",
+      "venue": "Goldschmidt2023 abstracts",
+      "feedName": "Lab Research",
+      "citationCount": 0,
+      "recentCitations": 0,
+      "quartile": null,
+      "s2_paper_id": "e71980935a3dcce1c2b9257fe6bd261b6cf61461",
+      "url": "https://doi.org/10.7185/gold2023.18565",
+      "image": "",
+      "screen": "both",
+      "lab_paper": true,
+      "researcher": {
+        "name": "Iris Zohar",
+        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=YVQd-pwAAAAJ"
+      }
     },
     {
       "title": "Continuing Medical (Anatomy) Education Series: Organ Donation and Transplantation, a Means of Continuity of Functional and Independent Life and Living",
@@ -989,7 +1049,7 @@
       "venue": "Food and Bioprocess Technology",
       "feedName": "Lab Research",
       "citationCount": 6,
-      "recentCitations": 2,
+      "recentCitations": 0,
       "quartile": "Q1",
       "s2_paper_id": "034d8c4f0c0f5607a4e6727360aa5d7287e60d5b",
       "url": "https://doi.org/10.1007/s11947-025-03873-y",

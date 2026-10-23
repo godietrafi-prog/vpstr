@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T14:39:58Z",
+  "updated": "2026-10-23T19:41:31Z",
   "items": [
     {
       "title": "A holistic framework for enhancing the resilience of grassland-based farming systems to climate extremes",
@@ -82,6 +82,16 @@
       "screen": "left"
     },
     {
+      "title": "Revisiting structure-activity relationships of food-derived antifreeze peptides from an interfacial water perspective",
+      "abstract": "",
+      "authors": "Hao Song, Wenzhu Zhao, Wei Yang et al.",
+      "published": "Jan 2027",
+      "feedName": "Trends in Food Sci & Tech",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426006540?dgcid=rss_sd_all",
+      "image": "",
+      "screen": "left"
+    },
+    {
       "title": "Understanding restaurant food waste as a system: Integrating operational and contextual drivers through a systematic mapping review",
       "abstract": "",
       "authors": "Alexandra Neill, Khalid Ramadan Medani, Beth Clark et al.",
@@ -108,16 +118,6 @@
       "published": "Jan 2027",
       "feedName": "Trends in Food Sci & Tech",
       "url": "https://www.sciencedirect.com/science/article/pii/S0924224426006485?dgcid=rss_sd_all",
-      "image": "",
-      "screen": "left"
-    },
-    {
-      "title": "Artificial intelligence in aquatic food systems: Multimodal quality perception, state estimation, intelligent processing, and bioresource valorization",
-      "abstract": "",
-      "authors": "Changyu Su, Songyi Lin, Long Jiang et al.",
-      "published": "Jan 2027",
-      "feedName": "Trends in Food Sci & Tech",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426006333?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -292,33 +292,33 @@
       "screen": "left"
     },
     {
-      "title": "Valorization of yak bone collagen byproducts: computational screening and experimental validation of anti-aging peptides targeting MMP-1",
+      "title": "Light-vibration synergy during spreading and optimized drying temperature improve machine-harvested beverage-grade green tea quality",
       "abstract": "",
-      "authors": "Yuyang Liu, Yan Zhang, Qida Li et al.",
+      "authors": "Zhipeng Xiao, Jiapeng Wang, Qiye Fan",
       "published": "Oct 2026",
       "feedName": "npj Science of Food",
-      "url": "https://www.nature.com/articles/s41538-026-01223-6",
-      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01223-6/MediaObjects/41538_2026_1223_Fig1_HTML.png",
+      "url": "https://www.nature.com/articles/s41538-026-01199-3",
+      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01199-3/MediaObjects/41538_2026_1199_Fig1_HTML.png",
       "screen": "left"
     },
     {
-      "title": "Nova was never built for the populations it claims to protect",
+      "title": "Sustainable postharvest vegetable disease management: integrating physiological insights and innovative technologies for quality preservation",
       "abstract": "",
-      "authors": "Jimmy Chun Yu Louie",
+      "authors": "Yuan Sui, Wanyue Zhang, Bin Duan et al.",
       "published": "Oct 2026",
       "feedName": "npj Science of Food",
-      "url": "https://www.nature.com/articles/s41538-026-01198-4",
-      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01198-4/MediaObjects/41538_2026_1198_Fig1_HTML.png",
+      "url": "https://www.nature.com/articles/s41538-026-01201-y",
+      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01201-y/MediaObjects/41538_2026_1201_Fig1_HTML.png",
       "screen": "left"
     },
     {
-      "title": "AI-guided discovery of fungal-derived salty and saltiness-enhancing peptides for sodium-reduced foods",
+      "title": "Association of chrono-nutrition behaviors with cognitive function in middle-aged and older adults",
       "abstract": "",
-      "authors": "Yan Zhang, Xiaoli Shen, Yuyang Liu et al.",
+      "authors": "Yan Deng, Jiahui Yu, Benchao Li et al.",
       "published": "Oct 2026",
       "feedName": "npj Science of Food",
-      "url": "https://www.nature.com/articles/s41538-026-01209-4",
-      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01209-4/MediaObjects/41538_2026_1209_Fig1_HTML.png",
+      "url": "https://www.nature.com/articles/s41538-026-01207-6",
+      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01207-6/MediaObjects/41538_2026_1207_Fig1_HTML.png",
       "screen": "left"
     },
     {
@@ -362,6 +362,16 @@
       "screen": "left"
     },
     {
+      "title": "Elusive uranium 'sandwich' molecule isolated after more than 50 years",
+      "abstract": "In a study published in Nature Communications, researchers from The University of Manchester and Lancaster University have isolated and characterized uranocenium, the positively charged form of a landmark uranium compound called uranocene. The work shows that this long-sought molecule is stable, and that it behaves in a way that challenges how chemists usually think about bonding in heavy elements.",
+      "authors": "",
+      "published": "Oct 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-10-elusive-uranium-sandwich-molecule-isolated.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/elusive-uranium-sandwi.jpg",
+      "screen": "right"
+    },
+    {
       "title": "New test measures potentially harmful metals in cellulose food packaging",
       "abstract": "A technique for detecting potentially harmful metals in regenerated cellulose food packaging is discussed in the International Journal of Environment and Pollution. The new tool can be used for safety assessments of materials increasingly used as alternatives to conventional plastics.",
       "authors": "",
@@ -389,16 +399,6 @@
       "feedName": "Phys.org Analytics",
       "url": "https://phys.org/news/2026-10-mirror-image-molecules-difficult-counterparts.html",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/mirror-image-molecules-2.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "Fluorescent reaction maps reveal how catalyst activity changes with operating conditions",
-      "abstract": "Catalysts spur chemical reactions used across industries, from producing fuels and medicines to manufacturing chemicals and treating pollutants. Improving their performance requires understanding where and how reactions happen on their surfaces. However, conventional measurements average the activity of many catalyst particles, concealing local differences that could hold clues to designing more effective materials.",
-      "authors": "",
-      "published": "Oct 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-10-fluorescent-reaction-reveal-catalyst-conditions.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/nus-cde-researchers-ma-2.jpg",
       "screen": "right"
     },
     {
@@ -609,7 +609,7 @@
       "venue": "Food and Bioprocess Technology",
       "feedName": "Lab Research",
       "citationCount": 6,
-      "recentCitations": 0,
+      "recentCitations": 2,
       "quartile": "Q1",
       "s2_paper_id": "034d8c4f0c0f5607a4e6727360aa5d7287e60d5b",
       "url": "https://doi.org/10.1007/s11947-025-03873-y",
@@ -899,6 +899,86 @@
       "researcher": {
         "name": "Gilad Davidson-Rozenfeld",
         "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=vh7tqKQAAAAJ"
+      }
+    },
+    {
+      "title": "The effect of simulation training on the counseling skills of nutritional science students in dietetic internships",
+      "abstract": "Simulations are a common tool in training aircrews, medical personnel and educators, providing experience in scenarios from the relevant content area and expanding the range of responses that simulation participants can acquire before they enter the field. Simulations have also been used in dietetic internships to improve clinical counseling skills. However, the use of structured simulations that involve progressive, multisession patient interactions has not been extensively studied in the context of dietetic internships. This study employed consecutive scenario models where interns developed ongoing interactions with the same simulated patient over multiple sessions, representing a significant methodological innovation in the field. A mixed method methodology was used to analyze closed and open-ended questionnaires which were administered to twenty-one interns, simulation actors and professional dietitians. This pilot study demonstrates the effectiveness of group and individual simulation training in enhancing dietetic interns’ counseling skills during their training and describes how simulation can contribute to both the professional skills and self-efficacy required to lead a counseling session. These findings will enable additional academic departments to examine the integration of simulation into the training programs of interns in tracks that include a practicum.",
+      "authors": "I. Linder, Zafit Lukach, Keren Pergament et al.",
+      "published": "2025",
+      "venue": "BMC Medical Education",
+      "feedName": "Lab Research",
+      "citationCount": 1,
+      "recentCitations": 0,
+      "quartile": "Q1",
+      "s2_paper_id": "5ee7aceac233a82917e92f646d2284fffcfd28b2",
+      "url": "https://doi.org/10.1186/s12909-025-07674-x",
+      "image": "",
+      "screen": "both",
+      "lab_paper": true,
+      "researcher": {
+        "name": "Rafi Steckler",
+        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=BOhLTM0AAAAJ"
+      }
+    },
+    {
+      "title": "The Anticonvulsant Effects of Different Cannabis Extracts in a Zebrafish Model of Epilepsy",
+      "abstract": "Epilepsy is a widespread neurological disorder that remains a critical global public health challenge. While numerous antiepileptic drugs (AEDs) are available, many patients either fail to achieve adequate seizure control or experience significant side effects. One promising alternative is pure cannabidiol (CBD), but using a whole cannabis extract may be equally effective and preferred for some patients. In the current study, we employed the pentylenetetrazole (PTZ)-induced hyperactivity model in zebrafish to compare the effects of CBD with various cannabis extracts. We evaluated three cannabis strains, each subjected to three different extraction methods, and benchmarked the results against the commercially available AED valproic acid (VPA). Our findings revealed that 5.7 µg/mL of CBD and 10 µg/mL of different extracts significantly reduced movement compared to PTZ and VPA. In addition, effective extracts produced effects similar to pure CBD despite containing much lower molecule levels. These results reinforced and expanded previous evidence supporting the clinical potential of both CBD and whole cannabis extracts for seizure control while suggesting a possible entourage effect. Further research is necessary to determine which patients may benefit more from pure CBD versus those who might prefer whole cannabis extracts.",
+      "authors": "Karen Jackson, M. Shabat-Simon, J. Bar-on et al.",
+      "published": "2025",
+      "venue": "Biomolecules",
+      "feedName": "Lab Research",
+      "citationCount": 4,
+      "recentCitations": 0,
+      "quartile": "Q1",
+      "s2_paper_id": "e8d95d5b119ba86262a480c8753459d85b64d105",
+      "url": "https://doi.org/10.3390/biom15050654",
+      "image": "",
+      "screen": "both",
+      "lab_paper": true,
+      "researcher": {
+        "name": "Rafi Steckler",
+        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=BOhLTM0AAAAJ"
+      }
+    },
+    {
+      "title": "Physiological Impacts of Energy Drink Consumption: A Clinical Analysis in Adolescents",
+      "abstract": "Energy drink (ED) consumption among Israeli-Arab adolescents is widespread. This study aimed to investigate the acute glycemic and insulin effects of EDs in healthy adolescents. Seventy-one Israeli-Arab adolescents (56% girls, average age 16.04 ± 1.03 years) participated in a non-randomized, case-controlled, open-label study. Participants consumed ED (n = 36) or a volume- and carbohydrate-matched non-caffeinated soft drink (SD, n = 35), followed by a 2 h glucose tolerance test. Blood glucose was measured at baseline and 15, 30, 60, and 120 min post-consumption (T0, T15, T30, T60 and T120, respectively). Serum insulin concentration and caffeine relative intensity were determined 45 min post-consumption (T45). Blood glucose levels peaked significantly at T15 and remained significantly higher at T30 in the ED group compared to the SD group (p = 0.005, p = 0.017, respectively). Insulin concentrations were substantially higher at T45 in the ED group (t [64] = 2.794, p = 0.001). This pattern was especially prominent in heavy ED consumers. A positive correlation emerged between the amount of caffeine consumed (mg/kg), blood glucose levels at T15 and T30, and insulin concentration at T45. This study is the first to demonstrate the glycemic and insulin responses to ED consumption in adolescents, suggesting that regulatory measures limiting ED sales to adolescents could improve their health.",
+      "authors": "Gilad Naveh, Bshara Mansour, Mahmoud Bader et al.",
+      "published": "2024",
+      "venue": "Nutrients",
+      "feedName": "Lab Research",
+      "citationCount": 7,
+      "recentCitations": 0,
+      "quartile": "Q1",
+      "s2_paper_id": "b97e4acafc9606b86df3bd0c797faa7fbcf900b7",
+      "url": "https://doi.org/10.3390/nu16142328",
+      "image": "",
+      "screen": "both",
+      "lab_paper": true,
+      "researcher": {
+        "name": "Rafi Steckler",
+        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=BOhLTM0AAAAJ"
+      }
+    },
+    {
+      "title": "Disrupted gut harmony in attention-deficit/hyperactivity disorder: Dysbiosis and decreased short-chain fatty acids",
+      "abstract": "Background Attention-Deficit Hyperactivity Disorder (ADHD) is a prevalent neurodevelopmental disorder with complex genetic and environmental underpinnings. Emerging evidence suggests a significant role of gut microbiota in ADHD pathophysiology. This study investigates variations in gut microbiota composition and Short-Chain Fatty Acid (SCFA) profiles between children and adolescents with ADHD and healthy controls. Methods The study included 42 ADHD patients and 31 healthy controls, aged 6–18 years. Fecal samples were analyzed for microbial composition using 16S rRNA gene sequencing and for SCFA profiles through gas chromatography-mass spectrometry (GC-MS). The study assessed both α and β diversity of gut microbiota and quantified various SCFAs to compare between the groups. Results ADHD subjects demonstrated significantly reduced gut microbiota diversity, as indicated by lower α-diversity indices (Shannon index, Observed species, Faith PD index) and a trend towards significance in β-diversity (Weighted UniFrac). Notably, the ADHD group exhibited significantly lower levels of key SCFAs, including acetic, propionic, isobutyric, isovaleric, and valeric acids, highlighting a distinct microbial and metabolic profile in these individuals. Conclusion This study uncovers significant alterations in gut microbiota and SCFA profiles in children with ADHD, compared to healthy controls. The observed changes in SCFAs, known for their associations with other behavioral and neurologic pathologies, and for their role in neural signaling. These findings offer a metabolite fingerprint that co…",
+      "authors": "Rafi Steckler, F. Magzal, M. Kokot et al.",
+      "published": "2024",
+      "venue": "Brain, Behavior, & Immunity - Health",
+      "feedName": "Lab Research",
+      "citationCount": 21,
+      "recentCitations": 1,
+      "quartile": null,
+      "s2_paper_id": "e6bf6bc6dc39538aed6d5e9f0a2aad62f0702494",
+      "url": "https://doi.org/10.1016/j.bbih.2024.100829",
+      "image": "",
+      "screen": "both",
+      "lab_paper": true,
+      "researcher": {
+        "name": "Rafi Steckler",
+        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=BOhLTM0AAAAJ"
       }
     },
     {

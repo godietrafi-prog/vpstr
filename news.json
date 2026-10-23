@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T02:43:48Z",
+  "updated": "2026-10-23T09:06:07Z",
   "items": [
     {
       "title": "Conflict with industrial fleets undermines the contributions of small-scale fisheries to sustainable development in vulnerable regions",
@@ -162,6 +162,16 @@
       "screen": "left"
     },
     {
+      "title": "Selective extraction of phenolic compounds from barley waste using deep eutectic solvents",
+      "abstract": "In this study, the development of an ultrasound method for extraction of phenolic compounds from barley waste using acidic deep eutectic solvents (UAE-DES) was investigated. Optimization of the extraction parameters, which include extraction time, temperature, and ultrasound power (UP), was performed using the One-Factor-at-a-Time (OFAT) experimental design, followed by HPLC-PDA for determination of total quantified phenolic content (TQPC). In addition, the influence of water addition on TQPC was evaluated. The Maximum TQPC obtained was 5.78 mg/g using ChCl: formic acid at a molar ratio (1:2) and optimal conditions of (70 °C, 30 min, 80% UP, 10% water), and 4.67 mg/g, using ChCl: tartaric acid at a molar ratio (1:2) and optimal conditions of (70 °C, 25 min, 100% UP, and 20% water). The obtained TQPC was 5- and 4-fold higher in comparison with 70% methanol and 70% ethanol extraction. LC–MS-qTOF analysis of DES extracts revealed diverse phenolic compounds, while the concentration range of compounds obtained was as follows: ferulic acid (0.86–2.47 mg/g), catechin (0.12–2.16 mg/g), p-coumaric acid (0.12–0.32 mg/g), naringenin (0.54–0.86 mg/g), and apigenin (0.15–0.91 mg/g). SEM analysis confirmed enhanced accessibility of lignocellulose in DES-treated samples. The sustainability of UAE-DES extraction was assessed using AGREE, AGREEprep, CACI, BAGI, and CaFRI green tools. The grade assessment of each tool resulted in scores: 0.63 for AGREE, 0.57 for AGREEprep, 65 for CACI, 82.5 for BAGI, and 72 for CaFRI, indicating a greener extraction performance of UAE-DES in comparison with …",
+      "authors": "Bojana Bradić, Jakub Dušek, Jan Poustka et al.",
+      "published": "Oct 2026",
+      "feedName": "Frontiers Anal. Science",
+      "url": "https://www.frontiersin.org/articles/10.3389/frans.2026.1895087",
+      "image": "",
+      "screen": "left"
+    },
+    {
       "title": "The assessment of gastric myoelectrical activity between different stomach regions based on three-channel electrogastrogram signals: a pilot study",
       "abstract": "IntroductionPrevious studies have widely used surface electrogastrogram (EGG) signals to non-invasively evaluate gastric motility. However, it focused only on the assessment of electrical activity in a certain stomach region and lacked the analysis of interactions between different gastric regions. In the study, we aimed to assess the correlations of myoelectrical activity between distinct stomach areas using functional connectivity (FC) methods by three-channel EGG for the first time.MethodsThe study contained 20 healthy subjects and the dataset for each subject consisted of two three-channel EGG signals (labeled as CH1, CH2 and CH3; CH1 projected onto the region of lesser curvature, CH3 projected onto the region of greater curvature, and CH2 positioned the region between CH1 and CH3) with a sampling rate of 2 Hz acquired from three locations of stomach during a 20-minute period of fasting and postprandial states respectively. Firstly, the EGG signals were band-pass filtered into three slow wave (SW) bands by finite impulse response (FIR) filter, namely bradygastria (0.017-0.033 Hz), normogastria (0.033-0.067 Hz) and tachygastria (0.067-0.15 Hz). Secondly, we employed four FC algorithms (i.e. Spearman correlation coefficient (SCC), phase lag index (PLI), mutual information (MI) and coherence (Coh)) to calculate the connection strength of each pair of gastric areas. Finally, the FC strength between fasting and postprandial conditions for all subjects or the normal weight (NW) or overweight (OW) people and between the NW and OW groups for both fasting and postprandial states…",
       "authors": "Qiumei Tian, Shan Cheng, Chaolin Teng",
@@ -188,16 +198,6 @@
       "published": "Aug 2026",
       "feedName": "Frontiers Anal. Science",
       "url": "https://www.frontiersin.org/articles/10.3389/frans.2026.1941270",
-      "image": "",
-      "screen": "left"
-    },
-    {
-      "title": "Senna leaf derived nitrogen-doped fluorescent carbon dots for Hg2+ detection",
-      "abstract": "IntroductionMercuric ions (Hg2+) are among the most hazardous heavy metal pollutants, posing severe threats to the human reproductive and central nervous systems even at trace concentrations. Although various fluorescent probes for Hg2+ have been reported, most rely on a “turn-off” (fluorescence quenching) mechanism, which often suffers from low sensitivity and susceptibility to interference.MethodsNovel nitrogen-doped fluorescent carbon dots (FL-CDs) were synthesized for the first time via a one-pot hydrothermal method, using natural senna leaf as a green carbon source, and m-phenylenediamine as both the nitrogen dopant and functional monomer.ResultsThis unique precursor combination endows the as-prepared FL-CDs with excellent optical properties. The obtained FL-CDs are spherical with an average size of 2.19 nm, exhibit bright green fluorescence at 518 nm, and possess a high quantum yield of 23.54%. Strikingly, in contrast to the common quenching effect of most heavy metal sensors, the fluorescence of FL-CDs was significantly enhanced upon Hg2+ addition, achieving a desirable “turn-on” response. The probe exhibited exceptional selectivity toward Hg2+ over other metal ions, with a detection limit of 10.65 μmol/L.DiscussionThis work not only introduces a new biomass precursor for the fabrication of carbon dots but also provides a simple, sensitive, and sustainable “turn-on” sensing platform for trace Hg2+ detection. The proposed strategy offers a promising alternative for environmental monitoring and food safety analysis, and also contributes to the rational design of advanc…",
-      "authors": "Yishan Ding, Chenxi Guo, Zhihua Xu et al.",
-      "published": "Aug 2026",
-      "feedName": "Frontiers Anal. Science",
-      "url": "https://www.frontiersin.org/articles/10.3389/frans.2026.1837916",
       "image": "",
       "screen": "left"
     },
@@ -282,6 +282,16 @@
       "screen": "left"
     },
     {
+      "title": "Food and packaging applications of black soldier fly larvae fractions: from processing and functionality to safety and consumer acceptance",
+      "abstract": "",
+      "authors": "Samiullah Khan, Xun Xiang, Rabia Durrani et al.",
+      "published": "Oct 2026",
+      "feedName": "npj Science of Food",
+      "url": "https://www.nature.com/articles/s41538-026-01203-w",
+      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01203-w/MediaObjects/41538_2026_1203_Fig1_HTML.png",
+      "screen": "left"
+    },
+    {
       "title": "Valorization of yak bone collagen byproducts: computational screening and experimental validation of anti-aging peptides targeting MMP-1",
       "abstract": "",
       "authors": "Yuyang Liu, Yan Zhang, Qida Li et al.",
@@ -309,16 +319,6 @@
       "feedName": "npj Science of Food",
       "url": "https://www.nature.com/articles/s41538-026-01209-4",
       "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01209-4/MediaObjects/41538_2026_1209_Fig1_HTML.png",
-      "screen": "left"
-    },
-    {
-      "title": "Quantitative lipidomics reveals differences in oil metabolism and nutritional profiles of soybeans with various seed coat colors",
-      "abstract": "",
-      "authors": "Yao Zhao, Siyu Zhao, Jian Li et al.",
-      "published": "Oct 2026",
-      "feedName": "npj Science of Food",
-      "url": "https://www.nature.com/articles/s41538-026-01195-7",
-      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01195-7/MediaObjects/41538_2026_1195_Fig1_HTML.png",
       "screen": "left"
     },
     {
@@ -482,42 +482,42 @@
       "screen": "right"
     },
     {
-      "title": "Maternal vitamin B12 deficiency in pregnancy: burden, associated outcomes, and implications for antenatal care in South Asia—a narrative review",
-      "abstract": "Vitamin B12 (cobalamin) deficiency during pregnancy carries a disproportionate burden in South Asia, yet it remains outside India's national antenatal supplementation programme, which continues to prioritize iron and folic acid alone. This narrative review is organized around three questions of programmatic relevance: how large is the burden of maternal vitamin B12 deficiency and what drives it; what maternal and offspring outcomes are associated with low maternal vitamin B12 status, and how strong is the supporting evidence; and what these findings imply for antenatal practice and policy in resource-limited South Asian settings. Following a documented literature search of two databases (January 2000–March 2026), we synthesize evidence on prevalence, dietary and socioeconomic determinants, biological mechanisms, and clinical outcomes, and appraise the strength of inference underpinning each major claim. Pooled global prevalence estimates range from approximately 17% to 25%, whereas Indian and South Asian estimates in pregnancy commonly reach 40–70%. Low maternal vitamin B12 status has been associated predominantly through observational evidence with preeclampsia, pregnancy loss, gestational diabetes, neural tube defects, fetal growth restriction, preterm birth, and impaired offspring neurodevelopment, with hyperhomocysteinaemia, disrupted one-carbon metabolism, and altered methylation as the principal proposed pathways. India's folate-only supplementation policy may contribute to a low-vitamin B12/high-folate imbalance that has been associated with adverse metabolic outcome…",
-      "authors": "Archna Yadav, Kena Yatin Gandhi, Manju Puri",
+      "title": "Effect of continuous high thermal processing on physico-chemical and nutritional alterations in cold-pressed and refined edible oils",
+      "abstract": "BackgroundContinuous high thermal processing of edible oils induces significant physicochemical and nutritional alterations, influence their safety, stability, and consumer acceptability. Cold-pressed oils are generally perceived as nutritionally superior, but their oxidative stability under continuous heating remains less understand compared to the refined oils.MethodsTwelve edible oils (7 cold-pressed and 5 refined oils) were collected and subjected to the continuous high thermal processing at 230 ± 5 °C for 0, 1, 2, and 4 h. Fatty acid composition, peroxide value, saponification value, free fatty acid percentage, acid value, iodine value, conjugated dienes, conjugated trienes, refractive index and colour were analysed.ResultsAmong the oils available in the both cold-pressed and refined types, cold-pressed groundnut, sunflower, rice bran and palm oil retained more polyunsaturated fatty acids at 1 h, but showed greater losses after 4 h then their refined types. Soybean oil exhibited a sharp rise in trans fatty acids (0.76 to 5.88%), whereas, coconut oil remained lowest (0.38%) at 4 h. Peroxide value increased in refined sunflower oil (7.60 to 15.81 mEq O2/kg), but refined and cold-pressed rice bran oil declined to 0.01 mEq O2/kg in after 2 h. Free fatty acid and acid values decreased variably across oils. Iodine value reduction was highest in coconut oil and minimal in soybean oil (6.72%). Saponification peaked in coconut oil (321 ± 0.68 mg KOH/g) and lowest in cold-pressed sunflower oil (213 ± 0.83 mg KOH/g). Conjugated triene rose steadily but remained below diene, while…",
+      "authors": "Venkatesh Nandipeta, Sai Lakshmi Chava, Nagaraju Mergu et al.",
       "published": "Oct 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1896162",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1949768",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Impact of high fat and low vitamin A intervention on cortical transcriptional profiles in APP/PS1 mice and neuronal EEF1AKMT4-ECE2-associated amyloid metabolism",
-      "abstract": "Background:Vitamin A (VA) deficiency and lipid metabolism disorders are associated with the pathogenesis of Alzheimer's disease (AD). However, their effects on cortical gene expression profile and the molecular pathways related to amyloid generation remain insufficiently understood.Methods3-month-old APP/PS1 mice were fed with control, high fat, high fat with normal or low VA containing diets for 8 months. RNA-sequencing technique was applied to measure the cortical gene expression profile. Differentially expressed genes were further validated by real-time quantitative PCR and Western blot analysis. Additionally, SH-SY5Y neuronal cells were used to explore the functional role of the differential expressed molecule EEF1AKMT4-ECE2 (ECE2) in amyloid β (Aβ) metabolism.ResultsTranscriptome analysis identified multiple differentially expressed genes related to diets containing different fat and/or VA, which are mainly involved in amyloid protein metabolism, neuronal differentiation, myelin structure, and metabolic signal transduction. Among them, Ece2 gene was identified as a key nutrient-sensitive gene, showing a significant upregulated expression under high-fat diet intervention. Hes3 and Fam168b were among the differentially expressed genes in the cortical of mice treated with diets contained different dosage of VA, and these genes potentially related to neuronal differentiation and myelin structure. In SH-SY5Y cells, Aβ treatment significantly up-regulated ECE2 protein expression. ECE2 activation rebalanced Aβ species toward Aβ40, yet its efficacy was undermined by high-fat a…",
-      "authors": "Xiuwen Ren, Lu Liu, Yiran Wang et al.",
+      "title": "Food consumption and combined dietary patterns in relation to Crohn’s disease: a case–control study in Saudi Arabia",
+      "abstract": "BackgroundDietary factors have been associated with Crohn’s disease (CD), but evidence regarding the role of combined dietary patterns remains limited. We investigated the associations of individual food consumption and broader dietary patterns with CD.MethodsThis case–control study included 219 patients with CD and 395 controls. Intake frequency of selected foods was scored on a four-level scale. Based on the combined consumption of foods classified as risk-promoting or protective, participants were grouped into four dietary patterns: high risk-promoting/low protective, high risk-promoting/high protective, low risk-promoting/low protective, and low risk-promoting/high protective. Associations with CD were assessed using multivariable logistic regression and expressed as odds ratios (ORs) with 95% confidence intervals (CIs).ResultsPatients with CD reported more frequent intakes of fast food, carbonated soft drinks, spicy food, and fruit: ORs (95% CIs) = 4.12 (3.02, 5.63), 3.89 (2.74, 5.52), 1.67 (1.33, 2.09), and 3.48 (2.41, 5.02), respectively. Participants with low consumption of risk-promoting foods had substantially lower CD odds, regardless of whether their consumption of protective foods was low (OR = 0.16, 95% CI: 0.07, 0.35) or high (OR = 0.14, 95% CI: 0.07, 0.27). High consumption of protective foods was not associated with lower CD odds when consumption of risk-promoting foods was also high (OR = 1.15, 95% CI: 0.69, 1.92).ConclusionFrequent intakes of fast food, carbonated soft drinks, and spicy food were associated with greater CD odds. Dietary patterns character…",
+      "authors": "Manal Malibary, Haytham A. Sheerah, Ahmed Arafa et al.",
       "published": "Oct 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1923538",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1989162",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Acute changes in saliva metabolomic profile after drinking water instead of apple juice or no drink signal improved insulin-related metabolism in healthy children: a randomized controlled trial",
-      "abstract": "ObjectiveIn the Saliva Insulin as Biomarker (SIB) randomized controlled trial (RCT), saliva insulin increased more, within 60 min, after one serving of apple juice, and normalized less, after no drink, compared to the acute change after one serving of drinking water. This paper tested for corresponding drink treatment effects on metabolomic profile, recognizing that effects on insulin, a metabolic switch, imply co-occurring effects on many metabolic pathways, simultaneously, and potential for school-based drinking water interventions to efficiently target risk factor profiles. Metabolic pathways potentially impacted by each drink treatment were described by baseline weight condition to generate hypotheses about potential metabolic targets for drinking water intervention.MethodsUntargeted metabolomic assays were completed for saliva from 105 healthy children (5–10y), who participated in the 3-arm parallel group SIB RCT (NCT05211843), prior to a routine dental check-up on a weekday morning or afternoon. Unstimulated saliva was collected, at baseline, before study participants were randomly assigned to drink 500 mL water (W), 200 mL apple juice (AJ), or no drink (ND), and 45–60 min post-drink treatment. Randomization and analysis were stratified by age-and-sex-specific BMI percentile (5–85th or >85th). Drink treatment effects on change in saliva metabolomic profiles were compared using orthogonal partial least squares discriminant analysis (OPLS-DA), permutational multivariate analysis of variance (PERMANOVA), and Metaboanalyst 6.0 pathway module.ResultsW significantly altered…",
-      "authors": "Jodi D. Stookey, Mimansa Cholera, Rowena Cape",
+      "title": "Promoting alignment with Mediterranean and planetary health diet principles among international students: an exploratory pilot study of the MeditEat project",
+      "abstract": "IntroductionThe global food system is a major driving force behind environmental degradation, and dietary shifts towards more resource-efficient plant-based patterns are critical for reducing ecological pressure. The Mediterranean diet is widely recognized for its high nutritional quality and low environmental footprint, making it a relevant model for promoting sustainable eating behaviours also among mobile populations such as international students. This study evaluates dietary sustainability defined by the Planetary Health Diet Index (PHDI) among international students at baseline and the changes observed during the effect of a structured nutrition education exploratory pilot program (MeditEat).MethodsFifteen students from diverse cultural backgrounds participated in MeditEat. The program included three in-person meetings and three online meetings, with monthly assessments based on the Mediterranean diet Pyramid and practical nutritional counseling to support the application of these concepts. Participants completed food-frequency questionnaires at baseline (T0), 3 months (T3), and 6 months (T6). Dietary data were converted into daily caloric contributions per food group using standardized procedures. The modified Planetary Health Diet Index (PHDI) was calculated, with a maximum possible score of 140. Statistical analyses, including the Shapiro–Wilk test, repeated-measures ANOVA, and Friedman test, were performed to evaluate time-related variations.ResultsTotal PHDI score increased significantly from baseline (75.4 ± 13.8) to T6 (82.9 ± 13.6, p = 0.01). Vegetable oil was…",
+      "authors": "Lenycia de Cassya Lopes Neri, Kalpana Shivanandappa, Simona Fiorini et al.",
       "published": "Oct 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1812940",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1946581",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Joint effects of dietary diversity and intake of edible mushrooms and algae on cognitive impairment among Chinese older adults: a population-based cross-sectional study",
-      "abstract": "ObjectiveThis study aimed to investigate the joint association of dietary diversity (DD) and the intake of edible mushrooms and algae (EMA) with cognitive impairment among Chinese older adults and examine their potential interaction.MethodsChinese older adults were recruited from the Chinese Longitudinal Healthy Longevity Survey. Descriptive statistics and multivariable logistic regression models adjusting for demographic, lifestyle, and health-related covariates were employed to evaluate associations. Additive interactions were assessed using the relative excess risk due to interaction (RERI), attributable proportion (AP), and synergy index (SI).ResultsMultivariable logistic regression analysis revealed the joint association of DD and EMA with cognitive impairment among Chinese older adults. In the unadjusted model, compared with participants with poor DD and poor EMA intake (Group 1), both good DD alone (Group 3: OR = 0.653, 95% CI: 0.591–0.873) and good DD combined with good EMA intake (Group 4: OR = 0.466, 95% CI: 0.405–0.779) were associated with lower odds of cognitive impairment (p < 0.001). After adjusting for demographic, lifestyle and health-related factors, these inverse associations remained robust (Group 3: OR = 0.766, 95% CI: 0.672–0.897; Group 4: OR = 0.635, 95% CI: 0.525–0.744). Good EMA intake without adequate DD showed no significant association in any adjusted model. No significant multiplicative (p = 0.405) or additive (RERI = −0.174, 95% CI: −0.750 to 0.402) interaction was observed between DD and EMA intake.ConclusionDD was independently associated wit…",
-      "authors": "Qian Yu, Yingtian Wang, Manshu Yu et al.",
+      "title": "Prognostic value of postoperative glucose-to-lymphocyte ratio and visceral fat index in non-diabetic gastric cancer patients: a mediation and modeling study",
+      "abstract": "BackgroundPrognostic assessment in gastric cancer (GC) remains challenging, as TNM staging has limited utility for individualized risk stratification. Systemic inflammation, metabolic status, immune function, and body composition are known to influence survival outcomes. This study aimed to evaluate the prognostic value of preoperative visceral adipose tissue index (VATI) and postoperative day 1 (POD1) glucose-to-lymphocyte ratio (GLR) in non-diabetic GC patients, and to develop an integrated prognostic model.MethodsThis retrospective cohort study analyzed data from 339 GC patients, who were randomly assigned to a training cohort (n = 272) and an internal validation cohort (n = 67) in an 8:2 ratio using a computer-generated random sampling method. Cox regression was performed to identify independent predictors of overall survival (OS). Causal mediation analysis using a linear mediator model and a parametric accelerated failure-time survival model was performed to assess whether POD1 GLR mediated the association between preoperative VATI and OS. A TGV nomogram, integrating TNM stage, neoadjuvant chemotherapy (NAC), GLR, and VATI, was developed and validated using the concordance index (C-index), receiver operating characteristic (ROC) curves, calibration plots, and decision curve analysis (DCA).ResultsMultivariable Cox regression analysis showed that NAC, advanced pTNM stage, high POD1 GLR, and low VATI were independently associated with poorer OS (p < 0.05). Mediation analysis showed no significant indirect effect of POD1 GLR on the VATI–OS relationship (ACME, −3.82 days; 9…",
+      "authors": "Min Lai, Ning Lan, Yujie Zhou et al.",
       "published": "Oct 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1960150",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1838308",
       "image": "",
       "screen": "right"
     },
@@ -969,7 +969,7 @@
       "venue": "Brain, Behavior, & Immunity - Health",
       "feedName": "Lab Research",
       "citationCount": 21,
-      "recentCitations": 1,
+      "recentCitations": 0,
       "quartile": null,
       "s2_paper_id": "e6bf6bc6dc39538aed6d5e9f0a2aad62f0702494",
       "url": "https://doi.org/10.1016/j.bbih.2024.100829",
@@ -1149,7 +1149,7 @@
       "venue": "Atmospheric Chemistry and Physics",
       "feedName": "Lab Research",
       "citationCount": 12,
-      "recentCitations": 1,
+      "recentCitations": 0,
       "quartile": "Q1",
       "s2_paper_id": "d2f58630c5b33511a9ff3fe822b2154de726bbcb",
       "url": "https://doi.org/10.5194/acp-23-4881-2023",

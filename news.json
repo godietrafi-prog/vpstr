@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T19:41:31Z",
+  "updated": "2026-10-23T22:48:48Z",
   "items": [
     {
       "title": "A holistic framework for enhancing the resilience of grassland-based farming systems to climate extremes",
@@ -362,6 +362,26 @@
       "screen": "left"
     },
     {
+      "title": "Scientists demonstrate AI-designed enzyme for drug synthesis",
+      "abstract": "The new RFD4-Proteina unified generative model for protein design—created by the Institute for Protein Design (IPD) in collaboration with NVIDIA—uses advanced AI to generate entirely new protein sequences and structures, achieving computational design success rates five to 10 times higher than previous models and generating candidates five to 10 times faster.",
+      "authors": "",
+      "published": "Oct 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-10-scientists-ai-enzyme-drug-synthesis.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/manchester-scientists-5.jpg",
+      "screen": "right"
+    },
+    {
+      "title": "Designing better adsorbents to remove PFAS from water",
+      "abstract": "A review by Tohoku University researchers identifies key molecular features that could guide the development of more effective materials for removing PFAS from water. The study is published in the journal ACS Materials Au.",
+      "authors": "",
+      "published": "Oct 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-10-adsorbents-pfas.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/designing-better-adsor.jpg",
+      "screen": "right"
+    },
+    {
       "title": "Elusive uranium 'sandwich' molecule isolated after more than 50 years",
       "abstract": "In a study published in Nature Communications, researchers from The University of Manchester and Lancaster University have isolated and characterized uranocenium, the positively charged form of a landmark uranium compound called uranocene. The work shows that this long-sought molecule is stable, and that it behaves in a way that challenges how chemists usually think about bonding in heavy elements.",
       "authors": "",
@@ -379,26 +399,6 @@
       "feedName": "Phys.org Analytics",
       "url": "https://phys.org/news/2026-10-potentially-metals-cellulose-food-packaging.html",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/food-packaging.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "AI designs functional enzyme components that could help expand drug discovery",
-      "abstract": "New active ingredients for drugs to treat infections, cancer or other serious diseases are often based on substances originally discovered in microorganisms, plants or other living organisms. Producing or improving such active ingredients in a targeted manner using microorganisms is often challenging because the underlying biological processes are extremely complex.",
-      "authors": "",
-      "published": "Oct 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-10-ai-functional-enzyme-components-drug.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/ai-aids-in-the-develop.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "Mirror-image molecules are difficult to separate from their counterparts, but a new catalytic method might be the answer",
-      "abstract": "Just like gloves, molecules can have left- and right-handed—or mirror-image—forms. Because the left- and right-handed molecules are still very similar, scientists have had trouble separating them from each other. But a team of researchers in Japan might have found a solution. In their new study, published in Science Advances, the team successfully separated an equal mixture of mirror-image molecules created by replacing hydrogen with deuterium in one form.",
-      "authors": "",
-      "published": "Oct 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-10-mirror-image-molecules-difficult-counterparts.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/mirror-image-molecules-2.jpg",
       "screen": "right"
     },
     {

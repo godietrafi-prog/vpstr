@@ -1,7 +1,7 @@
 {
   "Horticulturae": {
-    "scopus": "scopus TimeoutError: The read operation timed out",
-    "wos": null
+    "scopus": null,
+    "wos": "wos: no hits for issn"
   },
   "Toxins": {
     "scopus": null,

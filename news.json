@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24T13:44:55Z",
+  "updated": "2026-10-24T17:07:48Z",
   "items": [
     {
       "title": "A holistic framework for enhancing the resilience of grassland-based farming systems to climate extremes",
@@ -242,6 +242,16 @@
       "screen": "left"
     },
     {
+      "title": "Detection frequency and characterization of Clostridioides difficile from French slaughterhouses in the pig, cattle, and poultry sectors",
+      "abstract": "",
+      "authors": "Caroline Le Maréchal, Muriel Ehmig, Typhaine Poezevara et al.",
+      "published": "Apr 2027",
+      "feedName": "Food Microbiology",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0740002026003114?dgcid=rss_sd_all",
+      "image": "",
+      "screen": "left"
+    },
+    {
       "title": "Nanozyme engineering of curcumin enables enzyme-like antibacterial photoinactivation for meat preservation",
       "abstract": "",
       "authors": "Hao Cheng, Qinlian Li, Yuanlong Chi et al.",
@@ -268,16 +278,6 @@
       "published": "Apr 2027",
       "feedName": "Food Microbiology",
       "url": "https://www.sciencedirect.com/science/article/pii/S0740002026003126?dgcid=rss_sd_all",
-      "image": "",
-      "screen": "left"
-    },
-    {
-      "title": "BcBOT 1/3/4 contribute to temperature-dependent growth, conidial germination and virulence of Botrytis cinerea on grape berries",
-      "abstract": "",
-      "authors": "Lifang Yuan, Xiaowei Yao, Tinggang Li et al.",
-      "published": "Apr 2027",
-      "feedName": "Food Microbiology",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0740002026002996?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24T08:32:07Z",
+  "updated": "2026-10-24T13:44:55Z",
   "items": [
     {
       "title": "A holistic framework for enhancing the resilience of grassland-based farming systems to climate extremes",
@@ -42,6 +42,16 @@
       "screen": "left"
     },
     {
+      "title": "Spectroscopic evidence supporting micelle-mediated molecular transfer in oil-in-water emulsions revealed by Förster resonance energy transfer (FRET)",
+      "abstract": "",
+      "authors": "Hyuk Choi, Leqi Cui",
+      "published": "Dec 2026",
+      "feedName": "Food Chemistry",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626038963?dgcid=rss_sd_all",
+      "image": "",
+      "screen": "left"
+    },
+    {
       "title": "Reduction in bovine milk fat globule size is characterized by remodeling of membrane-associated lipids in milk",
       "abstract": "",
       "authors": "Jingna Yang, Yifan Fang, Bo Gao et al.",
@@ -52,32 +62,52 @@
       "screen": "left"
     },
     {
-      "title": "Construction of functionalized covalent organic framework for the efficient enrichment of neonicotinoid insecticides from leafy vegetables prior to HPLC-MS analysis",
+      "title": "Effects of a Hofmeister kosmotropic salt and protein thermal denaturation on bovine serum albumin–lutein binding, complex stability, and the in vitro biological activities of the carotenoid",
       "abstract": "",
-      "authors": "Zongkai Li, Weihua Liu, Ying Zhao et al.",
+      "authors": "Flaviana Coelho Pacheco, Lorena Evangelista Fernandes, Tatiane Teixeira Tavares et al.",
       "published": "Dec 2026",
       "feedName": "Food Chemistry",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626038112?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626038604?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
     {
-      "title": "Rapid visual detection of DNA-traceable barcodes for food authentication using saltatory rolling circle amplification (SRCA)",
+      "title": "Ultrasound-assisted glycation reduces the IgE cross-reactivity of yellow mealworm protein with conformational modification",
       "abstract": "",
-      "authors": "Wenxiang Sun, Kehan Liu, Jiukai Zhang et al.",
+      "authors": "Jian Wang, Jingqi Tang, Jian He et al.",
       "published": "Dec 2026",
       "feedName": "Food Chemistry",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626037738?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626039105?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
     {
-      "title": "Dialdehyde cellulose- l -lysine Schiff base conjugate synergistically modulates water status, texture, and antibacterial activity of wheat gluten",
+      "title": "Bidirectional flavor crosstalk in alcoholic beverages: Non-volatiles regulating aroma release and volatiles modulating taste perception",
       "abstract": "",
-      "authors": "Tangxin Yan, Qiaoling Chen, Danfeng Zhang et al.",
-      "published": "Dec 2026",
-      "feedName": "Food Chemistry",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626038847?dgcid=rss_sd_all",
+      "authors": "Yan Yan, Cen Li, Shuang Chen et al.",
+      "published": "Jan 2027",
+      "feedName": "Trends in Food Sci & Tech",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426006229?dgcid=rss_sd_all",
+      "image": "",
+      "screen": "left"
+    },
+    {
+      "title": "Nanozyme-enabled dual-mode sensing for antibiotic residue detection in food matrices: Recent advances and reliability challenges",
+      "abstract": "",
+      "authors": "Zhixiang Zheng, Juntao Yang, Xiaochao Dang et al.",
+      "published": "Jan 2027",
+      "feedName": "Trends in Food Sci & Tech",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426006084?dgcid=rss_sd_all",
+      "image": "",
+      "screen": "left"
+    },
+    {
+      "title": "From interference sources to sensing core: Analytical functional mechanisms of tannic acid and advances in its applications in food safety testing",
+      "abstract": "",
+      "authors": "Feng Hong, Yuan Liu",
+      "published": "Jan 2027",
+      "feedName": "Trends in Food Sci & Tech",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426006539?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -88,36 +118,6 @@
       "published": "Jan 2027",
       "feedName": "Trends in Food Sci & Tech",
       "url": "https://www.sciencedirect.com/science/article/pii/S0924224426006540?dgcid=rss_sd_all",
-      "image": "",
-      "screen": "left"
-    },
-    {
-      "title": "Understanding restaurant food waste as a system: Integrating operational and contextual drivers through a systematic mapping review",
-      "abstract": "",
-      "authors": "Alexandra Neill, Khalid Ramadan Medani, Beth Clark et al.",
-      "published": "Jan 2027",
-      "feedName": "Trends in Food Sci & Tech",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426006448?dgcid=rss_sd_all",
-      "image": "",
-      "screen": "left"
-    },
-    {
-      "title": "Antifreeze peptides from animal by-products: A hierarchical framework from biodiversity to rational design",
-      "abstract": "",
-      "authors": "Jiaqi Yu, Yiping Yang, Yan Zhang et al.",
-      "published": "Jan 2027",
-      "feedName": "Trends in Food Sci & Tech",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426006503?dgcid=rss_sd_all",
-      "image": "",
-      "screen": "left"
-    },
-    {
-      "title": "Food-grade engineered microorganisms for cognitive health: Directed fermentation of neuroactive functional ingredients",
-      "abstract": "",
-      "authors": "Zhang Zhen, Zhou Hongmiao, Ma Baihe et al.",
-      "published": "Jan 2027",
-      "feedName": "Trends in Food Sci & Tech",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426006485?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -442,6 +442,16 @@
       "screen": "right"
     },
     {
+      "title": "Scientists discover a hidden switch that burns fat and blocks new fat cells",
+      "abstract": "Scientists have discovered that switching off a protein called Mitch makes human cells burn more fat and prevents new fat cells from developing. The breakthrough builds on experiments in mice that showed remarkable resistance to obesity and improved muscular endurance, raising hopes for a new approach to weight-loss treatment.",
+      "authors": "",
+      "published": "Oct 2026",
+      "feedName": "ScienceDaily Nutrition",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261023002905.htm",
+      "image": "https://www.sciencedaily.com/images/1920/fat-burning-human-tissue-cells.webp",
+      "screen": "right"
+    },
+    {
       "title": "Coffee calories have jumped nearly 40%. Sugar isn't the biggest culprit",
       "abstract": "Your morning coffee may be packing more calories than you realize, and sugar isn't the biggest reason. A study of 30,000 Americans found that non-dairy creamer has overtaken sugar and milk as the leading source of added coffee calories, helping drive a nearly 40% increase between 2003 and 2018.",
       "authors": "",
@@ -469,16 +479,6 @@
       "feedName": "ScienceDaily Nutrition",
       "url": "https://www.sciencedaily.com/releases/2026/10/261020085018.htm",
       "image": "https://www.sciencedaily.com/images/1920/happy-young-woman-with-pink-donuts.webp",
-      "screen": "right"
-    },
-    {
-      "title": "Massive study of 460,000 people challenges ultra-processed food cancer fears",
-      "abstract": "A massive study of more than 460,000 Americans found that ultra-processed foods were not associated with increased colorectal cancer risk overall, challenging a widely held assumption. While processed meat was linked to higher cancer incidence, ultra-processed whole grains and dairy products were associated with lower incidence.",
-      "authors": "",
-      "published": "Oct 2026",
-      "feedName": "ScienceDaily Nutrition",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261020085014.htm",
-      "image": "https://www.sciencedaily.com/images/1920/fast-food-burgers-fries-chicken-nuggets.webp",
       "screen": "right"
     },
     {

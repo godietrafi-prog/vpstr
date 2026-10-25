@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25T09:03:22Z",
+  "updated": "2026-10-25T14:11:05Z",
   "items": [
     {
       "title": "A holistic framework for enhancing the resilience of grassland-based farming systems to climate extremes",
@@ -62,22 +62,32 @@
       "screen": "left"
     },
     {
-      "title": "Effects of a Hofmeister kosmotropic salt and protein thermal denaturation on bovine serum albumin–lutein binding, complex stability, and the in vitro biological activities of the carotenoid",
+      "title": "Degradation patterns and risks quantification of chlorfluazuron, chlorfenapyr and metabolite in chives by multi-model comparison",
       "abstract": "",
-      "authors": "Flaviana Coelho Pacheco, Lorena Evangelista Fernandes, Tatiane Teixeira Tavares et al.",
+      "authors": "Ziling Fan, Xin Ren, Meng Zhang et al.",
       "published": "Dec 2026",
       "feedName": "Food Chemistry",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626038604?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626036915?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
     {
-      "title": "Ultrasound-assisted glycation reduces the IgE cross-reactivity of yellow mealworm protein with conformational modification",
+      "title": "Aqueous radical modification of cellulose enables antioxidant Pickering emulsion coatings for fruit preservation",
       "abstract": "",
-      "authors": "Jian Wang, Jingqi Tang, Jian He et al.",
+      "authors": "Guitao Du, Caili Li, Han Yu et al.",
       "published": "Dec 2026",
       "feedName": "Food Chemistry",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626039105?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626038082?dgcid=rss_sd_all",
+      "image": "",
+      "screen": "left"
+    },
+    {
+      "title": "Water–ice dynamics driving multiscale structural deterioration in frozen dough: Mechanisms, characterization, and targeted regulation",
+      "abstract": "",
+      "authors": "Lulu Yin, Tingting Li, Waleed Al-Ansi et al.",
+      "published": "Jan 2027",
+      "feedName": "Trends in Food Sci & Tech",
+      "url": "https://www.sciencedirect.com/science/article/pii/S092422442600659X?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -108,16 +118,6 @@
       "published": "Jan 2027",
       "feedName": "Trends in Food Sci & Tech",
       "url": "https://www.sciencedirect.com/science/article/pii/S0924224426006539?dgcid=rss_sd_all",
-      "image": "",
-      "screen": "left"
-    },
-    {
-      "title": "Revisiting structure-activity relationships of food-derived antifreeze peptides from an interfacial water perspective",
-      "abstract": "",
-      "authors": "Hao Song, Wenzhu Zhao, Wei Yang et al.",
-      "published": "Jan 2027",
-      "feedName": "Trends in Food Sci & Tech",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426006540?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -242,6 +242,26 @@
       "screen": "left"
     },
     {
+      "title": "Rapid quantification of Salmonella in chicken breast using extraction-free digital PCR",
+      "abstract": "",
+      "authors": "Nethraja Kandula, Victoria Cortes, Hannah Brown et al.",
+      "published": "Apr 2027",
+      "feedName": "Food Microbiology",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0740002026002984?dgcid=rss_sd_all",
+      "image": "",
+      "screen": "left"
+    },
+    {
+      "title": "Dehydroabietic acid exhibits multi-target antibacterial and anti-biofilm activities against Bacillus cereus and application in milk preservation",
+      "abstract": "",
+      "authors": "Xinrui Li, Jiahao Wang, Ting Huang et al.",
+      "published": "Apr 2027",
+      "feedName": "Food Microbiology",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0740002026003138?dgcid=rss_sd_all",
+      "image": "",
+      "screen": "left"
+    },
+    {
       "title": "Detection frequency and characterization of Clostridioides difficile from French slaughterhouses in the pig, cattle, and poultry sectors",
       "abstract": "",
       "authors": "Caroline Le Maréchal, Muriel Ehmig, Typhaine Poezevara et al.",
@@ -258,26 +278,6 @@
       "published": "Apr 2027",
       "feedName": "Food Microbiology",
       "url": "https://www.sciencedirect.com/science/article/pii/S0740002026003072?dgcid=rss_sd_all",
-      "image": "",
-      "screen": "left"
-    },
-    {
-      "title": "Functional metagenomics yields insights into the adaptive mechanisms of microbial persistence in beef processing drains",
-      "abstract": "",
-      "authors": "Zachariah A. Vice, Joseph M. Bosilevac, Rong Wang et al.",
-      "published": "Apr 2027",
-      "feedName": "Food Microbiology",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0740002026002947?dgcid=rss_sd_all",
-      "image": "",
-      "screen": "left"
-    },
-    {
-      "title": "Contrasting growth and spoilage traits combined with antagonistic core-periphery network organization reveal distinct ecological strategies among dairy-associated Pseudomonas subgroups",
-      "abstract": "",
-      "authors": "Darina Colcanap, Marcia Leyva Salas, Mohammed Khatbane et al.",
-      "published": "Apr 2027",
-      "feedName": "Food Microbiology",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0740002026003126?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -442,6 +442,36 @@
       "screen": "right"
     },
     {
+      "title": "Just two drinks a day may be far riskier than you think",
+      "abstract": "A major new study reveals that drinking just two alcoholic beverages a day is associated with a 1 in 25 lifetime risk of death from alcohol-related causes, challenging the idea that moderate drinking is harmless. Researchers also found no significant overall health benefits from alcohol, with risks rising as consumption increases.",
+      "authors": "",
+      "published": "Oct 2026",
+      "feedName": "ScienceDaily Nutrition",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261024222030.htm",
+      "image": "https://www.sciencedaily.com/images/1920/shocked-woman-holding-beer.webp",
+      "screen": "right"
+    },
+    {
+      "title": "Popular cannabis sleep gummies may have a hidden dark side",
+      "abstract": "A cannabis-derived ingredient commonly found in sleep gummies may be more habit-forming than previously thought, with new research showing that repeated exposure caused tolerance and withdrawal symptoms in mice. Scientists warn that CBN may carry risks similar to THC, although its long-term effects in humans remain largely unknown.",
+      "authors": "",
+      "published": "Oct 2026",
+      "feedName": "ScienceDaily Nutrition",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261024221952.htm",
+      "image": "https://www.sciencedaily.com/images/1920/cannabis-sleep-research.webp",
+      "screen": "right"
+    },
+    {
+      "title": "Mediterranean diet may boost tiny proteins that protect the heart and brain",
+      "abstract": "Scientists have uncovered a surprising new clue to why the Mediterranean diet is so good for the heart, brain, and healthy aging. Researchers at USC found that older adults who closely followed the diet had higher levels of two tiny proteins, humanin and SHMOOSE, produced by the mitochondria, the energy-producing structures inside cells. These proteins have been linked to protection against heart disease, Alzheimer's disease, and age-related damage.",
+      "authors": "",
+      "published": "Oct 2026",
+      "feedName": "ScienceDaily Nutrition",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261023003337.htm",
+      "image": "https://www.sciencedaily.com/images/1920/grilled-salmon-vegetable-salad-close.webp",
+      "screen": "right"
+    },
+    {
       "title": "Scientists discover a hidden switch that burns fat and blocks new fat cells",
       "abstract": "Scientists have discovered that switching off a protein called Mitch makes human cells burn more fat and prevents new fat cells from developing. The breakthrough builds on experiments in mice that showed remarkable resistance to obesity and improved muscular endurance, raising hopes for a new approach to weight-loss treatment.",
       "authors": "",
@@ -449,36 +479,6 @@
       "feedName": "ScienceDaily Nutrition",
       "url": "https://www.sciencedaily.com/releases/2026/10/261023002905.htm",
       "image": "https://www.sciencedaily.com/images/1920/fat-burning-human-tissue-cells.webp",
-      "screen": "right"
-    },
-    {
-      "title": "Coffee calories have jumped nearly 40%. Sugar isn't the biggest culprit",
-      "abstract": "Your morning coffee may be packing more calories than you realize, and sugar isn't the biggest reason. A study of 30,000 Americans found that non-dairy creamer has overtaken sugar and milk as the leading source of added coffee calories, helping drive a nearly 40% increase between 2003 and 2018.",
-      "authors": "",
-      "published": "Oct 2026",
-      "feedName": "ScienceDaily Nutrition",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261021231224.htm",
-      "image": "https://www.sciencedaily.com/images/1920/coffee-creamer-pour-cream-into-black-coffee.webp",
-      "screen": "right"
-    },
-    {
-      "title": "Millions take fish oil for brain health. A two-year study found no benefit",
-      "abstract": "A surprising two-year clinical trial found that fish oil supplements successfully delivered omega-3s to the brain but failed to improve memory or protect against Alzheimer's-related brain shrinkage. Researchers suspect that getting these nutrients through a healthy diet may offer benefits that supplements alone cannot provide.",
-      "authors": "",
-      "published": "Oct 2026",
-      "feedName": "ScienceDaily Nutrition",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261020085427.htm",
-      "image": "https://www.sciencedaily.com/images/1920/fish-oil-omega-3-capsules-dha-epa.webp",
-      "screen": "right"
-    },
-    {
-      "title": "People are taking an unapproved weight-loss drug. AI found something surprising",
-      "abstract": "Researchers analyzing nearly 150,000 Reddit posts uncovered unexpected symptom reports linked by users to unapproved versions of retatrutide, including increased appetite, sleep disturbances, and elevated heart rates. The findings differ from clinical trial results and highlight how AI could help identify potential drug safety signals that warrant further investigation.",
-      "authors": "",
-      "published": "Oct 2026",
-      "feedName": "ScienceDaily Nutrition",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261020085018.htm",
-      "image": "https://www.sciencedaily.com/images/1920/happy-young-woman-with-pink-donuts.webp",
       "screen": "right"
     },
     {
@@ -520,66 +520,6 @@
       "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1924574",
       "image": "",
       "screen": "right"
-    },
-    {
-      "title": "Phosphorus in Balance: Evaluating the Costs and Benefits of a Circular Economy Approach",
-      "abstract": "This paper presents a comprehensive cost-benefit analysis of producing alternative phosphorus (P) fertilizers from recycled water treatment residuals (Fe-WTR) and cowshed effluents. The cost-benefit values of Fe-WTR are compared to the net costs of recycling P using a synthetic adsorbent (commonly used practice-layered double hydroxide, P-LDH) and the costs of commercial fertilizers. Dairy wastewater is used as a source of P. The cost of 1 ton P using the Fe-WTR process is €329. In contrast, synthetic adsorbents (P-LDH) incur significantly higher costs, amounting to €3329 per ton, underscoring the economic advantage of utilizing waste-derived materials. Adopting Fe-WTR fertilizer not only offers substantial cost savings by avoiding landfill fees (€40 per ton) and wastewater discharge fines (€500 per ton) but also reduces environmental impacts when compared to the use of commercial P fertilizers (non-recycled P). The Fe-WTR method mitigates eutrophication and pollution, presenting the dual benefit of cost-effectiveness and environmental protection, which exceeds the common P recycling practice (LDH). Our conclusions are based on production processes in Israel and compared to previous cost estimations at the world level, assessing the potential gain from such circular production of P globally. Recycling P from waste streams can be economically viable and environmentally preferable at small and large economic scales, supporting global sustainability goals.",
-      "authors": "H. E. Ganem, I. Zohar, M. Litaor et al.",
-      "published": "2024",
-      "venue": "Journal of Environmental Science Studies",
-      "feedName": "Lab Research",
-      "citationCount": 0,
-      "recentCitations": 0,
-      "quartile": null,
-      "s2_paper_id": "5a7645fb724f2527117a809194848a4b84de25da",
-      "url": "https://doi.org/10.20849/jess.v7i2.1469",
-      "image": "",
-      "screen": "both",
-      "lab_paper": true,
-      "researcher": {
-        "name": "Iris Zohar",
-        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=YVQd-pwAAAAJ"
-      }
-    },
-    {
-      "title": "The impact of alternative recycled and synthetic phosphorus sources on plant growth and responses, soil interactions and sustainable agriculture - lettuce (Lactuca sativa) as a case model.",
-      "abstract": "This research assesses the efficacy of two phosphorus (P) adsorbents as alternative fertilizers in promoting lettuce growth. A synthetic Mg/Al-layered double hydroxide (LDH) and an iron-based recycled water treatment residual (Fe-WTR), both enriched with P from dairy wastewater and added at three dosage levels. We hypothesized that the adsorbents' physicochemical nature will overshadow the biological efforts in the plant ecosystem to increase P solubility, impacting plant growth, nutritional composition, and metabolite profiles. Fe-WTR significantly enhanced lettuce biomass compared to LDH. Yet, elemental analysis revealed higher or equal P concentrations in the low-biomass LDH plants relative to other treatments. Phosphorus uptake appears to influence the assimilation of other nutrients that divided into two groups: calcium, magnesium, zinc, and copper with notable correlations to P and nitrogen, iron, aluminum, vanadium and manganese with low correlations to P. Conversely, P retained poor correlation with most metabolites whereas iron showed a higher correlation with numerous metabolites. Analysis of metabolites, encompassing carbohydrates, the Krebs cycle, amino acids, nucleic acids, and stress and regulatory pathways, revealed diminished levels in the LDH treatments. Overall, carbon assimilation (plant growth) was more effectively predicted by soil P availability (adsorbent type and dose) rather than by cellular P concentration, suggesting root signaling was at play, influencing carbohydrate translocation to the roots. Diminished levels of cellular sugars further affect…",
-      "authors": "I. Zohar, H. E. Ganem, D. DiSegni et al.",
-      "published": "2024",
-      "venue": "Science of the Total Environment",
-      "feedName": "Lab Research",
-      "citationCount": 8,
-      "recentCitations": 0,
-      "quartile": "Q1",
-      "s2_paper_id": "716a87e9602f04f6b3d7fe6c3b411a15d1beaf4a",
-      "url": "https://doi.org/10.1016/j.scitotenv.2024.174719",
-      "image": "",
-      "screen": "both",
-      "lab_paper": true,
-      "researcher": {
-        "name": "Iris Zohar",
-        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=YVQd-pwAAAAJ"
-      }
-    },
-    {
-      "title": "Biogeochemical impacts on soil phosphorus and other macro- and micro elements solubility, ratios and forms during heatwaves",
-      "abstract": "Increased frequency and amplitude of extreme heat events can affect soil temperature, and biogeochemical processes. High temperatures may have contradicting geochemical and biological effects on essential elements solubility and forms. Endothermic behavior of minerals and oxides results in decreased solubility with increased temperature, while bio-mineralization is stimulated in response to high temperature. To elucidate heatwave impacts on soil biogeochemical processes, we performed a controlled soil incubation experiment and a field survey. Wet and dry alluvial soil sets were incubated at background temperature (33°C) for two weeks and then, a sequence of three heat events was induced (41°C/33°C alternations, five days each) followed by two short events of extreme heat (48°C for two days). Most soil indices changed trends after about 25-30 days. At the first part of the period, P, Al, Fe appeared to reflect endothermic behavior of (hydr)oxides and minerals in the dry soil (i.e., sorbed P was likely dependent on Fe (hydr)oxides dissolution), while trends of Fe/Al in the wet soil followed the dissolved organic C trend. Phosphatases enzymatic activities fluctuated positively with temperature, emphasizing the activity of residual extracellular enzymes sorbed to soil particles (dry soil) in addition to living cells excreted enzymes (wet soil). With the 3 rd heatwave, soluble P dramatically fluctuated with temperature, suggesting a sequence of temperature-enhanced bio-mineralization, releasing P to the soil solution, counteracted by geochemical sorption, removing P from solutio…",
-      "authors": "I. Zohar, M. Khoury, Yael Kirshenbaum et al.",
-      "published": "2023",
-      "venue": "Goldschmidt2023 abstracts",
-      "feedName": "Lab Research",
-      "citationCount": 0,
-      "recentCitations": 0,
-      "quartile": null,
-      "s2_paper_id": "e71980935a3dcce1c2b9257fe6bd261b6cf61461",
-      "url": "https://doi.org/10.7185/gold2023.18565",
-      "image": "",
-      "screen": "both",
-      "lab_paper": true,
-      "researcher": {
-        "name": "Iris Zohar",
-        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=YVQd-pwAAAAJ"
-      }
     },
     {
       "title": "Continuing Medical (Anatomy) Education Series: Organ Donation and Transplantation, a Means of Continuity of Functional and Independent Life and Living",
@@ -762,6 +702,46 @@
       }
     },
     {
+      "title": "New Analytical Approach to Quinolizidine Alkaloids and Their Assumed Biosynthesis Pathways in Lupin Seeds",
+      "abstract": "Alkaloids play an essential role in protecting plants against herbivores. Humans can also benefit from the pharmacological effects of these compounds. Plants produce an immense variety of structurally different alkaloids, including quinolizidine alkaloids, a group of bi-, tri-, and tetracyclic compounds produced by Lupinus species. Various lupin species produce different alkaloid profiles. To study the composition of quinolizidine alkaloids in lupin seeds, we collected 31 populations of two wild species native to Israel, L. pilosus and L. palaestinus, and analyzed their quinolizidine alkaloid contents. Our goal was to study the alkaloid profiles of these two wild species to better understand the challenges and prospective uses of wild lupins. We compared their profiles with those of other commercial and wild lupin species. To this end, a straightforward method for extracting alkaloids from seeds and determining the quinolizidine alkaloid profile by LC–MS/MS was developed and validated in-house. For the quantification of quinolizidine alkaloids, 15 analytical reference standards were used. We used GC–MS to verify and cross-reference the identity of certain alkaloids for which no analytical standards were available. The results enabled further exploration of quinolizidine alkaloid biosynthesis. We reviewed and re-analyzed the suggested quinolizidine alkaloid biosynthesis pathway, including the relationship between the amino acid precursor l-lysine and the different quinolizidine alkaloids occurring in seeds of lupin species. Revealing alkaloid compositions and highlighting so…",
+      "authors": "Dvory Namdar, Patrick P. J. Mulder, E. Ben-Simchon et al.",
+      "published": "2024",
+      "venue": "Toxins",
+      "feedName": "Lab Research",
+      "citationCount": 19,
+      "recentCitations": 0,
+      "quartile": null,
+      "s2_paper_id": "e6a6854e55ee8f5a8ace3025ba0d32e33a650343",
+      "url": "https://doi.org/10.3390/toxins16030163",
+      "image": "",
+      "screen": "both",
+      "lab_paper": true,
+      "researcher": {
+        "name": "Loai Basheer",
+        "photo": "media/photos/loai_basheer.png"
+      }
+    },
+    {
+      "title": "Valorization of Local Legumes and Nuts as Key Components of the Mediterranean Diet",
+      "abstract": "Legumes and nuts are components of high importance in the diet of many countries, mainly those in the Mediterranean region. They are also very versatile and culturally diverse foods found all over the world, acting as a basic protein source in certain countries. Their genetic diversity is needed to sustain the food supply and security for humans and livestock, especially because of the current loss of habitats, species, and genetic diversity worldwide, but also because of the ever present need to feed the increasing human population. Even though both legumes and nuts are considered as high-protein food and environmentally friendly crops, developed countries have lower consumption rates when compared to Asia or Africa. With a view to increasing the consumption of legumes and nuts, the objective of this review is to present the advantages on the use of autochthonous varieties from different countries around the world, thus providing a boost to the local market in the area. The consumption of these varieties could be helped by their use in ready-to-eat foods (RTE), which are now on the rise thanks to today’s fast-paced lifestyles and the search for more nutritious and sustainable foods. The versatility of legumes and nuts covers a wide range of possibilities through their use in plant-based dairy analogues, providing alternative-protein and maximal amounts of nutrients and bioactive compounds, potential plant-based flours for bakery and pasta, and added-value traditional RTE meals. For this reason, information about legume and nut nutrition could possibly increase its acceptan…",
+      "authors": "Israel Hernández-López, J. Ortiz-Solà, C. Alamprese et al.",
+      "published": "2022",
+      "venue": "Foods",
+      "feedName": "Lab Research",
+      "citationCount": 42,
+      "recentCitations": 0,
+      "quartile": "Q2",
+      "s2_paper_id": "58107c8058774580a57d044f21566325035de229",
+      "url": "https://doi.org/10.3390/foods11233858",
+      "image": "",
+      "screen": "both",
+      "lab_paper": true,
+      "researcher": {
+        "name": "Loai Basheer",
+        "photo": "media/photos/loai_basheer.png"
+      }
+    },
+    {
       "title": "Dictated cell adhesion and migration using microfluidic-controlled synthetic hydrogels exhibiting programmable viscoelasticities.",
       "abstract": "Mechanosensing interactions between the extracellular matrix (ECM) and the intracellular cytoskeleton are fundamental to cellular functions such as motility, proliferation, and adhesion, driven by the dynamic, bidirectional, tension-regulated maturation of focal adhesion (FA) sites. We demonstrate that native mechanosensing interactions and their downstream functions are precisely controlled using synthetic hydrogels. We introduce a microfluidic-assisted synthesis of imine-crosslinked hyaluronic acid-gelatin copolymer hydrogels (HAG), enabling controlled, predefined gradient viscoelasticity. Specifically, three native tissues (muscle, epidermis, and cartilage)-mimicking HAG hydrogels were prepared, matching their effective Young's modulus (Ymod) and stress relaxation time (τ1/2). Enhanced cell spreading and directional cell migration are observed, with a preference for substrates with tissue-matching viscoelasticity. These mechanosensing reactions are confirmed by traction force microscopy, revealing a tight correlation between native tissue mechano-properties and the hydrogel viscoelastic parameters. We demonstrate that the signaling efficacies of the FAK and associated YAP/TAZ pathways, central regulators of FA formation and cell migration, are tuned by substrate tissue-matching viscoelasticity. We implement these preprogrammed viscoelastic gradient hydrogels as spatiotemporal cell-separation matrices, enabling viscoelasticity-driven migration of binary cell mixtures. This work provides a potent platform for studying cell-material interactions, offering significant potent…",
       "authors": "Haochen Yang, Ziyuan Li, Gilad Davidson-Rozenfeld et al.",
@@ -789,7 +769,7 @@
       "venue": "ACS Applied Materials and Interfaces",
       "feedName": "Lab Research",
       "citationCount": 1,
-      "recentCitations": 1,
+      "recentCitations": 0,
       "quartile": "Q1",
       "s2_paper_id": "daeea6fa97917f764c7ad91e09d41dbb9652690e",
       "url": "https://doi.org/10.1021/acsami.6c07915",
@@ -849,7 +829,7 @@
       "venue": "Advanced Functional Materials",
       "feedName": "Lab Research",
       "citationCount": 24,
-      "recentCitations": 0,
+      "recentCitations": 1,
       "quartile": "Q1",
       "s2_paper_id": "f8de42bddd0ecab555075b5f1e2cdce6f18f1a56",
       "url": "https://doi.org/10.1002/adfm.202306586",
@@ -862,203 +842,83 @@
       }
     },
     {
-      "title": "Application of Clay–Polymer Nanocomposites for the Removal of Toxic Cyanobacteria and Other Phytoplankton from Water—A Laboratory Scale Study",
-      "abstract": "The increasing global frequency of harmful cyanobacterial blooms (CyanoHABs), driven by nutrient enrichment and climate change, poses a severe threat to aquatic ecosystems and public health. This study evaluates the effectiveness of novel clay–polymer nanocomposites (CPCs) that combine the charge-neutralizing capabilities of polydiallyldimethylammonium chloride (polyDADMAC) with the high clay mineral density (kaolinite and sepiolite) for rapid removal of toxic cyanobacteria from water. Laboratory experiments were performed using Microcystis aeruginosa, Aphanizomenon ovalisporum, and Chlorella sp., with treatment doses determined by particle charge detector (PCD) measurements to identify the “nominal dose” required for full charge neutralization. Results show that clay–polymer nanocomposites achieve over 95% removal of turbidity and chlorophyll in M. aeruginosa at doses significantly lower (15–20%) than the calculated nominal dose, likely due to specific physical bridging interactions with the cyanobacteria’s external exopolysaccharide fibers. In contrast, A. ovalisporum and Chlorella sp. required doses closer to full charge neutralization for optimal removal. Among the materials tested, kaolinite-based nanocomposites (DKG24) showed slightly superior, more stable performance than sepiolite-based nanocomposites. Notably, application at or above the nominal dose was associated with increased soluble microcystin levels, suggesting that excessive polymer concentrations may compromise cell integrity and lead to toxin leakage. These findings suggest that engineered nanocomposites …",
-      "authors": "G. Rytwo, Yehezkel Tsveher, Yehudit Viner-Mozzini et al.",
-      "published": "2026",
-      "venue": "Water",
-      "feedName": "Lab Research",
-      "citationCount": 0,
-      "recentCitations": 0,
-      "quartile": "Q1",
-      "s2_paper_id": "7af58f71f8874d10a7169cf91b9ccbf4b7e37d3d",
-      "url": "https://doi.org/10.3390/w18111301",
-      "image": "",
-      "screen": "both",
-      "lab_paper": true,
-      "researcher": {
-        "name": "Giora Rytwo",
-        "photo": "media/photos/giora_rytwo.jpg"
-      }
-    },
-    {
-      "title": "New azoxystrobin clay carrier to control corn late wilt disease",
-      "abstract": "Corn late wilt disease (LWD), caused by the fungus Magnaporthiopsis maydis, poses a significant threat to corn production in highly impacted regions. Its increasing global relevance is exacerbated by climate change, which facilitates the pathogen’s spread and prevalence. This research supports efforts to broaden LWD management beyond resistant varieties, whose effectiveness can fail within years under high disease pressure. In this study, a novel approach involving the slow release of azoxystrobin from clay carriers was assessed. Two growth-room experiments demonstrated that at the disease’s latent stage (up to 20 days), seed treatment with a clay-azoxystrobin (clay-AS) formulation had minimal impact on early growth indices. However, by day 40, the sepiolite-based treatment increased plant shoot weight by 61%, although pathogen infection levels, monitored via qPCR, remained elevated. A subsequent full-season potted trial revealed significant benefits from applying sepiolite-AS and bentonite-AS formulations directly to the seedbed. At 42 days post-planting, these treatments markedly enhanced plant survival (191% for sepiolite-AS and 64% for bentonite-AS) and improved phenological development (175% and 67%, respectively) compared to unprotected controls, alongside a notable 95% reduction in root infection. By harvest (78 days), bentonite-AS emerged as particularly effective, increasing shoot biomass by 128% and ear yield by 135%. Bentonite-AS treatment reduced cob and shoot symptoms by 23% and 42%, respectively, and nearly eradicated pathogen levels. This research demonstrate…",
-      "authors": "Ariel Hadad, Elhanan Dimant, Peleg Hadari et al.",
-      "published": "2026",
-      "venue": "World Journal of Microbiology & Biotechnology",
-      "feedName": "Lab Research",
-      "citationCount": 0,
-      "recentCitations": 0,
-      "quartile": null,
-      "s2_paper_id": "ada425bd709368161c46391fc1acfdf514b40df5",
-      "url": "https://doi.org/10.1007/s11274-026-04876-3",
-      "image": "",
-      "screen": "both",
-      "lab_paper": true,
-      "researcher": {
-        "name": "Giora Rytwo",
-        "photo": "media/photos/giora_rytwo.jpg"
-      }
-    },
-    {
-      "title": "Clay-based azoxystrobin formulation enhances cotton protection against charcoal rot disease",
-      "abstract": "Cotton charcoal rot disease, caused by Macrophomina phaseolina, is a major threat to cotton production in Israel and globally, leading to severe yield loss due to post-flowering plant collapse. Current management relies heavily on chemical fungicides. However, rising environmental concerns and fungicide resistance underscore the need for sustainable alternatives. This study evaluated novel clay-based formulations for the controlled release of azoxystrobin (AS). The approach aims to protect cotton during the sensitive early growth stages when pathogen penetration and colonization occur. Two types of clay carriers—bentonite (montmorillonite) and sepiolite—were tested for their ability to deliver AS effectively. While seedlings grown in the greenhouse showed minimal visible symptoms at the disease latent stage, quantitative real-time PCR analysis indicated that both formulations effectively suppressed root infection, reducing M. phaseolina DNA levels by 81%. In a full-season open-enclosure trial, bentonite-AS treatment exhibited reduced efficacy, possibly due to phytotoxicity at the tested concentration. In contrast, the sepiolite-AS treatment increased flower bud number by 87% and reduced pathogen infection by up to 92% at 68 days post-sowing, although these effects were not statistically significant due to high variability. At harvest, sepiolite-AS and bentonite alone increased shoot dry weight per plant by 129% and 128%, respectively, and reduced pathogen DNA levels by 63% and 69%, respectively. Overall, although environmental variability led to statistical insignificance, …",
-      "authors": "O. Degani, Ariel Hadad, Eden Etedgi et al.",
-      "published": "2026",
-      "venue": "Journal of Cotton Research",
+      "title": "The effect of simulation training on the counseling skills of nutritional science students in dietetic internships",
+      "abstract": "Simulations are a common tool in training aircrews, medical personnel and educators, providing experience in scenarios from the relevant content area and expanding the range of responses that simulation participants can acquire before they enter the field. Simulations have also been used in dietetic internships to improve clinical counseling skills. However, the use of structured simulations that involve progressive, multisession patient interactions has not been extensively studied in the context of dietetic internships. This study employed consecutive scenario models where interns developed ongoing interactions with the same simulated patient over multiple sessions, representing a significant methodological innovation in the field. A mixed method methodology was used to analyze closed and open-ended questionnaires which were administered to twenty-one interns, simulation actors and professional dietitians. This pilot study demonstrates the effectiveness of group and individual simulation training in enhancing dietetic interns’ counseling skills during their training and describes how simulation can contribute to both the professional skills and self-efficacy required to lead a counseling session. These findings will enable additional academic departments to examine the integration of simulation into the training programs of interns in tracks that include a practicum.",
+      "authors": "I. Linder, Zafit Lukach, Keren Pergament et al.",
+      "published": "2025",
+      "venue": "BMC Medical Education",
       "feedName": "Lab Research",
       "citationCount": 1,
       "recentCitations": 0,
       "quartile": "Q1",
-      "s2_paper_id": "fd23d143d0541f11b7073d0a8365f72546a8247f",
-      "url": "https://doi.org/10.1186/s42397-025-00254-w",
+      "s2_paper_id": "5ee7aceac233a82917e92f646d2284fffcfd28b2",
+      "url": "https://doi.org/10.1186/s12909-025-07674-x",
       "image": "",
       "screen": "both",
       "lab_paper": true,
       "researcher": {
-        "name": "Giora Rytwo",
-        "photo": "media/photos/giora_rytwo.jpg"
+        "name": "Rafi Steckler",
+        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=BOhLTM0AAAAJ"
       }
     },
     {
-      "title": "Effect of Quinoa Protein Concentrate in Particulate and Fibrillar Forms on the Physico-Chemical Properties of Quinoa Starch Gels",
-      "abstract": "The current study investigates the interactions between quinoa protein—both in particulate (protein concentrate, QPC) and fibrillar (QPF) forms—and quinoa starch (QS) gels, and how these interactions influence the thermal, pasting, and rheological properties of the gels. Gels were made by adding three different concentrations of QPC or QPF to a 10% QS dispersion (10, 25, and 50% w/w of starch). DSC results suggested an enhancement of amylopectin thermal stability and an acceleration of retrogradation upon a cooling stage by the addition of quinoa protein. FTIR spectra indicated that QS and QPC/QPF mostly interacted through hydrogen bonds. According to rheological measurements, in contrast to the increased G′ due to the addition of QPC (50%), only a slight increase in G′ was observed due to the addition of QPF (50%). Notably, this study is the first to directly compare the effects of QPC and QPF on starch gel properties, revealing that QPC markedly enhances gel elasticity. These findings highlight the potential application of the optimized quinoa starch-protein-based gels as functional ingredients in plant-based meat analogues, where improved textural and nutritional attributes are critical.",
-      "authors": "Shir T Segev, Eden Eran-Nagar, G. Rytwo et al.",
+      "title": "The Anticonvulsant Effects of Different Cannabis Extracts in a Zebrafish Model of Epilepsy",
+      "abstract": "Epilepsy is a widespread neurological disorder that remains a critical global public health challenge. While numerous antiepileptic drugs (AEDs) are available, many patients either fail to achieve adequate seizure control or experience significant side effects. One promising alternative is pure cannabidiol (CBD), but using a whole cannabis extract may be equally effective and preferred for some patients. In the current study, we employed the pentylenetetrazole (PTZ)-induced hyperactivity model in zebrafish to compare the effects of CBD with various cannabis extracts. We evaluated three cannabis strains, each subjected to three different extraction methods, and benchmarked the results against the commercially available AED valproic acid (VPA). Our findings revealed that 5.7 µg/mL of CBD and 10 µg/mL of different extracts significantly reduced movement compared to PTZ and VPA. In addition, effective extracts produced effects similar to pure CBD despite containing much lower molecule levels. These results reinforced and expanded previous evidence supporting the clinical potential of both CBD and whole cannabis extracts for seizure control while suggesting a possible entourage effect. Further research is necessary to determine which patients may benefit more from pure CBD versus those who might prefer whole cannabis extracts.",
+      "authors": "Karen Jackson, M. Shabat-Simon, J. Bar-on et al.",
       "published": "2025",
-      "venue": "Food and Bioprocess Technology",
+      "venue": "Biomolecules",
       "feedName": "Lab Research",
-      "citationCount": 6,
-      "recentCitations": 2,
+      "citationCount": 4,
+      "recentCitations": 0,
       "quartile": "Q1",
-      "s2_paper_id": "034d8c4f0c0f5607a4e6727360aa5d7287e60d5b",
-      "url": "https://doi.org/10.1007/s11947-025-03873-y",
+      "s2_paper_id": "e8d95d5b119ba86262a480c8753459d85b64d105",
+      "url": "https://doi.org/10.3390/biom15050654",
       "image": "",
       "screen": "both",
       "lab_paper": true,
       "researcher": {
-        "name": "Giora Rytwo",
-        "photo": "media/photos/giora_rytwo.jpg"
+        "name": "Rafi Steckler",
+        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=BOhLTM0AAAAJ"
       }
     },
     {
-      "title": "Sepiolite–Chitosan–Acetic Acid Biocomposite Attenuates the Development of Obesity and Nonalcoholic Fatty Liver Disease in Mice Fed a High-Fat Diet",
-      "abstract": "Background; obesity and nonalcoholic fatty liver disease (NAFLD) reduce life expectancy; nonoperative interventions show poor results. Individually, chitosan (1% w/w), acetic acid (AA 0.3–6.5% w/w), and sepiolite clay (5% w/w) attenuate high-fat-diet-induced obesity (DIO) via reduced energy digestibility and increased energy expenditure. Objectives; therefore, we hypothesized that a chitosan–sepiolite biocomposite suspended in AA would attenuate DIO and NAFLD to a greater extent than AA alone via its more substantial adsorption of nonpolar molecules. Methods; we tested this dietary supplement in C57BL/6J mice fed a high-fat diet (HFD) compared to an unsupplemented HFD and an HFD supplemented with a bile acid sequestrant (cholestyramine) or standalone AA. Results; biocomposite supplementation reduced DIO gain by 60% and abolished hepatic liver accumulation, whereas standalone AA showed mild attenuation of DIO gain and did not prevent HFD-induced hepatic fat accumulation. The biocomposite intake was accompanied by a lower digestibility (−4 point %) counterbalanced by increased intake; hence, it did not affect energy absorption. Therefore, DIO attenuation was suggested to be related to higher energy expenditure, a phenomenon not found with AA alone, as supported by calculated energy expenditure using the energy balance method. Conclusions; these results support further investigation of the biocomposite’s efficacy in attenuating obesity and NAFLD, specifically when applied with a restricted diet. Future studies are needed to determine this biocomposite’s safety, mechanism of ac…",
-      "authors": "Dalia Niv, Eli Anavi, Laris Yaval et al.",
+      "title": "Physiological Impacts of Energy Drink Consumption: A Clinical Analysis in Adolescents",
+      "abstract": "Energy drink (ED) consumption among Israeli-Arab adolescents is widespread. This study aimed to investigate the acute glycemic and insulin effects of EDs in healthy adolescents. Seventy-one Israeli-Arab adolescents (56% girls, average age 16.04 ± 1.03 years) participated in a non-randomized, case-controlled, open-label study. Participants consumed ED (n = 36) or a volume- and carbohydrate-matched non-caffeinated soft drink (SD, n = 35), followed by a 2 h glucose tolerance test. Blood glucose was measured at baseline and 15, 30, 60, and 120 min post-consumption (T0, T15, T30, T60 and T120, respectively). Serum insulin concentration and caffeine relative intensity were determined 45 min post-consumption (T45). Blood glucose levels peaked significantly at T15 and remained significantly higher at T30 in the ED group compared to the SD group (p = 0.005, p = 0.017, respectively). Insulin concentrations were substantially higher at T45 in the ED group (t [64] = 2.794, p = 0.001). This pattern was especially prominent in heavy ED consumers. A positive correlation emerged between the amount of caffeine consumed (mg/kg), blood glucose levels at T15 and T30, and insulin concentration at T45. This study is the first to demonstrate the glycemic and insulin responses to ED consumption in adolescents, suggesting that regulatory measures limiting ED sales to adolescents could improve their health.",
+      "authors": "Gilad Naveh, Bshara Mansour, Mahmoud Bader et al.",
       "published": "2024",
       "venue": "Nutrients",
-      "feedName": "Lab Research",
-      "citationCount": 2,
-      "recentCitations": 0,
-      "quartile": "Q1",
-      "s2_paper_id": "a396dab71d51378ae0b00294bef4881c7caec2d7",
-      "url": "https://doi.org/10.3390/nu16223958",
-      "image": "",
-      "screen": "both",
-      "lab_paper": true,
-      "researcher": {
-        "name": "Giora Rytwo",
-        "photo": "media/photos/giora_rytwo.jpg"
-      }
-    },
-    {
-      "title": "Eddy correlation measurements to visualize CO2 and water vapor concentrations and fluxes",
-      "abstract": "Eddy correlation measures gas exchange between canopy and the overlying atmosphere by evaluating the correlation between fluctuations in the gas-of-interest’s mixing ratio and the vertical wind velocity and considered the most accurate approach for measuring gas fluxes, mostly carbon dioxide and water vapor under ideal homogeneous conditions.  It has been used in micrometeorology for decades to quantify mass and energy transfer between urban, natural and agricultural ecosystems and the atmosphere. We assessed its application under various—homogeneous and non-homogeneous—conditions. Our study indicates that fluxes of CO2 and H2O correlate well with plants activity only when turbulent conditions are present, in open fields. At such conditions, direct measurements of concentration of those gases are not an accurate indicator for plants activity. On the other hand, in closed systems (e.g. greenhouses)- fluxes as measured by an eddy correlation system can't accurately be related to the state of the vegetation, but the fluctuations in the concentrations of CO2 and H2O directly correlate to the actual plants activity. Adapting conditions in greenhouses to limiting factors as temperature, increases CO2 sequestration by plants, and may increase productivity",
-      "authors": "G. Rytwo, Dafna Eliyahou",
-      "published": "2023",
-      "venue": "Journal of Agrometeorology",
-      "feedName": "Lab Research",
-      "citationCount": 2,
-      "recentCitations": 0,
-      "quartile": "Q2",
-      "s2_paper_id": "0677d7c4aa05cca3560eabfba60499a227c5d799",
-      "url": "https://doi.org/10.54386/jam.v25i2.2103",
-      "image": "",
-      "screen": "both",
-      "lab_paper": true,
-      "researcher": {
-        "name": "Giora Rytwo",
-        "photo": "media/photos/giora_rytwo.jpg"
-      }
-    },
-    {
-      "title": "Colorimetric Quantification for Residual Poly-DADMAC in Water Treatment",
-      "abstract": "Poly-DADMAC (PD) is a commonly used organic polymer in water treatment, known for its effectiveness as a coagulant. However, its presence as a residue in water raises concerns related to membrane fouling and the potential formation of carcinogenic compounds. Therefore, fast and simple quantification is necessary to efficiently control and monitor the optimal dose of poly-DADMAC with minimal negative effects. This study introduces a new colorimetric quantification method for poly-DADMAC, based on complexation with a cationic dye (fast green-FG). The method was examined through varying conditions, which included different analytical and commercial poly-DADMAC formulations and concentrations. These experiments confirm its effectiveness in quantifying poly-DADMAC with a detection limit of 3.22 µg L−1 (0.02 µM based on monomers’ molecular weight), which is one order of magnitude lower than regulatory requirements (50 µg L−1). To validate the method, the effect of pH was examined, and implementation demonstrations were conducted on cyanobacteria and cowshed-polluted water samples. This research introduces a fast, cost-effective innovative method to accurately quantify poly-DADMAC, enhancing water treatment strategies for high-quality purification and water reuse",
-      "authors": "Ilil Levakov, I. Maor, Chen Barak et al.",
-      "published": "2023",
-      "venue": "Water",
-      "feedName": "Lab Research",
-      "citationCount": 1,
-      "recentCitations": 0,
-      "quartile": "Q1",
-      "s2_paper_id": "1539062d4801a1184ae479df3a17b3db49ea8d17",
-      "url": "https://doi.org/10.20944/preprints202308.1663.v1",
-      "image": "",
-      "screen": "both",
-      "lab_paper": true,
-      "researcher": {
-        "name": "Giora Rytwo",
-        "photo": "media/photos/giora_rytwo.jpg"
-      }
-    },
-    {
-      "title": "Elementary Steps in Steady State Kinetic Model Approximation for the Homo-Heterogeneous Photocatalysis of Carbamazepine",
-      "abstract": "Elucidating physicochemical processes in the degradation of pollutants may optimize their removal from water sources. Although the photodegradation of carbamazepine (CBZ) in Advanced Oxidation Processes (AOPs) has been widely studied, there is no detailed report on the elementary steps of the kinetics. This study proposes a set of elementary steps for the AOP of CBZ, combining short-wave ultraviolet radiation (UVC), a homogeneous reagent (H2O2), and a heterogeneous catalyst (TiO2), which includes the excitation of both reagents/catalysts by UVC photons, the adsorption of CBZ by the excited TiO2, or its oxidation by hydroxyl radicals. Assuming the steady-state approximation on the intermediate products (excited TiO2, CBZ-excited TiO2 complex, and hydroxyl radicals) leads to rate laws for the degradation of CBZ, in which UVC radiation, TiO2, and H2O2 are pseudo-first-order at all concentrations or intensities and have no direct influence on CBZ pseudo-order, whereas CBZ shifts from pseudo-first-order at low concentrations to pseudo-zero-order at high concentrations. Several experiments to test the mechanism were conducted by varying CBZ, H2O2, and TiO2 concentrations and UVC radiation intensities. The measured results indeed fit the suggested mechanism for the first three, but the irradiation intensity appears to shift the CBZ influence from pseudo-second- to pseudo-first-order with increased intensities. Part of the elementary steps were changed to fit the results.",
-      "authors": "Yuval Shahar, G. Rytwo",
-      "published": "2023",
-      "venue": "Clean Technology",
-      "feedName": "Lab Research",
-      "citationCount": 0,
-      "recentCitations": 0,
-      "quartile": "Q1",
-      "s2_paper_id": "15c76846e92aceb5369881927ee2bf9a91d232a6",
-      "url": "https://doi.org/10.3390/cleantechnol5030043",
-      "image": "",
-      "screen": "both",
-      "lab_paper": true,
-      "researcher": {
-        "name": "Giora Rytwo",
-        "photo": "media/photos/giora_rytwo.jpg"
-      }
-    },
-    {
-      "title": "Ice nucleation by smectites: the role of the edges",
-      "abstract": "Abstract. Smectites, like other clay minerals, have been shown to promote ice\nnucleation in the immersion freezing mode and likely contribute to the\npopulation of ice-nucleating particles (INPs) in the atmosphere. Smectites\nare layered aluminosilicates, which form platelets that depending on\ncomposition might swell or even delaminate in water by intercalation of\nwater molecules between their layers. They comprise among others\nmontmorillonites, hectorites, beidellites, and nontronites. In this study,\nwe investigate the ice nucleation (IN) activity of a variety of natural and\nsynthetic smectite samples with different exchangeable cations. The\nmontmorillonites STx-1b and SAz-1, the nontronite SWa-1, and the hectorite\nSHCa-1 are all rich in Ca2+ as the exchangeable cation; the bentonite\nMX-80 is rich in Na+ with a minor contribution of Ca2+, and the\nsynthetic Laponite is a pure Na+ smectite. The bentonite SAu-1 is rich\nin Mg2+ with a minor contribution of Na+, and the synthetic\ninterstratified mica-montmorillonite Barasym carries\nNH4+ as the exchangeable cation. In\nemulsion freezing experiments, all samples except Laponite exhibited one or\ntwo heterogeneous freezing peaks with onsets between 239 and 248 K and a\nquite large variation in IN activity yet without clear correlation with the\nexchangeable cation, with the type of smectite, or with mineralogical\nimpurities in the samples. To further investigate the role of the\nexchangeable cation, we performed ion exchange experiments. Replacing\nNH4+ with Ca2+ in Barasym reduced\nits IN activity to that of other Ca-rich montmorillonites…",
-      "authors": "Amit Kumar, Kristian Klumpp, Chen Barak et al.",
-      "published": "2023",
-      "venue": "Atmospheric Chemistry and Physics",
-      "feedName": "Lab Research",
-      "citationCount": 12,
-      "recentCitations": 1,
-      "quartile": "Q1",
-      "s2_paper_id": "d2f58630c5b33511a9ff3fe822b2154de726bbcb",
-      "url": "https://doi.org/10.5194/acp-23-4881-2023",
-      "image": "",
-      "screen": "both",
-      "lab_paper": true,
-      "researcher": {
-        "name": "Giora Rytwo",
-        "photo": "media/photos/giora_rytwo.jpg"
-      }
-    },
-    {
-      "title": "Carbamazepine Removal by Clay-Based Materials Using Adsorption and Photodegradation",
-      "abstract": "Carbamazepine (CBZ) is one of the most common emerging contaminants released to the aquatic environment through domestic and pharmaceutical wastewater. Due to its high persistence through conventional degradation treatments, CBZ is considered a typical indicator for anthropogenic activities. This study tested the removal of CBZ through two different clay-based purification techniques: adsorption of relatively large concentrations (20–500 μmol L−1) and photocatalysis of lower concentrations (<20 μmol L−1). The sorption mechanism was examined by FTIR measurements, exchangeable cations released, and colloidal charge of the adsorbing clay materials. Photocatalysis was performed in batch experiments under various conditions. Despite the neutral charge of carbamazepine, the highest adsorption was observed on negatively charged montmorillonite-based clays. Desorption tests indicate that adsorbed CBZ is not released by washing. The adsorption/desorption processes were confirmed by ATR-FTIR analysis of the clay-CBZ particles. A combination of synthetic montmorillonite or hectorite with low H2O2 concentrations under UVC irradiation exhibits efficient homo-heterogeneous photodegradation at μM CBZ levels. The two techniques presented in this study suggest solutions for both industrial and municipal wastewater, possibly enabling water reuse.",
-      "authors": "Ilil Levakov, Yuval Shahar, G. Rytwo",
-      "published": "2022",
-      "venue": "Water",
       "feedName": "Lab Research",
       "citationCount": 7,
       "recentCitations": 0,
       "quartile": "Q1",
-      "s2_paper_id": "ac6397222c96e268d9875d49caffce160835579a",
-      "url": "https://doi.org/10.3390/w14132047",
+      "s2_paper_id": "b97e4acafc9606b86df3bd0c797faa7fbcf900b7",
+      "url": "https://doi.org/10.3390/nu16142328",
       "image": "",
       "screen": "both",
       "lab_paper": true,
       "researcher": {
-        "name": "Giora Rytwo",
-        "photo": "media/photos/giora_rytwo.jpg"
+        "name": "Rafi Steckler",
+        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=BOhLTM0AAAAJ"
+      }
+    },
+    {
+      "title": "Disrupted gut harmony in attention-deficit/hyperactivity disorder: Dysbiosis and decreased short-chain fatty acids",
+      "abstract": "Background Attention-Deficit Hyperactivity Disorder (ADHD) is a prevalent neurodevelopmental disorder with complex genetic and environmental underpinnings. Emerging evidence suggests a significant role of gut microbiota in ADHD pathophysiology. This study investigates variations in gut microbiota composition and Short-Chain Fatty Acid (SCFA) profiles between children and adolescents with ADHD and healthy controls. Methods The study included 42 ADHD patients and 31 healthy controls, aged 6–18 years. Fecal samples were analyzed for microbial composition using 16S rRNA gene sequencing and for SCFA profiles through gas chromatography-mass spectrometry (GC-MS). The study assessed both α and β diversity of gut microbiota and quantified various SCFAs to compare between the groups. Results ADHD subjects demonstrated significantly reduced gut microbiota diversity, as indicated by lower α-diversity indices (Shannon index, Observed species, Faith PD index) and a trend towards significance in β-diversity (Weighted UniFrac). Notably, the ADHD group exhibited significantly lower levels of key SCFAs, including acetic, propionic, isobutyric, isovaleric, and valeric acids, highlighting a distinct microbial and metabolic profile in these individuals. Conclusion This study uncovers significant alterations in gut microbiota and SCFA profiles in children with ADHD, compared to healthy controls. The observed changes in SCFAs, known for their associations with other behavioral and neurologic pathologies, and for their role in neural signaling. These findings offer a metabolite fingerprint that co…",
+      "authors": "Rafi Steckler, F. Magzal, M. Kokot et al.",
+      "published": "2024",
+      "venue": "Brain, Behavior, & Immunity - Health",
+      "feedName": "Lab Research",
+      "citationCount": 21,
+      "recentCitations": 1,
+      "quartile": null,
+      "s2_paper_id": "e6bf6bc6dc39538aed6d5e9f0a2aad62f0702494",
+      "url": "https://doi.org/10.1016/j.bbih.2024.100829",
+      "image": "",
+      "screen": "both",
+      "lab_paper": true,
+      "researcher": {
+        "name": "Rafi Steckler",
+        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=BOhLTM0AAAAJ"
       }
     }
   ]

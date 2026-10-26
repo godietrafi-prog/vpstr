@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-26T02:34:28Z",
+  "updated": "2026-10-26T09:41:52Z",
   "items": [
     {
       "title": "A holistic framework for enhancing the resilience of grassland-based farming systems to climate extremes",
@@ -202,6 +202,26 @@
       "screen": "left"
     },
     {
+      "title": "Evaluation of application strategies for mexican oregano (Lippia berlandieri) essential oil in corn contaminated by Aspergillus flavus",
+      "abstract": "IntroductionCorn contamination by Aspergillus flavus is a critical food safety problem because of the production of aflatoxins. Mexican oregano essential oil (OEO; Lippia berlandieri) has shown antifungal activity, but its efficacy depends on the application method. This study aimed to evaluate three OEO application strategies (spraying, vapor phase, and encapsulation) on the growth of A. flavus in corn.MethodsCorn was inoculated with A. flavus and treated with OEO by spraying (500–8,000 µL/L), vapor phase (400–4,000 µL/L of air), or alginate–gelatin encapsulation (5,000–40,000 µL/L). These doses are equivalent to 45–727, 1,273–12,727, and 9,364–72,776 µL OEO/kg of corn, respectively; the encapsulation values are nominal. Growth was monitored for 7 days and modeled with a modified Gompertz equation to estimate A (maximum growth), Vmax (rate parameter), and λ (lag phase). Parameters from independent replicate fits were compared among concentrations within each strategy by one-way ANOVA and Tukey’s test (p < 0.05).ResultsSignificant differences among concentrations were found for the three parameters within each application method. Spraying increased the lag phase and reduced maximum growth at 1,000, 2,000, and 8,000 µL/L. In the vapor phase, responses were non-linear and concentration-dependent, and growth resumed after an initial delay at all concentrations. Encapsulation delayed the onset of growth and markedly reduced maximum growth as concentration increased. No detectable growth was observed at 40,000 µL/L during the 7-day period.DiscussionSpraying and the vapor phase s…",
+      "authors": "A. M. García-Barrales, J. C. Pérez-Pérez, R. Aguilar-Sánchez et al.",
+      "published": "Oct 2026",
+      "feedName": "Frontiers Food Science",
+      "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.1995951",
+      "image": "",
+      "screen": "left"
+    },
+    {
+      "title": "AI-enabled multi-omics integration for predictive food safety",
+      "abstract": "The growing complexity of global food systems and the burden of foodborne diseases highlight limitations in conventional food safety approaches based on retrospective testing and isolated analytical measurements. High-throughput omics technologies, including genomics, transcriptomics, proteomics, metabolomics, and microbiomics, enable comprehensive molecular characterization of food systems, but their scale and heterogeneity challenge conventional analytical approaches. Artificial Intelligence (AI) can integrate these heterogeneous datasets to support predictive food-safety, quality-assurance, and risk-assessment applications. This review provides a critical overview of AI-enabled multi-omics integration for food safety, covering major omics platforms, multimodal integration, machine learning (ML), deep learning (DL), graph neural networks (GNNs), transformer-based approaches, and explainable AI (XAI). Applications include pathogen detection and characterization, antimicrobial-resistance (AMR) surveillance, shelf-life and spoilage prediction, food authenticity assessment, and risk assessment. Reported results include 0.94 accuracy (κ=0.82) for genomic prediction of Salmonella disease-endpoint phenotypes, AUROC of 0.904 for Salmonella stress-response prediction, and R2>0.96 for neural-network-based shelf-life prediction. However, performance remains dependent on data quality, model design, and validation strategy. Key challenges include data standardization, missing modalities, batch effects, model interpretability, regulatory acceptance, computational scalability, and limit…",
+      "authors": "Kushagra Agrawal, Navneet Kumar, Man-Fai Leung",
+      "published": "Oct 2026",
+      "feedName": "Frontiers Food Science",
+      "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.1961363",
+      "image": "",
+      "screen": "left"
+    },
+    {
       "title": "Optimizing rosehip form and concentration in a plant-based appetizer: balancing sensory acceptability with nutrient composition and phenolic bioaccessibility during simulated digestion",
       "abstract": "IntroductionDeveloping functional foods with high bioactivity often compromises sensory characteristics, making optimization essential.MethodsThis study evaluated the functional composition, antioxidant activity, vitamin content, microbiological safety, sensory acceptability, and phenolic bioaccessibility during simulated gastrointestinal digestion of a pumpkin–apple–honey–walnut appetizer enriched with 1%–5% of rosehip extract or powder. Data of the six formulations investigated were analyzed using two-way ANOVA (rosehip form × rosehip concentration) with Tukey’s HSD post hoc test, sensory scores were analysed with a linear mixed-effects model with assessor as a random effect.Results and DiscussionSensory acceptability (9-point hedonic scale) was significantly influenced by the concentration regardless of additive form. Rosehip levels of 1% and 3% maintained high acceptability, whereas 5% significantly reduced taste and texture scores. Significant form × concentration interactions were observed for protein, carbohydrate, fat, antioxidant content and vitamins A and E. Specifically, as concentration increased from 1% to 5%, vitamin A declined by 36% in extract-fortified samples and by 41% in powder-fortified samples due to matrix dilution, with powder consistently retaining higher vitamin A levels. Conversely, rosehip powder provided superior antioxidant content (1.19–1.33 mg/g at 3%–5%) compared to the extract (0.87–0.92 mg/g), whereas rosehip extract induced a more pronounced relative gain in vitamin E (15%). Simulated gastrointestinal digestion showed that total phenolic …",
       "authors": "Zhanar Nabiyeva, Abdyssemat Samadun, Diana Abdraimova et al.",
@@ -218,26 +238,6 @@
       "published": "Oct 2026",
       "feedName": "Frontiers Food Science",
       "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.1953799",
-      "image": "",
-      "screen": "left"
-    },
-    {
-      "title": "Chitosan coating with Pickering emulsion of cellulose nanofibril/kaffir lime leaf essential oil for gourami fillets preservation",
-      "abstract": "Gourami fillets (Osphronemus goramy) are susceptible to rapid deterioration during chilled storage. This study developed a chitosan-based edible coating containing a cellulose nanofibril (CNF)-stabilized Pickering emulsion of kaffir lime leaf essential oil (KEO) and evaluated its fish-preservation performance. A CNF concentration of 0.25% was selected as chitosan/CNF/KEO (ChiCK) stabilizer, and comparing with chitosan (Chi), chitosan/Tween 80/KEO (ChiTK). A ChiCK showed the highest zeta potential (57.00 ± 1.04 mV) and inhibition zones of 9.262 ± 0.639 mm, 10.306 ± 0.127 mm, 9.472 ± 0.824 mm, and 8.696 ± 0.260 mm against Escherichia coli, Pseudomonas aeruginosa, Bacillus cereus, and Staphylococcus aureus respectively. Its application on gourami fillet was able to suppress microbial growth with total plate count of 5.30 ± 0.05 log CFU g−1, 1.12 log units lower than that of the uncoated fillets by day 2 storage and remined below the maximum limit of safe level (5.70 log CFU g−1), although the treatment did not reduce weight loss by day 3. The CNF-stabilized KEO coating therefore had potential for preserving the gourami fillets during chilled storage (5 °C–10 °C).",
-      "authors": "Ata Aditya Wardana, Ananda Caesarini Aulia, Aisya Zahra Zhafira et al.",
-      "published": "Oct 2026",
-      "feedName": "Frontiers Food Science",
-      "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.1983935",
-      "image": "",
-      "screen": "left"
-    },
-    {
-      "title": "Food safety knowledge, attitudes, practices, and observed food handling practices among licensed street food vendors in Tlokweng, Botswana",
-      "abstract": "IntroductionStreet food vending plays an important role in providing affordable and convenient foods, yet food safety remains questionable. Despite Botswana regulations on licensing, hygiene and inspections, the informal nature of the sector limits regulatory oversight and inconsistent compliance with established food safety practices. This study assessed the knowledge, attitudes and practices among licensed street vendors in ten selected wards of Tlokweng, Botswana.MethodsA quantitative cross-sectional study was conducted among 100 street food vendors using a self-administered questionnaire and a structured observation checklist to assess both self-reported and observed food handling practices. Data were analyzed using descriptive statistics, Mann Whitney U tests and Kruskal Wallis H tests.ResultsSelf-reported awareness varied across food safety topics. Most respondents reported familiarity with basic food safety principles (85%), awareness of foodborne illnesses (84.5%), and awareness of the importance of handwashing before handling food (94%). Fewer reported knowing the appropriate storage temperature for perishable foods (57.7%), how to prevent cross contamination (55%), the recommended poultry cooking temperature (24%), and safe thawing procedures (48%). Practice responses show limited access to handwashing facilities (2%) and waste disposal facilities (3%). 61% reported wearing accessories whilst cooking. Attitude responses were generally favorable with 90% or more expressing favorable responses to regulatory adherence, but disagreements were present for training, reg…",
-      "authors": "Sarah Tshepho Pona Matenge, Moffat Nakedi, Ellen Tsholofelo et al.",
-      "published": "Oct 2026",
-      "feedName": "Frontiers Food Science",
-      "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.1961032",
       "image": "",
       "screen": "left"
     },
@@ -482,104 +482,44 @@
       "screen": "right"
     },
     {
-      "title": "Neutrophil-to-prognostic nutritional index ratio and short-term mortality in heart failure: an exploratory association without demonstrated superiority over PNI, NLR, or SII",
-      "abstract": "BackgroundSystemic inflammation and greater illness severity are associated with adverse short-term outcomes in heart failure (HF). The neutrophil-to-prognostic nutritional index ratio (NPNR) combines neutrophil count with the prognostic nutritional index (PNI), a composite derived from serum albumin and lymphocyte count that is influenced by inflammation and acute illness. This study examined the association of NPNR with 28-day and 90-day all-cause mortality in hospitalized patients with HF and assessed its replication in MIMIC-IV.MethodsThe analysis included 1,885 patients with calculable NPNR from the Zigong Heart Failure Database and 1,150 adult ICU patients with HF from MIMIC-IV. Log2-transformed NPNR was examined using Cox regression, Kaplan–Meier analysis, restricted cubic splines (RCS), and sensitivity analyses, including parsimonious and Firth-penalized Cox models. MIMIC-IV provided an independent clinical setting for assessing the direction of the association.ResultsIn Zigong, each doubling of NPNR was associated with higher 28-day mortality (HR 1.728, 95% CI 1.130–2.642, p = 0.012) and 90-day mortality (HR 1.684, 95% CI 1.124–2.524, p = 0.012). However, the expanded models included only 32 and 36 deaths, respectively, and the tertile-based estimates had wide confidence intervals. RCS analyses suggested nonlinearity at both time horizons. NPNR AUCs were 0.727 and 0.717, with no significant superiority over PNI, NLR, or SII in DeLong comparisons. In MIMIC-IV, the continuous association was borderline significant at 28 days (HR 1.112, p = 0.049) and not statisticall…",
-      "authors": "Zhenyu Yuan, Mohan Li, Lei Zhao et al.",
+      "title": "Sustainable nutrition: integrating food systems, environmental science, and diet to advance public and planetary health",
+      "abstract": "Nutrition science has traditionally focused on dietary intake, nutrient metabolism, physiology, and health outcomes. Although these domains remain fundamental, advancing public health increasingly requires understanding nutrition within the broader systems that shape food production, processing, access, consumption, and environmental sustainability. This Perspective proposes sustainable nutrition as a unifying concept: maintaining nutritional status that supports growth, development, and health across the lifespan while accounting for population needs, context, and the capacity and resilience of food systems. We describe a Nutritional Ecology framework that conceptualizes nutrition as the product of dynamic, reciprocal interactions among human biology, dietary patterns, food systems, and environmental conditions. Agricultural practices affect food quantity, quality, nutrient composition, biodiversity, water resources, greenhouse gas emissions, and ecosystem resilience, while environmental change influences crop productivity, nutrient density, food safety, and nutrition security. Dietary patterns simultaneously affect chronic disease risk and the environmental footprint of food systems. These interdependencies argue against evaluating human health and environmental sustainability in isolation. We therefore call for a transformation toward integrated, systems-based nutrition research that incorporates biological variability, environmental drivers, and system-level interactions. Multidisciplinary collaborations spanning nutrition, food, agricultural, environmental, epidemiolog…",
+      "authors": "Andrew A. Bremer, Anna Krans, Daniel J. Raiten",
       "published": "Oct 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1995940",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1976376",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Camel milk preservation: matrix effects across conventional and emerging technologies",
-      "abstract": "Camel milk supports food security, nutrition and rural economies across arid regions, while its commercial development is expanding towards refrigerated products, fermented foods, powders and functional ingredients. This transition exposes a preservation problem that differs from that of conventional dairy chains. Variable conditions before processing determine the initial microbial and enzymatic load, whereas the distinctive organisation of camel-milk proteins, minerals and dispersed phases alters treatment delivery, physical stability and quality retention. This critical narrative review integrates matrix knowledge with direct evidence on established and emerging preservation processes. Scopus, Web of Science Core Collection, PubMed, CAB Abstracts and Google Scholar were searched for relevant studies available up to August 2026. The evidence reveals no simple hierarchy of preservation technologies. Cooling, controlled fermentation, pasteurisation and drying remain the practical foundation of camel-milk processing, but their performance is bounded by raw-milk history and by matrix responses that include aggregation, weak gel formation, oxidation and loss of powder stability. These constraints have stimulated interest in lower-temperature and non-thermal approaches that may widen the interval between microbial control and unacceptable product modification. High-pressure processing currently offers the most developed pathogen-specific evidence within this group, while the reported performance of UV-C and ultrasound remains closely tied to reactor geometry, energy distributio…",
-      "authors": "Dadaie Daihi, Fouad Achemchem, Fadwa El Kindoussy et al.",
+      "title": "A novel nutritional index is associated with adverse outcomes in patients with acute heart failure: insights beyond traditional risk markers",
+      "abstract": "BackgroundNutritional status is closely associated with clinical outcomes in patients with acute heart failure (AHF). However, the value of simple and comprehensive nutritional indicators in this population remains unclear. This study aimed to investigate the association between the triglyceride–total cholesterol–body weight index (TCBI) and adverse outcomes in patients with AHF.MethodsThis single-center retrospective cohort study consecutively included patients with AHF admitted between April 2022 and April 2024. TCBI and conventional nutritional indices, including prognostic nutritional index (PNI), geriatric nutritional risk index (GNRI), and controlling nutritional status (CONUT), were calculated at admission. The primary outcome was a composite endpoint of heart failure rehospitalization or all-cause mortality within 1 year after discharge. Cox regression, restricted cubic spline analysis, threshold effect analysis, ROC analysis, subgroup analyses, and incremental model analyses were performed.ResultsAmong 1,898 patients with AHF, 557 experienced composite events during follow-up. After multivariable adjustment, higher TCBI was independently associated with a lower risk of the composite outcome (HR = 0.70, 95% CI: 0.60–0.81, p < 0.001). TCBI showed the highest discriminatory ability among nutritional indicators (AUC = 0.627). Restricted cubic spline and threshold effect analyses demonstrated a nonlinear association between TCBI and adverse outcomes. After adjustment for traditional cardiovascular risk factors and NT-proBNP, TCBI remained independently associated with o…",
+      "authors": "Yue Cao, Bolan Zhang, Yi Wang et al.",
       "published": "Oct 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/null",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1962962",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Growth trajectories in exclusively breastfed infants with clinically diagnosed food allergy: a prospective longitudinal cohort study",
-      "abstract": "BackgroundFood allergy (FA) in infancy may be accompanied by feeding difficulties and dietary modifications during breastfeeding, which may influence early growth. However, longitudinal growth patterns in exclusively breastfed infants with clinically diagnosed FA remain incompletely characterized.MethodsIn this prospective longitudinal cohort study, 73 exclusively breastfed infants (30 with FA and 43 without FA) were enrolled at 4–6 months of age and followed through infancy. A total of 268 anthropometric observations were included in the longitudinal analysis. Weight-for-length Z-score (WLZ), weight-for-age Z-score (WAZ), length-for-age Z-score (LAZ), and head circumference-for-age Z-score (HCZ) were calculated according to the WHO Child Growth Standards. Growth trajectories were evaluated using linear mixed-effects models with infant-specific random intercepts. Age was modeled continuously and centered at 5 months. Sensitivity analyses examined nonlinear age effects and group-by-sex interactions.ResultsMaternal dietary avoidance was substantially more common among mothers of infants with FA than among those without FA (83.3% vs. 18.6%, p < 0.001). In the longitudinal WLZ model, the estimated difference between the NFA and FA groups at 5 months was 0.423 Z-score units (95% CI 0.036 to 0.811, p = 0.035), with lower estimated WLZ in the FA group. There was no evidence of a group-by-age interaction (estimate = −0.011, 95% CI − 0.086 to 0.063, p = 0.763), indicating no detectable difference in the linear rate of WLZ change between groups. Sensitivity analysis did not support a…",
-      "authors": "Jun Fang, Zhanzhan Zhang, Yuanfeng Zhong et al.",
+      "title": "Association between the prognostic nutritional index and cognitive impairment in patients with heart failure: a cross-sectional study",
+      "abstract": "BackgroundThe prognostic nutritional index (PNI), calculated from serum albumin and peripheral lymphocyte count, is commonly interpreted as a nutritional–inflammatory marker. This study investigated the association between the PNI and cognitive impairment (CI) among patients with heart failure (HF).MethodsThis cross-sectional study included 153 patients with HF. Before cognitive status classification and statistical analysis, one point was added to the original Montreal Cognitive Assessment (MoCA) total score for participants with fewer than 12 years of education. Participants were classified into the CI group (education-corrected MoCA < 26) or the non-CI group (education-corrected MoCA ≥26).ResultsCI was identified in 93 patients (60.8%). The median PNI was lower in the CI group than in the non-CI group [44.10 (40.55–47.00) vs. 47.08 (44.62–50.28), p < 0.001]. After adjusting for age, sex, and educational attainment, each five-point increase in the PNI was associated with lower odds of prevalent CI (odds ratio (OR): 0.562, 95% confidence interval (95% CI): 0.348–0.910; p = 0.019). The base clinical model had an area under the curve (AUC) of 0.868, and the PNI-extended model had an AUC of 0.882; the increment was small and non-significant (ΔAUC: 0.014, 95% CI: −0.008 to 0.036; DeLong p = 0.204). In a sensitivity analysis, albumin was independently associated with CI (OR: 0.362 per 5-g/L increase, 95% CI: 0.172–0.759; p = 0.007), and the PNI-extended model did not outperform the albumin-extended model (AUC: 0.882 vs. 0.887; ΔAUC: −0.005, 95% CI: −0.022 to 0.013; DeLong p = 0…",
+      "authors": "Chengyang Li, Yingxuan Gao, Qi Niu et al.",
       "published": "Oct 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1924841",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1939333",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Beyond food safety: environmental and sensory drivers of organic food purchase intention in an emerging market",
-      "abstract": "Background/objectivesFood perception encompasses a multidimensional evaluation of sensory, nutritional, safety, and sustainability attributes, yet the relative contribution of each dimension to attitude formation and subsequent purchase intention remains understudied in emerging market contexts. This study examines the relationships between five perceptual dimensions (food safety, naturalness, nutritional value, environmental concern, and sensory appeal) and attitudes toward organic food and purchase intention.MethodsData were collected via an online survey from 255 consumers using a non-probabilistic convenience and snowball sampling approach. Partial least squares structural equation modeling with 5,000 bootstrap subsamples was employed to test six hypothesized relationships.ResultsFive of the six hypothesized relationships were supported. Environmental concern, natural content, sensory appeal, and nutritional content were significantly associated with attitude, while food safety concern showed no significant association. The five perception dimensions jointly explained 64.5% of the variance in attitude. Attitude was strongly associated with purchase intention, supporting its central role within the proposed model.ConclusionFood perception operates through an integrated, multidimensional assessment rather than single attributes. The findings highlight the relevance of considering multiple food perception dimensions when examining attitudes toward organic food and purchase-related responses.",
-      "authors": "Iván Veas-González, Manuel Escobar-Farfán, Jonathan Cuevas-Lizama et al.",
+      "title": "Equol-producing capacity as an overlooked modifier of pediatric isoflavone responses",
+      "abstract": "Similar dietary isoflavone intakes need not generate similar metabolite exposures. Gut microbiota-dependent conversion of daidzein to S-equol offers a plausible, incompletely characterized modifier of pediatric endocrine responses. Pediatric observational data suggest that urinary equol may modify associations between soy intake and pubertal timing, although causality and a fixed producer phenotype have not been established. We propose treating equol-producing capacity as a developmentally dynamic metabotype and testing it through repeated functional phenotyping. Receptor-selective effects on pubertal signaling and interactions with iodine-dependent thyroid physiology remain hypotheses with unknown clinical direction. Prospective studies should integrate diet, functional metabolism, developmental stage, iodine assessment and endocrine outcomes. Current evidence does not justify equol-based dietary restriction or routine clinical testing in healthy children.",
+      "authors": "Ruiying Fan, Yutong Xing, Kaixi Wang et al.",
       "published": "Oct 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1924574",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1993262",
       "image": "",
       "screen": "right"
-    },
-    {
-      "title": "Phosphorus in Balance: Evaluating the Costs and Benefits of a Circular Economy Approach",
-      "abstract": "This paper presents a comprehensive cost-benefit analysis of producing alternative phosphorus (P) fertilizers from recycled water treatment residuals (Fe-WTR) and cowshed effluents. The cost-benefit values of Fe-WTR are compared to the net costs of recycling P using a synthetic adsorbent (commonly used practice-layered double hydroxide, P-LDH) and the costs of commercial fertilizers. Dairy wastewater is used as a source of P. The cost of 1 ton P using the Fe-WTR process is €329. In contrast, synthetic adsorbents (P-LDH) incur significantly higher costs, amounting to €3329 per ton, underscoring the economic advantage of utilizing waste-derived materials. Adopting Fe-WTR fertilizer not only offers substantial cost savings by avoiding landfill fees (€40 per ton) and wastewater discharge fines (€500 per ton) but also reduces environmental impacts when compared to the use of commercial P fertilizers (non-recycled P). The Fe-WTR method mitigates eutrophication and pollution, presenting the dual benefit of cost-effectiveness and environmental protection, which exceeds the common P recycling practice (LDH). Our conclusions are based on production processes in Israel and compared to previous cost estimations at the world level, assessing the potential gain from such circular production of P globally. Recycling P from waste streams can be economically viable and environmentally preferable at small and large economic scales, supporting global sustainability goals.",
-      "authors": "H. E. Ganem, I. Zohar, M. Litaor et al.",
-      "published": "2024",
-      "venue": "Journal of Environmental Science Studies",
-      "feedName": "Lab Research",
-      "citationCount": 0,
-      "recentCitations": 0,
-      "quartile": null,
-      "s2_paper_id": "5a7645fb724f2527117a809194848a4b84de25da",
-      "url": "https://doi.org/10.20849/jess.v7i2.1469",
-      "image": "",
-      "screen": "both",
-      "lab_paper": true,
-      "researcher": {
-        "name": "Iris Zohar",
-        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=YVQd-pwAAAAJ"
-      }
-    },
-    {
-      "title": "The impact of alternative recycled and synthetic phosphorus sources on plant growth and responses, soil interactions and sustainable agriculture - lettuce (Lactuca sativa) as a case model.",
-      "abstract": "This research assesses the efficacy of two phosphorus (P) adsorbents as alternative fertilizers in promoting lettuce growth. A synthetic Mg/Al-layered double hydroxide (LDH) and an iron-based recycled water treatment residual (Fe-WTR), both enriched with P from dairy wastewater and added at three dosage levels. We hypothesized that the adsorbents' physicochemical nature will overshadow the biological efforts in the plant ecosystem to increase P solubility, impacting plant growth, nutritional composition, and metabolite profiles. Fe-WTR significantly enhanced lettuce biomass compared to LDH. Yet, elemental analysis revealed higher or equal P concentrations in the low-biomass LDH plants relative to other treatments. Phosphorus uptake appears to influence the assimilation of other nutrients that divided into two groups: calcium, magnesium, zinc, and copper with notable correlations to P and nitrogen, iron, aluminum, vanadium and manganese with low correlations to P. Conversely, P retained poor correlation with most metabolites whereas iron showed a higher correlation with numerous metabolites. Analysis of metabolites, encompassing carbohydrates, the Krebs cycle, amino acids, nucleic acids, and stress and regulatory pathways, revealed diminished levels in the LDH treatments. Overall, carbon assimilation (plant growth) was more effectively predicted by soil P availability (adsorbent type and dose) rather than by cellular P concentration, suggesting root signaling was at play, influencing carbohydrate translocation to the roots. Diminished levels of cellular sugars further affect…",
-      "authors": "I. Zohar, H. E. Ganem, D. DiSegni et al.",
-      "published": "2024",
-      "venue": "Science of the Total Environment",
-      "feedName": "Lab Research",
-      "citationCount": 8,
-      "recentCitations": 0,
-      "quartile": "Q1",
-      "s2_paper_id": "716a87e9602f04f6b3d7fe6c3b411a15d1beaf4a",
-      "url": "https://doi.org/10.1016/j.scitotenv.2024.174719",
-      "image": "",
-      "screen": "both",
-      "lab_paper": true,
-      "researcher": {
-        "name": "Iris Zohar",
-        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=YVQd-pwAAAAJ"
-      }
-    },
-    {
-      "title": "Biogeochemical impacts on soil phosphorus and other macro- and micro elements solubility, ratios and forms during heatwaves",
-      "abstract": "Increased frequency and amplitude of extreme heat events can affect soil temperature, and biogeochemical processes. High temperatures may have contradicting geochemical and biological effects on essential elements solubility and forms. Endothermic behavior of minerals and oxides results in decreased solubility with increased temperature, while bio-mineralization is stimulated in response to high temperature. To elucidate heatwave impacts on soil biogeochemical processes, we performed a controlled soil incubation experiment and a field survey. Wet and dry alluvial soil sets were incubated at background temperature (33°C) for two weeks and then, a sequence of three heat events was induced (41°C/33°C alternations, five days each) followed by two short events of extreme heat (48°C for two days). Most soil indices changed trends after about 25-30 days. At the first part of the period, P, Al, Fe appeared to reflect endothermic behavior of (hydr)oxides and minerals in the dry soil (i.e., sorbed P was likely dependent on Fe (hydr)oxides dissolution), while trends of Fe/Al in the wet soil followed the dissolved organic C trend. Phosphatases enzymatic activities fluctuated positively with temperature, emphasizing the activity of residual extracellular enzymes sorbed to soil particles (dry soil) in addition to living cells excreted enzymes (wet soil). With the 3 rd heatwave, soluble P dramatically fluctuated with temperature, suggesting a sequence of temperature-enhanced bio-mineralization, releasing P to the soil solution, counteracted by geochemical sorption, removing P from solutio…",
-      "authors": "I. Zohar, M. Khoury, Yael Kirshenbaum et al.",
-      "published": "2023",
-      "venue": "Goldschmidt2023 abstracts",
-      "feedName": "Lab Research",
-      "citationCount": 0,
-      "recentCitations": 0,
-      "quartile": null,
-      "s2_paper_id": "e71980935a3dcce1c2b9257fe6bd261b6cf61461",
-      "url": "https://doi.org/10.7185/gold2023.18565",
-      "image": "",
-      "screen": "both",
-      "lab_paper": true,
-      "researcher": {
-        "name": "Iris Zohar",
-        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=YVQd-pwAAAAJ"
-      }
     },
     {
       "title": "Continuing Medical (Anatomy) Education Series: Organ Donation and Transplantation, a Means of Continuity of Functional and Independent Life and Living",
@@ -719,6 +659,126 @@
       "researcher": {
         "name": "Ofir Benjamin",
         "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=FsjV0oIAAAAJ"
+      }
+    },
+    {
+      "title": "Phosphorus in Balance: Evaluating the Costs and Benefits of a Circular Economy Approach",
+      "abstract": "This paper presents a comprehensive cost-benefit analysis of producing alternative phosphorus (P) fertilizers from recycled water treatment residuals (Fe-WTR) and cowshed effluents. The cost-benefit values of Fe-WTR are compared to the net costs of recycling P using a synthetic adsorbent (commonly used practice-layered double hydroxide, P-LDH) and the costs of commercial fertilizers. Dairy wastewater is used as a source of P. The cost of 1 ton P using the Fe-WTR process is €329. In contrast, synthetic adsorbents (P-LDH) incur significantly higher costs, amounting to €3329 per ton, underscoring the economic advantage of utilizing waste-derived materials. Adopting Fe-WTR fertilizer not only offers substantial cost savings by avoiding landfill fees (€40 per ton) and wastewater discharge fines (€500 per ton) but also reduces environmental impacts when compared to the use of commercial P fertilizers (non-recycled P). The Fe-WTR method mitigates eutrophication and pollution, presenting the dual benefit of cost-effectiveness and environmental protection, which exceeds the common P recycling practice (LDH). Our conclusions are based on production processes in Israel and compared to previous cost estimations at the world level, assessing the potential gain from such circular production of P globally. Recycling P from waste streams can be economically viable and environmentally preferable at small and large economic scales, supporting global sustainability goals.",
+      "authors": "H. E. Ganem, I. Zohar, M. Litaor et al.",
+      "published": "2024",
+      "venue": "Journal of Environmental Science Studies",
+      "feedName": "Lab Research",
+      "citationCount": 0,
+      "recentCitations": 0,
+      "quartile": null,
+      "s2_paper_id": "5a7645fb724f2527117a809194848a4b84de25da",
+      "url": "https://doi.org/10.20849/jess.v7i2.1469",
+      "image": "",
+      "screen": "both",
+      "lab_paper": true,
+      "researcher": {
+        "name": "Adi Jonas-Levi",
+        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=MbCf9l4AAAAJ"
+      }
+    },
+    {
+      "title": "The impact of alternative recycled and synthetic phosphorus sources on plant growth and responses, soil interactions and sustainable agriculture - lettuce (Lactuca sativa) as a case model.",
+      "abstract": "This research assesses the efficacy of two phosphorus (P) adsorbents as alternative fertilizers in promoting lettuce growth. A synthetic Mg/Al-layered double hydroxide (LDH) and an iron-based recycled water treatment residual (Fe-WTR), both enriched with P from dairy wastewater and added at three dosage levels. We hypothesized that the adsorbents' physicochemical nature will overshadow the biological efforts in the plant ecosystem to increase P solubility, impacting plant growth, nutritional composition, and metabolite profiles. Fe-WTR significantly enhanced lettuce biomass compared to LDH. Yet, elemental analysis revealed higher or equal P concentrations in the low-biomass LDH plants relative to other treatments. Phosphorus uptake appears to influence the assimilation of other nutrients that divided into two groups: calcium, magnesium, zinc, and copper with notable correlations to P and nitrogen, iron, aluminum, vanadium and manganese with low correlations to P. Conversely, P retained poor correlation with most metabolites whereas iron showed a higher correlation with numerous metabolites. Analysis of metabolites, encompassing carbohydrates, the Krebs cycle, amino acids, nucleic acids, and stress and regulatory pathways, revealed diminished levels in the LDH treatments. Overall, carbon assimilation (plant growth) was more effectively predicted by soil P availability (adsorbent type and dose) rather than by cellular P concentration, suggesting root signaling was at play, influencing carbohydrate translocation to the roots. Diminished levels of cellular sugars further affect…",
+      "authors": "I. Zohar, H. E. Ganem, D. DiSegni et al.",
+      "published": "2024",
+      "venue": "Science of the Total Environment",
+      "feedName": "Lab Research",
+      "citationCount": 8,
+      "recentCitations": 0,
+      "quartile": "Q1",
+      "s2_paper_id": "716a87e9602f04f6b3d7fe6c3b411a15d1beaf4a",
+      "url": "https://doi.org/10.1016/j.scitotenv.2024.174719",
+      "image": "",
+      "screen": "both",
+      "lab_paper": true,
+      "researcher": {
+        "name": "Adi Jonas-Levi",
+        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=MbCf9l4AAAAJ"
+      }
+    },
+    {
+      "title": "The effect of simulation training on the counseling skills of nutritional science students in dietetic internships",
+      "abstract": "Simulations are a common tool in training aircrews, medical personnel and educators, providing experience in scenarios from the relevant content area and expanding the range of responses that simulation participants can acquire before they enter the field. Simulations have also been used in dietetic internships to improve clinical counseling skills. However, the use of structured simulations that involve progressive, multisession patient interactions has not been extensively studied in the context of dietetic internships. This study employed consecutive scenario models where interns developed ongoing interactions with the same simulated patient over multiple sessions, representing a significant methodological innovation in the field. A mixed method methodology was used to analyze closed and open-ended questionnaires which were administered to twenty-one interns, simulation actors and professional dietitians. This pilot study demonstrates the effectiveness of group and individual simulation training in enhancing dietetic interns’ counseling skills during their training and describes how simulation can contribute to both the professional skills and self-efficacy required to lead a counseling session. These findings will enable additional academic departments to examine the integration of simulation into the training programs of interns in tracks that include a practicum.",
+      "authors": "I. Linder, Zafit Lukach, Keren Pergament et al.",
+      "published": "2025",
+      "venue": "BMC Medical Education",
+      "feedName": "Lab Research",
+      "citationCount": 1,
+      "recentCitations": 0,
+      "quartile": "Q1",
+      "s2_paper_id": "5ee7aceac233a82917e92f646d2284fffcfd28b2",
+      "url": "https://doi.org/10.1186/s12909-025-07674-x",
+      "image": "",
+      "screen": "both",
+      "lab_paper": true,
+      "researcher": {
+        "name": "Rafi Steckler",
+        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=BOhLTM0AAAAJ"
+      }
+    },
+    {
+      "title": "The Anticonvulsant Effects of Different Cannabis Extracts in a Zebrafish Model of Epilepsy",
+      "abstract": "Epilepsy is a widespread neurological disorder that remains a critical global public health challenge. While numerous antiepileptic drugs (AEDs) are available, many patients either fail to achieve adequate seizure control or experience significant side effects. One promising alternative is pure cannabidiol (CBD), but using a whole cannabis extract may be equally effective and preferred for some patients. In the current study, we employed the pentylenetetrazole (PTZ)-induced hyperactivity model in zebrafish to compare the effects of CBD with various cannabis extracts. We evaluated three cannabis strains, each subjected to three different extraction methods, and benchmarked the results against the commercially available AED valproic acid (VPA). Our findings revealed that 5.7 µg/mL of CBD and 10 µg/mL of different extracts significantly reduced movement compared to PTZ and VPA. In addition, effective extracts produced effects similar to pure CBD despite containing much lower molecule levels. These results reinforced and expanded previous evidence supporting the clinical potential of both CBD and whole cannabis extracts for seizure control while suggesting a possible entourage effect. Further research is necessary to determine which patients may benefit more from pure CBD versus those who might prefer whole cannabis extracts.",
+      "authors": "Karen Jackson, M. Shabat-Simon, J. Bar-on et al.",
+      "published": "2025",
+      "venue": "Biomolecules",
+      "feedName": "Lab Research",
+      "citationCount": 4,
+      "recentCitations": 0,
+      "quartile": "Q1",
+      "s2_paper_id": "e8d95d5b119ba86262a480c8753459d85b64d105",
+      "url": "https://doi.org/10.3390/biom15050654",
+      "image": "",
+      "screen": "both",
+      "lab_paper": true,
+      "researcher": {
+        "name": "Rafi Steckler",
+        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=BOhLTM0AAAAJ"
+      }
+    },
+    {
+      "title": "Physiological Impacts of Energy Drink Consumption: A Clinical Analysis in Adolescents",
+      "abstract": "Energy drink (ED) consumption among Israeli-Arab adolescents is widespread. This study aimed to investigate the acute glycemic and insulin effects of EDs in healthy adolescents. Seventy-one Israeli-Arab adolescents (56% girls, average age 16.04 ± 1.03 years) participated in a non-randomized, case-controlled, open-label study. Participants consumed ED (n = 36) or a volume- and carbohydrate-matched non-caffeinated soft drink (SD, n = 35), followed by a 2 h glucose tolerance test. Blood glucose was measured at baseline and 15, 30, 60, and 120 min post-consumption (T0, T15, T30, T60 and T120, respectively). Serum insulin concentration and caffeine relative intensity were determined 45 min post-consumption (T45). Blood glucose levels peaked significantly at T15 and remained significantly higher at T30 in the ED group compared to the SD group (p = 0.005, p = 0.017, respectively). Insulin concentrations were substantially higher at T45 in the ED group (t [64] = 2.794, p = 0.001). This pattern was especially prominent in heavy ED consumers. A positive correlation emerged between the amount of caffeine consumed (mg/kg), blood glucose levels at T15 and T30, and insulin concentration at T45. This study is the first to demonstrate the glycemic and insulin responses to ED consumption in adolescents, suggesting that regulatory measures limiting ED sales to adolescents could improve their health.",
+      "authors": "Gilad Naveh, Bshara Mansour, Mahmoud Bader et al.",
+      "published": "2024",
+      "venue": "Nutrients",
+      "feedName": "Lab Research",
+      "citationCount": 7,
+      "recentCitations": 0,
+      "quartile": "Q1",
+      "s2_paper_id": "b97e4acafc9606b86df3bd0c797faa7fbcf900b7",
+      "url": "https://doi.org/10.3390/nu16142328",
+      "image": "",
+      "screen": "both",
+      "lab_paper": true,
+      "researcher": {
+        "name": "Rafi Steckler",
+        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=BOhLTM0AAAAJ"
+      }
+    },
+    {
+      "title": "Disrupted gut harmony in attention-deficit/hyperactivity disorder: Dysbiosis and decreased short-chain fatty acids",
+      "abstract": "Background Attention-Deficit Hyperactivity Disorder (ADHD) is a prevalent neurodevelopmental disorder with complex genetic and environmental underpinnings. Emerging evidence suggests a significant role of gut microbiota in ADHD pathophysiology. This study investigates variations in gut microbiota composition and Short-Chain Fatty Acid (SCFA) profiles between children and adolescents with ADHD and healthy controls. Methods The study included 42 ADHD patients and 31 healthy controls, aged 6–18 years. Fecal samples were analyzed for microbial composition using 16S rRNA gene sequencing and for SCFA profiles through gas chromatography-mass spectrometry (GC-MS). The study assessed both α and β diversity of gut microbiota and quantified various SCFAs to compare between the groups. Results ADHD subjects demonstrated significantly reduced gut microbiota diversity, as indicated by lower α-diversity indices (Shannon index, Observed species, Faith PD index) and a trend towards significance in β-diversity (Weighted UniFrac). Notably, the ADHD group exhibited significantly lower levels of key SCFAs, including acetic, propionic, isobutyric, isovaleric, and valeric acids, highlighting a distinct microbial and metabolic profile in these individuals. Conclusion This study uncovers significant alterations in gut microbiota and SCFA profiles in children with ADHD, compared to healthy controls. The observed changes in SCFAs, known for their associations with other behavioral and neurologic pathologies, and for their role in neural signaling. These findings offer a metabolite fingerprint that co…",
+      "authors": "Rafi Steckler, F. Magzal, M. Kokot et al.",
+      "published": "2024",
+      "venue": "Brain, Behavior, & Immunity - Health",
+      "feedName": "Lab Research",
+      "citationCount": 21,
+      "recentCitations": 0,
+      "quartile": null,
+      "s2_paper_id": "e6bf6bc6dc39538aed6d5e9f0a2aad62f0702494",
+      "url": "https://doi.org/10.1016/j.bbih.2024.100829",
+      "image": "",
+      "screen": "both",
+      "lab_paper": true,
+      "researcher": {
+        "name": "Rafi Steckler",
+        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=BOhLTM0AAAAJ"
       }
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-26T16:27:29Z",
+  "updated": "2026-10-26T22:11:58Z",
   "items": [
     {
       "title": "A holistic framework for enhancing the resilience of grassland-based farming systems to climate extremes",
@@ -82,6 +82,16 @@
       "screen": "left"
     },
     {
+      "title": "Interplay of printability, swallowing safety, and nutrient bioaccessibility in 3D-printed biopolymer hydrogels for texture-modified diets",
+      "abstract": "",
+      "authors": "Bernadette-E. Teleky, Gheorghe-A. Martău, Radu Tudor-Lucian et al.",
+      "published": "Jan 2027",
+      "feedName": "Trends in Food Sci & Tech",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426006564?dgcid=rss_sd_all",
+      "image": "",
+      "screen": "left"
+    },
+    {
       "title": "Water–ice dynamics driving multiscale structural deterioration in frozen dough: Mechanisms, characterization, and targeted regulation",
       "abstract": "",
       "authors": "Lulu Yin, Tingting Li, Waleed Al-Ansi et al.",
@@ -108,16 +118,6 @@
       "published": "Jan 2027",
       "feedName": "Trends in Food Sci & Tech",
       "url": "https://www.sciencedirect.com/science/article/pii/S0924224426006084?dgcid=rss_sd_all",
-      "image": "",
-      "screen": "left"
-    },
-    {
-      "title": "From interference sources to sensing core: Analytical functional mechanisms of tannic acid and advances in its applications in food safety testing",
-      "abstract": "",
-      "authors": "Feng Hong, Yuan Liu",
-      "published": "Jan 2027",
-      "feedName": "Trends in Food Sci & Tech",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426006539?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -362,6 +362,36 @@
       "screen": "left"
     },
     {
+      "title": "Silent bacterial genes yield potential leads for future cancer drugs",
+      "abstract": "Natural products produced by microorganisms are a promising source of new drugs. Researchers at the Helmholtz Center for Infection Research (HZI) and its Saarbrücken-based site, the Helmholtz Institute for Pharmaceutical Research Saarland (HIPS), have now discovered a new family of such compounds, elucidated their unusual biosynthesis and developed a way to produce them synthetically.",
+      "authors": "",
+      "published": "Oct 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-10-silent-bacterial-genes-yield-potential.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/from-hidden-natural-pr.jpg",
+      "screen": "right"
+    },
+    {
+      "title": "Hydrogen production from seawater: Low-cost catalyst could cut energy use and resist corrosion",
+      "abstract": "Using a range of advanced characterization techniques, researchers say they have developed a novel method with the potential to produce hydrogen from seawater using a process that requires less energy, resists corrosion and could support more economical hydrogen production.",
+      "authors": "",
+      "published": "Oct 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-10-hydrogen-production-seawater-catalyst-energy.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/scientists-report-low.jpg",
+      "screen": "right"
+    },
+    {
+      "title": "Interfacial intelligence: A new way to design polymer brushes",
+      "abstract": "Polymer brushes are dense layers of polymer chains that can be engineered to change how a surface interacts with its surroundings. By controlling interactions with water, ions, proteins and other materials, they can reduce friction, prevent unwanted materials from sticking, improve separation and support the functionality of sensors and other devices.",
+      "authors": "",
+      "published": "Oct 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-10-interfacial-intelligence-polymer.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/interfacial-intelligen.jpg",
+      "screen": "right"
+    },
+    {
       "title": "An 'electron waiting room' helps blue titanium dioxide hold light energy longer",
       "abstract": "To produce hydrogen using sunlight, the energy obtained from light must be retained until it can be used in a chemical reaction. However, if an electron that has gained energy from light quickly returns to its original position, it becomes difficult to make use of that energy.",
       "authors": "",
@@ -369,36 +399,6 @@
       "feedName": "Phys.org Analytics",
       "url": "https://phys.org/news/2026-10-electron-room-blue-titanium-dioxide.html",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/kaist-identifies-an-el.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "Ahead of their time: Restricted to pre-2018 research, AI flags hydrogen catalyst reported in later experiments",
-      "abstract": "Researchers have used artificial intelligence to identify promising catalysts using only the scientific knowledge that was available years before their actual discovery. Their findings could accelerate the search for more efficient hydrogen production and other valuable chemical processes.",
-      "authors": "",
-      "published": "Oct 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-10-restricted-pre-ai-flags-hydrogen.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/ahead-of-their-time.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "Tests reveal why titanium additions do not fully prevent pitting corrosion in stainless steel",
-      "abstract": "Stainless steel is widely used for its corrosion resistance, but it is not invincible. In environments containing chloride ions, such as seawater, pitting corrosion can occur. These pits often start at tiny particles called inclusions embedded in the steel.",
-      "authors": "",
-      "published": "Oct 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-10-reveal-titanium-additions-fully-pitting.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/where-does-pitting-cor.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "Scientists demonstrate AI-designed enzyme for drug synthesis",
-      "abstract": "The new RFD4-Proteina unified generative model for protein design—created by the Institute for Protein Design (IPD) in collaboration with NVIDIA—uses advanced AI to generate entirely new protein sequences and structures, achieving computational design success rates five to 10 times higher than previous models and generating candidates five to 10 times faster.",
-      "authors": "",
-      "published": "Oct 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-10-scientists-ai-enzyme-drug-synthesis.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/manchester-scientists-5.jpg",
       "screen": "right"
     },
     {
@@ -1049,7 +1049,7 @@
       "venue": "Food and Bioprocess Technology",
       "feedName": "Lab Research",
       "citationCount": 6,
-      "recentCitations": 0,
+      "recentCitations": 2,
       "quartile": "Q1",
       "s2_paper_id": "034d8c4f0c0f5607a4e6727360aa5d7287e60d5b",
       "url": "https://doi.org/10.1007/s11947-025-03873-y",

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T15:50:46Z",
+  "updated": "2026-10-27T20:22:28Z",
   "items": [
     {
       "title": "Food-based dietary guidelines as policy instruments for safeguarding traditional African food systems",
@@ -62,22 +62,22 @@
       "screen": "left"
     },
     {
-      "title": "A novel mass-deficit-based method for the rapid determination of diacylglycerols in edible oils",
+      "title": "Hierarchy-dependent mechanical reinforcement in gelatin–whey protein composite hydrogels and high internal phase emulsions",
       "abstract": "",
-      "authors": "Xinyuan Liang, Yonglin Li, Huijun Yang et al.",
+      "authors": "Liang Guo, Man Hu, Tao-yu Lu et al.",
       "published": "Dec 2026",
       "feedName": "Food Chemistry",
-      "url": "https://www.sciencedirect.com/science/article/pii/S030881462603904X?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626038422?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
     {
-      "title": "Cellulose nanofibers enhance the binding of pea protein amyloid fibrils with 2,5-dimethylpyrazine via regulating protein conformation and microstructure",
+      "title": "Contrasting grain-quality and starch structure–function responses of double-cropping rice to elevated CO 2 and warming",
       "abstract": "",
-      "authors": "Lu Lin, Lejun Hu, Xiuqing Wang et al.",
+      "authors": "Dongling Ji, Yunxia Han, Longlong Xia et al.",
       "published": "Dec 2026",
       "feedName": "Food Chemistry",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626039038?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626038598?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -362,6 +362,26 @@
       "screen": "left"
     },
     {
+      "title": "Reusable palladium catalyst enables more direct chemical synthesis",
+      "abstract": "Making complex molecules often means joining smaller chemical building blocks together, a process facilitated by catalysts, compounds that make such reactions possible or speed them up without being consumed themselves. Many widely used reactions also require chemists to modify their starting molecules before joining them. These added chemical \"handles\" make the molecules reactive, but preparing them means extra steps and, often, additional waste.",
+      "authors": "",
+      "published": "Oct 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-10-reusable-palladium-catalyst-enables-chemical.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/a-regenerable-catalyst.jpg",
+      "screen": "right"
+    },
+    {
+      "title": "Metal-free magnetic sensor can be safely implanted for wireless monitoring",
+      "abstract": "Researchers in the U.S. and China have created a biocompatible, metal-free magnet that can be safely implanted and generate signals from deep inside the body. Led by Wubin Bai at the University of North Carolina, the team revealed how magnetism can emerge from the rearrangement of atoms in heated carbon nitride, which strengthens the coupling between unpaired electrons.",
+      "authors": "",
+      "published": "Oct 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-10-metal-free-magnetic-sensor-safely.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/metal-free-magnetic-se.jpg",
+      "screen": "right"
+    },
+    {
       "title": "Anyone Can Dock: Molecular docking platform brings protein-binding predictions to smartphones, tablets and computers",
       "abstract": "A new platform, developed by researchers at the Center for Computational Sciences, University of Tsukuba, in collaboration with Mahidol University, makes molecular docking easier to access, understand, and integrate into experimental research. The work is published in the Journal of Cheminformatics.",
       "authors": "",
@@ -379,26 +399,6 @@
       "feedName": "Phys.org Analytics",
       "url": "https://phys.org/news/2026-10-silent-bacterial-genes-yield-potential.html",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/from-hidden-natural-pr.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "Hydrogen production from seawater: Low-cost catalyst could cut energy use and resist corrosion",
-      "abstract": "Using a range of advanced characterization techniques, researchers say they have developed a novel method with the potential to produce hydrogen from seawater using a process that requires less energy, resists corrosion and could support more economical hydrogen production.",
-      "authors": "",
-      "published": "Oct 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-10-hydrogen-production-seawater-catalyst-energy.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/scientists-report-low.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "Interfacial intelligence: A new way to design polymer brushes",
-      "abstract": "Polymer brushes are dense layers of polymer chains that can be engineered to change how a surface interacts with its surroundings. By controlling interactions with water, ions, proteins and other materials, they can reduce friction, prevent unwanted materials from sticking, improve separation and support the functionality of sensors and other devices.",
-      "authors": "",
-      "published": "Oct 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-10-interfacial-intelligence-polymer.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/interfacial-intelligen.jpg",
       "screen": "right"
     },
     {
@@ -482,12 +482,12 @@
       "screen": "right"
     },
     {
-      "title": "Effects of during-exercise oral hydration strategies on endurance performance and thermophysiological strain: a systematic review with meta-analysis",
-      "abstract": "BackgroundThe effects of during-exercise drinking may differ by strategy and outcome construct. Methods: Six databases were searched from database inception to 1 June 2026 for randomized trials in healthy adults completing at least 60 min of continuous endurance exercise. Two reviewers independently screened records, extracted data, and assessed risk of bias and certainty. Construct-specific random-effects meta-analyses used restricted maximum likelihood and modified Hartung–Knapp intervals.ResultsTwenty-four studies were retained (225 study-reported participants: 170 men, 20 women, 35 with sex unreported); 21 contributed to pairwise meta-analysis. Oral hydration versus no or minimal fluid showed no clear time-trial/fixed-duration benefit (−0.1%, 95% CI − 3.6 to 3.5%; four studies). The time-to-exhaustion estimate favored hydration (34.1%, 11.9–60.7%; three studies, 21 participants), but its prediction interval included no benefit (−21.4 to 128.8%). Core temperature (−0.38 °C, −0.74 to −0.02; nine studies) and heart rate (−6.82 beats/min, −11.16 to −2.48; 12 studies) favored hydration on average, with high heterogeneity and prediction intervals crossing the null. Programmed/individualized versus self-regulated drinking did not clearly improve performance (0.7%, −4.4 to 6.2%) but reduced measured body-mass loss (−1.47 percentage points, −1.96 to −0.99), an expected consequence of greater intake. Volume-matched sodium evidence was sparse; plasma-volume change was imprecise (1.78 percentage points, −5.24 to 8.81; two studies). All critical/important estimates were very low cer…",
-      "authors": "Xiaojie Zhang, Ling Wang, Ziyu Liu",
+      "title": "A latent profile analysis of father support breastfeeding self-efficacy in the early postpartum period: a cross-sectional study",
+      "abstract": "BackgroundPaternal support is a key determinant of breastfeeding success, with paternal breastfeeding support self-efficacy serving as the core cognitive foundation for fathers’ involvement in assisting their partners. However, existing research has focused on group-average levels, overlooking heterogeneity. This study used latent profile analysis (LPA) to identify subgroups of paternal breastfeeding support self-efficacy in the early postpartum period and to examine factors associated with profile membership.MethodsDuring September 2024 to February 2025, fathers of newborns were recruited by convenience sampling from a tertiary obstetrics and gynecology hospital in Shanghai. Measures included a general information questionnaire, a breastfeeding knowledge questionnaire, and the Father Support Breastfeeding Self-Efficacy Scale-Short Form (FBSES-SF). Latent profile models were estimated in Mplus 8.3, and factors associated with profile membership were examined using multivariable multinomial logistic regression via the three-step (R3STEP) procedure, which accounts for latent-class classification error.ResultsThe 306 fathers (mean age 31.69 ± 3.93 years) had a mean FBSES-SF total score of (53.03 ± 10.00). Three profiles emerged: low self-efficacy group (18.6%, n = 57), moderate self-efficacy group (64.7%, n = 198), and high self-efficacy group (16.7%, n = 51), which were largely parallel and best interpreted as severity gradations. Lower breastfeeding knowledge (OR = 0.90 per point, 95% CI 0.82–0.99) and perceiving breastfeeding as not important (OR = 9.44, 95% CI 1.65–53.91) …",
+      "authors": "Junying Li, Qing Wang, Nuannuan Pan et al.",
       "published": "Oct 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1968824",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1951173",
       "image": "",
       "screen": "right"
     },
@@ -502,24 +502,224 @@
       "screen": "right"
     },
     {
-      "title": "Effect of vitamin D supplementation on metabolic syndrome parameters in adults: a systematic review of randomized controlled trials exploring the role of baseline vitamin D status and supplementation dose",
-      "abstract": "IntroductionMetabolic syndrome (MetS) is a cluster of cardiometabolic abnormalities including central obesity, dysglycemia, hypertension, and dyslipidemia. Vitamin D deficiency is highly prevalent among adults with MetS and may contribute to insulin resistance, inflammation, and adverse lipid profiles. Although vitamin D supplementation has been reported to improve MetS parameters, limited information is available on whether these effects differ by baseline vitamin D status or supplementation dose, information essential for clinical decision-making.MethodsThis systematic review evaluated the effect of oral vitamin D supplementation on MetS components in adults and examined whether treatment effects appeared differ according to baseline vitamin D status and supplementation dose. A comprehensive search of PubMed/MEDLINE, Embase, Web of Science, and CENTRAL was conducted following PRISMA guidelines. Given the anticipated clinical and methodological heterogeneity across eligible trials, a narrative synthesis rather than meta-analysis was planned a priori. Risk of bias was assessed using the Cochrane Collaboration Risk of Bias Tool. Eligible RCTs included those evaluating oral vitamin D supplementation for at least 8 weeks in adults diagnosed with metabolic syndrome or presenting at least 3 of 5 MetS components. In addition, comparator groups included placebo or dietary-instruction-only controls. Outcomes of interest included waist circumference, triglycerides, HDL-cholesterol, blood pressure, fasting glucose, homeostatic model assessment of insulin resistance (HOMA-IR), glycate…",
-      "authors": "Hind Alzarooni, Falak Zeb, Dimitrios Papandreou",
+      "title": "Gut microbiome and aging-related disorders: mechanistic insights and emerging microbiome-targeted therapies for healthy aging",
+      "abstract": "BackgroundThe human gut harbors a diverse and dense microbial community that maintains metabolic, immune, and intestinal homeostasis through a symbiotic relationship with the host. Aging is a complex biological process that involves alterations in the gut microbiome, including decreased microbial diversity and a decline in beneficial microbiota that produce useful metabolites, which impair intestinal barrier function and enhance chronic low-grade inflammation (inflammaging).ScopeThis review explores current evidence on the interaction between aging and the gut microbiome, emphasizing its impact on age-associated diseases, such as frailty and sarcopenia, cardiovascular issues, type 2 diabetes, obesity, osteoporosis, and neurodegenerative conditions. It further delves into the distinct microbial profiles of centenarians and evaluates microbiome-targeted interventions, such as dietary approaches, probiotics, prebiotics, synbiotics, fecal microbiota transplants, caloric restriction, intermittent fasting, and pharmaceutical agents, by synthesizing evidence from both human and animal research to emphasize their potential in fostering healthy aging and increased longevity.Key findingsEvidence from human and preclinical studies suggests that alterations in the gut microbiome associated with aging facilitate immune dysregulation, metabolic dysfunction, and the progression of various chronic diseases. Whereas, centenarians possess distinctive microbial signatures rich in beneficial metabolites that could promote healthy aging and prolonged life. Additionally, microbiome-targeted inte…",
+      "authors": "Md Minarul Islam, Gabsik Yang, Ki Sung Kang",
       "published": "Oct 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1974621",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1839461",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "A latent profile analysis of father support breastfeeding self-efficacy in the early postpartum period: a cross-sectional study",
-      "abstract": "BackgroundPaternal support is a key determinant of breastfeeding success, with paternal breastfeeding support self-efficacy serving as the core cognitive foundation for fathers’ involvement in assisting their partners. However, existing research has focused on group-average levels, overlooking heterogeneity. This study used latent profile analysis (LPA) to identify subgroups of paternal breastfeeding support self-efficacy in the early postpartum period and to examine factors associated with profile membership.MethodsDuring September 2024 to February 2025, fathers of newborns were recruited by convenience sampling from a tertiary obstetrics and gynecology hospital in Shanghai. Measures included a general information questionnaire, a breastfeeding knowledge questionnaire, and the Father Support Breastfeeding Self-Efficacy Scale-Short Form (FBSES-SF). Latent profile models were estimated in Mplus 8.3, and factors associated with profile membership were examined using multivariable multinomial logistic regression via the three-step (R3STEP) procedure, which accounts for latent-class classification error.ResultsThe 306 fathers (mean age 31.69 ± 3.93 years) had a mean FBSES-SF total score of (53.03 ± 10.00). Three profiles emerged: low self-efficacy group (18.6%, n = 57), moderate self-efficacy group (64.7%, n = 198), and high self-efficacy group (16.7%, n = 51), which were largely parallel and best interpreted as severity gradations. Lower breastfeeding knowledge (OR = 0.90 per point, 95% CI 0.82–0.99) and perceiving breastfeeding as not important (OR = 9.44, 95% CI 1.65–53.91) …",
-      "authors": "Junying Li, Qing Wang, Nuannuan Pan et al.",
+      "title": "Comparative efficacy of time-restricted eating combined with different exercise modalities for improving body composition, metabolic health, and physical performance in adults: a systematic review and fat-mass network meta-analysis",
+      "abstract": "BackgroundTime-restricted eating (TRE) is commonly combined with exercise, but the relative effects of different exercise modalities remain uncertain.ObjectiveTo compare usual diet or control, TRE alone, exercise alone, TRE plus aerobic exercise, TRE plus resistance training, TRE plus high-intensity interval training (HIIT), and TRE plus mixed or concurrent training.MethodsPubMed/MEDLINE, Web of Science, Scopus, Embase, the Cochrane Library, and Google Scholar were searched from 2016 to 20 July 2026. Seventeen reports representing 15 unique randomised trials met the eligibility criteria after cohort linkage. Eight independent trials contributed compatible fat-mass contrasts to a random-effects pairwise meta-analysis and a seven-node frequentist network meta-analysis.ResultsTRE plus exercise reduced fat mass more than the same exercise without TRE [mean difference (MD) -1.85 kg, 95% confidence interval (CI) -2.34 to −1.35; I2 = 0%; τ2 = 0.00, and 95% prediction interval −2.46 to −1.23]. Network estimates versus usual diet or control were −3.32 kg for TRE plus concurrent training, −3.10 kg for TRE plus HIIT, −3.03 kg for TRE plus aerobic exercise, and −2.79 kg for TRE plus resistance training. Corresponding P-scores were 0.838, 0.757, 0.742, and 0.650. Confidence intervals for the active combined modalities overlapped. Residual network heterogeneity was not detected (Q = 3.29, df = 6, p = 0.772).ConclusionTRE adds a modest reduction in fat mass when combined with exercise. Concurrent training, HIIT, and aerobic exercise ranked highly for fat-mass reduction, while resistance t…",
+      "authors": "Hui Li, Cheng Lu, Gang Qin et al.",
       "published": "Oct 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1951173",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1966901",
       "image": "",
       "screen": "right"
+    },
+    {
+      "title": "Phosphorus in Balance: Evaluating the Costs and Benefits of a Circular Economy Approach",
+      "abstract": "This paper presents a comprehensive cost-benefit analysis of producing alternative phosphorus (P) fertilizers from recycled water treatment residuals (Fe-WTR) and cowshed effluents. The cost-benefit values of Fe-WTR are compared to the net costs of recycling P using a synthetic adsorbent (commonly used practice-layered double hydroxide, P-LDH) and the costs of commercial fertilizers. Dairy wastewater is used as a source of P. The cost of 1 ton P using the Fe-WTR process is €329. In contrast, synthetic adsorbents (P-LDH) incur significantly higher costs, amounting to €3329 per ton, underscoring the economic advantage of utilizing waste-derived materials. Adopting Fe-WTR fertilizer not only offers substantial cost savings by avoiding landfill fees (€40 per ton) and wastewater discharge fines (€500 per ton) but also reduces environmental impacts when compared to the use of commercial P fertilizers (non-recycled P). The Fe-WTR method mitigates eutrophication and pollution, presenting the dual benefit of cost-effectiveness and environmental protection, which exceeds the common P recycling practice (LDH). Our conclusions are based on production processes in Israel and compared to previous cost estimations at the world level, assessing the potential gain from such circular production of P globally. Recycling P from waste streams can be economically viable and environmentally preferable at small and large economic scales, supporting global sustainability goals.",
+      "authors": "H. E. Ganem, I. Zohar, M. Litaor et al.",
+      "published": "2024",
+      "venue": "Journal of Environmental Science Studies",
+      "feedName": "Lab Research",
+      "citationCount": 0,
+      "recentCitations": 0,
+      "quartile": null,
+      "s2_paper_id": "5a7645fb724f2527117a809194848a4b84de25da",
+      "url": "https://doi.org/10.20849/jess.v7i2.1469",
+      "image": "",
+      "screen": "both",
+      "lab_paper": true,
+      "researcher": {
+        "name": "Iris Zohar",
+        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=YVQd-pwAAAAJ"
+      }
+    },
+    {
+      "title": "The impact of alternative recycled and synthetic phosphorus sources on plant growth and responses, soil interactions and sustainable agriculture - lettuce (Lactuca sativa) as a case model.",
+      "abstract": "This research assesses the efficacy of two phosphorus (P) adsorbents as alternative fertilizers in promoting lettuce growth. A synthetic Mg/Al-layered double hydroxide (LDH) and an iron-based recycled water treatment residual (Fe-WTR), both enriched with P from dairy wastewater and added at three dosage levels. We hypothesized that the adsorbents' physicochemical nature will overshadow the biological efforts in the plant ecosystem to increase P solubility, impacting plant growth, nutritional composition, and metabolite profiles. Fe-WTR significantly enhanced lettuce biomass compared to LDH. Yet, elemental analysis revealed higher or equal P concentrations in the low-biomass LDH plants relative to other treatments. Phosphorus uptake appears to influence the assimilation of other nutrients that divided into two groups: calcium, magnesium, zinc, and copper with notable correlations to P and nitrogen, iron, aluminum, vanadium and manganese with low correlations to P. Conversely, P retained poor correlation with most metabolites whereas iron showed a higher correlation with numerous metabolites. Analysis of metabolites, encompassing carbohydrates, the Krebs cycle, amino acids, nucleic acids, and stress and regulatory pathways, revealed diminished levels in the LDH treatments. Overall, carbon assimilation (plant growth) was more effectively predicted by soil P availability (adsorbent type and dose) rather than by cellular P concentration, suggesting root signaling was at play, influencing carbohydrate translocation to the roots. Diminished levels of cellular sugars further affect…",
+      "authors": "I. Zohar, H. E. Ganem, D. DiSegni et al.",
+      "published": "2024",
+      "venue": "Science of the Total Environment",
+      "feedName": "Lab Research",
+      "citationCount": 8,
+      "recentCitations": 0,
+      "quartile": "Q1",
+      "s2_paper_id": "716a87e9602f04f6b3d7fe6c3b411a15d1beaf4a",
+      "url": "https://doi.org/10.1016/j.scitotenv.2024.174719",
+      "image": "",
+      "screen": "both",
+      "lab_paper": true,
+      "researcher": {
+        "name": "Iris Zohar",
+        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=YVQd-pwAAAAJ"
+      }
+    },
+    {
+      "title": "Biogeochemical impacts on soil phosphorus and other macro- and micro elements solubility, ratios and forms during heatwaves",
+      "abstract": "Increased frequency and amplitude of extreme heat events can affect soil temperature, and biogeochemical processes. High temperatures may have contradicting geochemical and biological effects on essential elements solubility and forms. Endothermic behavior of minerals and oxides results in decreased solubility with increased temperature, while bio-mineralization is stimulated in response to high temperature. To elucidate heatwave impacts on soil biogeochemical processes, we performed a controlled soil incubation experiment and a field survey. Wet and dry alluvial soil sets were incubated at background temperature (33°C) for two weeks and then, a sequence of three heat events was induced (41°C/33°C alternations, five days each) followed by two short events of extreme heat (48°C for two days). Most soil indices changed trends after about 25-30 days. At the first part of the period, P, Al, Fe appeared to reflect endothermic behavior of (hydr)oxides and minerals in the dry soil (i.e., sorbed P was likely dependent on Fe (hydr)oxides dissolution), while trends of Fe/Al in the wet soil followed the dissolved organic C trend. Phosphatases enzymatic activities fluctuated positively with temperature, emphasizing the activity of residual extracellular enzymes sorbed to soil particles (dry soil) in addition to living cells excreted enzymes (wet soil). With the 3 rd heatwave, soluble P dramatically fluctuated with temperature, suggesting a sequence of temperature-enhanced bio-mineralization, releasing P to the soil solution, counteracted by geochemical sorption, removing P from solutio…",
+      "authors": "I. Zohar, M. Khoury, Yael Kirshenbaum et al.",
+      "published": "2023",
+      "venue": "Goldschmidt2023 abstracts",
+      "feedName": "Lab Research",
+      "citationCount": 0,
+      "recentCitations": 0,
+      "quartile": null,
+      "s2_paper_id": "e71980935a3dcce1c2b9257fe6bd261b6cf61461",
+      "url": "https://doi.org/10.7185/gold2023.18565",
+      "image": "",
+      "screen": "both",
+      "lab_paper": true,
+      "researcher": {
+        "name": "Iris Zohar",
+        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=YVQd-pwAAAAJ"
+      }
+    },
+    {
+      "title": "Continuing Medical (Anatomy) Education Series: Organ Donation and Transplantation, a Means of Continuity of Functional and Independent Life and Living",
+      "abstract": "Diseases and disease processes are key components of life and living. The understanding and appreciation of this axiom will impact greatly on the quality and standard of human health and life. The human body is bedeviled by a myriad of diverse and large spectrum of pathologies. These vary from hereditary, infectious, inflammatory, metabolic, structural degradation, genetic alterations, neoplastic, toxicological injury, ageing and trauma. All these reduce the functionalities of the affected organ/ organ system. There are established first line management strategies for these pathologies, however more often than not, they may not suffice. At this stage, the replacement of such organ becomes the only option for optimal quality of life or continuity of life. This can only be achieved through tissue and organ donation and transplantation. Over the decades, steady advancements are being made in the medical field of human tissue and organ donation and transplantation. Thus it becomes pertinent for students of human medicine to be well and adequately educated on the issues that relate to the donations of human tissues and organs and their transplantation. Such issues covered in this article include global statistics on organ donation and transplantation; historical antecedents of organ donation and transplantation; sources of organ transplants; tissue transplants; set guidelines and standards by The World Health Organization, The European Parliamentary Research Services and The Federal Ministry of Health and Social Welfare Nigeria.",
+      "authors": "R. Ajani, Ogheneochuko E. Akpobome, O. Benjamin et al.",
+      "published": "2026",
+      "venue": "Asian Journal of Medicine and Health",
+      "feedName": "Lab Research",
+      "citationCount": 0,
+      "recentCitations": 0,
+      "quartile": null,
+      "s2_paper_id": "1bc5b0dbc004a22568a84204d4f85fc6770e5354",
+      "url": "https://doi.org/10.9734/ajmah/2026/v24i31361",
+      "image": "",
+      "screen": "both",
+      "lab_paper": true,
+      "researcher": {
+        "name": "Ofir Benjamin",
+        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=FsjV0oIAAAAJ"
+      }
+    },
+    {
+      "title": "Effect of Quinoa Protein Concentrate in Particulate and Fibrillar Forms on the Physico-Chemical Properties of Quinoa Starch Gels",
+      "abstract": "The current study investigates the interactions between quinoa protein—both in particulate (protein concentrate, QPC) and fibrillar (QPF) forms—and quinoa starch (QS) gels, and how these interactions influence the thermal, pasting, and rheological properties of the gels. Gels were made by adding three different concentrations of QPC or QPF to a 10% QS dispersion (10, 25, and 50% w/w of starch). DSC results suggested an enhancement of amylopectin thermal stability and an acceleration of retrogradation upon a cooling stage by the addition of quinoa protein. FTIR spectra indicated that QS and QPC/QPF mostly interacted through hydrogen bonds. According to rheological measurements, in contrast to the increased G′ due to the addition of QPC (50%), only a slight increase in G′ was observed due to the addition of QPF (50%). Notably, this study is the first to directly compare the effects of QPC and QPF on starch gel properties, revealing that QPC markedly enhances gel elasticity. These findings highlight the potential application of the optimized quinoa starch-protein-based gels as functional ingredients in plant-based meat analogues, where improved textural and nutritional attributes are critical.",
+      "authors": "Shir T Segev, Eden Eran-Nagar, G. Rytwo et al.",
+      "published": "2025",
+      "venue": "Food and Bioprocess Technology",
+      "feedName": "Lab Research",
+      "citationCount": 6,
+      "recentCitations": 2,
+      "quartile": "Q1",
+      "s2_paper_id": "034d8c4f0c0f5607a4e6727360aa5d7287e60d5b",
+      "url": "https://doi.org/10.1007/s11947-025-03873-y",
+      "image": "",
+      "screen": "both",
+      "lab_paper": true,
+      "researcher": {
+        "name": "Ofir Benjamin",
+        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=FsjV0oIAAAAJ"
+      }
+    },
+    {
+      "title": "Relationships Between Chemical Compounds and Sensory Properties of Virgin Olive Oil in the US and Israel: Development of a Prediction Model for Defects",
+      "abstract": "Virgin olive oil (VOO) quality is defined by both chemical and sensory parameters. While the chemical parameters are objective and measured using instrument-based methods, sensory quality evaluation is based upon human panels, which can be subjective, have less repeatability, suffer from fatigue, and require long and costly training. Tasting biases could be minimized by a trained panel, but using humans as a testing instrument is inevitably prone to various psychological biases, stimulus-related factors, and carry-over effects. The objectives of this study were to evaluate instrumental methodologies that will assist the existing human panel in assessing the sensory characteristics of VOO and to develop chemistry-based predicting models for sensory properties in the oil using VOO samples originating from the US and Israel. Our results indicated that oil rancidity highly correlated with the contents of chemical components contents; 1-penten-3-one, 3-hexen-1-ol, (E)-2-pentanal, and 1-octen-3-ol are the major volatiles associated with rancidity defects (low concentrations of these compounds). Positive sensory attributes, such as fruitiness, correlated with 1- acetoxypinoresinol and hexanal, while bitterness correlated with pinoresinol, the aldehydic form of oleuropein aglycones, and the dialdehydic form of oleuropein aglycone. The random forest model suggested that luteolin, (E)-2-hexenal, 1-penten-3-one, and C18:0 are the most useful measurements in predicting the occurrence of sensory defects in the olive oil samples included. In other words, when these compounds are below or…",
+      "authors": "M. Calatayud, Xueqi Li, Arnon Dag et al.",
+      "published": "2024",
+      "venue": "Journal of Agricultural and Food Chemistry",
+      "feedName": "Lab Research",
+      "citationCount": 4,
+      "recentCitations": 0,
+      "quartile": "Q1",
+      "s2_paper_id": "2daf7bffd81d6b4f740d63bf18644047b1466c1f",
+      "url": "https://doi.org/10.1021/acs.jafc.4c06012",
+      "image": "",
+      "screen": "both",
+      "lab_paper": true,
+      "researcher": {
+        "name": "Ofir Benjamin",
+        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=FsjV0oIAAAAJ"
+      }
+    },
+    {
+      "title": "Synergistic effects of biochar and poultry manure on soil and cucumber (Cucumis sativus) performance: A case study from the southeastern Nigeria",
+      "abstract": "This study explores the suitability of different biomass feedstocks for biochar production and their effects on soil health and crop yield. Two planting seasons were conducted, involving cucumber as the test crop and eleven treatments combining biochar and poultry manure. Soil analysis revealed initial soil conditions with high sand content and low pH. Poultry manure and biochar exhibited pH, organic carbon, and nutrient level variations. Significant differences in cucumber growth and yield were observed, with the longest vine length in plots treated with palm kernel husk biochar and poultry manure. Residual effects in the second planting season displayed similar trends. Soil pH, organic carbon, and total nitrogen remained consistent between seasons, while available phosphorus increased significantly in plots amended with goat manure biochar and poultry manure. Calcium, magnesium, potassium, and sodium contents also varied. Fruit length, weight, and yield were significantly improved by biochar treatments, with the combination of palm kernel husk biochar and poultry manure yielding the highest fruit weight. Correlation and structural equation analyses (p < 0.05) highlighted the relationships between plant characteristics, soil properties, and fruit indices, emphasizing the importance of nitrogen and phosphorus in supporting fruit development. The study suggests that biochar application enhances soil nutrients, crop growth, and fruit yields while reducing reliance on chemical fertilizers. It recommends considering biochar for land reclamation and as an alternative to traditio…",
+      "authors": "E. O. Ayito, K. John, O. Benjamin et al.",
+      "published": "2024",
+      "venue": "Soil Science Annual",
+      "feedName": "Lab Research",
+      "citationCount": 9,
+      "recentCitations": 0,
+      "quartile": null,
+      "s2_paper_id": "8aa653c59706d0f1e9269886f0967e540b52e7f0",
+      "url": "https://doi.org/10.37501/soilsa/183903",
+      "image": "",
+      "screen": "both",
+      "lab_paper": true,
+      "researcher": {
+        "name": "Ofir Benjamin",
+        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=FsjV0oIAAAAJ"
+      }
+    },
+    {
+      "title": "Renal protective effects of natural honey on animal model of hypertension",
+      "abstract": "Hypertension, also known as high blood pressure, is a leading cause of cardiovascular disease and premature death worldwide. Numerous investigations have established that hypertension can cause alterations in the cardiovascular system as well as renal structure and function. Fresh honey is consumed worldwide and is claimed to be highly medicinal and has therapeutic effects against a wide range of medical conditions. We investigated the renal protective effect of natural honey in in animal model of hypertension. Forty (40) male albino rats, with average weight (120 ±10 g) were administered with high salt diet, HSD (80 g NaCl + 1 kg of diet and 1% NaCl in drinking water (10 g of NaCl + 1 L distilled water) for 10 weeks to induce hypertension in the rats. Following confirmation, hypertensive male rats were randomly selected for the experiment. Twenty (20) albino rats (15 hypertensive rats and 5 normotensive rats) were divided into 4 groups, Groups A-D. Group A: (Normotensive Control) no administration was given; Groups B-D (hypertensive rats) received the following treatments. Group B was treated with natural honey (15 ml/kg), Group C treated with hydrochlorothiazide (0.15 mg/kg), daily for 21 days; while Group D received no treatment, until the end of the 21 days administrations. Blood samples were taken in the end, and renal alterations were assessed via biochemical and histopathological analyses. Results showed that salt-induced hypertension caused a marked elevation of the renal biochemical parameters. The histopathological results agree with the biochemical findings. Howe…",
+      "authors": "Onwudiwe Saviour Nwachukwu, O. Benjamin, Nwankwo Emeka Christian et al.",
+      "published": "2023",
+      "venue": "Open Access Research Journal of Life Sciences",
+      "feedName": "Lab Research",
+      "citationCount": 0,
+      "recentCitations": 0,
+      "quartile": null,
+      "s2_paper_id": "3072198eabc4a0ba4b878787e54a629a0d5959af",
+      "url": "https://doi.org/10.53022/oarjls.2023.6.2.0068",
+      "image": "",
+      "screen": "both",
+      "lab_paper": true,
+      "researcher": {
+        "name": "Ofir Benjamin",
+        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=FsjV0oIAAAAJ"
+      }
+    },
+    {
+      "title": "Quality and Flavor of ‘Aliza’ Fruit: A Unique Pomelo × Mandarin Hybrid",
+      "abstract": "‘Aliza’ is a new pomelo × mandarin hybrid (Citrus maxima, cv. Red Chandler × Citrus reticulata, cv. Ora) developed by the Israeli citrus breeding program at the Volcani Institute. Here, we aimed to characterize the quality and flavor of ‘Aliza’ fruit as compared to other commercial citrus fruit, specifically pomelo (C. maxima), grapefruit (Citrus paradisi), orange (Citrus sinensis) and mandarin (C. reticulata). ‘Aliza’ fruits have a similar size as grapefruits, but have a thinner peel and a unique yellowish/golden color. ‘Aliza’ fruits are completely seedless and have especially high juice contents. They also have a unique, highly preferred flavor, characterized by high sweetness and moderate bitterness and acidity, with strong citrusy and tropical fruity aromas. Sensory analyses conducted with the aid of a trained panel and an electronic tongue revealed that the flavor of ‘Aliza’ fruits is different from the flavors of other citrus species. Consumer acceptance and preference tests revealed that ‘Aliza’ fruit are highly appreciated and favored. The aroma volatile profile of ‘Aliza’ fruit was somewhat similar to those of pomelo and grapefruit, but very different from those of orange and mandarin. Overall, ‘Aliza’ fruits can be distinguished from other citrus fruits by their unique color, high juice content and exceptional, unique flavor.",
+      "authors": "Hagar Pardo, A. Owoyemi, L. Goldenberg et al.",
+      "published": "2023",
+      "venue": "Horticulturae",
+      "feedName": "Lab Research",
+      "citationCount": 4,
+      "recentCitations": 0,
+      "quartile": null,
+      "s2_paper_id": "8fc9e49f80c03192aa54947839aa56e8d90f9d36",
+      "url": "https://doi.org/10.3390/horticulturae9040420",
+      "image": "",
+      "screen": "both",
+      "lab_paper": true,
+      "researcher": {
+        "name": "Ofir Benjamin",
+        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=FsjV0oIAAAAJ"
+      }
+    },
+    {
+      "title": "Flavor release and stability comparison between nano and conventional emulsion as influenced by saliva",
+      "abstract": "Flavour release and emulsion stability depend on volatile organic compounds' environmental conditions, food microstructure, and physicochemical properties. The effect of pH (3.5 vs 7.0) and saliva addition on stability and flavour release from nano and conventional emulsions was investigated using particle size, charge and Lumisizer measurments. Larger particle sizes were observed at lower pressures and in saliva-containing emulsions. At 1700 bar, nano-emulsions (below 150 nm) were created at pH 3.5 and 7.0 including saliva-containing emulsions. As was clear from the creaming velocity measurements, saliva addition decreased the emulsion stability by reducing particle charges and increased viscosity by more than 50%, especially when prepared at pH 3.5 closer to the isoelectric point of the used emulsifier β-lactoglobulin (pH 5.2). (5.2). Flavour release from emulsions was measured at equilibrium using a phase ratio variation to determine partition coefficients and dynamically using an electronic nose. Partition coefficients of the flavour compounds for most conditions were two to four times lower in emulsions prepared at pH 7.0 than at pH 3.5 and in emulsions without saliva. Emulsions prepared with higher pressures showed stronger flavor release rates, while additional salvia dropped the release rate for ethyl acetate at pH 3.5. The physicochemical properties of flavour compounds, saliva addition and pH of emulsions influenced flavour release more than homogenization pressures. The potential in using nano-emulsions in food applications an be attributed higher stability and e…",
+      "authors": "O. Sanni, C. Lakemond, O. Benjamin",
+      "published": "2022",
+      "venue": "Journal of food science and technology",
+      "feedName": "Lab Research",
+      "citationCount": 10,
+      "recentCitations": 1,
+      "quartile": "Q1",
+      "s2_paper_id": "435cee3aeeb4f44de0a7eef6197bce01a348c990",
+      "url": "https://doi.org/10.1007/s13197-022-05534-w",
+      "image": "",
+      "screen": "both",
+      "lab_paper": true,
+      "researcher": {
+        "name": "Ofir Benjamin",
+        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=FsjV0oIAAAAJ"
+      }
     },
     {
       "title": "Phosphorus in Balance: Evaluating the Costs and Benefits of a Circular Economy Approach",
@@ -569,7 +769,7 @@
       "venue": "Toxins",
       "feedName": "Lab Research",
       "citationCount": 20,
-      "recentCitations": 0,
+      "recentCitations": 1,
       "quartile": null,
       "s2_paper_id": "e6a6854e55ee8f5a8ace3025ba0d32e33a650343",
       "url": "https://doi.org/10.3390/toxins16030163",
@@ -629,7 +829,7 @@
       "venue": "ACS Applied Materials and Interfaces",
       "feedName": "Lab Research",
       "citationCount": 1,
-      "recentCitations": 0,
+      "recentCitations": 1,
       "quartile": "Q1",
       "s2_paper_id": "daeea6fa97917f764c7ad91e09d41dbb9652690e",
       "url": "https://doi.org/10.1021/acsami.6c07915",

@@ -1,6 +1,16 @@
 {
-  "updated": "2026-10-26T22:11:58Z",
+  "updated": "2026-10-27T03:01:58Z",
   "items": [
+    {
+      "title": "Food-based dietary guidelines as policy instruments for safeguarding traditional African food systems",
+      "abstract": "Debates about healthy and sustainable diets often overlook the diversity of African food systems. African food-based dietary guidelines can help to bring locally valued foods, dietary practices and ecological realities into nutrition policy. Used alongside agricultural and social policies, they can support dietary diversity, sustain beneficial food traditions and guide food system change without assuming that every traditional practice is sustainable or accessible.",
+      "authors": "Taddese Alemu Zerfu, Amare Abera Tareke, Dawit Alemayehu Chekol",
+      "published": "Oct 2026",
+      "feedName": "Nature Food",
+      "url": "https://www.nature.com/articles/s43016-026-01453-7",
+      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs43016-026-01453-7/MediaObjects/43016_2026_1453_Fig1_HTML.png",
+      "screen": "left"
+    },
     {
       "title": "A holistic framework for enhancing the resilience of grassland-based farming systems to climate extremes",
       "abstract": "Grassland-based farming systems face increasing climate challenges. This Perspective presents a holistic framework to assess resilience, identifying trade-offs and synergies among natural, social and formal insurance strategies to enhance adaptability.",
@@ -29,16 +39,6 @@
       "feedName": "Nature Food",
       "url": "https://www.nature.com/articles/s43016-026-01455-5",
       "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs43016-026-01455-5/MediaObjects/43016_2026_1455_Fig1_HTML.png",
-      "screen": "left"
-    },
-    {
-      "title": "Conflict with industrial fleets undermines the contributions of small-scale fisheries to sustainable development in vulnerable regions",
-      "abstract": "Small-scale fisheries are vulnerable to conflict with industrial fishing. The small-scale and industrial fisheries interaction index reveals regions with weak governance and emphasizes the need for enhanced access rights and management strategies.",
-      "authors": "Melissa R. Cronin, Elena Finkbeiner, John Virdin et al.",
-      "published": "Oct 2026",
-      "feedName": "Nature Food",
-      "url": "https://www.nature.com/articles/s43016-026-01431-z",
-      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs43016-026-01431-z/MediaObjects/43016_2026_1431_Fig1_HTML.png",
       "screen": "left"
     },
     {
@@ -492,32 +492,32 @@
       "screen": "right"
     },
     {
-      "title": "IoT-enabled multimodal large language model-based framework for compositional food recognition, nutrient profiling, NOVA classification, and cancer risk mitigation",
-      "abstract": "BackgroundAutomated dietary assessment increasingly struggles to evaluate industrial food processing levels, revealing a systemic gap between the visual presentation of meals and their underlying ultra-processed food composition. Although existing dietary monitoring tools can effectively track caloric and macronutrient intake, they lack the qualitative processing assessments required to identify hidden additives and map dietary risk triage quadrants.MethodsThis study introduces a modular, IoT-enabled multimodal dietary decision-support framework that decouples visual food recognition, standardized database retrieval, and qualitative language reasoning for automated NOVA processing classification and 2D decision matrix mapping. Operating on isolated single-dish meal instances, the system employs a four-phase cascaded pipeline that integrates vision-language models, database retrieval, and large language models (LLMs) with strict JSON schema enforcement. The platform was evaluated using the Nutrition-NOVA validation benchmark, a harmonized multimodal dataset constructed through dense vector-space semantic linkage between quantitative profiles from the Center for Food Safety database and qualitative NOVA tiers from Open Food Facts. This benchmark addresses a 75.0% metadata sparsity deficit identified in legacy repositories.ResultsIn experimental evaluations on the Nutrition-NOVA benchmark, the baseline Qwen-VL-Max architecture achieved an adjacent accuracy of 77.7%. Furthermore, enforcing schema modularity enabled complete plug-and-play backend replaceability between commercia…",
-      "authors": "Zebang He, Steve W. Y. Mung, Peggy Pui Lai Or et al.",
+      "title": "Nutrition security in Malawi: navigating climate shocks, food insecurity, and malnutrition in the 2025 landscape—narrative review",
+      "abstract": "BackgroundMalawi’s nutrition security is undermined by reliance on smallholder rain-fed agriculture, recurrent climate shocks, poverty, gender inequities, weak infrastructure, and fragmented governance. Recent estimates indicate that approximately 37% of children under 5 years of age experience stunting, while projections for the 2025/2026 lean season suggest that up to 4 million people may face acute food insecurity.MethodsThis narrative review synthesized evidence from peer-reviewed literature and relevant institutional reports to examine the relationship between climate shocks, food insecurity, and nutrition outcomes in Malawi. Literature published from 2000 onwards was considered, with particular attention to evidence from January 2023 to November 2025 relevant to the country’s 2025 nutrition security landscape.FindingsClimate shocks were associated with approximately 20% maize production losses, increased food prices, and reduced dietary diversity. Available projections suggest that under adverse climatic and socioeconomic scenarios, stunting and wasting could increase to approximately 38–40 and 12%, respectively, by 2027, particularly among vulnerable groups. Climate-smart agriculture, biofortification, and cash transfers show potential but remain constrained by limited funding and coordination challenges.ConclusionStrengthening nutrition security in Malawi requires integrated approaches linking climate adaptation, resilient food systems, nutrition interventions, and multisectoral coordination. Long-term progress will depend on sustained investment, improved implement…",
+      "authors": "Julius Niyibizi, George Chikondi Samu, Alieu Sam et al.",
       "published": "Oct 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1970182",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.2004735",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "A cross-sectional study on the associations between sugar- sweetened beverage consumption, a body shape index, and psychological symptoms among rural Chinese youth",
-      "abstract": "BackgroundThe rising prevalence of psychological symptoms among adolescents has become a serious public health concern worldwide. Nevertheless, previous studies have largely focused on urban or general populations, leaving a notable gap in research on rural adolescents – particularly regarding the associations between sugar-sweetened beverage (SSB) consumption, a body shape index (ABSI, a measure of body composition), and psychological symptoms. This study aims to fill that gap by providing empirical evidence from rural China, thereby offering a locally grounded reference for developing early intervention and targeted prevention strategies.MethodsIn this study, a stratified cluster sampling design was adopted to carry out a cross-sectional evaluation of SSB consumption, ABSI, and psychological symptoms among 52,735 rural adolescents aged 12–18 years, of whom 26,043 were boys. To examine the associations between these variables, we applied a range of statistical tests, including t-tests, Chi-square tests, one-way ANOVA, binary logistic regression, and binary logistic regression embedded within generalized linear models.ResultsThe overall prevalence of psychological symptoms among rural Chinese adolescents was 21.8%, with a significantly higher rate in males (22.5%) than in females (21.2%; χ2 = 13.126, P < 0.001). Weekly SSB consumption exceeding five times was reported by 14.5% of the participants, and the mean ABSI score was 0.06 ± 0.01. After adjustment for relevant covariates, adolescents who consumed SSB > 5 times/week and fell within the 51st–75th percentile range of AB…",
-      "authors": "Chao Gong Zeng, Chengjun Chai, JiaLi Xu et al.",
+      "title": "A novel nutritional index is associated with adverse outcomes in patients with acute heart failure: insights beyond traditional risk markers",
+      "abstract": "BackgroundNutritional status is closely associated with clinical outcomes in patients with acute heart failure (AHF). However, the value of simple and comprehensive nutritional indicators in this population remains unclear. This study aimed to investigate the association between the triglyceride–total cholesterol–body weight index (TCBI) and adverse outcomes in patients with AHF.MethodsThis single-center retrospective cohort study consecutively included patients with AHF admitted between April 2022 and April 2024. TCBI and conventional nutritional indices, including prognostic nutritional index (PNI), geriatric nutritional risk index (GNRI), and controlling nutritional status (CONUT), were calculated at admission. The primary outcome was a composite endpoint of heart failure rehospitalization or all-cause mortality within 1 year after discharge. Cox regression, restricted cubic spline analysis, threshold effect analysis, ROC analysis, subgroup analyses, and incremental model analyses were performed.ResultsAmong 1,898 patients with AHF, 557 experienced composite events during follow-up. After multivariable adjustment, higher TCBI was independently associated with a lower risk of the composite outcome (HR = 0.70, 95% CI: 0.60–0.81, p < 0.001). TCBI showed the highest discriminatory ability among nutritional indicators (AUC = 0.627). Restricted cubic spline and threshold effect analyses demonstrated a nonlinear association between TCBI and adverse outcomes. After adjustment for traditional cardiovascular risk factors and NT-proBNP, TCBI remained independently associated with o…",
+      "authors": "Yue Cao, Bolan Zhang, Yi Wang et al.",
       "published": "Oct 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1913391",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1962962",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "The immunomodulatory role of postbiotics and parabiotics: a narrative review of next-generation probiotics",
-      "abstract": "BackgroundTraditional live probiotics present profound translational challenges, including manufacturing instability and systemic safety risks in immunocompromised patients. To overcome these constraints, non-viable alternatives—namely postbiotics and parabiotics—have emerged as promising biologically active components within the framework of next-generation probiotics (NGPs).ObjectiveThis study reviews current clinical and preclinical evidence regarding the molecular mechanisms and therapeutic efficacy of postbiotics and parabiotics in modulating the host’s innate and adaptive immune responses.MethodsPubMed, Web of Science, Scopus, and the Cochrane Library were systematically searched for eligible human and animal studies published up to May 2026 in accordance with the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines. Following rigorous screening and selection, a total of 11 studies that met the inclusion criteria were evaluated to assess the immunological outcomes associated with inanimate microbial fractions and metabolic byproducts.ResultsFindings indicate that parabiotic molecular pathways primarily rely on interactions between microbe-associated molecular patterns (MAMPs) derived from the cell wall and host pattern recognition receptors (PRRs), specifically Toll-like receptor 2 (TLR-2) and nucleotide-binding oligomerization domain-like receptors 1 and 2 (NOD1/NOD2). Concurrently, postbiotics (short-chain fatty acids, exopolysaccharides, and extracellular vesicles) downregulate pro-inflammatory cascades through nuclear factor-κB (N…",
-      "authors": "Ülkü Demirci",
+      "title": "Correction: Effects of time-restricted eating on body composition and performance in athletes: a systematic review and meta-analysis",
+      "abstract": "",
+      "authors": "Ruting Lin, Yubo Wang, Zhenyu Shuai et al.",
       "published": "Oct 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1966683",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.2010386",
       "image": "",
       "screen": "right"
     },

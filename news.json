@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28T00:56:34Z",
+  "updated": "2026-10-28T07:50:39Z",
   "items": [
     {
       "title": "Food-based dietary guidelines as policy instruments for safeguarding traditional African food systems",
@@ -442,6 +442,16 @@
       "screen": "right"
     },
     {
+      "title": "A simple daily fiber supplement reduced arthritis pain and improved strength",
+      "abstract": "A new clinical trial suggests that a simple daily fiber supplement could significantly reduce knee osteoarthritis pain, improve muscle strength, and make the body less sensitive to pain. Researchers discovered that the benefits may be linked to changes in gut bacteria and the hormone GLP-1, revealing a promising new approach to arthritis relief.",
+      "authors": "",
+      "published": "Oct 2026",
+      "feedName": "ScienceDaily Nutrition",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261027230715.htm",
+      "image": "https://www.sciencedaily.com/images/1920/knee-joint-pain-woman.webp",
+      "screen": "right"
+    },
+    {
       "title": "Low testosterone may make sugar far more harmful to your liver",
       "abstract": "Scientists have discovered that low testosterone and a high-fructose diet can work together to worsen fatty liver disease in mice. Unexpectedly, changes in gut bacteria appear to drive this harmful interaction, revealing a potential new target for preventing liver damage.",
       "authors": "",
@@ -472,52 +482,42 @@
       "screen": "right"
     },
     {
-      "title": "Mediterranean diet may boost tiny proteins that protect the heart and brain",
-      "abstract": "Scientists have uncovered a surprising new clue to why the Mediterranean diet is so good for the heart, brain, and healthy aging. Researchers at USC found that older adults who closely followed the diet had higher levels of two tiny proteins, humanin and SHMOOSE, produced by the mitochondria, the energy-producing structures inside cells. These proteins have been linked to protection against heart disease, Alzheimer's disease, and age-related damage.",
-      "authors": "",
-      "published": "Oct 2026",
-      "feedName": "ScienceDaily Nutrition",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261023003337.htm",
-      "image": "https://www.sciencedaily.com/images/1920/grilled-salmon-vegetable-salad-close.webp",
-      "screen": "right"
-    },
-    {
-      "title": "A latent profile analysis of father support breastfeeding self-efficacy in the early postpartum period: a cross-sectional study",
-      "abstract": "BackgroundPaternal support is a key determinant of breastfeeding success, with paternal breastfeeding support self-efficacy serving as the core cognitive foundation for fathers’ involvement in assisting their partners. However, existing research has focused on group-average levels, overlooking heterogeneity. This study used latent profile analysis (LPA) to identify subgroups of paternal breastfeeding support self-efficacy in the early postpartum period and to examine factors associated with profile membership.MethodsDuring September 2024 to February 2025, fathers of newborns were recruited by convenience sampling from a tertiary obstetrics and gynecology hospital in Shanghai. Measures included a general information questionnaire, a breastfeeding knowledge questionnaire, and the Father Support Breastfeeding Self-Efficacy Scale-Short Form (FBSES-SF). Latent profile models were estimated in Mplus 8.3, and factors associated with profile membership were examined using multivariable multinomial logistic regression via the three-step (R3STEP) procedure, which accounts for latent-class classification error.ResultsThe 306 fathers (mean age 31.69 ± 3.93 years) had a mean FBSES-SF total score of (53.03 ± 10.00). Three profiles emerged: low self-efficacy group (18.6%, n = 57), moderate self-efficacy group (64.7%, n = 198), and high self-efficacy group (16.7%, n = 51), which were largely parallel and best interpreted as severity gradations. Lower breastfeeding knowledge (OR = 0.90 per point, 95% CI 0.82–0.99) and perceiving breastfeeding as not important (OR = 9.44, 95% CI 1.65–53.91) …",
-      "authors": "Junying Li, Qing Wang, Nuannuan Pan et al.",
+      "title": "Kanzan cherry blossom and its active compounds attenuate methylglyoxal-induced skin fibroblast senescence through RAGE/NF-κB suppression and ECM restoration",
+      "abstract": "IntroductionThe accumulation of advanced glycation end products (AGEs) is a key driver of skin aging, accelerating the process through oxidative stress, inflammation, and disruption of extracellular matrix (ECM) homeostasis. Cerasus serrulata 'Sekiyama' Kanzan cherry blossom (KCB) is rich in bioactive compounds with antioxidant and anti-glycation potential. However, its compositional variations across flowering stages and their functional relevance remain unclear.MethodsThis study systematically characterized the chemical profile of KCB using UPLC-QTOF-MS and monitored six major active components across four flowering stages using UPLC-MS/MS. The anti-glycation, antioxidant, tyrosinase, and collagenase activities of the identified compounds were evaluated in vitro. The protective effects of KCB extract (KCBE) and major active compounds were further investigated in a methylglyoxal (MGO)-induced human skin fibroblast senescence model.ResultsThirteen compounds were identified, including one organic acid, five flavonoid glycosides, and seven phenolic acids. The half-bloom stage (KCB3) contained the highest levels of the six quantified compounds. 1-O-caffeoyl glucoside (CG) was the predominant phenolic acid (8.025 ± 0.203%), while quercetin 3-O-6′′-O-malonyl-β-glucopyranoside (QMG) was the major flavonoid (1.155 ± 0.035%). QMG showed strong anti-glycation activity (IC50 = 0.41 ± 0.01 mM), whereas CG exhibited strong tyrosinase (IC50 = 0.19 ± 0.03 mM) and collagenase inhibition (IC50 = 2.51 ± 0.90 mM). KCBE, QMG, and CG significantly alleviated MGO-induced cellular senescence, re…",
+      "authors": "Limin Ouyang, Huiji Zhou, Binrui Yang et al.",
       "published": "Oct 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1951173",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1927058",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "A hepatocyte targeted corn peptide—galactooligosaccharide nanoparticle for the alleviation of ethanol-induced damage in cells",
-      "abstract": "Alcoholic liver disease is defined as damage of liver structure and function caused by prolonged heavy alcohol consumption, and novel preventive and treatment options are needed. Corn peptide (CP), which is produced through enzymatic hydrolysis of corn protein, is a bioactive polypeptide that has been used for hangover relief and liver support. To alleviate alcohol-induced damage to liver cells, we designed hepatocyte-targeted nanoparticles consisting of CPs attached via the Maillard reaction to galactooligosaccharides (GOS). The resulting CPs-GOS measured 73.19 nm in diameter, presented a uniform spherical morphology, and exhibited e storage stability, free radical scavenging ability, and biocompatibility. Importantly, the high stability and the efficient accumulation of CPs-GOS in LO2 cells can be attributed to the galactosyl component of the GOS. In cultured hepatocytes, treatment with CP-GOS increased ethanol-induced cell viability from 48.87 to 75.18%, and reduced oxidative stress. Our study demonstrated great potential for the CPs-GOS nanoparticle system as an intervention for alcoholic liver disease.",
-      "authors": "Mingyi Zhou, Xiying Jiang, Chen Li et al.",
+      "title": "Association of the admission albumin-hemoglobin index with postoperative outcomes in older adults with hip fracture: a post-hoc analysis of a prospective study",
+      "abstract": "BackgroundOlder adults with hip fracture are at high risk of postoperative mortality and impaired health-related quality of life. The albumin–hemoglobin index (AHI) combines nutritional and anemia-related information, but its prognostic value remains unclear. We evaluated the associations of admission AHI with 3-year all-cause mortality and postoperative health-related quality of life.MethodsPatients aged ≥65 years who underwent hip fracture surgery between November 2018 and November 2019 were prospectively enrolled. AHI was calculated from admission serum albumin and hemoglobin levels and analyzed continuously, by quartiles, and using an exploratory cutoff. The primary outcome was 3-year all-cause mortality; the secondary outcome was longitudinal change in EQ-5D utility. Kaplan–Meier analysis, Cox models, restricted cubic splines, linear mixed-effects models, and LASSO Cox regression were used.ResultsAmong 1,092 patients screened, 947 were included. Lower AHI was associated with older age, lower body mass index, poorer prefracture mobility, and worse overall health status. Three-year survival differed significantly across quartiles, with the lowest survival in Q1 and the highest in Q4. Each 1,000-unit increase in AHI was associated with a 43% lower mortality risk (adjusted hazard ratio [HR], 0.57; 95% confidence interval [CI], 0.47–0.70; P < 0.001). Compared with Q1, the adjusted HRs for Q2, Q3, and Q4 were 0.69 (95% CI, 0.48–0.98), 0.45 (95% CI, 0.28–0.70), and 0.28 (95% CI, 0.16–0.49), respectively. Patients with AHI >4673 had lower mortality than those with AHI ≤ 4673 (…",
+      "authors": "Hairui Liang, Kangzu Peng, Bingyu Li et al.",
       "published": "Oct 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1987391",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1948773",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Gut microbiome and aging-related disorders: mechanistic insights and emerging microbiome-targeted therapies for healthy aging",
-      "abstract": "BackgroundThe human gut harbors a diverse and dense microbial community that maintains metabolic, immune, and intestinal homeostasis through a symbiotic relationship with the host. Aging is a complex biological process that involves alterations in the gut microbiome, including decreased microbial diversity and a decline in beneficial microbiota that produce useful metabolites, which impair intestinal barrier function and enhance chronic low-grade inflammation (inflammaging).ScopeThis review explores current evidence on the interaction between aging and the gut microbiome, emphasizing its impact on age-associated diseases, such as frailty and sarcopenia, cardiovascular issues, type 2 diabetes, obesity, osteoporosis, and neurodegenerative conditions. It further delves into the distinct microbial profiles of centenarians and evaluates microbiome-targeted interventions, such as dietary approaches, probiotics, prebiotics, synbiotics, fecal microbiota transplants, caloric restriction, intermittent fasting, and pharmaceutical agents, by synthesizing evidence from both human and animal research to emphasize their potential in fostering healthy aging and increased longevity.Key findingsEvidence from human and preclinical studies suggests that alterations in the gut microbiome associated with aging facilitate immune dysregulation, metabolic dysfunction, and the progression of various chronic diseases. Whereas, centenarians possess distinctive microbial signatures rich in beneficial metabolites that could promote healthy aging and prolonged life. Additionally, microbiome-targeted inte…",
-      "authors": "Md Minarul Islam, Gabsik Yang, Ki Sung Kang",
+      "title": "Association between preoperative nutritional status and anastomotic leakage in patients undergoing rectal cancer surgery",
+      "abstract": "BackgroundAnastomotic leakage is a clinically important complication after rectal cancer surgery, and preoperative nutritional and inflammatory status may be associated with anastomotic healing. This study aimed to evaluate the association between preoperative nutritional status, particularly the prognostic nutritional index (PNI), and postoperative anastomotic leakage in patients undergoing rectal cancer surgery.MethodsThis retrospective study included consecutive eligible patients who underwent rectal cancer surgery between January 2023 and December 2025. Anastomotic leakage within 30 days was identified according to International Study Group of Rectal Cancer criteria. Preoperative nutritional status was primarily assessed using PNI, with Nutritional Risk Screening 2002 (NRS-2002), serum nutritional markers, and C-reactive protein (CRP) evaluated as complementary measures. Propensity score matching (PSM), multivariable logistic regression, unmatched-cohort analysis, sequential adjustment, subgroup analyses, and receiver operating characteristic analysis were performed.ResultsAmong 2,468 patients, 308 developed anastomotic leakage. After 1:1 PSM, 308 patients with leakage and 308 without leakage were analyzed. Mean PNI was lower in patients with leakage (43.2 ± 5.1 vs. 46.8 ± 4.9; p < 0.001). Each 1-point increase in PNI was associated with lower adjusted odds of leakage (odds ratio [OR], 0.898; 95% confidence interval [CI], 0.861–0.936; p < 0.001), with a similar estimate in the unmatched cohort (OR, 0.904; 95% CI, 0.882–0.927). NRS-2002 ≥ 3 was associated with higher odd…",
+      "authors": "Yan-Jun Lu, Ling-Hong Guo, Peng-Cheng Wang",
       "published": "Oct 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1839461",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1932994",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Comparative efficacy of time-restricted eating combined with different exercise modalities for improving body composition, metabolic health, and physical performance in adults: a systematic review and fat-mass network meta-analysis",
-      "abstract": "BackgroundTime-restricted eating (TRE) is commonly combined with exercise, but the relative effects of different exercise modalities remain uncertain.ObjectiveTo compare usual diet or control, TRE alone, exercise alone, TRE plus aerobic exercise, TRE plus resistance training, TRE plus high-intensity interval training (HIIT), and TRE plus mixed or concurrent training.MethodsPubMed/MEDLINE, Web of Science, Scopus, Embase, the Cochrane Library, and Google Scholar were searched from 2016 to 20 July 2026. Seventeen reports representing 15 unique randomised trials met the eligibility criteria after cohort linkage. Eight independent trials contributed compatible fat-mass contrasts to a random-effects pairwise meta-analysis and a seven-node frequentist network meta-analysis.ResultsTRE plus exercise reduced fat mass more than the same exercise without TRE [mean difference (MD) -1.85 kg, 95% confidence interval (CI) -2.34 to −1.35; I2 = 0%; τ2 = 0.00, and 95% prediction interval −2.46 to −1.23]. Network estimates versus usual diet or control were −3.32 kg for TRE plus concurrent training, −3.10 kg for TRE plus HIIT, −3.03 kg for TRE plus aerobic exercise, and −2.79 kg for TRE plus resistance training. Corresponding P-scores were 0.838, 0.757, 0.742, and 0.650. Confidence intervals for the active combined modalities overlapped. Residual network heterogeneity was not detected (Q = 3.29, df = 6, p = 0.772).ConclusionTRE adds a modest reduction in fat mass when combined with exercise. Concurrent training, HIIT, and aerobic exercise ranked highly for fat-mass reduction, while resistance t…",
-      "authors": "Hui Li, Cheng Lu, Gang Qin et al.",
+      "title": "Isocaloric substitution of plant-based for animal-based protein and physical fitness in adolescents: a cross-sectional study from the EHDLA study",
+      "abstract": "BackgroundPlant and animal protein sources have been associated with health outcomes, but evidence on physical fitness within isocaloric substitution frameworks remains limited. This study examined whether modeled isocaloric substitutions between plant- and animal-derived protein sources were associated with physical fitness in adolescents.MethodsThis cross-sectional analysis included adolescents aged 12–17 years from Spain. Source-specific protein variables were estimated from a 45-item food frequency questionnaire using reported consumption frequencies, standard portion sizes, and food-composition values. Physical fitness was evaluated using the Assessing the Levels of Physical Activity and Fitness (ALPHA-Fit). Using robust linear regression models, the association between a theoretical 5%-energy plant-for-animal protein contrast and physical fitness was estimated, while adjusting for age, sex, socioeconomic status, sleep duration, physical activity, sedentary behavior, body mass index, total energy intake, and energy from other macronutrients.ResultsThe analytical sample comprised 790 adolescents (55.1% girls; median age: 14.0 years). Median energy intake was 2,585.9 kcal⋅day–1. No associations were observed between the modeled 5% of total-energy substitution of animal protein by plant protein and physical fitness outcomes (all p > 0.05). In food-level models, the theoretical substitution of egg-derived protein by plant protein was associated with lower standing long jump performance (standardized beta coefficient [β] = −0.55, 95% confidence interval [CI]: −1.06 to −0.06…",
+      "authors": "Jacinto Muñoz-Pardeza, Patricia Álvarez-Rodríguez, Rodrigo Yáñez-Sepúlveda et al.",
       "published": "Oct 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1966901",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1961324",
       "image": "",
       "screen": "right"
     },
@@ -1149,7 +1149,7 @@
       "venue": "Atmospheric Chemistry and Physics",
       "feedName": "Lab Research",
       "citationCount": 12,
-      "recentCitations": 0,
+      "recentCitations": 1,
       "quartile": "Q1",
       "s2_paper_id": "d2f58630c5b33511a9ff3fe822b2154de726bbcb",
       "url": "https://doi.org/10.5194/acp-23-4881-2023",

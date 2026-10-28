@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28T14:50:57Z",
+  "updated": "2026-10-28T20:42:13Z",
   "items": [
     {
       "title": "Food-based dietary guidelines as policy instruments for safeguarding traditional African food systems",
@@ -362,6 +362,16 @@
       "screen": "left"
     },
     {
+      "title": "The hydrogen atom: The raw material of the universe barely exists on Earth—now we've made it in a flask",
+      "abstract": "What do you see when you look up at the night sky? While everyone may have a different answer, the truth is that almost everything out there is hydrogen. The first element in the periodic table is by far the most abundant substance in the cosmos. It's the fuel of stars and the raw material from which the heavier elements were forged over billions of years. Even the sun is, at its core, a furnace for fusing hydrogen atoms together.",
+      "authors": "",
+      "published": "Oct 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-10-hydrogen-atom-raw-material-universe.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/dense-stars.jpg",
+      "screen": "right"
+    },
+    {
       "title": "A 60-year search is over: Chemists isolate long-elusive molecules with boron-oxygen triple bonds",
       "abstract": "In a new publication in the journal Nature Chemistry, chemists in professor Holger Braunschweig's team at the University of Würzburg, supported by computational work from the team of professor Ashwini K. Phukan at Tezpur University in India, detail their discovery of a method for preparing and isolating a range of surprisingly stable oxoboranes—a challenge that has stood for over 60 years.",
       "authors": "",
@@ -389,16 +399,6 @@
       "feedName": "Phys.org Analytics",
       "url": "https://phys.org/news/2026-10-simple-recipe-guesswork-mass-spectrometry.html",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/georgia-tech-researche-2.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "Counteranion captures reactants to boost light-driven chemistry in dilute solutions",
-      "abstract": "Researchers at Kyushu University have developed a photocatalytic system that can selectively capture reacting molecules and hold them close to the active sites that absorb energy from light. This innovation addresses a long-standing challenge of having the photocatalyst maintain a high reaction rate even when the reacting molecules are present at very low concentrations.",
-      "authors": "",
-      "published": "Oct 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-10-counteranion-captures-reactants-boost-driven.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/bbcat-a-novel-anion-fo.jpg",
       "screen": "right"
     },
     {
@@ -482,22 +482,22 @@
       "screen": "right"
     },
     {
-      "title": "Combined exercise and dietary interventions for body composition in adults with overweight or obesity: a comparator-stratified systematic review and meta-analysis of randomized trials",
-      "abstract": "ObjectiveThis study aimed to evaluate the effects of combined exercise-dietary interventions on body weight (BW), body mass index (BMI), fat-free mass (FFM), and fat mass percentage (FM%) in adults with overweight or obesity compared with randomized comparators.MethodsPubMed, Embase, Web of Science, and the Cochrane Library were searched on 28 September 2026. Twenty-three reports representing 21 unique parent trials were included. Post-intervention arm data were synthesized as comparator-specific mean differences using restricted maximum likelihood random-effects models with truncated Hartung–Knapp confidence intervals, Tau-squared, and 95% prediction intervals. Cross-comparator and hierarchical parent-trial models were used as sensitivity analyses. Risk of bias was assessed using the revised Cochrane Risk of Bias tool for randomized trials (RoB 2), and certainty of evidence was evaluated using the Grading of Recommendations Assessment, Development, and Evaluation (GRADE) approach.ResultsThe BW analysis included 1,303 participant observations. Against dietary-only controls, combined interventions reduced BW by −4.49 kg (95% confidence interval −8.05 to −0.92), and reduced BMI by −1.50 kg m−2 (−2.67 to −0.34), but both prediction intervals crossed the null. Exercise-only comparisons were imprecise, while active dietary and exercise comparisons and minimal guidance comparisons each relied on one report. No comparator stratum showed reliable improvement in FFM or FM%. Cross-comparator sensitivity estimates favored combined interventions for BW and BMI, but every prediction int…",
-      "authors": "Qiang Li, Zhixing Chen, Gang Xu et al.",
+      "title": "Comparison of three malnutrition assessment criteria for predicting postoperative complications and overall survival in colorectal cancer",
+      "abstract": "BackgroundMalnutrition is highly prevalent in patients with colorectal cancer and is associated with adverse postoperative outcomes and shortened survival. However, the comparative predictive performance of commonly used nutritional assessment tools—PG-SGA, ESPEN, and GLIM criteria—remains unclear.MethodsA total of 1,258 patients who underwent radical resection for colorectal cancer were retrospectively enrolled. Malnutrition was diagnosed simultaneously using the PG-SGA, ESPEN, and GLIM criteria. Agreement among the three tools was evaluated using Cohen’s kappa coefficient. Multivariable logistic regression, an exploratory random forest analysis, and Cox proportional hazards models were applied. For the logistic regression models, ROC curve analysis and pairwise AUC comparisons using DeLong’s test were performed; for the Cox models, bootstrap-based C-index comparisons were conducted. Propensity score matching (PSM) was performed for the GLIM criterion as a post hoc sensitivity analysis to explore the association between GLIM-defined malnutrition and clinical outcomes.ResultsThe prevalence of malnutrition defined by PG-SGA, ESPEN, and GLIM was 24.7%, 15.7%, and 29.9%, respectively, with pairwise agreements ranging from moderate to substantial. All three criteria were independent risk factors for postoperative complications, with GLIM having the highest odds ratio (OR = 1.869, p < 0.001). AUC comparison further showed that the GLIM-incorporated model achieved the numerically highest AUC (0.781), with a significantly higher AUC than the ESPEN-based model (p = 0.023), whereas …",
+      "authors": "Wei Wei, Yangming Li, Guiren Fang et al.",
       "published": "Oct 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1969222",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1996149",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Editorial: Transforming food by-products into functional ingredients for sustainable nutrition",
-      "abstract": "",
-      "authors": "José Pinela, Sandrina A. Heleno",
+      "title": "Kanzan cherry blossom and its active compounds attenuate methylglyoxal-induced skin fibroblast senescence through RAGE/NF-κB suppression and ECM restoration",
+      "abstract": "IntroductionThe accumulation of advanced glycation end products (AGEs) is a key driver of skin aging, accelerating the process through oxidative stress, inflammation, and disruption of extracellular matrix (ECM) homeostasis. Cerasus serrulata 'Sekiyama' Kanzan cherry blossom (KCB) is rich in bioactive compounds with antioxidant and anti-glycation potential. However, its compositional variations across flowering stages and their functional relevance remain unclear.MethodsThis study systematically characterized the chemical profile of KCB using UPLC-QTOF-MS and monitored six major active components across four flowering stages using UPLC-MS/MS. The anti-glycation, antioxidant, tyrosinase, and collagenase activities of the identified compounds were evaluated in vitro. The protective effects of KCB extract (KCBE) and major active compounds were further investigated in a methylglyoxal (MGO)-induced human skin fibroblast senescence model.ResultsThirteen compounds were identified, including one organic acid, five flavonoid glycosides, and seven phenolic acids. The half-bloom stage (KCB3) contained the highest levels of the six quantified compounds. 1-O-caffeoyl glucoside (CG) was the predominant phenolic acid (8.025 ± 0.203%), while quercetin 3-O-6′′-O-malonyl-β-glucopyranoside (QMG) was the major flavonoid (1.155 ± 0.035%). QMG showed strong anti-glycation activity (IC50 = 0.41 ± 0.01 mM), whereas CG exhibited strong tyrosinase (IC50 = 0.19 ± 0.03 mM) and collagenase inhibition (IC50 = 2.51 ± 0.90 mM). KCBE, QMG, and CG significantly alleviated MGO-induced cellular senescence, re…",
+      "authors": "Limin Ouyang, Huiji Zhou, Binrui Yang et al.",
       "published": "Oct 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.2016793",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1927058",
       "image": "",
       "screen": "right"
     },
@@ -512,12 +512,12 @@
       "screen": "right"
     },
     {
-      "title": "Association between preoperative nutritional status and anastomotic leakage in patients undergoing rectal cancer surgery",
-      "abstract": "BackgroundAnastomotic leakage is a clinically important complication after rectal cancer surgery, and preoperative nutritional and inflammatory status may be associated with anastomotic healing. This study aimed to evaluate the association between preoperative nutritional status, particularly the prognostic nutritional index (PNI), and postoperative anastomotic leakage in patients undergoing rectal cancer surgery.MethodsThis retrospective study included consecutive eligible patients who underwent rectal cancer surgery between January 2023 and December 2025. Anastomotic leakage within 30 days was identified according to International Study Group of Rectal Cancer criteria. Preoperative nutritional status was primarily assessed using PNI, with Nutritional Risk Screening 2002 (NRS-2002), serum nutritional markers, and C-reactive protein (CRP) evaluated as complementary measures. Propensity score matching (PSM), multivariable logistic regression, unmatched-cohort analysis, sequential adjustment, subgroup analyses, and receiver operating characteristic analysis were performed.ResultsAmong 2,468 patients, 308 developed anastomotic leakage. After 1:1 PSM, 308 patients with leakage and 308 without leakage were analyzed. Mean PNI was lower in patients with leakage (43.2 ± 5.1 vs. 46.8 ± 4.9; p < 0.001). Each 1-point increase in PNI was associated with lower adjusted odds of leakage (odds ratio [OR], 0.898; 95% confidence interval [CI], 0.861–0.936; p < 0.001), with a similar estimate in the unmatched cohort (OR, 0.904; 95% CI, 0.882–0.927). NRS-2002 ≥ 3 was associated with higher odd…",
-      "authors": "Yan-Jun Lu, Ling-Hong Guo, Peng-Cheng Wang",
+      "title": "The double burden of anemia and excess weight among schoolchildren in Southern Peru: prevalence, associated factors, and the school food environment",
+      "abstract": "BackgroundThe double burden of malnutrition (DBM) refers to the coexistence of different forms of malnutrition, particularly undernutrition or micronutrient deficiencies alongside overweight or obesity, within individuals, households, or populations. This study aimed to: i) determine the prevalence of the double burden of malnutrition defined as the coexistence of anemia and excess weight, among schoolchildren in southern Peru; ii) investigate factors associated with the double burden of malnutrition, excess weight, and central obesity; and iii) characterize the school food environment.MethodsA cross-sectional study was conducted among 656 schoolchildren aged 5–13 years from six schools in the province of Ica, Peru. Height-for-age (HAZ), weight-for-age (WAZ), BMI-for-age (BAZ), waist-to-height ratio (WHtR), and hemoglobin concentration were assessed using standardized criteria. The school food environment was evaluated using a structured observational checklist. Multivariable logistic regression models were used to examine factors associated with DBM, excess weight, and central obesity, while a general linear model assessed factors associated with hemoglobin concentration.ResultsStunting (1.4%), underweight (0.5%) and thinness (1.1%) were uncommon, whereas both excess weight and central obesity (WHtR ≥0.5) affected 50.9% of the schoolchildren. Anemia was identified in 23.5% of participants, and the coexistence of anemia and excess weight (DBM) was observed in 9.9%. After adjustment, anemia was independently associated with lower odds of excess weight, whereas urban residenc…",
+      "authors": "Davis J. Marquez-Guzman, Marianela Pecho-Tataje, Mariela E. Pecho-Tataje et al.",
       "published": "Oct 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1932994",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1965478",
       "image": "",
       "screen": "right"
     },
@@ -609,7 +609,7 @@
       "venue": "Food and Bioprocess Technology",
       "feedName": "Lab Research",
       "citationCount": 6,
-      "recentCitations": 0,
+      "recentCitations": 2,
       "quartile": "Q1",
       "s2_paper_id": "034d8c4f0c0f5607a4e6727360aa5d7287e60d5b",
       "url": "https://doi.org/10.1007/s11947-025-03873-y",

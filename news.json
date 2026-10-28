@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T20:22:28Z",
+  "updated": "2026-10-28T00:56:34Z",
   "items": [
     {
       "title": "Food-based dietary guidelines as policy instruments for safeguarding traditional African food systems",
@@ -282,6 +282,26 @@
       "screen": "left"
     },
     {
+      "title": "Integrated metabolomic and transcriptomic analysis of oligoproanthocyanidins biotransformation by rhizosphere filamentous fungi from tea plant ( Camellia sinensis )",
+      "abstract": "",
+      "authors": "Shuang Liang, Chun Zou, Longjie Xu et al.",
+      "published": "Oct 2026",
+      "feedName": "npj Science of Food",
+      "url": "https://www.nature.com/articles/s41538-026-01227-2",
+      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01227-2/MediaObjects/41538_2026_1227_Fig1_HTML.png",
+      "screen": "left"
+    },
+    {
+      "title": "From aroma cue to feeding behavior: Sichuan pepper essential oil aroma stimulates appetite via cognitive and physiological pathways",
+      "abstract": "",
+      "authors": "Jiahui Song, Huijuan Shen, Feifei Zhao et al.",
+      "published": "Oct 2026",
+      "feedName": "npj Science of Food",
+      "url": "https://www.nature.com/articles/s41538-026-01221-8",
+      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01221-8/MediaObjects/41538_2026_1221_Fig1_HTML.png",
+      "screen": "left"
+    },
+    {
       "title": "Food and packaging applications of black soldier fly larvae fractions: from processing and functionality to safety and consumer acceptance",
       "abstract": "",
       "authors": "Samiullah Khan, Xun Xiang, Rabia Durrani et al.",
@@ -299,26 +319,6 @@
       "feedName": "npj Science of Food",
       "url": "https://www.nature.com/articles/s41538-026-01199-3",
       "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01199-3/MediaObjects/41538_2026_1199_Fig1_HTML.png",
-      "screen": "left"
-    },
-    {
-      "title": "Sustainable postharvest vegetable disease management: integrating physiological insights and innovative technologies for quality preservation",
-      "abstract": "",
-      "authors": "Yuan Sui, Wanyue Zhang, Bin Duan et al.",
-      "published": "Oct 2026",
-      "feedName": "npj Science of Food",
-      "url": "https://www.nature.com/articles/s41538-026-01201-y",
-      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01201-y/MediaObjects/41538_2026_1201_Fig1_HTML.png",
-      "screen": "left"
-    },
-    {
-      "title": "Association of chrono-nutrition behaviors with cognitive function in middle-aged and older adults",
-      "abstract": "",
-      "authors": "Yan Deng, Jiahui Yu, Benchao Li et al.",
-      "published": "Oct 2026",
-      "feedName": "npj Science of Food",
-      "url": "https://www.nature.com/articles/s41538-026-01207-6",
-      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01207-6/MediaObjects/41538_2026_1207_Fig1_HTML.png",
       "screen": "left"
     },
     {
@@ -362,6 +362,36 @@
       "screen": "left"
     },
     {
+      "title": "A 'simple recipe' takes some of the guesswork out of mass spectrometry imaging",
+      "abstract": "A small sample of human tissue can hold a remarkable amount of information. Researchers can use it to search for molecular clues associated with cancer, investigate the chemical landscape of the brain or determine where a drug travels after it enters the body. Mass spectrometry imaging, or MSI, helps answer those questions by mapping where different molecules are located within tissue.",
+      "authors": "",
+      "published": "Oct 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-10-simple-recipe-guesswork-mass-spectrometry.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/georgia-tech-researche-2.jpg",
+      "screen": "right"
+    },
+    {
+      "title": "Counteranion captures reactants to boost light-driven chemistry in dilute solutions",
+      "abstract": "Researchers at Kyushu University have developed a photocatalytic system that can selectively capture reacting molecules and hold them close to the active sites that absorb energy from light. This innovation addresses a long-standing challenge of having the photocatalyst maintain a high reaction rate even when the reacting molecules are present at very low concentrations.",
+      "authors": "",
+      "published": "Oct 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-10-counteranion-captures-reactants-boost-driven.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/bbcat-a-novel-anion-fo.jpg",
+      "screen": "right"
+    },
+    {
+      "title": "Light-controlled brake makes random molecular motion 300,000 times slower",
+      "abstract": "Molecules are never still. Driven by thermal energy, they are constantly moving through space, while their individual parts also rotate relative to one another. Scientists at IOCB Prague have now shown that random motion within a molecule can be dramatically suppressed. Using light, they can slow down the relative rotation of two different parts of a single molecule by up to five orders of magnitude, paving the way for more complex molecular machines.",
+      "authors": "",
+      "published": "Oct 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-10-random-molecular-motion-slower.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/how-to-tame-random-mot.jpg",
+      "screen": "right"
+    },
+    {
       "title": "Reusable palladium catalyst enables more direct chemical synthesis",
       "abstract": "Making complex molecules often means joining smaller chemical building blocks together, a process facilitated by catalysts, compounds that make such reactions possible or speed them up without being consumed themselves. Many widely used reactions also require chemists to modify their starting molecules before joining them. These added chemical \"handles\" make the molecules reactive, but preparing them means extra steps and, often, additional waste.",
       "authors": "",
@@ -369,36 +399,6 @@
       "feedName": "Phys.org Analytics",
       "url": "https://phys.org/news/2026-10-reusable-palladium-catalyst-enables-chemical.html",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/a-regenerable-catalyst.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "Metal-free magnetic sensor can be safely implanted for wireless monitoring",
-      "abstract": "Researchers in the U.S. and China have created a biocompatible, metal-free magnet that can be safely implanted and generate signals from deep inside the body. Led by Wubin Bai at the University of North Carolina, the team revealed how magnetism can emerge from the rearrangement of atoms in heated carbon nitride, which strengthens the coupling between unpaired electrons.",
-      "authors": "",
-      "published": "Oct 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-10-metal-free-magnetic-sensor-safely.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/metal-free-magnetic-se.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "Anyone Can Dock: Molecular docking platform brings protein-binding predictions to smartphones, tablets and computers",
-      "abstract": "A new platform, developed by researchers at the Center for Computational Sciences, University of Tsukuba, in collaboration with Mahidol University, makes molecular docking easier to access, understand, and integrate into experimental research. The work is published in the Journal of Cheminformatics.",
-      "authors": "",
-      "published": "Oct 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-10-dock-molecular-docking-platform-protein.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/anyone-can-dock-molecu.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "Silent bacterial genes yield potential leads for future cancer drugs",
-      "abstract": "Natural products produced by microorganisms are a promising source of new drugs. Researchers at the Helmholtz Center for Infection Research (HZI) and its Saarbrücken-based site, the Helmholtz Institute for Pharmaceutical Research Saarland (HIPS), have now discovered a new family of such compounds, elucidated their unusual biosynthesis and developed a way to produce them synthetically.",
-      "authors": "",
-      "published": "Oct 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-10-silent-bacterial-genes-yield-potential.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/from-hidden-natural-pr.jpg",
       "screen": "right"
     },
     {
@@ -869,7 +869,7 @@
       "venue": "ACS Applied Materials and Interfaces",
       "feedName": "Lab Research",
       "citationCount": 19,
-      "recentCitations": 1,
+      "recentCitations": 0,
       "quartile": "Q1",
       "s2_paper_id": "0cd0b8a2502ea570ed30a29089c9004f8ad62735",
       "url": "https://doi.org/10.1021/acsami.3c06230",
@@ -1149,7 +1149,7 @@
       "venue": "Atmospheric Chemistry and Physics",
       "feedName": "Lab Research",
       "citationCount": 12,
-      "recentCitations": 1,
+      "recentCitations": 0,
       "quartile": "Q1",
       "s2_paper_id": "d2f58630c5b33511a9ff3fe822b2154de726bbcb",
       "url": "https://doi.org/10.5194/acp-23-4881-2023",

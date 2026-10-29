@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T01:26:40Z",
+  "updated": "2026-10-29T07:51:13Z",
   "items": [
     {
       "title": "Food-based dietary guidelines as policy instruments for safeguarding traditional African food systems",
@@ -282,6 +282,26 @@
       "screen": "left"
     },
     {
+      "title": "Beyond food waste reduction: nutritional contributions of food rescue initiatives. A systematic review",
+      "abstract": "",
+      "authors": "Janice Ee Fang Tay, Lai Ti Gew, Serene En Hui Tung et al.",
+      "published": "Oct 2026",
+      "feedName": "npj Science of Food",
+      "url": "https://www.nature.com/articles/s41538-026-01150-6",
+      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01150-6/MediaObjects/41538_2026_1150_Fig1_HTML.png",
+      "screen": "left"
+    },
+    {
+      "title": "Caco-2-derived spheroids and organ-on-a-chip for food safety risk assessment: mechanisms of intestinal inflammation induced by 20 nm polystyrene nanoplastics",
+      "abstract": "",
+      "authors": "Zhenjie Lu, Xin Yuan, Xin Zeng et al.",
+      "published": "Oct 2026",
+      "feedName": "npj Science of Food",
+      "url": "https://www.nature.com/articles/s41538-026-01218-3",
+      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01218-3/MediaObjects/41538_2026_1218_Fig1_HTML.png",
+      "screen": "left"
+    },
+    {
       "title": "Integrated metabolomic and transcriptomic analysis of oligoproanthocyanidins biotransformation by rhizosphere filamentous fungi from tea plant ( Camellia sinensis )",
       "abstract": "",
       "authors": "Shuang Liang, Chun Zou, Longjie Xu et al.",
@@ -299,26 +319,6 @@
       "feedName": "npj Science of Food",
       "url": "https://www.nature.com/articles/s41538-026-01221-8",
       "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01221-8/MediaObjects/41538_2026_1221_Fig1_HTML.png",
-      "screen": "left"
-    },
-    {
-      "title": "Food and packaging applications of black soldier fly larvae fractions: from processing and functionality to safety and consumer acceptance",
-      "abstract": "",
-      "authors": "Samiullah Khan, Xun Xiang, Rabia Durrani et al.",
-      "published": "Oct 2026",
-      "feedName": "npj Science of Food",
-      "url": "https://www.nature.com/articles/s41538-026-01203-w",
-      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01203-w/MediaObjects/41538_2026_1203_Fig1_HTML.png",
-      "screen": "left"
-    },
-    {
-      "title": "Light-vibration synergy during spreading and optimized drying temperature improve machine-harvested beverage-grade green tea quality",
-      "abstract": "",
-      "authors": "Zhipeng Xiao, Jiapeng Wang, Qiye Fan",
-      "published": "Oct 2026",
-      "feedName": "npj Science of Food",
-      "url": "https://www.nature.com/articles/s41538-026-01199-3",
-      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01199-3/MediaObjects/41538_2026_1199_Fig1_HTML.png",
       "screen": "left"
     },
     {
@@ -482,42 +482,42 @@
       "screen": "right"
     },
     {
-      "title": "Colon-targeting potential and metabolic effects of sodium butyrate-loaded CPC microspheres in type 2 diabetic mice",
-      "abstract": "BackgroundOral sodium butyrate (SB) is rapidly absorbed in the proximal small intestine, limiting its colonic availability and local metabolic effects. We evaluated the in vitro release characteristics of chitosan-protocatechualdehyde/calcium alginate microspheres loaded with SB (CPC/SB), together with metabolic and microbial outcomes in mice with high-fat diet/streptozotocin-induced diabetes.MethodsCPC/SB release was measured in separate simulated gastric, intestinal, and colonic fluids. Thirty-five male C57BL/6J mice were assigned to seven groups: normal control and six diabetic groups receiving vehicle, unloaded CPC, free SB, CPC/SB, metformin, or metformin plus CPC/SB for 4 weeks (34 completed). Endpoints included gastrointestinal and fecal butyrate; blood glucose, homeostasis model assessment of insulin resistance (HOMA-IR), low-density lipoprotein cholesterol (LDL-C), and interleukin-6 (IL-6); and fecal microbiota assessed by 16S rRNA gene sequencing and PICRUSt2.ResultsRelative butyrate release was 0.91%, 8.53%, and 94.17% in simulated gastric, intestinal, and colonic fluids, respectively. After CPC/SB administration, colonic butyrate exceeded gastric and small-intestinal levels, and fecal butyrate increased versus the model group (0.0523 ± 0.0121 vs. 0.0180 ± 0.0068 μg/mg; p < 0.0001). Random blood glucose decreased to 18.64 mmol/L at week 4 (p < 0.0001 vs. baseline and model). CPC/SB also reduced HOMA-IR (3.14 ± 0.43 vs. 4.81 ± 1.30; p = 0.046) and serum IL-6 (85.82 ± 1.90 vs. 93.55 ± 4.10 pg./mL; p = 0.008); LDL-C and α-diversity were unchanged. Exploratory 16S an…",
-      "authors": "Qinqin Zhang, Gaiqi Yao",
+      "title": "Prospective directional associations between lipid measures and digital volume pulse-derived arterial stiffness parameters: evidence from cross-lagged panel analyses in the UK Biobank",
+      "abstract": "BackgroundCardiovascular disease (CVD) is the leading cause of morbidity and mortality worldwide. Arterial stiffness and dyslipidemia are considered risk factors for CVD. However, no relevant prospective inference studies have been reported in the middle-aged and elderly populations. This study aimed to investigate the prospective directional associations between dyslipidemia and arterial stiffness.MethodsThe study included 20,344 participants from the UK Biobank with available first follow-up data. After applying the inclusion and exclusion criteria, 2,989 participants remained, with a median follow-up interval of 3.0 years (interquartile range, 2.8–3.2). Prospective directional associations between arterial stiffness and dyslipidemia were confirmed by the classical cross-lagged panel model and three improved nonlinear cross-lagged panel models.ResultsThe baseline age of the participants was 58.7 ± 7.2 years, of which 51.7% were male. In males, cross-lagged analyses revealed a prospective directional association from apolipoprotein B (ApoB) to pulse wave reflection index (PWRI; False discovery rate-corrected, FDR p = 0.038). In females, triglyceride (TG) levels showed prospective directional associations with subsequent digital volume pulse-derived arterial stiffness index, PWRI, and pulse wave peak-to-peak time, as well as pulse rate (FDR p < 0.05). Sex differences were observed in the associations of ApoB and TG with subsequent PWRI (p < 0.05). However, after incorporating SBP as a third endogenous variable, these associations were no longer statistically significant (FD…",
+      "authors": "Zihang Li, Bangwei Chen, Zehua Wu et al.",
       "published": "Oct 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1956044",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1942971",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Prevalence and clinical characterization of malnutrition, sarcopenia and sarcopenic obesity in older adults with cardiometabolic diseases: SENIOR cross-sectional study",
-      "abstract": "Malnutrition, sarcopenia, and sarcopenic obesity may coexist with excess adiposity and cardiometabolic diseases in aging populations, but their combined burden and inflammatory profile remain insufficiently characterized. This study examined their prevalence and overlap in older adults with cardiometabolic diseases and explored associations with metabolic syndrome, multidimensional health-related factors and inflammation. In this cross-sectional study 303 Caucasian adults aged ≥ 65 years were recruited from a General Medicine ward and an Endocrinology and Metabolic Diseases outpatient clinic in Northern Italy. Malnutrition, sarcopenia, sarcopenic obesity, and metabolic syndrome were identified according to the GLIM, EWGSOP2, ESPEN/EASO, and IDF criteria, respectively. Sociodemographic, clinical, anthropometric, body composition, lifestyle, functional, psychological, and biochemical variables were collected using standardized procedures. CRP, WBC, platelet counts, prealbumin, uric acid, and circulating cytokines (IL-6, IL-10, TNF-α, and TGF-β) provided complementary information on inflammatory, nutritional, and metabolic status. The prevalence of malnutrition, sarcopenia, sarcopenic obesity, probable sarcopenia, and metabolic syndrome was 39.9%, 30.9%, 9.4%, 42.6%, and 60.1%, respectively, and was generally higher in inpatients. 13.2% of malnourished patients suffered from overweight or obesity, while malnutrition and sarcopenia overlapped in 29.2%. Older age, functional dependence, poorer physical health-related quality of life, and BMI class were associated with malnutriti…",
-      "authors": "Sara Santero, Federica Bolpagni, Sara Boussetta et al.",
+      "title": "Timing of enteral nutrition and clinical outcomes in mild-to-moderate acute pancreatitis: a retrospective cohort study",
+      "abstract": "BackgroundThe optimal timing of enteral nutrition (EN) in acute pancreatitis (AP) remains clinically important.ObjectiveThis study evaluated whether early EN improved outcomes compared with delayed EN.MethodologyThis retrospective cohort study included 650 adults admitted with AP from January 2022 through December 2025. Patients were classified into an early EN group (initiation within 48 h; n = 392) or a delayed EN group (initiation after 48 h; n = 258). Demographic and clinical information, nutritional data, biochemical data, and outcome data were collected from medical records. Multiple regression analysis was used, adjusting for relevant confounders.ResultsHigher nutritional risk, lower albumin, and higher inflammatory burden at admission were all associated with delayed EN. Early EN was associated with shorter hospital stay (5.5 vs. 7.4 days; p < 0.001), quicker pain resolution, earlier adequate enteral intake (2.4 vs. 3.5 days; p < 0.001), and lower feeding intolerance (8.7% vs. 18.6%; p < 0.001). The early EN group also had lower rates of local and systemic complications and ICU transfer. Early EN remained independently associated with lower odds of feeding intolerance after adjustment (OR 0.52, 95% CI: 0.32–0.83; p = 0.006), decreased hospital stay (1.21 days, 95% CI: −1.58 to −0.84; p < 0.001), recurrent/worsening pain, systemic complications, and ICU transfer after adjustment.ConclusionIn mild to moderate AP, early EN (within 48 h) was independently associated with more rapid recovery and fewer complications, supporting its use when clinically tolerated.",
+      "authors": "Dan Song, Wenyuan Song, Peng Li et al.",
       "published": "Oct 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1927628",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1970737",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Vitamin E in diabetes-associated cognitive dysfunction: mechanistic rationale, current evidence and translational gaps",
-      "abstract": "Diabetes-associated cognitive dysfunction (DACD) is an increasingly recognized complication of diabetes mellitus and involves multiple interacting processes, including oxidative stress, neuroinflammation, synaptic dysfunction, impaired insulin signaling, and neurovascular dysfunction. Vitamin E, a lipid-soluble antioxidant comprising tocopherols and tocotrienols, has attracted interest because several of its biological actions are mechanistically relevant to these pathways. This mini-review provides a focused overview of the mechanistic rationale, current experimental and clinical evidence, and major translational gaps concerning vitamin E in DACD. Preclinical studies suggest that specific vitamin E isoforms and preparations may modulate oxidative stress and lipid peroxidation, inflammatory signaling and microglial activation, synaptic plasticity-related pathways, and insulin responsiveness, and may also influence neurovascular processes. However, much of this evidence derives from animal models, cellular systems, peripheral tissues, or disease settings other than DACD and therefore provides mechanistic rather than clinical efficacy evidence. Direct clinical evidence in patients with formally diagnosed DACD remains lacking. Small intervention studies in patients with type 2 diabetes have reported inconsistent cognitive outcomes, whereas observational associations between dietary vitamin E intake and cognition are largely derived from non-DACD populations and cannot establish causality. High-dose supplementation may also entail safety concerns. Thus, current evidence support…",
-      "authors": "Wenting Geng, Yihan Fan, Peng Li et al.",
+      "title": "Cross-sectional evaluation of leg-predominant relative segmental muscle mass differences in hospitalized older adults with sarcopenia",
+      "abstract": "BackgroundSkeletal muscle mass index (SMI) summarizes total muscle mass but does not reflect regional distribution. This study investigated whether sarcopenia is associated with a preferential segmental pattern of lower muscle mass and whether regional fluid distribution contributes to this pattern.MethodsThis cross-sectional study included 231 hospitalized adults aged ≥60 years, including 60 with sarcopenia. Segmental muscle mass and extracellular water-to-total body water ratio (ECW/TBW) were assessed using multifrequency bioelectrical impedance analysis. Sex-specific standardized segmental muscle mass scores were calculated using participants without sarcopenia as the reference. The primary analysis evaluated the interaction between sarcopenia status and body segment using generalized estimating equation models. Supporting analyses included within-group segmental comparisons and segment-specific regression models with adjustment for clinical covariates.ResultsAmong participants without sarcopenia, no consistent segmental distribution pattern was observed (Friedman p = 0.994). In contrast, participants with sarcopenia showed relatively lower standardized leg muscle mass compared with the arms and trunk (adjusted p = 0.037 and p < 0.001). After adjustment for clinical covariates, sarcopenia was associated with an additional relative reduction in leg muscle mass compared with the arm segment (β = −0.427; 95% CI, −0.708 to −0.147; p = 0.003). This association remained unchanged after further adjustment for segmental ECW/TBW (β = −0.425; 95% CI, −0.708 to −0.142; p = 0.003).C…",
+      "authors": "Weibin Yang, Bingjie Wu, Jie Li et al.",
       "published": "Oct 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1901124",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1991967",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "The double burden of anemia and excess weight among schoolchildren in Southern Peru: prevalence, associated factors, and the school food environment",
-      "abstract": "BackgroundThe double burden of malnutrition (DBM) refers to the coexistence of different forms of malnutrition, particularly undernutrition or micronutrient deficiencies alongside overweight or obesity, within individuals, households, or populations. This study aimed to: i) determine the prevalence of the double burden of malnutrition defined as the coexistence of anemia and excess weight, among schoolchildren in southern Peru; ii) investigate factors associated with the double burden of malnutrition, excess weight, and central obesity; and iii) characterize the school food environment.MethodsA cross-sectional study was conducted among 656 schoolchildren aged 5–13 years from six schools in the province of Ica, Peru. Height-for-age (HAZ), weight-for-age (WAZ), BMI-for-age (BAZ), waist-to-height ratio (WHtR), and hemoglobin concentration were assessed using standardized criteria. The school food environment was evaluated using a structured observational checklist. Multivariable logistic regression models were used to examine factors associated with DBM, excess weight, and central obesity, while a general linear model assessed factors associated with hemoglobin concentration.ResultsStunting (1.4%), underweight (0.5%) and thinness (1.1%) were uncommon, whereas both excess weight and central obesity (WHtR ≥0.5) affected 50.9% of the schoolchildren. Anemia was identified in 23.5% of participants, and the coexistence of anemia and excess weight (DBM) was observed in 9.9%. After adjustment, anemia was independently associated with lower odds of excess weight, whereas urban residenc…",
-      "authors": "Davis J. Marquez-Guzman, Marianela Pecho-Tataje, Mariela E. Pecho-Tataje et al.",
+      "title": "Effects of caffeine intake on depressive and anxiety symptoms: a systematic review and meta-analysis of randomized controlled trials",
+      "abstract": "BackgroundCaffeine is one of the most widely consumed psychoactive dietary components worldwide. However, its effects on affective symptoms remain uncertain, with inconsistent findings regarding depressive and anxiety outcomes. This systematic review and meta-analysis aimed to evaluate the effects of quantified caffeine intake on affective symptoms based exclusively on randomized controlled trial (RCT) evidence.MethodsThe review followed the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) 2020 statement and was registered in the International Prospective Register of Systematic Reviews (PROSPERO; CRD42024564399). PubMed/MEDLINE, Embase, the Cochrane Library, Web of Science, CBM, VIP, CNKI, and Wanfang Data were searched from inception to May 16, 2026. Random-effects meta-analyses used restricted maximum likelihood estimation with Hartung–Knapp adjustment. Standardized mean differences (SMDs) with 95% confidence intervals (CIs) and, where appropriate, 95% prediction intervals (PIs) were reported. Clinical coherence was examined according to exposure pattern and psychiatric status, and dose-stratified analyses were exploratory.ResultsFifteen RCTs involving 668 participants contributing to the selected comparisons were included. For depressive symptoms, the broad pooled estimate did not show clear evidence of a difference between caffeine and control conditions [SMD = −0.49, 95% CI: (−1.33, 0.34); I2 = 92.89%; 95% PI: (−2.87, 1.88)]. Anxiety scores were higher on average after caffeine exposure [SMD = 0.51, 95% CI: (0.12, 0.89); I2 = 90.30%], althoug…",
+      "authors": "Ailing Zhang, Yudan Ni, Zhongyu Zhang et al.",
       "published": "Oct 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1965478",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1950050",
       "image": "",
       "screen": "right"
     },
@@ -928,7 +928,7 @@
       "published": "2025",
       "venue": "Biomolecules",
       "feedName": "Lab Research",
-      "citationCount": 4,
+      "citationCount": 5,
       "recentCitations": 0,
       "quartile": "Q1",
       "s2_paper_id": "e8d95d5b119ba86262a480c8753459d85b64d105",

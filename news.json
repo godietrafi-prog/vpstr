@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28T20:42:13Z",
+  "updated": "2026-10-29T01:26:40Z",
   "items": [
     {
       "title": "Food-based dietary guidelines as policy instruments for safeguarding traditional African food systems",
@@ -362,6 +362,26 @@
       "screen": "left"
     },
     {
+      "title": "Atomic magnetism reveals why iron, but not chromium, can produce ammonia using sunlight",
+      "abstract": "Two nearly identical materials have completely different chemical behavior. Research teams at the University of Vienna and TU Wien studied catalysts that use the energy of sunlight to produce ammonia. Surprisingly, when the three iron atoms that form tiny triangles in these catalysts are replaced by chromium atoms, the chemical reaction no longer takes place.",
+      "authors": "",
+      "published": "Oct 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-10-atomic-magnetism-reveals-iron-chromium.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/the-invisible-force-of.jpg",
+      "screen": "right"
+    },
+    {
+      "title": "Same radical, different paths: X-ray snapshots reveal how neighboring molecules shape its movement",
+      "abstract": "Chemical reactions have their own \"impatient molecules.\" Unable to stay still even for a moment, they latch onto other molecules indiscriminately. Researchers have now found that even these molecules change where they \"sit\" and how far they roam depending on who their neighbors are. The findings are expected to help scientists make better medicines and materials by directing reactions only to the desired sites.",
+      "authors": "",
+      "published": "Oct 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-10-radical-paths-ray-snapshots-reveal.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/the-same-radicalso-why-1.jpg",
+      "screen": "right"
+    },
+    {
       "title": "The hydrogen atom: The raw material of the universe barely exists on Earth—now we've made it in a flask",
       "abstract": "What do you see when you look up at the night sky? While everyone may have a different answer, the truth is that almost everything out there is hydrogen. The first element in the periodic table is by far the most abundant substance in the cosmos. It's the fuel of stars and the raw material from which the heavier elements were forged over billions of years. Even the sun is, at its core, a furnace for fusing hydrogen atoms together.",
       "authors": "",
@@ -379,26 +399,6 @@
       "feedName": "Phys.org Analytics",
       "url": "https://phys.org/news/2026-10-year-chemists-isolate-elusive-molecules.html",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/a-60-year-search-is-ov.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "Machine learning simulations reveal how plastic transforms into hard carbon",
-      "abstract": "In a new study published in Chemical Science, researchers from the University of Oxford's Department of Chemistry have used machine learning simulations to trace how a common polymer transforms into hard carbon, revealing the atomic-scale processes that give this technologically important material its disordered structure.",
-      "authors": "",
-      "published": "Oct 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-10-machine-simulations-reveal-plastic-hard.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/machine-learning-simul.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "A 'simple recipe' takes some of the guesswork out of mass spectrometry imaging",
-      "abstract": "A small sample of human tissue can hold a remarkable amount of information. Researchers can use it to search for molecular clues associated with cancer, investigate the chemical landscape of the brain or determine where a drug travels after it enters the body. Mass spectrometry imaging, or MSI, helps answer those questions by mapping where different molecules are located within tissue.",
-      "authors": "",
-      "published": "Oct 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-10-simple-recipe-guesswork-mass-spectrometry.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/georgia-tech-researche-2.jpg",
       "screen": "right"
     },
     {
@@ -482,32 +482,32 @@
       "screen": "right"
     },
     {
-      "title": "Comparison of three malnutrition assessment criteria for predicting postoperative complications and overall survival in colorectal cancer",
-      "abstract": "BackgroundMalnutrition is highly prevalent in patients with colorectal cancer and is associated with adverse postoperative outcomes and shortened survival. However, the comparative predictive performance of commonly used nutritional assessment tools—PG-SGA, ESPEN, and GLIM criteria—remains unclear.MethodsA total of 1,258 patients who underwent radical resection for colorectal cancer were retrospectively enrolled. Malnutrition was diagnosed simultaneously using the PG-SGA, ESPEN, and GLIM criteria. Agreement among the three tools was evaluated using Cohen’s kappa coefficient. Multivariable logistic regression, an exploratory random forest analysis, and Cox proportional hazards models were applied. For the logistic regression models, ROC curve analysis and pairwise AUC comparisons using DeLong’s test were performed; for the Cox models, bootstrap-based C-index comparisons were conducted. Propensity score matching (PSM) was performed for the GLIM criterion as a post hoc sensitivity analysis to explore the association between GLIM-defined malnutrition and clinical outcomes.ResultsThe prevalence of malnutrition defined by PG-SGA, ESPEN, and GLIM was 24.7%, 15.7%, and 29.9%, respectively, with pairwise agreements ranging from moderate to substantial. All three criteria were independent risk factors for postoperative complications, with GLIM having the highest odds ratio (OR = 1.869, p < 0.001). AUC comparison further showed that the GLIM-incorporated model achieved the numerically highest AUC (0.781), with a significantly higher AUC than the ESPEN-based model (p = 0.023), whereas …",
-      "authors": "Wei Wei, Yangming Li, Guiren Fang et al.",
+      "title": "Colon-targeting potential and metabolic effects of sodium butyrate-loaded CPC microspheres in type 2 diabetic mice",
+      "abstract": "BackgroundOral sodium butyrate (SB) is rapidly absorbed in the proximal small intestine, limiting its colonic availability and local metabolic effects. We evaluated the in vitro release characteristics of chitosan-protocatechualdehyde/calcium alginate microspheres loaded with SB (CPC/SB), together with metabolic and microbial outcomes in mice with high-fat diet/streptozotocin-induced diabetes.MethodsCPC/SB release was measured in separate simulated gastric, intestinal, and colonic fluids. Thirty-five male C57BL/6J mice were assigned to seven groups: normal control and six diabetic groups receiving vehicle, unloaded CPC, free SB, CPC/SB, metformin, or metformin plus CPC/SB for 4 weeks (34 completed). Endpoints included gastrointestinal and fecal butyrate; blood glucose, homeostasis model assessment of insulin resistance (HOMA-IR), low-density lipoprotein cholesterol (LDL-C), and interleukin-6 (IL-6); and fecal microbiota assessed by 16S rRNA gene sequencing and PICRUSt2.ResultsRelative butyrate release was 0.91%, 8.53%, and 94.17% in simulated gastric, intestinal, and colonic fluids, respectively. After CPC/SB administration, colonic butyrate exceeded gastric and small-intestinal levels, and fecal butyrate increased versus the model group (0.0523 ± 0.0121 vs. 0.0180 ± 0.0068 μg/mg; p < 0.0001). Random blood glucose decreased to 18.64 mmol/L at week 4 (p < 0.0001 vs. baseline and model). CPC/SB also reduced HOMA-IR (3.14 ± 0.43 vs. 4.81 ± 1.30; p = 0.046) and serum IL-6 (85.82 ± 1.90 vs. 93.55 ± 4.10 pg./mL; p = 0.008); LDL-C and α-diversity were unchanged. Exploratory 16S an…",
+      "authors": "Qinqin Zhang, Gaiqi Yao",
       "published": "Oct 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1996149",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1956044",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Kanzan cherry blossom and its active compounds attenuate methylglyoxal-induced skin fibroblast senescence through RAGE/NF-κB suppression and ECM restoration",
-      "abstract": "IntroductionThe accumulation of advanced glycation end products (AGEs) is a key driver of skin aging, accelerating the process through oxidative stress, inflammation, and disruption of extracellular matrix (ECM) homeostasis. Cerasus serrulata 'Sekiyama' Kanzan cherry blossom (KCB) is rich in bioactive compounds with antioxidant and anti-glycation potential. However, its compositional variations across flowering stages and their functional relevance remain unclear.MethodsThis study systematically characterized the chemical profile of KCB using UPLC-QTOF-MS and monitored six major active components across four flowering stages using UPLC-MS/MS. The anti-glycation, antioxidant, tyrosinase, and collagenase activities of the identified compounds were evaluated in vitro. The protective effects of KCB extract (KCBE) and major active compounds were further investigated in a methylglyoxal (MGO)-induced human skin fibroblast senescence model.ResultsThirteen compounds were identified, including one organic acid, five flavonoid glycosides, and seven phenolic acids. The half-bloom stage (KCB3) contained the highest levels of the six quantified compounds. 1-O-caffeoyl glucoside (CG) was the predominant phenolic acid (8.025 ± 0.203%), while quercetin 3-O-6′′-O-malonyl-β-glucopyranoside (QMG) was the major flavonoid (1.155 ± 0.035%). QMG showed strong anti-glycation activity (IC50 = 0.41 ± 0.01 mM), whereas CG exhibited strong tyrosinase (IC50 = 0.19 ± 0.03 mM) and collagenase inhibition (IC50 = 2.51 ± 0.90 mM). KCBE, QMG, and CG significantly alleviated MGO-induced cellular senescence, re…",
-      "authors": "Limin Ouyang, Huiji Zhou, Binrui Yang et al.",
+      "title": "Prevalence and clinical characterization of malnutrition, sarcopenia and sarcopenic obesity in older adults with cardiometabolic diseases: SENIOR cross-sectional study",
+      "abstract": "Malnutrition, sarcopenia, and sarcopenic obesity may coexist with excess adiposity and cardiometabolic diseases in aging populations, but their combined burden and inflammatory profile remain insufficiently characterized. This study examined their prevalence and overlap in older adults with cardiometabolic diseases and explored associations with metabolic syndrome, multidimensional health-related factors and inflammation. In this cross-sectional study 303 Caucasian adults aged ≥ 65 years were recruited from a General Medicine ward and an Endocrinology and Metabolic Diseases outpatient clinic in Northern Italy. Malnutrition, sarcopenia, sarcopenic obesity, and metabolic syndrome were identified according to the GLIM, EWGSOP2, ESPEN/EASO, and IDF criteria, respectively. Sociodemographic, clinical, anthropometric, body composition, lifestyle, functional, psychological, and biochemical variables were collected using standardized procedures. CRP, WBC, platelet counts, prealbumin, uric acid, and circulating cytokines (IL-6, IL-10, TNF-α, and TGF-β) provided complementary information on inflammatory, nutritional, and metabolic status. The prevalence of malnutrition, sarcopenia, sarcopenic obesity, probable sarcopenia, and metabolic syndrome was 39.9%, 30.9%, 9.4%, 42.6%, and 60.1%, respectively, and was generally higher in inpatients. 13.2% of malnourished patients suffered from overweight or obesity, while malnutrition and sarcopenia overlapped in 29.2%. Older age, functional dependence, poorer physical health-related quality of life, and BMI class were associated with malnutriti…",
+      "authors": "Sara Santero, Federica Bolpagni, Sara Boussetta et al.",
       "published": "Oct 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1927058",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1927628",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "A processed dietary pattern is associated with gestational diabetes mellitus and altered APOM and SAA4 proteomic signatures in Miao women",
-      "abstract": "BackgroundThis study integrated dietary pattern analysis with serum proteomics to identify diet-related molecular signatures associated with gestational diabetes mellitus (GDM) in Miao pregnant women.MethodsA 1:1 matched case–control study was conducted among 78 Miao pregnant women (39 GDM cases and 39 controls). Dietary patterns were derived using principal component analysis. Serum proteomics was performed using data-independent acquisition mass spectrometry. Associations were evaluated using conditional logistic regression and linear mixed-effects models. LASSO penalized logistic regression was used for exploratory feature selection, followed by nested cross-validation to assess internal discriminative performance and an exploratory multivariable analysis.ResultsHigher adherence to a processed dietary pattern was associated with higher odds of GDM (OR = 2.33, 95% CI: 1.08–5.04). Proteomic analysis identified 34 candidate differentially expressed proteins enriched in lipid metabolism and inflammatory pathways. The processed dietary pattern was inversely associated with APOM (β = −0.308, p = 0.036) and showed a borderline inverse association with SAA4 (β = −0.285, p = 0.052). A leave-one-matched-pair-out nested LASSO feature-selection analysis using all 344 quality-controlled proteins yielded an internal AUC of 0.953 (95% CI: 0.894–0.992). SAA4 was selected in all 39 outer iterations, whereas selection frequencies varied across other proteins. APOM was retained for subsequent exploratory integrative analysis based primarily on its association with the processed dietary pat…",
-      "authors": "Wansong Zhang, Chenyu Liu, Yuan Sun et al.",
+      "title": "Vitamin E in diabetes-associated cognitive dysfunction: mechanistic rationale, current evidence and translational gaps",
+      "abstract": "Diabetes-associated cognitive dysfunction (DACD) is an increasingly recognized complication of diabetes mellitus and involves multiple interacting processes, including oxidative stress, neuroinflammation, synaptic dysfunction, impaired insulin signaling, and neurovascular dysfunction. Vitamin E, a lipid-soluble antioxidant comprising tocopherols and tocotrienols, has attracted interest because several of its biological actions are mechanistically relevant to these pathways. This mini-review provides a focused overview of the mechanistic rationale, current experimental and clinical evidence, and major translational gaps concerning vitamin E in DACD. Preclinical studies suggest that specific vitamin E isoforms and preparations may modulate oxidative stress and lipid peroxidation, inflammatory signaling and microglial activation, synaptic plasticity-related pathways, and insulin responsiveness, and may also influence neurovascular processes. However, much of this evidence derives from animal models, cellular systems, peripheral tissues, or disease settings other than DACD and therefore provides mechanistic rather than clinical efficacy evidence. Direct clinical evidence in patients with formally diagnosed DACD remains lacking. Small intervention studies in patients with type 2 diabetes have reported inconsistent cognitive outcomes, whereas observational associations between dietary vitamin E intake and cognition are largely derived from non-DACD populations and cannot establish causality. High-dose supplementation may also entail safety concerns. Thus, current evidence support…",
+      "authors": "Wenting Geng, Yihan Fan, Peng Li et al.",
       "published": "Oct 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1933838",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1901124",
       "image": "",
       "screen": "right"
     },

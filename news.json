@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T01:29:12Z",
+  "updated": "2026-10-30T07:56:48Z",
   "items": [
     {
       "title": "Food-based dietary guidelines as policy instruments for safeguarding traditional African food systems",
@@ -202,22 +202,22 @@
       "screen": "left"
     },
     {
+      "title": "Production and characterization of antidiabetic peptides from kefir-fermented goat milk with anti-inflammatory activity: an in silico, in vitro and molecular docking interactions",
+      "abstract": "IntroductionKefir fermentation may promote proteolysis of goat milk proteins and generate peptide-containing fractions with measurable in-vitro bioactivity. This study investigated changes in proteolysis and digestive-enzyme inhibition during fermentation, characterized peptide-containing fractions and evaluated cellular responses to fermented goat milk in an in-vitro macrophage model.MethodsGoat milk was fermented with kefir culture. Proteolysis and in-vitro inhibitory activities against α-amylase, α-glucosidase and pancreatic lipase were assessed. Fermentation conditions were compared across culture concentrations and time points. FTIR and dynamic light scattering (DLS) were used to characterize spectral features and particle-size distributions. Cytotoxicity and inflammatory responses were evaluated in RAW 264.7 macrophages. Peptide-containing fractions were characterized by ultrafiltration, RP-HPLC, electrophoresis and RP-LC/MS. Candidate peptides were screened in silico and SCQDQPTTLAR was selected for exploratory molecular docking.Results and DiscussionAfter 48 h, inhibition of α-amylase, α-glucosidase and pancreatic lipase reached 68.87%, 70.21% and 61.40%, respectively, while proteolytic activity increased to 5.523 mg/mL. Optimal fermentation was obtained with 4.8–6.8 mg kefir culture/100 mL milk for 48 h, producing 5.93 mg/mL proteolytic activity. FTIR and DLS indicated fermentation-associated structural changes. GMK was non-cytotoxic to RAW 264.7 cells and decreased TNF-α, IL-6, IL-1β and ROS at 1 mg/mL. The 3 kDa permeate exhibited the greatest α-glucosidase inhib…",
+      "authors": "Salvi Sunilkumar Tulsibhai, Kurmi Karankumar Prabhatsinh, Pooja M. Mankad et al.",
+      "published": "Oct 2026",
+      "feedName": "Frontiers Food Science",
+      "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.1974601",
+      "image": "",
+      "screen": "left"
+    },
+    {
       "title": "Rheological behaviour, structural recovery and printability of customized chocolate inks for extrusion 3D printing",
       "abstract": "BackgroundChocolate ink for extrusion-based 3D food printing requires an optimal balance of rheological behaviour, structural recovery, and textural properties to ensure smooth extrusion, shape retention, and dimensional stability after deposition. This study investigates the influence of the cocoa solids-to-fat ratio on the rheological behaviour, structural recovery, and printability of custom-developed chocolate inks.MethodologyFive formulations were prepared by varying cocoa solids (20–28%), cocoa butter (30–34%), and sugar (23.4–35.4%), while keeping the levels of milk powder, palm oil, lecithin, polyglycerol polyricinoleate, and vanilla extract constant. The inks were characterised using steady-state and oscillatory rheological measurements, including flow behaviour, viscoelastic properties, and creep-recovery tests, together with proximate and textural analysis for printability assessment.ResultsAll formulations exhibited shear-thinning behaviour and viscoelastic solid characteristics suitable for extrusion-based 3D printing. The cocoa solids–fat ratio significantly influenced the rheological, textural, and printing properties of the chocolate inks. Formulation containing 22% cocoa powder and 31% cocoa butter achieved the optimal balance of extrusion flowability, structural recovery, texture, and printability, resulting in excellent shape retention. Variations in the cocoa solids–fat ratio also modified the proximate composition, particularly fat and total solids contents, thereby influencing the overall printing performance.ConclusionThe cocoa solids–fat ratio is a c…",
       "authors": "A. D. Divate, J. A. Moses, V. R. Sinija et al.",
       "published": "Oct 2026",
       "feedName": "Frontiers Food Science",
       "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.1956772",
-      "image": "",
-      "screen": "left"
-    },
-    {
-      "title": "Sample preservation by freezing: impact on sulfite quantification in cooked shrimp",
-      "abstract": "Sulfites are widely used in shrimp processing to prevent melanosis, yet the effect of freezing on sulfite stability during sample preservation for regulatory monitoring remains unexplored. This study assessed whether frozen storage at −18 °C significantly affects sulfite quantification in cooked shrimp, aiming to validate frozen samples as a reliable alternative to refrigerated samples in official control workflows. A total of 31 paired cooked shrimp samples were collected from commercial establishments in Portugal between January and July 2024 and subjected to refrigeration (4 °C) or freezing (−18 °C) prior to analysis. For each preservation condition, two analytical determinations were performed, and their arithmetic mean was used for statistical analysis. Sulfite levels ranged from 47 to 438 mg/kg in refrigerated samples (mean: 121.68 ± 74.51 mg/kg) and 29–350 mg/kg in frozen samples (mean: 131.68 ± 66.51 mg/kg). No statistically significant difference was found between preservation conditions (paired t-test, p = 0.198). Frozen-storage duration, which ranged from 3 to 64 days, was not significantly associated with sulfite content (r = −0.107, p = 0.566) or with the within-sample difference between frozen and refrigerated results (r = 0.07, p = 0.71). Observed shifts in compliance status between paired should be interpreted cautiously as analytical uncertainty, subsampling variability and heterogeneous sulfite distribution may have influenced results. Under the specific conditions evaluated - predominantly commercial Penaeus vannamei, storage at approximately −18 °C for 3…",
-      "authors": "Helena Sousa, Pedro Nabais, Paulo Carmona et al.",
-      "published": "Oct 2026",
-      "feedName": "Frontiers Food Science",
-      "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.1998091",
       "image": "",
       "screen": "left"
     },
@@ -362,6 +362,16 @@
       "screen": "left"
     },
     {
+      "title": "Lab-aged microplastics enable tests of interactions with contaminants",
+      "abstract": "A newly published study advances our knowledge of how microplastics may age in the environment and whether they stick to other contaminants as they do so. Microplastics (MPs) are tiny plastic pieces that measure less than 5 millimeters (about 0.2 inches) in length. The study looked at the aging of MPs made of three common polymer chemicals—polyethylene, polyethylene terephthalate and polypropylene—to see if they changed as they aged and how that affected nearby contaminants.",
+      "authors": "",
+      "published": "Oct 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-10-lab-aged-microplastics-enable-interactions.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/aging-microplastics-in.jpg",
+      "screen": "right"
+    },
+    {
       "title": "New calculations reveal hidden pathways that let chemical reactions produce different products",
       "abstract": "Chemical reactions are often understood as molecules crossing a high-energy saddle point, known as a transition state, before following a downhill pathway toward a product. Conventional quantum chemical calculations typically trace this single pathway to determine how a reaction proceeds.",
       "authors": "",
@@ -389,16 +399,6 @@
       "feedName": "Phys.org Analytics",
       "url": "https://phys.org/news/2026-10-molecule-atoms-platinum-bonds-surface.html",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/chemical-bonding-on-me.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "New catalyst builds proton highways to tackle a long-standing hurdle in green ammonia synthesis",
-      "abstract": "Over a century ago, the Haber-Bosch process, a two-step reaction for the synthesis of ammonia (NH₃), an irreplaceable chemical for the fertilizer industry, prevented the world from going into a serious food crisis. Today, however, the same method consumes about 1% of global energy and contributes more than 1% of annual anthropogenic CO₂ emissions.",
-      "authors": "",
-      "published": "Oct 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-10-catalyst-proton-highways-tackle-hurdle.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/new-catalyst-creates-p.jpg",
       "screen": "right"
     },
     {
@@ -482,42 +482,42 @@
       "screen": "right"
     },
     {
-      "title": "Correction: Exercise intervention modulates food reward in obesity: efficacy, mechanisms, and prospects",
+      "title": "The cardiometabolic transition in Mexico: cohort-level evidence from the ENNVIH, 2002–2009",
+      "abstract": "IntroductionMexico experienced one of the fastest cardiometabolic transitions in Latin America between 2002 and 2009, but longitudinal evidence on its underlying drivers remains limited. This study aims to characterize within-cohort changes in four cardiometabolic indicators.MethodsA strongly balanced pseudo-panel of 14 synthetic cohorts (7 age groups × 2 sexes; ages 12–74 in 2002) was constructed from three waves of the Mexican Family Life Survey (2002, 2005, and 2009), yielding 42 cohort-wave observations. Cohort fixed-effects models with robust standard errors clustered at the cohort level were estimated, using 2002 as reference year. Because official expansion factors were unavailable for the 2009 wave, estimates from this survey were derived from unweighted analyses and should be interpreted with appropriate caution.ResultsMean BMI increased by 1.23 kg/m2 (95% CI: 0.35–2.11; p = 0.010) between 2002 and 2009. Waist circumference increased more rapidly, by 8.55 cm (95% CI: 6.32–10.78; p < 0.001). The longitudinal waist-to-BMI relationship significantly exceeded the cross-sectional baseline, indicating that abdominal obesity progressed 2.75 times faster than expected from weight gain. Abdominal obesity rose from 49.1 to 73.0%, equivalent to 22.8 million additional adults meeting IDF criteria. By 2009, over 70% had abdominal obesity, versus only 30% classified obese by BMI. Self-reported diabetes increased by 4.0 percentage points and hypertension by 2.9 (p ≤ 0.001).DiscussionMexico’s cardiometabolic transition was characterized by a rapid expansion of abdominal obesity th…",
+      "authors": "Kely Rely, Israel Rico-Alba, Guillermo Salinas-Escudero et al.",
+      "published": "Oct 2026",
+      "feedName": "Frontiers Nutrition",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1926732",
+      "image": "",
+      "screen": "right"
+    },
+    {
+      "title": "Exploring the feasibility and acceptability of sensory-adapted menus for adolescents with autism spectrum disorder in a school canteen: the AUT-MENU pilot study",
+      "abstract": "BackgroundFood Selectivity (FS) is highly prevalent among adolescents with Autism Spectrum Disorder (ASD) and may contribute to unbalanced dietary patterns and adverse nutritional outcomes. This pilot study assessed the feasibility and acceptability of sensory-adapted menus nutritionally planned in accordance with Italian dietary recommendations and Mediterranean dietary principles in a school canteen for adolescents with ASD.MethodsEleven adolescents with ASD (14–20 years) participated in a two-phase pilot study consisting of an observational phase (T0) followed by a multicomponent intervention (T1) combining sensory-based menu modifications with changes in mealtime organisation. Sociodemographic and clinical characteristics were collected at baseline. Feeding Problems (FP) and adherence to the Mediterranean Diet (MD) were assessed pre- and post-intervention. Food consumption was assessed using the Pictorial Dietary Assessment Tool (PDAT). Analyses were primarily descriptive and exploratory.ResultsDescriptive changes in food acceptance varied by dish type. Consumption was higher at T1 for selected first courses and fish-based dishes whereas fruit acceptance was lower. Descriptive changes in mealtime-related behaviors were also observed, including greater peer interaction and less frequent excessive smartphone use. The observed changes in food acceptance, FS, dietary habits, and mealtime-related behavior represent preliminary exploratory findings and should not be interpreted as evidence of intervention effectiveness.ConclusionLarger controlled intervention studies are need…",
+      "authors": "Stefania Ruggeri, Francesca Antonazzi, Ileana Croci et al.",
+      "published": "Oct 2026",
+      "feedName": "Frontiers Nutrition",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1978351",
+      "image": "",
+      "screen": "right"
+    },
+    {
+      "title": "Editorial: Phytochemicals: molecular mechanisms for anti-aging and aging-related diseases",
       "abstract": "",
-      "authors": "Dongfei Liu, Yucheng Jiang, Zhanfeng Wang et al.",
+      "authors": "Chenghao Lv, Nattaya Konsue, Si Qin",
       "published": "Oct 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.2007059",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.2011625",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Effects of caffeine intake on depressive and anxiety symptoms: a systematic review and meta-analysis of randomized controlled trials",
-      "abstract": "BackgroundCaffeine is one of the most widely consumed psychoactive dietary components worldwide. However, its effects on affective symptoms remain uncertain, with inconsistent findings regarding depressive and anxiety outcomes. This systematic review and meta-analysis aimed to evaluate the effects of quantified caffeine intake on affective symptoms based exclusively on randomized controlled trial (RCT) evidence.MethodsThe review followed the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) 2020 statement and was registered in the International Prospective Register of Systematic Reviews (PROSPERO; CRD42024564399). PubMed/MEDLINE, Embase, the Cochrane Library, Web of Science, CBM, VIP, CNKI, and Wanfang Data were searched from inception to May 16, 2026. Random-effects meta-analyses used restricted maximum likelihood estimation with Hartung–Knapp adjustment. Standardized mean differences (SMDs) with 95% confidence intervals (CIs) and, where appropriate, 95% prediction intervals (PIs) were reported. Clinical coherence was examined according to exposure pattern and psychiatric status, and dose-stratified analyses were exploratory.ResultsFifteen RCTs involving 668 participants contributing to the selected comparisons were included. For depressive symptoms, the broad pooled estimate did not show clear evidence of a difference between caffeine and control conditions [SMD = −0.49, 95% CI: (−1.33, 0.34); I2 = 92.89%; 95% PI: (−2.87, 1.88)]. Anxiety scores were higher on average after caffeine exposure [SMD = 0.51, 95% CI: (0.12, 0.89); I2 = 90.30%], althoug…",
-      "authors": "Ailing Zhang, Yudan Ni, Zhongyu Zhang et al.",
+      "title": "Lifestyle behaviors associated with the population-level double burden of malnutrition among middle school students in Saudi Arabia: a cross-sectional study",
+      "abstract": "BackgroundThe coexistence of undernutrition and overweight/obesity, commonly referred to as the double burden of malnutrition, is an important public health concern among adolescents. This study assessed the population-level double burden of malnutrition among middle school students and examined its associations with selected lifestyle behaviors.MethodsA cross-sectional study was conducted among 268 middle school students recruited from four schools selected using stratified cluster sampling. Analyses incorporated sampling weights and the complex survey design. Data on dietary habits, physical activity, and screen-related behaviors were collected using a structured self-administered questionnaire. The research team obtained anthropometric measurements, including height and weight. Nutritional status was classified using the World Health Organization BMI-for-age reference. Statistical analyses incorporated sampling weights and the complex survey design, with associations examined using the Rao–Scott design-adjusted chi-square test.ResultsSurvey-weighted estimates showed that 49.8% of the represented population had an abnormal BMI-for-age classification: 25.3% were underweight and 24.5% were overweight or obese, indicating a population-level double burden of malnutrition. In the design-adjusted bivariate analyses, eating while using screens was the only behavior significantly associated with BMI category (p = 0.046). The weighted prevalence of overweight/obesity increased from 12.1% among students who never ate while using screens to 32.9% among those who always did so. Demog…",
+      "authors": "Salwa Ali Marzouk, Asmaa Mohamed Ali AlAbd, Omaima Mohamed Elalem et al.",
       "published": "Oct 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1950050",
-      "image": "",
-      "screen": "right"
-    },
-    {
-      "title": "Insights on diverse roles of glutathione metabolism in regulating the browning of fresh-cut produce",
-      "abstract": "The postharvest preservation of fresh-cut produce remains a major challenge, largely due to wound-induced enzymatic browning. Historically, research in this area has focused primarily on oxidase-mediated pathways. Glutathione (GSH), a non-protein tripeptide thiol widely distributed across the plant kingdom, has traditionally been viewed merely as a sacrificial chemical antioxidant that mitigates browning. In this mini-review, we discuss the multi-tiered defense system governed by GSH metabolism in regulating the browning of fresh-cut produce. Based on existing evidence, we propose that GSH is not merely a passive reactive oxygen species scavenger. Instead, it may serve as a homeostatic orchestrator through multiple layers of regulation, including PPO inhibition, redox signaling, energy metabolism, and secondary metabolite allocation. Due to limited literature regarding GSH metabolism in fresh-cut produce, some of these intricate mechanisms are currently inferred from model plant systems, such as Arabidopsis thaliana. More direct evidence is required in diverse fresh-cut horticultural products. In all, a deeper understanding of these multifaceted roles of GSH metabolism in enzymatic browning will provide fresh insights into the development of targeted anti-browning strategies in the fresh-cut industry.",
-      "authors": "Siqi Xu, Xiao Yuan, Qingli Wang et al.",
-      "published": "Oct 2026",
-      "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1998961",
-      "image": "",
-      "screen": "right"
-    },
-    {
-      "title": "Well-controlled hypothyroidism does not affect the macronutrient composition of colostrum",
-      "abstract": "IntroductionMaternal hypothyroidism is a common endocrine disorder occurring during pregnancy and has been associated with adverse maternal and neonatal outcomes. When untreated or poorly controlled, hypothyroidism may influence lactation and milk composition, although the effects of well-controlled hypothyroidism on human milk remain insufficiently characterised.MethodsThis prospective cohort study included 120 postpartum women: 45 with well-controlled hypothyroidism treated with levothyroxine during pregnancy and 75 healthy controls. We collected colostrum samples within the first 5 days postpartum and analysed them using mid-infrared spectroscopy (MIRIS®) to determine macronutrient composition, including lipids, protein, carbohydrates, total solids, and energy content. We used the Mann–Whitney test for statistical analysis, with effect size assessed by Cliff’s delta. No a priori power analysis was conducted; therefore, interpret the results in light of the sample size and observed effect sizes.ResultsNo significant differences were observed between the hypothyroid and control groups in any measured component of milk composition, including lipids, crude and true protein, carbohydrates, total solids, or energy content (for all components, the p value > 0.05). Effect sizes were negligible across all variables. Additionally, there was no significant difference in neonatal outcomes and maternal characteristics between groups, indicating appropriate clinical management of hypothyroidism during pregnancy.DiscussionWell-controlled maternal hypothyroidism treated during pregnancy…",
-      "authors": "Joanna Maria Jassem-Bobowicz, Bartosz Pastuszak, Ewa Magdalena Sokołowska et al.",
-      "published": "Oct 2026",
-      "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1921550",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1930134",
       "image": "",
       "screen": "right"
     },

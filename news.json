@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T20:46:47Z",
+  "updated": "2026-10-30T01:29:12Z",
   "items": [
     {
       "title": "Food-based dietary guidelines as policy instruments for safeguarding traditional African food systems",
@@ -212,16 +212,6 @@
       "screen": "left"
     },
     {
-      "title": "From plot to composite: validation of a novel rapid immunoassay for detecting low falling number in soft white wheat from the Pacific Northwest",
-      "abstract": "IntroductionThe falling number (FN) method is the industry standard for evaluating wheat soundness by estimating the impacts to end-use quality from starch damage, typically caused by the enzyme α-amylase. Wheat that fails to meet standard industry thresholds for FN may receive price discounts, costing the wheat industry millions of dollars annually. Although FN has been the industry standard test for decades, it has several limitations such as slow runtime, expensive equipment, and low throughput, which limit consistent implementation at certain levels of the grain chain including initial grain receival stations, variety testing programs, and individual farms.MethodsThe current study validated a novel rapid immunoassay, called the TotalTarget for Sprout Damage, that estimates FN (immuno-FN) in milled wheat samples based on α-amylase activity. In total, 1,288 soft white wheat samples representing a wide range of FN, protein content, and levels of the “grain chain” (plot, elevator, and composite) were analyzed. Each sample was evaluated for FN, immuno-FN, and protein content. Agreement between FN and immuno-FN was assessed according to parameters established by the immunoassay manufacturer.ResultsOverall agreement between immuno-FN and FN exceeded 90% in samples with market-class acceptable protein, with approximately 80% agreement across samples regardless of protein content. The likelihood of agreement between FN and immuno-FN increased as the protein content approached targeted levels, and was highest within the acceptable protein range for soft white wheat. Agreement bet…",
-      "authors": "Anna J. Carroll, Adam Johnson, Lawrence G. Pessolano et al.",
-      "published": "Oct 2026",
-      "feedName": "Frontiers Food Science",
-      "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.1913401",
-      "image": "",
-      "screen": "left"
-    },
-    {
       "title": "Sample preservation by freezing: impact on sulfite quantification in cooked shrimp",
       "abstract": "Sulfites are widely used in shrimp processing to prevent melanosis, yet the effect of freezing on sulfite stability during sample preservation for regulatory monitoring remains unexplored. This study assessed whether frozen storage at −18 °C significantly affects sulfite quantification in cooked shrimp, aiming to validate frozen samples as a reliable alternative to refrigerated samples in official control workflows. A total of 31 paired cooked shrimp samples were collected from commercial establishments in Portugal between January and July 2024 and subjected to refrigeration (4 °C) or freezing (−18 °C) prior to analysis. For each preservation condition, two analytical determinations were performed, and their arithmetic mean was used for statistical analysis. Sulfite levels ranged from 47 to 438 mg/kg in refrigerated samples (mean: 121.68 ± 74.51 mg/kg) and 29–350 mg/kg in frozen samples (mean: 131.68 ± 66.51 mg/kg). No statistically significant difference was found between preservation conditions (paired t-test, p = 0.198). Frozen-storage duration, which ranged from 3 to 64 days, was not significantly associated with sulfite content (r = −0.107, p = 0.566) or with the within-sample difference between frozen and refrigerated results (r = 0.07, p = 0.71). Observed shifts in compliance status between paired should be interpreted cautiously as analytical uncertainty, subsampling variability and heterogeneous sulfite distribution may have influenced results. Under the specific conditions evaluated - predominantly commercial Penaeus vannamei, storage at approximately −18 °C for 3…",
       "authors": "Helena Sousa, Pedro Nabais, Paulo Carmona et al.",
@@ -238,6 +228,16 @@
       "published": "Oct 2026",
       "feedName": "Frontiers Food Science",
       "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.1994939",
+      "image": "",
+      "screen": "left"
+    },
+    {
+      "title": "From plot to composite: validation of a novel rapid immunoassay for detecting low falling number in soft white wheat from the Pacific Northwest",
+      "abstract": "IntroductionThe falling number (FN) method is the industry standard for evaluating wheat soundness by estimating the impacts to end-use quality from starch damage, typically caused by the enzyme α-amylase. Wheat that fails to meet standard industry thresholds for FN may receive price discounts, costing the wheat industry millions of dollars annually. Although FN has been the industry standard test for decades, it has several limitations such as slow runtime, expensive equipment, and low throughput, which limit consistent implementation at certain levels of the grain chain including initial grain receival stations, variety testing programs, and individual farms.MethodsThe current study validated a novel rapid immunoassay, called the TotalTarget for Sprout Damage, that estimates FN (immuno-FN) in milled wheat samples based on α-amylase activity. In total, 1,288 soft white wheat samples representing a wide range of FN, protein content, and levels of the “grain chain” (plot, elevator, and composite) were analyzed. Each sample was evaluated for FN, immuno-FN, and protein content. Agreement between FN and immuno-FN was assessed according to parameters established by the immunoassay manufacturer.ResultsOverall agreement between immuno-FN and FN exceeded 90% in samples with market-class acceptable protein, with approximately 80% agreement across samples regardless of protein content. The likelihood of agreement between FN and immuno-FN increased as the protein content approached targeted levels, and was highest within the acceptable protein range for soft white wheat. Agreement bet…",
+      "authors": "Anna J. Carroll, Adam Johnson, Lawrence G. Pessolano et al.",
+      "published": "Oct 2026",
+      "feedName": "Frontiers Food Science",
+      "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.1913401",
       "image": "",
       "screen": "left"
     },
@@ -362,6 +362,26 @@
       "screen": "left"
     },
     {
+      "title": "New calculations reveal hidden pathways that let chemical reactions produce different products",
+      "abstract": "Chemical reactions are often understood as molecules crossing a high-energy saddle point, known as a transition state, before following a downhill pathway toward a product. Conventional quantum chemical calculations typically trace this single pathway to determine how a reaction proceeds.",
+      "authors": "",
+      "published": "Oct 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-10-reveal-hidden-pathways-chemical-reactions.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/saitama-university-res-5.jpg",
+      "screen": "right"
+    },
+    {
+      "title": "Measuring multiple reactions on a single electrode with extraordinary sensitivity",
+      "abstract": "A reaction on a single electrode can tell scientists a remarkable amount about the chemical nature and number of analytes involved. The challenge comes when they want to distinguish many reactions on the same electrode. After more than a decade of trying to overcome that limitation, Ravi Saraf and his Nebraska Engineering graduate students have demonstrated a way to quantify many reactions on the same electrode without sacrificing extraordinary sensitivity.",
+      "authors": "",
+      "published": "Oct 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-10-multiple-reactions-electrode-extraordinary-sensitivity.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/team-pioneers-techniqu.jpg",
+      "screen": "right"
+    },
+    {
       "title": "One molecule, many atoms: Platinum bonds respond to surface features up to 10 nanometers away",
       "abstract": "Many chemical processes that sustain modern society depend on molecules binding to metal surfaces. The production of synthetic fertilizer, for example, relies on heterogeneous catalysis, in which gases react on the surface of a solid catalyst. Yet, until now, an important question has remained unresolved: How much of the metal surface actually participates in determining the strength of a chemical bond on the surface?",
       "authors": "",
@@ -379,26 +399,6 @@
       "feedName": "Phys.org Analytics",
       "url": "https://phys.org/news/2026-10-catalyst-proton-highways-tackle-hurdle.html",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/new-catalyst-creates-p.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "Atomic magnetism reveals why iron, but not chromium, can produce ammonia using sunlight",
-      "abstract": "Two nearly identical materials have completely different chemical behavior. Research teams at the University of Vienna and TU Wien studied catalysts that use the energy of sunlight to produce ammonia. Surprisingly, when the three iron atoms that form tiny triangles in these catalysts are replaced by chromium atoms, the chemical reaction no longer takes place.",
-      "authors": "",
-      "published": "Oct 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-10-atomic-magnetism-reveals-iron-chromium.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/the-invisible-force-of.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "Same radical, different paths: X-ray snapshots reveal how neighboring molecules shape its movement",
-      "abstract": "Chemical reactions have their own \"impatient molecules.\" Unable to stay still even for a moment, they latch onto other molecules indiscriminately. Researchers have now found that even these molecules change where they \"sit\" and how far they roam depending on who their neighbors are. The findings are expected to help scientists make better medicines and materials by directing reactions only to the desired sites.",
-      "authors": "",
-      "published": "Oct 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-10-radical-paths-ray-snapshots-reveal.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/the-same-radicalso-why-1.jpg",
       "screen": "right"
     },
     {
@@ -929,7 +929,7 @@
       "venue": "Journal of the American Chemical Society",
       "feedName": "Lab Research",
       "citationCount": 26,
-      "recentCitations": 3,
+      "recentCitations": 2,
       "quartile": "Q1",
       "s2_paper_id": "e8f95caa1e8ece0c16f246b34ead0788c6d4b146",
       "url": "https://doi.org/10.1021/jacs.4c00625",

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T07:56:48Z",
+  "updated": "2026-10-30T14:43:59Z",
   "items": [
     {
       "title": "Food-based dietary guidelines as policy instruments for safeguarding traditional African food systems",
@@ -82,6 +82,16 @@
       "screen": "left"
     },
     {
+      "title": "Food-derived bioactive peptides for cognitive health: Bioavailability, mechanisms, and functional potential",
+      "abstract": "",
+      "authors": "Jiaqiang Lin, Huiying Liu, Zhipeng Li",
+      "published": "Jan 2027",
+      "feedName": "Trends in Food Sci & Tech",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426006436?dgcid=rss_sd_all",
+      "image": "",
+      "screen": "left"
+    },
+    {
       "title": "Zeaxanthin in food systems: From molecular instability to structure-guided delivery and industrial translation",
       "abstract": "",
       "authors": "Ying Luo, Hongliang Li",
@@ -108,16 +118,6 @@
       "published": "Jan 2027",
       "feedName": "Trends in Food Sci & Tech",
       "url": "https://www.sciencedirect.com/science/article/pii/S0924224426006497?dgcid=rss_sd_all",
-      "image": "",
-      "screen": "left"
-    },
-    {
-      "title": "Mechanistic and network pharmacology-based evaluation of fifteen functional botanicals: Translating traditional knowledge into advanced nutraceutical formulation strategies",
-      "abstract": "",
-      "authors": "Vikas Ojha, Deepa Sharma, Mohmmad Kasif et al.",
-      "published": "Jan 2027",
-      "feedName": "Trends in Food Sci & Tech",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426006357?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -222,6 +222,16 @@
       "screen": "left"
     },
     {
+      "title": "Sample preservation by freezing: impact on sulfite quantification in cooked shrimp",
+      "abstract": "Sulfites are widely used in shrimp processing to prevent melanosis, yet the effect of freezing on sulfite stability during sample preservation for regulatory monitoring remains unexplored. This study assessed whether frozen storage at −18 °C significantly affects sulfite quantification in cooked shrimp, aiming to validate frozen samples as a reliable alternative to refrigerated samples in official control workflows. A total of 31 paired cooked shrimp samples were collected from commercial establishments in Portugal between January and July 2024 and subjected to refrigeration (4 °C) or freezing (−18 °C) prior to analysis. For each preservation condition, two analytical determinations were performed, and their arithmetic mean was used for statistical analysis. Sulfite levels ranged from 47 to 438 mg/kg in refrigerated samples (mean: 121.68 ± 74.51 mg/kg) and 29–350 mg/kg in frozen samples (mean: 131.68 ± 66.51 mg/kg). No statistically significant difference was found between preservation conditions (paired t-test, p = 0.198). Frozen-storage duration, which ranged from 3 to 64 days, was not significantly associated with sulfite content (r = −0.107, p = 0.566) or with the within-sample difference between frozen and refrigerated results (r = 0.07, p = 0.71). Observed shifts in compliance status between paired should be interpreted cautiously as analytical uncertainty, subsampling variability and heterogeneous sulfite distribution may have influenced results. Under the specific conditions evaluated - predominantly commercial Penaeus vannamei, storage at approximately −18 °C for 3…",
+      "authors": "Helena Sousa, Pedro Nabais, Paulo Carmona et al.",
+      "published": "Oct 2026",
+      "feedName": "Frontiers Food Science",
+      "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.1998091",
+      "image": "",
+      "screen": "left"
+    },
+    {
       "title": "Microwave-assisted stabilization of lipid-rich melon seed powder: enzyme inactivation, oxidative stability, and quality changes during storage",
       "abstract": "This study investigated the effectiveness of microwave-assisted stabilization in reducing endogenous enzyme activities, delaying lipid deterioration, and preserving the quality of lipid-rich melon seed powder (MSP). A 3 × 3 factorial design comprising three microwave power levels (100, 200, and 300 W) and three treatment durations (30, 60, and 90 s) was employed. Nine microwave treatments and an untreated control were evaluated for lipase and lipoxygenase (LOX) activities, physicochemical characteristics, antioxidant activity, and functional properties. Storage stability was assessed over 60 days by monitoring free fatty acid (FFA) content, peroxide value (PV), and thiobarbituric acid reactive substances (TBARS). Among the tested conditions, MW8 (300 W × 60 s; nominal specific energy input of 360 J/g) achieved the greatest enzyme inactivation, reducing lipase and LOX activities by 78.2% and 69.0%, respectively. After 60 days of storage, MW8 exhibited substantially lower FFA content (2.45% versus 5.65%), PV (5.97 versus 12.80 meq O2/kg sample), and TBARS (1.02 versus 2.18 µM MDA/g sample) than the untreated control. MW8 also increased total phenolic content and DPPH radical-scavenging activity while improving water and oil absorption capacities. Extending the treatment duration to 90 s at 300 W did not provide additional enzyme inactivation or storage protection, demonstrating a non-linear response to microwave treatment severity. Overall, microwave treatment at 300 W for 60 s provided the most favorable balance between enzyme inactivation, delayed lipid deterioration, and p…",
       "authors": "Gulcin Yildiz, Gökçen Yıldız",
@@ -232,12 +242,22 @@
       "screen": "left"
     },
     {
-      "title": "From plot to composite: validation of a novel rapid immunoassay for detecting low falling number in soft white wheat from the Pacific Northwest",
-      "abstract": "IntroductionThe falling number (FN) method is the industry standard for evaluating wheat soundness by estimating the impacts to end-use quality from starch damage, typically caused by the enzyme α-amylase. Wheat that fails to meet standard industry thresholds for FN may receive price discounts, costing the wheat industry millions of dollars annually. Although FN has been the industry standard test for decades, it has several limitations such as slow runtime, expensive equipment, and low throughput, which limit consistent implementation at certain levels of the grain chain including initial grain receival stations, variety testing programs, and individual farms.MethodsThe current study validated a novel rapid immunoassay, called the TotalTarget for Sprout Damage, that estimates FN (immuno-FN) in milled wheat samples based on α-amylase activity. In total, 1,288 soft white wheat samples representing a wide range of FN, protein content, and levels of the “grain chain” (plot, elevator, and composite) were analyzed. Each sample was evaluated for FN, immuno-FN, and protein content. Agreement between FN and immuno-FN was assessed according to parameters established by the immunoassay manufacturer.ResultsOverall agreement between immuno-FN and FN exceeded 90% in samples with market-class acceptable protein, with approximately 80% agreement across samples regardless of protein content. The likelihood of agreement between FN and immuno-FN increased as the protein content approached targeted levels, and was highest within the acceptable protein range for soft white wheat. Agreement bet…",
-      "authors": "Anna J. Carroll, Adam Johnson, Lawrence G. Pessolano et al.",
-      "published": "Oct 2026",
-      "feedName": "Frontiers Food Science",
-      "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.1913401",
+      "title": "Time-resolved metabolic mechanism of 3-methylbutanal formation from leucine in Lactococcus lactis CGMCC 31087",
+      "abstract": "",
+      "authors": "Hai Yu, Lei Chen, Rui Liu et al.",
+      "published": "Apr 2027",
+      "feedName": "Food Microbiology",
+      "url": "https://www.sciencedirect.com/science/article/pii/S074000202600314X?dgcid=rss_sd_all",
+      "image": "",
+      "screen": "left"
+    },
+    {
+      "title": "Combined transcriptomics and metabolomics revealed the effects of ferric iron accessibility on the spoilage potential and metabolism of common spoilage bacteria in refrigerated grass carp flesh",
+      "abstract": "",
+      "authors": "Siyi Guo, Liuhong Zhao, Ying Wang et al.",
+      "published": "Apr 2027",
+      "feedName": "Food Microbiology",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0740002026003175?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -262,63 +282,43 @@
       "screen": "left"
     },
     {
-      "title": "A cooperative dual-phage cocktail of INFJ1 and INFJ2 for the biocontrol of Yersinia enterocolitica in food matrices",
+      "title": "Matrix-derived hypoallergenicity: potential roles of Beta vulgaris polyphenols and betalamic acid in PR-10 allergen modulation",
       "abstract": "",
-      "authors": "Seongshin Jo, Haejoon Park, Minsuk Kong",
-      "published": "Apr 2027",
-      "feedName": "Food Microbiology",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0740002026002959?dgcid=rss_sd_all",
-      "image": "",
-      "screen": "left"
-    },
-    {
-      "title": "Detection frequency and characterization of Clostridioides difficile from French slaughterhouses in the pig, cattle, and poultry sectors",
-      "abstract": "",
-      "authors": "Caroline Le Maréchal, Muriel Ehmig, Typhaine Poezevara et al.",
-      "published": "Apr 2027",
-      "feedName": "Food Microbiology",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0740002026003114?dgcid=rss_sd_all",
-      "image": "",
-      "screen": "left"
-    },
-    {
-      "title": "Beyond food waste reduction: nutritional contributions of food rescue initiatives. A systematic review",
-      "abstract": "",
-      "authors": "Janice Ee Fang Tay, Lai Ti Gew, Serene En Hui Tung et al.",
+      "authors": "Parisa Mostashari, Motahareh Hashemi Moosavi, Ismail Eş et al.",
       "published": "Oct 2026",
       "feedName": "npj Science of Food",
-      "url": "https://www.nature.com/articles/s41538-026-01150-6",
-      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01150-6/MediaObjects/41538_2026_1150_Fig1_HTML.png",
+      "url": "https://www.nature.com/articles/s41538-026-01071-4",
+      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01071-4/MediaObjects/41538_2026_1071_Fig1_HTML.png",
       "screen": "left"
     },
     {
-      "title": "Caco-2-derived spheroids and organ-on-a-chip for food safety risk assessment: mechanisms of intestinal inflammation induced by 20 nm polystyrene nanoplastics",
+      "title": "High-voltage cold plasma alleviates chilling injury in green pepper by synergistically regulating antioxidant and membrane lipid metabolism",
       "abstract": "",
-      "authors": "Zhenjie Lu, Xin Yuan, Xin Zeng et al.",
+      "authors": "Bowen Jia, Wanting Yang, Jiankang Cao et al.",
       "published": "Oct 2026",
       "feedName": "npj Science of Food",
-      "url": "https://www.nature.com/articles/s41538-026-01218-3",
-      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01218-3/MediaObjects/41538_2026_1218_Fig1_HTML.png",
+      "url": "https://www.nature.com/articles/s41538-026-01220-9",
+      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01220-9/MediaObjects/41538_2026_1220_Fig1_HTML.png",
       "screen": "left"
     },
     {
-      "title": "Integrated metabolomic and transcriptomic analysis of oligoproanthocyanidins biotransformation by rhizosphere filamentous fungi from tea plant ( Camellia sinensis )",
+      "title": "Trifluoromethylpyrimidine‑thiosemicarbazide derivatives as novel multifunctional food preservatives for enhancing storage stability of roxburgh rose juice",
       "abstract": "",
-      "authors": "Shuang Liang, Chun Zou, Longjie Xu et al.",
+      "authors": "Pei Li, Shijing Tang, Wenmin Pan et al.",
       "published": "Oct 2026",
       "feedName": "npj Science of Food",
-      "url": "https://www.nature.com/articles/s41538-026-01227-2",
-      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01227-2/MediaObjects/41538_2026_1227_Fig1_HTML.png",
+      "url": "https://www.nature.com/articles/s41538-026-01213-8",
+      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01213-8/MediaObjects/41538_2026_1213_Fig1_HTML.png",
       "screen": "left"
     },
     {
-      "title": "From aroma cue to feeding behavior: Sichuan pepper essential oil aroma stimulates appetite via cognitive and physiological pathways",
+      "title": "Profiling of pollen in honey using multispectral imaging flow cytometry",
       "abstract": "",
-      "authors": "Jiahui Song, Huijuan Shen, Feifei Zhao et al.",
+      "authors": "Franziska Walther, Martin Hofmann, Martina Janke et al.",
       "published": "Oct 2026",
       "feedName": "npj Science of Food",
-      "url": "https://www.nature.com/articles/s41538-026-01221-8",
-      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01221-8/MediaObjects/41538_2026_1221_Fig1_HTML.png",
+      "url": "https://www.nature.com/articles/s41538-026-01188-6",
+      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01188-6/MediaObjects/41538_2026_1188_Fig1_HTML.png",
       "screen": "left"
     },
     {
@@ -442,6 +442,16 @@
       "screen": "right"
     },
     {
+      "title": "Type 2 diabetes breakthrough as 54% achieve remission in just 6 months",
+      "abstract": "A promising new study suggests that more than half of younger adults with type 2 diabetes could achieve remission in just six months through a combination of a low-calorie diet and structured exercise. Researchers found that 54% of participants under age 45 who followed an intensive diet and exercise program achieved remission, compared with just 4% receiving usual care.",
+      "authors": "",
+      "published": "Oct 2026",
+      "feedName": "ScienceDaily Nutrition",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261029072129.htm",
+      "image": "https://www.sciencedaily.com/images/1920/diabetes-wood-block.webp",
+      "screen": "right"
+    },
+    {
       "title": "Six popular sugar substitutes linked to faster brain aging",
       "abstract": "A study of nearly 13,000 adults found that people consuming the most artificial sweeteners experienced a 62% faster decline in memory and thinking skills, equivalent to approximately 1.6 additional years of brain aging. Six popular sweeteners were linked to faster cognitive decline, raising concerns about the long-term brain health effects of common sugar substitutes, although causation was not established.",
       "authors": "",
@@ -472,22 +482,12 @@
       "screen": "right"
     },
     {
-      "title": "Low testosterone may make sugar far more harmful to your liver",
-      "abstract": "Scientists have discovered that low testosterone and a high-fructose diet can work together to worsen fatty liver disease in mice. Unexpectedly, changes in gut bacteria appear to drive this harmful interaction, revealing a potential new target for preventing liver damage.",
-      "authors": "",
-      "published": "Oct 2026",
-      "feedName": "ScienceDaily Nutrition",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261026225622.htm",
-      "image": "https://www.sciencedaily.com/images/1920/magnifying-glass-diseased-liver.webp",
-      "screen": "right"
-    },
-    {
-      "title": "The cardiometabolic transition in Mexico: cohort-level evidence from the ENNVIH, 2002–2009",
-      "abstract": "IntroductionMexico experienced one of the fastest cardiometabolic transitions in Latin America between 2002 and 2009, but longitudinal evidence on its underlying drivers remains limited. This study aims to characterize within-cohort changes in four cardiometabolic indicators.MethodsA strongly balanced pseudo-panel of 14 synthetic cohorts (7 age groups × 2 sexes; ages 12–74 in 2002) was constructed from three waves of the Mexican Family Life Survey (2002, 2005, and 2009), yielding 42 cohort-wave observations. Cohort fixed-effects models with robust standard errors clustered at the cohort level were estimated, using 2002 as reference year. Because official expansion factors were unavailable for the 2009 wave, estimates from this survey were derived from unweighted analyses and should be interpreted with appropriate caution.ResultsMean BMI increased by 1.23 kg/m2 (95% CI: 0.35–2.11; p = 0.010) between 2002 and 2009. Waist circumference increased more rapidly, by 8.55 cm (95% CI: 6.32–10.78; p < 0.001). The longitudinal waist-to-BMI relationship significantly exceeded the cross-sectional baseline, indicating that abdominal obesity progressed 2.75 times faster than expected from weight gain. Abdominal obesity rose from 49.1 to 73.0%, equivalent to 22.8 million additional adults meeting IDF criteria. By 2009, over 70% had abdominal obesity, versus only 30% classified obese by BMI. Self-reported diabetes increased by 4.0 percentage points and hypertension by 2.9 (p ≤ 0.001).DiscussionMexico’s cardiometabolic transition was characterized by a rapid expansion of abdominal obesity th…",
-      "authors": "Kely Rely, Israel Rico-Alba, Guillermo Salinas-Escudero et al.",
+      "title": "Association between Diet Quality Index-International and the odds of polycystic ovary syndrome: a case–control study",
+      "abstract": "BackgroundPolycystic ovary syndrome (PCOS) is the most common endocrine-metabolic disorder in women of reproductive age, associated with reproductive, metabolic, and psychological complications. Given the role of lifestyle factors in the pathophysiology of PCOS, dietary patterns have gained attention as modifiable determinants. However, previous studies have mostly focused on specific dietary indices, and the association between a comprehensive diet quality index and PCOS risk remains unclear. This study aimed to investigate the association between a comprehensive diet quality index and the odds of PCOS using a case–control design.MethodThis case–control study enrolled 300 women (150 PCOS cases and 150 healthy controls) aged 20–35 years from Umm Al-Qura University Hospital. Dietary intake was assessed using a validated FFQ, and diet quality was measured by the Diet Quality Index-International (DQI-I) (score 0–100). Anthropometrics and physical activity were recorded. Logistic regression, adjusted for age, body mass index, smoking status, dietary fiber intake, physical activity, and total energy intake, was used to evaluate the association between DQI-I tertiles and PCOS risk, with p < 0.05 considered significant.ResultsPCOS cases had higher BMI (29.1 vs. 27.0 kg/m2, p = 0.044) and lower DQI-I scores (68.0 vs. 70.0, p < 0.001) than controls, with lower intakes of fruits, vegetables, and low-fat dairy (p < 0.05) but higher MUFA and PUFA (p < 0.05). In adjusted logistic regression, the highest DQI-I tertile was associated with 70% lower odds of PCOS versus the lowest tertile (…",
+      "authors": "Pushpamala Ramaiah, Ibtesam Nomani, Hayam Ibrahim Asfour et al.",
       "published": "Oct 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1926732",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1986758",
       "image": "",
       "screen": "right"
     },

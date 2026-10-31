@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T07:47:04Z",
+  "updated": "2026-10-31T14:05:26Z",
   "items": [
     {
       "title": "When conflict with industrial fishing threatens coastal communities",
@@ -362,6 +362,16 @@
       "screen": "left"
     },
     {
+      "title": "'Molecular armor' can trap shape-matched planar molecules",
+      "abstract": "A research team has designed and synthesized a molecular cage with an internal cavity by connecting two curved π-conjugated molecules face-to-face at three points.",
+      "authors": "",
+      "published": "Oct 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-10-molecular-armor-planar-molecules.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/researchers-develop-mo-2.jpg",
+      "screen": "right"
+    },
+    {
       "title": "Novel chemical reaction expands options for building DNA-encoded libraries",
       "abstract": "Finding new drugs requires screening vast numbers of compounds to identify those that interact with a biological target. DNA-encoded libraries (DELs) help researchers explore these large collections by attaching a short DNA sequence to each molecule, acting as a molecular barcode that allows compounds with promising properties to be identified.",
       "authors": "",
@@ -389,16 +399,6 @@
       "feedName": "Phys.org Analytics",
       "url": "https://phys.org/news/2026-10-lab-aged-microplastics-enable-interactions.html",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/aging-microplastics-in.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "New calculations reveal hidden pathways that let chemical reactions produce different products",
-      "abstract": "Chemical reactions are often understood as molecules crossing a high-energy saddle point, known as a transition state, before following a downhill pathway toward a product. Conventional quantum chemical calculations typically trace this single pathway to determine how a reaction proceeds.",
-      "authors": "",
-      "published": "Oct 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-10-reveal-hidden-pathways-chemical-reactions.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/saitama-university-res-5.jpg",
       "screen": "right"
     },
     {
@@ -452,6 +452,16 @@
       "screen": "right"
     },
     {
+      "title": "A surprising vitamin A discovery is changing what scientists know about vision",
+      "abstract": "Scientists at Johns Hopkins University have uncovered a surprising process that helps humans develop sharp vision before birth, challenging decades of assumptions about how the eye forms. Using miniature human retinas grown in the lab, researchers discovered that a vitamin A derivative and thyroid hormones work together to shape the foveola, the tiny region at the center of the retina responsible for our sharpest vision.",
+      "authors": "",
+      "published": "Oct 2026",
+      "feedName": "ScienceDaily Nutrition",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261028234813.htm",
+      "image": "https://www.sciencedaily.com/images/1920/light-blue-iris-eye-close-up.webp",
+      "screen": "right"
+    },
+    {
       "title": "Six popular sugar substitutes linked to faster brain aging",
       "abstract": "A study of nearly 13,000 adults found that people consuming the most artificial sweeteners experienced a 62% faster decline in memory and thinking skills, equivalent to approximately 1.6 additional years of brain aging. Six popular sweeteners were linked to faster cognitive decline, raising concerns about the long-term brain health effects of common sugar substitutes, although causation was not established.",
       "authors": "",
@@ -469,16 +479,6 @@
       "feedName": "ScienceDaily Nutrition",
       "url": "https://www.sciencedaily.com/releases/2026/10/261028232701.htm",
       "image": "https://www.sciencedaily.com/images/1920/pouring-fresh-cranberry-juice.webp",
-      "screen": "right"
-    },
-    {
-      "title": "A simple daily fiber supplement reduced arthritis pain and improved strength",
-      "abstract": "A new clinical trial suggests that a simple daily fiber supplement could significantly reduce knee osteoarthritis pain, improve muscle strength, and make the body less sensitive to pain. Researchers discovered that the benefits may be linked to changes in gut bacteria and the hormone GLP-1, revealing a promising new approach to arthritis relief.",
-      "authors": "",
-      "published": "Oct 2026",
-      "feedName": "ScienceDaily Nutrition",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261027230715.htm",
-      "image": "https://www.sciencedaily.com/images/1920/knee-joint-pain-woman.webp",
       "screen": "right"
     },
     {

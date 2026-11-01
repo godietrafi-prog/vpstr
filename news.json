@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01T03:22:51Z",
+  "updated": "2026-11-01T11:02:28Z",
   "items": [
     {
       "title": "When conflict with industrial fishing threatens coastal communities",
@@ -282,6 +282,16 @@
       "screen": "left"
     },
     {
+      "title": "Integrated transcriptomic and metabolomic analyses reveal monoterpenoid biosynthesis in Aspergillus cristatus during tea infusion fermentation",
+      "abstract": "",
+      "authors": "Haoran Sun, Yaling Cao, Jia Li et al.",
+      "published": "Nov 2026",
+      "feedName": "npj Science of Food",
+      "url": "https://www.nature.com/articles/s41538-026-01224-5",
+      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01224-5/MediaObjects/41538_2026_1224_Fig1_HTML.png",
+      "screen": "left"
+    },
+    {
       "title": "Matrix-derived hypoallergenicity: potential roles of Beta vulgaris polyphenols and betalamic acid in PR-10 allergen modulation",
       "abstract": "",
       "authors": "Parisa Mostashari, Motahareh Hashemi Moosavi, Ismail Eş et al.",
@@ -309,16 +319,6 @@
       "feedName": "npj Science of Food",
       "url": "https://www.nature.com/articles/s41538-026-01213-8",
       "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01213-8/MediaObjects/41538_2026_1213_Fig1_HTML.png",
-      "screen": "left"
-    },
-    {
-      "title": "Profiling of pollen in honey using multispectral imaging flow cytometry",
-      "abstract": "",
-      "authors": "Franziska Walther, Martin Hofmann, Martina Janke et al.",
-      "published": "Oct 2026",
-      "feedName": "npj Science of Food",
-      "url": "https://www.nature.com/articles/s41538-026-01188-6",
-      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01188-6/MediaObjects/41538_2026_1188_Fig1_HTML.png",
       "screen": "left"
     },
     {
@@ -629,7 +629,7 @@
       "venue": "Food and Bioprocess Technology",
       "feedName": "Lab Research",
       "citationCount": 6,
-      "recentCitations": 1,
+      "recentCitations": 0,
       "quartile": "Q1",
       "s2_paper_id": "034d8c4f0c0f5607a4e6727360aa5d7287e60d5b",
       "url": "https://doi.org/10.1007/s11947-025-03873-y",

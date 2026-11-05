@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05T08:51:59Z",
+  "updated": "2026-11-05T17:49:29Z",
   "items": [
     {
       "title": "Divergent nitrous oxide accounting can distort crop carbon intensity scores and agricultural trade",
@@ -42,42 +42,72 @@
       "screen": "left"
     },
     {
-      "title": "Comparative effects of different pretreatment strategies on mead aroma: A multi-omics analysis with mechanistic insights",
+      "title": "Pre-distillation thermal exposure biases recoverable TVB-N measurements in meat",
       "abstract": "",
-      "authors": "Ziwei Liu, Jingyu Zhang, Wenlin Sun et al.",
+      "authors": "Linhe Niu, Lanqi Zhou, Xin Lv et al.",
       "published": "Dec 2026",
       "feedName": "Food Chemistry",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626039968?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626038173?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
     {
-      "title": "Evaluation of full-bodied mouthfeel in Jiangxiangxing baijiu based on multimodal profiling and machine learning",
+      "title": "AIE-enhanced glutathione-stabilized CuNCs/SA hydrogel for dual-mode fluorescence-colorimetric Immunosensing of aflatoxin B 1 in foods",
       "abstract": "",
-      "authors": "Yubo Yang, Panpan Chen, Bohan Zhang et al.",
+      "authors": "Jing Cao, Jianbo Pan, Zeying Yu et al.",
       "published": "Dec 2026",
       "feedName": "Food Chemistry",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626040112?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626040811?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
     {
-      "title": "Screening of potential estrogen disruptors of food additives based on a framework for predicting estrogenic activity combined with bioassays",
+      "title": "Development and validation of an analytical method for the comprehensive profiling of tryptophan-derived compounds in pistachio ( Pistacia vera L.)",
       "abstract": "",
-      "authors": "Ying Wang, Ruiping Shan, Minglu Wang et al.",
+      "authors": "Isabel Velasco-Ruiz, José Manuel Moreno-Rojas, Gema Pereira-Caro et al.",
       "published": "Dec 2026",
       "feedName": "Food Chemistry",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626039518?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626038677?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
     {
-      "title": "Enzyme-catalyzed oxidative crosslinking for the fabrication of zein–chitosan conjugate film in multifunctional food preservation",
+      "title": "Fabrication of sodium caseinate-EGCG-Fe 3+ complexes based on metal-phenolic network and their application in high internal phase emulsion delivery systems",
       "abstract": "",
-      "authors": "Sihan Liao, Di Liu, Jingwen Zhang et al.",
+      "authors": "Baoming Tian, Pinjiao Huang, Xinkai Ye et al.",
       "published": "Dec 2026",
       "feedName": "Food Chemistry",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626040719?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626040471?dgcid=rss_sd_all",
+      "image": "",
+      "screen": "left"
+    },
+    {
+      "title": "A critical review of extraction, purification, structural characterization, bioactivity, structure-activity relationship, and potential applications of polysaccharides from Siraitia grosvenorii",
+      "abstract": "",
+      "authors": "Bowen Tian, Xinxin Xu, Yuan Sun et al.",
+      "published": "Jan 2027",
+      "feedName": "Trends in Food Sci & Tech",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426006722?dgcid=rss_sd_all",
+      "image": "",
+      "screen": "left"
+    },
+    {
+      "title": "Industrial tea for food applications: Bridging quality transformation and intelligent processing",
+      "abstract": "",
+      "authors": "Lin Si, Yang Wei, Xiao-Lin Huang et al.",
+      "published": "Jan 2027",
+      "feedName": "Trends in Food Sci & Tech",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426006825?dgcid=rss_sd_all",
+      "image": "",
+      "screen": "left"
+    },
+    {
+      "title": "Large language models-driven intelligent food printing: towards autonomous and precision manufacturing",
+      "abstract": "",
+      "authors": "Dongle Niu, Min Zhang, Bhesh Bhandari et al.",
+      "published": "Jan 2027",
+      "feedName": "Trends in Food Sci & Tech",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426006709?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -88,36 +118,6 @@
       "published": "Jan 2027",
       "feedName": "Trends in Food Sci & Tech",
       "url": "https://www.sciencedirect.com/science/article/pii/S0924224426006424?dgcid=rss_sd_all",
-      "image": "",
-      "screen": "left"
-    },
-    {
-      "title": "From predictive models toward digital twins in food-grade valorization of agri-food side streams: A review and implementation roadmap",
-      "abstract": "",
-      "authors": "Emmanuel Cobbinah-Sam, Daniel Onwude",
-      "published": "Jan 2027",
-      "feedName": "Trends in Food Sci & Tech",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426006710?dgcid=rss_sd_all",
-      "image": "",
-      "screen": "left"
-    },
-    {
-      "title": "A review on non-thermal processing as an immunomodulatory strategy: Preserving intrinsic bioactivity and limiting neoantigenicity",
-      "abstract": "",
-      "authors": "P. Rahini, R. Mahendran",
-      "published": "Jan 2027",
-      "feedName": "Trends in Food Sci & Tech",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426006813?dgcid=rss_sd_all",
-      "image": "",
-      "screen": "left"
-    },
-    {
-      "title": "Tea-gut microbiota interactions in colitis: From processing-driven phytochemical evolution to epithelial homeostasis",
-      "abstract": "",
-      "authors": "Yuning Sun, Qinqin Xu, Yuexin Liu et al.",
-      "published": "Jan 2027",
-      "feedName": "Trends in Food Sci & Tech",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426006771?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -202,12 +202,12 @@
       "screen": "left"
     },
     {
-      "title": "Kefir-fermented camel milk: physicochemical characteristics, sensory evaluation, and consumer behavior in Morocco",
-      "abstract": "Althou⁠g⁠h camel milk is gen⁠erally acknowledged for its nutr⁠itional content and medicinal effects, the processing technolo⁠gy and consumer acceptability of its fermented products rem⁠ain⁠ to b⁠e improved. This study aimed to ev⁠alua⁠te Moroccan consu⁠mers’ perception of and intention to consume camel milk fermented with kefir grai⁠ns and investigate the effect of enrichment with natural date extract on the physicochemical and sensory characteristics of the product. A survey was conducted with 1,009 participants from different regions of Morocco to study consumption habits, knowledge of fermented c⁠amel milk products, and the intention to consume kefir-fermented camel milk. In parallel, camel milk formulations fermented with kefir gra⁠ins, unflavored, f⁠lavored with sucrose, and enriched with date extra⁠ct we⁠r⁠e developed and characteri⁠zed through physicochemical analyses, sensory acceptance, and preference tests. Both flavored⁠ formulations were standardized to the same soluble solids content (8.13 °Brix), ensuring comparable s⁠weetness during physicochemical and⁠ sensory evalua⁠tion. The results indicated that information on nutrition⁠al benefits positively influenced consumption intention. Enrichment with date extract significantly modified the physicochemical characteristics and improved sensory ac⁠ceptability compared with that of the sucrose-flavored formulation. These findings indicate that da⁠te extract can be used to modify the p⁠hysicochemical characteristics and improve the sensory accep⁠tance of camel milk kefir while contribu⁠ting to the valorization of loca…",
-      "authors": "Charaf Dlimi, Yassine Zine-Eddine, Omar Ait El Alia et al.",
+      "title": "Culturable bacterial diversity in a recirculating aquaculture system for sole fish farming: analysis of potential pathogens and putative bioremediation, probiotic and antimicrobial significance",
+      "abstract": "Understanding the bacterial diversity present in recirculating aquaculture systems (RAS) is essential for identifying potential pathogens and taxa with bioremediation and biotechnological relevance, particularly as these artificial environments remain largely unexplored bioresources with untapped microbial potential. This study is the first to characterize the culturable bacterial diversity within a RAS for sole farming (Solea senegalensis) in Portugal, providing a comprehensive first insight into what seems to be a complex bacterial dynamic. Phylogenetic analysis of 193 strains, revealed that Pseudomonadota (76.4%) was the most abundant phylum, followed by Actinomycetia (10.7%), and Bacteroidota (9.8%). At the class level, Gammaproteobacteria (65.7%), Actinomycetia (10.7%), and Alphaproteobacteria (10.7%) dominated, with Alteromonadales (33.9%) and Vibrionales (13.7%) as the prevalent orders. A comparison with metagenomic studies previously reported for similar RAS systems showed some overlap in dominant phyla, however, different genera were also cultivated in the present study, particularly those from the orders Micrococcales and Vibrionales. In all, a total of 48 bacterial genera were identified, with 33 cultivated only from the RAS and 9 cultivated only from its water supply. Our findings reveal the presence of taxa closely related to bacterial strains previously reported for their biotechnological potential, including strains described as probiotics, as producers of antimicrobial compounds, and as agents of bioremediation. Although strains related to fish and human pat…",
+      "authors": "Bárbara Gonçalves, Pablo Suárez-Moo, Alejandra Prieto-Davó et al.",
       "published": "Nov 2026",
       "feedName": "Frontiers Food Science",
-      "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.1928545",
+      "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.1937824",
       "image": "",
       "screen": "left"
     },
@@ -222,22 +222,22 @@
       "screen": "left"
     },
     {
+      "title": "Kefir-fermented camel milk: physicochemical characteristics, sensory evaluation, and consumer behavior in Morocco",
+      "abstract": "Althou⁠g⁠h camel milk is gen⁠erally acknowledged for its nutr⁠itional content and medicinal effects, the processing technolo⁠gy and consumer acceptability of its fermented products rem⁠ain⁠ to b⁠e improved. This study aimed to ev⁠alua⁠te Moroccan consu⁠mers’ perception of and intention to consume camel milk fermented with kefir grai⁠ns and investigate the effect of enrichment with natural date extract on the physicochemical and sensory characteristics of the product. A survey was conducted with 1,009 participants from different regions of Morocco to study consumption habits, knowledge of fermented c⁠amel milk products, and the intention to consume kefir-fermented camel milk. In parallel, camel milk formulations fermented with kefir gra⁠ins, unflavored, f⁠lavored with sucrose, and enriched with date extra⁠ct we⁠r⁠e developed and characteri⁠zed through physicochemical analyses, sensory acceptance, and preference tests. Both flavored⁠ formulations were standardized to the same soluble solids content (8.13 °Brix), ensuring comparable s⁠weetness during physicochemical and⁠ sensory evalua⁠tion. The results indicated that information on nutrition⁠al benefits positively influenced consumption intention. Enrichment with date extract significantly modified the physicochemical characteristics and improved sensory ac⁠ceptability compared with that of the sucrose-flavored formulation. These findings indicate that da⁠te extract can be used to modify the p⁠hysicochemical characteristics and improve the sensory accep⁠tance of camel milk kefir while contribu⁠ting to the valorization of loca…",
+      "authors": "Charaf Dlimi, Yassine Zine-Eddine, Omar Ait El Alia et al.",
+      "published": "Nov 2026",
+      "feedName": "Frontiers Food Science",
+      "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.1928545",
+      "image": "",
+      "screen": "left"
+    },
+    {
       "title": "Highly sensitive detection of soybean-derived DNA in soy sauce using an integrated PCR-CRISPR/Cas12a nucleic acid detection platform",
       "abstract": "IntroductionSoy sauce is a traditional fermented condiment with widespread global consumption, and its authenticity depends on the requisite use of soybeans as a primary ingredient. However, for economic gain, soybean has been partially or completely substituted with cheaper materials, including other legumes such as pea or peanut, or non‐soybean nitrogen sources such as acid‐hydrolysed animal protein derived from feathers or hair. Such practices constitute economic fraud and labelling violations and may introduce undeclared allergens, raising legitimate concerns regarding food safety and consumer trust. Conventional DNA‐based detection techniques are often hindered by DNA fragmentation and the presence of PCR inhibitors in the complex, fermented matrix, leading to compromised sensitivity and reliability.MethodsTo overcome these limitations, we developed a novel nucleic acid detection platform that synergistically combines target pre‐amplification via polymerase chain reaction (PCR) with highly specific sequence recognition and signal amplification utilizing the CRISPR/Cas12a system.ResultsThis integrated approach achieved a detection limit of 10 femtomolar (fM) for a synthetic Le1 target DNA standard, which compares favourably with many existing methods. The practical applicability of this assay was preliminarily evaluated on 22 commercially available soy sauce samples from various markets.Discussion This study establishes a sensitive and reproducible endpoint‐fluorescence tool for the detection of soybean‐derived DNA. The assay holds promise for routine food authenticatio…",
       "authors": "Jingbing Xu, Lingli Cai, Liwei Chen et al.",
       "published": "Nov 2026",
       "feedName": "Frontiers Food Science",
       "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.1967920",
-      "image": "",
-      "screen": "left"
-    },
-    {
-      "title": "Effect of pumpkin pulp (Cucurbita maxima) pigments as natural colorants in ice cream: extraction efficiency, bioactive compounds and sensory acceptance",
-      "abstract": "IntroductionPumpkin (Cucurbita maxima) pulp is a promising source of natural pigments with potential applications as food colorants. This study evaluated three extraction methods and the sensory acceptance of pumpkin-derived pigments in ice cream.MethodsMaceration, Soxhlet extraction, and supercritical CO2 extraction were compared in terms of extraction yield, total carotenoid and flavonoid contents, and DPPH antioxidant activity expressed as IC50. Analytical determinations were performed in triplicate. Extraction methods were compared using one-way ANOVA followed by Tukey’s HSD test. The Soxhlet extract was selected for ice cream formulation, which was evaluated by 100 untrained adult panelists using a five-point hedonic scale. Sensory data were analyzed using the Kruskal–Wallis test followed by Dunn–Bonferroni comparisons.ResultsSupercritical CO2 extraction resulted in the highest carotenoid content (315.22 ± 0.01 mg kg−1) and total flavonoid content (1099.08 ± 0.04 mg QE kg−1 extract). Soxhlet extraction achieved the highest extraction yield (22.72 ± 0.33%) and the lowest IC50 value (1.06 ± 0.035 mg/mL). The formulation containing 600 mg of extract per 600 g of ice cream (Z3) showed the highest color acceptance. Significant differences were detected for color (p < 0.05), but not for odor, flavor, or texture (p > 0.05).DiscussionThe extraction method affected both extraction yield and the measured characteristics of the pumpkin extracts. The results support the potential of pumpkin-derived pigments as natural food colorants, although further work is needed to evaluate the…",
-      "authors": "Kenneth Quijije, Shirley Moncayo Baño, Cecibel Alava Pincay et al.",
-      "published": "Nov 2026",
-      "feedName": "Frontiers Food Science",
-      "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.1963126",
       "image": "",
       "screen": "left"
     },
@@ -322,6 +322,16 @@
       "screen": "left"
     },
     {
+      "title": "RAVEN: a foundation model-based approach for predicting avian influenza outbreak risk with multi-source geospatial data",
+      "abstract": "",
+      "authors": "Marzieh Soltani, Timothée Vergne, Mina Khoshbazm Farimani et al.",
+      "published": "Dec 2026",
+      "feedName": "AI in Agriculture",
+      "url": "https://www.sciencedirect.com/science/article/pii/S258972172600125X?dgcid=rss_sd_all",
+      "image": "",
+      "screen": "left"
+    },
+    {
       "title": "An explainable deep learning approach based on a feature attention mechanism for maintaining SSC model performance in apples across interannual variability",
       "abstract": "",
       "authors": "Penghui Liu, Changqing An, Zhizhong Sun et al.",
@@ -352,14 +362,14 @@
       "screen": "left"
     },
     {
-      "title": "Bi-temporal semantic change detection of rice disease and lodging based on difference token transformers and cross-branch distillation",
-      "abstract": "",
-      "authors": "Jianlin Zhang, Yishuang Huang, Agen Li et al.",
-      "published": "",
-      "feedName": "AI in Agriculture",
-      "url": "https://www.sciencedirect.com/science/article/pii/S2589721726001297?dgcid=rss_sd_all",
-      "image": "",
-      "screen": "left"
+      "title": "A sweeter future? AI helps scientists discover new sugar substitutes",
+      "abstract": "Researchers Dr. Shayma El-Atawneh and professor Amiram Goldblum at the Hebrew University of Jerusalem have developed a new computational framework that identified 92 promising candidates for future sugar substitutes from more than 50 million chemical compounds. The study, published in the journal Food Chemistry, demonstrates how artificial intelligence and molecular modeling could accelerate the discovery of new sweeteners while helping overcome one of the industry's persistent challenges: unwanted bitter aftertastes.",
+      "authors": "",
+      "published": "Nov 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-11-sweeter-future-ai-scientists-sugar.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/a-sweeter-future-ai-he.jpg",
+      "screen": "right"
     },
     {
       "title": "First direct observations reveal hydrogen dissolved in tiny gaps between metal atoms",
@@ -389,16 +399,6 @@
       "feedName": "Phys.org Analytics",
       "url": "https://phys.org/news/2026-11-asymmetric-atomic-sodiumsulfur-battery.html",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/asymmetric-atomic-stru.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "More power, less payoff: Study reveals a bottleneck in cleaner methanol production",
-      "abstract": "Dialing up the power on electricity-driven chemical reactions doesn't guarantee that they'll be more efficient, suggests a new study, a finding that gets researchers closer to creating the ideal conditions for sustainable chemical manufacturing.",
-      "authors": "",
-      "published": "Nov 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-11-power-payoff-reveals-bottleneck-cleaner.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/study-advances-new-pat.jpg",
       "screen": "right"
     },
     {
@@ -482,32 +482,12 @@
       "screen": "right"
     },
     {
-      "title": "A three-dimensional convolutional neural network with joint spectral–spatial attention for celery adulteration detection using hyperspectral imaging",
-      "abstract": "IntroductionStalk celery (Apium graveolens var. dulce) commands a market premium that invites substitution with cheaper Apiaceae relatives, yet conventional authentication is either destructive, slow, or insensitive at the low blending ratios that are hardest to catch.MethodsWe acquired 420 visible–near-infrared hyperspectral cubes (400–1,000 nm) of celery adulterated with parsley, water dropwort, and lower celery petiole across seven mass ratios from 0 to 50%, each dish prepared as an independent weighing–mixing–filling event, and released the dataset under CC-BY. A parameter-efficient three-dimensional convolutional network was constructed in which a joint spectral–spatial attention module reweights wavelengths and spatial positions in series through a gated residual path, feeding shared features to paired classification and regression heads.ResultsAveraged over five seeds on dish-level held-out data, the model reached 95.2 ± 0.5% accuracy with a Kappa of 0.944, exceeding PLS-DA, SVM, random forest, 1D-CNN, 2D-CNN, and an attention-free 3D-CNN; the margin over that backbone is significant by a dish-level McNemar test (p = 0.008). The advantage concentrated at 5–10% adulteration, where accuracy remained 91.7% against 79.2% for the plain backbone. Ratio prediction achieved R2 = 0.973 and RMSE = 2.14 percentage points.DiscussionOnce back-projected onto the original wavelength axis, the learned band weights localized to the chlorophyll a trough, the red edge, and the short-wavelength shoulder of the water band near 950–958 nm, and occluding exactly those windows cost the most…",
-      "authors": "Hui Gao, Tong Wu, Yuanxia Fu et al.",
+      "title": "Dietary fatty acid composition and incident osteoarthritis: a parallel prospective cohort study of the UK biobank, HRS, and ELSA",
+      "abstract": "ObjectivesProspective evidence linking dietary fatty-acid composition with incident osteoarthritis (OA) is limited. We examined the dietary polyunsaturated-fatty-acid (PUFA)-to-saturated-fatty-acid (SFA) ratio and the energy contributions of PUFA and SFA in three cohorts.MethodsParallel analyses were conducted in the UK Biobank (UKB), Health and Retirement Study (HRS), and English Longitudinal Study of Ageing (ELSA). The prespecified primary exposure was cohort-standardized ln(PUFA/SFA). Cohort-specific estimates were combined using common-effect meta-analysis; modified Hartung–Knapp inference was a sensitivity analysis. PUFA and SFA energy contributions were prespecified secondary exposures.ResultsOutcome follow-up was available for 89,877 UKB, 1,118 HRS, and 2,134 ELSA participants. Per 1-SD higher ln(PUFA/SFA), the common-effect pooled hazard ratio (HR) was 0.981 (95% CI, 0.963–0.999; p = 0.040), but the modified Hartung–Knapp sensitivity estimate was not statistically significant (HR, 0.981; 95% CI, 0.942–1.022; p = 0.177). Per 1-percentage-point higher PUFA energy contribution, the pooled HR was 0.967 (95% CI, 0.956–0.979); UKB contributed 92.9% of the inverse-variance weight.ConclusionThe PUFA/SFA ratio showed a very small, non-robust inverse association with recorded incident OA. The stronger secondary PUFA association was informed predominantly by UKB. These observational results do not establish causality or justify a dietary target for OA prevention.",
+      "authors": "Chenghao Wang, Lin Shi, Qingjiang Pang et al.",
       "published": "Nov 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1972199",
-      "image": "",
-      "screen": "right"
-    },
-    {
-      "title": "Physicochemical, microbial, and sensory characterization of quinoa-based vegan yogurt as a functional plant-based fermented product",
-      "abstract": "BackgroundThis study aimed to develop quinoa-based vegan yogurt products in response to the increasing interest in plant-based diets and to evaluate their sensory, chemical, and microbiological properties.MethodsIn the first phase, four quinoa-based yogurt formulations were prepared using different starter culture and activation strategies, and fermented under controlled conditions. In the second phase, samples were subjected to sensory analysis by 12 trained panelists and 80 consumer panelists, evaluating appearance, taste, color, aroma, texture, flavor, and overall acceptability. Additionally, functional properties (total phenolic content [TPC] and antioxidant capacity [CUPRAC]) and proximate compositions (crude protein, total fat, and moisture content) were analyzed and compared with a commercially available rice-based vegan yogurt.ResultsThe findings indicated that quinoa-based vegan yogurts are a promising alternative in terms of nutritional value, functional properties, and sensory acceptability. Microbiological analyses revealed viable lactic acid bacteria (LAB) counts ranging from 6.9 to 8.2 log CFU/g, confirming successful fermentation.ConclusionQuinoa-based vegan yogurts exhibit superior protein content, strong antioxidant capacity, and high consumer acceptability compared to commercial rice-based alternatives, demonstrating their strong potential as functional plant-based fermented products.",
-      "authors": "Emine Zülal Zor, Emir Övenler, İlkay Yılmaz",
-      "published": "Nov 2026",
-      "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1915851",
-      "image": "",
-      "screen": "right"
-    },
-    {
-      "title": "Formulation optimization, flavor formation, and quality characteristics of a seasoning paste containing a Maillard-derived flavor base",
-      "abstract": "IntroductionThis study aimed to develop and characterize a compound seasoning paste containing a Maillard-derived flavor base prepared from quinoa hydrolysate and bovine bone collagen peptides.MethodsThe flavor base was prepared through the Maillard reaction and subsequently incorporated with beef tallow and other auxiliary ingredients. Using sensory score as the evaluation index, the formulation was optimized through single-factor experiments and an optimal mixture design. The product was characterized by amino acid analysis, multivariate statistical analysis, volatile flavor profiling, scanning electron microscopy (SEM), and physicochemical and microbiological analyses.ResultsThe optimal formulation consisted of 37% flavor base, 33% beef tallow, 12% maltodextrin, 9% corn starch, 6% sucrose, and 3% salt. The experimental sensory score was 8.75 ± 0.11, showing a relative error of 0.13% from the predicted value. A total of 17 hydrolyzed amino acids were identified in the optimized compound seasoning paste, with Pro (0.60 g/100 g), Ala (0.38 g/100 g), and Glu (0.27 g/100 g) among the most abundant. Principal component analysis, hierarchical cluster analysis, and orthogonal partial least squares-discriminant analysis revealed that Pro, Ala, Arg, Glu, Asp, and Gly were the key differential amino acids contributing to sample discrimination. Gas chromatography–mass spectrometry analysis showed that furfural accounted for 29.06% of the total chromatographic peak area included in the normalization, while nitrogen- and sulfur-containing compounds were also tentatively identified. SE…",
-      "authors": "Zeyuan Lian, Jinjun Ma, Xiang Li et al.",
-      "published": "Nov 2026",
-      "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1925547",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.2011243",
       "image": "",
       "screen": "right"
     },
@@ -518,6 +498,26 @@
       "published": "Nov 2026",
       "feedName": "Frontiers Nutrition",
       "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1853338",
+      "image": "",
+      "screen": "right"
+    },
+    {
+      "title": "Nutritional enhancement and physiological responses to papaya (Carica papaya L.), turmeric (Curcuma longa L.), moringa (Moringa oleifera Lam.) - enriched biscuits and coconut (Cocos nucifera L.) in Wistar rats: artificial neural network modeling",
+      "abstract": "Widespread malnutrition and the demand for nutrient-rich diets have prompted growing interest in enriching foods with plant-derived additives. However, how these complex diet formulations interrelate and influence physiological outcomes remains poorly understood. This research aimed to use an artificial neural network (ANN) to evaluate the efficacy of plant derivatives (Carica papaya L.; Curcuma longa; Moringa oleifera; and Cocos nucifera) in improving physiological and nutritional responses. The Wistar rats (Rattus norvegicus) were divided into 16 groups. The negative control (NC) received baseline feed; the positive control (PC) received synthetic multivitamin at 2 mL/kg/day. Treatments 1–14 were administered biscuits enriched with various concentrations of plant derivatives. For treatments 5, 11, 13, and 14, drinking fluid was replaced with coconut water. The rats were observed over a 56-day period, followed by collection of blood specimens for analysis of hematological parameters, lipid profiles, and hepatic and renal function markers. The feed intake, weight gain, and feed conversion ratio (FCR) were evaluated. All the tests were conducted in accordance with approved standards. The ANN utilized 20 features, trained employing the Levenberg–Marquardt optimization algorithm, and the data were split into 70% training, 15% validation, and 15% testing sets. The findings showed that plant derivatives significantly improved the levels of nutritional and bioactive compounds in enriched biscuit samples (p ≤ 0.05). Similarly, the developed ANN models displayed outstanding predict…",
+      "authors": "Rema A. Turkustani, Eman A. Abduljawad, Ebtihaj O. Alnasri et al.",
+      "published": "Nov 2026",
+      "feedName": "Frontiers Nutrition",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1981288",
+      "image": "",
+      "screen": "right"
+    },
+    {
+      "title": "A three-dimensional convolutional neural network with joint spectral–spatial attention for celery adulteration detection using hyperspectral imaging",
+      "abstract": "IntroductionStalk celery (Apium graveolens var. dulce) commands a market premium that invites substitution with cheaper Apiaceae relatives, yet conventional authentication is either destructive, slow, or insensitive at the low blending ratios that are hardest to catch.MethodsWe acquired 420 visible–near-infrared hyperspectral cubes (400–1,000 nm) of celery adulterated with parsley, water dropwort, and lower celery petiole across seven mass ratios from 0 to 50%, each dish prepared as an independent weighing–mixing–filling event, and released the dataset under CC-BY. A parameter-efficient three-dimensional convolutional network was constructed in which a joint spectral–spatial attention module reweights wavelengths and spatial positions in series through a gated residual path, feeding shared features to paired classification and regression heads.ResultsAveraged over five seeds on dish-level held-out data, the model reached 95.2 ± 0.5% accuracy with a Kappa of 0.944, exceeding PLS-DA, SVM, random forest, 1D-CNN, 2D-CNN, and an attention-free 3D-CNN; the margin over that backbone is significant by a dish-level McNemar test (p = 0.008). The advantage concentrated at 5–10% adulteration, where accuracy remained 91.7% against 79.2% for the plain backbone. Ratio prediction achieved R2 = 0.973 and RMSE = 2.14 percentage points.DiscussionOnce back-projected onto the original wavelength axis, the learned band weights localized to the chlorophyll a trough, the red edge, and the short-wavelength shoulder of the water band near 950–958 nm, and occluding exactly those windows cost the most…",
+      "authors": "Hui Gao, Tong Wu, Yuanxia Fu et al.",
+      "published": "Nov 2026",
+      "feedName": "Frontiers Nutrition",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1972199",
       "image": "",
       "screen": "right"
     },
@@ -842,46 +842,6 @@
       }
     },
     {
-      "title": "New Analytical Approach to Quinolizidine Alkaloids and Their Assumed Biosynthesis Pathways in Lupin Seeds",
-      "abstract": "Alkaloids play an essential role in protecting plants against herbivores. Humans can also benefit from the pharmacological effects of these compounds. Plants produce an immense variety of structurally different alkaloids, including quinolizidine alkaloids, a group of bi-, tri-, and tetracyclic compounds produced by Lupinus species. Various lupin species produce different alkaloid profiles. To study the composition of quinolizidine alkaloids in lupin seeds, we collected 31 populations of two wild species native to Israel, L. pilosus and L. palaestinus, and analyzed their quinolizidine alkaloid contents. Our goal was to study the alkaloid profiles of these two wild species to better understand the challenges and prospective uses of wild lupins. We compared their profiles with those of other commercial and wild lupin species. To this end, a straightforward method for extracting alkaloids from seeds and determining the quinolizidine alkaloid profile by LC–MS/MS was developed and validated in-house. For the quantification of quinolizidine alkaloids, 15 analytical reference standards were used. We used GC–MS to verify and cross-reference the identity of certain alkaloids for which no analytical standards were available. The results enabled further exploration of quinolizidine alkaloid biosynthesis. We reviewed and re-analyzed the suggested quinolizidine alkaloid biosynthesis pathway, including the relationship between the amino acid precursor l-lysine and the different quinolizidine alkaloids occurring in seeds of lupin species. Revealing alkaloid compositions and highlighting so…",
-      "authors": "Dvory Namdar, Patrick P. J. Mulder, E. Ben-Simchon et al.",
-      "published": "2024",
-      "venue": "Toxins",
-      "feedName": "Lab Research",
-      "citationCount": 21,
-      "recentCitations": 2,
-      "quartile": null,
-      "s2_paper_id": "e6a6854e55ee8f5a8ace3025ba0d32e33a650343",
-      "url": "https://doi.org/10.3390/toxins16030163",
-      "image": "",
-      "screen": "both",
-      "lab_paper": true,
-      "researcher": {
-        "name": "Loai Basheer",
-        "photo": "media/photos/loai_basheer.png"
-      }
-    },
-    {
-      "title": "Valorization of Local Legumes and Nuts as Key Components of the Mediterranean Diet",
-      "abstract": "Legumes and nuts are components of high importance in the diet of many countries, mainly those in the Mediterranean region. They are also very versatile and culturally diverse foods found all over the world, acting as a basic protein source in certain countries. Their genetic diversity is needed to sustain the food supply and security for humans and livestock, especially because of the current loss of habitats, species, and genetic diversity worldwide, but also because of the ever present need to feed the increasing human population. Even though both legumes and nuts are considered as high-protein food and environmentally friendly crops, developed countries have lower consumption rates when compared to Asia or Africa. With a view to increasing the consumption of legumes and nuts, the objective of this review is to present the advantages on the use of autochthonous varieties from different countries around the world, thus providing a boost to the local market in the area. The consumption of these varieties could be helped by their use in ready-to-eat foods (RTE), which are now on the rise thanks to today’s fast-paced lifestyles and the search for more nutritious and sustainable foods. The versatility of legumes and nuts covers a wide range of possibilities through their use in plant-based dairy analogues, providing alternative-protein and maximal amounts of nutrients and bioactive compounds, potential plant-based flours for bakery and pasta, and added-value traditional RTE meals. For this reason, information about legume and nut nutrition could possibly increase its acceptan…",
-      "authors": "Israel Hernández-López, J. Ortiz-Solà, C. Alamprese et al.",
-      "published": "2022",
-      "venue": "Foods",
-      "feedName": "Lab Research",
-      "citationCount": 42,
-      "recentCitations": 0,
-      "quartile": "Q2",
-      "s2_paper_id": "58107c8058774580a57d044f21566325035de229",
-      "url": "https://doi.org/10.3390/foods11233858",
-      "image": "",
-      "screen": "both",
-      "lab_paper": true,
-      "researcher": {
-        "name": "Loai Basheer",
-        "photo": "media/photos/loai_basheer.png"
-      }
-    },
-    {
       "title": "Dictated cell adhesion and migration using microfluidic-controlled synthetic hydrogels exhibiting programmable viscoelasticities.",
       "abstract": "Mechanosensing interactions between the extracellular matrix (ECM) and the intracellular cytoskeleton are fundamental to cellular functions such as motility, proliferation, and adhesion, driven by the dynamic, bidirectional, tension-regulated maturation of focal adhesion (FA) sites. We demonstrate that native mechanosensing interactions and their downstream functions are precisely controlled using synthetic hydrogels. We introduce a microfluidic-assisted synthesis of imine-crosslinked hyaluronic acid-gelatin copolymer hydrogels (HAG), enabling controlled, predefined gradient viscoelasticity. Specifically, three native tissues (muscle, epidermis, and cartilage)-mimicking HAG hydrogels were prepared, matching their effective Young's modulus (Ymod) and stress relaxation time (τ1/2). Enhanced cell spreading and directional cell migration are observed, with a preference for substrates with tissue-matching viscoelasticity. These mechanosensing reactions are confirmed by traction force microscopy, revealing a tight correlation between native tissue mechano-properties and the hydrogel viscoelastic parameters. We demonstrate that the signaling efficacies of the FAK and associated YAP/TAZ pathways, central regulators of FA formation and cell migration, are tuned by substrate tissue-matching viscoelasticity. We implement these preprogrammed viscoelastic gradient hydrogels as spatiotemporal cell-separation matrices, enabling viscoelasticity-driven migration of binary cell mixtures. This work provides a potent platform for studying cell-material interactions, offering significant potent…",
       "authors": "Haochen Yang, Ziyuan Li, Gilad Davidson-Rozenfeld et al.",
@@ -909,7 +869,7 @@
       "venue": "ACS Applied Materials and Interfaces",
       "feedName": "Lab Research",
       "citationCount": 1,
-      "recentCitations": 0,
+      "recentCitations": 1,
       "quartile": "Q1",
       "s2_paper_id": "daeea6fa97917f764c7ad91e09d41dbb9652690e",
       "url": "https://doi.org/10.1021/acsami.6c07915",
@@ -929,7 +889,7 @@
       "venue": "Journal of the American Chemical Society",
       "feedName": "Lab Research",
       "citationCount": 26,
-      "recentCitations": 0,
+      "recentCitations": 1,
       "quartile": "Q1",
       "s2_paper_id": "e8f95caa1e8ece0c16f246b34ead0788c6d4b146",
       "url": "https://doi.org/10.1021/jacs.4c00625",

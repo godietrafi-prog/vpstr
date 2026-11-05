@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05T00:43:13Z",
+  "updated": "2026-11-05T08:51:59Z",
   "items": [
     {
       "title": "Divergent nitrous oxide accounting can distort crop carbon intensity scores and agricultural trade",
@@ -282,6 +282,16 @@
       "screen": "left"
     },
     {
+      "title": "Multi-omics analyses unveil the molecular mechanism involving significant bioactive substances of sea buckthorn at various growth years",
+      "abstract": "",
+      "authors": "Lichao He, Meng Li, Xuewei Shi et al.",
+      "published": "Nov 2026",
+      "feedName": "npj Science of Food",
+      "url": "https://www.nature.com/articles/s41538-026-01217-4",
+      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01217-4/MediaObjects/41538_2026_1217_Fig1_HTML.png",
+      "screen": "left"
+    },
+    {
       "title": "Seasonal dynamics in lettuce phyllosphere microbiota and potential transfer to the human gut",
       "abstract": "",
       "authors": "Su-A In, Ji-Woo Park, Yeo-Eun Yun et al.",
@@ -309,16 +319,6 @@
       "feedName": "npj Science of Food",
       "url": "https://www.nature.com/articles/s41538-026-01071-4",
       "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01071-4/MediaObjects/41538_2026_1071_Fig1_HTML.png",
-      "screen": "left"
-    },
-    {
-      "title": "High-voltage cold plasma alleviates chilling injury in green pepper by synergistically regulating antioxidant and membrane lipid metabolism",
-      "abstract": "",
-      "authors": "Bowen Jia, Wanting Yang, Jiankang Cao et al.",
-      "published": "Oct 2026",
-      "feedName": "npj Science of Food",
-      "url": "https://www.nature.com/articles/s41538-026-01220-9",
-      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01220-9/MediaObjects/41538_2026_1220_Fig1_HTML.png",
       "screen": "left"
     },
     {
@@ -482,42 +482,42 @@
       "screen": "right"
     },
     {
-      "title": "Gluten-free diet adherence and associated practical, socioeconomic, and psychological factors among Tunisian adults with self-reported celiac disease: a cross-sectional study",
-      "abstract": "BackgroundMaintaining a gluten-free diet (GFD) is essential in celiac disease, but North African adherence data are limited. We described adherence classifications and explored associated factors in a selected Tunisian online sample.MethodsThe survey was conducted from 25 June to 30 September 2021 through one celiac-association Facebook group. Ninety-one adults reporting celiac disease and more than one year on a GFD were included. Telephone contact confirmed participant reports but did not verify diagnostic records. The combined operational classification required Biagi ≥3 and Celiac Dietary Adherence Test (CDAT) < 13. Hospital Anxiety and Depression Scale (HADS) scores assessed symptoms. Revised analyses used retained aggregate summaries; participant-level records and the original translated questionnaire were unavailable.ResultsParticipants had a mean age of 33 years; 84.6% were women and 75.8% had higher education. The combined criterion was met by 32/91 (35.2%; Wilson 95% CI 26.1–45.4), compared with 40/91 (44.0%) for Biagi alone and 35/91 (38.5%) for CDAT alone. Eleven classifications were discordant. Anxiety symptoms occurred in 6/32 (18.8%) meeting the combined criterion and 36/59 (61.0%) not meeting it. Other comparisons were exploratory, unadjusted and subject to sparse cells, multiple testing and overlap with CDAT content. An unresolved label-reading count discrepancy prevented that association analysis.ConclusionThe 35.2% figure is a sample-specific estimate using an unvalidated combined rule and translations without documented local validation; it cannot be gen…",
-      "authors": "Om Kolthoum Sallem, Anis Chabbou, Manel Dridi",
+      "title": "A three-dimensional convolutional neural network with joint spectral–spatial attention for celery adulteration detection using hyperspectral imaging",
+      "abstract": "IntroductionStalk celery (Apium graveolens var. dulce) commands a market premium that invites substitution with cheaper Apiaceae relatives, yet conventional authentication is either destructive, slow, or insensitive at the low blending ratios that are hardest to catch.MethodsWe acquired 420 visible–near-infrared hyperspectral cubes (400–1,000 nm) of celery adulterated with parsley, water dropwort, and lower celery petiole across seven mass ratios from 0 to 50%, each dish prepared as an independent weighing–mixing–filling event, and released the dataset under CC-BY. A parameter-efficient three-dimensional convolutional network was constructed in which a joint spectral–spatial attention module reweights wavelengths and spatial positions in series through a gated residual path, feeding shared features to paired classification and regression heads.ResultsAveraged over five seeds on dish-level held-out data, the model reached 95.2 ± 0.5% accuracy with a Kappa of 0.944, exceeding PLS-DA, SVM, random forest, 1D-CNN, 2D-CNN, and an attention-free 3D-CNN; the margin over that backbone is significant by a dish-level McNemar test (p = 0.008). The advantage concentrated at 5–10% adulteration, where accuracy remained 91.7% against 79.2% for the plain backbone. Ratio prediction achieved R2 = 0.973 and RMSE = 2.14 percentage points.DiscussionOnce back-projected onto the original wavelength axis, the learned band weights localized to the chlorophyll a trough, the red edge, and the short-wavelength shoulder of the water band near 950–958 nm, and occluding exactly those windows cost the most…",
+      "authors": "Hui Gao, Tong Wu, Yuanxia Fu et al.",
       "published": "Nov 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1995708",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1972199",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Development of fresh fruit coating based on banana peel pectin with Pickering emulsion of cellulose nanocrystals/Javanese turmeric essential oil for snake fruit preservation",
-      "abstract": "Snake fruit (Salacca zalacca var. Pondoh) is susceptible to postharvest deterioration caused by respiration, transpiration, and spoilage fungi. This study developed a banana peel pectin (P)-based coating incorporating a cellulose nanocrystal (CNC)-stabilized Pickering emulsion of Javanese turmeric essential oil (TEO) as an alternative coating for snake fruit preservation. Three coating-forming formulations, namely pectin (P), P/Tween/TEO, and P/CNC/TEO, were evaluated using uncoated fruit as the control, with the fruit tip immersed in the coating solution for 1 min. The selected formulation contained 0.5% P, 0.5% TEO, and 0.05% CNC. Transmission electron microscopy analysis revealed rod-like or needle-like nanoscale morphology of CNC, while gas chromatography–mass spectrometry showed that TEO was dominated by α-curcumene and β-curcumene. Incorporation of 0.05% CNC produced a coating solution with greater electrostatic stability and stronger antifungal activity than the conventional Tween 80-stabilized emulsion. The P/CNC/TEO showed the most negative zeta potential (−83.37 ± 0.55 mV) and the strongest in vitro antifungal activity against Botrytis cinerea and Penicillium digitatum, with inhibition values of 87.37 and 72.53%, respectively. During fruit storage, P/CNC/TEO maintained delayed peel darkening, as indicated by a significantly higher peel L* value on day 7, whereas a* and b* values were not significantly affected. The coating did not significantly affect weight loss, total soluble solids, or pH. These results indicated that CNC-stabilized TEO Pickering emulsions enha…",
-      "authors": "Ata Aditya Wardana, Aisya Zahra Zhafira, Ananda Caesarini Aulia et al.",
+      "title": "Physicochemical, microbial, and sensory characterization of quinoa-based vegan yogurt as a functional plant-based fermented product",
+      "abstract": "BackgroundThis study aimed to develop quinoa-based vegan yogurt products in response to the increasing interest in plant-based diets and to evaluate their sensory, chemical, and microbiological properties.MethodsIn the first phase, four quinoa-based yogurt formulations were prepared using different starter culture and activation strategies, and fermented under controlled conditions. In the second phase, samples were subjected to sensory analysis by 12 trained panelists and 80 consumer panelists, evaluating appearance, taste, color, aroma, texture, flavor, and overall acceptability. Additionally, functional properties (total phenolic content [TPC] and antioxidant capacity [CUPRAC]) and proximate compositions (crude protein, total fat, and moisture content) were analyzed and compared with a commercially available rice-based vegan yogurt.ResultsThe findings indicated that quinoa-based vegan yogurts are a promising alternative in terms of nutritional value, functional properties, and sensory acceptability. Microbiological analyses revealed viable lactic acid bacteria (LAB) counts ranging from 6.9 to 8.2 log CFU/g, confirming successful fermentation.ConclusionQuinoa-based vegan yogurts exhibit superior protein content, strong antioxidant capacity, and high consumer acceptability compared to commercial rice-based alternatives, demonstrating their strong potential as functional plant-based fermented products.",
+      "authors": "Emine Zülal Zor, Emir Övenler, İlkay Yılmaz",
       "published": "Nov 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1982447",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1915851",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Beyond calories: rainfall shocks, dietary composition, and the limits of standard food security indicators in Malawi",
-      "abstract": "BackgroundClimatic shocks are known to undermine food security in rainfed African farming systems, but the evidence base relies overwhelmingly on indicators of energy adequacy and consumption frequency. Whether shocks also alter the composition of diets, independently of their quantity, remains largely untested.MethodsWe use four waves of the Malawi Integrated Household Panel Survey (2010, 2013, 2016, and 2019; 5,866 household–wave observations), in which food consumption is recorded item by item in physical quantities and disaggregated by source. Household and wave fixed effects identify associations from within-household variation over time, and our preferred inference uses Conley standard errors that allow for the spatial correlation of rainfall.ResultsA 20 percentage point rainfall deficit is not robustly associated with lower energy intake but is associated with a consistent shift in diet composition. The share of dietary energy from nutrient-dense foods falls by about 0.7 percentage points (4.1% of its mean), the staple share rises correspondingly, and dietary energy concentrates on fewer food groups; fruits and pulses bear the adjustment while cereals are unaffected. Own production declines by 1.9 percentage points and households consume 0.7 fewer distinct food items, while real food expenditure does not rise—a pattern of non-compensation rather than substitution toward the market. These four indicators of composition are complementary transformations of the same vector of food-group energy shares rather than independent tests; they move in a consistent direction, bu…",
-      "authors": "Ramzi Knani, Majdi Argoubi, Khaled Mili et al.",
+      "title": "Formulation optimization, flavor formation, and quality characteristics of a seasoning paste containing a Maillard-derived flavor base",
+      "abstract": "IntroductionThis study aimed to develop and characterize a compound seasoning paste containing a Maillard-derived flavor base prepared from quinoa hydrolysate and bovine bone collagen peptides.MethodsThe flavor base was prepared through the Maillard reaction and subsequently incorporated with beef tallow and other auxiliary ingredients. Using sensory score as the evaluation index, the formulation was optimized through single-factor experiments and an optimal mixture design. The product was characterized by amino acid analysis, multivariate statistical analysis, volatile flavor profiling, scanning electron microscopy (SEM), and physicochemical and microbiological analyses.ResultsThe optimal formulation consisted of 37% flavor base, 33% beef tallow, 12% maltodextrin, 9% corn starch, 6% sucrose, and 3% salt. The experimental sensory score was 8.75 ± 0.11, showing a relative error of 0.13% from the predicted value. A total of 17 hydrolyzed amino acids were identified in the optimized compound seasoning paste, with Pro (0.60 g/100 g), Ala (0.38 g/100 g), and Glu (0.27 g/100 g) among the most abundant. Principal component analysis, hierarchical cluster analysis, and orthogonal partial least squares-discriminant analysis revealed that Pro, Ala, Arg, Glu, Asp, and Gly were the key differential amino acids contributing to sample discrimination. Gas chromatography–mass spectrometry analysis showed that furfural accounted for 29.06% of the total chromatographic peak area included in the normalization, while nitrogen- and sulfur-containing compounds were also tentatively identified. SE…",
+      "authors": "Zeyuan Lian, Jinjun Ma, Xiang Li et al.",
       "published": "Nov 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1949121",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1925547",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Development and external validation of a nomogram incorporating the TyG index and prognostic nutritional index for predicting cardiovascular events in patients with heart failure with preserved ejection fraction and chronic kidney disease",
-      "abstract": "BackgroundHeart failure with preserved ejection fraction (HFpEF) frequently coexists with chronic kidney disease (CKD), representing a high-risk cardiorenal phenotype within the cardiovascular–kidney–metabolic (CKM) syndrome. Despite the high burden of adverse cardiovascular events in this population, dedicated risk prediction tools remain limited. We aimed to develop and validate a prediction model for major adverse cardiovascular events (MACE), defined in this study as the composite of all-cause death and first hospitalization for worsening heart failure, in patients with HFpEF and CKD by integrating biomarkers reflecting metabolic and nutritional-inflammatory status.MethodsThis retrospective cohort study included a development cohort of 2,363 consecutive patients with HFpEF and CKD between January 2012 and December 2023. The development cohort was randomly divided into a training cohort (70%) and an internal validation cohort (30%). An independent cohort of 713 patients from Wenzhou TCM Hospital of Zhejiang Chinese Medical University was used for external validation. Predictor selection was performed using Cox proportional hazards regression, and a nomogram was constructed based on the final multivariable model. Model performance was evaluated using time-dependent receiver operating characteristic curves, calibration plots, decision curve analysis, and Shapley additive explanations (SHAP).ResultsDuring a median follow-up of 1.41 years, 1,085 patients (45.9%) experienced MACE. The final multivariable model retained age, atrial fibrillation, ACEI/ARB/ARNI therapy, serum cr…",
-      "authors": "Feng Wang, Chuanpeng Wang, Ruihao Jiang et al.",
+      "title": "Trends and Frontiers in nutritional management for ICU patients with kidney dysfunction: a bibliometric and knowledge mapping study",
+      "abstract": "ObjectivePatients with kidney dysfunction in the intensive care unit (ICU) are at high risk of metabolic disturbances and malnutrition, yet the research landscape of nutritional management in this population remains incompletely characterized. This study aimed to map the knowledge structure, research hotspots, and temporal trends in this field.MethodsPublications from 2001 to 2025 were retrieved from the Web of Science Core Collection and analyzed using VOSviewer, CiteSpace, and bibliometrix. Scopus was used for cross-database comparison, while representative clinical studies retrieved from PubMed were descriptively summarized to provide clinical context for the bibliometric findings.ResultsA total of 551 publications were included, with publication output increasing overall from 2001 to 2025. Research activity was concentrated mainly in North America and Europe. Keyword analysis identified major themes related to acute kidney injury, renal replacement therapy, nutritional support, prognosis, and clinical outcomes. Temporal analyses showed that earlier research focused more on acute renal failure, RRT, and nitrogen balance, whereas nutritional risk, protein provision, and clinical outcomes became more prominent in later years. Burst analysis further identified “outcome,” “impact,” “hospitalized patients,” and “malnutrition” as active recent keywords.ConclusionThis study indicates sustained research interest in nutritional management for ICU patients with kidney dysfunction. Research has broadened from RRT-related metabolic concerns to nutritional assessment, protein provisi…",
+      "authors": "Long Gan, Qimeng Xu, Xiaojue Huang et al.",
       "published": "Nov 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1938994",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1853338",
       "image": "",
       "screen": "right"
     },
@@ -909,7 +909,7 @@
       "venue": "ACS Applied Materials and Interfaces",
       "feedName": "Lab Research",
       "citationCount": 1,
-      "recentCitations": 1,
+      "recentCitations": 0,
       "quartile": "Q1",
       "s2_paper_id": "daeea6fa97917f764c7ad91e09d41dbb9652690e",
       "url": "https://doi.org/10.1021/acsami.6c07915",
@@ -929,7 +929,7 @@
       "venue": "Journal of the American Chemical Society",
       "feedName": "Lab Research",
       "citationCount": 26,
-      "recentCitations": 1,
+      "recentCitations": 0,
       "quartile": "Q1",
       "s2_paper_id": "e8f95caa1e8ece0c16f246b34ead0788c6d4b146",
       "url": "https://doi.org/10.1021/jacs.4c00625",

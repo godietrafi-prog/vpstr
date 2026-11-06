@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06T04:22:16Z",
+  "updated": "2026-11-06T13:32:59Z",
   "items": [
     {
       "title": "Divergent nitrous oxide accounting can distort crop carbon intensity scores and agricultural trade",
@@ -82,6 +82,16 @@
       "screen": "left"
     },
     {
+      "title": "Ellagic acid and urolithin A as food-derived bioactive compounds: From dietary sources and gut microbiota metabolism to functional foods and healthy aging",
+      "abstract": "",
+      "authors": "Ying Liu, Guangyuan Li, Hongyuan Lu",
+      "published": "Jan 2027",
+      "feedName": "Trends in Food Sci & Tech",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426006837?dgcid=rss_sd_all",
+      "image": "",
+      "screen": "left"
+    },
+    {
       "title": "A critical review of extraction, purification, structural characterization, bioactivity, structure-activity relationship, and potential applications of polysaccharides from Siraitia grosvenorii",
       "abstract": "",
       "authors": "Bowen Tian, Xinxin Xu, Yuan Sun et al.",
@@ -108,16 +118,6 @@
       "published": "Jan 2027",
       "feedName": "Trends in Food Sci & Tech",
       "url": "https://www.sciencedirect.com/science/article/pii/S0924224426006709?dgcid=rss_sd_all",
-      "image": "",
-      "screen": "left"
-    },
-    {
-      "title": "The role of plant sterols in modulating the gut microbiota: implications for health and disease",
-      "abstract": "",
-      "authors": "Leonardo Musto, Amparo Alegría, Guadalupe Garcia-Llatas et al.",
-      "published": "Jan 2027",
-      "feedName": "Trends in Food Sci & Tech",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426006424?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -202,22 +202,22 @@
       "screen": "left"
     },
     {
+      "title": "CRDS-Unet: channel-reversed depthwise separable U-net for efficient tomato leaf disease segmentation",
+      "abstract": "IntroductionAutomated plant leaf disease segmentation is crucial for accurate disease diagnosis and quantitative lesion assessment in precision agriculture. U-Net-based architectures are widely employed for this task, although their high computational complexity sometimes hinders their application in resource-constrained agricultural settings.MethodsThis work investigates depthwise separable convolutions in conjunction with a channel-reversed U-Net for tomato leaf disease segmentation. The channel-reversed encoder allocates more feature channels to the shallow layers and progressively fewer to the deeper layers, the reverse of a conventional U-Net’s channel schedule, with the aim of preserving spatial detail while reducing computation in the deeper, more computationally expensive stages. Depthwise separable convolutions are used throughout the encoder, bottleneck, and decoder to further reduce trainable parameters. The model was trained on lesion masks and evaluated on an independent, held-out subset of the PlantVillage tomato leaf dataset using Dice coefficient, IoU, precision, recall, and F1-score, following a corrected data-splitting protocol that eliminates train/test leakage present in an earlier version of this work.ResultsThe proposed method reduced trainable parameters by over 97% relative to a conventional U-Net (0.96 million versus 31.06 million), at a measured reduction in segmentation accuracy under the training budget evaluated (Dice coefficient 0.79 versus 0.90 for standard U-Net). A supplementary experiment with a longer training budget narrowed this gap subs…",
+      "authors": "E. Jansi, B. R. Kavitha",
+      "published": "Nov 2026",
+      "feedName": "Frontiers Food Science",
+      "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.1966919",
+      "image": "",
+      "screen": "left"
+    },
+    {
       "title": "Culturable bacterial diversity in a recirculating aquaculture system for sole fish farming: analysis of potential pathogens and putative bioremediation, probiotic and antimicrobial significance",
       "abstract": "Understanding the bacterial diversity present in recirculating aquaculture systems (RAS) is essential for identifying potential pathogens and taxa with bioremediation and biotechnological relevance, particularly as these artificial environments remain largely unexplored bioresources with untapped microbial potential. This study is the first to characterize the culturable bacterial diversity within a RAS for sole farming (Solea senegalensis) in Portugal, providing a comprehensive first insight into what seems to be a complex bacterial dynamic. Phylogenetic analysis of 193 strains, revealed that Pseudomonadota (76.4%) was the most abundant phylum, followed by Actinomycetia (10.7%), and Bacteroidota (9.8%). At the class level, Gammaproteobacteria (65.7%), Actinomycetia (10.7%), and Alphaproteobacteria (10.7%) dominated, with Alteromonadales (33.9%) and Vibrionales (13.7%) as the prevalent orders. A comparison with metagenomic studies previously reported for similar RAS systems showed some overlap in dominant phyla, however, different genera were also cultivated in the present study, particularly those from the orders Micrococcales and Vibrionales. In all, a total of 48 bacterial genera were identified, with 33 cultivated only from the RAS and 9 cultivated only from its water supply. Our findings reveal the presence of taxa closely related to bacterial strains previously reported for their biotechnological potential, including strains described as probiotics, as producers of antimicrobial compounds, and as agents of bioremediation. Although strains related to fish and human pat…",
       "authors": "Bárbara Gonçalves, Pablo Suárez-Moo, Alejandra Prieto-Davó et al.",
       "published": "Nov 2026",
       "feedName": "Frontiers Food Science",
       "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.1937824",
-      "image": "",
-      "screen": "left"
-    },
-    {
-      "title": "Kefir-fermented camel milk: physicochemical characteristics, sensory evaluation, and consumer behavior in Morocco",
-      "abstract": "Althou⁠g⁠h camel milk is gen⁠erally acknowledged for its nutr⁠itional content and medicinal effects, the processing technolo⁠gy and consumer acceptability of its fermented products rem⁠ain⁠ to b⁠e improved. This study aimed to ev⁠alua⁠te Moroccan consu⁠mers’ perception of and intention to consume camel milk fermented with kefir grai⁠ns and investigate the effect of enrichment with natural date extract on the physicochemical and sensory characteristics of the product. A survey was conducted with 1,009 participants from different regions of Morocco to study consumption habits, knowledge of fermented c⁠amel milk products, and the intention to consume kefir-fermented camel milk. In parallel, camel milk formulations fermented with kefir gra⁠ins, unflavored, f⁠lavored with sucrose, and enriched with date extra⁠ct we⁠r⁠e developed and characteri⁠zed through physicochemical analyses, sensory acceptance, and preference tests. Both flavored⁠ formulations were standardized to the same soluble solids content (8.13 °Brix), ensuring comparable s⁠weetness during physicochemical and⁠ sensory evalua⁠tion. The results indicated that information on nutrition⁠al benefits positively influenced consumption intention. Enrichment with date extract significantly modified the physicochemical characteristics and improved sensory ac⁠ceptability compared with that of the sucrose-flavored formulation. These findings indicate that da⁠te extract can be used to modify the p⁠hysicochemical characteristics and improve the sensory accep⁠tance of camel milk kefir while contribu⁠ting to the valorization of loca…",
-      "authors": "Charaf Dlimi, Yassine Zine-Eddine, Omar Ait El Alia et al.",
-      "published": "Nov 2026",
-      "feedName": "Frontiers Food Science",
-      "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.1928545",
       "image": "",
       "screen": "left"
     },
@@ -232,12 +232,12 @@
       "screen": "left"
     },
     {
-      "title": "Highly sensitive detection of soybean-derived DNA in soy sauce using an integrated PCR-CRISPR/Cas12a nucleic acid detection platform",
-      "abstract": "IntroductionSoy sauce is a traditional fermented condiment with widespread global consumption, and its authenticity depends on the requisite use of soybeans as a primary ingredient. However, for economic gain, soybean has been partially or completely substituted with cheaper materials, including other legumes such as pea or peanut, or non‐soybean nitrogen sources such as acid‐hydrolysed animal protein derived from feathers or hair. Such practices constitute economic fraud and labelling violations and may introduce undeclared allergens, raising legitimate concerns regarding food safety and consumer trust. Conventional DNA‐based detection techniques are often hindered by DNA fragmentation and the presence of PCR inhibitors in the complex, fermented matrix, leading to compromised sensitivity and reliability.MethodsTo overcome these limitations, we developed a novel nucleic acid detection platform that synergistically combines target pre‐amplification via polymerase chain reaction (PCR) with highly specific sequence recognition and signal amplification utilizing the CRISPR/Cas12a system.ResultsThis integrated approach achieved a detection limit of 10 femtomolar (fM) for a synthetic Le1 target DNA standard, which compares favourably with many existing methods. The practical applicability of this assay was preliminarily evaluated on 22 commercially available soy sauce samples from various markets.Discussion This study establishes a sensitive and reproducible endpoint‐fluorescence tool for the detection of soybean‐derived DNA. The assay holds promise for routine food authenticatio…",
-      "authors": "Jingbing Xu, Lingli Cai, Liwei Chen et al.",
+      "title": "Kefir-fermented camel milk: physicochemical characteristics, sensory evaluation, and consumer behavior in Morocco",
+      "abstract": "Althou⁠g⁠h camel milk is gen⁠erally acknowledged for its nutr⁠itional content and medicinal effects, the processing technolo⁠gy and consumer acceptability of its fermented products rem⁠ain⁠ to b⁠e improved. This study aimed to ev⁠alua⁠te Moroccan consu⁠mers’ perception of and intention to consume camel milk fermented with kefir grai⁠ns and investigate the effect of enrichment with natural date extract on the physicochemical and sensory characteristics of the product. A survey was conducted with 1,009 participants from different regions of Morocco to study consumption habits, knowledge of fermented c⁠amel milk products, and the intention to consume kefir-fermented camel milk. In parallel, camel milk formulations fermented with kefir gra⁠ins, unflavored, f⁠lavored with sucrose, and enriched with date extra⁠ct we⁠r⁠e developed and characteri⁠zed through physicochemical analyses, sensory acceptance, and preference tests. Both flavored⁠ formulations were standardized to the same soluble solids content (8.13 °Brix), ensuring comparable s⁠weetness during physicochemical and⁠ sensory evalua⁠tion. The results indicated that information on nutrition⁠al benefits positively influenced consumption intention. Enrichment with date extract significantly modified the physicochemical characteristics and improved sensory ac⁠ceptability compared with that of the sucrose-flavored formulation. These findings indicate that da⁠te extract can be used to modify the p⁠hysicochemical characteristics and improve the sensory accep⁠tance of camel milk kefir while contribu⁠ting to the valorization of loca…",
+      "authors": "Charaf Dlimi, Yassine Zine-Eddine, Omar Ait El Alia et al.",
       "published": "Nov 2026",
       "feedName": "Frontiers Food Science",
-      "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.1967920",
+      "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.1928545",
       "image": "",
       "screen": "left"
     },
@@ -442,6 +442,16 @@
       "screen": "right"
     },
     {
+      "title": "For decades, we were told to avoid full-fat dairy. New research says otherwise",
+      "abstract": "Full-fat dairy may not be the health villain it has long been portrayed as, according to a new study finding that three daily servings did not worsen weight, cholesterol, or insulin resistance over 12 weeks. Researchers also observed improvements in blood pressure and nutrient intake, raising questions about longstanding recommendations to choose low-fat dairy.",
+      "authors": "",
+      "published": "Nov 2026",
+      "feedName": "ScienceDaily Nutrition",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261105081000.htm",
+      "image": "https://www.sciencedaily.com/images/1920/milk-eggs-butter-cheese-dairy.webp",
+      "screen": "right"
+    },
+    {
       "title": "AI helps Stanford scientists discover a “natural Ozempic” with a surprising advantage",
       "abstract": "Stanford researchers have discovered an AI-identified natural molecule that dramatically suppresses appetite and promotes fat loss in animals, potentially offering an Ozempic-like weight-loss treatment without common digestive side effects or significant muscle loss. Called BRP, the molecule reduced food intake by up to 50% and targets a different brain pathway, raising hopes for a more precise obesity treatment if future human trials prove successful.",
       "authors": "",
@@ -472,52 +482,42 @@
       "screen": "right"
     },
     {
-      "title": "Kids who eat more ultra-processed foods show a troubling brain response",
-      "abstract": "A new study suggests that ultra-processed foods may influence children's developing brains in ways that encourage weight gain. Researchers from USC studied 46 children ages 7 to 10 and found that those who ate more ultra-processed foods showed stronger activity in the brain's reward system when viewing tempting foods like cookies and French fries. These heightened brain responses were linked to greater increases in body fat and body mass index (BMI) one year later, suggesting that the brain's sensitivity to food cues may help explain why ultra-processed diets are associated with obesity.",
-      "authors": "",
-      "published": "Nov 2026",
-      "feedName": "ScienceDaily Nutrition",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261101010549.htm",
-      "image": "https://www.sciencedaily.com/images/1920/cute-boy-donut-eyes.webp",
-      "screen": "right"
-    },
-    {
-      "title": "Dietary fatty acid composition and incident osteoarthritis: a parallel prospective cohort study of the UK biobank, HRS, and ELSA",
-      "abstract": "ObjectivesProspective evidence linking dietary fatty-acid composition with incident osteoarthritis (OA) is limited. We examined the dietary polyunsaturated-fatty-acid (PUFA)-to-saturated-fatty-acid (SFA) ratio and the energy contributions of PUFA and SFA in three cohorts.MethodsParallel analyses were conducted in the UK Biobank (UKB), Health and Retirement Study (HRS), and English Longitudinal Study of Ageing (ELSA). The prespecified primary exposure was cohort-standardized ln(PUFA/SFA). Cohort-specific estimates were combined using common-effect meta-analysis; modified Hartung–Knapp inference was a sensitivity analysis. PUFA and SFA energy contributions were prespecified secondary exposures.ResultsOutcome follow-up was available for 89,877 UKB, 1,118 HRS, and 2,134 ELSA participants. Per 1-SD higher ln(PUFA/SFA), the common-effect pooled hazard ratio (HR) was 0.981 (95% CI, 0.963–0.999; p = 0.040), but the modified Hartung–Knapp sensitivity estimate was not statistically significant (HR, 0.981; 95% CI, 0.942–1.022; p = 0.177). Per 1-percentage-point higher PUFA energy contribution, the pooled HR was 0.967 (95% CI, 0.956–0.979); UKB contributed 92.9% of the inverse-variance weight.ConclusionThe PUFA/SFA ratio showed a very small, non-robust inverse association with recorded incident OA. The stronger secondary PUFA association was informed predominantly by UKB. These observational results do not establish causality or justify a dietary target for OA prevention.",
-      "authors": "Chenghao Wang, Lin Shi, Qingjiang Pang et al.",
+      "title": "Mid-thigh muscle thickness measured on lateral femur radiographs as a surrogate marker of low muscle mass for sarcopenia screening in patients with cancer",
+      "abstract": "BackgroundSarcopenia, a skeletal muscle disorder characterized by muscle mass loss, is common in cancer patients and associated with increased drug toxicity, complications, and mortality. Current diagnostics are resource-intensive. This study investigates whether mid-thigh muscle thickness (MTH) measured on lateral femur X-rays can serve as a surrogate marker of low muscle mass.MethodsA single-centre, cross-sectional diagnostic study involving 136 cancer patients was conducted at a Malaysian tertiary hospital (February 2020–November 2022). Sarcopenia was diagnosed using the European Working Group on Sarcopenia in Older People (EWGSOP2) criteria, combining handgrip strength and skeletal muscle index (SMI) derived from CT scans at L3 level. Three MTH values from X-rays (Three perpendicular lines were drawn: at 5 cm proximal to MTH (MTH1), at the mid-thigh (MTH), and 5 cm distal to MTH (MTH2) to this point). Multivariable logistic regression was used to assess whether MTH discriminated low muscle mass independently of BMI. The three MTH values were analysed unadjusted and indexed to BMI, together with BMI alone, against low L3 CT SMI using receiver operating characteristic (ROC) analysis to derive sex-specific cut-offs. In a secondary analysis, sex-specific sensitivity, specificity, PPV, NPV and accuracy were calculated for low handgrip strength combined with the derived cut-off against EWGSOP2-defined sarcopenia (L3 CT skeletal muscle index), recognising that both definitions share the handgrip component.ResultsIn multivariable analysis, MTH2 remained an independent predictor…",
+      "authors": "Ian Chik, Zhun Shen Tan, Meng Xian Chan et al.",
       "published": "Nov 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.2011243",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1896197",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Trends and Frontiers in nutritional management for ICU patients with kidney dysfunction: a bibliometric and knowledge mapping study",
-      "abstract": "ObjectivePatients with kidney dysfunction in the intensive care unit (ICU) are at high risk of metabolic disturbances and malnutrition, yet the research landscape of nutritional management in this population remains incompletely characterized. This study aimed to map the knowledge structure, research hotspots, and temporal trends in this field.MethodsPublications from 2001 to 2025 were retrieved from the Web of Science Core Collection and analyzed using VOSviewer, CiteSpace, and bibliometrix. Scopus was used for cross-database comparison, while representative clinical studies retrieved from PubMed were descriptively summarized to provide clinical context for the bibliometric findings.ResultsA total of 551 publications were included, with publication output increasing overall from 2001 to 2025. Research activity was concentrated mainly in North America and Europe. Keyword analysis identified major themes related to acute kidney injury, renal replacement therapy, nutritional support, prognosis, and clinical outcomes. Temporal analyses showed that earlier research focused more on acute renal failure, RRT, and nitrogen balance, whereas nutritional risk, protein provision, and clinical outcomes became more prominent in later years. Burst analysis further identified “outcome,” “impact,” “hospitalized patients,” and “malnutrition” as active recent keywords.ConclusionThis study indicates sustained research interest in nutritional management for ICU patients with kidney dysfunction. Research has broadened from RRT-related metabolic concerns to nutritional assessment, protein provisi…",
-      "authors": "Long Gan, Qimeng Xu, Xiaojue Huang et al.",
+      "title": "Case Report: Reversible cholestatic steatohepatitis after two decades of gluten-free diet non-adherence in celiac disease",
+      "abstract": "IntroductionMild aminotransferase elevation is a recognized hepatic manifestation of celiac disease, whereas conjugated jaundice with steatohepatitis is uncommon. This case illustrates a rare hepatic phenotype associated with prolonged gluten exposure and severe malnutrition.MethodsWe report the presentation, diagnostic investigations, nutritional management and nine-month follow-up of a 38-year-old Tunisian woman with childhood-onset celiac disease and approximately 18 years of nonadherence to a gluten-free diet.ResultsThe patient presented with diarrhea, 20-kg weight loss, a body mass index of 16 kg/m2 and jaundice. Total and conjugated bilirubin were 192 and 168 μmol/L, respectively. Ultrasonography showed steatosis without biliary dilatation. Duodenal biopsy demonstrated villous atrophy; liver biopsy revealed approximately 40% macrovesicular steatosis, inflammatory injury and moderate fibrosis without cholangitis. A strict gluten-free diet and nutritional rehabilitation were initiated. Aminotransferases rose transiently after a seven-day parenteral nutrition course; an adapted RUCAM score of 4 indicated only a possible contribution. Jaundice and diarrhea resolved by two months. At nine months, body mass index was 25 kg/m2; bilirubin, aminotransferases and alkaline phosphatase were normal, while gamma-glutamyl transferase remained minimally elevated.DiscussionProlonged gluten exposure and severe malnutrition may be associated with reversible cholestatic steatohepatitis. Causal attribution remains cautious because several alternative hepatobiliary diagnoses could not be d…",
+      "authors": "Om Kolthoum Sallem, Wided Bouhlel, Nabil Ben Chaabene et al.",
       "published": "Nov 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1853338",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1942195",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Nutritional enhancement and physiological responses to papaya (Carica papaya L.), turmeric (Curcuma longa L.), moringa (Moringa oleifera Lam.) - enriched biscuits and coconut (Cocos nucifera L.) in Wistar rats: artificial neural network modeling",
-      "abstract": "Widespread malnutrition and the demand for nutrient-rich diets have prompted growing interest in enriching foods with plant-derived additives. However, how these complex diet formulations interrelate and influence physiological outcomes remains poorly understood. This research aimed to use an artificial neural network (ANN) to evaluate the efficacy of plant derivatives (Carica papaya L.; Curcuma longa; Moringa oleifera; and Cocos nucifera) in improving physiological and nutritional responses. The Wistar rats (Rattus norvegicus) were divided into 16 groups. The negative control (NC) received baseline feed; the positive control (PC) received synthetic multivitamin at 2 mL/kg/day. Treatments 1–14 were administered biscuits enriched with various concentrations of plant derivatives. For treatments 5, 11, 13, and 14, drinking fluid was replaced with coconut water. The rats were observed over a 56-day period, followed by collection of blood specimens for analysis of hematological parameters, lipid profiles, and hepatic and renal function markers. The feed intake, weight gain, and feed conversion ratio (FCR) were evaluated. All the tests were conducted in accordance with approved standards. The ANN utilized 20 features, trained employing the Levenberg–Marquardt optimization algorithm, and the data were split into 70% training, 15% validation, and 15% testing sets. The findings showed that plant derivatives significantly improved the levels of nutritional and bioactive compounds in enriched biscuit samples (p ≤ 0.05). Similarly, the developed ANN models displayed outstanding predict…",
-      "authors": "Rema A. Turkustani, Eman A. Abduljawad, Ebtihaj O. Alnasri et al.",
+      "title": "DASH diet adherence is associated with lower ischemic stroke incidence among older women: findings from a sex-specific analysis",
+      "abstract": "BackgroundStroke is a leading cause of death and disability, and its incidence is expected to rise. This study investigated adherence to the Dietary Approaches to Stop Hypertension (DASH) dietary pattern and ischemic stroke incidence among older adults.MethodsThis cohort study used data from the Israeli Nutrition and Health Survey of adults aged ≥ 65 years, a nationwide survey conducted in Israel. DASH adherence was assessed using 24-h dietary recall and Mellen et al.’s DASH score (range: 0–9). Ischemic stroke events were identified through linkage with the Israeli National Stroke Registry (INSR), which includes nationwide stroke records from 1 January 2014, through 31 December 2022. First-ever ischemic stroke events during follow-up were included. Multivariable Fine and Gray proportional hazards models, accounting for death as a competing risk, were used to estimate subdistribution hazard ratios (sHRs) and 95% confidence intervals (CIs) according to DASH adherence, with participants classified as DASH-accordant (score ≥ 4.5) or non-accordant (score < 4.5).ResultsAmong 1,177 participants who were alive at the start of follow-up (median age in 2014, 81 years [IQR, 77–85]; 56.2% women), 60 ischemic stroke events occurred during a mean follow-up of 6.6 ± 3.0 years. A significant interaction was observed between sex and DASH adherence in relation to ischemic stroke incidence (p = 0.002). In the sex-specific adjusted main model, including age, sex, sex and DASH interaction term, population group, socioeconomic status, energy intake, smoking and physical activity, higher DASH adh…",
+      "authors": "Miri Lutski, Carmit Libruder, Binyamin Binyaminy et al.",
       "published": "Nov 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1981288",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1954759",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "A three-dimensional convolutional neural network with joint spectral–spatial attention for celery adulteration detection using hyperspectral imaging",
-      "abstract": "IntroductionStalk celery (Apium graveolens var. dulce) commands a market premium that invites substitution with cheaper Apiaceae relatives, yet conventional authentication is either destructive, slow, or insensitive at the low blending ratios that are hardest to catch.MethodsWe acquired 420 visible–near-infrared hyperspectral cubes (400–1,000 nm) of celery adulterated with parsley, water dropwort, and lower celery petiole across seven mass ratios from 0 to 50%, each dish prepared as an independent weighing–mixing–filling event, and released the dataset under CC-BY. A parameter-efficient three-dimensional convolutional network was constructed in which a joint spectral–spatial attention module reweights wavelengths and spatial positions in series through a gated residual path, feeding shared features to paired classification and regression heads.ResultsAveraged over five seeds on dish-level held-out data, the model reached 95.2 ± 0.5% accuracy with a Kappa of 0.944, exceeding PLS-DA, SVM, random forest, 1D-CNN, 2D-CNN, and an attention-free 3D-CNN; the margin over that backbone is significant by a dish-level McNemar test (p = 0.008). The advantage concentrated at 5–10% adulteration, where accuracy remained 91.7% against 79.2% for the plain backbone. Ratio prediction achieved R2 = 0.973 and RMSE = 2.14 percentage points.DiscussionOnce back-projected onto the original wavelength axis, the learned band weights localized to the chlorophyll a trough, the red edge, and the short-wavelength shoulder of the water band near 950–958 nm, and occluding exactly those windows cost the most…",
-      "authors": "Hui Gao, Tong Wu, Yuanxia Fu et al.",
+      "title": "Nutrition-transition and intervention themes in publications explicitly focused on childhood obesity: a systematic computational mapping review",
+      "abstract": "BackgroundNutrition transition connects childhood obesity to changing diets, food environments, intervention institutions, and unequal research capacity. We systematically mapped how these issues were represented in indexed publication records.MethodsTitle-restricted childhood/adolescent obesity searches in the Web of Science Core Collection and Scopus supplied 19,858 comparable filtered exports; 6,909 nutrition-explicit original-study records formed the primary corpus. Latent Dirichlet allocation (LDA) and SPECTER2-based BERTopic were aligned and used to compare 2016–2020 with 2021–2025. Sensitivities varied model, corpus, temporal unit, random seed, BERTopic parameters, and denominator. Author-affiliation countries were fractionally counted. Estimands captured record-level research attention and institutional participation.ResultsLatent Dirichlet allocation (LDA) yielded 35 topics, and BERTopic yielded 23 topics, with 27.34% of documents assigned to the HDBSCAN noise cluster before reassignment. In the retrieved corpus, diet quality, meal patterns, and food processing had a +0.97-percentage-point LDA contrast (q < 0.001) and a +1.66-point raw-BERTopic contrast (q = 0.077). Double burden, food insecurity, and structural determinants of nutrition had corresponding contrasts of +0.87 (q < 0.001) and +1.13 points (q = 0.061). Adjusted support remained model-specific, with no focal pair supported in both models; year-level tests also fell below adjusted thresholds. The family/community BERTopic estimate was corpus-specification dependent and inconclusive. Of 6,909 records, 6,8…",
+      "authors": "Lu Xing, Xueqi Wu",
       "published": "Nov 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1972199",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1950545",
       "image": "",
       "screen": "right"
     },

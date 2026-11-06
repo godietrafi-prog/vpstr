@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05T23:12:59Z",
+  "updated": "2026-11-06T04:22:16Z",
   "items": [
     {
       "title": "Divergent nitrous oxide accounting can distort crop carbon intensity scores and agricultural trade",
@@ -212,22 +212,22 @@
       "screen": "left"
     },
     {
-      "title": "Assessment of probiotic characteristics of lactic acid bacteria isolated from traditional foods of Southern India for preparation of sauerkraut",
-      "abstract": "Probiotics are highly essential for a healthy gut in order to maintain optimum microbial balance, fight against pathogenic bacteria, improve digestion and maintain overall intestinal health. The present investigation was carried out to evaluate the probiotic properties of lactic acid bacteria (LAB) isolated from traditional fermented foods of Southern India. The isolates cultures were tested for acid production using titratable acidity, and six maximum acid-producing (g/L) isolates (DFRM9 11.0, DFRM8 10.0, DFRA9 10.0, DFRD4 10.0, DFRY4 8.0 and DFRD11 7.0) were selected for further analysis. Acid tolerance, bile tolerance, tolerance to the gastrointestinal tract, antibacterial activity, and antibiotic susceptibility, were tested on the above LAB isolates and isolates obtained earlier such as Bifidobacterium bifidum NCDC229, Lactiplantibacillus plantarum DFR4, Pediococcusacidilactici DFR1 obtained during previous studies in our laboratory. Analysis of variance (ANOVA) indicated that Limosilactobacillus fermentum DFRM9 had significantly (p < 0.05) higher probiotic effects among the tested isolates. L.fermentum DFRM9 was used as a starting culture for sauerkraut preparation, and its fermentation activity was compared with that of spontaneous fermentation. The developed functional food was found to have desirable physico-chemical and microbial quality. The results obtained in the present investigation support the use of lacto-fermentation for the production of sauerkraut and indicate the potential of lactic acid bacteria isolated from traditional foods as probiotics in various p…",
-      "authors": "Mrithula Mahalakshmi Madhan Kumarr, Janifer Xavier, V. Athira et al.",
-      "published": "Nov 2026",
-      "feedName": "Frontiers Food Science",
-      "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.1942993",
-      "image": "",
-      "screen": "left"
-    },
-    {
       "title": "Kefir-fermented camel milk: physicochemical characteristics, sensory evaluation, and consumer behavior in Morocco",
       "abstract": "Althou⁠g⁠h camel milk is gen⁠erally acknowledged for its nutr⁠itional content and medicinal effects, the processing technolo⁠gy and consumer acceptability of its fermented products rem⁠ain⁠ to b⁠e improved. This study aimed to ev⁠alua⁠te Moroccan consu⁠mers’ perception of and intention to consume camel milk fermented with kefir grai⁠ns and investigate the effect of enrichment with natural date extract on the physicochemical and sensory characteristics of the product. A survey was conducted with 1,009 participants from different regions of Morocco to study consumption habits, knowledge of fermented c⁠amel milk products, and the intention to consume kefir-fermented camel milk. In parallel, camel milk formulations fermented with kefir gra⁠ins, unflavored, f⁠lavored with sucrose, and enriched with date extra⁠ct we⁠r⁠e developed and characteri⁠zed through physicochemical analyses, sensory acceptance, and preference tests. Both flavored⁠ formulations were standardized to the same soluble solids content (8.13 °Brix), ensuring comparable s⁠weetness during physicochemical and⁠ sensory evalua⁠tion. The results indicated that information on nutrition⁠al benefits positively influenced consumption intention. Enrichment with date extract significantly modified the physicochemical characteristics and improved sensory ac⁠ceptability compared with that of the sucrose-flavored formulation. These findings indicate that da⁠te extract can be used to modify the p⁠hysicochemical characteristics and improve the sensory accep⁠tance of camel milk kefir while contribu⁠ting to the valorization of loca…",
       "authors": "Charaf Dlimi, Yassine Zine-Eddine, Omar Ait El Alia et al.",
       "published": "Nov 2026",
       "feedName": "Frontiers Food Science",
       "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.1928545",
+      "image": "",
+      "screen": "left"
+    },
+    {
+      "title": "Assessment of probiotic characteristics of lactic acid bacteria isolated from traditional foods of Southern India for preparation of sauerkraut",
+      "abstract": "Probiotics are highly essential for a healthy gut in order to maintain optimum microbial balance, fight against pathogenic bacteria, improve digestion and maintain overall intestinal health. The present investigation was carried out to evaluate the probiotic properties of lactic acid bacteria (LAB) isolated from traditional fermented foods of Southern India. The isolates cultures were tested for acid production using titratable acidity, and six maximum acid-producing (g/L) isolates (DFRM9 11.0, DFRM8 10.0, DFRA9 10.0, DFRD4 10.0, DFRY4 8.0 and DFRD11 7.0) were selected for further analysis. Acid tolerance, bile tolerance, tolerance to the gastrointestinal tract, antibacterial activity, and antibiotic susceptibility, were tested on the above LAB isolates and isolates obtained earlier such as Bifidobacterium bifidum NCDC229, Lactiplantibacillus plantarum DFR4, Pediococcusacidilactici DFR1 obtained during previous studies in our laboratory. Analysis of variance (ANOVA) indicated that Limosilactobacillus fermentum DFRM9 had significantly (p < 0.05) higher probiotic effects among the tested isolates. L.fermentum DFRM9 was used as a starting culture for sauerkraut preparation, and its fermentation activity was compared with that of spontaneous fermentation. The developed functional food was found to have desirable physico-chemical and microbial quality. The results obtained in the present investigation support the use of lacto-fermentation for the production of sauerkraut and indicate the potential of lactic acid bacteria isolated from traditional foods as probiotics in various p…",
+      "authors": "Mrithula Mahalakshmi Madhan Kumarr, Janifer Xavier, V. Athira et al.",
+      "published": "Nov 2026",
+      "feedName": "Frontiers Food Science",
+      "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.1942993",
       "image": "",
       "screen": "left"
     },
@@ -362,6 +362,16 @@
       "screen": "left"
     },
     {
+      "title": "Paired DNA strands recognize shape, not just sequence, in new small-molecule sensing method",
+      "abstract": "You have probably performed a sandwich assay before, even if you didn't know it. Sandwich assays are the molecular sensing technology behind lateral flow tests like the at-home COVID test. After a sample is dripped onto the test strip, it combines with detector antibodies attached to tiny gold particles, which bind to any viral proteins present. When the sample reaches the test line, a second antibody anchored to the strip binds to a different site on the viral protein, creating a molecular \"sandwich.\" As the gold particles accumulate, the test line turns dark red, becoming visible to the naked eye.",
+      "authors": "",
+      "published": "Nov 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-11-paired-dna-strands-sequence-small.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/a-new-sensing-architec.jpg",
+      "screen": "right"
+    },
+    {
       "title": "A sweeter future? AI helps scientists discover new sugar substitutes",
       "abstract": "Researchers Dr. Shayma El-Atawneh and professor Amiram Goldblum at the Hebrew University of Jerusalem have developed a new computational framework that identified 92 promising candidates for future sugar substitutes from more than 50 million chemical compounds. The study, published in the journal Food Chemistry, demonstrates how artificial intelligence and molecular modeling could accelerate the discovery of new sweeteners while helping overcome one of the industry's persistent challenges: unwanted bitter aftertastes.",
       "authors": "",
@@ -389,16 +399,6 @@
       "feedName": "Phys.org Analytics",
       "url": "https://phys.org/news/2026-11-catalysts-roadmap-smarter-chemical-reactions.html",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/a-new-spin-on-catalyst-2.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "Asymmetric atomic structure improves sodium–sulfur battery performance",
-      "abstract": "Chinese researchers have developed a new way to improve sodium–sulfur battery performance by changing the atomic structure of a catalyst. Led by professors Wang Hui and Zheng Fangcai from the High Magnetic Field Laboratory at the Hefei Institutes of Physical Science of the Chinese Academy of Sciences, the study is published in Angewandte Chemie.",
-      "authors": "",
-      "published": "Nov 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-11-asymmetric-atomic-sodiumsulfur-battery.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/asymmetric-atomic-stru.jpg",
       "screen": "right"
     },
     {
@@ -799,6 +799,46 @@
       "researcher": {
         "name": "Ofir Benjamin",
         "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=FsjV0oIAAAAJ"
+      }
+    },
+    {
+      "title": "Phosphorus in Balance: Evaluating the Costs and Benefits of a Circular Economy Approach",
+      "abstract": "This paper presents a comprehensive cost-benefit analysis of producing alternative phosphorus (P) fertilizers from recycled water treatment residuals (Fe-WTR) and cowshed effluents. The cost-benefit values of Fe-WTR are compared to the net costs of recycling P using a synthetic adsorbent (commonly used practice-layered double hydroxide, P-LDH) and the costs of commercial fertilizers. Dairy wastewater is used as a source of P. The cost of 1 ton P using the Fe-WTR process is €329. In contrast, synthetic adsorbents (P-LDH) incur significantly higher costs, amounting to €3329 per ton, underscoring the economic advantage of utilizing waste-derived materials. Adopting Fe-WTR fertilizer not only offers substantial cost savings by avoiding landfill fees (€40 per ton) and wastewater discharge fines (€500 per ton) but also reduces environmental impacts when compared to the use of commercial P fertilizers (non-recycled P). The Fe-WTR method mitigates eutrophication and pollution, presenting the dual benefit of cost-effectiveness and environmental protection, which exceeds the common P recycling practice (LDH). Our conclusions are based on production processes in Israel and compared to previous cost estimations at the world level, assessing the potential gain from such circular production of P globally. Recycling P from waste streams can be economically viable and environmentally preferable at small and large economic scales, supporting global sustainability goals.",
+      "authors": "H. E. Ganem, I. Zohar, M. Litaor et al.",
+      "published": "2024",
+      "venue": "Journal of Environmental Science Studies",
+      "feedName": "Lab Research",
+      "citationCount": 0,
+      "recentCitations": 0,
+      "quartile": null,
+      "s2_paper_id": "5a7645fb724f2527117a809194848a4b84de25da",
+      "url": "https://doi.org/10.20849/jess.v7i2.1469",
+      "image": "",
+      "screen": "both",
+      "lab_paper": true,
+      "researcher": {
+        "name": "Adi Jonas-Levi",
+        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=MbCf9l4AAAAJ"
+      }
+    },
+    {
+      "title": "The impact of alternative recycled and synthetic phosphorus sources on plant growth and responses, soil interactions and sustainable agriculture - lettuce (Lactuca sativa) as a case model.",
+      "abstract": "This research assesses the efficacy of two phosphorus (P) adsorbents as alternative fertilizers in promoting lettuce growth. A synthetic Mg/Al-layered double hydroxide (LDH) and an iron-based recycled water treatment residual (Fe-WTR), both enriched with P from dairy wastewater and added at three dosage levels. We hypothesized that the adsorbents' physicochemical nature will overshadow the biological efforts in the plant ecosystem to increase P solubility, impacting plant growth, nutritional composition, and metabolite profiles. Fe-WTR significantly enhanced lettuce biomass compared to LDH. Yet, elemental analysis revealed higher or equal P concentrations in the low-biomass LDH plants relative to other treatments. Phosphorus uptake appears to influence the assimilation of other nutrients that divided into two groups: calcium, magnesium, zinc, and copper with notable correlations to P and nitrogen, iron, aluminum, vanadium and manganese with low correlations to P. Conversely, P retained poor correlation with most metabolites whereas iron showed a higher correlation with numerous metabolites. Analysis of metabolites, encompassing carbohydrates, the Krebs cycle, amino acids, nucleic acids, and stress and regulatory pathways, revealed diminished levels in the LDH treatments. Overall, carbon assimilation (plant growth) was more effectively predicted by soil P availability (adsorbent type and dose) rather than by cellular P concentration, suggesting root signaling was at play, influencing carbohydrate translocation to the roots. Diminished levels of cellular sugars further affect…",
+      "authors": "I. Zohar, H. E. Ganem, D. DiSegni et al.",
+      "published": "2024",
+      "venue": "Science of the Total Environment",
+      "feedName": "Lab Research",
+      "citationCount": 8,
+      "recentCitations": 0,
+      "quartile": "Q1",
+      "s2_paper_id": "716a87e9602f04f6b3d7fe6c3b411a15d1beaf4a",
+      "url": "https://doi.org/10.1016/j.scitotenv.2024.174719",
+      "image": "",
+      "screen": "both",
+      "lab_paper": true,
+      "researcher": {
+        "name": "Adi Jonas-Levi",
+        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=MbCf9l4AAAAJ"
       }
     },
     {

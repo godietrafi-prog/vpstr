@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08T03:36:01Z",
+  "updated": "2026-11-08T10:56:28Z",
   "items": [
     {
       "title": "Food production policies can enhance multi-pollutant control of Chinese rivers",
@@ -82,6 +82,16 @@
       "screen": "left"
     },
     {
+      "title": "Artificial intelligence in sustainable food product development and lifecycle management",
+      "abstract": "",
+      "authors": "Melaku Tafese Awulachew",
+      "published": "Jan 2027",
+      "feedName": "Trends in Food Sci & Tech",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426006977?dgcid=rss_sd_all",
+      "image": "",
+      "screen": "left"
+    },
+    {
       "title": "From specialty drink to functional food ingredients: A comprehensive review of physicochemical characterization, bioactivities, and industrial applications of matcha",
       "abstract": "",
       "authors": "Wan Zhu, Yiqin Chen, Jiaying Yang et al.",
@@ -108,16 +118,6 @@
       "published": "Jan 2027",
       "feedName": "Trends in Food Sci & Tech",
       "url": "https://www.sciencedirect.com/science/article/pii/S0924224426006412?dgcid=rss_sd_all",
-      "image": "",
-      "screen": "left"
-    },
-    {
-      "title": "Ellagic acid and urolithin A as food-derived bioactive compounds: From dietary sources and gut microbiota metabolism to functional foods and healthy aging",
-      "abstract": "",
-      "authors": "Ying Liu, Guangyuan Li, Hongyuan Lu",
-      "published": "Jan 2027",
-      "feedName": "Trends in Food Sci & Tech",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426006837?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -519,6 +519,46 @@
       "feedName": "Frontiers Nutrition",
       "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.2000252",
       "image": "",
+      "screen": "right"
+    },
+    {
+      "title": "NMR metabolomic profiles in white British and British Indian vegetarians and non-vegetarians in the UK Biobank",
+      "abstract": "Purpose The human metabolome is influenced by diet, but few large studies have been conducted. This study investigated differences in plasma metabolites across diet groups in white British and British Indian participants of the UK Biobank. Methods The UK Biobank recruited 500,000 adults (aged 40–69) across the UK in 2006–2010. At recruitment, participants reported ethnicity and diet, from which we defined six diet groups in white British participants (regular meat eaters, low meat eaters, poultry eaters, fish eaters, vegetarians, vegans) and two in British Indian participants (meat eaters, vegetarians). Metabolomics profiling (249 plasma metabolites) was performed using nuclear magnetic resonance (NMR) in a subset of ~ 275,000 participants. We used multivariable-adjusted linear regression to estimate differences in adjusted geometric means of metabolite levels by diet group. Results Significant differences between diet groups were observed in 241 (97%) metabolites in white British participants after multiple testing correction. Compared with regular meat eaters, vegetarians and vegans had lower concentrations of n-3, DHA, and their ratios to total fatty acids. However, they had higher n-6, linoleic acid, and their ratios to n-3 and total fatty acids. Non-meat eaters had higher glycine but lower branched-chain amino acid concentrations. Large differences were also seen in many lipoprotein subclasses. Similar patterns were observed in British Indian participants. Conclusion Marked differences in metabolite profiles across diet groups were observed in both ethnic groups, refle…",
+      "authors": "",
+      "published": "Nov 2026",
+      "feedName": "Eur. J. Nutrition",
+      "url": "https://link.springer.com/article/10.1007/s00394-026-04154-w",
+      "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1007%2Fs00394-026-04154-w/MediaObjects/394_2026_4154_Fig1_HTML.png",
+      "screen": "right"
+    },
+    {
+      "title": "Acute effects of hibiscus tea versus coffee consumption before prolonged sitting on blood pressure and heart rate variability in adults: a randomized crossover trial",
+      "abstract": "Purpose To compare acute effects of consuming hibiscus tea and coffee before prolonged uninterrupted sitting on blood pressure (BP) and heart rate variability (HRV) in young, healthy adults. Methods In a randomized crossover trial, participants ( n = 24; 24.9 [4.9] years old; 50% women; 54.2% with overweight/obesity) completed two 3-hour prolonged uninterrupted sitting sessions after consuming hibiscus tea or coffee. A Polar H10 heart rate (HR) strap connected to a Polar V800 monitor evaluated HRV indices, including HR, standard deviation of normal R-R intervals (SDNN), root mean square of successive differences (RMSSD), low-frequency power (LF), and high-frequency power (HF). A sphygmomanometer (Welch Allyn Connex) measured systolic (SBP) and diastolic (DBP) BP, and mean arterial pressure (MAP) was calculated. HRV indices were natural log-transformed (ln) due to skewness. Generalized linear mixed models with random effects examined the influence of both beverages on BP and HRV while adjusting for baseline values. Results SBP, DBP, and MAP were significantly lower (β = − 4.2, − 3.3, − 3.6 mmHg, respectively), and lnHF (β = 0.3) was significantly higher in the hibiscus tea condition compared with the coffee condition ( p < 0.05 for all). No other significant differences were detected for other HRV indices ( p > 0.05 for all). Sex- and BMI-stratified analyses suggested potential variation in cardiovascular responses across subgroups, although these findings should be interpreted cautiously as formal interaction tests were not performed. Conclusions These findings suggest that…",
+      "authors": "",
+      "published": "Nov 2026",
+      "feedName": "Eur. J. Nutrition",
+      "url": "https://link.springer.com/article/10.1007/s00394-026-04155-9",
+      "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1007%2Fs00394-026-04155-9/MediaObjects/394_2026_4155_Fig1_HTML.png",
+      "screen": "right"
+    },
+    {
+      "title": "Associations between biomarkers of vitamin K and cardiovascular disease risk factors: the role of lipids",
+      "abstract": "Purpose Emerging evidence indicates that vitamin K is important not only for its role in blood coagulation activation, but also for cardiovascular health. However, the results are equivocal, and due to the lipophilic nature of vitamin K, adjustment for triglycerides may be important. We investigated the associations between levels of circulating vitamin K vitamers, phylloquinone (PK) and total menaquinones (MK), and dephospho-undercarboxylated matrix Gla protein (dp-ucMGP, a biomarker of functional vitamin K status), with multiple cardiovascular disease risk factors and adjusted for triglycerides. Methods From the population-based Inter99 cohort, 2,195 participants had available fasting blood samples from which dp-ucMGP, PK, and MK-4 to MK-10 were analysed (mean age, ± SD: 68, ± 7 years, 48% female). Cross-sectional associations with cardiovascular disease risk factors were examined per doubling of vitamin K biomarkers using multivariable regression models. Results Both PK and total MK were positively associated with hypertriglyceridemia: OR (95%CI) 1.91, (1.69, 2.18) and 13.1, (7.55, 23.4), respectively, but not measures of adiposity and diabetes. However, after triglyceride adjustment, higher PK and total MK were inversely associated with central obesity: 0.86, (0.79, 0.95) and 0.61, (0.37, 0.98), respectively, and diabetes: 0.81, (0.69, 0.95) and 0.33, (0.13, 0.81), respectively. Higher dp-ucMGP was associated with hypertriglyceridemia: 1.50, (1.08, 2.09). After adjustment for triglycerides, higher dp-ucMGP remained associated with central obesity: 2.81, (2.16, 3.70) and…",
+      "authors": "",
+      "published": "Nov 2026",
+      "feedName": "Eur. J. Nutrition",
+      "url": "https://link.springer.com/article/10.1007/s00394-026-04146-w",
+      "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1007%2Fs00394-026-04146-w/MediaObjects/394_2026_4146_Fig1_HTML.png",
+      "screen": "right"
+    },
+    {
+      "title": "Fermented dairy intake and markers of musculoskeletal ageing on the island of Ireland: insights from the Northern Ireland Cohort for the Longitudinal Study of Ageing (NICOLA) and The Irish Longitudinal Study on Ageing (TILDA)",
+      "abstract": "Purpose Fermented dairy foods may support healthy musculoskeletal ageing via high-quality protein and gut-muscle axis modulation. Epidemiological evidence linking fermented dairy foods with physical function in older adults is limited. We examined associations between fermented dairy intake and physical function in older adults in Ireland using two independent population-based cohorts, to assess the consistency of associations across differing dietary assessment approaches. Methods Cross-sectional analyses of data from the Northern Ireland Cohort for the Longitudinal Study of Ageing (NICOLA; n = 2791; mean age 64 ± 9 years) and The Irish Longitudinal Study on Ageing (TILDA; n = 3999; mean age 66 ± 9 years) was performed. Fermented dairy intake was calculated from cohort-specific food frequency questionnaires (FFQs) with outcomes including muscle strength, frailty and functional limitations. Multivariable linear and logistic regression models were applied, adjusting for demographic and health-related covariates. Results In NICOLA, fermented dairy intake was not associated with physical function outcomes after confounder adjustment. Associations observed in crude models were attenuated after adjustment, with no dose–response relationships. In TILDA, participants in the highest tertile of fermented dairy intake had higher odds of low grip strength compared with those in the lowest tertile (OR = 2.71; 95% CI: 1.12, 6.88; p = 0.030). However, analysis of individual fermented dairy foods indicated that this association was driven by yoghurt intake and was attenuated after covaria…",
+      "authors": "",
+      "published": "Nov 2026",
+      "feedName": "Eur. J. Nutrition",
+      "url": "https://link.springer.com/article/10.1007/s00394-026-04150-0",
+      "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1007%2Fs00394-026-04150-0/MediaObjects/394_2026_4150_Fig1_HTML.png",
       "screen": "right"
     },
     {

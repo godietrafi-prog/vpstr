@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09T01:23:06Z",
+  "updated": "2026-11-09T09:08:42Z",
   "items": [
     {
       "title": "Food production policies can enhance multi-pollutant control of Chinese rivers",
@@ -482,42 +482,42 @@
       "screen": "right"
     },
     {
-      "title": "Retraction: Relationship between skipping breakfast and metabolic syndrome among adults aged 35–74 years: a cross-sectional study in Northwest China, 2018–2020",
-      "abstract": "",
-      "authors": "",
+      "title": "Combined hemoglobin-ferritin phenotyping across trimesters for identifying adverse perinatal outcomes: a retrospective cohort study",
+      "abstract": "ObjectiveMaternal iron status is a key determinant of perinatal outcomes, yet the combined effects of hemoglobin (Hb) and ferritin (SF) across trimesters remain poorly characterized. This study aimed to evaluate the associations between combined Hb-SF phenotypes and adverse perinatal outcomes across three trimesters in a large cohort of pregnancy women.MethodsThis retrospective cohort study included 10,225 pregnant women with serial Hb and SF measurements across the first, second and third trimesters. Six combined Hb-SF phenotypes were defined based on first-trimester Hb and SF levels: Normal, High Hb, iron deficiency without anemia (IDWA), iron deficiency with hemoconcentration (ID-HC), iron deficiency anemia (IDA), and non-iron deficiency anemia (Non-ID Anemia). Logistic regression and restricted cubic spline (RCS) analyses were performed to assess associations with five primary outcomes: gestational diabetes mellitus (GDM), hypertensive disorders of pregnancy (HDP), preterm birth (PTB), small for gestational age (SGA), and large for gestational age (LGA). A simplified four-category sensitivity analysis was conducted to test the robustness of the findings.ResultsThe High Hb phenotype was consistently associated with higher odds of GDM (aOR = 1.17, 95% CI: 1.03–1.32) and HDP (aOR range: 1.32–1.94), particularly in the first and second trimesters. In contrast, IDWA and IDA were associated with lower odds of GDM, HDP, PTB, and SGA (aOR range: 0.58–0.80), predominantly in the second and third trimesters. However, IDA and IDWA were associated with higher odds of LGA (aOR range…",
+      "authors": "Jing Li, Hua Wu, Yanqun Lu et al.",
       "published": "Nov 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.2046667",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1969325",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Editorial: Nutrition and aging: multidisciplinary approaches to address nutritional deficiencies and their impact on health outcomes",
-      "abstract": "",
-      "authors": "Evelyn Frias-Toral, Florencia Ceriani, Justyna Godos et al.",
+      "title": "Effects of egg source and extraction method on physicochemical properties, volatile profiles, and in vitro antioxidant capacity of egg yolk oil",
+      "abstract": "Egg yolk is rich in lipids, phospholipids and other fat-soluble compounds, which are generally considered to contribute to its nutritional and technological value and have supported its use in flavor bases and functional-food formulations. However, the quality and flavor development of egg yolk oil (EYO) depend on egg source and preparation method. Here, egg yolk oils from conventional chicken eggs and Taihe Black-Bone Silk Fowl eggs were prepared by traditional thermal extraction or ethanol extraction. Physical properties, volatile compounds, and in vitro antioxidant activities were compared to define their flavor characteristics. Both egg source and extraction method influenced oil quality, although extraction method exerted the greater effect on the overall odor profile. Ethanol extraction increased extract yield and reduced viscosity. Thermal extraction produced stronger browning, and aldehydes and furans were the most numerous classes in its volatile profile. In total, 33 volatile compounds were putatively identified across the samples. Ethanol-extracted oils contained relatively higher levels of esters, ketones and pyrazines. Electronic-nose analysis further distinguished the odor fingerprints associated with the two extraction methods. Ethanol extraction of Taihe Black-Bone Silk Fowl egg yolk produced a relatively high extract yield, strong in vitro free-radical-scavenging activity. Thus, ethanol extraction is well suited to producing egg yolk oil with good fluidity, high in vitro antioxidant capacity and distinctive flavor characteristics. These findings support the…",
+      "authors": "Yusong Cao, Fangyue Guo, Meijie Li et al.",
       "published": "Nov 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.2024093",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1999179",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Impact of Lactiplantibacillus plantarum UBLP-40 intervention on iron status indicators in iron-deficient women of reproductive age: a double-blind, randomized controlled trial",
-      "abstract": "IntroductionIron deficiency remains highly prevalent among women of reproductive age due to increased physiological demands, inadequate dietary intake, and poor absorption. Conventional iron supplementation has shown limited success in addressing this issue. This study aimed to evaluate the effect of Lactiplantibacillus plantarum UBLP-40 (Lp40) on iron status indicators in iron-deficient women of reproductive age.MethodsIn this double-blind, randomized controlled trial, 152 iron-deficient women were randomized to receive either a probiotic-iron-ascorbic acid combination (Lp40-Fe-AA, n = 51), iron-ascorbic acid (Fe-AA, n = 50), or probiotic-iron (Lp40-Fe, n = 51) supplement in capsule form once daily, 1 hour before a meal for 12 weeks. Serum ferritin and other iron markers were measured at baseline, week 6, and week 12. Data were analyzed using a generalized linear mixed-effects model.ResultsA significant time-by-group interaction was found for inflammation-adjusted ferritin levels (p = 0.048). In post-hoc analysis, the Lp40-Fe-AA group showed significant improvement in serum ferritin compared to the Fe-AA group (10.33 ng/mL, 95% CI: 7.09–13.57 vs. 4.80 ng/mL, 95% CI: 1.93–7.66; p = 0.014) at 12 weeks. Ferritin levels did not show any significant difference when other groups were compared (Lp40-Fe-AA vs. Lp40-Fe, p = 0.485 and Lp40-Fe vs. Fe-AA, p = 0.076). No significant time-by-group interaction was however observed for hemoglobin, hepcidin, transferrin saturation, and reticulocyte indices.ConclusionThe results of this study indicate that L. plantarum UBLP-40 may offer a m…",
-      "authors": "Mohamad Tarik, Deepika Lina Minz, Ritvik Amarchand et al.",
+      "title": "Bifidobacterium supplementation preserves gut microbiota stability and enhances wellbeing during short-term international travel: a randomized, double-blind, placebo-controlled trial",
+      "abstract": "BackgroundShort-term international travel represents an acute environmental perturbation that can disrupt the gut microbiome and contribute to gastrointestinal, respiratory, and psychological symptoms. Probiotic supplementation has been proposed as a strategy to enhance microbiome resilience; however, its effects on both microbial dynamics and multi-domain health outcomes during travel remain incompletely understood.MethodsIn this randomized, double-blind, placebo-controlled trial, 40 healthy adults undertaking a 7-day trip from China to Europe were assigned to receive either a probiotic formulation containing Bifidobacterium animalis subsp. lactis B94 and Lacticaseibacillus helveticus R0052 (2 × 109 CFU/day) or placebo. Stool samples were collected pre-travel (Day 0) and post-travel (Day 7) for metagenomic sequencing, taxonomic profiling, and functional analysis (KEGG, COG, LEfSe, qPCR). Participants recorded daily gastrointestinal, respiratory, and systemic symptoms and completed validated questionnaires assessing anxiety (GAD-7), wellbeing (WHO-5), and sleep quality (PSQI).ResultsTravel was associated with a significant reduction in gut microbiota alpha diversity in the placebo group, whereas diversity was preserved in the probiotic group. Taxonomic analysis demonstrated enrichment of B. animalis subsp. lactis post-travel in the probiotic group, confirmed by qPCR. Functional analysis based on KEGG annotation revealed minimal predicted pathway-level adaptation in the placebo group despite widespread disruption across COG categories, whereas the probiotic group exhibited e…",
+      "authors": "Zhi Peng, Min-Tze Liong, Xiaohui Li et al.",
       "published": "Nov 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1951057",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1893609",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Potential roles of food-derived bioactive peptides in osteoporosis through the gut-bone axis",
-      "abstract": "Osteoporosis is a systemic skeletal disorder characterized by reduced bone mass, microarchitectural deterioration, and increased fracture risk. However, long-term use of current pharmacological therapies is often associated with adverse effects, underscoring the urgent need for safer and more sustainable intervention strategies. Food-derived bioactive peptides have attracted increasing attention because of their potential anti-osteoporotic effects and natural origin. Upon intestinal entry, these peptides may modulate the gut microbiota and its metabolites, improve immune-inflammatory responses, and maintain intestinal homeostasis, thereby influencing bone homeostasis. The gut-bone axis, as a key bidirectional regulatory network connecting the gut microenvironment and bone metabolism, provides a new research perspective for understanding the potential link between food-derived bioactive peptides and bone health. This review systematically summarizes the potential mechanisms by which food-derived bioactive peptides exert bone-protective effects through regulation of the gut-bone axis. Furthermore, we discuss current research progress, remaining challenges, and future directions, with the aim of providing a theoretical foundation for the development of peptide-based intervention strategies against osteoporosis. Given that the current evidence is mainly derived from in vitro and animal studies, the actual effects of food-derived bioactive peptides on osteoporosis still need to be further validated through clinical studies.",
-      "authors": "Xiyan Wang, Yitong Du, Bowen Yang et al.",
+      "title": "Empirical dietary inflammatory pattern and cognitive-state transitions in older US adults: a multistate cohort study",
+      "abstract": "BackgroundDietary inflammatory potential may be associated with cognitive aging, but evidence on cognitive-state transitions is limited. We examined the association of the empirical dietary inflammatory pattern (EDIP) with transitions from normal cognition to survey-classified cognitive impairment.MethodsWe linked 2013 Health Care and Nutrition Study dietary data to 2014–2022 Health and Retirement Study cognitive classifications and mortality records for 4,997 adults aged 60 years or older without dementia at baseline. A piecewise continuous-time Markov model represented normal cognition, cognitive impairment, and death. The primary model assigned EDIP only to the normal-to-impairment transition; a key sensitivity analysis allowed EDIP associations with all four transitions.ResultsAcross 21,197 state observations, 1,615 observed normal-to-impairment transitions occurred. The primary hazard ratio (HR) per 1-SD higher EDIP was 1.074 (95% confidence interval [CI], 1.014–1.138; p = 0.014). With EDIP assigned to all transitions, the corresponding HR was 1.029 (95% CI, 0.963–1.099; p = 0.401). Under the primary model, four-year standardized cognitive-impairment probabilities among 4,068 participants with normal cognition at baseline were 17.0% and 18.9% at EDIP values of −1 and +1 SD, respectively, a difference of 1.87 percentage points (95% CI, 0.48–3.42).ConclusionThe modest positive association in the restricted primary model was not robust to allowing EDIP associations with all transitions. Single dietary assessment, possible reverse causation, and survey-based outcome classi…",
+      "authors": "Zhipeng Liu, Min Lei, Huiwen You et al.",
       "published": "Nov 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.2000252",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1979010",
       "image": "",
       "screen": "right"
     },
@@ -560,86 +560,6 @@
       "url": "https://link.springer.com/article/10.1007/s00394-026-04150-0",
       "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1007%2Fs00394-026-04150-0/MediaObjects/394_2026_4150_Fig1_HTML.png",
       "screen": "right"
-    },
-    {
-      "title": "Opportunities and limitations of image analysis-based microplastic quantification and characterization in a hydrological context",
-      "abstract": "Precise characterization of microplastic morphology and size distribution is essential for understanding particle mobility through porous media, since particle size and morphology strongly influence filtration, retention, and transport behavior. Image analysis has been investigated as a cost-effective and efficient way to quantify and measure polydisperse environmental microplastics, but it has yet to be proven effective for use in hydrological studies. In this study, three common image-analysis workflows were evaluated to quantify concentrations and size distributions of Nile Red-stained microplastics in laboratory transport studies. Filter images were captured using (1) a digital single-lens reflex camera; or (2) a stereomicroscope, both as random frames or as stitched full-filter images. Automated particle counts were compared to manual counts from various dilutions, based on panoramic full-filter images. Then, a controlled sand column experiment was conducted as proof-of-concept to evaluate method performance under advective transport conditions. All imaging approaches exhibited concentration-dependent sensitivity, with high particle densities causing quantification and sizing errors due to particle overlap (coincidence) and fluorescence halo effects. Stitched full-filter stereomicroscopic images were deemed too time-consuming for use in high-throughput hydrological studies, but DSLR photography and random frame-stereomicroscopy identified comparable breakthrough timing and mobility trends. Differences in particle recovery and relative concentration magnitudes were driv…",
-      "authors": "Ofir Meidan, I. Zohar, S. Arnon et al.",
-      "published": "2026",
-      "venue": "Microplastics and Nanoplastics",
-      "feedName": "Lab Research",
-      "citationCount": 0,
-      "recentCitations": 0,
-      "quartile": "Q1",
-      "s2_paper_id": "c1cb297987f2c744cd9d263c55831499cfb6769a",
-      "url": "https://doi.org/10.1186/s43591-026-00212-6",
-      "image": "",
-      "screen": "both",
-      "lab_paper": true,
-      "researcher": {
-        "name": "Iris Zohar",
-        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=YVQd-pwAAAAJ"
-      }
-    },
-    {
-      "title": "Phosphorus in Balance: Evaluating the Costs and Benefits of a Circular Economy Approach",
-      "abstract": "This paper presents a comprehensive cost-benefit analysis of producing alternative phosphorus (P) fertilizers from recycled water treatment residuals (Fe-WTR) and cowshed effluents. The cost-benefit values of Fe-WTR are compared to the net costs of recycling P using a synthetic adsorbent (commonly used practice-layered double hydroxide, P-LDH) and the costs of commercial fertilizers. Dairy wastewater is used as a source of P. The cost of 1 ton P using the Fe-WTR process is €329. In contrast, synthetic adsorbents (P-LDH) incur significantly higher costs, amounting to €3329 per ton, underscoring the economic advantage of utilizing waste-derived materials. Adopting Fe-WTR fertilizer not only offers substantial cost savings by avoiding landfill fees (€40 per ton) and wastewater discharge fines (€500 per ton) but also reduces environmental impacts when compared to the use of commercial P fertilizers (non-recycled P). The Fe-WTR method mitigates eutrophication and pollution, presenting the dual benefit of cost-effectiveness and environmental protection, which exceeds the common P recycling practice (LDH). Our conclusions are based on production processes in Israel and compared to previous cost estimations at the world level, assessing the potential gain from such circular production of P globally. Recycling P from waste streams can be economically viable and environmentally preferable at small and large economic scales, supporting global sustainability goals.",
-      "authors": "H. E. Ganem, I. Zohar, M. Litaor et al.",
-      "published": "2024",
-      "venue": "Journal of Environmental Science Studies",
-      "feedName": "Lab Research",
-      "citationCount": 0,
-      "recentCitations": 0,
-      "quartile": null,
-      "s2_paper_id": "5a7645fb724f2527117a809194848a4b84de25da",
-      "url": "https://doi.org/10.20849/jess.v7i2.1469",
-      "image": "",
-      "screen": "both",
-      "lab_paper": true,
-      "researcher": {
-        "name": "Iris Zohar",
-        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=YVQd-pwAAAAJ"
-      }
-    },
-    {
-      "title": "The impact of alternative recycled and synthetic phosphorus sources on plant growth and responses, soil interactions and sustainable agriculture - lettuce (Lactuca sativa) as a case model.",
-      "abstract": "This research assesses the efficacy of two phosphorus (P) adsorbents as alternative fertilizers in promoting lettuce growth. A synthetic Mg/Al-layered double hydroxide (LDH) and an iron-based recycled water treatment residual (Fe-WTR), both enriched with P from dairy wastewater and added at three dosage levels. We hypothesized that the adsorbents' physicochemical nature will overshadow the biological efforts in the plant ecosystem to increase P solubility, impacting plant growth, nutritional composition, and metabolite profiles. Fe-WTR significantly enhanced lettuce biomass compared to LDH. Yet, elemental analysis revealed higher or equal P concentrations in the low-biomass LDH plants relative to other treatments. Phosphorus uptake appears to influence the assimilation of other nutrients that divided into two groups: calcium, magnesium, zinc, and copper with notable correlations to P and nitrogen, iron, aluminum, vanadium and manganese with low correlations to P. Conversely, P retained poor correlation with most metabolites whereas iron showed a higher correlation with numerous metabolites. Analysis of metabolites, encompassing carbohydrates, the Krebs cycle, amino acids, nucleic acids, and stress and regulatory pathways, revealed diminished levels in the LDH treatments. Overall, carbon assimilation (plant growth) was more effectively predicted by soil P availability (adsorbent type and dose) rather than by cellular P concentration, suggesting root signaling was at play, influencing carbohydrate translocation to the roots. Diminished levels of cellular sugars further affect…",
-      "authors": "I. Zohar, H. E. Ganem, D. DiSegni et al.",
-      "published": "2024",
-      "venue": "Science of the Total Environment",
-      "feedName": "Lab Research",
-      "citationCount": 8,
-      "recentCitations": 0,
-      "quartile": "Q1",
-      "s2_paper_id": "716a87e9602f04f6b3d7fe6c3b411a15d1beaf4a",
-      "url": "https://doi.org/10.1016/j.scitotenv.2024.174719",
-      "image": "",
-      "screen": "both",
-      "lab_paper": true,
-      "researcher": {
-        "name": "Iris Zohar",
-        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=YVQd-pwAAAAJ"
-      }
-    },
-    {
-      "title": "Biogeochemical impacts on soil phosphorus and other macro- and micro elements solubility, ratios and forms during heatwaves",
-      "abstract": "Increased frequency and amplitude of extreme heat events can affect soil temperature, and biogeochemical processes. High temperatures may have contradicting geochemical and biological effects on essential elements solubility and forms. Endothermic behavior of minerals and oxides results in decreased solubility with increased temperature, while bio-mineralization is stimulated in response to high temperature. To elucidate heatwave impacts on soil biogeochemical processes, we performed a controlled soil incubation experiment and a field survey. Wet and dry alluvial soil sets were incubated at background temperature (33°C) for two weeks and then, a sequence of three heat events was induced (41°C/33°C alternations, five days each) followed by two short events of extreme heat (48°C for two days). Most soil indices changed trends after about 25-30 days. At the first part of the period, P, Al, Fe appeared to reflect endothermic behavior of (hydr)oxides and minerals in the dry soil (i.e., sorbed P was likely dependent on Fe (hydr)oxides dissolution), while trends of Fe/Al in the wet soil followed the dissolved organic C trend. Phosphatases enzymatic activities fluctuated positively with temperature, emphasizing the activity of residual extracellular enzymes sorbed to soil particles (dry soil) in addition to living cells excreted enzymes (wet soil). With the 3 rd heatwave, soluble P dramatically fluctuated with temperature, suggesting a sequence of temperature-enhanced bio-mineralization, releasing P to the soil solution, counteracted by geochemical sorption, removing P from solutio…",
-      "authors": "I. Zohar, M. Khoury, Yael Kirshenbaum et al.",
-      "published": "2023",
-      "venue": "Goldschmidt2023 abstracts",
-      "feedName": "Lab Research",
-      "citationCount": 0,
-      "recentCitations": 0,
-      "quartile": null,
-      "s2_paper_id": "e71980935a3dcce1c2b9257fe6bd261b6cf61461",
-      "url": "https://doi.org/10.7185/gold2023.18565",
-      "image": "",
-      "screen": "both",
-      "lab_paper": true,
-      "researcher": {
-        "name": "Iris Zohar",
-        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=YVQd-pwAAAAJ"
-      }
     },
     {
       "title": "Continuing Medical (Anatomy) Education Series: Organ Donation and Transplantation, a Means of Continuity of Functional and Independent Life and Living",
@@ -969,7 +889,7 @@
       "venue": "Journal of the American Chemical Society",
       "feedName": "Lab Research",
       "citationCount": 26,
-      "recentCitations": 1,
+      "recentCitations": 0,
       "quartile": "Q1",
       "s2_paper_id": "e8f95caa1e8ece0c16f246b34ead0788c6d4b146",
       "url": "https://doi.org/10.1021/jacs.4c00625",
@@ -1009,7 +929,7 @@
       "venue": "Advanced Functional Materials",
       "feedName": "Lab Research",
       "citationCount": 24,
-      "recentCitations": 1,
+      "recentCitations": 0,
       "quartile": "Q1",
       "s2_paper_id": "f8de42bddd0ecab555075b5f1e2cdce6f18f1a56",
       "url": "https://doi.org/10.1002/adfm.202306586",

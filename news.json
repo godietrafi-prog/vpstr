@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09T09:08:42Z",
+  "updated": "2026-11-09T20:21:41Z",
   "items": [
     {
       "title": "Food production policies can enhance multi-pollutant control of Chinese rivers",
@@ -52,32 +52,32 @@
       "screen": "left"
     },
     {
-      "title": "A molecularly-guided strategy to block ethylene biosynthesis and prolong fruit shelf life",
+      "title": "Sweet proteins designed with increased thermostability",
       "abstract": "",
-      "authors": "Yi Xie, Haozhen Li, Jinyue Yang et al.",
+      "authors": "Verónica Ramos-Viana, Teemu K.E. Rönkkö, Gonzalo Nahuel Bidart et al.",
       "published": "Dec 2026",
       "feedName": "Food Chemistry",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626041439?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626041294?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
     {
-      "title": "Identification and characterization of umami-enhancing peptides from soybean fermented by Aspergillus cristatus CB10002 using sensory-guided and computational approaches",
+      "title": "Zwitterionic nanochitin unlocks particle-mediated stabilization of modified pea protein isolate at its isoelectric point through interfacial and bulk-phase synergy",
       "abstract": "",
-      "authors": "Wenping Kong, Xiaohui Wu, Ming Liu et al.",
+      "authors": "Wenhao Liu, Weiquan Zhong, Ruoxuan Chen et al.",
       "published": "Dec 2026",
       "feedName": "Food Chemistry",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626039762?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626037180?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
     {
-      "title": "Modulation of whey protein isolate amyloid fibrillation by periodate-oxidized bassorin",
+      "title": "Modulation of techno-functional characteristics in low-fat meat emulsions by resistant starch-polysaccharide complexes: Impacts of polysaccharide charge type",
       "abstract": "",
-      "authors": "Maryam Norouzi, Seyed Mohammad Hashem Hosseini",
+      "authors": "Xixi Wang, Dongyue Liu, Fei Hu et al.",
       "published": "Dec 2026",
       "feedName": "Food Chemistry",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626039907?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626040720?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -202,6 +202,26 @@
       "screen": "left"
     },
     {
+      "title": "Correction: Identifying food-based medicinal indigenous leafy vegetables and evaluating their bioactive compounds in the Ga-Molepo community of Limpopo Province",
+      "abstract": "",
+      "authors": "Mmakoma M. Letsoalo, Semakaleng Mpai, Trust Beta et al.",
+      "published": "Nov 2026",
+      "feedName": "Frontiers Food Science",
+      "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.2050383",
+      "image": "",
+      "screen": "left"
+    },
+    {
+      "title": "Correction: Optimizing rosehip form and concentration in a plant-based appetizer: balancing sensory acceptability with nutrient composition and phenolic bioaccessibility during simulated digestion",
+      "abstract": "",
+      "authors": "Zhanar Nabiyeva, Abdyssemat Samadun, Diana Abdraimova et al.",
+      "published": "Nov 2026",
+      "feedName": "Frontiers Food Science",
+      "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.2047313",
+      "image": "",
+      "screen": "left"
+    },
+    {
       "title": "CRDS-Unet: channel-reversed depthwise separable U-net for efficient tomato leaf disease segmentation",
       "abstract": "IntroductionAutomated plant leaf disease segmentation is crucial for accurate disease diagnosis and quantitative lesion assessment in precision agriculture. U-Net-based architectures are widely employed for this task, although their high computational complexity sometimes hinders their application in resource-constrained agricultural settings.MethodsThis work investigates depthwise separable convolutions in conjunction with a channel-reversed U-Net for tomato leaf disease segmentation. The channel-reversed encoder allocates more feature channels to the shallow layers and progressively fewer to the deeper layers, the reverse of a conventional U-Net’s channel schedule, with the aim of preserving spatial detail while reducing computation in the deeper, more computationally expensive stages. Depthwise separable convolutions are used throughout the encoder, bottleneck, and decoder to further reduce trainable parameters. The model was trained on lesion masks and evaluated on an independent, held-out subset of the PlantVillage tomato leaf dataset using Dice coefficient, IoU, precision, recall, and F1-score, following a corrected data-splitting protocol that eliminates train/test leakage present in an earlier version of this work.ResultsThe proposed method reduced trainable parameters by over 97% relative to a conventional U-Net (0.96 million versus 31.06 million), at a measured reduction in segmentation accuracy under the training budget evaluated (Dice coefficient 0.79 versus 0.90 for standard U-Net). A supplementary experiment with a longer training budget narrowed this gap subs…",
       "authors": "E. Jansi, B. R. Kavitha",
@@ -218,26 +238,6 @@
       "published": "Nov 2026",
       "feedName": "Frontiers Food Science",
       "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.1937824",
-      "image": "",
-      "screen": "left"
-    },
-    {
-      "title": "Assessment of probiotic characteristics of lactic acid bacteria isolated from traditional foods of Southern India for preparation of sauerkraut",
-      "abstract": "Probiotics are highly essential for a healthy gut in order to maintain optimum microbial balance, fight against pathogenic bacteria, improve digestion and maintain overall intestinal health. The present investigation was carried out to evaluate the probiotic properties of lactic acid bacteria (LAB) isolated from traditional fermented foods of Southern India. The isolates cultures were tested for acid production using titratable acidity, and six maximum acid-producing (g/L) isolates (DFRM9 11.0, DFRM8 10.0, DFRA9 10.0, DFRD4 10.0, DFRY4 8.0 and DFRD11 7.0) were selected for further analysis. Acid tolerance, bile tolerance, tolerance to the gastrointestinal tract, antibacterial activity, and antibiotic susceptibility, were tested on the above LAB isolates and isolates obtained earlier such as Bifidobacterium bifidum NCDC229, Lactiplantibacillus plantarum DFR4, Pediococcusacidilactici DFR1 obtained during previous studies in our laboratory. Analysis of variance (ANOVA) indicated that Limosilactobacillus fermentum DFRM9 had significantly (p < 0.05) higher probiotic effects among the tested isolates. L.fermentum DFRM9 was used as a starting culture for sauerkraut preparation, and its fermentation activity was compared with that of spontaneous fermentation. The developed functional food was found to have desirable physico-chemical and microbial quality. The results obtained in the present investigation support the use of lacto-fermentation for the production of sauerkraut and indicate the potential of lactic acid bacteria isolated from traditional foods as probiotics in various p…",
-      "authors": "Mrithula Mahalakshmi Madhan Kumarr, Janifer Xavier, V. Athira et al.",
-      "published": "Nov 2026",
-      "feedName": "Frontiers Food Science",
-      "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.1942993",
-      "image": "",
-      "screen": "left"
-    },
-    {
-      "title": "Kefir-fermented camel milk: physicochemical characteristics, sensory evaluation, and consumer behavior in Morocco",
-      "abstract": "Althou⁠g⁠h camel milk is gen⁠erally acknowledged for its nutr⁠itional content and medicinal effects, the processing technolo⁠gy and consumer acceptability of its fermented products rem⁠ain⁠ to b⁠e improved. This study aimed to ev⁠alua⁠te Moroccan consu⁠mers’ perception of and intention to consume camel milk fermented with kefir grai⁠ns and investigate the effect of enrichment with natural date extract on the physicochemical and sensory characteristics of the product. A survey was conducted with 1,009 participants from different regions of Morocco to study consumption habits, knowledge of fermented c⁠amel milk products, and the intention to consume kefir-fermented camel milk. In parallel, camel milk formulations fermented with kefir gra⁠ins, unflavored, f⁠lavored with sucrose, and enriched with date extra⁠ct we⁠r⁠e developed and characteri⁠zed through physicochemical analyses, sensory acceptance, and preference tests. Both flavored⁠ formulations were standardized to the same soluble solids content (8.13 °Brix), ensuring comparable s⁠weetness during physicochemical and⁠ sensory evalua⁠tion. The results indicated that information on nutrition⁠al benefits positively influenced consumption intention. Enrichment with date extract significantly modified the physicochemical characteristics and improved sensory ac⁠ceptability compared with that of the sucrose-flavored formulation. These findings indicate that da⁠te extract can be used to modify the p⁠hysicochemical characteristics and improve the sensory accep⁠tance of camel milk kefir while contribu⁠ting to the valorization of loca…",
-      "authors": "Charaf Dlimi, Yassine Zine-Eddine, Omar Ait El Alia et al.",
-      "published": "Nov 2026",
-      "feedName": "Frontiers Food Science",
-      "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.1928545",
       "image": "",
       "screen": "left"
     },
@@ -442,6 +442,16 @@
       "screen": "right"
     },
     {
+      "title": "Common supplement could help fight psoriasis, scientists discover",
+      "abstract": "Scientists have discovered that pantethine, a readily available vitamin B5 derivative, can calm overactive immune cells and may help fight psoriasis. The supplement prevented psoriasis in mice and showed promising results in a small human trial, revealing an unexpected connection between cholesterol and autoimmune inflammation.",
+      "authors": "",
+      "published": "Nov 2026",
+      "feedName": "ScienceDaily Nutrition",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261108233057.htm",
+      "image": "https://www.sciencedaily.com/images/1920/woman-pouring-vitamin-d-omega-3-vitamin-supplements-into-hand.webp",
+      "screen": "right"
+    },
+    {
       "title": "Scientists discover a hidden warning sign of cannabis addiction",
       "abstract": "A study of more than 17,700 US adults found that people who use cannabis in multiple forms have dramatically higher rates of daily consumption and addiction symptoms than those who stick primarily to one method. Nearly 67% of those who used almost every form met criteria for cannabis use disorder, compared with just 15% of people who mainly consumed edibles.",
       "authors": "",
@@ -462,32 +472,22 @@
       "screen": "right"
     },
     {
-      "title": "For decades, we were told to avoid full-fat dairy. New research says otherwise",
-      "abstract": "Full-fat dairy may not be the health villain it has long been portrayed as, according to a new study finding that three daily servings did not worsen weight, cholesterol, or insulin resistance over 12 weeks. Researchers also observed improvements in blood pressure and nutrient intake, raising questions about longstanding recommendations to choose low-fat dairy.",
+      "title": "When your gut bacteria run out of fiber, they may start eating your gut lining",
+      "abstract": "Scientists have discovered that gut bacteria can feed on the protective mucus lining your intestines, producing potentially harmful compounds, but fiber helps keep this activity in check. Overlooked proteins in plant foods also help shift gut bacteria toward producing beneficial substances, revealing a surprising new reason plant-based diets may be good for you.",
       "authors": "",
       "published": "Nov 2026",
       "feedName": "ScienceDaily Nutrition",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261105081000.htm",
-      "image": "https://www.sciencedaily.com/images/1920/milk-eggs-butter-cheese-dairy.webp",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261105083622.htm",
+      "image": "https://www.sciencedaily.com/images/1920/bacteria-intestinal-microbiome-in-digestive-tract.webp",
       "screen": "right"
     },
     {
-      "title": "Scientists discover hidden brain changes linked to common sleep disorders",
-      "abstract": "Scientists have discovered that sleep disorders are associated with structural changes in brain regions that control attention, decision-making, and emotions, potentially explaining why disrupted sleep can affect everyday thinking and behavior. The findings, drawn from 57 brain imaging studies, reveal both shared and disorder-specific patterns that could lead to more targeted treatments.",
-      "authors": "",
-      "published": "Nov 2026",
-      "feedName": "ScienceDaily Nutrition",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261104012303.htm",
-      "image": "https://www.sciencedaily.com/images/1920/brain-scan-disease-glitch.webp",
-      "screen": "right"
-    },
-    {
-      "title": "Combined hemoglobin-ferritin phenotyping across trimesters for identifying adverse perinatal outcomes: a retrospective cohort study",
-      "abstract": "ObjectiveMaternal iron status is a key determinant of perinatal outcomes, yet the combined effects of hemoglobin (Hb) and ferritin (SF) across trimesters remain poorly characterized. This study aimed to evaluate the associations between combined Hb-SF phenotypes and adverse perinatal outcomes across three trimesters in a large cohort of pregnancy women.MethodsThis retrospective cohort study included 10,225 pregnant women with serial Hb and SF measurements across the first, second and third trimesters. Six combined Hb-SF phenotypes were defined based on first-trimester Hb and SF levels: Normal, High Hb, iron deficiency without anemia (IDWA), iron deficiency with hemoconcentration (ID-HC), iron deficiency anemia (IDA), and non-iron deficiency anemia (Non-ID Anemia). Logistic regression and restricted cubic spline (RCS) analyses were performed to assess associations with five primary outcomes: gestational diabetes mellitus (GDM), hypertensive disorders of pregnancy (HDP), preterm birth (PTB), small for gestational age (SGA), and large for gestational age (LGA). A simplified four-category sensitivity analysis was conducted to test the robustness of the findings.ResultsThe High Hb phenotype was consistently associated with higher odds of GDM (aOR = 1.17, 95% CI: 1.03–1.32) and HDP (aOR range: 1.32–1.94), particularly in the first and second trimesters. In contrast, IDWA and IDA were associated with lower odds of GDM, HDP, PTB, and SGA (aOR range: 0.58–0.80), predominantly in the second and third trimesters. However, IDA and IDWA were associated with higher odds of LGA (aOR range…",
-      "authors": "Jing Li, Hua Wu, Yanqun Lu et al.",
+      "title": "Mediterranean diet adherence in adolescent track and field athletes: evidence gaps, applicability, and implications for athlete monitoring",
+      "abstract": "IntroductionThe Mediterranean diet is a dietary pattern of interest in sports nutrition; however, evidence specifically applicable to adolescent competitive track and field athletes remains limited.ObjectiveTo critically examine the current evidence on Mediterranean diet adherence in adolescent competitive track and field athletes, assess the applicability and limitations of KIDMED as a potential dietary-screening component within multidimensional athlete monitoring, and identify priorities for future research.MethodsA narrative review with a structured literature search was conducted in Scopus, SPORTDiscus, and PubMed. A total of 1,909 records were identified; after removing 281 duplicates, 1,628 records were screened and 29 publications or reports were assessed in detail. Four publications, representing three independent samples, constituted the empirical core; however, none provided fully direct evidence for the predefined target population. Within the empirical core, evidence relating Mediterranean diet adherence to physical fitness was derived exclusively from one track and field cohort.ResultsNo study simultaneously met all criteria regarding age, athletics discipline, and competitive level. In the samples most closely aligned with the target population, moderate or high adherence predominated. The available evidence was insufficient to establish a consistent association between KIDMED scores and anthropometric variables, jumping performance, or sprint performance. Evidence related to health was also limited.ConclusionKIDMED may be useful for characterizing dietary ha…",
+      "authors": "A. Peñalver-Asensio, L. Abenza-Cano, J. A. Garcia-Roca et al.",
       "published": "Nov 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1969325",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1998596",
       "image": "",
       "screen": "right"
     },
@@ -502,22 +502,22 @@
       "screen": "right"
     },
     {
-      "title": "Bifidobacterium supplementation preserves gut microbiota stability and enhances wellbeing during short-term international travel: a randomized, double-blind, placebo-controlled trial",
-      "abstract": "BackgroundShort-term international travel represents an acute environmental perturbation that can disrupt the gut microbiome and contribute to gastrointestinal, respiratory, and psychological symptoms. Probiotic supplementation has been proposed as a strategy to enhance microbiome resilience; however, its effects on both microbial dynamics and multi-domain health outcomes during travel remain incompletely understood.MethodsIn this randomized, double-blind, placebo-controlled trial, 40 healthy adults undertaking a 7-day trip from China to Europe were assigned to receive either a probiotic formulation containing Bifidobacterium animalis subsp. lactis B94 and Lacticaseibacillus helveticus R0052 (2 × 109 CFU/day) or placebo. Stool samples were collected pre-travel (Day 0) and post-travel (Day 7) for metagenomic sequencing, taxonomic profiling, and functional analysis (KEGG, COG, LEfSe, qPCR). Participants recorded daily gastrointestinal, respiratory, and systemic symptoms and completed validated questionnaires assessing anxiety (GAD-7), wellbeing (WHO-5), and sleep quality (PSQI).ResultsTravel was associated with a significant reduction in gut microbiota alpha diversity in the placebo group, whereas diversity was preserved in the probiotic group. Taxonomic analysis demonstrated enrichment of B. animalis subsp. lactis post-travel in the probiotic group, confirmed by qPCR. Functional analysis based on KEGG annotation revealed minimal predicted pathway-level adaptation in the placebo group despite widespread disruption across COG categories, whereas the probiotic group exhibited e…",
-      "authors": "Zhi Peng, Min-Tze Liong, Xiaohui Li et al.",
-      "published": "Nov 2026",
-      "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1893609",
-      "image": "",
-      "screen": "right"
-    },
-    {
       "title": "Empirical dietary inflammatory pattern and cognitive-state transitions in older US adults: a multistate cohort study",
       "abstract": "BackgroundDietary inflammatory potential may be associated with cognitive aging, but evidence on cognitive-state transitions is limited. We examined the association of the empirical dietary inflammatory pattern (EDIP) with transitions from normal cognition to survey-classified cognitive impairment.MethodsWe linked 2013 Health Care and Nutrition Study dietary data to 2014–2022 Health and Retirement Study cognitive classifications and mortality records for 4,997 adults aged 60 years or older without dementia at baseline. A piecewise continuous-time Markov model represented normal cognition, cognitive impairment, and death. The primary model assigned EDIP only to the normal-to-impairment transition; a key sensitivity analysis allowed EDIP associations with all four transitions.ResultsAcross 21,197 state observations, 1,615 observed normal-to-impairment transitions occurred. The primary hazard ratio (HR) per 1-SD higher EDIP was 1.074 (95% confidence interval [CI], 1.014–1.138; p = 0.014). With EDIP assigned to all transitions, the corresponding HR was 1.029 (95% CI, 0.963–1.099; p = 0.401). Under the primary model, four-year standardized cognitive-impairment probabilities among 4,068 participants with normal cognition at baseline were 17.0% and 18.9% at EDIP values of −1 and +1 SD, respectively, a difference of 1.87 percentage points (95% CI, 0.48–3.42).ConclusionThe modest positive association in the restricted primary model was not robust to allowing EDIP associations with all transitions. Single dietary assessment, possible reverse causation, and survey-based outcome classi…",
       "authors": "Zhipeng Liu, Min Lei, Huiwen You et al.",
       "published": "Nov 2026",
       "feedName": "Frontiers Nutrition",
       "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1979010",
+      "image": "",
+      "screen": "right"
+    },
+    {
+      "title": "Evaluating the association between serum phosphorus levels and MASLD in Chinese adults: focusing on males with gout",
+      "abstract": "IntroductionThe coexistence and interaction of gout and metabolic dysfunction-associated steatotic liver disease (MASLD) may complicate risk assessment. This study examined the association between serum phosphorus levels and MASLD in men with gout.MethodsWe conducted a cross-sectional study of 978 hospitalized patients with gout. Multivariable logistic regression was used to assess the association between serum phosphorus and MASLD, with serum phosphorus analyzed as both a continuous variable and categorical quartiles. Restricted cubic spline (RCS) analysis was used to examine the dose–response relationship, and subgroup analyses were performed to assess interactions. The incremental value of serum phosphorus was evaluated using the area under the receiver operating characteristic (ROC) curve (AUC).ResultsHigher serum phosphorus levels were associated with a greater prevalence of MASLD. In multivariable logistic regression, serum phosphorus was significantly associated with MASLD (OR 1.29, 95% CI 1.09–1.53, p = 0.003). When serum phosphorus was analyzed by quartiles, the OR for the fourth quartile versus the lowest quartile was 2.29 (95% CI 1.45–3.64, p < 0.001). RCS analysis indicated a linear relationship between serum phosphorus and MASLD, with no significant interactions in subgroup analyses. Including serum phosphorus in the basic model increased the ROC AUC to 0.719.DiscussionThese findings indicate a positive association between serum phosphorus and MASLD in male patients with gout.",
+      "authors": "Cunwei Sun, Zuncai Gu, Xiaolong Yu et al.",
+      "published": "Nov 2026",
+      "feedName": "Frontiers Nutrition",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1968605",
       "image": "",
       "screen": "right"
     },
@@ -560,6 +560,86 @@
       "url": "https://link.springer.com/article/10.1007/s00394-026-04150-0",
       "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1007%2Fs00394-026-04150-0/MediaObjects/394_2026_4150_Fig1_HTML.png",
       "screen": "right"
+    },
+    {
+      "title": "Opportunities and limitations of image analysis-based microplastic quantification and characterization in a hydrological context",
+      "abstract": "Precise characterization of microplastic morphology and size distribution is essential for understanding particle mobility through porous media, since particle size and morphology strongly influence filtration, retention, and transport behavior. Image analysis has been investigated as a cost-effective and efficient way to quantify and measure polydisperse environmental microplastics, but it has yet to be proven effective for use in hydrological studies. In this study, three common image-analysis workflows were evaluated to quantify concentrations and size distributions of Nile Red-stained microplastics in laboratory transport studies. Filter images were captured using (1) a digital single-lens reflex camera; or (2) a stereomicroscope, both as random frames or as stitched full-filter images. Automated particle counts were compared to manual counts from various dilutions, based on panoramic full-filter images. Then, a controlled sand column experiment was conducted as proof-of-concept to evaluate method performance under advective transport conditions. All imaging approaches exhibited concentration-dependent sensitivity, with high particle densities causing quantification and sizing errors due to particle overlap (coincidence) and fluorescence halo effects. Stitched full-filter stereomicroscopic images were deemed too time-consuming for use in high-throughput hydrological studies, but DSLR photography and random frame-stereomicroscopy identified comparable breakthrough timing and mobility trends. Differences in particle recovery and relative concentration magnitudes were driv…",
+      "authors": "Ofir Meidan, I. Zohar, S. Arnon et al.",
+      "published": "2026",
+      "venue": "Microplastics and Nanoplastics",
+      "feedName": "Lab Research",
+      "citationCount": 0,
+      "recentCitations": 0,
+      "quartile": "Q1",
+      "s2_paper_id": "c1cb297987f2c744cd9d263c55831499cfb6769a",
+      "url": "https://doi.org/10.1186/s43591-026-00212-6",
+      "image": "",
+      "screen": "both",
+      "lab_paper": true,
+      "researcher": {
+        "name": "Iris Zohar",
+        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=YVQd-pwAAAAJ"
+      }
+    },
+    {
+      "title": "Phosphorus in Balance: Evaluating the Costs and Benefits of a Circular Economy Approach",
+      "abstract": "This paper presents a comprehensive cost-benefit analysis of producing alternative phosphorus (P) fertilizers from recycled water treatment residuals (Fe-WTR) and cowshed effluents. The cost-benefit values of Fe-WTR are compared to the net costs of recycling P using a synthetic adsorbent (commonly used practice-layered double hydroxide, P-LDH) and the costs of commercial fertilizers. Dairy wastewater is used as a source of P. The cost of 1 ton P using the Fe-WTR process is €329. In contrast, synthetic adsorbents (P-LDH) incur significantly higher costs, amounting to €3329 per ton, underscoring the economic advantage of utilizing waste-derived materials. Adopting Fe-WTR fertilizer not only offers substantial cost savings by avoiding landfill fees (€40 per ton) and wastewater discharge fines (€500 per ton) but also reduces environmental impacts when compared to the use of commercial P fertilizers (non-recycled P). The Fe-WTR method mitigates eutrophication and pollution, presenting the dual benefit of cost-effectiveness and environmental protection, which exceeds the common P recycling practice (LDH). Our conclusions are based on production processes in Israel and compared to previous cost estimations at the world level, assessing the potential gain from such circular production of P globally. Recycling P from waste streams can be economically viable and environmentally preferable at small and large economic scales, supporting global sustainability goals.",
+      "authors": "H. E. Ganem, I. Zohar, M. Litaor et al.",
+      "published": "2024",
+      "venue": "Journal of Environmental Science Studies",
+      "feedName": "Lab Research",
+      "citationCount": 0,
+      "recentCitations": 0,
+      "quartile": null,
+      "s2_paper_id": "5a7645fb724f2527117a809194848a4b84de25da",
+      "url": "https://doi.org/10.20849/jess.v7i2.1469",
+      "image": "",
+      "screen": "both",
+      "lab_paper": true,
+      "researcher": {
+        "name": "Iris Zohar",
+        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=YVQd-pwAAAAJ"
+      }
+    },
+    {
+      "title": "The impact of alternative recycled and synthetic phosphorus sources on plant growth and responses, soil interactions and sustainable agriculture - lettuce (Lactuca sativa) as a case model.",
+      "abstract": "This research assesses the efficacy of two phosphorus (P) adsorbents as alternative fertilizers in promoting lettuce growth. A synthetic Mg/Al-layered double hydroxide (LDH) and an iron-based recycled water treatment residual (Fe-WTR), both enriched with P from dairy wastewater and added at three dosage levels. We hypothesized that the adsorbents' physicochemical nature will overshadow the biological efforts in the plant ecosystem to increase P solubility, impacting plant growth, nutritional composition, and metabolite profiles. Fe-WTR significantly enhanced lettuce biomass compared to LDH. Yet, elemental analysis revealed higher or equal P concentrations in the low-biomass LDH plants relative to other treatments. Phosphorus uptake appears to influence the assimilation of other nutrients that divided into two groups: calcium, magnesium, zinc, and copper with notable correlations to P and nitrogen, iron, aluminum, vanadium and manganese with low correlations to P. Conversely, P retained poor correlation with most metabolites whereas iron showed a higher correlation with numerous metabolites. Analysis of metabolites, encompassing carbohydrates, the Krebs cycle, amino acids, nucleic acids, and stress and regulatory pathways, revealed diminished levels in the LDH treatments. Overall, carbon assimilation (plant growth) was more effectively predicted by soil P availability (adsorbent type and dose) rather than by cellular P concentration, suggesting root signaling was at play, influencing carbohydrate translocation to the roots. Diminished levels of cellular sugars further affect…",
+      "authors": "I. Zohar, H. E. Ganem, D. DiSegni et al.",
+      "published": "2024",
+      "venue": "Science of the Total Environment",
+      "feedName": "Lab Research",
+      "citationCount": 8,
+      "recentCitations": 0,
+      "quartile": "Q1",
+      "s2_paper_id": "716a87e9602f04f6b3d7fe6c3b411a15d1beaf4a",
+      "url": "https://doi.org/10.1016/j.scitotenv.2024.174719",
+      "image": "",
+      "screen": "both",
+      "lab_paper": true,
+      "researcher": {
+        "name": "Iris Zohar",
+        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=YVQd-pwAAAAJ"
+      }
+    },
+    {
+      "title": "Biogeochemical impacts on soil phosphorus and other macro- and micro elements solubility, ratios and forms during heatwaves",
+      "abstract": "Increased frequency and amplitude of extreme heat events can affect soil temperature, and biogeochemical processes. High temperatures may have contradicting geochemical and biological effects on essential elements solubility and forms. Endothermic behavior of minerals and oxides results in decreased solubility with increased temperature, while bio-mineralization is stimulated in response to high temperature. To elucidate heatwave impacts on soil biogeochemical processes, we performed a controlled soil incubation experiment and a field survey. Wet and dry alluvial soil sets were incubated at background temperature (33°C) for two weeks and then, a sequence of three heat events was induced (41°C/33°C alternations, five days each) followed by two short events of extreme heat (48°C for two days). Most soil indices changed trends after about 25-30 days. At the first part of the period, P, Al, Fe appeared to reflect endothermic behavior of (hydr)oxides and minerals in the dry soil (i.e., sorbed P was likely dependent on Fe (hydr)oxides dissolution), while trends of Fe/Al in the wet soil followed the dissolved organic C trend. Phosphatases enzymatic activities fluctuated positively with temperature, emphasizing the activity of residual extracellular enzymes sorbed to soil particles (dry soil) in addition to living cells excreted enzymes (wet soil). With the 3 rd heatwave, soluble P dramatically fluctuated with temperature, suggesting a sequence of temperature-enhanced bio-mineralization, releasing P to the soil solution, counteracted by geochemical sorption, removing P from solutio…",
+      "authors": "I. Zohar, M. Khoury, Yael Kirshenbaum et al.",
+      "published": "2023",
+      "venue": "Goldschmidt2023 abstracts",
+      "feedName": "Lab Research",
+      "citationCount": 0,
+      "recentCitations": 0,
+      "quartile": null,
+      "s2_paper_id": "e71980935a3dcce1c2b9257fe6bd261b6cf61461",
+      "url": "https://doi.org/10.7185/gold2023.18565",
+      "image": "",
+      "screen": "both",
+      "lab_paper": true,
+      "researcher": {
+        "name": "Iris Zohar",
+        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=YVQd-pwAAAAJ"
+      }
     },
     {
       "title": "Continuing Medical (Anatomy) Education Series: Organ Donation and Transplantation, a Means of Continuity of Functional and Independent Life and Living",
@@ -889,7 +969,7 @@
       "venue": "Journal of the American Chemical Society",
       "feedName": "Lab Research",
       "citationCount": 26,
-      "recentCitations": 0,
+      "recentCitations": 1,
       "quartile": "Q1",
       "s2_paper_id": "e8f95caa1e8ece0c16f246b34ead0788c6d4b146",
       "url": "https://doi.org/10.1021/jacs.4c00625",
@@ -929,7 +1009,7 @@
       "venue": "Advanced Functional Materials",
       "feedName": "Lab Research",
       "citationCount": 24,
-      "recentCitations": 0,
+      "recentCitations": 1,
       "quartile": "Q1",
       "s2_paper_id": "f8de42bddd0ecab555075b5f1e2cdce6f18f1a56",
       "url": "https://doi.org/10.1002/adfm.202306586",

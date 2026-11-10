@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10T11:58:44Z",
+  "updated": "2026-11-10T19:19:17Z",
   "items": [
     {
       "title": "Food production policies can enhance multi-pollutant control of Chinese rivers",
@@ -82,42 +82,42 @@
       "screen": "left"
     },
     {
-      "title": "Artificial intelligence in sustainable food product development and lifecycle management",
+      "title": "From intelligent sensing to predictive meat quality assessment: Multimodal and AI-enabled intelligent packaging",
       "abstract": "",
-      "authors": "Melaku Tafese Awulachew",
+      "authors": "Muhammad Shahar Yar, Faiza Rehman, Ahmed Elnagar et al.",
       "published": "Jan 2027",
       "feedName": "Trends in Food Sci & Tech",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426006977?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426006989?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
     {
-      "title": "From specialty drink to functional food ingredients: A comprehensive review of physicochemical characterization, bioactivities, and industrial applications of matcha",
+      "title": "Metal-chelating peptides from food proteins: A coordination chemistry perspective on chelation mode, function and application",
       "abstract": "",
-      "authors": "Wan Zhu, Yiqin Chen, Jiaying Yang et al.",
+      "authors": "Yuzhu Liu, Na Zhang, Hanyuan Zheng et al.",
       "published": "Jan 2027",
       "feedName": "Trends in Food Sci & Tech",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426006734?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426006758?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
     {
-      "title": "Aggregation-induced emission sensors for food safety: A signal transduction-centric framework from mechanisms to deployment",
+      "title": "Preserved, not proven safe: Human norovirus in frozen foods from freezing history to infectivity evidence and process validation",
       "abstract": "",
-      "authors": "Jiahua Sun, Yihua Li, Chao Zhao et al.",
+      "authors": "Wanchun Lin, Ruiqiang Li, Zeyu Liu et al.",
       "published": "Jan 2027",
       "feedName": "Trends in Food Sci & Tech",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426006576?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426006928?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
     {
-      "title": "The Triple Threat of emerging contaminants in edible oils: Implications for food security, economic costs, and sustainable development",
+      "title": "Signal threshold amplification homeostasis: A mechanistic framework linking quorum sensing and AI-driven precision preservation of marine fish",
       "abstract": "",
-      "authors": "Selorm Yao-Say Solomon Adade, Nana Adwoa Nkuma Johnson, Seyram Mercy Adade et al.",
+      "authors": "Huawei Ma, Luanyu Huang, Shiya Ya et al.",
       "published": "Jan 2027",
       "feedName": "Trends in Food Sci & Tech",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426006412?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426006849?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -128,6 +128,16 @@
       "published": "Mar 2027",
       "feedName": "Food Quality & Preference",
       "url": "https://www.sciencedirect.com/science/article/pii/S0950329326003162?dgcid=rss_sd_all",
+      "image": "",
+      "screen": "left"
+    },
+    {
+      "title": "Taste perception and physiological responses during salty, sour and umami stimulation",
+      "abstract": "",
+      "authors": "José María Casanova-Blázquez, Lidia Fabra-Cuenca, Claudia Sánchez-Calvo et al.",
+      "published": "Mar 2027",
+      "feedName": "Food Quality & Preference",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0950329326003228?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -148,16 +158,6 @@
       "published": "Feb 2027",
       "feedName": "Food Quality & Preference",
       "url": "https://www.sciencedirect.com/science/article/pii/S0950329326003150?dgcid=rss_sd_all",
-      "image": "",
-      "screen": "left"
-    },
-    {
-      "title": "Personality traits and emotional eating are associated with alcohol liking, familiarity and recent consumption: Evidence of sex-specific patterns in a large population study",
-      "abstract": "",
-      "authors": "Sara Spinelli, Caitlin Cunningham, Caterina Dinnella et al.",
-      "published": "Feb 2027",
-      "feedName": "Food Quality & Preference",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0950329326003149?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -202,12 +202,12 @@
       "screen": "left"
     },
     {
-      "title": "Correction: Identifying food-based medicinal indigenous leafy vegetables and evaluating their bioactive compounds in the Ga-Molepo community of Limpopo Province",
-      "abstract": "",
-      "authors": "Mmakoma M. Letsoalo, Semakaleng Mpai, Trust Beta et al.",
+      "title": "From barley to beer: advances in brewing technologies for enhanced ethanol production- a systematic review",
+      "abstract": "The brewing industry, long celebrated for transforming beer from barley into one of the world’s most recognizable beverages, is now entering a new era driven by scientific precision and process improvement. Modern breweries are turning to advanced fermentation, enzyme manipulation, and integrated bioprocessing strategies to elevate ethanol production while maintaining the craftsmanship and quality attributes central to brewing heritage. This systematic review, structured according to the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines, compiles emerging industrial advancements that enhance ethanol production during brewing. Development in barley-based brewing focuses on starch structure and composition, varietal improvement through breeding, and pre-treatment approaches to accelerate the release of fermentable sugars. Process refinements in malting, mashing, adjunct use as substrates, and metal ion supplementation are critically analyzed for their impact on sugar release and fermentation performance. In parallel, innovative fermentation platforms, including batch, continuous, fed-batch, high-brewing, and co-culture systems that integrate non-conventional yeasts or bacteria with conventional yeasts, are being explored for their potential to enhance ethanol yield, fermentation duration, and product quality. This review also highlights automation, enzyme-driven hydrolysis optimization, advanced fermentation strategies, and machine-learning-assisted process control as transformative tools shaping the next-generation of brewery-integrated e…",
+      "authors": "Santhosh Kumar Anandan, Steffi Jose, Sreeja Shanmuga Doss",
       "published": "Nov 2026",
       "feedName": "Frontiers Food Science",
-      "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.2050383",
+      "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.1982228",
       "image": "",
       "screen": "left"
     },
@@ -222,22 +222,22 @@
       "screen": "left"
     },
     {
+      "title": "Correction: Identifying food-based medicinal indigenous leafy vegetables and evaluating their bioactive compounds in the Ga-Molepo community of Limpopo Province",
+      "abstract": "",
+      "authors": "Mmakoma M. Letsoalo, Semakaleng Mpai, Trust Beta et al.",
+      "published": "Nov 2026",
+      "feedName": "Frontiers Food Science",
+      "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.2050383",
+      "image": "",
+      "screen": "left"
+    },
+    {
       "title": "CRDS-Unet: channel-reversed depthwise separable U-net for efficient tomato leaf disease segmentation",
       "abstract": "IntroductionAutomated plant leaf disease segmentation is crucial for accurate disease diagnosis and quantitative lesion assessment in precision agriculture. U-Net-based architectures are widely employed for this task, although their high computational complexity sometimes hinders their application in resource-constrained agricultural settings.MethodsThis work investigates depthwise separable convolutions in conjunction with a channel-reversed U-Net for tomato leaf disease segmentation. The channel-reversed encoder allocates more feature channels to the shallow layers and progressively fewer to the deeper layers, the reverse of a conventional U-Net’s channel schedule, with the aim of preserving spatial detail while reducing computation in the deeper, more computationally expensive stages. Depthwise separable convolutions are used throughout the encoder, bottleneck, and decoder to further reduce trainable parameters. The model was trained on lesion masks and evaluated on an independent, held-out subset of the PlantVillage tomato leaf dataset using Dice coefficient, IoU, precision, recall, and F1-score, following a corrected data-splitting protocol that eliminates train/test leakage present in an earlier version of this work.ResultsThe proposed method reduced trainable parameters by over 97% relative to a conventional U-Net (0.96 million versus 31.06 million), at a measured reduction in segmentation accuracy under the training budget evaluated (Dice coefficient 0.79 versus 0.90 for standard U-Net). A supplementary experiment with a longer training budget narrowed this gap subs…",
       "authors": "E. Jansi, B. R. Kavitha",
       "published": "Nov 2026",
       "feedName": "Frontiers Food Science",
       "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.1966919",
-      "image": "",
-      "screen": "left"
-    },
-    {
-      "title": "Culturable bacterial diversity in a recirculating aquaculture system for sole fish farming: analysis of potential pathogens and putative bioremediation, probiotic and antimicrobial significance",
-      "abstract": "Understanding the bacterial diversity present in recirculating aquaculture systems (RAS) is essential for identifying potential pathogens and taxa with bioremediation and biotechnological relevance, particularly as these artificial environments remain largely unexplored bioresources with untapped microbial potential. This study is the first to characterize the culturable bacterial diversity within a RAS for sole farming (Solea senegalensis) in Portugal, providing a comprehensive first insight into what seems to be a complex bacterial dynamic. Phylogenetic analysis of 193 strains, revealed that Pseudomonadota (76.4%) was the most abundant phylum, followed by Actinomycetia (10.7%), and Bacteroidota (9.8%). At the class level, Gammaproteobacteria (65.7%), Actinomycetia (10.7%), and Alphaproteobacteria (10.7%) dominated, with Alteromonadales (33.9%) and Vibrionales (13.7%) as the prevalent orders. A comparison with metagenomic studies previously reported for similar RAS systems showed some overlap in dominant phyla, however, different genera were also cultivated in the present study, particularly those from the orders Micrococcales and Vibrionales. In all, a total of 48 bacterial genera were identified, with 33 cultivated only from the RAS and 9 cultivated only from its water supply. Our findings reveal the presence of taxa closely related to bacterial strains previously reported for their biotechnological potential, including strains described as probiotics, as producers of antimicrobial compounds, and as agents of bioremediation. Although strains related to fish and human pat…",
-      "authors": "Bárbara Gonçalves, Pablo Suárez-Moo, Alejandra Prieto-Davó et al.",
-      "published": "Nov 2026",
-      "feedName": "Frontiers Food Science",
-      "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.1937824",
       "image": "",
       "screen": "left"
     },
@@ -282,6 +282,26 @@
       "screen": "left"
     },
     {
+      "title": "Gelatin assisted RPA-CRISPR/Cas12a tandem assay for rapid detection of Listeria monocytogenes",
+      "abstract": "",
+      "authors": "Wenyu Du, Shucong Wu, Mengyan Wu et al.",
+      "published": "Nov 2026",
+      "feedName": "npj Science of Food",
+      "url": "https://www.nature.com/articles/s41538-026-01211-w",
+      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01211-w/MediaObjects/41538_2026_1211_Fig1_HTML.png",
+      "screen": "left"
+    },
+    {
+      "title": "Beyond smell and taste: the role of mouthfeel in flavour perception and its implications for health and food innovation",
+      "abstract": "",
+      "authors": "Julia Benthin, Marina Wiesenfarth, Rita dos Santos Natividade et al.",
+      "published": "Nov 2026",
+      "feedName": "npj Science of Food",
+      "url": "https://www.nature.com/articles/s41538-026-01232-5",
+      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01232-5/MediaObjects/41538_2026_1232_Fig1_HTML.png",
+      "screen": "left"
+    },
+    {
       "title": "Multi-omics reveals the biosynthesis and pharmacological targets of antioxidant polyphenols in Polygonatum cyrtonema",
       "abstract": "",
       "authors": "Xiurong Xu, Shiming Cheng",
@@ -299,26 +319,6 @@
       "feedName": "npj Science of Food",
       "url": "https://www.nature.com/articles/s41538-026-01217-4",
       "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01217-4/MediaObjects/41538_2026_1217_Fig1_HTML.png",
-      "screen": "left"
-    },
-    {
-      "title": "Seasonal dynamics in lettuce phyllosphere microbiota and potential transfer to the human gut",
-      "abstract": "",
-      "authors": "Su-A In, Ji-Woo Park, Yeo-Eun Yun et al.",
-      "published": "Nov 2026",
-      "feedName": "npj Science of Food",
-      "url": "https://www.nature.com/articles/s41538-026-01228-1",
-      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01228-1/MediaObjects/41538_2026_1228_Fig1_HTML.png",
-      "screen": "left"
-    },
-    {
-      "title": "Integrated transcriptomic and metabolomic analyses reveal monoterpenoid biosynthesis in Aspergillus cristatus during tea infusion fermentation",
-      "abstract": "",
-      "authors": "Haoran Sun, Yaling Cao, Jia Li et al.",
-      "published": "Nov 2026",
-      "feedName": "npj Science of Food",
-      "url": "https://www.nature.com/articles/s41538-026-01224-5",
-      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01224-5/MediaObjects/41538_2026_1224_Fig1_HTML.png",
       "screen": "left"
     },
     {
@@ -362,6 +362,26 @@
       "screen": "left"
     },
     {
+      "title": "Researcher uses AI to predict probabilities for chemical processes",
+      "abstract": "Quantum chemistry can be used to calculate the probabilities of which chemical processes will occur. This involves a great deal of programming work. Dr. Michael F. Peintinger from the Mulliken Center for Theoretical Chemistry at the University of Bonn has investigated what happens when artificial intelligence is used for this purpose. His work is published in the Journal of Computational Chemistry.",
+      "authors": "",
+      "published": "Nov 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-11-ai-probabilities-chemical.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/electrons-reveal-what.jpg",
+      "screen": "right"
+    },
+    {
+      "title": "A catalyst that protects itself while producing hydrogen",
+      "abstract": "Cobalt phosphide (CoP) is a promising alternative to platinum for producing hydrogen from water. However, scientists have struggled to explain why it performs so well. Computer models have suggested that CoP should become unstable under the conditions used to produce hydrogen, yet experiments show that it remains active and durable in acidic, neutral and alkaline environments.",
+      "authors": "",
+      "published": "Nov 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-11-catalyst-hydrogen.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/a-catalyst-that-protec.jpg",
+      "screen": "right"
+    },
+    {
       "title": "Alternative approach could reduce reliance on potentially toxic surfactants in pharmaceutical and food applications",
       "abstract": "An international research team led by the University of Sydney has found a way to formulate microemulsions without traditional surfactants, which are often toxic and hard to separate from end products. The findings have important implications for pharmaceutical applications and food additives.",
       "authors": "",
@@ -379,26 +399,6 @@
       "feedName": "Phys.org Analytics",
       "url": "https://phys.org/news/2026-11-chemeleon-molecular-properties-scant.html",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/how-to-predict-the-beh.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "Light-powered method resurrects 'dead-end' compounds for drug discovery",
-      "abstract": "Throughout the drug development process, which can take a decade or more, tens of thousands of chemical compounds are produced that never go on to become medicines. A Florida State University researcher is part of a team that has discovered a new way to give some of these \"dead ends\" a second chance at becoming the foundation for tomorrow's blockbuster drugs.",
-      "authors": "",
-      "published": "Nov 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-11-powered-method-resurrects-dead-compounds.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/diagram-showing-the-ph.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "Beyond trial and error: A framework for AI-driven solid-electrolyte discovery",
-      "abstract": "A battery material can look perfect in the lab and still fail in a real battery. That is the puzzle facing researchers working on solid electrolytes, the materials seen as key to safer, longer-lasting batteries.",
-      "authors": "",
-      "published": "Nov 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-11-trial-error-framework-ai-driven.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/beyond-trial-and-error-2.jpg",
       "screen": "right"
     },
     {
@@ -482,42 +482,42 @@
       "screen": "right"
     },
     {
-      "title": "Opportunistic chest CT assessment of skeletal muscle status for predicting functional recovery following medial opening wedge high tibial osteotomy: an exploratory study",
-      "abstract": "BackgroundRoutine preoperative chest computed tomography (CT) provides an opportunity for opportunistic assessment of skeletal muscle status without additional imaging. This study aimed to investigate the association between chest CT-derived skeletal muscle status and postoperative functional recovery after medial opening wedge high tibial osteotomy (MOWHTO).MethodsThis retrospective cohort study included patients undergoing MOWHTO between January 2022 and December 2024. Skeletal muscle index (SMI) was measured from routine preoperative chest CT images at the T12 vertebral level, and CT-defined low T12 SMI was classified using sex-specific cut-off values. Postoperative Hospital for Special Surgery (HSS) scores were analyzed as both continuous and dichotomous outcomes. Multivariable Firth logistic regression was used to identify independent predictors of poor postoperative functional outcome and develop an exploratory prediction model. Model performance was assessed using receiver operating characteristic (ROC) analysis, calibration curves, and decision curve analysis (DCA). Linear regression and Spearman correlation analyses were performed to evaluate the association between skeletal muscle status and postoperative HSS scores.ResultsAmong 183 included patients, 35 (19.1%) experienced poor postoperative functional outcomes. Multivariable Firth logistic regression identified age, diabetes, and CT-defined low T12 SMI as independent predictors. The exploratory prediction model showed good discrimination (AUC = 0.815, 95% CI: 0.738–0.893), satisfactory calibration, and favorable…",
-      "authors": "Xiaodong Jia, Xinyu Cui, Dexi Cui et al.",
-      "published": "Nov 2026",
-      "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1946530",
-      "image": "",
-      "screen": "right"
-    },
-    {
-      "title": "Metabolic abnormality and advanced AJCC stage at prostate cancer diagnosis: a single-center retrospective cross-sectional study",
-      "abstract": "BackgroundMetabolic status and body mass index (BMI) capture related but distinct host characteristics. We examined whether metabolic abnormality was associated with American Joint Committee on Cancer (AJCC) stages III–IV at prostate cancer diagnosis after accounting for BMI category.MethodsThis retrospective cross-sectional study included 324 consecutive patients newly diagnosed at one center from July 2015 to March 2026. The AJCC eighth-edition clinical prognostic stage was reconstructed from pretreatment clinical tumor, nodal, and metastatic (TNM) categories; total prostate-specific antigen (PSA); and Grade Group. Metabolic abnormality was defined as the presence of at least two of the following: hypertension, a fasting glucose level of ≥5.6 mmol/L or diabetes, a triglyceride level of ≥1.7 mmol/L, and a high-density lipoprotein cholesterol (HDL-C) level of < 1.04 mmol/L. Metabolic status and a BMI of < 25 or ≥25 kg/m2 were used to classify patients into four groups: metabolically healthy non-obese (MHNO), metabolically healthy obese (MHO), metabolically abnormal non-obese (MANO), and metabolically abnormal obese (MAO). Logistic models were adjusted for age, current smoking, current alcohol consumption, and non-metabolic comorbidity count. An exploratory classification analysis used 100 repeats of stratified 5-fold cross-validation.ResultsAmong the 324 patients, 214 (66.0%) had AJCC stages III–IV, and 211 (65.1%) had metabolic abnormalities. Compared with MHNO, adjusted odds ratios (ORs) for stages III–IV were 0.50 (95% CI 0.18–1.37) for MHO, 5.72 (3.10–10.58) for MANO, a…",
-      "authors": "Yiqi Li, Jinghe Tian, Deyi Wei et al.",
-      "published": "Nov 2026",
-      "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1984300",
-      "image": "",
-      "screen": "right"
-    },
-    {
-      "title": "Machine learning-based prediction models for malnutrition risk in patients with cancer: a scoping review",
-      "abstract": "BackgroundMachine learning (ML)-based prediction models have increasingly been developed to identify malnutrition risk among patients with cancer; however, their predictive performance, methodological quality, and clinical applicability have not been comprehensively mapped.MethodsFollowing the JBI methodology for scoping reviews, we systematically searched PubMed, Embase, Web of Science, Scopus, the Cochrane Library, CNKI, WanFang Data, VIP Database, and Chinese Biomedical Literature Database (CBM) from inception to March 16, 2026. Studies that developed, validated, or compared ML-based prediction models for malnutrition or nutritional risk in adult patients with cancer were eligible. Data regarding study characteristics, predictors, algorithms, validation strategies, and model performance were extracted. Methodological quality was assessed using PROBAST+AI.ResultsNineteen studies published between 2021 and 2026 were included. The models incorporated multidimensional predictors spanning demographic, anthropometric, laboratory, tumor-related, treatment-related, and functional domains. Reported AUC values ranged from 0.770 to 1.000. Among the 16 studies that compared ML approaches with logistic regression within the same dataset, 15 reported higher discrimination for at least one ML model. However, this finding was based on within-study comparisons and does not establish the overall superiority of ML over conventional regression. Calibration and clinical utility were inconsistently evaluated, and only three studies conducted external validation.ConclusionML-based prediction m…",
-      "authors": "Ruibin Xing, Mengting Zhu, Lengjianghai Zheng et al.",
-      "published": "Nov 2026",
-      "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1944563",
-      "image": "",
-      "screen": "right"
-    },
-    {
       "title": "Association between preoperative Geriatric Nutritional Risk Index and 90-day all-cause mortality after non-cardiac surgery in older adults: a retrospective cohort study",
       "abstract": "BackgroundOlder adults undergoing non-cardiac surgery remain vulnerable to postoperative death, yet a simple preoperative measure that identifies this risk across diverse procedures is needed. We evaluated whether the Geriatric Nutritional Risk Index (GNRI) defines a high-risk mortality phenotype in this population.MethodsThis retrospective cohort study used the INSPIRE v1.4.2 perioperative database. We included patients aged ≥65 years undergoing non-cardiac surgery and compared GNRI ≤98 with GNRI >98. The primary outcome was 90-day all-cause mortality; secondary outcomes were 30-day, 1-year and in-hospital mortality, with 90-day major adverse cardiovascular and cerebrovascular events (MACCE) assessed exploratorily. The primary Cox model adjusted for preoperative characteristics without penalization; the expanded penalized perioperative model was secondary. Estimates were pooled using Rubin rules across 20 multiply imputed datasets.ResultsThe analytic cohort included 25,126 patients, including 6,314 with GNRI ≤98 and 18,812 with GNRI >98. During 90 days of follow-up, 349 patients died. GNRI ≤98 was associated with substantially higher 90-day mortality before adjustment (HR, 15.28; 95% CI, 11.53–20.25; p < 0.001) and after preoperative adjustment (HR, 3.77; 95% CI, 2.71–5.25; p < 0.001). The expanded penalized perioperative estimate was 1.87 (95% CI, 1.59–2.19). The preoperative-adjusted association extended to 30-day mortality (HR, 3.50; 95% CI, 1.79–6.86), 1-year mortality (HR, 3.22; 95% CI, 2.81–3.69) and in-hospital mortality (HR, 2.87; 95% CI, 2.09–3.94). Continuous GNR…",
       "authors": "Jihao Cheng, Chuanjiang Liu, Jingyun Liao",
       "published": "Nov 2026",
       "feedName": "Frontiers Nutrition",
       "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.2004420",
+      "image": "",
+      "screen": "right"
+    },
+    {
+      "title": "Dietary diversity, place of residence and malnutrition among school-going adolescent girls in Western Maharashtra, India: a structural equation modelling analysis",
+      "abstract": "BackgroundAdolescent girls in India bear a disproportionate share of the country’s nutritional burden, with undernutrition and overnutrition increasingly coexisting within the same population. Dietary diversity is a modifiable proxy indicator for diet quality.MethodsA community-based cross-sectional analytical study was conducted among 703 school-going adolescent girls (350 urban, 353 rural) in Western Maharashtra, India. Dietary diversity was assessed by 24-h recall. Associations were tested with Pearson’s chi-square and binary logistic regression. For the outcomes (i.e., undernutrition, overnutrition, and malnutrition), an exploratory path-analytic structural equation model was fitted using maximum likelihood estimation, with place of residence and Minimum Dietary Diversity (MDD) specified a priori as hypothesized serial intermediate variables between sociodemographic characteristics and nutritional status. Model fit was evaluated using CFI ≥ 0.90 and RMSEA ≤0.08, with TLI reported alongside. Cluster-robust generalized estimating equations (GEE) were used as a sensitivity analysis for within-school clustering.ResultsMalnutrition affected 70.13% of participants overall (undernutrition 60.31%, overnutrition 9.82%). MDD was inadequate in 90.18% (rural 95.18% vs. urban 85.14%, p < 0.001). After multivariable adjustment, rural residence (AOR = 4.55) and father’s elementary occupation (AOR = 2.36) were independently associated with higher odds of inadequate MDD, whereas outdoor physical activity of ≥2 h/day was associated with lower odds (AOR = 0.49). In the path models, dietar…",
+      "authors": "Sumeet Vaidya, Sujata Murarkar, Rupeshkumar Deshmukh et al.",
+      "published": "Nov 2026",
+      "feedName": "Frontiers Nutrition",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1944523",
+      "image": "",
+      "screen": "right"
+    },
+    {
+      "title": "The role of nutritional supplementation in TBM treatment and rehabilitation: a narrative review of mechanisms, evidence, and clinical practice",
+      "abstract": "Tuberculous meningitis (TBM) is the most severe form of tuberculosis, with high mortality and a high burden of neurological and cognitive sequelae. Malnutrition is highly prevalent among patients with TBM, affects both adults and children, and is associated with worse outcomes, yet it remains under-addressed in routine care and clinical guidelines. This narrative review synthesizes the mechanisms, evidence, and clinical practice of nutritional support in TBM. We performed a structured literature search of PubMed/MEDLINE, Embase, the Cochrane Library, and Web of Science, together with the Chinese databases CNKI, Wanfang, and SinoMed, from inception to 31 August 2025, using combinations of terms for TBM, nutrition, malnutrition, micronutrients, and nutritional support. Eligible studies were screened by two reviewers, and evidence was appraised with a hierarchical grading framework and GRADE-derived certainty ratings, with explicit labeling of TBM-specific versus indirect evidence. Mechanistically, TBM produces a hypermetabolic, catabolic state with negative nitrogen balance, gastrointestinal dysfunction, and impaired nutrient absorption, while malnutrition compromises barrier integrity, cell-mediated immunity, and antioxidant defenses. Vitamins D and A, zinc, selenium, and adequate protein and energy intake are mechanistically linked to immune and neurological recovery, but the TBM-specific evidence consists mainly of observational cohorts, case–control studies, and a single case report; randomized controlled trials are absent, and several claims are extrapolated from pulmona…",
+      "authors": "Yongjun Huo, Rutong Wang, Shen Yang et al.",
+      "published": "Nov 2026",
+      "feedName": "Frontiers Nutrition",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1842118",
+      "image": "",
+      "screen": "right"
+    },
+    {
+      "title": "ERO1α DNA methylation is associated with intergenerational effects of zinc, selenium, and chromium on ER stress and glucose homeostasis in female offspring of gestational diabetes rats",
+      "abstract": "IntroductionZinc, selenium, and chromium supplementation improved hepatic endoplasmic reticulum (ER) stress in gestational diabetes mellitus (GDM) rats and had beneficial intergenerational effects on glucose homeostasis in female offspring. However, whether the epigenetic molecular mechanism is involved in the intergenerational effects of zinc, selenium, and chromium is relatively unknown.MethodsHere, female Sprague Dawley rats were fed with either a high-fat and sucrose (HFS), to induce the GDM model, or a low-fat (LF) diet for three consecutive generations (F0, F1, and F2), and supplemented with zinc (10 mg/kg.bw), selenium (20 μg/kg.bw), and chromium (20 μg/kg.bw) daily by gavage. Global DNA methylation levels and methylation status of ER stress-related genes promoter regions were investigated in the liver of F1 and F2 female neonates.ResultsGDM caused glucose intolerance, insulin resistance, hepatic ER stress, and increased global DNA methylation in F1 and F2 female neonates. Pyrosequencing revealed increased ERO1α promoter methylation in F1 and F2 female neonates, accompanied by reduced ERO1α gene expression and increased hepatic ER stress. Combined zinc, selenium, and chromium supplementation attenuated these alterations and improved glucose homeostasis in female offspring of GDM rats.DiscussionThese findings suggest that ERO1α promoter methylation may be associated with alterations in glucose homeostasis and hepatic ER stress across generations.",
+      "authors": "Jiayue Su, Yi Feng, Jiayu Wang et al.",
+      "published": "Nov 2026",
+      "feedName": "Frontiers Nutrition",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1974884",
       "image": "",
       "screen": "right"
     },
@@ -828,8 +828,8 @@
       "published": "2022",
       "venue": "Journal of food science and technology",
       "feedName": "Lab Research",
-      "citationCount": 10,
-      "recentCitations": 0,
+      "citationCount": 11,
+      "recentCitations": 1,
       "quartile": "Q1",
       "s2_paper_id": "435cee3aeeb4f44de0a7eef6197bce01a348c990",
       "url": "https://doi.org/10.1007/s13197-022-05534-w",

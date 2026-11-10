@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09T20:21:41Z",
+  "updated": "2026-11-10T03:55:40Z",
   "items": [
     {
       "title": "Food production policies can enhance multi-pollutant control of Chinese rivers",
@@ -362,6 +362,26 @@
       "screen": "left"
     },
     {
+      "title": "Alternative approach could reduce reliance on potentially toxic surfactants in pharmaceutical and food applications",
+      "abstract": "An international research team led by the University of Sydney has found a way to formulate microemulsions without traditional surfactants, which are often toxic and hard to separate from end products. The findings have important implications for pharmaceutical applications and food additives.",
+      "authors": "",
+      "published": "Nov 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-11-alternative-approach-reliance-potentially-toxic.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/research-has-found-a-n.jpg",
+      "screen": "right"
+    },
+    {
+      "title": "CheMeleon model adapts to predict molecular properties from scant data",
+      "abstract": "Discovering new molecules for specific uses is a major driver of progress in a wide variety of industries, whether it's pharmaceutical companies looking for new drugs or electronics or energy companies seeking new materials with particular properties. But it's also largely a trial-and-error process, because there is not yet any way to perfectly predict how a given chemical compound will behave in terms of the myriad different properties and responses materials can exhibit.",
+      "authors": "",
+      "published": "Nov 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-11-chemeleon-molecular-properties-scant.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/how-to-predict-the-beh.jpg",
+      "screen": "right"
+    },
+    {
       "title": "Light-powered method resurrects 'dead-end' compounds for drug discovery",
       "abstract": "Throughout the drug development process, which can take a decade or more, tens of thousands of chemical compounds are produced that never go on to become medicines. A Florida State University researcher is part of a team that has discovered a new way to give some of these \"dead ends\" a second chance at becoming the foundation for tomorrow's blockbuster drugs.",
       "authors": "",
@@ -379,26 +399,6 @@
       "feedName": "Phys.org Analytics",
       "url": "https://phys.org/news/2026-11-trial-error-framework-ai-driven.html",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/beyond-trial-and-error-2.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "SynFit guides enzyme engineering by balancing several useful traits at once",
-      "abstract": "Enzymes are biology's tiny chemists. They help build, break and rearrange molecules quickly and precisely. In the lab, scientists have long put enzymes to work making useful chemicals. But nature's enzymes cannot do every reaction a researcher might want. Sometimes scientists need an enzyme to take on a job it did not evolve to do. That's where enzyme engineering comes in—researchers make changes to an enzyme, test how those changes affect what the enzyme does and look for versions that work better.",
-      "authors": "",
-      "published": "Nov 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-11-synfit-enzyme-traits.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/teaching-ai-to-build-b.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "Paired DNA strands recognize shape, not just sequence, in new small-molecule sensing method",
-      "abstract": "You have probably performed a sandwich assay before, even if you didn't know it. Sandwich assays are the molecular sensing technology behind lateral flow tests like the at-home COVID test. After a sample is dripped onto the test strip, it combines with detector antibodies attached to tiny gold particles, which bind to any viral proteins present. When the sample reaches the test line, a second antibody anchored to the strip binds to a different site on the viral protein, creating a molecular \"sandwich.\" As the gold particles accumulate, the test line turns dark red, becoming visible to the naked eye.",
-      "authors": "",
-      "published": "Nov 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-11-paired-dna-strands-sequence-small.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/a-new-sensing-architec.jpg",
       "screen": "right"
     },
     {

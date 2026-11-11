@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T00:25:00Z",
+  "updated": "2026-11-11T08:46:00Z",
   "items": [
     {
       "title": "Food production policies can enhance multi-pollutant control of Chinese rivers",
@@ -282,6 +282,16 @@
       "screen": "left"
     },
     {
+      "title": "Effects of an indigenous Lactiplantibacillus plantarum ST starter on microbial function and metabolic profiling of De’ang pickled tea",
+      "abstract": "",
+      "authors": "Jinping Zhou, Laifeng Chen, Yini Ma et al.",
+      "published": "Nov 2026",
+      "feedName": "npj Science of Food",
+      "url": "https://www.nature.com/articles/s41538-026-01212-9",
+      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01212-9/MediaObjects/41538_2026_1212_Fig1_HTML.png",
+      "screen": "left"
+    },
+    {
       "title": "Gelatin assisted RPA-CRISPR/Cas12a tandem assay for rapid detection of Listeria monocytogenes",
       "abstract": "",
       "authors": "Wenyu Du, Shucong Wu, Mengyan Wu et al.",
@@ -309,16 +319,6 @@
       "feedName": "npj Science of Food",
       "url": "https://www.nature.com/articles/s41538-026-01225-4",
       "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01225-4/MediaObjects/41538_2026_1225_Fig1_HTML.png",
-      "screen": "left"
-    },
-    {
-      "title": "Multi-omics analyses unveil the molecular mechanism involving significant bioactive substances of sea buckthorn at various growth years",
-      "abstract": "",
-      "authors": "Lichao He, Meng Li, Xuewei Shi et al.",
-      "published": "Nov 2026",
-      "feedName": "npj Science of Food",
-      "url": "https://www.nature.com/articles/s41538-026-01217-4",
-      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01217-4/MediaObjects/41538_2026_1217_Fig1_HTML.png",
       "screen": "left"
     },
     {
@@ -362,6 +362,16 @@
       "screen": "left"
     },
     {
+      "title": "Where AI can aid chemistry research and where reliability falls short",
+      "abstract": "Researchers from the Skoltech AI Center, together with colleagues from the Zelinsky Institute of Organic Chemistry of the Russian Academy of Sciences, ITMO University and other institutions, have published a paper in Chemical Society Reviews that examines where AI produces measurable value in a chemical research workflow, how to assess its reliability and why a strong benchmark result does not necessarily translate into laboratory performance.",
+      "authors": "",
+      "published": "Nov 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-11-ai-aid-chemistry-reliability-falls.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/researchers-from-skolt.jpg",
+      "screen": "right"
+    },
+    {
       "title": "Water molecules turn out to be secret messengers for magnetism",
       "abstract": "Water is not usually thought of as a magnetic material. But a new study led by researchers at Tohoku University's Institute of Multidisciplinary Research for Advanced Materials, in collaboration with National Taipei University of Technology (Taipei Tech), has found that tiny shifts in the orientation of water molecules can flip on magnetic partnerships between metal ions that are not even directly bonded to each other.",
       "authors": "",
@@ -389,16 +399,6 @@
       "feedName": "Phys.org Analytics",
       "url": "https://phys.org/news/2026-11-molecules-scientists-material-physical.html",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/one-material-three-res.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "Researcher uses AI to predict probabilities for chemical processes",
-      "abstract": "Quantum chemistry can be used to calculate the probabilities of which chemical processes will occur. This involves a great deal of programming work. Dr. Michael F. Peintinger from the Mulliken Center for Theoretical Chemistry at the University of Bonn has investigated what happens when artificial intelligence is used for this purpose. His work is published in the Journal of Computational Chemistry.",
-      "authors": "",
-      "published": "Nov 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-11-ai-probabilities-chemical.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/electrons-reveal-what.jpg",
       "screen": "right"
     },
     {
@@ -452,6 +452,16 @@
       "screen": "right"
     },
     {
+      "title": "Eating less protein could slow aging, review of 350 studies finds",
+      "abstract": "A major review of more than 350 studies suggests that eating less protein could slow aging, improve metabolic health, and potentially extend lifespan, challenging the widespread belief that more protein is always better. Researchers warn that many sedentary adults may be consuming too much protein, while emphasizing that individual needs depend on age and physical activity.",
+      "authors": "",
+      "published": "Nov 2026",
+      "feedName": "ScienceDaily Nutrition",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261108203714.htm",
+      "image": "https://www.sciencedaily.com/images/1920/body-rejuvenation-longevity-strength-boost.webp",
+      "screen": "right"
+    },
+    {
       "title": "Scientists discover a hidden warning sign of cannabis addiction",
       "abstract": "A study of more than 17,700 US adults found that people who use cannabis in multiple forms have dramatically higher rates of daily consumption and addiction symptoms than those who stick primarily to one method. Nearly 67% of those who used almost every form met criteria for cannabis use disorder, compared with just 15% of people who mainly consumed edibles.",
       "authors": "",
@@ -472,52 +482,42 @@
       "screen": "right"
     },
     {
-      "title": "When your gut bacteria run out of fiber, they may start eating your gut lining",
-      "abstract": "Scientists have discovered that gut bacteria can feed on the protective mucus lining your intestines, producing potentially harmful compounds, but fiber helps keep this activity in check. Overlooked proteins in plant foods also help shift gut bacteria toward producing beneficial substances, revealing a surprising new reason plant-based diets may be good for you.",
-      "authors": "",
-      "published": "Nov 2026",
-      "feedName": "ScienceDaily Nutrition",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261105083622.htm",
-      "image": "https://www.sciencedaily.com/images/1920/bacteria-intestinal-microbiome-in-digestive-tract.webp",
-      "screen": "right"
-    },
-    {
-      "title": "Association between preoperative Geriatric Nutritional Risk Index and 90-day all-cause mortality after non-cardiac surgery in older adults: a retrospective cohort study",
-      "abstract": "BackgroundOlder adults undergoing non-cardiac surgery remain vulnerable to postoperative death, yet a simple preoperative measure that identifies this risk across diverse procedures is needed. We evaluated whether the Geriatric Nutritional Risk Index (GNRI) defines a high-risk mortality phenotype in this population.MethodsThis retrospective cohort study used the INSPIRE v1.4.2 perioperative database. We included patients aged ≥65 years undergoing non-cardiac surgery and compared GNRI ≤98 with GNRI >98. The primary outcome was 90-day all-cause mortality; secondary outcomes were 30-day, 1-year and in-hospital mortality, with 90-day major adverse cardiovascular and cerebrovascular events (MACCE) assessed exploratorily. The primary Cox model adjusted for preoperative characteristics without penalization; the expanded penalized perioperative model was secondary. Estimates were pooled using Rubin rules across 20 multiply imputed datasets.ResultsThe analytic cohort included 25,126 patients, including 6,314 with GNRI ≤98 and 18,812 with GNRI >98. During 90 days of follow-up, 349 patients died. GNRI ≤98 was associated with substantially higher 90-day mortality before adjustment (HR, 15.28; 95% CI, 11.53–20.25; p < 0.001) and after preoperative adjustment (HR, 3.77; 95% CI, 2.71–5.25; p < 0.001). The expanded penalized perioperative estimate was 1.87 (95% CI, 1.59–2.19). The preoperative-adjusted association extended to 30-day mortality (HR, 3.50; 95% CI, 1.79–6.86), 1-year mortality (HR, 3.22; 95% CI, 2.81–3.69) and in-hospital mortality (HR, 2.87; 95% CI, 2.09–3.94). Continuous GNR…",
-      "authors": "Jihao Cheng, Chuanjiang Liu, Jingyun Liao",
+      "title": "Association between selenium intake and epilepsy in NHANES and an independent Chinese clinical cohort",
+      "abstract": "BackgroundSelenium is an essential micronutrient involved in antioxidant defense and neuronal homeostasis. However, the association between selenium status and epilepsy remains unclear. This study aimed to investigate the association between selenium intake and epilepsy across populations and explore related clinical characteristics.MethodsA two-stage observational study was conducted. First, we analyzed cross-sectional National Health and Nutrition Examination Survey (NHANES) 2013–2020 data. Weighted logistic regression assessed the association between selenium intake and epilepsy, with serum selenium as a supplementary biomarker. Second, a hospital-based case–control study was conducted, including 94 patients with epilepsy and 92 healthy controls. Logistic regression models assessed associations between selenium intake and epilepsy; analyses of cognitive impairment and drug resistance were exploratory.ResultsIn NHANES, higher selenium intake was associated with lower odds of epilepsy after multivariable adjustment. Compared with the lowest quartile, participants in Q2 and Q3 had significantly lower odds of epilepsy. Restricted cubic spline analysis showed a decreasing association at lower selenium intake levels, which plateaued at higher levels. Serum selenium analyses yielded consistent findings. In the clinical study, patients with epilepsy had lower selenium intake than controls. Higher selenium intake was associated with lower odds of epilepsy; exploratory associations with cognitive impairment and drug resistance were imprecise.ConclusionSelenium status was associate…",
+      "authors": "Jingyi Yao, Zhiqing Chen, Dezhi Mao et al.",
       "published": "Nov 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.2004420",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1842430",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Dietary diversity, place of residence and malnutrition among school-going adolescent girls in Western Maharashtra, India: a structural equation modelling analysis",
-      "abstract": "BackgroundAdolescent girls in India bear a disproportionate share of the country’s nutritional burden, with undernutrition and overnutrition increasingly coexisting within the same population. Dietary diversity is a modifiable proxy indicator for diet quality.MethodsA community-based cross-sectional analytical study was conducted among 703 school-going adolescent girls (350 urban, 353 rural) in Western Maharashtra, India. Dietary diversity was assessed by 24-h recall. Associations were tested with Pearson’s chi-square and binary logistic regression. For the outcomes (i.e., undernutrition, overnutrition, and malnutrition), an exploratory path-analytic structural equation model was fitted using maximum likelihood estimation, with place of residence and Minimum Dietary Diversity (MDD) specified a priori as hypothesized serial intermediate variables between sociodemographic characteristics and nutritional status. Model fit was evaluated using CFI ≥ 0.90 and RMSEA ≤0.08, with TLI reported alongside. Cluster-robust generalized estimating equations (GEE) were used as a sensitivity analysis for within-school clustering.ResultsMalnutrition affected 70.13% of participants overall (undernutrition 60.31%, overnutrition 9.82%). MDD was inadequate in 90.18% (rural 95.18% vs. urban 85.14%, p < 0.001). After multivariable adjustment, rural residence (AOR = 4.55) and father’s elementary occupation (AOR = 2.36) were independently associated with higher odds of inadequate MDD, whereas outdoor physical activity of ≥2 h/day was associated with lower odds (AOR = 0.49). In the path models, dietar…",
-      "authors": "Sumeet Vaidya, Sujata Murarkar, Rupeshkumar Deshmukh et al.",
+      "title": "Association between plasma homocysteine levels and post-stroke cognitive impairment: a pooled analysis of 564 patients from two independent cohorts",
+      "abstract": "IntroductionPost-stroke cognitive impairment (PSCI) affects one-third of stroke survivors, but early biomarkers are lacking. We tested whether plasma homocysteine (Hcy) independently predicts PSCI.MethodsTwo acute ischemic stroke cohorts were merged (564 patients). PSCI was defined as a Montreal Cognitive Assessment score ≤ 23 at 3–6 months. Associations were tested with multivariable logistic regression, restricted cubic spline, sensitivity, subgroup, and mediation analyses.ResultsPSCI occurred in 36.9%. Hcy was higher in PSCI (21.99 vs. 15.87 μmol/L, p < 0.001) and associated after adjustment (OR = 1.019 per μmol/L, 95% CI 1.002–1.037, p = 0.030); in Cohort B, where age, sex, education and infarct laterality were recorded, the association remained significant after full adjustment (OR = 1.034, 95% CI 1.011–1.057, p = 0.004). The association was graded, with the steepest relative increase at lower Hcy levels and a plateau at higher levels (restricted cubic spline; non-linearity p = 0.054, borderline), and was not statistically significant at Hcy ≥ 20 or ≥ 25 μmol/L. Combining Hcy with Lp-PLA2, NIHSS, and β2-MG improved discrimination (AUC = 0.748, an apparent estimate that was not externally validated). In an exploratory counterfactual mediation analysis the proportion mediated was small (≈ 4% via NIHSS and ≈ 2% via Lp-PLA2).DiscussionElevated Hcy is associated with PSCI in this pooled analysis, and the association persisted in Cohort B after adjustment for age, sex, education and infarct laterality. The relationship was graded rather than sharply thresholded. As an observ…",
+      "authors": "Ling Hu, Xiaoyu Ni, Ming Wei et al.",
       "published": "Nov 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1944523",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1977295",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "The role of nutritional supplementation in TBM treatment and rehabilitation: a narrative review of mechanisms, evidence, and clinical practice",
-      "abstract": "Tuberculous meningitis (TBM) is the most severe form of tuberculosis, with high mortality and a high burden of neurological and cognitive sequelae. Malnutrition is highly prevalent among patients with TBM, affects both adults and children, and is associated with worse outcomes, yet it remains under-addressed in routine care and clinical guidelines. This narrative review synthesizes the mechanisms, evidence, and clinical practice of nutritional support in TBM. We performed a structured literature search of PubMed/MEDLINE, Embase, the Cochrane Library, and Web of Science, together with the Chinese databases CNKI, Wanfang, and SinoMed, from inception to 31 August 2025, using combinations of terms for TBM, nutrition, malnutrition, micronutrients, and nutritional support. Eligible studies were screened by two reviewers, and evidence was appraised with a hierarchical grading framework and GRADE-derived certainty ratings, with explicit labeling of TBM-specific versus indirect evidence. Mechanistically, TBM produces a hypermetabolic, catabolic state with negative nitrogen balance, gastrointestinal dysfunction, and impaired nutrient absorption, while malnutrition compromises barrier integrity, cell-mediated immunity, and antioxidant defenses. Vitamins D and A, zinc, selenium, and adequate protein and energy intake are mechanistically linked to immune and neurological recovery, but the TBM-specific evidence consists mainly of observational cohorts, case–control studies, and a single case report; randomized controlled trials are absent, and several claims are extrapolated from pulmona…",
-      "authors": "Yongjun Huo, Rutong Wang, Shen Yang et al.",
+      "title": "Prediction of long-term mortality in maintenance hemodialysis patients using machine learning survival models: a prospective multicenter study with SHAP-based interpretation",
+      "abstract": "BackgroundAccurate and interpretable prediction of long-term mortality in maintenance hemodialysis (MHD) patients remains challenging. This study aimed to develop and externally validate machine learning survival models integrating clinical, nutritional, inflammatory, and anthropometric predictors.MethodsThis prospective multicenter cohort included 1,129 MHD patients from eight dialysis centers in China. Patients were allocated to training (n = 645), internal validation (n = 274), and independent external test (n = 210) cohorts. Predictors were selected using LASSO–Cox regression and Survival Boruta. Five survival machine learning models were developed and evaluated for discrimination, prediction error, calibration, and clinical utility. SHapley Additive exPlanations (SHAP) were used to interpret model predictions.ResultsDuring a median follow-up of 4.53 years, 603 patients died. 14 predictors were selected for model development. In the external test cohort, gradient boosting survival analysis (GBS) achieved a C-index of 0.748 (95% CI, 0.705–0.790), a 5-year time-dependent AUC of 0.799 (95% CI, 0.726–0.861) and the lowest integrated Brier score (0.141) among the five models. GBS also demonstrated reasonable calibration, although its discrimination was not significantly superior to that of random survival forest. SHAP analysis identified age, prealbumin and diabetes mellitus as the leading contributors to model predictions.ConclusionAn interpretable GBS model integrating routinely available clinical, nutritional, inflammatory, and anthropometric predictors demonstrated promi…",
+      "authors": "Xiao Tian, Yaya Yang, Zhiqiang Peng et al.",
       "published": "Nov 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1842118",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1956147",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "ERO1α DNA methylation is associated with intergenerational effects of zinc, selenium, and chromium on ER stress and glucose homeostasis in female offspring of gestational diabetes rats",
-      "abstract": "IntroductionZinc, selenium, and chromium supplementation improved hepatic endoplasmic reticulum (ER) stress in gestational diabetes mellitus (GDM) rats and had beneficial intergenerational effects on glucose homeostasis in female offspring. However, whether the epigenetic molecular mechanism is involved in the intergenerational effects of zinc, selenium, and chromium is relatively unknown.MethodsHere, female Sprague Dawley rats were fed with either a high-fat and sucrose (HFS), to induce the GDM model, or a low-fat (LF) diet for three consecutive generations (F0, F1, and F2), and supplemented with zinc (10 mg/kg.bw), selenium (20 μg/kg.bw), and chromium (20 μg/kg.bw) daily by gavage. Global DNA methylation levels and methylation status of ER stress-related genes promoter regions were investigated in the liver of F1 and F2 female neonates.ResultsGDM caused glucose intolerance, insulin resistance, hepatic ER stress, and increased global DNA methylation in F1 and F2 female neonates. Pyrosequencing revealed increased ERO1α promoter methylation in F1 and F2 female neonates, accompanied by reduced ERO1α gene expression and increased hepatic ER stress. Combined zinc, selenium, and chromium supplementation attenuated these alterations and improved glucose homeostasis in female offspring of GDM rats.DiscussionThese findings suggest that ERO1α promoter methylation may be associated with alterations in glucose homeostasis and hepatic ER stress across generations.",
-      "authors": "Jiayue Su, Yi Feng, Jiayu Wang et al.",
+      "title": "EAT-Lancet diet, accelerated biological aging, and type 2 diabetes risk: a cohort study from the UK Biobank",
+      "abstract": "BackgroundThe EAT-Lancet planetary health diet emphasizes dietary patterns that may benefit both human health and environmental sustainability. Although adherence to this diet has been associated with lower chronic disease risk, its relationship with incident type 2 diabetes (T2D) and the potential mediating role of biological aging remain unclear.MethodsWe included 155,413 UK Biobank participants without T2D at baseline who had completed at least one 24-h dietary recall and had available biological aging indicators. Adherence to the EAT-Lancet diet was assessed using the Stubbendorff and Knuppel indices. Biological aging was evaluated using Klemera-Doubal method biological age (KDM-BA) and PhenoAge acceleration. Multivariable linear regression, Cox proportional hazards models, restricted cubic splines, interaction analyses, and mediation analyses were performed, respectively.ResultsHigher adherence to both EAT-Lancet diet indices was associated with lower accelerated biological aging and lower T2D risk. In fully adjusted models, participants in the highest quartile of the Knuppel and Stubbendorff indices had lower T2D risk than those in the lowest quartile (HR 0.83, 95% CI: 0.74–0.92; and HR 0.85, 95% CI: 0.78–0.92, respectively). While, accelerated biological aging was statistically associated with higher T2D risk; the highest quartiles of KDM-BA and PhenoAge acceleration showed HRs of 2.36 (95% CI: 2.18–2.56) and 2.84 (95% CI: 2.58–3.11), respectively. Exploratory mediation analyses suggested that KDM-BA and PhenoAge acceleration statistically accounted for approximately…",
+      "authors": "Yanxia Cui, Haijie Gao, Huijia Zhang et al.",
       "published": "Nov 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1974884",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1951780",
       "image": "",
       "screen": "right"
     },
@@ -829,7 +829,7 @@
       "venue": "Journal of food science and technology",
       "feedName": "Lab Research",
       "citationCount": 11,
-      "recentCitations": 1,
+      "recentCitations": 0,
       "quartile": "Q1",
       "s2_paper_id": "435cee3aeeb4f44de0a7eef6197bce01a348c990",
       "url": "https://doi.org/10.1007/s13197-022-05534-w",

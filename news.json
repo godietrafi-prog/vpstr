@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10T19:19:17Z",
+  "updated": "2026-11-11T00:25:00Z",
   "items": [
     {
       "title": "Food production policies can enhance multi-pollutant control of Chinese rivers",
@@ -362,6 +362,36 @@
       "screen": "left"
     },
     {
+      "title": "Water molecules turn out to be secret messengers for magnetism",
+      "abstract": "Water is not usually thought of as a magnetic material. But a new study led by researchers at Tohoku University's Institute of Multidisciplinary Research for Advanced Materials, in collaboration with National Taipei University of Technology (Taipei Tech), has found that tiny shifts in the orientation of water molecules can flip on magnetic partnerships between metal ions that are not even directly bonded to each other.",
+      "authors": "",
+      "published": "Nov 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-11-molecules-secret-messengers-magnetism.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/water-molecules-turn-o-1.jpg",
+      "screen": "right"
+    },
+    {
+      "title": "AI-generated molecular fingerprints help identify existing compounds with therapeutic potential",
+      "abstract": "Health care researchers have long sought to harness the power of computing to design molecules that bind to specific receptors and can be used as targeted treatments for diseases. Even with the increasing sophistication of artificial intelligence, however, this technological promise has yet to be realized.",
+      "authors": "",
+      "published": "Nov 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-11-ai-generated-molecular-fingerprints-compounds.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/using-ai-to-screen-exi.jpg",
+      "screen": "right"
+    },
+    {
+      "title": "By carefully arranging molecules, scientists can control how a material responds to light, heat and physical force",
+      "abstract": "University of Missouri researchers have created a single solid material that responds differently depending on what it's exposed to. Shine light on it, and it changes from yellow to white, an indication of a chemical reaction. Heat it, and it undergoes a different chemical reaction. Scratch the surface, and it flashes blue.",
+      "authors": "",
+      "published": "Nov 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-11-molecules-scientists-material-physical.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/one-material-three-res.jpg",
+      "screen": "right"
+    },
+    {
       "title": "Researcher uses AI to predict probabilities for chemical processes",
       "abstract": "Quantum chemistry can be used to calculate the probabilities of which chemical processes will occur. This involves a great deal of programming work. Dr. Michael F. Peintinger from the Mulliken Center for Theoretical Chemistry at the University of Bonn has investigated what happens when artificial intelligence is used for this purpose. His work is published in the Journal of Computational Chemistry.",
       "authors": "",
@@ -369,36 +399,6 @@
       "feedName": "Phys.org Analytics",
       "url": "https://phys.org/news/2026-11-ai-probabilities-chemical.html",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/electrons-reveal-what.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "A catalyst that protects itself while producing hydrogen",
-      "abstract": "Cobalt phosphide (CoP) is a promising alternative to platinum for producing hydrogen from water. However, scientists have struggled to explain why it performs so well. Computer models have suggested that CoP should become unstable under the conditions used to produce hydrogen, yet experiments show that it remains active and durable in acidic, neutral and alkaline environments.",
-      "authors": "",
-      "published": "Nov 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-11-catalyst-hydrogen.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/a-catalyst-that-protec.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "Alternative approach could reduce reliance on potentially toxic surfactants in pharmaceutical and food applications",
-      "abstract": "An international research team led by the University of Sydney has found a way to formulate microemulsions without traditional surfactants, which are often toxic and hard to separate from end products. The findings have important implications for pharmaceutical applications and food additives.",
-      "authors": "",
-      "published": "Nov 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-11-alternative-approach-reliance-potentially-toxic.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/research-has-found-a-n.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "CheMeleon model adapts to predict molecular properties from scant data",
-      "abstract": "Discovering new molecules for specific uses is a major driver of progress in a wide variety of industries, whether it's pharmaceutical companies looking for new drugs or electronics or energy companies seeking new materials with particular properties. But it's also largely a trial-and-error process, because there is not yet any way to perfectly predict how a given chemical compound will behave in terms of the myriad different properties and responses materials can exhibit.",
-      "authors": "",
-      "published": "Nov 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-11-chemeleon-molecular-properties-scant.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/how-to-predict-the-beh.jpg",
       "screen": "right"
     },
     {

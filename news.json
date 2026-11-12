@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T14:26:06Z",
+  "updated": "2026-11-12T22:00:48Z",
   "items": [
     {
       "title": "Food production policies can enhance multi-pollutant control of Chinese rivers",
@@ -42,42 +42,52 @@
       "screen": "left"
     },
     {
-      "title": "In vitro digestion and colonic fermentation characteristics of free and bound phenolics from Radix Puerariae Thomsonii and their effects on gut microbiota",
+      "title": "Phycocyanin as a structuring agent enhances gel properties of soybean protein isolate hydrogels: Insights into noncovalent interactions involving hydrogen bonding",
       "abstract": "",
-      "authors": "Weixin Li, Min Zhang, Xuchao Jia et al.",
+      "authors": "Mengwei Wang, Tianxiang Pi, Jinju Jiang et al.",
       "published": "Dec 2026",
       "feedName": "Food Chemistry",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626040653?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626042408?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
     {
-      "title": "Oxidized tuna phospholipids enhance fish ball's flavor by modulating lipid oxidation and flavor-active compound formation",
+      "title": "Dual-target mixed-type inhibition of α-amylase and α-glucosidase by acorn shell extract: In vitro and in silico mechanistic insights and in vivo alleviating effects in drosophila",
       "abstract": "",
-      "authors": "Qiaoyu Liu, Xiyi He, Yun You et al.",
+      "authors": "He Han, Yan Jiao, Mingjie Jia et al.",
       "published": "Dec 2026",
       "feedName": "Food Chemistry",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626040227?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626041713?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
     {
-      "title": "Crystallization and interfacial chemistry of edible waxes: constructing dual-mechanism gelled high internal phase Pickering emulsions for 3D food printing",
+      "title": "Low-moisture extrusion improves hydration properties and polysaccharide-polyphenol interactions in whole lotus root: Effects on cell wall pectic polysaccharide fractions",
       "abstract": "",
-      "authors": "Rixin Zhang, Xuejie Tian, Tangyu Yang et al.",
+      "authors": "Lu-lu Chen, Shan Tang, Xiao-rui Niu et al.",
       "published": "Dec 2026",
       "feedName": "Food Chemistry",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626042044?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626042196?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
     {
-      "title": "Effect of whole versus refined Tartary buckwheat flour on texture and aroma-active volatiles of Chinese steamed buns",
+      "title": "Effect of fatty acid unsaturation on the quality and digestive performance of type-V resistant starch in low-fat meat emulsions",
       "abstract": "",
-      "authors": "Jiawei Cao, Yuan Cao, Juchi Guo et al.",
+      "authors": "Xixi Wang, Fei Hu, Dongyue Liu et al.",
       "published": "Dec 2026",
       "feedName": "Food Chemistry",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626042184?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626040136?dgcid=rss_sd_all",
+      "image": "",
+      "screen": "left"
+    },
+    {
+      "title": "Odor-induced sweetness enhancement and extraoral chemosensory receptors in sugar-reduced foods: mechanisms, evidence, and research priorities",
+      "abstract": "",
+      "authors": "Qinguo Quan, Ping Wang, Kun Zhao et al.",
+      "published": "Jan 2027",
+      "feedName": "Trends in Food Sci & Tech",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426006965?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -108,16 +118,6 @@
       "published": "Jan 2027",
       "feedName": "Trends in Food Sci & Tech",
       "url": "https://www.sciencedirect.com/science/article/pii/S092422442600693X?dgcid=rss_sd_all",
-      "image": "",
-      "screen": "left"
-    },
-    {
-      "title": "From intelligent sensing to predictive meat quality assessment: Multimodal and AI-enabled intelligent packaging",
-      "abstract": "",
-      "authors": "Muhammad Shahar Yar, Faiza Rehman, Ahmed Elnagar et al.",
-      "published": "Jan 2027",
-      "feedName": "Trends in Food Sci & Tech",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426006989?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -322,6 +322,16 @@
       "screen": "left"
     },
     {
+      "title": "Evaluating deep and machine learning models for irrigation prescription: Insights from aggregated and non-aggregated data",
+      "abstract": "",
+      "authors": "Ajay Sengar, Hemendra Kumar, Cara Peterson et al.",
+      "published": "Dec 2026",
+      "feedName": "AI in Agriculture",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2589721726001273?dgcid=rss_sd_all",
+      "image": "",
+      "screen": "left"
+    },
+    {
       "title": "An explainable deep learning approach based on a feature attention mechanism for maintaining SSC model performance in apples across interannual variability",
       "abstract": "",
       "authors": "Penghui Liu, Changqing An, Zhizhong Sun et al.",
@@ -352,14 +362,14 @@
       "screen": "left"
     },
     {
-      "title": "Closing the loop on plant state: A scoping review of autonomous control in controlled-environment agriculture",
-      "abstract": "",
-      "authors": "Jun Hyeun Kang, Min-Seok Gang, Jung-Seok Yang et al.",
-      "published": "",
-      "feedName": "AI in Agriculture",
-      "url": "https://www.sciencedirect.com/science/article/pii/S2589721726001303?dgcid=rss_sd_all",
-      "image": "",
-      "screen": "left"
+      "title": "Pumpkin seed protein puts a twist on nondairy coffee creamer",
+      "abstract": "Pumpkin season is about more than cute décor. The squash contains lots of seeds with a high protein content, but they're usually discarded. Researchers reporting in ACS' Journal of Agricultural and Food Chemistry found another way to use the seeds, extracting that protein to create a plant-based coffee creamer. In initial taste tests, participants preferred the new creamer to a commercial nondairy option because it preserved the flavor and aroma of coffee better.",
+      "authors": "",
+      "published": "Nov 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-11-pumpkin-seed-protein-nondairy-coffee.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/pumpkin-seed-protein-p.jpg",
+      "screen": "right"
     },
     {
       "title": "White wine drinkers help pinpoint what's missing in no- and low-alcohol drinks",
@@ -389,16 +399,6 @@
       "feedName": "Phys.org Analytics",
       "url": "https://phys.org/news/2026-11-potentials-electric-fields-reactions-catalyst.html",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/how-potentials-and-ele.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "A lingering blue glow and unexpected energy levels hint at new ways to control light in advanced materials",
-      "abstract": "Scientists from the Physics Department and Organic Electroactive Materials research group at Durham University have made significant advances in understanding how materials absorb and release light in two recently published research papers in Nature Communications.",
-      "authors": "",
-      "published": "Nov 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-11-lingering-blue-unexpected-energy-hint.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/durham-scientists-disc.jpg",
       "screen": "right"
     },
     {
@@ -482,12 +482,12 @@
       "screen": "right"
     },
     {
-      "title": "A health economic evaluation of menu calorie labelling in the out-of-home sector in England: a modelling study",
-      "abstract": "BackgroundIn 2022, England mandated calorie labelling for large businesses. While short-term evaluations exist, the long-term cost-effectiveness of this policy remains unknown. This study estimates long-term cost-effectiveness of the out-of-home calorie labelling policy by extrapolating real-world evidence that has estimated the short-term policy effects in England.MethodsThe lifetime health and economic impacts of out-of-home calorie labelling were simulated using a microsimulation model. The analysis adopted a public sector perspective to compare the policy with a counterfactual ‘no intervention’ scenario. The simulation generates a synthetic population for England aged 13–79 years combining data from the National Diet and Nutrition Survey (2009–19) and Health Survey for England (2018, 2019). The policy may impact calories consumed through two mechanisms: consumer behaviour changes and menu changes (reformulation and menu composition). Effect sizes were estimated from real-world evaluations of the policy implemented in England. Changes to daily calorie intake as a consequence of the policy were translated to modified weight trajectories. Simulated outcomes included changes in obesity, diabetes cases and related complications, cardiovascular events, osteoarthritis, cancers, dementia, quality-adjusted life years (QALYs) and National Health Service (NHS) costs. The results of this analysis were estimated from a Probabilistic Sensitivity Analysis (PSA) reported with 95% Uncertainty Intervals (UI) to explicitly account for and describe parameter uncertainty.ResultsThe policy i…",
-      "authors": "Penny Breeze, Katharine Pidd, Alexandra Kalbus et al.",
+      "title": "Antibacterial activity and phytochemical constituents of the aerial parts of Allium sativum L.",
+      "abstract": "IntroductionThe bulbs of Allium sativum L. (garlic) are widely used as food or condiment, while they have also been used as a famous traditional medicine since ancient times for the treatment of diarrhea, dysentery, pertussis, tuberculosis and scabies, etc. However, most studies have focused on bulbs, and few studies have focused on the abundant aerial parts, which are usually discarded during the harvest season.MethodsIn this study, Oxford cup and microdilution assays were employed to assess the in vitro antibacterial activity of the aerial parts of A. sativum. The underlying antibacterial mechanism was explored by detecting bacterial biofilm formation, cell wall integrity and intracellular protein leakage. Multiple chromatographic techniques were adopted to isolate and purify chemical components, and the two-fold dilution method was used to screen the antibacterial activity of the obtained compounds.ResultsTo our knowledge, this is the first report investigating the inhibitory effects of the 70% ethanol crude extract from the aerial parts and its fractions (petroleum ether, ethyl acetate, n-butanol, and residual water extracts) against Staphylococcus epidermidis, Staphylococcus aureus, Escherichia coli and Pseudomonas aeruginosa. The results showed that the extracts had different degrees of inhibitory effects on the tested bacteria in vitro, and the ethyl acetate extract had the strongest antibacterial activity. Mechanistic studies suggested that the ethyl acetate extract markedly inhibited biofilm formation of S. epidermidis and S. aureus, increased the permeability of t…",
+      "authors": "Chuan Pu, Haibo Hu, Haitao Liu et al.",
       "published": "Nov 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1943096",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1990045",
       "image": "",
       "screen": "right"
     },
@@ -502,12 +502,12 @@
       "screen": "right"
     },
     {
-      "title": "Differential associations of vitamin D metabolites with metabolic dysfunction-associated steatotic liver disease: a cross-sectional study in a northern Chinese population",
-      "abstract": "BackgroundMetabolic dysfunction-associated steatotic liver disease (MASLD) is a common chronic liver disease. Previous studies have primarily focused on total 25-hydroxyvitamin D [25(OH)D], whereas the associations of 25-hydroxyvitamin D₂ [25(OH)D₂] and 25-hydroxyvitamin D₃ [25(OH)D₃] with MASLD remain incompletely understood. This study aimed to evaluate the associations of serum 25(OH)D₂, 25(OH)D₃, and total 25(OH)D concentrations with the prevalence of MASLD.MethodsThis cross-sectional study included 41,074 adults undergoing routine health examinations in northern China from the Dalian Health Management Cohort. Multivariable logistic regression models were used to evaluate the associations of vitamin D metabolites with MASLD. Restricted cubic spline (RCS) analyses and two-piece logistic regression models were used to assess nonlinear associations and estimate exploratory turning points. Prespecified subgroup analyses were conducted to examine the consistency of the associations across population subgroups. Sensitivity analyses evaluated the associations under alternative approaches to data handling and covariate adjustment.ResultsIn the primary adjusted model, each one-standard-deviation increase in total 25(OH)D and 25(OH)D₃ was associated with 11% (OR = 0.889, 95% CI: 0.864–0.915) and 10% (OR = 0.897, 95% CI: 0.871–0.923) lower odds of MASLD, respectively. For 25(OH)D₂, the association was small and not statistically significant in the primary adjusted model (OR = 0.980, 95% CI: 0.953–1.007; p = 0.152), although it reached statistical significance in some other models.…",
-      "authors": "Yan Li, Yangxuan He, Shusheng Fang et al.",
+      "title": "Artificial intelligence in the treatment of eating disorders in teenagers: a novel approach to outpatient care",
+      "abstract": "Background:Eating disorders are serious psychiatric conditions that disproportionately affect adolescents. Although multidisciplinary approaches incorporating psychotherapy, nutritional guidance, and family involvement are recommended, outpatient treatment presents challenges in monitoring nutritional intake across school, social, and home environments. Artificial intelligence (AI) may extend individualized support beyond traditional clinical encounters.Case presentationThis report presents a case study of an adolescent girl with anorexia nervosa receiving outpatient psychotherapy, nutritional counseling, and family involvement. An AI-assisted intervention using ChatGPT was implemented through a shared platform involving the patient, parent, and registered dietitian. The dietitian established individualized nutritional parameters and provided instructions regarding appropriate recommendations and language. The AI provided real-time meal and snack guidance using food-neutral language while avoiding discussion of calories, macronutrients, measurements, or quantities. The dietitian maintained oversight of the platform and monitored recommendations created alongside a licensed psychologist.DiscussionThe AI-assisted approach demonstrated potential feasibility as an adjunct to multidisciplinary outpatient eating disorder treatment. The intervention provided individualized, real-time guidance while reducing reliance on calorie counting and food measurement, which contributes to eating-disorder behaviors and cognitive rumination. The shared-access model allowed the dietitian to mon…",
+      "authors": "Krista Tabuenca, Danielle Mein",
       "published": "Nov 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1963322",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1968459",
       "image": "",
       "screen": "right"
     },
@@ -522,16 +522,6 @@
       "screen": "right"
     },
     {
-      "title": "Hydrocolloid food additive intake in the Norwegian population: a dietary exposure assessment",
-      "abstract": "Purpose Hydrocolloid food additives are abundant in foodstuffs and found across many food groups. Recent studies suggest that certain hydrocolloids may exert negative health effects, but quantitative data regarding their intake in the population remains scarce. The purpose of this study was to map the dietary intake and exposure prevalence of 15 hydrocolloid food additives in the Norwegian population, providing a foundation for research linking dietary intake to health outcomes. Method Data were obtained from Norkost 4, a nationwide, cross-sectional dietary survey utilizing two non-consecutive 24-hour dietary recalls among 1964 Norwegian adults. The presence of 15 hydrocolloid additives in the food items consumed was identified through ingredient lists, and concentration data were derived from the European Food Safety Authority (EFSA). Results Dietary exposure to hydrocolloids was widespread in the cohort but varied across individual hydrocolloids and food categories. Guar gum demonstrated the highest exposure prevalence (92%), whereas others, such as methyl cellulose, were rarely encountered. Demographically, the characteristics of high-tier consumers were highly additive-specific, indicating that no single, homogeneous profile of an “extreme additive consumer” exists. Furthermore, comparisons with international cohorts underscore how the choice of analytical framework and concentration data impacts estimation of exposure outcomes, making cross-country comparisons challenging. Conclusion This comprehensive assessment provides the first mapping of hydrocolloid intake, and t…",
-      "authors": "",
-      "published": "Nov 2026",
-      "feedName": "Eur. J. Nutrition",
-      "url": "https://link.springer.com/article/10.1007/s00394-026-04159-5",
-      "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1007%2Fs00394-026-04159-5/MediaObjects/394_2026_4159_Fig1_HTML.png",
-      "screen": "right"
-    },
-    {
       "title": "Maternal fish or n-3 polyunsaturated fatty acid intake during pregnancy and risk of impaired kidney function at 6 years of age: the Japan environment and children’s study",
       "abstract": "Purpose Chronic kidney disease in children causes kidney failure and growth impairment, making its prevention an urgent clinical and public health priority. Experimental animal studies have suggested that maternal intake of n-3 polyunsaturated fatty acids (PUFAs) during pregnancy may have kidney-protective effects in offspring; however, evidence in humans remains limited. Therefore, this study aimed to investigate the association between maternal fish or n-3 PUFA intake during pregnancy and kidney dysfunction in children. Methods We analyzed data from the Japan Environment and Children’s Study, a nationwide prospective birth cohort. A total of 2,679 mother–child pairs were included. Kidney dysfunction was defined as an estimated glomerular filtration rate < 90 mL/min/1.73 m² at 6 years of age. Maternal fish or n-3 PUFA intake during pregnancy was categorized into quintiles. Multivariable logistic regression models were used to estimate the associations. Results At 6 years of age, 262 children (9.8%) had decreased kidney function. In the adjusted model, maternal fish intake in the highest quintile was associated with a significantly lower risk of kidney dysfunction compared with the lowest quintile (odds ratio, 0.63; 95% confidence interval, 0.41–0.99). Maternal n-3 PUFA intake showed a similar trend, although the association was not statistically significant. Conclusion Higher maternal fish intake during pregnancy was associated with a reduced risk of kidney dysfunction in offspring, whereas maternal n-3 PUFA intake showed no significant association. These findings suggest …",
       "authors": "",
@@ -539,6 +529,16 @@
       "feedName": "Eur. J. Nutrition",
       "url": "https://link.springer.com/article/10.1007/s00394-026-04165-7",
       "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1007%2Fs00394-026-04165-7/MediaObjects/394_2026_4165_Fig1_HTML.png",
+      "screen": "right"
+    },
+    {
+      "title": "Hydrocolloid food additive intake in the Norwegian population: a dietary exposure assessment",
+      "abstract": "Purpose Hydrocolloid food additives are abundant in foodstuffs and found across many food groups. Recent studies suggest that certain hydrocolloids may exert negative health effects, but quantitative data regarding their intake in the population remains scarce. The purpose of this study was to map the dietary intake and exposure prevalence of 15 hydrocolloid food additives in the Norwegian population, providing a foundation for research linking dietary intake to health outcomes. Method Data were obtained from Norkost 4, a nationwide, cross-sectional dietary survey utilizing two non-consecutive 24-hour dietary recalls among 1964 Norwegian adults. The presence of 15 hydrocolloid additives in the food items consumed was identified through ingredient lists, and concentration data were derived from the European Food Safety Authority (EFSA). Results Dietary exposure to hydrocolloids was widespread in the cohort but varied across individual hydrocolloids and food categories. Guar gum demonstrated the highest exposure prevalence (92%), whereas others, such as methyl cellulose, were rarely encountered. Demographically, the characteristics of high-tier consumers were highly additive-specific, indicating that no single, homogeneous profile of an “extreme additive consumer” exists. Furthermore, comparisons with international cohorts underscore how the choice of analytical framework and concentration data impacts estimation of exposure outcomes, making cross-country comparisons challenging. Conclusion This comprehensive assessment provides the first mapping of hydrocolloid intake, and t…",
+      "authors": "",
+      "published": "Nov 2026",
+      "feedName": "Eur. J. Nutrition",
+      "url": "https://link.springer.com/article/10.1007/s00394-026-04159-5",
+      "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1007%2Fs00394-026-04159-5/MediaObjects/394_2026_4159_Fig1_HTML.png",
       "screen": "right"
     },
     {
@@ -769,7 +769,7 @@
       "venue": "Toxins",
       "feedName": "Lab Research",
       "citationCount": 21,
-      "recentCitations": 0,
+      "recentCitations": 2,
       "quartile": null,
       "s2_paper_id": "e6a6854e55ee8f5a8ace3025ba0d32e33a650343",
       "url": "https://doi.org/10.3390/toxins16030163",
@@ -864,7 +864,7 @@
     {
       "title": "Stimuli-Responsive DNA-Based Hydrogels on Surfaces for Switchable Bioelectrocatalysis and Controlled Release of Loads",
       "abstract": "The assembly of enzyme [glucose oxidase (GOx)]-loaded stimuli-responsive DNA-based hydrogels on electrode surfaces, and the triggered control over the stiffness of the hydrogels, provides a means to switch the bioelectrocatalytic functions of the hydrogels. One system includes the assembly of GOx-loaded, pH-responsive, hydrogel matrices cross-linked by two cooperative nucleic acid motives comprising permanent duplex nucleic acids and “caged” i-motif pH-responsive duplexes. Bioelectrocatalyzed oxidation of glucose leads to the formation of gluconic acid that acidifies the hydrogel resulting in the separation of the i-motif constituents and lowering the hydrogel stiffness. Loading of the hydrogel matrices with insulin results in the potential-triggered, glucose concentration-controlled, switchable release of insulin from the hydrogel-modified electrodes. The switchable bioelectrocatalyzed release of insulin is demonstrated in the presence of ferrocenemethanol as a diffusional electron mediator or by applying an electrically wired integrated matrix that includes ferrocenyl-modified GOx embedded in the hydrogel. The second GOx-loaded, stimuli-responsive, DNA-based hydrogel matrix associated with the electrode includes a polyacrylamide hydrogel cooperatively cross-linked by duplex nucleic acids and “caged” G-quadruplex-responsive duplexes. The hydrogel matrix undergoes K+-ions/crown ether-triggered stiffness changes by the cyclic K+-ion-stimulated formation of G-quadruplexes (lower stiffness) and the crown ether-induced separation of the G-quadruplexes (higher stiffness). The hy…",
-      "authors": "M. Fadeev, Gilad Davidson-Rozenfeld, Zhenzhen Li et al.",
+      "authors": "M. Fadeev, Gilad Davidson-Rozenfeld, Zhen-Zhen Li et al.",
       "published": "2023",
       "venue": "ACS Applied Materials and Interfaces",
       "feedName": "Lab Research",
@@ -884,7 +884,7 @@
     {
       "title": "Stiffness‐Switchable, Biocatalytic pH‐Responsive DNA‐Functionalized Polyacrylamide Cryogels and their Mechanical Applications",
       "abstract": "The large‐pore interconnected channels in cryogels, allow convectional flow and rapid mass‐transport of solute constituents between the solution and cryogel polymer framework, as compared to slower, diffusionally‐controlled mass‐transport in small‐pore hydrogels. These features are applied to develop enzyme‐loaded polyacrylamide (pAAm) cryogels, and glucose oxidase (GOx)‐loaded pH‐responsive DNA‐based pAAm cryogels, revealing enhanced biocatalytic transformations, enhanced temporal stiffness changes, and mechanical bending functions, as compared to analog hydrogels. DNA‐based pAAm cryogel/hydrogel matrices, revealing pH‐switchable stiffness properties through reversible reconfiguration of DNA‐bridging units into i‐motif structures, are introduced. Enhanced switchable stiffness changes of DNA‐based pAAm cryogels, as compared to analog hydrogels, are demonstrated upon subjecting the cryogel/hydrogel matrices to auxiliary pH‐changes, or by integration of GOx into the frameworks, and driving pH‐changes through GOx‐catalyzed aerobic oxidation of glucose to gluconic acid. Enhanced stiffness changes of pAAm cryogels represent a major advance to control the mechanical properties of cryogels and are attributed to the convectionally‐controlled mass‐transport in the cryogel matrices. Moreover, bilayer constructs consisting of poly‐N‐isopropylacrylamide (pNIPAM) cryogels and pH‐responsive DNA‐based pAAm cryogel or hydrogel structures are constructed. Enhanced pH/glucose triggered mechanical bending rates of the pNIPAM cryogel/pAAm cryogel or pNIPAM cryogel/GOx‐loaded pAAm cryogel, as c…",
-      "authors": "Gilad Davidson-Rozenfeld, Xinghua Chen, Yun-Long Qin et al.",
+      "authors": "Gilad Davidson-Rozenfeld, Xing-Hua Chen, Yun-Long Qin et al.",
       "published": "2023",
       "venue": "Advanced Functional Materials",
       "feedName": "Lab Research",

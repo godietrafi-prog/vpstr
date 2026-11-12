@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T23:56:40Z",
+  "updated": "2026-11-12T05:08:20Z",
   "items": [
     {
       "title": "Food production policies can enhance multi-pollutant control of Chinese rivers",
@@ -442,6 +442,16 @@
       "screen": "right"
     },
     {
+      "title": "Scientists discover a common sugar may help cancer cells break free and spread",
+      "abstract": "Scientists have uncovered a surprising way that fructose, a sugar commonly found in sweetened foods and drinks, may help aggressive ovarian cancer spread. Researchers discovered that cancer cells surviving chemotherapy release fructose that weakens the bonds holding neighboring tumor cells together, making it easier for cancer to spread. High dietary fructose levels and cholesterol-lowering statins also produced concerning effects in preclinical experiments.",
+      "authors": "",
+      "published": "Nov 2026",
+      "feedName": "ScienceDaily Nutrition",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261111221501.htm",
+      "image": "https://www.sciencedaily.com/images/1920/cancer-cell-infecting-healthy-tissue.webp",
+      "screen": "right"
+    },
+    {
       "title": "Energy drinks linked to 11 times more reports of cardiac arrest",
       "abstract": "A new study found that energy drinks and stimulant supplements were linked to disproportionately frequent reports of serious heart problems, including 11 times more reports of cardiac arrest and 4.5 times more reports of heart attacks. Young adults accounted for nearly half of the cardiovascular reports involving these products, raising concerns about their potential risks despite the study being unable to prove causation.",
       "authors": "",
@@ -469,16 +479,6 @@
       "feedName": "ScienceDaily Nutrition",
       "url": "https://www.sciencedaily.com/releases/2026/11/261109205401.htm",
       "image": "https://www.sciencedaily.com/images/1920/senior-overweight-man-in-chair.webp",
-      "screen": "right"
-    },
-    {
-      "title": "Common supplement could help fight psoriasis, scientists discover",
-      "abstract": "Scientists have discovered that pantethine, a readily available vitamin B5 derivative, can calm overactive immune cells and may help fight psoriasis. The supplement prevented psoriasis in mice and showed promising results in a small human trial, revealing an unexpected connection between cholesterol and autoimmune inflammation.",
-      "authors": "",
-      "published": "Nov 2026",
-      "feedName": "ScienceDaily Nutrition",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261108233057.htm",
-      "image": "https://www.sciencedaily.com/images/1920/woman-pouring-vitamin-d-omega-3-vitamin-supplements-into-hand.webp",
       "screen": "right"
     },
     {
@@ -769,7 +769,7 @@
       "venue": "Toxins",
       "feedName": "Lab Research",
       "citationCount": 21,
-      "recentCitations": 2,
+      "recentCitations": 0,
       "quartile": null,
       "s2_paper_id": "e6a6854e55ee8f5a8ace3025ba0d32e33a650343",
       "url": "https://doi.org/10.3390/toxins16030163",
@@ -829,7 +829,7 @@
       "venue": "ACS Applied Materials and Interfaces",
       "feedName": "Lab Research",
       "citationCount": 1,
-      "recentCitations": 1,
+      "recentCitations": 0,
       "quartile": "Q1",
       "s2_paper_id": "daeea6fa97917f764c7ad91e09d41dbb9652690e",
       "url": "https://doi.org/10.1021/acsami.6c07915",

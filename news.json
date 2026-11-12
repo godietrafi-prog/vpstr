@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T05:08:20Z",
+  "updated": "2026-11-12T14:26:06Z",
   "items": [
     {
       "title": "Food production policies can enhance multi-pollutant control of Chinese rivers",
@@ -132,6 +132,16 @@
       "screen": "left"
     },
     {
+      "title": "Sweetness preference and eating behaviors in habitual and non-habitual consumers of low-calorie sweetened products",
+      "abstract": "",
+      "authors": "Stephanie I. Okoye, Marta Yanina Pepino",
+      "published": "Mar 2027",
+      "feedName": "Food Quality & Preference",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0950329326003253?dgcid=rss_sd_all",
+      "image": "",
+      "screen": "left"
+    },
+    {
       "title": "Do sustainability labels matter? Consumer trade-offs for food attributes related to palm oil in Germany, the United Kingdom, Poland, and Hungary",
       "abstract": "",
       "authors": "Yahya Shafiyuddin Hilmi, Ágoston Temesi, Brigitta Unger-Plasek",
@@ -148,16 +158,6 @@
       "published": "Mar 2027",
       "feedName": "Food Quality & Preference",
       "url": "https://www.sciencedirect.com/science/article/pii/S095032932600323X?dgcid=rss_sd_all",
-      "image": "",
-      "screen": "left"
-    },
-    {
-      "title": "Taste perception and physiological responses during salty, sour and umami stimulation",
-      "abstract": "",
-      "authors": "José María Casanova-Blázquez, Lidia Fabra-Cuenca, Claudia Sánchez-Calvo et al.",
-      "published": "Mar 2027",
-      "feedName": "Food Quality & Preference",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0950329326003228?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -202,6 +202,26 @@
       "screen": "left"
     },
     {
+      "title": "Computational fluid dynamics for active solar drying of tuber crops: a critical narrative review of modelling, validation and optimisation evidence and its transferability",
+      "abstract": "BackgroundCassava (Manihot esculenta), yam (Dioscorea spp.) and sweet potato (Ipomoea batatas) are highly perishable after harvest, and active (forced-convection) solar drying can reduce losses with little external energy. Dryer performance is governed by coupled airflow, heat transfer and moisture transport, which computational fluid dynamics (CFD) can resolve in principle. This critical narrative review appraises how far CFD and complementary models currently support the design, validation and optimisation of active solar dryers for tuber crops.MethodsA documented, non-exhaustive search of Scopus, Web of Science Core Collection, ScienceDirect and Google Scholar (to 30 September 2026), supplemented by citation chaining, was used. Evidence was classified into four tiers: direct tuber CFD; tuber-specific non-CFD numerical models; tuber experimental and kinetic studies; and transferable CFD or multiphysics studies of solar dryers for other products. Studies were compared on governing equations, turbulence and radiation treatment, product and moisture representation, numerical verification and validation error. The review is not systematic and does not report a PRISMA flow diagram or pooled estimates.ResultsOf the 41 sources cited, 14 are primary studies. Only one study applied CFD with a tuber product explicitly represented: a sweet-potato dryer in which the loaded racks were modelled as porous thermal media without moisture transport. In that study, CFD and a lumped-capacitance model both predicted a steady chamber temperature rise of about 40 °C, and fitting the rack heat-t…",
+      "authors": "Chinyere Nneoma Ugwu",
+      "published": "Nov 2026",
+      "feedName": "Frontiers Food Science",
+      "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.1988554",
+      "image": "",
+      "screen": "left"
+    },
+    {
+      "title": "Agro-processing value chains and SMME participation in South Africa: insights from Johannesburg and the Gauteng city-region - a scoping review",
+      "abstract": "Agro-processing is increasingly recognised as a strategic sector for promoting inclusive urban economic development, SMME growth, and employment creation within sustainable food systems. This study examines SMME participation and employment outcomes within Johannesburg’s urban food system, drawing on evidence from Gauteng Province and South Africa more broadly. A scoping review design was adopted, using structured searches of Scopus, ScienceDirect, and Google Scholar for literature published between 2020 and 2025. Eligible sources included peer-reviewed articles, government policy developments, and institutional reports addressing agro-processing, value chains, and SMME development. Of the 40 evidence sources included (28 peer-reviewed articles, eight government policy developments, and four institutional/grey literature reports), 12 focused specifically on Johannesburg, 10 on the wider Gauteng City Region, and 18 provided national or international perspectives. Findings indicate that agro-processing has considerable potential for enterprise development and employment creation; however, SMMEs face persistent constraints in finance, food safety compliance, infrastructure, logistics, and market access. Opportunities exist through niche urban markets, supplier development programmes, shared infrastructure, and cooperative business models. The evidence base remains uneven, with a predominance of qualitative case studies and limited firm-level or city-specific analyses, particularly in distribution and retail stages. This review contributes originality by highlighting the potent…",
+      "authors": "T. Nhabe, N. J. Malebo",
+      "published": "Nov 2026",
+      "feedName": "Frontiers Food Science",
+      "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.1971398",
+      "image": "",
+      "screen": "left"
+    },
+    {
       "title": "Micro- and nano-encapsulation technologies for enhanced flavour preservation in food systems: materials, mechanisms, challenges, and future perspectives",
       "abstract": "The preservation of volatile flavour compounds in foods remains challenging because of evaporation, oxidation, thermal and photo-induced degradation, and partitioning within complex food matrices. Microencapsulation provides established protection and scalable processing routes, whereas nanoencapsulation can offer additional control over interfacial area, dispersion, carrier structure, and release. This review critically compares micro- and nano-encapsulation for flavour preservation, distinguishing retention during manufacture from stability during storage and flavour release and perception during consumption. It examines nanoemulsions, nanoliposomes, solid lipid nanoparticles, nanostructured lipid carriers, protein- and polysaccharide-based nanocarriers, and selected hybrid systems, with emphasis on flavour chemistry, carrier–flavour interactions, release mechanisms, food-matrix effects, quantitative performance metrics, and sensory consequences. Nano-enabled packaging and nanosensing are considered only as indirect preservation or monitoring technologies and are explicitly distinguished from direct flavour delivery. The review further evaluates industrial scale-up, cost, technology readiness, safety, migration, regulatory requirements, and sustainability, alongside emerging approaches including AI-assisted formulation, machine learning, digital-twin modelling, microfluidic manufacturing, and precision flavour delivery. Overall, the review identifies when nanoencapsulation provides a meaningful technological advantage over microencapsulation and when conventional microenc…",
       "authors": "Ranbir Chowdhury, Debashree Borthakur",
@@ -218,26 +238,6 @@
       "published": "Nov 2026",
       "feedName": "Frontiers Food Science",
       "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.1982228",
-      "image": "",
-      "screen": "left"
-    },
-    {
-      "title": "Correction: Optimizing rosehip form and concentration in a plant-based appetizer: balancing sensory acceptability with nutrient composition and phenolic bioaccessibility during simulated digestion",
-      "abstract": "",
-      "authors": "Zhanar Nabiyeva, Abdyssemat Samadun, Diana Abdraimova et al.",
-      "published": "Nov 2026",
-      "feedName": "Frontiers Food Science",
-      "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.2047313",
-      "image": "",
-      "screen": "left"
-    },
-    {
-      "title": "Correction: Identifying food-based medicinal indigenous leafy vegetables and evaluating their bioactive compounds in the Ga-Molepo community of Limpopo Province",
-      "abstract": "",
-      "authors": "Mmakoma M. Letsoalo, Semakaleng Mpai, Trust Beta et al.",
-      "published": "Nov 2026",
-      "feedName": "Frontiers Food Science",
-      "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.2050383",
       "image": "",
       "screen": "left"
     },
@@ -362,6 +362,36 @@
       "screen": "left"
     },
     {
+      "title": "White wine drinkers help pinpoint what's missing in no- and low-alcohol drinks",
+      "abstract": "Researchers at The University of Queensland are on a quest to identify key aroma compounds that could make no- and low-alcohol (NOLO) wine more attractive to drinkers.",
+      "authors": "",
+      "published": "Nov 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-11-white-wine-drinkers-alcohol.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/white-wine-drinkers-he.jpg",
+      "screen": "right"
+    },
+    {
+      "title": "New way of detecting date-rape drug use found in Switzerland",
+      "abstract": "Swiss researchers have found a new way of detecting the notorious date-rape drug GHB in urine for up to 72 hours after ingestion, in a possible boon to sexual assault investigations.",
+      "authors": "",
+      "published": "Nov 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-11-date-rape-drug-switzerland.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/bar-1.jpg",
+      "screen": "right"
+    },
+    {
+      "title": "How potentials and electric fields together control reactions on catalyst surfaces",
+      "abstract": "Researchers at the Interface Science Department (ISC) have shown that electrochemical reactions at solid-solution interfaces can be impacted by two closely related, yet, distinct factors. The applied potential can drive a reaction forward. Additionally, electric fields in the extended environment can modulate the ensembles that determine the activation parameters, without necessarily constituting a thermodynamic driving force themselves.",
+      "authors": "",
+      "published": "Nov 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-11-potentials-electric-fields-reactions-catalyst.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/how-potentials-and-ele.jpg",
+      "screen": "right"
+    },
+    {
       "title": "A lingering blue glow and unexpected energy levels hint at new ways to control light in advanced materials",
       "abstract": "Scientists from the Physics Department and Organic Electroactive Materials research group at Durham University have made significant advances in understanding how materials absorb and release light in two recently published research papers in Nature Communications.",
       "authors": "",
@@ -369,36 +399,6 @@
       "feedName": "Phys.org Analytics",
       "url": "https://phys.org/news/2026-11-lingering-blue-unexpected-energy-hint.html",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/durham-scientists-disc.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "The faces of iridium: One metal, many reactions",
-      "abstract": "The same metal can have many faces, and each tells a different chemical story. At the atomic scale, those different faces can push the same reaction along very different paths.",
-      "authors": "",
-      "published": "Nov 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-11-iridium-metal-reactions.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/the-faces-of-iridium-o.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "Finding new life in old chemicals for pharmaceuticals using light-driven chemistry",
-      "abstract": "Drug companies maintain large libraries of chemical compounds that can be screened for potential use in the development of new pharmaceuticals. One class of these compounds, sulfonamides, is used in antibiotics and in drugs to treat type 2 diabetes, hypertension and inflammation. Thousands of these sulfonamides exist in these libraries, but their use beyond their initial purpose is limited because they are difficult to chemically modify.",
-      "authors": "",
-      "published": "Nov 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-11-life-chemicals-pharmaceuticals-driven-chemistry.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/finding-new-life-in-ol.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "Where AI can aid chemistry research and where reliability falls short",
-      "abstract": "Researchers from the Skoltech AI Center, together with colleagues from the Zelinsky Institute of Organic Chemistry of the Russian Academy of Sciences, ITMO University and other institutions, have published a paper in Chemical Society Reviews that examines where AI produces measurable value in a chemical research workflow, how to assess its reliability and why a strong benchmark result does not necessarily translate into laboratory performance.",
-      "authors": "",
-      "published": "Nov 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-11-ai-aid-chemistry-reliability-falls.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/researchers-from-skolt.jpg",
       "screen": "right"
     },
     {
@@ -482,42 +482,42 @@
       "screen": "right"
     },
     {
-      "title": "EAT-Lancet diet, accelerated biological aging, and type 2 diabetes risk: a cohort study from the UK Biobank",
-      "abstract": "BackgroundThe EAT-Lancet planetary health diet emphasizes dietary patterns that may benefit both human health and environmental sustainability. Although adherence to this diet has been associated with lower chronic disease risk, its relationship with incident type 2 diabetes (T2D) and the potential mediating role of biological aging remain unclear.MethodsWe included 155,413 UK Biobank participants without T2D at baseline who had completed at least one 24-h dietary recall and had available biological aging indicators. Adherence to the EAT-Lancet diet was assessed using the Stubbendorff and Knuppel indices. Biological aging was evaluated using Klemera-Doubal method biological age (KDM-BA) and PhenoAge acceleration. Multivariable linear regression, Cox proportional hazards models, restricted cubic splines, interaction analyses, and mediation analyses were performed, respectively.ResultsHigher adherence to both EAT-Lancet diet indices was associated with lower accelerated biological aging and lower T2D risk. In fully adjusted models, participants in the highest quartile of the Knuppel and Stubbendorff indices had lower T2D risk than those in the lowest quartile (HR 0.83, 95% CI: 0.74–0.92; and HR 0.85, 95% CI: 0.78–0.92, respectively). While, accelerated biological aging was statistically associated with higher T2D risk; the highest quartiles of KDM-BA and PhenoAge acceleration showed HRs of 2.36 (95% CI: 2.18–2.56) and 2.84 (95% CI: 2.58–3.11), respectively. Exploratory mediation analyses suggested that KDM-BA and PhenoAge acceleration statistically accounted for approximately…",
-      "authors": "Yanxia Cui, Haijie Gao, Huijia Zhang et al.",
+      "title": "A health economic evaluation of menu calorie labelling in the out-of-home sector in England: a modelling study",
+      "abstract": "BackgroundIn 2022, England mandated calorie labelling for large businesses. While short-term evaluations exist, the long-term cost-effectiveness of this policy remains unknown. This study estimates long-term cost-effectiveness of the out-of-home calorie labelling policy by extrapolating real-world evidence that has estimated the short-term policy effects in England.MethodsThe lifetime health and economic impacts of out-of-home calorie labelling were simulated using a microsimulation model. The analysis adopted a public sector perspective to compare the policy with a counterfactual ‘no intervention’ scenario. The simulation generates a synthetic population for England aged 13–79 years combining data from the National Diet and Nutrition Survey (2009–19) and Health Survey for England (2018, 2019). The policy may impact calories consumed through two mechanisms: consumer behaviour changes and menu changes (reformulation and menu composition). Effect sizes were estimated from real-world evaluations of the policy implemented in England. Changes to daily calorie intake as a consequence of the policy were translated to modified weight trajectories. Simulated outcomes included changes in obesity, diabetes cases and related complications, cardiovascular events, osteoarthritis, cancers, dementia, quality-adjusted life years (QALYs) and National Health Service (NHS) costs. The results of this analysis were estimated from a Probabilistic Sensitivity Analysis (PSA) reported with 95% Uncertainty Intervals (UI) to explicitly account for and describe parameter uncertainty.ResultsThe policy i…",
+      "authors": "Penny Breeze, Katharine Pidd, Alexandra Kalbus et al.",
       "published": "Nov 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1951780",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1943096",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Following the tracks: nutrition transition for Indigenous Peoples in Australia",
-      "abstract": "The nutrition transition, originally described by Popkin in 1993, tracks the shift from traditional to industrialised dietary patterns and is widely used to explain rising non-communicable disease burdens globally. Importantly, the framework situates dietary change within broader social, economic, and environmental systems rather than individual behavioural choices. However, Indigenous, traditional, tribal, and marginalised communities often experience more rapid and severe forms of this transition, resulting in a disproportionate burden of diet-related disease compared to non-Indigenous populations within the same national contexts. This narrative review examines the nutrition transition among Indigenous communities in Australia, arguing that it cannot be understood through conventional models alone but must be situated within the historical and ongoing processes of colonisation. While the global nutrition transition framework attributes dietary change to urbanisation, economic growth, and globalisation, this study demonstrates that in Indigenous Australia the transition has been rapid, imposed, and structurally driven by land dispossession, disruption of traditional food systems, and the erosion of Indigenous knowledge systems. Drawing on international literature, the paper highlights consistent patterns across Indigenous and traditional communities worldwide, where shifts from traditional diets toward ultra-processed foods and market-based diets are closely tied to colonial histories and the prevalence of a double burden of malnutrition and rising non-communicable diseas…",
-      "authors": "Tatiana Marinho, Alana Gall, Danielle Armour et al.",
+      "title": "Erythrocyte alterations in older lacto-ovo-vegetarians with serum vitamin B12 within the laboratory reference interval: a cross-sectional study",
+      "abstract": "IntroductionSerum vitamin B12 is widely used to assess cobalamin status, but concentrations within the laboratory reference interval do not establish adequate tissue status. We examined erythrocyte indices in older long-term lacto-ovo-vegetarians with serum vitamin B12 within the reference interval, without treating these indices as diagnostic evidence of functional vitamin B12 deficiency.MethodsThis exploratory cross-sectional study included 81 adults aged ≥65 years: 28 with serum vitamin B12 < 190 pg/mL (Group A), 29 long-term lacto-ovo-vegetarians with serum vitamin B12 ≥ 190 pg/mL (Group B), and 24 omnivorous participants with serum vitamin B12 ≥ 190 pg/mL (Group C). The primary comparison was Group B versus Group C. Serum vitamin B12, homocysteine (Hcy), folate, ferritin, and complete blood count indices were assessed. Between-group estimates included 95% confidence intervals (CIs), with Holm correction for six primary outcomes; other analyses were exploratory.ResultsCompared with Group C, Group B had lower red blood cell (RBC) count (mean difference, −0.63 × 1012/L; 95% CI, −0.79 to −0.46), hematocrit (−3.63 percentage points; 95% CI, −5.53 to −1.72), and hemoglobin (−14.23 g/L; 95% CI, −18.74 to −9.72), and higher mean corpuscular volume (MCV; +4.04 fL; 95% CI, 1.71 to 6.37) and red cell distribution width-coefficient of variation (RDW-CV; +2.01 percentage points; 95% CI, 1.68 to 2.35); all Holm-adjusted p ≤ 0.0024. The Hcy difference (+1.73 μmol/L; 95% CI, −0.01 to 3.46) did not meet the adjusted significance threshold (p = 0.051). In adjusted analysis, vegetarian s…",
+      "authors": "Huijuan Chen, Dandan Zhao, Yayan Yue et al.",
       "published": "Nov 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1925086",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1999966",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "From tradition to performance and mental health: antidepressant, anti-fatigue, and neuropsychological mechanisms of ashwagandha, ginseng, and caffeine in physical and cognitive optimization",
-      "abstract": "This comprehensive review synthesizes the ergogenic and neuropsychological effects of ashwagandha (Withania somnifera), Panax ginseng, and caffeine, focusing on their integration across peripheral performance and central fatigue frameworks. While the existing literature frequently evaluates these performance enhancing compounds in isolation, this study provides a novel, multi compound comparison that distinguishes it from previous work by simultaneously mapping central nervous system fatigue, neuropsychological mechanisms, and physical outcomes. Rather than assuming uniform positive effects, we critically analyze the inherent heterogeneity in current clinical and preclinical data, highlighting how physiological outcomes are strictly dependent on extract standardization, precise dosage, population characteristics, and environmental context. Specifically, the narrative moves beyond broad metabolic interactions to delineate concrete physiological pathways, including upstream hypothalamic pituitary adrenal axis regulation, central dopaminergic and serotonergic monoamine modulation, adenosine receptor antagonism, and the attenuation of localized neuroinflammatory processes. By stratifying these evidence based findings across distinct target populations, including competitive athletes seeking physical adaptations, occupational working adults managing high cognitive workloads, and clinical cohorts experiencing prolonged exhaustion or anxiety, this review bridges the gap between molecular neurobiology and applied human performance. Ultimately, we establish a rigorous translational …",
-      "authors": "Yilan Wang",
+      "title": "Differential associations of vitamin D metabolites with metabolic dysfunction-associated steatotic liver disease: a cross-sectional study in a northern Chinese population",
+      "abstract": "BackgroundMetabolic dysfunction-associated steatotic liver disease (MASLD) is a common chronic liver disease. Previous studies have primarily focused on total 25-hydroxyvitamin D [25(OH)D], whereas the associations of 25-hydroxyvitamin D₂ [25(OH)D₂] and 25-hydroxyvitamin D₃ [25(OH)D₃] with MASLD remain incompletely understood. This study aimed to evaluate the associations of serum 25(OH)D₂, 25(OH)D₃, and total 25(OH)D concentrations with the prevalence of MASLD.MethodsThis cross-sectional study included 41,074 adults undergoing routine health examinations in northern China from the Dalian Health Management Cohort. Multivariable logistic regression models were used to evaluate the associations of vitamin D metabolites with MASLD. Restricted cubic spline (RCS) analyses and two-piece logistic regression models were used to assess nonlinear associations and estimate exploratory turning points. Prespecified subgroup analyses were conducted to examine the consistency of the associations across population subgroups. Sensitivity analyses evaluated the associations under alternative approaches to data handling and covariate adjustment.ResultsIn the primary adjusted model, each one-standard-deviation increase in total 25(OH)D and 25(OH)D₃ was associated with 11% (OR = 0.889, 95% CI: 0.864–0.915) and 10% (OR = 0.897, 95% CI: 0.871–0.923) lower odds of MASLD, respectively. For 25(OH)D₂, the association was small and not statistically significant in the primary adjusted model (OR = 0.980, 95% CI: 0.953–1.007; p = 0.152), although it reached statistical significance in some other models.…",
+      "authors": "Yan Li, Yangxuan He, Shusheng Fang et al.",
       "published": "Nov 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1777628",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1963322",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Chinese Healthy Eating Index and incident obesity: a prospective cohort study with repeated dietary assessments",
-      "abstract": "BackgroundObesity is a growing public health challenge in China. Evidence remains limited on the association between incident obesity and long-term dietary quality repeatedly measured with the Chinese Healthy Eating Index (CHEI).MethodsWe analyzed longitudinal China Health and Nutrition Survey (CHNS) data collected in Hubei Province. The study included 1,527 adults aged ≥20 years without obesity at baseline who participated in at least two survey waves between 1991 and 2023. At each wave, diet was based on three consecutive 24-h recalls and parallel household food weighing over the same three days. We summarized long-term diet quality using the cumulative mean of available CHEI scores through the event or final follow-up. Cox models provided hazard ratios (HRs) and 95% confidence intervals (CIs) for incident obesity, and restricted cubic splines (RCS) characterized the shape of the association.ResultsAcross 23,193 person-years of observation (median follow-up, 14.0 years), 159 incident obesity cases occurred. A 5-point increase in cumulative average CHEI score corresponded to an adjusted HR of 0.81 (95% CI: 0.68–0.96), representing a 19% lower hazard of incident obesity. The spline curve was L-shaped (P for nonlinearity = 0.029): obesity hazard declined more sharply across the lower CHEI range and changed little at higher scores. In component analyses, per SD increases in the scores for whole grains and mixed beans (HR = 0.69; 95% CI: 0.56–0.85) and dark vegetables (HR = 0.78; 95% CI: 0.65–0.94) were associated with lower hazards of incident obesity. When the components wer…",
-      "authors": "Jingjing Li, Ling Liu, Yingying Ouyang et al.",
+      "title": "Oral Lactobacillus crispatus M247 as add-on prophylaxis for recurrent cystitis in women: a randomized pilot trial",
+      "abstract": "BackgroundRecurrent cystitis is common in women and drives repeated antibiotic exposure. We evaluated whether women supplemented orally with Lactobacillus crispatus M247 alongside Enterococcus faecium L3 plus Bifidobacterium animalis subsp. lactis BB-12 experienced fewer symptomatic cystitis recurrences than those receiving L3 plus BB-12 alone.MethodsIn this prospective, randomized, controlled, open-label, single-center exploratory pilot trial, 84 women with recurrent uncomplicated cystitis were allocated 1:1 to receive L. crispatus M247 for 90 days plus E. faecium L3 and B. animalis subsp. lactis BB-12 during the first 30 days (M247 add-on) or L3 plus BB-12 alone for 30 days. The primary outcome was the cumulative number of symptomatic cystitis recurrences per participant through 12 months after randomization. Recurrence status, patient-reported outcomes, adherence, tolerability, and safety were also assessed.ResultsAll participants completed follow-up. By month 12, 19 recurrences occurred with M247 add-on and 46 with L3 plus BB-12 (0.45 ± 1.09 vs. 1.10 ± 1.56 episodes per participant; 58.7% relative reduction; p = 0.037). Seven of 42 women (16.7%) versus 15 of 42 (35.7%) experienced at least one recurrence, an absolute risk reduction of 19.0 percentage points (95% CI, 0.2–36.3; p = 0.047). At month 3, there were 2 versus 12 cumulative episodes (83.3% relative reduction; p = 0.022) and 2/42 (4.8%) versus 9/42 (21.4%) women with at least one recurrence (absolute risk reduction, 16.7 percentage points; 95% CI, 2.0–31.6; p = 0.024). Exploratory patient-reported findings inclu…",
+      "authors": "Francesco Di Pierro, Monia Marturano, Daniela Caramazza et al.",
       "published": "Nov 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1983457",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1969675",
       "image": "",
       "screen": "right"
     },
@@ -829,7 +829,7 @@
       "venue": "ACS Applied Materials and Interfaces",
       "feedName": "Lab Research",
       "citationCount": 1,
-      "recentCitations": 0,
+      "recentCitations": 1,
       "quartile": "Q1",
       "s2_paper_id": "daeea6fa97917f764c7ad91e09d41dbb9652690e",
       "url": "https://doi.org/10.1021/acsami.6c07915",

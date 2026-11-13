@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T22:00:48Z",
+  "updated": "2026-11-13T02:26:15Z",
   "items": [
     {
       "title": "Food production policies can enhance multi-pollutant control of Chinese rivers",
@@ -282,6 +282,16 @@
       "screen": "left"
     },
     {
+      "title": "Fermented quinoa starch-whey protein conjugate as an effective fat substitute in low-fat yogurt",
+      "abstract": "",
+      "authors": "Wenting Chen, Wenjing Gu, Jinliang Zhang et al.",
+      "published": "Nov 2026",
+      "feedName": "npj Science of Food",
+      "url": "https://www.nature.com/articles/s41538-026-01222-7",
+      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01222-7/MediaObjects/41538_2026_1222_Fig1_HTML.png",
+      "screen": "left"
+    },
+    {
       "title": "Effects of an indigenous Lactiplantibacillus plantarum ST starter on microbial function and metabolic profiling of De’ang pickled tea",
       "abstract": "",
       "authors": "Jinping Zhou, Laifeng Chen, Yini Ma et al.",
@@ -309,16 +319,6 @@
       "feedName": "npj Science of Food",
       "url": "https://www.nature.com/articles/s41538-026-01211-w",
       "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01211-w/MediaObjects/41538_2026_1211_Fig1_HTML.png",
-      "screen": "left"
-    },
-    {
-      "title": "Beyond smell and taste: the role of mouthfeel in flavour perception and its implications for health and food innovation",
-      "abstract": "",
-      "authors": "Julia Benthin, Marina Wiesenfarth, Rita dos Santos Natividade et al.",
-      "published": "Nov 2026",
-      "feedName": "npj Science of Food",
-      "url": "https://www.nature.com/articles/s41538-026-01232-5",
-      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01232-5/MediaObjects/41538_2026_1232_Fig1_HTML.png",
       "screen": "left"
     },
     {
@@ -362,6 +362,26 @@
       "screen": "left"
     },
     {
+      "title": "Using AI to predict how bioplastics behave under heat",
+      "abstract": "A new ANIPH study shows how machine learning models can predict how PHB and PHBV respond to heat, helping manufacturers design formulations that are easier to process.",
+      "authors": "",
+      "published": "Nov 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-11-ai-bioplastics.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/using-ai-to-predict-ho.jpg",
+      "screen": "right"
+    },
+    {
+      "title": "Catalyst regeneration enables durable hydrogen production from ammonia",
+      "abstract": "Researchers at the National University of Singapore (NUS) have developed a catalyst-regeneration strategy that could make hydrogen production from ammonia more efficient and reliable. By tackling a major problem that causes catalysts to lose their effectiveness over time, the team sustained hydrogen production for over 2,000 hours in laboratory tests.",
+      "authors": "",
+      "published": "Nov 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-11-catalyst-regeneration-enables-durable-hydrogen.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/catalyst-regeneration.jpg",
+      "screen": "right"
+    },
+    {
       "title": "Pumpkin seed protein puts a twist on nondairy coffee creamer",
       "abstract": "Pumpkin season is about more than cute décor. The squash contains lots of seeds with a high protein content, but they're usually discarded. Researchers reporting in ACS' Journal of Agricultural and Food Chemistry found another way to use the seeds, extracting that protein to create a plant-based coffee creamer. In initial taste tests, participants preferred the new creamer to a commercial nondairy option because it preserved the flavor and aroma of coffee better.",
       "authors": "",
@@ -379,26 +399,6 @@
       "feedName": "Phys.org Analytics",
       "url": "https://phys.org/news/2026-11-white-wine-drinkers-alcohol.html",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/white-wine-drinkers-he.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "New way of detecting date-rape drug use found in Switzerland",
-      "abstract": "Swiss researchers have found a new way of detecting the notorious date-rape drug GHB in urine for up to 72 hours after ingestion, in a possible boon to sexual assault investigations.",
-      "authors": "",
-      "published": "Nov 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-11-date-rape-drug-switzerland.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/bar-1.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "How potentials and electric fields together control reactions on catalyst surfaces",
-      "abstract": "Researchers at the Interface Science Department (ISC) have shown that electrochemical reactions at solid-solution interfaces can be impacted by two closely related, yet, distinct factors. The applied potential can drive a reaction forward. Additionally, electric fields in the extended environment can modulate the ensembles that determine the activation parameters, without necessarily constituting a thermodynamic driving force themselves.",
-      "authors": "",
-      "published": "Nov 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-11-potentials-electric-fields-reactions-catalyst.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/how-potentials-and-ele.jpg",
       "screen": "right"
     },
     {
@@ -482,22 +482,22 @@
       "screen": "right"
     },
     {
-      "title": "Antibacterial activity and phytochemical constituents of the aerial parts of Allium sativum L.",
-      "abstract": "IntroductionThe bulbs of Allium sativum L. (garlic) are widely used as food or condiment, while they have also been used as a famous traditional medicine since ancient times for the treatment of diarrhea, dysentery, pertussis, tuberculosis and scabies, etc. However, most studies have focused on bulbs, and few studies have focused on the abundant aerial parts, which are usually discarded during the harvest season.MethodsIn this study, Oxford cup and microdilution assays were employed to assess the in vitro antibacterial activity of the aerial parts of A. sativum. The underlying antibacterial mechanism was explored by detecting bacterial biofilm formation, cell wall integrity and intracellular protein leakage. Multiple chromatographic techniques were adopted to isolate and purify chemical components, and the two-fold dilution method was used to screen the antibacterial activity of the obtained compounds.ResultsTo our knowledge, this is the first report investigating the inhibitory effects of the 70% ethanol crude extract from the aerial parts and its fractions (petroleum ether, ethyl acetate, n-butanol, and residual water extracts) against Staphylococcus epidermidis, Staphylococcus aureus, Escherichia coli and Pseudomonas aeruginosa. The results showed that the extracts had different degrees of inhibitory effects on the tested bacteria in vitro, and the ethyl acetate extract had the strongest antibacterial activity. Mechanistic studies suggested that the ethyl acetate extract markedly inhibited biofilm formation of S. epidermidis and S. aureus, increased the permeability of t…",
-      "authors": "Chuan Pu, Haibo Hu, Haitao Liu et al.",
+      "title": "Health, nutrition, and sustainability analysis of commonly consumed grain products in Sweden",
+      "abstract": "InroductionGrain-based products are a key part of human diets globally and generally have lower climate impact, but their nutritional composition and environmental impacts vary widely among products. The health nutritional index (HENI) quantifies the health impact of foods and can be linked to environmental data, enabling combined assessments of nutritional and ecological aspects. The aim of this project was to rank grain-based food categories commonly consumed in Sweden by HENI scores, the nutrient rich foods (NRF) index 11.3, greenhouse gas emissions (GHGEs), and biodiversity loss and to explore how HENI scores correlate with NRF11.3, GHGEs, and biodiversity loss.MethodsHENI and NRF11.3 were calculated for 297 grain-based products using Sweden-specific dietary risk factors and nutrient requirements. Environmental data was obtained from two databases.ResultsThe highest positive median HENI score was found in “breakfast cereals and muesli”, while “rice” had the lowest negative score. The widest range occurred in “buns, soft cakes, pastry and other”. Sodium, whole grains and fibre contributed most to the variation of HENI. Median across all products was 5 min of healthy life/100 g gained for HENI, 42 for NRF11.3, 0.10 kg CO₂Eq/100 g for GHGEs and 4E−14E/MSY/100 g for biodiversity loss. A moderate correlation was found between HENI and NRF11.3, suggesting that health impact and nutrient density often align. Results also reveal trade-offs within the grain product categories, suggesting that analyses at this level may be most appropriate for highlighting where such trade-offs b…",
+      "authors": "Rebecka Stridsberg, Anna Winkvist, Marta Bianchi",
       "published": "Nov 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1990045",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1923397",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Erythrocyte alterations in older lacto-ovo-vegetarians with serum vitamin B12 within the laboratory reference interval: a cross-sectional study",
-      "abstract": "IntroductionSerum vitamin B12 is widely used to assess cobalamin status, but concentrations within the laboratory reference interval do not establish adequate tissue status. We examined erythrocyte indices in older long-term lacto-ovo-vegetarians with serum vitamin B12 within the reference interval, without treating these indices as diagnostic evidence of functional vitamin B12 deficiency.MethodsThis exploratory cross-sectional study included 81 adults aged ≥65 years: 28 with serum vitamin B12 < 190 pg/mL (Group A), 29 long-term lacto-ovo-vegetarians with serum vitamin B12 ≥ 190 pg/mL (Group B), and 24 omnivorous participants with serum vitamin B12 ≥ 190 pg/mL (Group C). The primary comparison was Group B versus Group C. Serum vitamin B12, homocysteine (Hcy), folate, ferritin, and complete blood count indices were assessed. Between-group estimates included 95% confidence intervals (CIs), with Holm correction for six primary outcomes; other analyses were exploratory.ResultsCompared with Group C, Group B had lower red blood cell (RBC) count (mean difference, −0.63 × 1012/L; 95% CI, −0.79 to −0.46), hematocrit (−3.63 percentage points; 95% CI, −5.53 to −1.72), and hemoglobin (−14.23 g/L; 95% CI, −18.74 to −9.72), and higher mean corpuscular volume (MCV; +4.04 fL; 95% CI, 1.71 to 6.37) and red cell distribution width-coefficient of variation (RDW-CV; +2.01 percentage points; 95% CI, 1.68 to 2.35); all Holm-adjusted p ≤ 0.0024. The Hcy difference (+1.73 μmol/L; 95% CI, −0.01 to 3.46) did not meet the adjusted significance threshold (p = 0.051). In adjusted analysis, vegetarian s…",
-      "authors": "Huijuan Chen, Dandan Zhao, Yayan Yue et al.",
+      "title": "Editorial: Immunonutrition: the role of foods, functional ingredients and dietary patterns in immune system modulation",
+      "abstract": "",
+      "authors": "Donato Angelino, Marina Ramal-Sanchez, Margarida Castell et al.",
       "published": "Nov 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1999966",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.2038105",
       "image": "",
       "screen": "right"
     },
@@ -512,23 +512,13 @@
       "screen": "right"
     },
     {
-      "title": "Oral Lactobacillus crispatus M247 as add-on prophylaxis for recurrent cystitis in women: a randomized pilot trial",
-      "abstract": "BackgroundRecurrent cystitis is common in women and drives repeated antibiotic exposure. We evaluated whether women supplemented orally with Lactobacillus crispatus M247 alongside Enterococcus faecium L3 plus Bifidobacterium animalis subsp. lactis BB-12 experienced fewer symptomatic cystitis recurrences than those receiving L3 plus BB-12 alone.MethodsIn this prospective, randomized, controlled, open-label, single-center exploratory pilot trial, 84 women with recurrent uncomplicated cystitis were allocated 1:1 to receive L. crispatus M247 for 90 days plus E. faecium L3 and B. animalis subsp. lactis BB-12 during the first 30 days (M247 add-on) or L3 plus BB-12 alone for 30 days. The primary outcome was the cumulative number of symptomatic cystitis recurrences per participant through 12 months after randomization. Recurrence status, patient-reported outcomes, adherence, tolerability, and safety were also assessed.ResultsAll participants completed follow-up. By month 12, 19 recurrences occurred with M247 add-on and 46 with L3 plus BB-12 (0.45 ± 1.09 vs. 1.10 ± 1.56 episodes per participant; 58.7% relative reduction; p = 0.037). Seven of 42 women (16.7%) versus 15 of 42 (35.7%) experienced at least one recurrence, an absolute risk reduction of 19.0 percentage points (95% CI, 0.2–36.3; p = 0.047). At month 3, there were 2 versus 12 cumulative episodes (83.3% relative reduction; p = 0.022) and 2/42 (4.8%) versus 9/42 (21.4%) women with at least one recurrence (absolute risk reduction, 16.7 percentage points; 95% CI, 2.0–31.6; p = 0.024). Exploratory patient-reported findings inclu…",
-      "authors": "Francesco Di Pierro, Monia Marturano, Daniela Caramazza et al.",
+      "title": "Global research landscape and emerging trends in nutritional strategies for childhood iron-deficiency anemia: a bibliometric analysis (2006–2026)",
+      "abstract": "ObjectiveIron-deficiency anemia is a global public health problem that primarily affects children and impacts their development. However, quantitative analysis of nutritional strategies for the prevention and control of childhood iron-deficiency anemia using bibliometric methods still has limitations.MethodsThis study analyzed the relevant literature published between 2006 and 2026 in the Web of Science (WoS), Scopus, and PubMed databases, and bibliometric mapping was performed using RStudio software (Bibliometrix package) and VOSviewer.ResultsA total of 1,588 valid articles were identified. The highest volume of scientific output was recorded between 2021 and 2025. The United States accounted for the largest number of publications, followed by India and Canada, revealing limited international collaboration with countries where iron-deficiency anemia is highly prevalent. Nutrients is the leading journal in this field in terms of volume and number of citations, and the primary publishing institution is the University of Toronto, with Zimmermann M. being the most prolific author. The analysis allowed the research to be grouped into three categories: first, community interventions and mass fortification; second, epidemiological consolidation and clinical diagnosis; and third, molecular mechanisms and biomarkers.ConclusionThis study identifies established and emerging research priorities in nutritional strategies for childhood iron deficiency anemia. Iron supplementation and food fortification remain relevant, alongside growing interest in individualized approaches. These emerg…",
+      "authors": "Nicodemo Crescencio Jamanca-Gonzales, Tarcila Hermelinda Cruz-Sánchez, Herminda Consuelo Chambergo-Valverde et al.",
       "published": "Nov 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1969675",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1962443",
       "image": "",
-      "screen": "right"
-    },
-    {
-      "title": "Maternal fish or n-3 polyunsaturated fatty acid intake during pregnancy and risk of impaired kidney function at 6 years of age: the Japan environment and children’s study",
-      "abstract": "Purpose Chronic kidney disease in children causes kidney failure and growth impairment, making its prevention an urgent clinical and public health priority. Experimental animal studies have suggested that maternal intake of n-3 polyunsaturated fatty acids (PUFAs) during pregnancy may have kidney-protective effects in offspring; however, evidence in humans remains limited. Therefore, this study aimed to investigate the association between maternal fish or n-3 PUFA intake during pregnancy and kidney dysfunction in children. Methods We analyzed data from the Japan Environment and Children’s Study, a nationwide prospective birth cohort. A total of 2,679 mother–child pairs were included. Kidney dysfunction was defined as an estimated glomerular filtration rate < 90 mL/min/1.73 m² at 6 years of age. Maternal fish or n-3 PUFA intake during pregnancy was categorized into quintiles. Multivariable logistic regression models were used to estimate the associations. Results At 6 years of age, 262 children (9.8%) had decreased kidney function. In the adjusted model, maternal fish intake in the highest quintile was associated with a significantly lower risk of kidney dysfunction compared with the lowest quintile (odds ratio, 0.63; 95% confidence interval, 0.41–0.99). Maternal n-3 PUFA intake showed a similar trend, although the association was not statistically significant. Conclusion Higher maternal fish intake during pregnancy was associated with a reduced risk of kidney dysfunction in offspring, whereas maternal n-3 PUFA intake showed no significant association. These findings suggest …",
-      "authors": "",
-      "published": "Nov 2026",
-      "feedName": "Eur. J. Nutrition",
-      "url": "https://link.springer.com/article/10.1007/s00394-026-04165-7",
-      "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1007%2Fs00394-026-04165-7/MediaObjects/394_2026_4165_Fig1_HTML.png",
       "screen": "right"
     },
     {
@@ -539,6 +529,16 @@
       "feedName": "Eur. J. Nutrition",
       "url": "https://link.springer.com/article/10.1007/s00394-026-04159-5",
       "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1007%2Fs00394-026-04159-5/MediaObjects/394_2026_4159_Fig1_HTML.png",
+      "screen": "right"
+    },
+    {
+      "title": "Maternal fish or n-3 polyunsaturated fatty acid intake during pregnancy and risk of impaired kidney function at 6 years of age: the Japan environment and children’s study",
+      "abstract": "Purpose Chronic kidney disease in children causes kidney failure and growth impairment, making its prevention an urgent clinical and public health priority. Experimental animal studies have suggested that maternal intake of n-3 polyunsaturated fatty acids (PUFAs) during pregnancy may have kidney-protective effects in offspring; however, evidence in humans remains limited. Therefore, this study aimed to investigate the association between maternal fish or n-3 PUFA intake during pregnancy and kidney dysfunction in children. Methods We analyzed data from the Japan Environment and Children’s Study, a nationwide prospective birth cohort. A total of 2,679 mother–child pairs were included. Kidney dysfunction was defined as an estimated glomerular filtration rate < 90 mL/min/1.73 m² at 6 years of age. Maternal fish or n-3 PUFA intake during pregnancy was categorized into quintiles. Multivariable logistic regression models were used to estimate the associations. Results At 6 years of age, 262 children (9.8%) had decreased kidney function. In the adjusted model, maternal fish intake in the highest quintile was associated with a significantly lower risk of kidney dysfunction compared with the lowest quintile (odds ratio, 0.63; 95% confidence interval, 0.41–0.99). Maternal n-3 PUFA intake showed a similar trend, although the association was not statistically significant. Conclusion Higher maternal fish intake during pregnancy was associated with a reduced risk of kidney dysfunction in offspring, whereas maternal n-3 PUFA intake showed no significant association. These findings suggest …",
+      "authors": "",
+      "published": "Nov 2026",
+      "feedName": "Eur. J. Nutrition",
+      "url": "https://link.springer.com/article/10.1007/s00394-026-04165-7",
+      "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1007%2Fs00394-026-04165-7/MediaObjects/394_2026_4165_Fig1_HTML.png",
       "screen": "right"
     },
     {
@@ -829,7 +829,7 @@
       "venue": "ACS Applied Materials and Interfaces",
       "feedName": "Lab Research",
       "citationCount": 1,
-      "recentCitations": 1,
+      "recentCitations": 0,
       "quartile": "Q1",
       "s2_paper_id": "daeea6fa97917f764c7ad91e09d41dbb9652690e",
       "url": "https://doi.org/10.1021/acsami.6c07915",
@@ -849,7 +849,7 @@
       "venue": "Journal of the American Chemical Society",
       "feedName": "Lab Research",
       "citationCount": 26,
-      "recentCitations": 1,
+      "recentCitations": 0,
       "quartile": "Q1",
       "s2_paper_id": "e8f95caa1e8ece0c16f246b34ead0788c6d4b146",
       "url": "https://doi.org/10.1021/jacs.4c00625",
@@ -1090,7 +1090,7 @@
       "feedName": "Lab Research",
       "citationCount": 2,
       "recentCitations": 0,
-      "quartile": "Q2",
+      "quartile": null,
       "s2_paper_id": "0677d7c4aa05cca3560eabfba60499a227c5d799",
       "url": "https://doi.org/10.54386/jam.v25i2.2103",
       "image": "",

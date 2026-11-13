@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T02:26:15Z",
+  "updated": "2026-11-13T11:48:22Z",
   "items": [
     {
       "title": "Food production policies can enhance multi-pollutant control of Chinese rivers",
@@ -82,6 +82,16 @@
       "screen": "left"
     },
     {
+      "title": "Does flupyradifurone dissipation really mean lower risk? The difluoroacetic acid blind spot from field to food",
+      "abstract": "",
+      "authors": "Changjian Li, Xinping Yu",
+      "published": "Jan 2027",
+      "feedName": "Trends in Food Sci & Tech",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426007016?dgcid=rss_sd_all",
+      "image": "",
+      "screen": "left"
+    },
+    {
       "title": "Odor-induced sweetness enhancement and extraoral chemosensory receptors in sugar-reduced foods: mechanisms, evidence, and research priorities",
       "abstract": "",
       "authors": "Qinguo Quan, Ping Wang, Kun Zhao et al.",
@@ -108,16 +118,6 @@
       "published": "Jan 2027",
       "feedName": "Trends in Food Sci & Tech",
       "url": "https://www.sciencedirect.com/science/article/pii/S0924224426006953?dgcid=rss_sd_all",
-      "image": "",
-      "screen": "left"
-    },
-    {
-      "title": "Chocolate as a delivery matrix for cocoa polyphenols: Processing, matrix structure and gastrointestinal fate",
-      "abstract": "",
-      "authors": "Nevzat Konar, Atefeh Karimidastjerd, Ceren Elmacı et al.",
-      "published": "Jan 2027",
-      "feedName": "Trends in Food Sci & Tech",
-      "url": "https://www.sciencedirect.com/science/article/pii/S092422442600693X?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -242,6 +242,16 @@
       "screen": "left"
     },
     {
+      "title": "Integrated metabolomics and machine learning reveal temporal remodeling of flavor and bioactivity in sea buckthorn pomace during solid-state fermentation with Eurotium cristatum",
+      "abstract": "",
+      "authors": "Yike Han, Meng Li, Wenzhi Lei et al.",
+      "published": "Apr 2027",
+      "feedName": "Food Microbiology",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0740002026003242?dgcid=rss_sd_all",
+      "image": "",
+      "screen": "left"
+    },
+    {
       "title": "Tea-derived osmotolerant yeast Papiliotrema flavescens bioaugmentation reshapes flavor metabolism across tea fermentation and storage",
       "abstract": "",
       "authors": "Bingsong Ma, Shuya Han, Yuan Cao et al.",
@@ -272,13 +282,23 @@
       "screen": "left"
     },
     {
-      "title": "Assigning the hydrogen sulfide pathway in tea polyphenol sensitization of Staphylococcus aureus",
+      "title": "Deep learning-based discovery of an antimicrobial peptide from Tenebrio molitor active against Gram-positive and Gram-negative bacteria",
       "abstract": "",
-      "authors": "Liping Wu, Xian Wei",
-      "published": "Apr 2027",
-      "feedName": "Food Microbiology",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0740002026003187?dgcid=rss_sd_all",
-      "image": "",
+      "authors": "Mingfeng Xu, Xinhui Zhou, Fei Pan et al.",
+      "published": "Nov 2026",
+      "feedName": "npj Science of Food",
+      "url": "https://www.nature.com/articles/s41538-026-01214-7",
+      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01214-7/MediaObjects/41538_2026_1214_Fig1_HTML.png",
+      "screen": "left"
+    },
+    {
+      "title": "Sustainable valorization of pineapple leaf waste into biocompatible activated carbon for biomedical and food applications",
+      "abstract": "",
+      "authors": "Yu-Wei Chen, Chih-Yao Hou, Asif Ali Bhat et al.",
+      "published": "Nov 2026",
+      "feedName": "npj Science of Food",
+      "url": "https://www.nature.com/articles/s41538-026-01215-6",
+      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01215-6/MediaObjects/41538_2026_1215_Fig1_HTML.png",
       "screen": "left"
     },
     {
@@ -299,26 +319,6 @@
       "feedName": "npj Science of Food",
       "url": "https://www.nature.com/articles/s41538-026-01212-9",
       "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01212-9/MediaObjects/41538_2026_1212_Fig1_HTML.png",
-      "screen": "left"
-    },
-    {
-      "title": "First application of an integrated microbiological and (meta)genomics approach to verify the biological origin and microbial safety of rennet products",
-      "abstract": "",
-      "authors": "Yari Van Laere, Marie-Alice Fraiture, Andrea Gobbo et al.",
-      "published": "Nov 2026",
-      "feedName": "npj Science of Food",
-      "url": "https://www.nature.com/articles/s41538-026-01192-w",
-      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01192-w/MediaObjects/41538_2026_1192_Fig1_HTML.png",
-      "screen": "left"
-    },
-    {
-      "title": "Gelatin assisted RPA-CRISPR/Cas12a tandem assay for rapid detection of Listeria monocytogenes",
-      "abstract": "",
-      "authors": "Wenyu Du, Shucong Wu, Mengyan Wu et al.",
-      "published": "Nov 2026",
-      "feedName": "npj Science of Food",
-      "url": "https://www.nature.com/articles/s41538-026-01211-w",
-      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01211-w/MediaObjects/41538_2026_1211_Fig1_HTML.png",
       "screen": "left"
     },
     {
@@ -482,42 +482,42 @@
       "screen": "right"
     },
     {
-      "title": "Health, nutrition, and sustainability analysis of commonly consumed grain products in Sweden",
-      "abstract": "InroductionGrain-based products are a key part of human diets globally and generally have lower climate impact, but their nutritional composition and environmental impacts vary widely among products. The health nutritional index (HENI) quantifies the health impact of foods and can be linked to environmental data, enabling combined assessments of nutritional and ecological aspects. The aim of this project was to rank grain-based food categories commonly consumed in Sweden by HENI scores, the nutrient rich foods (NRF) index 11.3, greenhouse gas emissions (GHGEs), and biodiversity loss and to explore how HENI scores correlate with NRF11.3, GHGEs, and biodiversity loss.MethodsHENI and NRF11.3 were calculated for 297 grain-based products using Sweden-specific dietary risk factors and nutrient requirements. Environmental data was obtained from two databases.ResultsThe highest positive median HENI score was found in “breakfast cereals and muesli”, while “rice” had the lowest negative score. The widest range occurred in “buns, soft cakes, pastry and other”. Sodium, whole grains and fibre contributed most to the variation of HENI. Median across all products was 5 min of healthy life/100 g gained for HENI, 42 for NRF11.3, 0.10 kg CO₂Eq/100 g for GHGEs and 4E−14E/MSY/100 g for biodiversity loss. A moderate correlation was found between HENI and NRF11.3, suggesting that health impact and nutrient density often align. Results also reveal trade-offs within the grain product categories, suggesting that analyses at this level may be most appropriate for highlighting where such trade-offs b…",
-      "authors": "Rebecka Stridsberg, Anna Winkvist, Marta Bianchi",
+      "title": "Comparative effects of different EPA/DHA supplementation regimens on nutritional and inflammatory outcomes in patients with lung cancer: an exploratory systematic review and network meta-analysis",
+      "abstract": "BackgroundLung cancer is often accompanied by malnutrition and systemic inflammation. The effects of ω-3 (n-3) polyunsaturated fatty acids (PUFAs) regimens with different doses and EPA/DHA compositions remain uncertain.ObjectiveThis network meta-analysis (NMA) aims to compare the nutritional and inflammatory outcomes of different n-3 PUFA supplementation regimens in patients with lung cancer.MethodsThis systematic review followed the PRISMA guidance. We searched eight databases, including PubMed, Embase, Cochrane Library, Web of Science, CNKI, CBM, Wanfang, and VIP, with the search cut-off date set as November 5, 2025, and a supplementary search was carried out on March 25, 2026. Supplementation regimens were classified according to total daily n-3 PUFA dose and eicosapentaenoic acid (EPA)/docosahexaenoic acid (DHA) composition. The primary outcomes were change from baseline in body weight and post-intervention mid-upper arm circumference (MUAC). Secondary outcomes were post-intervention TNF-α, IL-6, and C-reactive protein (CRP) levels. All-cause attrition was analyzed separately from adverse events. Primary network meta-analyses were restricted to randomized controlled trials (RCTs), while non-randomized comparative studies were retained as supplementary evidence. Random-effects models were used, and certainty of evidence was assessed using the GRADE approach.ResultsTwelve reports from 11 independent studies involving 728 participants were included (seven RCTs and four non-randomized comparative studies). Six RCTs contributed to the analysis of body-weight change; no regim…",
+      "authors": "Xuan Hu, Chang Lu, Chen Tian et al.",
       "published": "Nov 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1923397",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1892656",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Editorial: Immunonutrition: the role of foods, functional ingredients and dietary patterns in immune system modulation",
-      "abstract": "",
-      "authors": "Donato Angelino, Marina Ramal-Sanchez, Margarida Castell et al.",
+      "title": "Threshold robustness of bioimpedance-derived adiposity classification across BMI categories in Chinese adults: a cross-sectional study",
+      "abstract": "BackgroundBody mass index (BMI) and bioelectrical impedance analysis (BIA)-derived adiposity indicators are frequently combined in clinical nutrition assessment. However, clinical classification based on device-generated thresholds may vary depending on the definition applied. This study evaluated the threshold robustness of BMI-BIA adiposity classification.MethodsThis secondary cross-sectional analysis included 93 adults with baseline body-composition measurements recorded during 2024. Participants were described using Chinese BMI categories (normal weight, overweight, and obesity), and threshold-robustness analyses were conducted in BMI < 24 kg/m2 and BMI ≥ 24 kg/m2 strata. Percent body fat (PBF) and visceral fat area (VFA) classifications based on device-reported thresholds were compared with alternative thresholds. A three-state framework distinguished stable non-elevated, threshold-contingent elevated, and threshold-robust elevated classifications.ResultsThreshold sensitivity differed between adiposity indicators. Under the specific threshold pairs evaluated, PBF showed greater threshold-dependent reclassification than VFA. Among participants with BMI < 24 kg/m2, elevated PBF decreased from 25.9% under device-report thresholds to 3.7% under the alternative threshold, corresponding to 22.2 percentage points of threshold-contingent classification. Among participants with BMI ≥ 24 kg/m2, elevated PBF decreased from 100 to 60.6%, resulting in 39.4% threshold-contingent classification. VFA classification was more stable under the evaluated threshold pair, with reclassificat…",
+      "authors": "Yuemei Bian, Junsong Xu, Ran Meng et al.",
       "published": "Nov 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.2038105",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1974336",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Artificial intelligence in the treatment of eating disorders in teenagers: a novel approach to outpatient care",
-      "abstract": "Background:Eating disorders are serious psychiatric conditions that disproportionately affect adolescents. Although multidisciplinary approaches incorporating psychotherapy, nutritional guidance, and family involvement are recommended, outpatient treatment presents challenges in monitoring nutritional intake across school, social, and home environments. Artificial intelligence (AI) may extend individualized support beyond traditional clinical encounters.Case presentationThis report presents a case study of an adolescent girl with anorexia nervosa receiving outpatient psychotherapy, nutritional counseling, and family involvement. An AI-assisted intervention using ChatGPT was implemented through a shared platform involving the patient, parent, and registered dietitian. The dietitian established individualized nutritional parameters and provided instructions regarding appropriate recommendations and language. The AI provided real-time meal and snack guidance using food-neutral language while avoiding discussion of calories, macronutrients, measurements, or quantities. The dietitian maintained oversight of the platform and monitored recommendations created alongside a licensed psychologist.DiscussionThe AI-assisted approach demonstrated potential feasibility as an adjunct to multidisciplinary outpatient eating disorder treatment. The intervention provided individualized, real-time guidance while reducing reliance on calorie counting and food measurement, which contributes to eating-disorder behaviors and cognitive rumination. The shared-access model allowed the dietitian to mon…",
-      "authors": "Krista Tabuenca, Danielle Mein",
+      "title": "Natural ternary deep eutectic solvent-based green extraction of flavonoids from Trollius chinensis flowers: process optimization, mechanistic insights and in vitro activities",
+      "abstract": "Trollius chinensis flowers are acclaimed as “Longjing Tea from Beyond the Great Wall” and always imperial tribute. Flavonoids are one of the main active ingredients in T. chinensis flowers. Trollius chinensis flowers are acclaimed as “Longjing Tea from Beyond the Great Wall” and always imperial tribute. Flavonoids are one of the main active ingredients in T. chinensis flowers. This study aimed to explore natural ternary deep eutectic solvents-ultrasound assisted extraction (NATDES-UAE) for total flavonoids from T. chinensis flowers. L-proline-acetamide-levulinic acid (Pro-AM-LA, 1:3:1) was selected as the optimal NATDES, and artificial neural network (ANN) was employed to optimize extraction parameters. Ultra-high performance liquid chromatography quadrupole time-of-flight tandem mass spectrometry (UPLC-Q-TOF-MS/MS) was used to characterize flavonoid compositions. Scanning electron microscopy (SEM), Fourier-transform infrared (FT-IR) spectroscopy, density functional theory calculations and molecular dynamics simulations were performed to clarify the extraction mechanism. Recyclability, greenness metrics (AGREE, AGREEprep, BAGI), and in vitro bioactivities of extracts were also assessed. Under ANN optimized conditions (55 °C extraction temperature, 58 min extraction time, 17 mg/mL solidtoliquid ratio, 38 % water content), the rutin equivalent total flavonoid yield reached 14.312 mg RE/g DW, and 16 flavonoid compounds including orientin and vitexin were identified. SEM results demonstrated that Pro-AM-LA-UAE disrupted the surface structure of flower materials. Hydrogen bondin…",
+      "authors": "Lu Dong, Yafen Wang, Jianying Pang et al.",
       "published": "Nov 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1968459",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1973275",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Global research landscape and emerging trends in nutritional strategies for childhood iron-deficiency anemia: a bibliometric analysis (2006–2026)",
-      "abstract": "ObjectiveIron-deficiency anemia is a global public health problem that primarily affects children and impacts their development. However, quantitative analysis of nutritional strategies for the prevention and control of childhood iron-deficiency anemia using bibliometric methods still has limitations.MethodsThis study analyzed the relevant literature published between 2006 and 2026 in the Web of Science (WoS), Scopus, and PubMed databases, and bibliometric mapping was performed using RStudio software (Bibliometrix package) and VOSviewer.ResultsA total of 1,588 valid articles were identified. The highest volume of scientific output was recorded between 2021 and 2025. The United States accounted for the largest number of publications, followed by India and Canada, revealing limited international collaboration with countries where iron-deficiency anemia is highly prevalent. Nutrients is the leading journal in this field in terms of volume and number of citations, and the primary publishing institution is the University of Toronto, with Zimmermann M. being the most prolific author. The analysis allowed the research to be grouped into three categories: first, community interventions and mass fortification; second, epidemiological consolidation and clinical diagnosis; and third, molecular mechanisms and biomarkers.ConclusionThis study identifies established and emerging research priorities in nutritional strategies for childhood iron deficiency anemia. Iron supplementation and food fortification remain relevant, alongside growing interest in individualized approaches. These emerg…",
-      "authors": "Nicodemo Crescencio Jamanca-Gonzales, Tarcila Hermelinda Cruz-Sánchez, Herminda Consuelo Chambergo-Valverde et al.",
+      "title": "Ethyl caffeate restores BNIP3L-dependent mitophagy and mitochondrial function to ameliorate influenza A virus-induced lung injury",
+      "abstract": "Influenza A virus (IAV) infection induces severe lung injury characterized by excessive inflammation and mitochondrial dysfunction, in which impaired mitochondrial clearance plays a crucial role. Ethyl caffeate (EC), a bioactive phenolic compound of dietary origin, exhibits potent anti-inflammatory and antioxidant properties. However, its protective role against IAV-triggered lung damage and mitochondrial quality control dysfunction remains poorly defined. In this study, PR8-induced IAV infection models was established in mice and cells to evaluate the protective effects of EC. EC treatment improved survival outcomes, markedly alleviated lung injury in a manner independent of direct viral inhibition, reduced pro-inflammatory cytokine expression, and improved mitochondrial function. Mechanistically, EC rescued the impaired autophagy flux induced by IAV infection, as evidenced by reduced p62 accumulation and enhanced mitochondrial clearance, and this effect required intact lysosomal degradation activity. Proteomic analysis further identified BNIP3L as a key regulator, and genetic knockdown of BNIP3L largely abolished EC-mediated protective phenotypes. EC significantly upregulated BNIP3L expression to promote mitochondrial clearance and maintain mitochondrial homeostasis. Metabolomic analysis showed that EC markedly reshaped host metabolic profiles associated with mitochondrial function in lung, with trigonelline identified as a key metabolite upon EC intervention. Functional experiments demonstrated that trigonelline recapitulated EC-like protective effects by facilitating au…",
+      "authors": "Zhichun Huang, Lara Lopes, Jiaming Long et al.",
       "published": "Nov 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1962443",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.2001655",
       "image": "",
       "screen": "right"
     },
@@ -1090,7 +1090,7 @@
       "feedName": "Lab Research",
       "citationCount": 2,
       "recentCitations": 0,
-      "quartile": null,
+      "quartile": "Q2",
       "s2_paper_id": "0677d7c4aa05cca3560eabfba60499a227c5d799",
       "url": "https://doi.org/10.54386/jam.v25i2.2103",
       "image": "",

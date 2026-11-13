@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T11:48:22Z",
+  "updated": "2026-11-13T19:01:39Z",
   "items": [
     {
       "title": "Food production policies can enhance multi-pollutant control of Chinese rivers",
@@ -362,6 +362,26 @@
       "screen": "left"
     },
     {
+      "title": "Combining five metals in one oxide improves ethanol gas sensing",
+      "abstract": "A technology that significantly improves ethanol gas sensing performance by combining five different metal elements in a single oxide has been developed.",
+      "authors": "",
+      "published": "Nov 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-11-combining-metals-oxide-ethanol-gas.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/five-metal-oxide-senso.jpg",
+      "screen": "right"
+    },
+    {
+      "title": "Rh₃ clusters balance activity and butene selectivity in butane dehydrogenation",
+      "abstract": "Scientists from the Institute of Metal Research (IMR) of the Chinese Academy of Sciences, in collaboration with researchers from Peking University and Chongqing University, have demonstrated how the geometry and electronic properties of subnanometer rhodium (Rh) active sites shape C–H activation, product desorption and C–C bond cleavage during butane dehydrogenation.",
+      "authors": "",
+      "published": "Nov 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-11-rh-clusters-butene-butane-dehydrogenation.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/rh-clusters-balance-ac.jpg",
+      "screen": "right"
+    },
+    {
       "title": "Using AI to predict how bioplastics behave under heat",
       "abstract": "A new ANIPH study shows how machine learning models can predict how PHB and PHBV respond to heat, helping manufacturers design formulations that are easier to process.",
       "authors": "",
@@ -379,26 +399,6 @@
       "feedName": "Phys.org Analytics",
       "url": "https://phys.org/news/2026-11-catalyst-regeneration-enables-durable-hydrogen.html",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/catalyst-regeneration.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "Pumpkin seed protein puts a twist on nondairy coffee creamer",
-      "abstract": "Pumpkin season is about more than cute décor. The squash contains lots of seeds with a high protein content, but they're usually discarded. Researchers reporting in ACS' Journal of Agricultural and Food Chemistry found another way to use the seeds, extracting that protein to create a plant-based coffee creamer. In initial taste tests, participants preferred the new creamer to a commercial nondairy option because it preserved the flavor and aroma of coffee better.",
-      "authors": "",
-      "published": "Nov 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-11-pumpkin-seed-protein-nondairy-coffee.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/pumpkin-seed-protein-p.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "White wine drinkers help pinpoint what's missing in no- and low-alcohol drinks",
-      "abstract": "Researchers at The University of Queensland are on a quest to identify key aroma compounds that could make no- and low-alcohol (NOLO) wine more attractive to drinkers.",
-      "authors": "",
-      "published": "Nov 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-11-white-wine-drinkers-alcohol.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/white-wine-drinkers-he.jpg",
       "screen": "right"
     },
     {
@@ -452,6 +452,16 @@
       "screen": "right"
     },
     {
+      "title": "Animal vs. plant protein reveals a surprising testosterone divide",
+      "abstract": "A surprising new study suggests that where men get their protein may be linked to their testosterone levels. Researchers studying more than 2,500 men found that higher animal protein intake, particularly from dairy, was associated with lower testosterone, while plant protein was linked to higher levels. The findings raise intriguing questions about how everyday food choices might relate to male hormone levels.",
+      "authors": "",
+      "published": "Nov 2026",
+      "feedName": "ScienceDaily Nutrition",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261111005845.htm",
+      "image": "https://www.sciencedaily.com/images/1920/weak-vs-strong-man-arm-wrestling.webp",
+      "screen": "right"
+    },
+    {
       "title": "Energy drinks linked to 11 times more reports of cardiac arrest",
       "abstract": "A new study found that energy drinks and stimulant supplements were linked to disproportionately frequent reports of serious heart problems, including 11 times more reports of cardiac arrest and 4.5 times more reports of heart attacks. Young adults accounted for nearly half of the cardiovascular reports involving these products, raising concerns about their potential risks despite the study being unable to prove causation.",
       "authors": "",
@@ -472,52 +482,42 @@
       "screen": "right"
     },
     {
-      "title": "Obesity linked to up to 27% lower risk of death in dementia",
-      "abstract": "A surprising study of more than 4,500 older adults found that people who were overweight or obese when diagnosed with dementia had a 16% to 27% lower risk of death than those at a normal weight. Researchers suspect that extra energy and muscle reserves may help patients survive the disease's toll on the body, although the reason for the survival advantage remains unclear.",
-      "authors": "",
-      "published": "Nov 2026",
-      "feedName": "ScienceDaily Nutrition",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261109205401.htm",
-      "image": "https://www.sciencedaily.com/images/1920/senior-overweight-man-in-chair.webp",
-      "screen": "right"
-    },
-    {
-      "title": "Comparative effects of different EPA/DHA supplementation regimens on nutritional and inflammatory outcomes in patients with lung cancer: an exploratory systematic review and network meta-analysis",
-      "abstract": "BackgroundLung cancer is often accompanied by malnutrition and systemic inflammation. The effects of ω-3 (n-3) polyunsaturated fatty acids (PUFAs) regimens with different doses and EPA/DHA compositions remain uncertain.ObjectiveThis network meta-analysis (NMA) aims to compare the nutritional and inflammatory outcomes of different n-3 PUFA supplementation regimens in patients with lung cancer.MethodsThis systematic review followed the PRISMA guidance. We searched eight databases, including PubMed, Embase, Cochrane Library, Web of Science, CNKI, CBM, Wanfang, and VIP, with the search cut-off date set as November 5, 2025, and a supplementary search was carried out on March 25, 2026. Supplementation regimens were classified according to total daily n-3 PUFA dose and eicosapentaenoic acid (EPA)/docosahexaenoic acid (DHA) composition. The primary outcomes were change from baseline in body weight and post-intervention mid-upper arm circumference (MUAC). Secondary outcomes were post-intervention TNF-α, IL-6, and C-reactive protein (CRP) levels. All-cause attrition was analyzed separately from adverse events. Primary network meta-analyses were restricted to randomized controlled trials (RCTs), while non-randomized comparative studies were retained as supplementary evidence. Random-effects models were used, and certainty of evidence was assessed using the GRADE approach.ResultsTwelve reports from 11 independent studies involving 728 participants were included (seven RCTs and four non-randomized comparative studies). Six RCTs contributed to the analysis of body-weight change; no regim…",
-      "authors": "Xuan Hu, Chang Lu, Chen Tian et al.",
-      "published": "Nov 2026",
-      "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1892656",
-      "image": "",
-      "screen": "right"
-    },
-    {
-      "title": "Threshold robustness of bioimpedance-derived adiposity classification across BMI categories in Chinese adults: a cross-sectional study",
-      "abstract": "BackgroundBody mass index (BMI) and bioelectrical impedance analysis (BIA)-derived adiposity indicators are frequently combined in clinical nutrition assessment. However, clinical classification based on device-generated thresholds may vary depending on the definition applied. This study evaluated the threshold robustness of BMI-BIA adiposity classification.MethodsThis secondary cross-sectional analysis included 93 adults with baseline body-composition measurements recorded during 2024. Participants were described using Chinese BMI categories (normal weight, overweight, and obesity), and threshold-robustness analyses were conducted in BMI < 24 kg/m2 and BMI ≥ 24 kg/m2 strata. Percent body fat (PBF) and visceral fat area (VFA) classifications based on device-reported thresholds were compared with alternative thresholds. A three-state framework distinguished stable non-elevated, threshold-contingent elevated, and threshold-robust elevated classifications.ResultsThreshold sensitivity differed between adiposity indicators. Under the specific threshold pairs evaluated, PBF showed greater threshold-dependent reclassification than VFA. Among participants with BMI < 24 kg/m2, elevated PBF decreased from 25.9% under device-report thresholds to 3.7% under the alternative threshold, corresponding to 22.2 percentage points of threshold-contingent classification. Among participants with BMI ≥ 24 kg/m2, elevated PBF decreased from 100 to 60.6%, resulting in 39.4% threshold-contingent classification. VFA classification was more stable under the evaluated threshold pair, with reclassificat…",
-      "authors": "Yuemei Bian, Junsong Xu, Ran Meng et al.",
-      "published": "Nov 2026",
-      "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1974336",
-      "image": "",
-      "screen": "right"
-    },
-    {
-      "title": "Natural ternary deep eutectic solvent-based green extraction of flavonoids from Trollius chinensis flowers: process optimization, mechanistic insights and in vitro activities",
-      "abstract": "Trollius chinensis flowers are acclaimed as “Longjing Tea from Beyond the Great Wall” and always imperial tribute. Flavonoids are one of the main active ingredients in T. chinensis flowers. Trollius chinensis flowers are acclaimed as “Longjing Tea from Beyond the Great Wall” and always imperial tribute. Flavonoids are one of the main active ingredients in T. chinensis flowers. This study aimed to explore natural ternary deep eutectic solvents-ultrasound assisted extraction (NATDES-UAE) for total flavonoids from T. chinensis flowers. L-proline-acetamide-levulinic acid (Pro-AM-LA, 1:3:1) was selected as the optimal NATDES, and artificial neural network (ANN) was employed to optimize extraction parameters. Ultra-high performance liquid chromatography quadrupole time-of-flight tandem mass spectrometry (UPLC-Q-TOF-MS/MS) was used to characterize flavonoid compositions. Scanning electron microscopy (SEM), Fourier-transform infrared (FT-IR) spectroscopy, density functional theory calculations and molecular dynamics simulations were performed to clarify the extraction mechanism. Recyclability, greenness metrics (AGREE, AGREEprep, BAGI), and in vitro bioactivities of extracts were also assessed. Under ANN optimized conditions (55 °C extraction temperature, 58 min extraction time, 17 mg/mL solidtoliquid ratio, 38 % water content), the rutin equivalent total flavonoid yield reached 14.312 mg RE/g DW, and 16 flavonoid compounds including orientin and vitexin were identified. SEM results demonstrated that Pro-AM-LA-UAE disrupted the surface structure of flower materials. Hydrogen bondin…",
-      "authors": "Lu Dong, Yafen Wang, Jianying Pang et al.",
-      "published": "Nov 2026",
-      "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1973275",
-      "image": "",
-      "screen": "right"
-    },
-    {
       "title": "Ethyl caffeate restores BNIP3L-dependent mitophagy and mitochondrial function to ameliorate influenza A virus-induced lung injury",
       "abstract": "Influenza A virus (IAV) infection induces severe lung injury characterized by excessive inflammation and mitochondrial dysfunction, in which impaired mitochondrial clearance plays a crucial role. Ethyl caffeate (EC), a bioactive phenolic compound of dietary origin, exhibits potent anti-inflammatory and antioxidant properties. However, its protective role against IAV-triggered lung damage and mitochondrial quality control dysfunction remains poorly defined. In this study, PR8-induced IAV infection models was established in mice and cells to evaluate the protective effects of EC. EC treatment improved survival outcomes, markedly alleviated lung injury in a manner independent of direct viral inhibition, reduced pro-inflammatory cytokine expression, and improved mitochondrial function. Mechanistically, EC rescued the impaired autophagy flux induced by IAV infection, as evidenced by reduced p62 accumulation and enhanced mitochondrial clearance, and this effect required intact lysosomal degradation activity. Proteomic analysis further identified BNIP3L as a key regulator, and genetic knockdown of BNIP3L largely abolished EC-mediated protective phenotypes. EC significantly upregulated BNIP3L expression to promote mitochondrial clearance and maintain mitochondrial homeostasis. Metabolomic analysis showed that EC markedly reshaped host metabolic profiles associated with mitochondrial function in lung, with trigonelline identified as a key metabolite upon EC intervention. Functional experiments demonstrated that trigonelline recapitulated EC-like protective effects by facilitating au…",
       "authors": "Zhichun Huang, Lara Lopes, Jiaming Long et al.",
       "published": "Nov 2026",
       "feedName": "Frontiers Nutrition",
       "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.2001655",
+      "image": "",
+      "screen": "right"
+    },
+    {
+      "title": "A national survey of supplemental parenteral nutrition practices in adult intensive care units",
+      "abstract": "BackgroundSupplemental parenteral nutrition (SPN) is recommended in critically ill patients when energy and protein targets cannot be adequately achieved through oral or enteral nutrition (EN). However, its use in routine intensive care unit (ICU) practice remains variable, and the extent to which guideline-based recommendations are translated into bedside practice is poorly characterized. This study aimed to describe current SPN practices in adult ICUs and to explore potential gaps between self-perceived knowledge, availability of local protocols, and reported clinical implementation.MethodsWe conducted a national, cross-sectional electronic survey among healthcare professionals involved in medical nutrition therapy for critically ill adults in Spain. A 23-item questionnaire assessed respondent and ICU characteristics, availability of SPN-specific protocols, self-perceived knowledge, prescription patterns, criteria for initiation, estimation of energy requirements, monitoring, documentation, and willingness to participate in SPN-related training or research.ResultsA total of 179 professionals completed the survey. Although 88.8% reported being familiar with SPN and its indications, only 41.9% reported having a local protocol specifically addressing SPN, and 49.7% considered themselves up to date regarding SPN practices. SPN was mainly prescribed to meet energy–protein requirements and prevent malnutrition, with EN intolerance identified as the leading trigger for initiation (80.4%). Only 39.1% reported initiating SPN according to guideline-based timing criteria. The presen…",
+      "authors": "Esther Portugal-Rodriguez, Jara Gallardo-Anciano, Mariola Cerezo-Arias et al.",
+      "published": "Nov 2026",
+      "feedName": "Frontiers Nutrition",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1947991",
+      "image": "",
+      "screen": "right"
+    },
+    {
+      "title": "Metabolic and nutritional profiles according to glycemic status in obese Tunisian adults: a cross-sectional study",
+      "abstract": "BackgroundObesity and type 2 diabetes have reached epidemic proportions in Tunisia, yet metabolic and nutritional profiles across the glycemic spectrum remain poorly characterized among obese individuals.ObjectiveTo compare anthropometric, metabolic, and dietary characteristics of obese Tunisian adults according to glycemic status.MethodsIn this cross-sectional study, 210 obese adults (BMI ≥ 30 kg/m2) drawn from a survey based on stratified random sampling in Zaghouan, Tunisia, were classified as normoglycemic (n = 34), prediabetic (n = 90), or diabetic (n = 86) according to ADA criteria. Dietary intake was assessed in 154 participants with a single 24-h recall, and food consumption frequencies with a food frequency questionnaire. Micronutrient intakes were analyzed in absolute terms and after energy adjustment (density and residual methods), using non-parametric tests with false discovery rate (FDR) correction. Sensitivity analyses included adjustment for age.ResultsDiabetic participants were older and more often illiterate than normoglycemic participants. BMI, systolic blood pressure, and triglycerides differed across groups independently of age, whereas differences in diastolic blood pressure and C-reactive protein were largely explained by age. Macronutrient distribution and food consumption frequencies did not differ after FDR correction. Absolute micronutrient intakes tended to be higher in normoglycemic participants, but none of these differences survived correction for multiple testing. After energy adjustment, riboflavin, vitamin B5, magnesium, phosphorus, and iron…",
+      "authors": "Donia Jerab, Nadia Kheriji, Haïfa Jmel et al.",
+      "published": "Nov 2026",
+      "feedName": "Frontiers Nutrition",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1931088",
+      "image": "",
+      "screen": "right"
+    },
+    {
+      "title": "Research progress on immunosensing and aptasensing of ochratoxin A",
+      "abstract": "Ochratoxin A (OTA) is a highly toxic mycotoxin that is widely present in agricultural products and foods. It has carcinogenic, teratogenic, and mutagenic properties, posing a serious threat to food safety and human health. Therefore, it is crucial to establish the trace detection method for OTA. Traditional detection methods, such as high-performance liquid chromatography-mass spectrometry, are difficult to meet the requirements of actual supervision and on-site screening. Biosensors, with their advantages of simple operation, rapid response, high sensitivity, and miniaturization, have become an important research direction in the field of OTA detection. This article systematically reviews the research progress of OTA biosensors based on different biological recognition elements, including antibody-based immunosensors and aptamer-based aptasensor. The core principles and application effects of different types of biosensors were also analyzed, and the future development trend of further optimization was prospected, providing a reference for the subsequent research and development and practical application of OTA biosensors.",
+      "authors": "Chao Lin, Renxiong Yao, Yue Li et al.",
+      "published": "Nov 2026",
+      "feedName": "Frontiers Nutrition",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1950981",
       "image": "",
       "screen": "right"
     },

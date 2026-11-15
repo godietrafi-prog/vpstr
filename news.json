@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15T16:45:47Z",
+  "updated": "2026-11-15T22:20:05Z",
   "items": [
     {
       "title": "Food production policies can enhance multi-pollutant control of Chinese rivers",
@@ -102,22 +102,22 @@
       "screen": "left"
     },
     {
+      "title": "Persistent biofilms in the food industry: Mechanistic insights, emerging interventions, and smart processing frontiers",
+      "abstract": "",
+      "authors": "Muftau Adeniyi Moshood, Anderson S. Sant’Ana",
+      "published": "Jan 2027",
+      "feedName": "Trends in Food Sci & Tech",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426007028?dgcid=rss_sd_all",
+      "image": "",
+      "screen": "left"
+    },
+    {
       "title": "Next-generation hyperspectral sensing for seafood quality and safety: From biochemical mechanisms to intelligent industrial applications",
       "abstract": "",
       "authors": "Zhen Guo, Linhui Feng, Wendong Li et al.",
       "published": "Jan 2027",
       "feedName": "Trends in Food Sci & Tech",
       "url": "https://www.sciencedirect.com/science/article/pii/S0924224426006916?dgcid=rss_sd_all",
-      "image": "",
-      "screen": "left"
-    },
-    {
-      "title": "Odor-induced sweetness enhancement and extraoral chemosensory receptors in sugar-reduced foods: mechanisms, evidence, and research priorities",
-      "abstract": "",
-      "authors": "Qinguo Quan, Ping Wang, Kun Zhao et al.",
-      "published": "Jan 2027",
-      "feedName": "Trends in Food Sci & Tech",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426006965?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -769,7 +769,7 @@
       "venue": "Toxins",
       "feedName": "Lab Research",
       "citationCount": 21,
-      "recentCitations": 0,
+      "recentCitations": 2,
       "quartile": null,
       "s2_paper_id": "e6a6854e55ee8f5a8ace3025ba0d32e33a650343",
       "url": "https://doi.org/10.3390/toxins16030163",

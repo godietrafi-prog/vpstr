@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15T08:40:27Z",
+  "updated": "2026-11-15T16:45:47Z",
   "items": [
     {
       "title": "Food production policies can enhance multi-pollutant control of Chinese rivers",
@@ -42,42 +42,42 @@
       "screen": "left"
     },
     {
-      "title": "Peptidomic profiling of cold-seep mussel Gigantidas haimaensis hydrolysate identifies novel anticoagulant oligopeptide through AI-aided virtual screening and molecular dynamics simulation",
+      "title": "Bacillus shackletonii SHQ-GD shapes the characteristic aroma of Zhejiang rosy vinegar by driving aldehyde biosynthesis via key alcohol dehydrogenases",
       "abstract": "",
-      "authors": "Yuhong Ouyang, Yueyang Leng, Hao Chen et al.",
+      "authors": "Bin Dong, Yumeng Zhang, Zehui Li et al.",
       "published": "Dec 2026",
       "feedName": "Food Chemistry",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626042676?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626041816?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
     {
-      "title": "Off-flavor formation via non-enzymatic lipid autoxidation in cold-stored potato mash and its inhibition by polyphenols",
+      "title": "Engineering split activators for controlled-background CRISPR/Cas12a molecular logic biosensing of AFB1 and OTA",
       "abstract": "",
-      "authors": "Yan Hu, Mengyi Lin, Daotong Li et al.",
+      "authors": "Fang Guo, Fengfeng Xu, Wenjiao Zhou",
       "published": "Dec 2026",
       "feedName": "Food Chemistry",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626040768?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626042391?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
     {
-      "title": "Co-MOF@CNF composite films for dual-functional intelligent packaging with ammonia-responsive colorimetric sensing and active shrimp freshness preservation",
+      "title": "Chitosan and sodium alginate-coated liposomes as a novel delivery system for secoisolariciresinol diglucoside: preparation, characterization, stability, and in vitro digestion",
       "abstract": "",
-      "authors": "Mengmeng Guo, Jing Yu, Jing Li et al.",
+      "authors": "Wendi Liu, Zhanglian Chen, Yi Zhao et al.",
       "published": "Dec 2026",
       "feedName": "Food Chemistry",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626038860?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626042731?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
     {
-      "title": "Pre-harvest putrescine application modulates berry composition in wine grapes under drought stress: Regulating sugar-acid balance, phenolic profiles, and volatile compounds",
+      "title": "Reducing chlorogenic acid enhances sunflower protein fibrillization for egg white replacement in angel cake",
       "abstract": "",
-      "authors": "Hao Chen, Jiaqi Zhao, Lei Lai et al.",
+      "authors": "Kefan Ouyang, Saiya Li, Shuangjian Li et al.",
       "published": "Dec 2026",
       "feedName": "Food Chemistry",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626040057?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626043037?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -442,6 +442,36 @@
       "screen": "right"
     },
     {
+      "title": "Vitamin C could help block cancer-linked chemicals in your stomach, study finds",
+      "abstract": "Scientists have discovered that vitamin C may help prevent potentially cancer-causing chemicals from forming in the stomach after eating foods containing nitrates and nitrites. A new mathematical model suggests that taking vitamin C after meals could reduce these harmful reactions, offering a possible new strategy for lowering cancer risk.",
+      "authors": "",
+      "published": "Nov 2026",
+      "feedName": "ScienceDaily Nutrition",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261114202236.htm",
+      "image": "https://www.sciencedaily.com/images/1920/vitamin-c-supplement-capsules.webp",
+      "screen": "right"
+    },
+    {
+      "title": "A common osteoporosis drug blocked spinal damage in a surprising new study",
+      "abstract": "Scientists have uncovered a surprising genetic connection to spinal degeneration and found that an existing osteoporosis drug can prevent damaging mineral buildup in zebrafish spines. The discovery could pave the way for new treatments that slow or prevent a major cause of chronic back pain.",
+      "authors": "",
+      "published": "Nov 2026",
+      "feedName": "ScienceDaily Nutrition",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261113232105.htm",
+      "image": "https://www.sciencedaily.com/images/1920/radiograph-x-ray-back-bone-spinal-pain.webp",
+      "screen": "right"
+    },
+    {
+      "title": "A simple supplement could help your immune system fight cancer and viral infections",
+      "abstract": "A surprising discovery from Rockefeller University suggests that a common amino acid could play a powerful role in protecting against cancer and viral infections. Scientists found that low arginine levels interfere with the immune system's ability to recognize dangerous cells, while increasing arginine intake reduced colon cancer tumors and improved viral infection outcomes in mice. Even more remarkably, giving mice arginine after they contracted influenza helped them recover.",
+      "authors": "",
+      "published": "Nov 2026",
+      "feedName": "ScienceDaily Nutrition",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261113232000.htm",
+      "image": "https://www.sciencedaily.com/images/1920/man-holding-supplement-capsule.webp",
+      "screen": "right"
+    },
+    {
       "title": "Yale scientists reveal what really slows aging and what doesn't",
       "abstract": "Yale researchers have discovered that certain prescription drugs, healthy diets, and exercise can measurably slow biological aging, while popular anti-aging supplements appear largely ineffective. Their analysis of 51 studies could transform how scientists evaluate anti-aging treatments, although whether these biological changes actually extend life remains uncertain.",
       "authors": "",
@@ -449,36 +479,6 @@
       "feedName": "ScienceDaily Nutrition",
       "url": "https://www.sciencedaily.com/releases/2026/11/261112230452.htm",
       "image": "https://www.sciencedaily.com/images/1920/anti-aging-beauty-skincare.webp",
-      "screen": "right"
-    },
-    {
-      "title": "A new fiber supplement could help millions suffering from irritable bowel syndrome",
-      "abstract": "Scientists have developed a promising new fiber supplement that improves gut health in people with irritable bowel syndrome (IBS) without worsening bloating, pain, or other digestive symptoms. The specially designed blend also improved gut-related anxiety and produced surprisingly rapid changes in gut bacteria, potentially offering a new way to manage IBS.",
-      "authors": "",
-      "published": "Nov 2026",
-      "feedName": "ScienceDaily Nutrition",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261112230450.htm",
-      "image": "https://www.sciencedaily.com/images/1920/woman-holding-stomach-digestive-heart-health.webp",
-      "screen": "right"
-    },
-    {
-      "title": "Scientists discover a common sugar may help cancer cells break free and spread",
-      "abstract": "Scientists have uncovered a surprising way that fructose, a sugar commonly found in sweetened foods and drinks, may help aggressive ovarian cancer spread. Researchers discovered that cancer cells surviving chemotherapy release fructose that weakens the bonds holding neighboring tumor cells together, making it easier for cancer to spread. High dietary fructose levels and cholesterol-lowering statins also produced concerning effects in preclinical experiments.",
-      "authors": "",
-      "published": "Nov 2026",
-      "feedName": "ScienceDaily Nutrition",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261111221501.htm",
-      "image": "https://www.sciencedaily.com/images/1920/cancer-cell-infecting-healthy-tissue.webp",
-      "screen": "right"
-    },
-    {
-      "title": "Animal vs. plant protein reveals a surprising testosterone divide",
-      "abstract": "A surprising new study suggests that where men get their protein may be linked to their testosterone levels. Researchers studying more than 2,500 men found that higher animal protein intake, particularly from dairy, was associated with lower testosterone, while plant protein was linked to higher levels. The findings raise intriguing questions about how everyday food choices might relate to male hormone levels.",
-      "authors": "",
-      "published": "Nov 2026",
-      "feedName": "ScienceDaily Nutrition",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261111005845.htm",
-      "image": "https://www.sciencedaily.com/images/1920/weak-vs-strong-man-arm-wrestling.webp",
       "screen": "right"
     },
     {
@@ -769,7 +769,7 @@
       "venue": "Toxins",
       "feedName": "Lab Research",
       "citationCount": 21,
-      "recentCitations": 2,
+      "recentCitations": 0,
       "quartile": null,
       "s2_paper_id": "e6a6854e55ee8f5a8ace3025ba0d32e33a650343",
       "url": "https://doi.org/10.3390/toxins16030163",

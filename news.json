@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16T12:21:01Z",
+  "updated": "2026-11-16T23:08:16Z",
   "items": [
     {
       "title": "Food production policies can enhance multi-pollutant control of Chinese rivers",
@@ -102,22 +102,22 @@
       "screen": "left"
     },
     {
-      "title": "Persistent biofilms in the food industry: Mechanistic insights, emerging interventions, and smart processing frontiers",
+      "title": "Essential oils in food preservation: Integrating antimicrobial efficacy with evolutionary and microbiome selectivity considerations",
       "abstract": "",
-      "authors": "Muftau Adeniyi Moshood, Anderson S. Sant’Ana",
+      "authors": "Joana Julia dos Santos Moraes, Eliza de Jesus Barros dos Santos, Ravendra Kumar et al.",
       "published": "Jan 2027",
       "feedName": "Trends in Food Sci & Tech",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426007028?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426007089?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
     {
-      "title": "Next-generation hyperspectral sensing for seafood quality and safety: From biochemical mechanisms to intelligent industrial applications",
+      "title": "From structural biopolymers to bioactive compounds: Watermelon by-products as integrated resources for food packaging",
       "abstract": "",
-      "authors": "Zhen Guo, Linhui Feng, Wendong Li et al.",
+      "authors": "Anna Paula Azevedo de Carvalho, Carlos Adam Conte Junior",
       "published": "Jan 2027",
       "feedName": "Trends in Food Sci & Tech",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426006916?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426007077?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -292,6 +292,16 @@
       "screen": "left"
     },
     {
+      "title": "Food science-driven atopic dermatitis management: from current evidence to emerging food technologies and functional food innovation",
+      "abstract": "",
+      "authors": "Jing Xue, Feijia Xu, Ying Chen et al.",
+      "published": "Nov 2026",
+      "feedName": "npj Science of Food",
+      "url": "https://www.nature.com/articles/s41538-026-01216-5",
+      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01216-5/MediaObjects/41538_2026_1216_Fig1_HTML.png",
+      "screen": "left"
+    },
+    {
       "title": "Ethanol concentration impacts cannabinoid and flavor extraction in hemp-infused beer",
       "abstract": "",
       "authors": "Kai Kawachika, Devin Stapleton, Shea Keene et al.",
@@ -309,16 +319,6 @@
       "feedName": "npj Science of Food",
       "url": "https://www.nature.com/articles/s41538-026-01180-0",
       "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01180-0/MediaObjects/41538_2026_1180_Fig1_HTML.png",
-      "screen": "left"
-    },
-    {
-      "title": "Deep learning-based discovery of an antimicrobial peptide from Tenebrio molitor active against Gram-positive and Gram-negative bacteria",
-      "abstract": "",
-      "authors": "Mingfeng Xu, Xinhui Zhou, Fei Pan et al.",
-      "published": "Nov 2026",
-      "feedName": "npj Science of Food",
-      "url": "https://www.nature.com/articles/s41538-026-01214-7",
-      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01214-7/MediaObjects/41538_2026_1214_Fig1_HTML.png",
       "screen": "left"
     },
     {
@@ -362,6 +362,16 @@
       "screen": "left"
     },
     {
+      "title": "AI and experiments reveal impurities hindering waste plastic pyrolysis oil recycling",
+      "abstract": "A Korean research team has identified how impurities interfere with the use of waste plastic pyrolysis oil as a petrochemical feedstock through catalytic experiments and artificial intelligence (AI)-based computational chemistry. The findings, published in the journal ACS Catalysis, provide a scientific basis for predicting potential declines in catalytic performance according to the types and concentrations of impurities present.",
+      "authors": "",
+      "published": "Nov 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-11-ai-reveal-impurities-hindering-plastic.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/ai-and-experiments-rev-2.jpg",
+      "screen": "right"
+    },
+    {
       "title": "A perfect couple: Chromium keeps ruthenium grounded in water electrolysis",
       "abstract": "They say opposites attract, and many couples do fit this pattern. One is pragmatic and down-to-earth, while the other is a dreamer with their head in the clouds. Yet, these differences make them perfect for each other. According to researchers at ICFO, chemical interactions between atoms are not that different. Ruthenium, for instance, belongs to the \"dreamer\" class. It is commonly used in single-atom catalysts that speed up water electrolysis, which splits water to obtain green hydrogen. However, on its own, ruthenium tends to over-oxidize and dissolve during operation, like an idealist who takes flight without looking back.",
       "authors": "",
@@ -389,16 +399,6 @@
       "feedName": "Phys.org Analytics",
       "url": "https://phys.org/news/2026-11-combining-metals-oxide-ethanol-gas.html",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/five-metal-oxide-senso.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "Rh₃ clusters balance activity and butene selectivity in butane dehydrogenation",
-      "abstract": "Scientists from the Institute of Metal Research (IMR) of the Chinese Academy of Sciences, in collaboration with researchers from Peking University and Chongqing University, have demonstrated how the geometry and electronic properties of subnanometer rhodium (Rh) active sites shape C–H activation, product desorption and C–C bond cleavage during butane dehydrogenation.",
-      "authors": "",
-      "published": "Nov 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-11-rh-clusters-butene-butane-dehydrogenation.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/rh-clusters-balance-ac.jpg",
       "screen": "right"
     },
     {
@@ -442,6 +442,16 @@
       "screen": "right"
     },
     {
+      "title": "Vitamin B12 may hold the key to treating a rare genetic disorder",
+      "abstract": "Scientists discovered that vitamin B12 largely reversed developmental abnormalities in worms carrying a genetic mutation linked to Verheij syndrome, a rare disorder that causes growth problems and developmental delays. Similar metabolic changes were identified in human patients, raising the possibility that this common vitamin could inspire new treatments for rare genetic diseases.",
+      "authors": "",
+      "published": "Nov 2026",
+      "feedName": "ScienceDaily Nutrition",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261115085552.htm",
+      "image": "https://www.sciencedaily.com/images/1920/vitamin-b12-chemical-formula.webp",
+      "screen": "right"
+    },
+    {
       "title": "Vitamin C could help block cancer-linked chemicals in your stomach, study finds",
       "abstract": "Scientists have discovered that vitamin C may help prevent potentially cancer-causing chemicals from forming in the stomach after eating foods containing nitrates and nitrites. A new mathematical model suggests that taking vitamin C after meals could reduce these harmful reactions, offering a possible new strategy for lowering cancer risk.",
       "authors": "",
@@ -472,32 +482,32 @@
       "screen": "right"
     },
     {
-      "title": "Yale scientists reveal what really slows aging and what doesn't",
-      "abstract": "Yale researchers have discovered that certain prescription drugs, healthy diets, and exercise can measurably slow biological aging, while popular anti-aging supplements appear largely ineffective. Their analysis of 51 studies could transform how scientists evaluate anti-aging treatments, although whether these biological changes actually extend life remains uncertain.",
-      "authors": "",
-      "published": "Nov 2026",
-      "feedName": "ScienceDaily Nutrition",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261112230452.htm",
-      "image": "https://www.sciencedaily.com/images/1920/anti-aging-beauty-skincare.webp",
-      "screen": "right"
-    },
-    {
-      "title": "Isolation, purification, and preliminary structural characterization of black ginseng polysaccharides and investigation of their anti-enteritis mechanisms in a zebrafish model",
-      "abstract": "BackgroundBlack ginseng has been widely recognized for its medicinal properties, but the structural characteristics and anti-enteritis mechanisms of its polysaccharides remain underexplored. This study aimed to isolate and characterize black ginseng polysaccharides and evaluate their protective effects against DSS-induced enteritis in a zebrafish model.MethodsBlack ginseng was used as the raw material to prepare crude polysaccharides via water extraction and ethanol precipitation. After further removal of proteins and starch, three polysaccharide fractions—BGP-I, BGP-II, and BGP-III—were isolated through DEAE-52 cellulose column chromatography and dialysis. Their physicochemical properties and preliminary structural features were systematically characterized. The anti-inflammatory activity and mechanisms were evaluated using a DSS-induced enteritis model in zebrafish.ResultsThe results showed that BGP-I is a glucose-dominant neutral heteropolysaccharide, whereas BGP-II and BGP-III are acidic polysaccharide–protein complexes rich in glucose and arabinose. None of the three components exhibited a triple-helix structure, and their molecular weights were approximately 6.57 × 104, 7.30 × 104, and 5.63 × 104 Da, respectively. Methylation analysis revealed that their main chains are primarily linked via (→4)-Glcp-(1→ and (→4)-Galp-(1→) bonds. Regarding anti-enteritis activity, all three components alleviated DSS-induced intestinal inflammation in zebrafish, with BGP-I exhibiting the highest activity. Transcriptomic studies indicated that the Toll-like receptor signaling pathway is…",
-      "authors": "Xin Liu, Huijia Zhang, Yulong Yang et al.",
+      "title": "Association of the C-reactive protein-to-prognostic nutritional index ratio with 28-day mortality in enterally fed critically ill patients with ischemic stroke: a retrospective study with internal validation",
+      "abstract": "BackgroundEnterally fed critically ill patients with ischemic stroke are vulnerable to systemic inflammation and physiological depletion.ObjectiveTo examine the association of pre-enteral-nutrition, first-recorded C-reactive protein-to-Prognostic Nutritional Index ratio (CRP/PNI) with fixed 28-day all-cause mortality, its comparison with CRP and CRP-to-albumin ratio (CAR), and incremental internal discrimination beyond five clinical variables.MethodsWe retrospectively analyzed 374 unique ICU patients receiving enteral nutrition (January 2024–December 2025), including 53 deaths. Biomarker components were recorded before initial enteral nutrition, but their admission-to-sampling intervals were unavailable. Adjusted logistic regression and repeated stratified fivefold cross-validation (five repeats) were used. Primary predictions were generated by models fitted only to training folds, then averaged across five held-out repetitions.ResultsEach doubling of CRP/PNI was associated with mortality after adjustment for age, sex, APACHE II, NIHSS and NRS-2002 (odds ratio 3.00, 95% confidence interval 2.18–4.15). In the separately reconstructed fixed-seed internal analysis, CRP/PNI-only AUROC was 0.875, similar to CRP (0.875) and CAR (0.872). Adding CRP/PNI to the prespecified clinical benchmark increased AUROC from 0.609 to 0.872 (paired ΔAUROC 0.263, 95% bootstrap CI 0.187–0.345), but this increment was relative to a weak baseline model, and clinical utility was not examined. Complex models conferred no consistent discrimination advantage.ConclusionPre-enteral-nutrition CRP/PNI is as…",
+      "authors": "Dan Jin, Min Liu, Zhaohui Zhang et al.",
       "published": "Nov 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.2009383",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1955726",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Protein-source foods and male semen quality, sperm function, and fertility outcomes: a systematic review",
-      "abstract": "BackgroundAssociations between protein-source foods and male reproductive health may vary by food source, processing, and comparison. Changes in semen quality may not translate into conception or live birth. We evaluated these associations and the certainty of the evidence.MethodsWe searched eight Chinese and English databases and trial registries, with supplementary checks through 10 September 2026. Two reviewers independently screened records, and a second reviewer checked extracted data. Reports from the same parent cohort or trial were grouped into study families. We used design-specific risk-of-bias tools and GRADE. High-versus-low intake comparisons, observational substitution models, and food-addition interventions were synthesized separately using structured narrative synthesis without quantitative pooling.Results35 reports represented 30 study families; 22 assessed conventional semen parameters, and 6 reported at least one natural or assisted reproductive outcome. Higher processed meat intake was associated with some less favorable semen or sperm-function measures across different study families, but unprocessed meat did not show the same pattern. Two full-report randomized trials in generally healthy reproductive-age men added 75 g/day of walnuts for 12 weeks or 60 g/day of mixed nuts for 14 weeks to the habitual diet. Both reported improvements in selected semen parameters, such as vitality, motility, and normal morphology, without consistent changes in concentration. In a single EARTH observational model, replacing two weekly servings of processed red meat with …",
-      "authors": "Wentai Zhu, Yuliang Zhou, Peng Wang et al.",
+      "title": "Association of single-pool Kt/V with sarcopenia in patients receiving maintenance hemodialysis",
+      "abstract": "Background:Sarcopenia is common among patients receiving maintenance hemodialysis, but the relationship between dialysis adequacy and sarcopenia remains uncertain. Because single-pool Kt/V (spKt/V) is influenced by both delivered dialysis dose and body size, its association with muscle loss may be complex.MethodsWe conducted a single-center retrospective cross-sectional study of 436 adults receiving maintenance hemodialysis. Sarcopenia was defined according to the Asian Working Group for Sarcopenia 2019 criteria. spKt/V was analyzed continuously and according to clinically relevant categories (≥1.4, 1.2–1.4, and < 1.2). Multivariable logistic regression was used to evaluate the association between spKt/V and sarcopenia. Restricted cubic splines were used to assess nonlinearity, and prespecified subgroup analyses evaluated potential effect modification.ResultsAmong 436 patients, 141 (32.3%) had sarcopenia. Median spKt/V was lower in patients with sarcopenia than in those without sarcopenia (1.06 [0.87–1.26] vs. 1.41 [1.26–1.51]; P < 0.001). After adjustment for age, sex, hypertension, diabetes, and dialysis vintage, each 0.1-unit lower spKt/V was associated with higher odds of sarcopenia (OR, 2.25; 95% CI, 1.87–2.71). Compared with patients with spKt/V ≥1.2, those with spKt/V < 1.2 had substantially higher odds of sarcopenia (OR, 18.42; 95% CI, 9.31–36.46). Sarcopenia prevalence increased across descending spKt/V categories (9.6% for ≥1.4, 21.7% for 1.2– < 1.4, and 64.9% for < 1.2; adjusted P for trend < 0.001 from an ordinal-category model). Restricted cubic spline analysis…",
+      "authors": "Yan Du, Hao Wu, Xueyan Yang",
       "published": "Nov 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1995686",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1990247",
+      "image": "",
+      "screen": "right"
+    },
+    {
+      "title": "Preoperative low geriatric nutritional risk index and the risk of early postoperative intensive care unit admission after orthopedic surgery: a retrospective cohort study with external validation",
+      "abstract": "BackgroundMalnutrition, as reflected by a low Geriatric Nutritional Risk Index (GNRI), has been associated with poor outcomes after surgery; however, its relationship with early postoperative intensive care unit (ICU) admission in patients undergoing orthopedic surgery remains unclear.MethodsThis retrospective study included two independent cohorts: a derivation cohort of 4,030 operations in 3,699 orthopedic surgery patients from the INSPIRE database and an external validation cohort of 493 patients. GNRI was calculated as 1.489 × serum albumin (g/L) + 41.7 × (actual body weight/ideal body weight), and categorized into major ( < 82), moderate (82–92), low (92–98), and no (>98) nutritional risk. Logistic regression with progressive adjustment, restricted cubic splines, threshold (segmented) regression, subgroup and sensitivity analyses (propensity-score matching, inverse-probability and overlap weighting, restriction to patients aged ≥65 years, exclusion of intraoperative covariates, and cluster-robust standard errors), incremental predictive value [hierarchical models, C-statistic, net reclassification improvement (NRI), integrated discrimination improvement (IDI)], and external validation of the prespecified prediction model were used. The primary outcome was early postoperative ICU admission.ResultsThe incidence of ICU admission increased stepwise across decreasing GNRI categories in the derivation cohort (8.8%, 18.3%, 22.9%, and 29.1% for GNRI >98, 92–98, 82–92, and < 82, respectively; p < 0.001). After full adjustment, each 1-unit decrease in GNRI was associated with a …",
+      "authors": "Zhiyuan Zhang, Yafei Guo, Zhiwei Bi et al.",
+      "published": "Nov 2026",
+      "feedName": "Frontiers Nutrition",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.2001784",
       "image": "",
       "screen": "right"
     },
@@ -508,16 +518,6 @@
       "published": "Nov 2026",
       "feedName": "Frontiers Nutrition",
       "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1998894",
-      "image": "",
-      "screen": "right"
-    },
-    {
-      "title": "Awareness and self-reported influence of front-of-package warning labels six years after their implementation in Uruguay",
-      "abstract": "BackgroundFront-of-package (FOP) nutritional warning labels have been implemented in several Latin American countries to promote healthier food choices. This study assessed awareness, self-reported influence, and perceived changes over time in the influence of warning labels among Uruguayan adults approximately 6 years after their implementation.MethodsA cross-sectional telephone survey was conducted in March 2026 among 1,000 adults living in Uruguay. Participants were asked about their prompted awareness of warning labels, whether the warnings had influenced their food purchasing decisions, and whether this influence had changed since they were first introduced. Regression models were used to examine associations between self-reported influence of warning labels and sociodemographic characteristics and diet-related health conditions, as well as associations between self-reported influence of warning labels and consumption frequency of different foods and beverages.ResultsOverall, 90.4% of participants reported having seen warning labels on packaged foods and beverages. Among those aware of the warnings (n = 904), 70.1% reported that they had influenced their purchasing decisions. The most frequently reported effect was reducing the quantity or frequency of purchases of certain products (46.3%), followed by discontinuing the purchase of some foods and beverages (23.8%). Only 11.7% of participants who answered the question on the effect of warnings reported that they had become less influential over time, whereas 51.5% reported that their influence had increased and 36.2% pe…",
-      "authors": "Gastón Ares, Florencia Alcaire, Lucía Antúnez et al.",
-      "published": "Nov 2026",
-      "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1941092",
       "image": "",
       "screen": "right"
     },

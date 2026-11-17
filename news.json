@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16T23:08:16Z",
+  "updated": "2026-11-17T05:50:25Z",
   "items": [
     {
       "title": "Food production policies can enhance multi-pollutant control of Chinese rivers",
@@ -202,6 +202,16 @@
       "screen": "left"
     },
     {
+      "title": "Edible oil microencapsulation for food fortification: technologies, encapsulating systems, and functional applications",
+      "abstract": "Food fortification with edible oils improves diet quality, but presents limitations of oxidative instability, off-flavors, and reduced shelf life, which can be overcome by microencapsulation. This review aims to provide a comprehensive overview of recent advances in edible oil microencapsulation for food fortification. It evaluates core encapsulation techniques, materials, emulsifiers, and microcapsule properties, highlighting their effects on efficiency, morphology, particle size, and process yield. Furthermore, it synthesizes current evidence on the physicochemical, microbiological, sensory, and nutritional impacts of incorporating microencapsulated edible oils into meat, bakery, dairy, and beverage matrices. Studies indicate that microencapsulation can enhance the nutritional profile of fortified foods, oxidative stability, reducing peroxide values, and increasing sensory acceptance through off-flavor masking. Despite these advances, knowledge gaps remain regarding long-term stability, interactions with food matrices, and validation through in vivo models.",
+      "authors": "Tayane de Jesus Freitas, Deborah Murowaniecki Otero, Fabiane do Espírito Santo de Jesus et al.",
+      "published": "Nov 2026",
+      "feedName": "Frontiers Food Science",
+      "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.1974094",
+      "image": "",
+      "screen": "left"
+    },
+    {
       "title": "Fabrication of eco-friendly rice starch films modified with Cassia tora gum: influence of gum concentration on physicochemical, mechanical, and barrier properties",
       "abstract": "Biodegradable and edible films have earned significant interest as sustainable alternatives to conventional packaging, however the limitations in mechanical and barrier performance of starch-based films can restrict their application in food-packaging. This study aimed to investigate the effect of varying concentration of Cassia gum (1-1.75% (w/v) on the physicochemical, mechanical, barrier, functional and structural properties of rice strach film. The incorporation of Cassia gum enhanced the viscosity and viscoelastic behaviour of the film-forming solution. The fabricated films were characterised for their physicochemical, mechanical, functional, and structural attributes. The incorporation of gum increased the moisture content, water activity and solubility. The addition of Cassia gum improved the barrier properties of starch films. The film with 1.75% (w/v) Cassia gum exhibited the lowest water vapour transmission rate (WVTR; 33.34 mg m−2 s−1) and carbon dioxide transmission rate (CDTR; 5.01 ×10−2 mg m−2 s−1), compared to 40.13 mg m−2 s−1 and 6.23 ×10−2 mg m−2 s−1, respectively for the control film. The lowest oxygen transmission rate (OTR; 0.75 mg m−2 s−1), was observed for films with 1,25% & 1.75% Cassia gum compared with 0.87 mg m−2 s−1 for the control film. The highest tensile strength (6.14 MPa) was obtained with 1.50%, whereas the highest elongation at break (98.33%) was observed with 1.75% gum, indicating improved mechanical performance relative to the control film. The DPPH radical- scavenging antioxidant activity increased from 8.6% in the control film to 35.64%…",
       "authors": "Sandhya Konnadath Rajan, Shalini Subash Arya, Mehraj Fatema Z. Mulla",
@@ -228,16 +238,6 @@
       "published": "Nov 2026",
       "feedName": "Frontiers Food Science",
       "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.1988554",
-      "image": "",
-      "screen": "left"
-    },
-    {
-      "title": "Micro- and nano-encapsulation technologies for enhanced flavour preservation in food systems: materials, mechanisms, challenges, and future perspectives",
-      "abstract": "The preservation of volatile flavour compounds in foods remains challenging because of evaporation, oxidation, thermal and photo-induced degradation, and partitioning within complex food matrices. Microencapsulation provides established protection and scalable processing routes, whereas nanoencapsulation can offer additional control over interfacial area, dispersion, carrier structure, and release. This review critically compares micro- and nano-encapsulation for flavour preservation, distinguishing retention during manufacture from stability during storage and flavour release and perception during consumption. It examines nanoemulsions, nanoliposomes, solid lipid nanoparticles, nanostructured lipid carriers, protein- and polysaccharide-based nanocarriers, and selected hybrid systems, with emphasis on flavour chemistry, carrier–flavour interactions, release mechanisms, food-matrix effects, quantitative performance metrics, and sensory consequences. Nano-enabled packaging and nanosensing are considered only as indirect preservation or monitoring technologies and are explicitly distinguished from direct flavour delivery. The review further evaluates industrial scale-up, cost, technology readiness, safety, migration, regulatory requirements, and sustainability, alongside emerging approaches including AI-assisted formulation, machine learning, digital-twin modelling, microfluidic manufacturing, and precision flavour delivery. Overall, the review identifies when nanoencapsulation provides a meaningful technological advantage over microencapsulation and when conventional microenc…",
-      "authors": "Ranbir Chowdhury, Debashree Borthakur",
-      "published": "Nov 2026",
-      "feedName": "Frontiers Food Science",
-      "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.1953856",
       "image": "",
       "screen": "left"
     },
@@ -282,6 +282,16 @@
       "screen": "left"
     },
     {
+      "title": "Integrated volatilomics, metabolomics, lipidomics and transcriptomics provide insights into meat quality and flavor variation in small white-feather chickens",
+      "abstract": "",
+      "authors": "Jiahao Li, Zihan Guo, Yaohua Li et al.",
+      "published": "Nov 2026",
+      "feedName": "npj Science of Food",
+      "url": "https://www.nature.com/articles/s41538-026-01234-3",
+      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01234-3/MediaObjects/41538_2026_1234_Fig1_HTML.png",
+      "screen": "left"
+    },
+    {
       "title": "Thermal Inactivation Parameters of Salmonella in Lipid-Based Nutrient Supplements",
       "abstract": "",
       "authors": "Mario Çobo, Robert Baker, Jonathan Sogin et al.",
@@ -309,16 +319,6 @@
       "feedName": "npj Science of Food",
       "url": "https://www.nature.com/articles/s41538-026-01231-6",
       "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01231-6/MediaObjects/41538_2026_1231_Fig1_HTML.png",
-      "screen": "left"
-    },
-    {
-      "title": "Tibetan dark tea alleviates ulcerative colitis through TXNRD-dependent ferroptosis and gut microbiota-metabolite modulation",
-      "abstract": "",
-      "authors": "Chen Liu, Yihong Liao, Xin Lai et al.",
-      "published": "Nov 2026",
-      "feedName": "npj Science of Food",
-      "url": "https://www.nature.com/articles/s41538-026-01180-0",
-      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01180-0/MediaObjects/41538_2026_1180_Fig1_HTML.png",
       "screen": "left"
     },
     {
@@ -362,6 +362,16 @@
       "screen": "left"
     },
     {
+      "title": "Long-term study reveals how humidity affects the durability of biodegradable thermoplastic polymers",
+      "abstract": "As the demand for sustainable alternatives to conventional plastics continues to grow, biodegradable polymers such as poly(lactic acid) (PLA) are attracting increasing attention for applications ranging from packaging to consumer products.",
+      "authors": "",
+      "published": "Nov 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-11-term-reveals-humidity-affects-durability.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/polymer.jpg",
+      "screen": "right"
+    },
+    {
       "title": "AI and experiments reveal impurities hindering waste plastic pyrolysis oil recycling",
       "abstract": "A Korean research team has identified how impurities interfere with the use of waste plastic pyrolysis oil as a petrochemical feedstock through catalytic experiments and artificial intelligence (AI)-based computational chemistry. The findings, published in the journal ACS Catalysis, provide a scientific basis for predicting potential declines in catalytic performance according to the types and concentrations of impurities present.",
       "authors": "",
@@ -389,16 +399,6 @@
       "feedName": "Phys.org Analytics",
       "url": "https://phys.org/news/2026-11-molecular-sensor-invisible-mercury-easier.html",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/new-sensor-makes-invis.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "Combining five metals in one oxide improves ethanol gas sensing",
-      "abstract": "A technology that significantly improves ethanol gas sensing performance by combining five different metal elements in a single oxide has been developed.",
-      "authors": "",
-      "published": "Nov 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-11-combining-metals-oxide-ethanol-gas.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/five-metal-oxide-senso.jpg",
       "screen": "right"
     },
     {
@@ -482,42 +482,42 @@
       "screen": "right"
     },
     {
-      "title": "Association of the C-reactive protein-to-prognostic nutritional index ratio with 28-day mortality in enterally fed critically ill patients with ischemic stroke: a retrospective study with internal validation",
-      "abstract": "BackgroundEnterally fed critically ill patients with ischemic stroke are vulnerable to systemic inflammation and physiological depletion.ObjectiveTo examine the association of pre-enteral-nutrition, first-recorded C-reactive protein-to-Prognostic Nutritional Index ratio (CRP/PNI) with fixed 28-day all-cause mortality, its comparison with CRP and CRP-to-albumin ratio (CAR), and incremental internal discrimination beyond five clinical variables.MethodsWe retrospectively analyzed 374 unique ICU patients receiving enteral nutrition (January 2024–December 2025), including 53 deaths. Biomarker components were recorded before initial enteral nutrition, but their admission-to-sampling intervals were unavailable. Adjusted logistic regression and repeated stratified fivefold cross-validation (five repeats) were used. Primary predictions were generated by models fitted only to training folds, then averaged across five held-out repetitions.ResultsEach doubling of CRP/PNI was associated with mortality after adjustment for age, sex, APACHE II, NIHSS and NRS-2002 (odds ratio 3.00, 95% confidence interval 2.18–4.15). In the separately reconstructed fixed-seed internal analysis, CRP/PNI-only AUROC was 0.875, similar to CRP (0.875) and CAR (0.872). Adding CRP/PNI to the prespecified clinical benchmark increased AUROC from 0.609 to 0.872 (paired ΔAUROC 0.263, 95% bootstrap CI 0.187–0.345), but this increment was relative to a weak baseline model, and clinical utility was not examined. Complex models conferred no consistent discrimination advantage.ConclusionPre-enteral-nutrition CRP/PNI is as…",
-      "authors": "Dan Jin, Min Liu, Zhaohui Zhang et al.",
+      "title": "Quality behind the label: fatty acid label accuracy, oxidative status and vitamin E composition of omega-3 food supplements on the Slovenian market",
+      "abstract": "IntroductionOmega-3 food supplements are widely used to increase the intake of long-chain n-3 polyunsaturated fatty acids, particularly EPA (C20:5n-3) and DHA (C22:6n-3). However, their quality may vary in terms of fatty acid content, label accuracy, antioxidant composition and oxidative status.MethodsThis study evaluated 26 commercially available omega-3 food supplements from the Slovenian market. Fatty acid composition was determined by gas chromatography and compared with the declared label values, while oxidative status was assessed using peroxide value (PV), p-anisidine value (p-AV), Totox and malondialdehyde (MDA) levels. Vitamin E compounds were determined by HPLC.ResultsSubstantial variability was observed among products. Only 44% showed close agreement with the declared EPA + DHA content, while close agreement for the individual EPA and DHA contents was observed in 39.1% of comparable products. PV ranged from 1.3 to 26.2 meq O2/kg oil, with 26.9% of samples below 5 meq O2/kg oil and 80.8% below 10 meq O2/kg oil. In contrast, p-AV values were generally low; among the 21 applicable non-krill products with valid p-AV results, 20 (95.2%) had values at or below 20. Totox values ranged from 13.3 to 72.8, with 11 of 21 applicable non-krill products (52.4%) having values at or below 26. MDA concentrations ranged from 0 to 22.6 nmol/g oil. Total vitamin E content ranged from 95.5 to 19682 mg/kg oil, and α-tocopherol was detected in all products. Total vitamin E was negatively correlated with MDA (ρ = −0.44, p = 0.024), whereas EPA + DHA content was not.DiscussionThese findi…",
+      "authors": "Erika Jesenko, Rajko Vidrih, Alenka Levart et al.",
       "published": "Nov 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1955726",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1998103",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Association of single-pool Kt/V with sarcopenia in patients receiving maintenance hemodialysis",
-      "abstract": "Background:Sarcopenia is common among patients receiving maintenance hemodialysis, but the relationship between dialysis adequacy and sarcopenia remains uncertain. Because single-pool Kt/V (spKt/V) is influenced by both delivered dialysis dose and body size, its association with muscle loss may be complex.MethodsWe conducted a single-center retrospective cross-sectional study of 436 adults receiving maintenance hemodialysis. Sarcopenia was defined according to the Asian Working Group for Sarcopenia 2019 criteria. spKt/V was analyzed continuously and according to clinically relevant categories (≥1.4, 1.2–1.4, and < 1.2). Multivariable logistic regression was used to evaluate the association between spKt/V and sarcopenia. Restricted cubic splines were used to assess nonlinearity, and prespecified subgroup analyses evaluated potential effect modification.ResultsAmong 436 patients, 141 (32.3%) had sarcopenia. Median spKt/V was lower in patients with sarcopenia than in those without sarcopenia (1.06 [0.87–1.26] vs. 1.41 [1.26–1.51]; P < 0.001). After adjustment for age, sex, hypertension, diabetes, and dialysis vintage, each 0.1-unit lower spKt/V was associated with higher odds of sarcopenia (OR, 2.25; 95% CI, 1.87–2.71). Compared with patients with spKt/V ≥1.2, those with spKt/V < 1.2 had substantially higher odds of sarcopenia (OR, 18.42; 95% CI, 9.31–36.46). Sarcopenia prevalence increased across descending spKt/V categories (9.6% for ≥1.4, 21.7% for 1.2– < 1.4, and 64.9% for < 1.2; adjusted P for trend < 0.001 from an ordinal-category model). Restricted cubic spline analysis…",
-      "authors": "Yan Du, Hao Wu, Xueyan Yang",
+      "title": "Optimization of aqueous extraction and antioxidant activities of crude polysaccharides from Hippophae rhamnoides L. fruit: protection against oxidative stress in Caenorhabditis elegans",
+      "abstract": "IntroductionOxidative stress is a key contributor to chronic disease and aging, and natural antioxidants from edible plants are of growing interest as dietary protective agents. Hippophae rhamnoides L. (sea buckthorn) is a medicinal and edible plant rich in bioactive compounds, and its polysaccharide-enriched fractions have been reported to possess antioxidant properties. However, the extraction conditions and the in vivo antioxidant effects of these fractions remain insufficiently characterized.MethodsThe present work therefore optimized the aqueous extraction of a crude polysaccharide-enriched extract (HRPs) from sea buckthorn fruits and evaluated its antioxidant and oxidative-stress-protective potentials. Extraction conditions were first screened through single-factor tests, after which a three-level Box–Behnken design integrated with response surface methodology (RSM) was applied for further optimization.ResultsUnder the optimized parameters (47 °C, 18.18 mL/g, 1.50 h), the polysaccharide yield reached 12.30%, consistent with the predicted value of 12.31%. The crude extract (HRPs) scavenged hydroxyl, superoxide, DPPH, and ABTS radicals in a concentration-dependent manner, though the effects were weaker than those of ascorbic acid (p < 0.05). In Caenorhabditis elegans, treatment with 10.0 mg/mL HRPs showed only a non-significant trend toward lifespan extension (p = 0.0576) but markedly improved survival under H2O2-induced acute oxidative stress.Discussion/ConclusionThese results indicate that the crude polysaccharide-enriched extract is a promising natural antioxidant so…",
+      "authors": "Xinfeng Bai, Yuke Huang, Shanshan Wang et al.",
       "published": "Nov 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1990247",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.2001092",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Preoperative low geriatric nutritional risk index and the risk of early postoperative intensive care unit admission after orthopedic surgery: a retrospective cohort study with external validation",
-      "abstract": "BackgroundMalnutrition, as reflected by a low Geriatric Nutritional Risk Index (GNRI), has been associated with poor outcomes after surgery; however, its relationship with early postoperative intensive care unit (ICU) admission in patients undergoing orthopedic surgery remains unclear.MethodsThis retrospective study included two independent cohorts: a derivation cohort of 4,030 operations in 3,699 orthopedic surgery patients from the INSPIRE database and an external validation cohort of 493 patients. GNRI was calculated as 1.489 × serum albumin (g/L) + 41.7 × (actual body weight/ideal body weight), and categorized into major ( < 82), moderate (82–92), low (92–98), and no (>98) nutritional risk. Logistic regression with progressive adjustment, restricted cubic splines, threshold (segmented) regression, subgroup and sensitivity analyses (propensity-score matching, inverse-probability and overlap weighting, restriction to patients aged ≥65 years, exclusion of intraoperative covariates, and cluster-robust standard errors), incremental predictive value [hierarchical models, C-statistic, net reclassification improvement (NRI), integrated discrimination improvement (IDI)], and external validation of the prespecified prediction model were used. The primary outcome was early postoperative ICU admission.ResultsThe incidence of ICU admission increased stepwise across decreasing GNRI categories in the derivation cohort (8.8%, 18.3%, 22.9%, and 29.1% for GNRI >98, 92–98, 82–92, and < 82, respectively; p < 0.001). After full adjustment, each 1-unit decrease in GNRI was associated with a …",
-      "authors": "Zhiyuan Zhang, Yafei Guo, Zhiwei Bi et al.",
+      "title": "Editorial: Edible oil: extraction technology, detection method, quality and nutrition evaluation",
+      "abstract": "",
+      "authors": "Qin Guo, Weimin Zhang, Carlos F. Torres",
       "published": "Nov 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.2001784",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.2011507",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Plant bioactive compounds in functional foods for aging populations: functional basis, translational challenges, and application prospects",
-      "abstract": "Increasing global life span did not get reflected by similar significant improvement in health span, identifying a need in development and implementation of interventions to counter aging. In this review, we synthesize available scientific literature regarding plant bioactive compound (PBC) effects against aging from a geroscience perspective. This review starts with a brief overview of the mechanistic background of PBCs, such as polyphenols, carotenoids, and polysaccharides, in terms of their effect on hallmarks of aging, specifically oxidative stress, inflammaging, and mitochondrial dysfunction. Then, there is a critical assessment of the translational evidence from preclinical studies and human trials regarding PBCs in age-related diseases, namely neurodegeneration, metabolic syndrome, osteoarthritis, skin aging, and sarcopenia, taking into account possible methodological limitations. An important feature of this review is the simultaneous consideration of polysaccharides as multifunctional ingredients of TMFs in dysphagia as both rheological thickening agents, functional compounds and delivery systems of encapsulated bioactives. In the course of this analysis, the main barriers of translational research, namely gastrointestinal aging, inter-individual microbiome variability, and regulatory aspects, will be systematically highlighted. There will be an assessment of the available technologies to overcome these barriers, namely nanoencapsulation and 3D printing of food. Finally, this article ends up with the elaboration of the precision nutrition strategy, which includes m…",
-      "authors": "Feng Lu, Wuyang Hua, Chengfeng Yang et al.",
+      "title": "Student-centered learning, nutritional behaviors, and self-regulation: psychological and health-related associations with performance readiness among higher education music students",
+      "abstract": "Higher education music students experience substantial cognitive, emotional, and physical demands that require effective self-regulation, healthy lifestyle behaviors, and adequate preparation for sustained musical performance. Although educational experiences, nutritional behaviors, and psychological factors have been individually associated with student wellbeing, their interrelationships with performance readiness remain insufficiently understood. This study examined the associations among student-centered learning environments, self-regulation capacity, health-related behaviors, nutritional practices, subjective vitality, recovery capacity, and performance readiness among higher education music students. A cross-sectional questionnaire survey was conducted among 468 undergraduate and postgraduate music students, and structural equation modeling was employed to evaluate the hypothesized associations among the study constructs. Student-centered learning environments were positively associated with self-regulation capacity (β = 0.45, p < 0.001), which was positively associated with health-related behaviors (β = 0.52, p < 0.001). Health-related behaviors were associated with nutritional practices (β = 0.55, p < 0.001) and recovery capacity (β = 0.48, p < 0.001). Nutritional practices were positively associated with subjective vitality (β = 0.39, p < 0.001), while subjective vitality (β = 0.36, p < 0.001) and recovery capacity (β = 0.49, p < 0.001) were positively associated with performance readiness. These findings indicate that educational experiences, self-regulatory capa…",
+      "authors": "Fu XueBo, Ma BoHong",
       "published": "Nov 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1998894",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.2000346",
       "image": "",
       "screen": "right"
     },
@@ -664,7 +664,7 @@
     {
       "title": "Relationships Between Chemical Compounds and Sensory Properties of Virgin Olive Oil in the US and Israel: Development of a Prediction Model for Defects",
       "abstract": "Virgin olive oil (VOO) quality is defined by both chemical and sensory parameters. While the chemical parameters are objective and measured using instrument-based methods, sensory quality evaluation is based upon human panels, which can be subjective, have less repeatability, suffer from fatigue, and require long and costly training. Tasting biases could be minimized by a trained panel, but using humans as a testing instrument is inevitably prone to various psychological biases, stimulus-related factors, and carry-over effects. The objectives of this study were to evaluate instrumental methodologies that will assist the existing human panel in assessing the sensory characteristics of VOO and to develop chemistry-based predicting models for sensory properties in the oil using VOO samples originating from the US and Israel. Our results indicated that oil rancidity highly correlated with the contents of chemical components contents; 1-penten-3-one, 3-hexen-1-ol, (E)-2-pentanal, and 1-octen-3-ol are the major volatiles associated with rancidity defects (low concentrations of these compounds). Positive sensory attributes, such as fruitiness, correlated with 1- acetoxypinoresinol and hexanal, while bitterness correlated with pinoresinol, the aldehydic form of oleuropein aglycones, and the dialdehydic form of oleuropein aglycone. The random forest model suggested that luteolin, (E)-2-hexenal, 1-penten-3-one, and C18:0 are the most useful measurements in predicting the occurrence of sensory defects in the olive oil samples included. In other words, when these compounds are below or…",
-      "authors": "M. Calatayud, Xueqi Li, Arnon Dag et al.",
+      "authors": "M. V. Calatayud, Xueqi Li, A. Dag et al.",
       "published": "2024",
       "venue": "Journal of Agricultural and Food Chemistry",
       "feedName": "Lab Research",
@@ -1044,7 +1044,7 @@
     {
       "title": "Effect of Quinoa Protein Concentrate in Particulate and Fibrillar Forms on the Physico-Chemical Properties of Quinoa Starch Gels",
       "abstract": "The current study investigates the interactions between quinoa protein—both in particulate (protein concentrate, QPC) and fibrillar (QPF) forms—and quinoa starch (QS) gels, and how these interactions influence the thermal, pasting, and rheological properties of the gels. Gels were made by adding three different concentrations of QPC or QPF to a 10% QS dispersion (10, 25, and 50% w/w of starch). DSC results suggested an enhancement of amylopectin thermal stability and an acceleration of retrogradation upon a cooling stage by the addition of quinoa protein. FTIR spectra indicated that QS and QPC/QPF mostly interacted through hydrogen bonds. According to rheological measurements, in contrast to the increased G′ due to the addition of QPC (50%), only a slight increase in G′ was observed due to the addition of QPF (50%). Notably, this study is the first to directly compare the effects of QPC and QPF on starch gel properties, revealing that QPC markedly enhances gel elasticity. These findings highlight the potential application of the optimized quinoa starch-protein-based gels as functional ingredients in plant-based meat analogues, where improved textural and nutritional attributes are critical.",
-      "authors": "Shir T Segev, Eden Eran-Nagar, G. Rytwo et al.",
+      "authors": "Shir Segev, Eden Eran-Nagar, G. Rytwo et al.",
       "published": "2025",
       "venue": "Food and Bioprocess Technology",
       "feedName": "Lab Research",

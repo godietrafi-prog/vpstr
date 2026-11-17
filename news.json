@@ -1,6 +1,16 @@
 {
-  "updated": "2026-11-17T15:16:04Z",
+  "updated": "2026-11-17T23:19:26Z",
   "items": [
+    {
+      "title": "Author Correction: A systematic scoping review of environmental, food security and health impacts of food system plastics",
+      "abstract": "",
+      "authors": "Joe Yates, Megan Deeney, Heike B. Rolker et al.",
+      "published": "Nov 2026",
+      "feedName": "Nature Food",
+      "url": "https://www.nature.com/articles/s43016-026-01464-4",
+      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs43016-026-01464-4/MediaObjects/43016_2026_1464_Fig1_HTML.png",
+      "screen": "left"
+    },
     {
       "title": "Food production policies can enhance multi-pollutant control of Chinese rivers",
       "abstract": "Food production policies can directly impact water quality. This study evaluates five policy pathways to enhance multi-pollutant control in Chinese rivers, considering nutrient inputs, plastics, antibiotics and herbicides.",
@@ -29,16 +39,6 @@
       "feedName": "Nature Food",
       "url": "https://www.nature.com/articles/s43016-026-01459-1",
       "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs43016-026-01459-1/MediaObjects/43016_2026_1459_Fig1_HTML.png",
-      "screen": "left"
-    },
-    {
-      "title": "Wheat yield sensitivity to compound hot–dry–windy events is increasing in China",
-      "abstract": "Increasing hot–dry–windy events threaten wheat yields in China, with significant yield losses linked to high-temperature, low-humidity conditions. Analysis of extensive yield and climate data reveals worsening sensitivity trends, emphasizing the need for adaptive strategies in agricultural practices.",
-      "authors": "Tengcong Jiang, Bin Wang, Zhihao He et al.",
-      "published": "Nov 2026",
-      "feedName": "Nature Food",
-      "url": "https://www.nature.com/articles/s43016-026-01452-8",
-      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs43016-026-01452-8/MediaObjects/43016_2026_1452_Fig1_HTML.png",
       "screen": "left"
     },
     {
@@ -362,6 +362,36 @@
       "screen": "left"
     },
     {
+      "title": "Extreme cold preserves passion fruit's vitamin C, but not all of its antioxidants",
+      "abstract": "Passion fruit can travel thousands of kilometers before it reaches international markets. Along the way, one of the food industry's biggest challenges is making sure its nutritional qualities survive processing, storage and transport.",
+      "authors": "",
+      "published": "Nov 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-11-extreme-cold-passion-fruit-vitamin.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/extreme-cold-preserves.jpg",
+      "screen": "right"
+    },
+    {
+      "title": "Repurposed battery molecules drive key chemical reactions where oil meets water",
+      "abstract": "The process of producing essential medicines and fine chemicals has long been powered by reactions involving intense heat, heavy-metal catalysts and hazardous hydrogen gas. Now, a team of Harvard chemists and engineers has demonstrated that these critical transformations can be driven cleanly by electricity, right at the boundary where oil and water meet.",
+      "authors": "",
+      "published": "Nov 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-11-repurposed-battery-molecules-key-chemical.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/repurposed-battery-mol.jpg",
+      "screen": "right"
+    },
+    {
+      "title": "Unraveling bonding evolution in carbon-centered gold(I) clusters",
+      "abstract": "Gold nanoclusters, composed of a small number of gold atoms, can exhibit optical, electronic and catalytic properties distinct from those of bulk gold. One intriguing family consists of carbon-centered gold(I) clusters, in which a carbon atom is surrounded by several gold atoms. Unlike the familiar four-coordinate carbon in methane, the central carbon in these clusters can be coordinated by five or even six gold atoms.",
+      "authors": "",
+      "published": "Nov 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-11-unraveling-bonding-evolution-carbon-centered.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/unraveling-bonding-evo.jpg",
+      "screen": "right"
+    },
+    {
       "title": "Long-term study reveals how humidity affects the durability of biodegradable thermoplastic polymers",
       "abstract": "As the demand for sustainable alternatives to conventional plastics continues to grow, biodegradable polymers such as poly(lactic acid) (PLA) are attracting increasing attention for applications ranging from packaging to consumer products.",
       "authors": "",
@@ -369,36 +399,6 @@
       "feedName": "Phys.org Analytics",
       "url": "https://phys.org/news/2026-11-term-reveals-humidity-affects-durability.html",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/polymer.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "AI and experiments reveal impurities hindering waste plastic pyrolysis oil recycling",
-      "abstract": "A Korean research team has identified how impurities interfere with the use of waste plastic pyrolysis oil as a petrochemical feedstock through catalytic experiments and artificial intelligence (AI)-based computational chemistry. The findings, published in the journal ACS Catalysis, provide a scientific basis for predicting potential declines in catalytic performance according to the types and concentrations of impurities present.",
-      "authors": "",
-      "published": "Nov 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-11-ai-reveal-impurities-hindering-plastic.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/ai-and-experiments-rev-2.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "A perfect couple: Chromium keeps ruthenium grounded in water electrolysis",
-      "abstract": "They say opposites attract, and many couples do fit this pattern. One is pragmatic and down-to-earth, while the other is a dreamer with their head in the clouds. Yet, these differences make them perfect for each other. According to researchers at ICFO, chemical interactions between atoms are not that different. Ruthenium, for instance, belongs to the \"dreamer\" class. It is commonly used in single-atom catalysts that speed up water electrolysis, which splits water to obtain green hydrogen. However, on its own, ruthenium tends to over-oxidize and dissolve during operation, like an idealist who takes flight without looking back.",
-      "authors": "",
-      "published": "Nov 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-11-couple-chromium-ruthenium-grounded-electrolysis.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/a-perfect-couple-chrom.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "Molecular sensor makes invisible traces of mercury easier to see",
-      "abstract": "Mercury contamination presents an obvious challenge: it is invisible. A glass of water or a piece of fruit can seem perfectly normal to the naked eye, even when trace amounts of toxic mercury are present. Detecting such minute levels usually requires specialized laboratory tools and trained experts.",
-      "authors": "",
-      "published": "Nov 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-11-molecular-sensor-invisible-mercury-easier.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/new-sensor-makes-invis.jpg",
       "screen": "right"
     },
     {
@@ -482,32 +482,22 @@
       "screen": "right"
     },
     {
-      "title": "Student-centered learning, nutritional behaviors, and self-regulation: psychological and health-related associations with performance readiness among higher education music students",
-      "abstract": "Higher education music students experience substantial cognitive, emotional, and physical demands that require effective self-regulation, healthy lifestyle behaviors, and adequate preparation for sustained musical performance. Although educational experiences, nutritional behaviors, and psychological factors have been individually associated with student wellbeing, their interrelationships with performance readiness remain insufficiently understood. This study examined the associations among student-centered learning environments, self-regulation capacity, health-related behaviors, nutritional practices, subjective vitality, recovery capacity, and performance readiness among higher education music students. A cross-sectional questionnaire survey was conducted among 468 undergraduate and postgraduate music students, and structural equation modeling was employed to evaluate the hypothesized associations among the study constructs. Student-centered learning environments were positively associated with self-regulation capacity (β = 0.45, p < 0.001), which was positively associated with health-related behaviors (β = 0.52, p < 0.001). Health-related behaviors were associated with nutritional practices (β = 0.55, p < 0.001) and recovery capacity (β = 0.48, p < 0.001). Nutritional practices were positively associated with subjective vitality (β = 0.39, p < 0.001), while subjective vitality (β = 0.36, p < 0.001) and recovery capacity (β = 0.49, p < 0.001) were positively associated with performance readiness. These findings indicate that educational experiences, self-regulatory capa…",
-      "authors": "Fu XueBo, Ma BoHong",
-      "published": "Nov 2026",
-      "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.2000346",
-      "image": "",
-      "screen": "right"
-    },
-    {
-      "title": "How do dietitians estimate resting energy expenditure? A national survey of knowledge, perceptions and utilisation of metabolic rate equations",
-      "abstract": "BackgroundMetabolic-rate prediction equations remain widely used when indirect calorimetry (IC) is unavailable, despite recognised limitations in their accuracy across patient populations. Evidence on how dietitians understand and apply these tools in practice remains limited.ObjectiveTo assess knowledge, perceptions, and utilisation of metabolic-rate prediction equations among dietitians in the Czech Republic, including IC accessibility and factors associated with equation utilisation.MethodsA nationwide cross-sectional online survey was conducted between January and March 2026. The survey assessed IC accessibility, knowledge of metabolic-rate equations, perceptions of their importance and accuracy, perceived barriers, and utilisation practices.ResultsAmong 181 eligible respondents, IC was accessible to 15.5% of respondents, and most users applied it in fewer than 40% of cases. Mean knowledge score was 3.40 ± 1.36/7, with no significant overall differences by education, practice duration, setting, or IC accessibility. Only 7.2% correctly recognised that none of the listed prediction equations achieved estimates within ±10% of IC measurements in 90% of White adults. Harris–Benedict was the dominant equation in both perceived usefulness and practice, being considered useful by 71.3% and reported as utilised by 84.5% of respondents. Weight-loss management was the most common indication for equation use (80.1%), followed by oncological patients (35.9%) and patients with diabetes (32.0%). Greater perceived importance of equations (aOR = 4.54, 95% CI 3.24–6.38) was independently…",
-      "authors": "Veronika Pourová, Martin Krobot, Abanoub Riad",
-      "published": "Nov 2026",
-      "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.2014802",
-      "image": "",
-      "screen": "right"
-    },
-    {
       "title": "Building evidence on the association between hair micronutrient concentrations and disease activity in ulcerative colitis through hair trace element profiling: an exploratory analysis",
       "abstract": "IntroductionMicronutrients are vital for immune and metabolic functions. Although growing evidence highlights their potential role in ulcerative colitis (UC), the relationship between hair micronutrient concentrations and UC activity remains insufficiently defined. This study aimed to explore associations between baseline hair micronutrient concentrations and disease activity at 6 months in patients with UC.MethodsThis exploratory analysis prospective cohort study included 25 adult patients diagnosed with UC. Disease activity was measured using the Mayo score at baseline and at 6 months. The baseline evaluation included the assessment of clinical and demographic parameters, blood sampling, and hair samples for trace elements evaluation using energy dispersive X-ray spectroscopy. Two multiple linear regression models logistic regression models have been developed to predict assess the association with the disease outcome at 6 months., the first model was fed only with blood parameters, while the second model was built using as inputs both blood tests and micronutrient hair concentrations.ResultsBoth models reflected the variance in disease activity-76.3% (adjusted R2), F = 13.88, p < 0.001, while the second model explained 92.4% of the variance in disease activity, F = 31.49, p < 0.001. When comparing the two models, incorporating hair micronutrient concentrations significantly improved the prediction association with theof disease activity at 6 months (p < 0.001). Baseline Mayo score, lymphocyte count, CRP, and albumin, were consistent predictors, while hair magnesium, iron…",
       "authors": "Georgiana-Emmanuela Gilca-Blanariu, Iolanda Valentina Popa, Roxana Mihaela Bratu et al.",
       "published": "Nov 2026",
       "feedName": "Frontiers Nutrition",
       "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1956694",
+      "image": "",
+      "screen": "right"
+    },
+    {
+      "title": "Associations between potential trigger foods and disease activity in patients with inflammatory bowel disease; a cross-sectional study",
+      "abstract": "IntroductionPatients with inflammatory bowel disease (IBD) often report one or more foods to cause or aggravate relapse, and tend to restrict intake of these foods. Some of the foods that patients avoid are suggested in the literature to demonstrate pro- or anti-inflammatory potential. Thus, we investigated whether IBD disease activity was associated with foods that patients report as relapse triggers considering their inflammation-related properties, macronutrients, and blood markers of nutritional status.MethodsPatients with IBD ≥ 18 years from the IBSEN III (Inflammatory Bowel Disease in South-Eastern Norway) study completed a food frequency questionnaire covering habitual food intake the preceding year. Intake of food groups was either estimated through splitting foods down into their ingredients (method 1) or as consumed (method 2). Endoscopic indices and fecal calprotectin were applied to differentiate between inactive and active IBD. Multivariate logistic regression models were used to assess associations.ResultsA total of 301 patients with IBD were included. Most foods patients reported as triggers did not associate with IBD disease activity. Margarine intake associated with active IBD (OR 1.22, 95% CI 1.07–1.40), but lost significance in the endoscopy-only analysis OR 1.74 (95% CI 1.21, 2.51, p = 0.003), and no significant associations for macronutrients or blood markers of nutritional status.ConclusionNearly all foods identified by patients as relapse triggers, regardless of their pro- or anti-inflammatory properties, showed no association with active IBD. These h…",
+      "authors": "Insaf Zerouga, Jørgen Valeur, Christine Sommer et al.",
+      "published": "Nov 2026",
+      "feedName": "Frontiers Nutrition",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1889382",
       "image": "",
       "screen": "right"
     },
@@ -522,13 +512,13 @@
       "screen": "right"
     },
     {
-      "title": "Maternal fish or n-3 polyunsaturated fatty acid intake during pregnancy and risk of impaired kidney function at 6 years of age: the Japan environment and children’s study",
-      "abstract": "Purpose Chronic kidney disease in children causes kidney failure and growth impairment, making its prevention an urgent clinical and public health priority. Experimental animal studies have suggested that maternal intake of n-3 polyunsaturated fatty acids (PUFAs) during pregnancy may have kidney-protective effects in offspring; however, evidence in humans remains limited. Therefore, this study aimed to investigate the association between maternal fish or n-3 PUFA intake during pregnancy and kidney dysfunction in children. Methods We analyzed data from the Japan Environment and Children’s Study, a nationwide prospective birth cohort. A total of 2,679 mother–child pairs were included. Kidney dysfunction was defined as an estimated glomerular filtration rate < 90 mL/min/1.73 m² at 6 years of age. Maternal fish or n-3 PUFA intake during pregnancy was categorized into quintiles. Multivariable logistic regression models were used to estimate the associations. Results At 6 years of age, 262 children (9.8%) had decreased kidney function. In the adjusted model, maternal fish intake in the highest quintile was associated with a significantly lower risk of kidney dysfunction compared with the lowest quintile (odds ratio, 0.63; 95% confidence interval, 0.41–0.99). Maternal n-3 PUFA intake showed a similar trend, although the association was not statistically significant. Conclusion Higher maternal fish intake during pregnancy was associated with a reduced risk of kidney dysfunction in offspring, whereas maternal n-3 PUFA intake showed no significant association. These findings suggest …",
-      "authors": "",
+      "title": "Maternal and early-life nutritional programming: effects on neurodevelopment and metabolic outcomes",
+      "abstract": "The first 1,000 days of life, spanning from preconception through early childhood, represent a highly sensitive developmental window during which nutritional exposures may exert long-lasting effects on health. Optimal nutrition during this period is foundational not only for favorable birth outcomes and infant growth but also for establishing long-term metabolic homeostasis and neurodevelopmental trajectories. Emerging research highlights the gut-brain-metabolism axis as a pivotal integrative pathway, where early dietary patterns shape the microbiome to exert systemic effects via epigenetic mechanisms and biological programming. While specific nutrients and dietary patterns play regulatory roles in fetal development, nutritional imbalances and adverse exposures can disrupt these delicate processes, increasing susceptibility to chronic diseases in adolescence and adulthood. This review summarizes current evidence on the impact of maternal and early childhood nutrition, emphasizing the interplay between diet, microbiome composition, and physiological outcomes. Furthermore, it identifies critical gaps in current literature, particularly the scarcity of longitudinal studies extending beyond childhood, and underscores the urgent need for robust research to guide targeted, evidence-based interventions that break the cycle of intergenerational disease risk.",
+      "authors": "Ying Gu, Qing Liu, Yuanyuan Zhang",
       "published": "Nov 2026",
-      "feedName": "Eur. J. Nutrition",
-      "url": "https://link.springer.com/article/10.1007/s00394-026-04165-7",
-      "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1007%2Fs00394-026-04165-7/MediaObjects/394_2026_4165_Fig1_HTML.png",
+      "feedName": "Frontiers Nutrition",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1986364",
+      "image": "",
       "screen": "right"
     },
     {
@@ -539,6 +529,16 @@
       "feedName": "Eur. J. Nutrition",
       "url": "https://link.springer.com/article/10.1007/s00394-026-04159-5",
       "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1007%2Fs00394-026-04159-5/MediaObjects/394_2026_4159_Fig1_HTML.png",
+      "screen": "right"
+    },
+    {
+      "title": "Maternal fish or n-3 polyunsaturated fatty acid intake during pregnancy and risk of impaired kidney function at 6 years of age: the Japan environment and children’s study",
+      "abstract": "Purpose Chronic kidney disease in children causes kidney failure and growth impairment, making its prevention an urgent clinical and public health priority. Experimental animal studies have suggested that maternal intake of n-3 polyunsaturated fatty acids (PUFAs) during pregnancy may have kidney-protective effects in offspring; however, evidence in humans remains limited. Therefore, this study aimed to investigate the association between maternal fish or n-3 PUFA intake during pregnancy and kidney dysfunction in children. Methods We analyzed data from the Japan Environment and Children’s Study, a nationwide prospective birth cohort. A total of 2,679 mother–child pairs were included. Kidney dysfunction was defined as an estimated glomerular filtration rate < 90 mL/min/1.73 m² at 6 years of age. Maternal fish or n-3 PUFA intake during pregnancy was categorized into quintiles. Multivariable logistic regression models were used to estimate the associations. Results At 6 years of age, 262 children (9.8%) had decreased kidney function. In the adjusted model, maternal fish intake in the highest quintile was associated with a significantly lower risk of kidney dysfunction compared with the lowest quintile (odds ratio, 0.63; 95% confidence interval, 0.41–0.99). Maternal n-3 PUFA intake showed a similar trend, although the association was not statistically significant. Conclusion Higher maternal fish intake during pregnancy was associated with a reduced risk of kidney dysfunction in offspring, whereas maternal n-3 PUFA intake showed no significant association. These findings suggest …",
+      "authors": "",
+      "published": "Nov 2026",
+      "feedName": "Eur. J. Nutrition",
+      "url": "https://link.springer.com/article/10.1007/s00394-026-04165-7",
+      "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1007%2Fs00394-026-04165-7/MediaObjects/394_2026_4165_Fig1_HTML.png",
       "screen": "right"
     },
     {
@@ -664,7 +664,7 @@
     {
       "title": "Relationships Between Chemical Compounds and Sensory Properties of Virgin Olive Oil in the US and Israel: Development of a Prediction Model for Defects",
       "abstract": "Virgin olive oil (VOO) quality is defined by both chemical and sensory parameters. While the chemical parameters are objective and measured using instrument-based methods, sensory quality evaluation is based upon human panels, which can be subjective, have less repeatability, suffer from fatigue, and require long and costly training. Tasting biases could be minimized by a trained panel, but using humans as a testing instrument is inevitably prone to various psychological biases, stimulus-related factors, and carry-over effects. The objectives of this study were to evaluate instrumental methodologies that will assist the existing human panel in assessing the sensory characteristics of VOO and to develop chemistry-based predicting models for sensory properties in the oil using VOO samples originating from the US and Israel. Our results indicated that oil rancidity highly correlated with the contents of chemical components contents; 1-penten-3-one, 3-hexen-1-ol, (E)-2-pentanal, and 1-octen-3-ol are the major volatiles associated with rancidity defects (low concentrations of these compounds). Positive sensory attributes, such as fruitiness, correlated with 1- acetoxypinoresinol and hexanal, while bitterness correlated with pinoresinol, the aldehydic form of oleuropein aglycones, and the dialdehydic form of oleuropein aglycone. The random forest model suggested that luteolin, (E)-2-hexenal, 1-penten-3-one, and C18:0 are the most useful measurements in predicting the occurrence of sensory defects in the olive oil samples included. In other words, when these compounds are below or…",
-      "authors": "M. V. Calatayud, Xueqi Li, A. Dag et al.",
+      "authors": "M. Calatayud, Xueqi Li, A. Dag et al.",
       "published": "2024",
       "venue": "Journal of Agricultural and Food Chemistry",
       "feedName": "Lab Research",
@@ -719,46 +719,6 @@
       "researcher": {
         "name": "Ofir Benjamin",
         "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=FsjV0oIAAAAJ"
-      }
-    },
-    {
-      "title": "Phosphorus in Balance: Evaluating the Costs and Benefits of a Circular Economy Approach",
-      "abstract": "This paper presents a comprehensive cost-benefit analysis of producing alternative phosphorus (P) fertilizers from recycled water treatment residuals (Fe-WTR) and cowshed effluents. The cost-benefit values of Fe-WTR are compared to the net costs of recycling P using a synthetic adsorbent (commonly used practice-layered double hydroxide, P-LDH) and the costs of commercial fertilizers. Dairy wastewater is used as a source of P. The cost of 1 ton P using the Fe-WTR process is €329. In contrast, synthetic adsorbents (P-LDH) incur significantly higher costs, amounting to €3329 per ton, underscoring the economic advantage of utilizing waste-derived materials. Adopting Fe-WTR fertilizer not only offers substantial cost savings by avoiding landfill fees (€40 per ton) and wastewater discharge fines (€500 per ton) but also reduces environmental impacts when compared to the use of commercial P fertilizers (non-recycled P). The Fe-WTR method mitigates eutrophication and pollution, presenting the dual benefit of cost-effectiveness and environmental protection, which exceeds the common P recycling practice (LDH). Our conclusions are based on production processes in Israel and compared to previous cost estimations at the world level, assessing the potential gain from such circular production of P globally. Recycling P from waste streams can be economically viable and environmentally preferable at small and large economic scales, supporting global sustainability goals.",
-      "authors": "H. E. Ganem, I. Zohar, M. Litaor et al.",
-      "published": "2024",
-      "venue": "Journal of Environmental Science Studies",
-      "feedName": "Lab Research",
-      "citationCount": 0,
-      "recentCitations": 0,
-      "quartile": null,
-      "s2_paper_id": "5a7645fb724f2527117a809194848a4b84de25da",
-      "url": "https://doi.org/10.20849/jess.v7i2.1469",
-      "image": "",
-      "screen": "both",
-      "lab_paper": true,
-      "researcher": {
-        "name": "Adi Jonas-Levi",
-        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=MbCf9l4AAAAJ"
-      }
-    },
-    {
-      "title": "The impact of alternative recycled and synthetic phosphorus sources on plant growth and responses, soil interactions and sustainable agriculture - lettuce (Lactuca sativa) as a case model.",
-      "abstract": "This research assesses the efficacy of two phosphorus (P) adsorbents as alternative fertilizers in promoting lettuce growth. A synthetic Mg/Al-layered double hydroxide (LDH) and an iron-based recycled water treatment residual (Fe-WTR), both enriched with P from dairy wastewater and added at three dosage levels. We hypothesized that the adsorbents' physicochemical nature will overshadow the biological efforts in the plant ecosystem to increase P solubility, impacting plant growth, nutritional composition, and metabolite profiles. Fe-WTR significantly enhanced lettuce biomass compared to LDH. Yet, elemental analysis revealed higher or equal P concentrations in the low-biomass LDH plants relative to other treatments. Phosphorus uptake appears to influence the assimilation of other nutrients that divided into two groups: calcium, magnesium, zinc, and copper with notable correlations to P and nitrogen, iron, aluminum, vanadium and manganese with low correlations to P. Conversely, P retained poor correlation with most metabolites whereas iron showed a higher correlation with numerous metabolites. Analysis of metabolites, encompassing carbohydrates, the Krebs cycle, amino acids, nucleic acids, and stress and regulatory pathways, revealed diminished levels in the LDH treatments. Overall, carbon assimilation (plant growth) was more effectively predicted by soil P availability (adsorbent type and dose) rather than by cellular P concentration, suggesting root signaling was at play, influencing carbohydrate translocation to the roots. Diminished levels of cellular sugars further affect…",
-      "authors": "I. Zohar, H. E. Ganem, D. DiSegni et al.",
-      "published": "2024",
-      "venue": "Science of the Total Environment",
-      "feedName": "Lab Research",
-      "citationCount": 9,
-      "recentCitations": 1,
-      "quartile": "Q1",
-      "s2_paper_id": "716a87e9602f04f6b3d7fe6c3b411a15d1beaf4a",
-      "url": "https://doi.org/10.1016/j.scitotenv.2024.174719",
-      "image": "",
-      "screen": "both",
-      "lab_paper": true,
-      "researcher": {
-        "name": "Adi Jonas-Levi",
-        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=MbCf9l4AAAAJ"
       }
     },
     {
@@ -904,7 +864,7 @@
     {
       "title": "The effect of simulation training on the counseling skills of nutritional science students in dietetic internships",
       "abstract": "Simulations are a common tool in training aircrews, medical personnel and educators, providing experience in scenarios from the relevant content area and expanding the range of responses that simulation participants can acquire before they enter the field. Simulations have also been used in dietetic internships to improve clinical counseling skills. However, the use of structured simulations that involve progressive, multisession patient interactions has not been extensively studied in the context of dietetic internships. This study employed consecutive scenario models where interns developed ongoing interactions with the same simulated patient over multiple sessions, representing a significant methodological innovation in the field. A mixed method methodology was used to analyze closed and open-ended questionnaires which were administered to twenty-one interns, simulation actors and professional dietitians. This pilot study demonstrates the effectiveness of group and individual simulation training in enhancing dietetic interns’ counseling skills during their training and describes how simulation can contribute to both the professional skills and self-efficacy required to lead a counseling session. These findings will enable additional academic departments to examine the integration of simulation into the training programs of interns in tracks that include a practicum.",
-      "authors": "I. Linder, Zafit Lukach, Keren Pergament et al.",
+      "authors": "Ifat Linder, Zafit Lukach, Keren Pergament et al.",
       "published": "2025",
       "venue": "BMC Medical Education",
       "feedName": "Lab Research",
@@ -924,7 +884,7 @@
     {
       "title": "The Anticonvulsant Effects of Different Cannabis Extracts in a Zebrafish Model of Epilepsy",
       "abstract": "Epilepsy is a widespread neurological disorder that remains a critical global public health challenge. While numerous antiepileptic drugs (AEDs) are available, many patients either fail to achieve adequate seizure control or experience significant side effects. One promising alternative is pure cannabidiol (CBD), but using a whole cannabis extract may be equally effective and preferred for some patients. In the current study, we employed the pentylenetetrazole (PTZ)-induced hyperactivity model in zebrafish to compare the effects of CBD with various cannabis extracts. We evaluated three cannabis strains, each subjected to three different extraction methods, and benchmarked the results against the commercially available AED valproic acid (VPA). Our findings revealed that 5.7 µg/mL of CBD and 10 µg/mL of different extracts significantly reduced movement compared to PTZ and VPA. In addition, effective extracts produced effects similar to pure CBD despite containing much lower molecule levels. These results reinforced and expanded previous evidence supporting the clinical potential of both CBD and whole cannabis extracts for seizure control while suggesting a possible entourage effect. Further research is necessary to determine which patients may benefit more from pure CBD versus those who might prefer whole cannabis extracts.",
-      "authors": "Karen Jackson, M. Shabat-Simon, J. Bar-on et al.",
+      "authors": "Karen Jackson, Maytal Shabat-Simon, J. Bar-on et al.",
       "published": "2025",
       "venue": "Biomolecules",
       "feedName": "Lab Research",

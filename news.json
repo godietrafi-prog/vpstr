@@ -1,6 +1,26 @@
 {
-  "updated": "2026-11-18T05:25:09Z",
+  "updated": "2026-11-18T14:57:21Z",
   "items": [
+    {
+      "title": "Towards a more nuanced interpretation of cardiovascular nutrition science",
+      "abstract": "The debate over saturated fat continues to dominate cardiovascular nutrition, despite growing recognition that foods, dietary patterns and food matrices matter more than isolated nutrients. The continued treatment of saturated fat as a single biological entity may divert attention from the characteristics of foods and dietary patterns that truly determine cardiovascular risk.",
+      "authors": "Arne Astrup, Ronald M. Krauss, Faidon Magkos et al.",
+      "published": "Nov 2026",
+      "feedName": "Nature Food",
+      "url": "https://www.nature.com/articles/s43016-026-01473-3",
+      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs43016-026-01473-3/MediaObjects/43016_2026_1473_Fig1_HTML.png",
+      "screen": "left"
+    },
+    {
+      "title": "Author Correction: A systematic scoping review of environmental, food security and health impacts of food system plastics",
+      "abstract": "",
+      "authors": "Joe Yates, Megan Deeney, Heike B. Rolker et al.",
+      "published": "Nov 2026",
+      "feedName": "Nature Food",
+      "url": "https://www.nature.com/articles/s43016-026-01464-4",
+      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs43016-026-01464-4/MediaObjects/43016_2026_1464_Fig1_HTML.png",
+      "screen": "left"
+    },
     {
       "title": "Food production policies can enhance multi-pollutant control of Chinese rivers",
       "abstract": "Food production policies can directly impact water quality. This study evaluates five policy pathways to enhance multi-pollutant control in Chinese rivers, considering nutrient inputs, plastics, antibiotics and herbicides.",
@@ -22,62 +42,42 @@
       "screen": "left"
     },
     {
-      "title": "Wheat resilience under compound stress",
-      "abstract": "Compound hot–dry–windy events are becoming more frequent and increasingly damaging to wheat yields in China’s wheat belt, underscoring the need for improved crop management, breeding and climate adaptation.",
-      "authors": "Xiaomao Lin, David B. Lobell, Buchun Liu et al.",
-      "published": "Nov 2026",
-      "feedName": "Nature Food",
-      "url": "https://www.nature.com/articles/s43016-026-01459-1",
-      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs43016-026-01459-1/MediaObjects/43016_2026_1459_Fig1_HTML.png",
-      "screen": "left"
-    },
-    {
-      "title": "Wheat yield sensitivity to compound hot–dry–windy events is increasing in China",
-      "abstract": "Increasing hot–dry–windy events threaten wheat yields in China, with significant yield losses linked to high-temperature, low-humidity conditions. Analysis of extensive yield and climate data reveals worsening sensitivity trends, emphasizing the need for adaptive strategies in agricultural practices.",
-      "authors": "Tengcong Jiang, Bin Wang, Zhihao He et al.",
-      "published": "Nov 2026",
-      "feedName": "Nature Food",
-      "url": "https://www.nature.com/articles/s43016-026-01452-8",
-      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs43016-026-01452-8/MediaObjects/43016_2026_1452_Fig1_HTML.png",
-      "screen": "left"
-    },
-    {
-      "title": "A hierarchical contrastive learning-based framework for enzyme function prediction and its application value in Avena sativa protein research",
+      "title": "Preparation of silkworm pupae protein hydrolysate–curcumin–chitosan nanoparticles and their protective effects on alcohol-induced gastric mucosal injury",
       "abstract": "",
-      "authors": "Jing Liu, Xinwei Chen, Kai Huang et al.",
+      "authors": "Yutong Yuan, Xinyi Wang, Zhiyuan Ji et al.",
       "published": "Dec 2026",
       "feedName": "Food Chemistry",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626039506?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S030881462603935X?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
     {
-      "title": "Biochemical mechanisms of triacylglycerol accumulation in Rhodotorula sp. C7 for sustainable food lipid production: a dynamic multi-omics approach",
+      "title": "Dynamics of volatile and bioactive compounds in Criollo cocoa during spontaneous and Saccharomyces cerevisiae -inoculated fermentation and drying",
       "abstract": "",
-      "authors": "Ruhui Liu, Wangqi Jia, Miao Cheng et al.",
+      "authors": "Diner Mori-Mestanza, Jheniffer E. Valdivia-Culqui, Ilse S. Cayo-Colca et al.",
       "published": "Dec 2026",
       "feedName": "Food Chemistry",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626043384?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626036198?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
     {
-      "title": "Temperature-dependent storage stability of rice bran protein fibril and chitin nanofiber emulsion gels: Impacts on fat mimicry, saltiness perception, and lipid digestion",
+      "title": "Development of multifunctional chitosan-based edible coatings enriched with L-cysteine, tea polyphenols, and tea polyphenol-loaded chitosan nanoparticles for fresh-cut apple preservation",
       "abstract": "",
-      "authors": "Xuan Zhang, Yao Feng, Yu Zhang et al.",
+      "authors": "Muhammad Faisal, Yu Si, Bangjun Yan et al.",
       "published": "Dec 2026",
       "feedName": "Food Chemistry",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626041890?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626043724?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
     {
-      "title": "Season and altitude influence flavor precursor networks in tea leaves ( Camellia sinensis cv. Fuding-dabaicha‌): insights from integrated metabolomics, volatilomics, and proteomics",
+      "title": "Impact of teinturier wines on color enhancement, stability, and polyphenolic composition in red wine blends",
       "abstract": "",
-      "authors": "Chenyang Ma, Jingyuan Li, Zhiyu Yang et al.",
+      "authors": "Hui-Qing Li, Ming-Yu Li, Ning Shi et al.",
       "published": "Dec 2026",
       "feedName": "Food Chemistry",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626043347?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626042767?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -102,22 +102,22 @@
       "screen": "left"
     },
     {
-      "title": "From production to post-ingestion transformation: Tracing compositional changes in rice bran protein hydrolysates",
+      "title": "Whole-crop valorization of the emerging woody oilseed Idesia polycarpa : oil chemistry, salicinoid bioactives, and cake meal biorefinery",
       "abstract": "",
-      "authors": "Caimeng Lv, Wenjun Zeng, Xuebo Gu et al.",
+      "authors": "Jiahao Yuan, Xirui Zhang, Mohan Li et al.",
       "published": "Jan 2027",
       "feedName": "Trends in Food Sci & Tech",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426007041?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426007090?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
     {
-      "title": "Anthraquinones, anthrones and their derivatives as antibacterial scaffolds for food systems: from molecular activity to translational usability",
+      "title": "Size- and shape-controlled starch micro/nano-particles: Emerging preparation methods, properties and applications",
       "abstract": "",
-      "authors": "Junhao Wu, Bin Liu, Zhicheng Zhou et al.",
+      "authors": "Shuxian Mao, Tingting Li, Gongjian Fan et al.",
       "published": "Jan 2027",
       "feedName": "Trends in Food Sci & Tech",
-      "url": "https://www.sciencedirect.com/science/article/pii/S092422442600703X?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S092422442600717X?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -142,6 +142,16 @@
       "screen": "left"
     },
     {
+      "title": "Exploring different food textures with older adults: perceptions, eating experiences, eating rate and perceived oral abilities",
+      "abstract": "",
+      "authors": "Dimitra Zannidi, Miriam E. Clegg, Jayne V. Woodside et al.",
+      "published": "Mar 2027",
+      "feedName": "Food Quality & Preference",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0950329326003411?dgcid=rss_sd_all",
+      "image": "",
+      "screen": "left"
+    },
+    {
       "title": "Discrete choice experiment on coffee choice: Effects of sensory input and differences between Indonesia-based and Denmark-based respondents",
       "abstract": "",
       "authors": "Andika Wicaksono Putro, Michael Bom Frøst",
@@ -152,12 +162,12 @@
       "screen": "left"
     },
     {
-      "title": "The “Carrot Test” adapted for older adults: Associations of eating rate of a standardised food and self-reported oral processing abilities with eating rate of different food textures",
-      "abstract": "",
-      "authors": "Dimitra Zannidi, Miriam E. Clegg, Jayne V. Woodside et al.",
-      "published": "Mar 2027",
-      "feedName": "Food Quality & Preference",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0950329326003198?dgcid=rss_sd_all",
+      "title": "From replicates to casework: a systematic methodological review of data independence and transportability in artificial intelligence models for complex forensic chemical and biological evidence",
+      "abstract": "Artificial intelligence (AI), particularly machine-learning models, is increasingly applied to complex forensic chemical, material, and biological evidence. High reported performance does not itself demonstrate generalization to new forensic material. We conducted a systematic methodological review of 446 reports and 1,005 eligible evaluation regimes, examining independence of final evaluation, physical and biological parent grouping, information leakage, external or shifted testing, and transportability. Following source-based methodological assessment and human adjudication, source-supported leakage was classified in 284/446 reports (63.7%); 36/446 (8.1%) showed strong potential concern, 85/446 (19.1%) had uncertain boundaries, and 41/446 (9.2%) had no identified leakage concern. External or shifted evaluation was reported in 278/446 reports (62.3%), although only 94/278 (33.8%) had an evaluation satisfying five strict criteria for transportability of an unchanged pipeline. At regime level, 135/521 external or shifted evaluations (25.9%) satisfied these criteria. Source-supported leakage occurred in 195/308 Biological reports (63.3%) and 87/133 Chemical/Material reports (65.4%): prevalence ratio 1.033 (95% CI 0.889–1.200). The primary comparison did not identify a significant difference across these domains. Casework claims should therefore be evaluated against the independence of the relevant forensic unit, the complete development–test boundary, the shift actually examined, any target-data adaptation, and the applicable performance denominator.",
+      "authors": "Paolo Bailo, Carlotta Virginia Di Francesco, Giulia Vignali et al.",
+      "published": "Nov 2026",
+      "feedName": "Frontiers Anal. Science",
+      "url": "https://www.frontiersin.org/articles/10.3389/frans.2026.2015605",
       "image": "",
       "screen": "left"
     },
@@ -192,12 +202,12 @@
       "screen": "left"
     },
     {
-      "title": "Quality evaluation of a traditional Chinese medicine compound preparation containing Rhodiola rosea, Astragalus membranaceus, and Carthamus tinctorius",
-      "abstract": "ObjectiveWe aim to improve the quality control of Rhodiola rosea, Astragalus membranaceus, and Carthamus tinctorius capsules (RAC capsule) from the aspects of thin-layer chromatography (TLC) and high-performance liquid chromatography (HPLC), respectively, and the established quality control methods are suitable for their popularization and application in large-scale production.MethodsA TLC method was established for the identification of R. rosea, A. membranaceus, and C. tinctorius in RAC capsules. A HPLC method with gradient elution and UV detection was established for simultaneous determination of salidroside, tyrosol, hydroxysafflor yellow A (HSYA), anhydrosafflor yellow B (ASYB), and rhodiolin.ResultsThe TLC chromatograms showed distinct and reproducible spots for the RAC capsule samples at positions consistent with those of the corresponding reference crude drugs, while no interfering spots were observed in the negative control samples. The HPLC method demonstrated excellent linearity (R2 > 0.9991) for all five analytes within their respective concentration ranges with precision, stability, and repeatability; RSDs all below 2%; and average recoveries ranging from 95.07% to 105.61%.ConclusionThe developed TLC and HPLC methods are specific, accurate, and robust, providing a reliable quality control strategy for RAC capsules. The study supports the standardization of this herbal capsule formulation and establishes a foundation for further pharmacological research and clinical investigations.",
-      "authors": "Zhisen Wang, Sisi Guo, Jun Chen et al.",
-      "published": "Sep 2026",
-      "feedName": "Frontiers Anal. Science",
-      "url": "https://www.frontiersin.org/articles/10.3389/frans.2026.1777096",
+      "title": "Antimicrobial efficacy of a propolis– postbiotics formulation against Salmonella enteritidis on eggshells during refrigerated and ambient storage",
+      "abstract": "IntroductionEggshell contamination by Salmonella Enteritidis remains a significant challenge to egg safety and shelf life. This study evaluated the antimicrobial potential of a natural bio‐wash formulation based on Propolis Ethanolic Extract (PEE), postbiotics from Lactiplantibacillus plantarum, and their combination for controlling S. Enteritidis and naturally occurring eggshell microbiota during storage at 25 and 4 °C. MethodsThe bioactive properties of PEE and the freeze dried postbiotics were characterized. Fresh eggs experimentally inoculated with approximately 6 log10 CFU/egg of S. Enteritidis were treated with PEE (50 and 100 mg/mL), postbiotics (50 and 100 mg/mL), or their combination (50 mg/mL of each component) and were monitored for 28 days at 25 and 4 °C.Results and Discussion PEE exhibited antibacterial (18.74 mm inhibition zone) and antioxidant (79.15 %) activities, and high total phenolic (236.87 mg GAE/g) and flavonoid (368.39 mg QE/g) contents. The postbiotics contained bioactive metabolites, including proteins, carbohydrates, lactic acid and short‐chain fatty acids. The treatments reduced S. Enteritidis populations and influenced the indigenous eggshell microbiota compared with the untreated control, with the magnitude of the effect depending on treatment composition and storage conditions (P < 0.05). Under refrigerated storage, antimicrobial treatments progressively reduced recoverable S. Enteritidis populations, with reductions of approximately 2.3–4.2 log10 CFU/egg by day 28 in the individual‐treatment groups. In the combined PEPO treatment, S. Enteriti…",
+      "authors": "Ali Motamedi, Naheed Mojgani, Mehran Moradi et al.",
+      "published": "Nov 2026",
+      "feedName": "Frontiers Food Science",
+      "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.1984382",
       "image": "",
       "screen": "left"
     },
@@ -232,12 +242,12 @@
       "screen": "left"
     },
     {
-      "title": "Computational fluid dynamics for active solar drying of tuber crops: a critical narrative review of modelling, validation and optimisation evidence and its transferability",
-      "abstract": "BackgroundCassava (Manihot esculenta), yam (Dioscorea spp.) and sweet potato (Ipomoea batatas) are highly perishable after harvest, and active (forced-convection) solar drying can reduce losses with little external energy. Dryer performance is governed by coupled airflow, heat transfer and moisture transport, which computational fluid dynamics (CFD) can resolve in principle. This critical narrative review appraises how far CFD and complementary models currently support the design, validation and optimisation of active solar dryers for tuber crops.MethodsA documented, non-exhaustive search of Scopus, Web of Science Core Collection, ScienceDirect and Google Scholar (to 30 September 2026), supplemented by citation chaining, was used. Evidence was classified into four tiers: direct tuber CFD; tuber-specific non-CFD numerical models; tuber experimental and kinetic studies; and transferable CFD or multiphysics studies of solar dryers for other products. Studies were compared on governing equations, turbulence and radiation treatment, product and moisture representation, numerical verification and validation error. The review is not systematic and does not report a PRISMA flow diagram or pooled estimates.ResultsOf the 41 sources cited, 14 are primary studies. Only one study applied CFD with a tuber product explicitly represented: a sweet-potato dryer in which the loaded racks were modelled as porous thermal media without moisture transport. In that study, CFD and a lumped-capacitance model both predicted a steady chamber temperature rise of about 40 °C, and fitting the rack heat-t…",
-      "authors": "Chinyere Nneoma Ugwu",
-      "published": "Nov 2026",
-      "feedName": "Frontiers Food Science",
-      "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.1988554",
+      "title": "Cyclo(L-Trp-D-Tyr) suppresses ergosterol biosynthesis in Candida albicans for food preservation",
+      "abstract": "",
+      "authors": "Haoxiong Li, Jun Xu, Liyuan Chen et al.",
+      "published": "Apr 2027",
+      "feedName": "Food Microbiology",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0740002026003266?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -272,13 +282,13 @@
       "screen": "left"
     },
     {
-      "title": "Tea-derived osmotolerant yeast Papiliotrema flavescens bioaugmentation reshapes flavor metabolism across tea fermentation and storage",
+      "title": "The Gut Microbiota/Gut Brain/BDNF Axis Mediates Ginsenoside Re’s Neuroprotection in Parkinson’s Disease",
       "abstract": "",
-      "authors": "Bingsong Ma, Shuya Han, Yuan Cao et al.",
-      "published": "Apr 2027",
-      "feedName": "Food Microbiology",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0740002026003217?dgcid=rss_sd_all",
-      "image": "",
+      "authors": "Mengjie Tang, Fangyuan Zhang, Ziqi Liang et al.",
+      "published": "Nov 2026",
+      "feedName": "npj Science of Food",
+      "url": "https://www.nature.com/articles/s41538-026-01210-x",
+      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01210-x/MediaObjects/41538_2026_1210_Fig1_HTML.png",
       "screen": "left"
     },
     {
@@ -309,16 +319,6 @@
       "feedName": "npj Science of Food",
       "url": "https://www.nature.com/articles/s41538-026-01234-3",
       "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01234-3/MediaObjects/41538_2026_1234_Fig1_HTML.png",
-      "screen": "left"
-    },
-    {
-      "title": "Thermal Inactivation Parameters of Salmonella in Lipid-Based Nutrient Supplements",
-      "abstract": "",
-      "authors": "Mario Çobo, Robert Baker, Jonathan Sogin et al.",
-      "published": "Nov 2026",
-      "feedName": "npj Science of Food",
-      "url": "https://www.nature.com/articles/s41538-026-01237-0",
-      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01237-0/MediaObjects/41538_2026_1237_Fig1_HTML.png",
       "screen": "left"
     },
     {
@@ -442,6 +442,16 @@
       "screen": "right"
     },
     {
+      "title": "Why obesity affects men and women differently may be hiding in their fat",
+      "abstract": "Scientists at the University of California, Riverside have uncovered a surprising reason why males and females may respond differently to obesity. In a study involving mice, researchers discovered that immune cells traditionally associated with allergies and asthma can either protect against obesity-related inflammation or contribute to harmful metabolic changes, depending on their type and biological sex.",
+      "authors": "",
+      "published": "Nov 2026",
+      "feedName": "ScienceDaily Nutrition",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261117033907.htm",
+      "image": "https://www.sciencedaily.com/images/1920/weight-loss-burning-fat-cells-adipose-tissue.webp",
+      "screen": "right"
+    },
+    {
       "title": "Wine, beer, or spirits? Massive study reveals a surprising health divide",
       "abstract": "A massive study of more than 340,000 adults found that moderate wine drinkers had a 21% lower risk of cardiovascular death, while even light consumption of beer, cider, or spirits was linked to increased risk. Although heavy drinking was harmful regardless of beverage type, the findings suggest that the relationship between alcohol and health may be more complicated than previously thought.",
       "authors": "",
@@ -472,93 +482,83 @@
       "screen": "right"
     },
     {
-      "title": "A common osteoporosis drug blocked spinal damage in a surprising new study",
-      "abstract": "Scientists have uncovered a surprising genetic connection to spinal degeneration and found that an existing osteoporosis drug can prevent damaging mineral buildup in zebrafish spines. The discovery could pave the way for new treatments that slow or prevent a major cause of chronic back pain.",
-      "authors": "",
-      "published": "Nov 2026",
-      "feedName": "ScienceDaily Nutrition",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261113232105.htm",
-      "image": "https://www.sciencedaily.com/images/1920/radiograph-x-ray-back-bone-spinal-pain.webp",
-      "screen": "right"
-    },
-    {
-      "title": "Building evidence on the association between hair micronutrient concentrations and disease activity in ulcerative colitis through hair trace element profiling: an exploratory analysis",
-      "abstract": "IntroductionMicronutrients are vital for immune and metabolic functions. Although growing evidence highlights their potential role in ulcerative colitis (UC), the relationship between hair micronutrient concentrations and UC activity remains insufficiently defined. This study aimed to explore associations between baseline hair micronutrient concentrations and disease activity at 6 months in patients with UC.MethodsThis exploratory analysis prospective cohort study included 25 adult patients diagnosed with UC. Disease activity was measured using the Mayo score at baseline and at 6 months. The baseline evaluation included the assessment of clinical and demographic parameters, blood sampling, and hair samples for trace elements evaluation using energy dispersive X-ray spectroscopy. Two multiple linear regression models logistic regression models have been developed to predict assess the association with the disease outcome at 6 months., the first model was fed only with blood parameters, while the second model was built using as inputs both blood tests and micronutrient hair concentrations.ResultsBoth models reflected the variance in disease activity-76.3% (adjusted R2), F = 13.88, p < 0.001, while the second model explained 92.4% of the variance in disease activity, F = 31.49, p < 0.001. When comparing the two models, incorporating hair micronutrient concentrations significantly improved the prediction association with theof disease activity at 6 months (p < 0.001). Baseline Mayo score, lymphocyte count, CRP, and albumin, were consistent predictors, while hair magnesium, iron…",
-      "authors": "Georgiana-Emmanuela Gilca-Blanariu, Iolanda Valentina Popa, Roxana Mihaela Bratu et al.",
+      "title": "The effect of extravirgin olive oil on the plasma metabolome of aged htau mice, a model of human tauopathy",
+      "abstract": "BackgroundAlzheimer's disease and related tauopathies involve both central neurodegeneration and peripheral metabolic disturbances. Clinical and preclinical studies have shown that administration of extra virgin olive oil (EVOO) results in better cognitive functions, amelioration of synaptic integrity, reduction of neuroinflammation and neuropathology in Alzheimer's disease and related tauopathies. However, the effect of EVOO on peripheral metabolic products and networks in the context of tauopathy remains not fully elucidated.MethodsTwenty-two-month-old htau mice were fed either standard chow or chow supplemented with EVOO for 8 weeks. Plasma metabolites were profiled using untargeted LC-MS, followed by multivariate statistics, differential abundance testing, and KEGG pathway enrichment.ResultsIn this exploratory pilot study, we investigated the impact of chronic EVOO supplementation on the plasma metabolome of a well-established model of human tauopathy, the htau-mice. Compared with controls, EVOO was associated with significant alterations of several metabolites such as phospholipids, lysophospholipids, triglycerides, diacylglycerols, acylcarnitines, bile acids, and eicosanoids. Enrichment analysis indicated a broad engagement of pathways governing membrane composition, mitochondrial lipid utilization, and inflammatory lipid signaling.ConclusionOverall, EVOO consumption was associated with a metabolic signature characterized by better peripheral lipid homeostasis and metabolism together with an improved anti-inflammatory and anti-oxidative stress response. Our data sugge…",
+      "authors": "Mohammad Shahadat Hossain, Alessandro Leone, Domenico Praticò",
       "published": "Nov 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1956694",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1847577",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Associations between potential trigger foods and disease activity in patients with inflammatory bowel disease; a cross-sectional study",
-      "abstract": "IntroductionPatients with inflammatory bowel disease (IBD) often report one or more foods to cause or aggravate relapse, and tend to restrict intake of these foods. Some of the foods that patients avoid are suggested in the literature to demonstrate pro- or anti-inflammatory potential. Thus, we investigated whether IBD disease activity was associated with foods that patients report as relapse triggers considering their inflammation-related properties, macronutrients, and blood markers of nutritional status.MethodsPatients with IBD ≥ 18 years from the IBSEN III (Inflammatory Bowel Disease in South-Eastern Norway) study completed a food frequency questionnaire covering habitual food intake the preceding year. Intake of food groups was either estimated through splitting foods down into their ingredients (method 1) or as consumed (method 2). Endoscopic indices and fecal calprotectin were applied to differentiate between inactive and active IBD. Multivariate logistic regression models were used to assess associations.ResultsA total of 301 patients with IBD were included. Most foods patients reported as triggers did not associate with IBD disease activity. Margarine intake associated with active IBD (OR 1.22, 95% CI 1.07–1.40), but lost significance in the endoscopy-only analysis OR 1.74 (95% CI 1.21, 2.51, p = 0.003), and no significant associations for macronutrients or blood markers of nutritional status.ConclusionNearly all foods identified by patients as relapse triggers, regardless of their pro- or anti-inflammatory properties, showed no association with active IBD. These h…",
-      "authors": "Insaf Zerouga, Jørgen Valeur, Christine Sommer et al.",
+      "title": "Machine learning–optimized ultrasound processing of mealworm-enriched apple vinegar",
+      "abstract": "Machine learning–based modelling and multi-objective optimization were applied to evaluate the effects of ultrasound-assisted processing on mealworm flour-enriched apple vinegar. The influences of mealworm flour concentration, ultrasound amplitude, and treatment time on total phenolic content (TPC) and antioxidant activity (DPPH) were investigated using regression-based machine learning algorithms and Pareto-based optimization approaches. Among the evaluated models, the Poly2-ElasticNet model showed the best LOOCV performance and the lowest prediction error within the investigated dataset. Multi-objective optimization identified the most balanced operating conditions for maximizing both TPC and DPPH responses. Under optimized conditions, the combined mealworm flour fortification and ultrasound treatment resulted in higher bioactive values than the untreated and thermally pasteurized unfortified samples. The optimized ultrasound-treated mealworm-enriched vinegar exhibited the highest TPC (121.73 mg GAE/100 mL), DPPH radical-scavenging activity (61.69%), and total flavonoid content (32.16 mg CE/100 mL). HPLC-DAD analysis revealed that procyanidin B2, epicatechin, andchlorogenic acid were among the predominant phenolic compounds in AV-OPT-MW-US, and their concentrations were significantly higher than in AV-PAS. SPME-GC–MS analysis showed that several esters and alcohols were numerically higher in AV-OPT-MW-US than in AV-PAS, although they remained below the levels in AV-CON. In addition, LC–MS/MS analysis showed increased levels of amino acids, including glutamic acid, alanine…",
+      "authors": "Okan Levent, Dilek Dülger Altıner, Deniz Aktaran Bala et al.",
       "published": "Nov 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1889382",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.2006029",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Foods and beverages reported in Gulf Cooperation Council countries: a scoping review",
-      "abstract": "Traditional foods and beverages are integral to the cultural heritage and dietary identity of Gulf Cooperation Council (GCC) countries. However, the foods and beverages documented in the published literature have not been synthesized. This scoping review mapped the identifiable foods and beverages reported in published studies conducted in GCC countries, distinguishing items with source-supported traditional status from other reported items. In accordance with the PRISMA-ScR guideline, PubMed and ScienceDirect were searched for English-language studies published through 20 March 2026, using terms for traditional or popular foods, dietary assessment, and GCC countries. The unit of analysis was the food or beverage record extracted from each included study. Records were de-duplicated within studies, harmonized to standardized names, and classified using a hierarchical framework adapted from FAO and FoodEx2 with study-specific modifications, and dish categories developed for this review. The extracted records were analyzed descriptively by country, food group and subgroup, dish category, and reporting frequency. The findings reflect the studies retrieved through the specified search strategy, not a comprehensive map of the GCC literature. Fifteen studies published between 1991 and 2025 were included, contributing 571 records (481 foods, 84.2%; 90 beverages, 15.8%). Most records came from studies conducted in Saudi Arabia (n = 312, 54.6%) and the United Arab Emirates (n = 162, 28.4%), with far fewer from Bahrain (n = 71, 12.4%), Qatar (n = 17, 3.0%), Kuwait (n = 6, 1.1%), and O…",
-      "authors": "Ghadir Fallata, Amal A. Aloud",
+      "title": "Normal is not sufficient: reading athletes’ laboratory results beyond population reference intervals",
+      "abstract": "Athletes’ laboratory results are interpreted against population reference intervals (RIs), which represent the central 95% of an apparently healthy population. These RIs describe a reference population and support clinical interpretation, but they do not judge nutrient sufficiency for training, readiness, and long-term health. They fail athletes in two directions: training physiology (plasma volume expansion, muscle damage, and hemolysis) pushes healthy values outside of the RI, while insufficiency falls within it. Purpose-defined decision thresholds exist but cannot be derived from the RI: for iron, the thresholds sit well inside it; for vitamin D, a statistically derived interval is contaminated by prevalent insufficiency; for zinc, a single value provides little insight without standardized sampling; for hydration, the rule was never based on intervals; and for energy availability, the indicators lie within the interval or above its upper limit. The 2026 American Society of Hematology ferritin guideline shows that a statistical lower limit is not a diagnostic threshold. I propose three layers: population RI, which flags unusual values; purpose-defined thresholds, which identify insufficiency or risk and differ based on the quality of supporting evidence; and a “nutritional passport,” modeled on the Athlete Biological Passport, which reads the athlete against their own baseline through reference change values. A worked ferritin example shows the layers disagreeing and the third layer depending on within-subject variation data which, for ferritin, the only athlete cohort s…",
+      "authors": "Masaki Kaneko",
       "published": "Nov 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1928828",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.2030035",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Maternal and early-life nutritional programming: effects on neurodevelopment and metabolic outcomes",
-      "abstract": "The first 1,000 days of life, spanning from preconception through early childhood, represent a highly sensitive developmental window during which nutritional exposures may exert long-lasting effects on health. Optimal nutrition during this period is foundational not only for favorable birth outcomes and infant growth but also for establishing long-term metabolic homeostasis and neurodevelopmental trajectories. Emerging research highlights the gut-brain-metabolism axis as a pivotal integrative pathway, where early dietary patterns shape the microbiome to exert systemic effects via epigenetic mechanisms and biological programming. While specific nutrients and dietary patterns play regulatory roles in fetal development, nutritional imbalances and adverse exposures can disrupt these delicate processes, increasing susceptibility to chronic diseases in adolescence and adulthood. This review summarizes current evidence on the impact of maternal and early childhood nutrition, emphasizing the interplay between diet, microbiome composition, and physiological outcomes. Furthermore, it identifies critical gaps in current literature, particularly the scarcity of longitudinal studies extending beyond childhood, and underscores the urgent need for robust research to guide targeted, evidence-based interventions that break the cycle of intergenerational disease risk.",
-      "authors": "Ying Gu, Qing Liu, Yuanyuan Zhang",
+      "title": "Association of preoperative objective nutritional indices with postoperative adverse events after routine spinal surgery: a systematic review and meta-analysis",
+      "abstract": "ObjectiveTo systematically evaluate the associations of preoperative objective nutritional indices with postoperative adverse events in patients undergoing spinal surgery, with a focus on PNI, GNRI, and CONUT.MethodsA systematic search was conducted in PubMed/MEDLINE, Embase, Web of Science, and the Cochrane Library from inception to June 1, 2026. Studies reporting preoperative objective nutritional indices and postoperative adverse events in adult spinal surgery patients were included. The QUIPS tool was used to assess risk of bias. Multivariable-adjusted effect estimates were preferentially extracted and pooled using random-effects models to calculate odds ratios (OR) and 95% confidence intervals (CI).ResultsEighteen studies of routine spinal surgery were ultimately included. Five studies showed that study-defined low preoperative PNI was associated with an increased risk of composite overall/medical adverse events, with a pooled OR of 2.71 (95% CI: 2.25–3.26, p < 0.001). No statistical heterogeneity was detected, although clinical heterogeneity remained possible. An exploratory cutoff-stratified analysis did not establish a unified optimal PNI threshold. Outcome-specific analyses of continuous PNI for postoperative delirium and surgical site infection were inconclusive and were considered exploratory. An exploratory pooled analysis suggested an association between high GNRI nutritional risk and composite overall/medical adverse events (OR = 4.06, 95% CI: 1.26–13.07, p = 0.036), although heterogeneity was high and the estimate was imprecise. Each 1-point increase in CONUT…",
+      "authors": "Bo Shi, Lijun Li, Wenjuan Xie",
       "published": "Nov 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1986364",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1932587",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Maternal fish or n-3 polyunsaturated fatty acid intake during pregnancy and risk of impaired kidney function at 6 years of age: the Japan environment and children’s study",
-      "abstract": "Purpose Chronic kidney disease in children causes kidney failure and growth impairment, making its prevention an urgent clinical and public health priority. Experimental animal studies have suggested that maternal intake of n-3 polyunsaturated fatty acids (PUFAs) during pregnancy may have kidney-protective effects in offspring; however, evidence in humans remains limited. Therefore, this study aimed to investigate the association between maternal fish or n-3 PUFA intake during pregnancy and kidney dysfunction in children. Methods We analyzed data from the Japan Environment and Children’s Study, a nationwide prospective birth cohort. A total of 2,679 mother–child pairs were included. Kidney dysfunction was defined as an estimated glomerular filtration rate < 90 mL/min/1.73 m² at 6 years of age. Maternal fish or n-3 PUFA intake during pregnancy was categorized into quintiles. Multivariable logistic regression models were used to estimate the associations. Results At 6 years of age, 262 children (9.8%) had decreased kidney function. In the adjusted model, maternal fish intake in the highest quintile was associated with a significantly lower risk of kidney dysfunction compared with the lowest quintile (odds ratio, 0.63; 95% confidence interval, 0.41–0.99). Maternal n-3 PUFA intake showed a similar trend, although the association was not statistically significant. Conclusion Higher maternal fish intake during pregnancy was associated with a reduced risk of kidney dysfunction in offspring, whereas maternal n-3 PUFA intake showed no significant association. These findings suggest …",
+      "title": "Mediterranean diet indices are not interchangeable in Crohn’s disease: correlation and agreement between two common methods",
+      "abstract": "Purpose Different Mediterranean diet indices include different diet components and score against either absolute or relative intakes. This study aimed to examine correlation and agreement between two commonly used Mediterranean diet indices in patients with active Crohn’s disease in the UK. Methods 153 patients with mild-moderately active Crohn’s disease provided 7-day food records. Mediterranean Diet Adherence Screener (MEDAS, absolute cut-offs) and alternate Mediterranean Diet Score (aMED, relative cut-offs) were calculated from the same food record. Participants were divided into tertiles of total score and to pre-defined cut-offs for low, moderate or high adherence, and agreement and weighted Cohen’s kappa (κ) between tertiles were calculated. Results Mean MEDAS score was 3.9 (standard deviation 1.5) and mean aMED score was 4.2 (standard deviation 1.9). There was a moderate correlation between MEDAS and aMED scores ( r s = 0.52, p < 0.001). When divided into tertiles of total score, agreement between indices was 50.3% with only fair agreement (κ = 0.37, 95% CI 0.25 to 0.48). When classified into adherence categories (low, moderate, high), agreement was 39.2% with only slight agreement (κ = 0.14, 95% CI 0.09 to 0.19). Conclusion Despite a moderate correlation, there was only fair agreement between tertiles of total scores and slight agreement in assigning participants to adherence categories. Mediterranean diet indices are not interchangeable and, in this UK population, rank the same individuals with active Crohn’s disease differently.",
       "authors": "",
       "published": "Nov 2026",
       "feedName": "Eur. J. Nutrition",
-      "url": "https://link.springer.com/article/10.1007/s00394-026-04165-7",
-      "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1007%2Fs00394-026-04165-7/MediaObjects/394_2026_4165_Fig1_HTML.png",
+      "url": "https://link.springer.com/article/10.1007/s00394-026-04171-9",
+      "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1007%2Fs00394-026-04171-9/MediaObjects/394_2026_4171_Fig1_HTML.png",
       "screen": "right"
     },
     {
-      "title": "Hydrocolloid food additive intake in the Norwegian population: a dietary exposure assessment",
-      "abstract": "Purpose Hydrocolloid food additives are abundant in foodstuffs and found across many food groups. Recent studies suggest that certain hydrocolloids may exert negative health effects, but quantitative data regarding their intake in the population remains scarce. The purpose of this study was to map the dietary intake and exposure prevalence of 15 hydrocolloid food additives in the Norwegian population, providing a foundation for research linking dietary intake to health outcomes. Method Data were obtained from Norkost 4, a nationwide, cross-sectional dietary survey utilizing two non-consecutive 24-hour dietary recalls among 1964 Norwegian adults. The presence of 15 hydrocolloid additives in the food items consumed was identified through ingredient lists, and concentration data were derived from the European Food Safety Authority (EFSA). Results Dietary exposure to hydrocolloids was widespread in the cohort but varied across individual hydrocolloids and food categories. Guar gum demonstrated the highest exposure prevalence (92%), whereas others, such as methyl cellulose, were rarely encountered. Demographically, the characteristics of high-tier consumers were highly additive-specific, indicating that no single, homogeneous profile of an “extreme additive consumer” exists. Furthermore, comparisons with international cohorts underscore how the choice of analytical framework and concentration data impacts estimation of exposure outcomes, making cross-country comparisons challenging. Conclusion This comprehensive assessment provides the first mapping of hydrocolloid intake, and t…",
+      "title": "Dietary oat protein hydrolysate and B-glucan improve glycemic control in diet-induced obese male mice",
+      "abstract": "Purpose Oat protein hydrolysate (OPH) has been shown to inhibit dipeptidyl peptidase-4 (DPP-4) in vitro, thereby potentially enhancing the effect of glucagon like peptide-1 (GLP-1) to improve glucose metabolism. However, its physiological effect in vivo has not been tested. This study aimed to investigate the preventive and therapeutic effects of OPH on glucose regulation in non-obese and obese male mice, respectively. Methods Two different animal trials were conducted; trial-1 using non-obese mice and trial-2 using diet-induced obese mice. In both trials, mice were randomized into one of five dietary groups: a high-fat (HF) diet as control, HF with 25% protein replaced by oat protein (OP), HF with 25% protein replaced by OPH (OPH), HF with 10% fiber replaced by β-glucan (BG), and HF combining OPH and BG (OPH+BG). Glucose tolerance and insulin sensitivity were assessed, along with plasma insulin and active GLP-1 levels. At week 5 of intervention, a subset of control obese mice underwent a meal tolerance test (MTT) following an oral dose of dextrose combined with OP, OPH, or casein. Results OPH reduced body weight gain in both non-obese and obese mice, while food intake was similar across the groups. Improvement in glucose tolerance was observed in obese mice receiving OPH+BG, whereas no significant differences were seen in insulin sensitivity, plasma insulin, or GLP-1 levels. The MTT revealed no differences in glucose tolerance or insulin responses across the diets. Conclusion Despite OPH being associated with reduced body weight gain in both non-obese and obese mice, it di…",
       "authors": "",
       "published": "Nov 2026",
       "feedName": "Eur. J. Nutrition",
-      "url": "https://link.springer.com/article/10.1007/s00394-026-04159-5",
-      "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1007%2Fs00394-026-04159-5/MediaObjects/394_2026_4159_Fig1_HTML.png",
+      "url": "https://link.springer.com/article/10.1007/s00394-026-04147-9",
+      "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1007%2Fs00394-026-04147-9/MediaObjects/394_2026_4147_Fig1_HTML.png",
       "screen": "right"
     },
     {
-      "title": "Differential effects of pea protein isolate, pea protein concentrate, and whey protein isolate supplementation on gut microbiota and metabolic markers in healthy adults: a 3-arm parallel randomised intervention",
-      "abstract": "Purpose As origin and quality of dietary protein are key modulators of gut microbiota and host metabolism, characterising health effects of different proteins is increasingly important given the need to shift towards more plant-based protein sources for environmental sustainability. Yet, direct comparisons across protein sources and food matrices in humans remain limited. This randomised, double-blind, 3-arm parallel, dietary intervention study examined the effects of four-week pea protein concentrate (PPC), pea protein isolate (PPI) or whey protein isolate (WPI) supplementation (0.5 g/kg body mass/day) on gut microbiota composition in healthy adults as the main outcome. Methods Faecal samples and lifestyle questionnaires were collected weekly, with fasting blood and 24-h urine samples obtained at baseline, mid- and post-intervention. Proteins were compared using two contrasts – PPC vs. PPI and PPI vs. WPI – investigating differences between plant and animal-based proteins as well as between plant-based proteins with different matrixes. Results Supplementation of PPC and PPI significantly reduced α-diversity and increased β-diversity, partly modulated by BMI. At species level, relative abundances of Anaerobutyricum hallii and Bifidobacterium longum increased significantly in subjects consuming PPC. A similar result was observed for Lactobacillus crispatus and Limosilactobacillus frumenti in subjects consuming PPI. Conclusion Our findings demonstrate that different dietary proteins selectively modulate beneficial gut microbial species, highlighting the importance of investig…",
+      "title": "Intragastric administration of the bitter tastant, quinine, reduces postprandial plasma glucose without affecting gastric emptying in health",
+      "abstract": "Purpose In health and type 2 diabetes, intraluminal administration of quinine stimulates glucoregulatory hormones and slows gastric emptying, key determinants of postprandial plasma glucose, following oral carbohydrate. We have now investigated these effects following a mixed solid-liquid meal, with gastric emptying quantified using scintigraphy, the ‘gold-standard’ technique. Methods On three separate days, nine middle-aged individuals without diabetes (age: 51 ± 8 years) received 0 (‘control’), 300 (‘Q300’) or 600 (‘Q600’) mg quinine hydrochloride intragastrically, 60 min before a standardised mixed solid-liquid meal (100 g beef burger radiolabelled with 99m Tc-phytate and 150 mL 10% glucose drink radiolabelled with 67 Ga-EDTA), in randomised, double-blind fashion. Plasma glucose, insulin and glucagon were measured at baseline, for 60 min before, and for 120 min after, the meal. Gastric emptying was measured using scintigraphy. Data were analysed using repeated-measures ANOVA. Results Q600 and Q300 both reduced plasma glucose immediately before the meal, at t=–5 min, as well as overall and peak postprandial glucose, when compared with control, in a dose-dependent manner ( P < 0.05). Q600 stimulated plasma insulin before the meal at t=–20 min ( P = 0.04), and the postprandial plasma insulin-to-glucose ratio ( P = 0.02), compared with control. Both overall and peak postprandial plasma glucose were inversely related to plasma insulin at t=–20 min ( R <–0.51, P < 0.05). Quinine did not affect plasma glucagon or gastric emptying. Conclusion Intragastric quinine lowers the plas…",
       "authors": "",
       "published": "Nov 2026",
       "feedName": "Eur. J. Nutrition",
-      "url": "https://link.springer.com/article/10.1007/s00394-026-04143-z",
-      "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1007%2Fs00394-026-04143-z/MediaObjects/394_2026_4143_Fig1_HTML.png",
+      "url": "https://link.springer.com/article/10.1007/s00394-026-04170-w",
+      "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1007%2Fs00394-026-04170-w/MediaObjects/394_2026_4170_Fig1_HTML.png",
       "screen": "right"
     },
     {
-      "title": "Energy drink consumption and associated lifestyle factors among German adolescents: findings from the EDKAR-study",
-      "abstract": "Purpose The consumption of energy drinks (EDs) has become increasingly popular among adolescents. The present study aimed to comprehensively characterize ED consumption behavior and associated lifestyle factors in pupils aged 15–18 years. Methods The cross-sectional EDKAR-study assessed data from 5100 German pupils using an online questionnaire. Following exclusion criteria, 4893 pupils were categorized into six ED consumer groups based on the frequency, duration, and quantity of their reported ED consumption: non-consumers, occasional, moderate, regular, chronic low, and chronic high consumers. Results Overall, 65.6% ( n = 3208) reported ED consumption within the past 12 months, 12.6% on ≥ 4 days per week, and 3.9% daily. Median (IQR) daily ED intake was higher in groups with more frequent ED consumption, ranging from 20.5 ml/day (5.3–41.0) among occasional consumers to 818 ml/day (571–1250) among chronic high consumers. Reported adverse effects likewise increased from occasional to chronic high consumers, ranging from 23.2% to 50.2%, with palpitations, poor sleep, headaches, and chest pressure reported most frequently. Harmful lifestyle behaviors also increased from non-consumers to chronic high consumers, including alcohol intake (from 0.2 to 2.3 glasses per week), smoking rates (from 5.6% to 53.3%; cannabis: from 10.3% to 48.8%), short sleep duration (< 5 h/night on weekdays: from 4.7% to 20.6%), and excessive daily screen time (> 8 h/day: from 35.8% to 72.8%). Conclusion The EDKAR-study highlights the high prevalence of ED consumption among German adolescents and its a…",
+      "title": "Maternal and cord blood fatty acids are associated with anthropometric measures in adolescent children",
+      "abstract": "Purpose India carries a high burden of small-for-gestational-age (SGA) births, influenced by maternal nutrition. Fatty acids (FA) are crucial for fetal growth and pregnancy outcomes. We previously reported a positive association between maternal n-6:n-3 ratio with greater skinfold thickness in children aged 3–7 years. This study examines whether maternal and cord fatty acid status is associated with anthropometry in adolescence. Methods This prospective cohort included 509 adolescents aged 11–17 years (SGA = 213; appropriate for gestational age [AGA] = 296). Anthropometry includes height, weight, BMI, mid upper arm circumference (MUAC), waist circumference (WC), hip circumference (HipC) and sum of skinfold thickness (SS). Puberty was classified as early or mid-late. Multivariable linear regression assessed associations between maternal and cord FA and anthropometry. Results Adolescents born SGA had lower BMI ( p < 0.05) and anthropometric measures ( p < 0.01) than AGA, while SS was comparable. In mid-late puberty, higher maternal saturated FA and n-6:n-3 ratio were positively associated with BMI, SS, WC and HipC ( p < 0.05), whereas maternal n-3 and total polyunsaturated FA levels were inversely associated with HipC and SS respectively (both p < 0.05). The maternal Δ6 desaturase index was positively associated with BMI, WC and HipC ( p < 0.05). Cord n-3 FA levels showed an inverse association with BMI, SS, WC and HipC ( p < 0.01). No associations were observed between maternal FA and anthropometric measures among children in early puberty, Conversely, the cord Δ5 desaturase…",
       "authors": "",
       "published": "Nov 2026",
       "feedName": "Eur. J. Nutrition",
-      "url": "https://link.springer.com/article/10.1007/s00394-026-04153-x",
-      "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1007%2Fs00394-026-04153-x/MediaObjects/394_2026_4153_Fig1_HTML.png",
+      "url": "https://link.springer.com/article/10.1007/s00394-026-04149-7",
+      "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1007%2Fs00394-026-04149-7/MediaObjects/394_2026_4149_Fig1_HTML.png",
       "screen": "right"
     },
     {
@@ -649,7 +649,7 @@
       "venue": "Food and Bioprocess Technology",
       "feedName": "Lab Research",
       "citationCount": 6,
-      "recentCitations": 0,
+      "recentCitations": 1,
       "quartile": "Q1",
       "s2_paper_id": "034d8c4f0c0f5607a4e6727360aa5d7287e60d5b",
       "url": "https://doi.org/10.1007/s11947-025-03873-y",
@@ -849,7 +849,7 @@
       "venue": "Advanced Functional Materials",
       "feedName": "Lab Research",
       "citationCount": 24,
-      "recentCitations": 0,
+      "recentCitations": 1,
       "quartile": "Q1",
       "s2_paper_id": "f8de42bddd0ecab555075b5f1e2cdce6f18f1a56",
       "url": "https://doi.org/10.1002/adfm.202306586",

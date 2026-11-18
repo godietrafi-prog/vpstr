@@ -1,16 +1,6 @@
 {
-  "updated": "2026-11-17T23:19:26Z",
+  "updated": "2026-11-18T05:25:09Z",
   "items": [
-    {
-      "title": "Author Correction: A systematic scoping review of environmental, food security and health impacts of food system plastics",
-      "abstract": "",
-      "authors": "Joe Yates, Megan Deeney, Heike B. Rolker et al.",
-      "published": "Nov 2026",
-      "feedName": "Nature Food",
-      "url": "https://www.nature.com/articles/s43016-026-01464-4",
-      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs43016-026-01464-4/MediaObjects/43016_2026_1464_Fig1_HTML.png",
-      "screen": "left"
-    },
     {
       "title": "Food production policies can enhance multi-pollutant control of Chinese rivers",
       "abstract": "Food production policies can directly impact water quality. This study evaluates five policy pathways to enhance multi-pollutant control in Chinese rivers, considering nutrient inputs, plastics, antibiotics and herbicides.",
@@ -39,6 +29,16 @@
       "feedName": "Nature Food",
       "url": "https://www.nature.com/articles/s43016-026-01459-1",
       "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs43016-026-01459-1/MediaObjects/43016_2026_1459_Fig1_HTML.png",
+      "screen": "left"
+    },
+    {
+      "title": "Wheat yield sensitivity to compound hot–dry–windy events is increasing in China",
+      "abstract": "Increasing hot–dry–windy events threaten wheat yields in China, with significant yield losses linked to high-temperature, low-humidity conditions. Analysis of extensive yield and climate data reveals worsening sensitivity trends, emphasizing the need for adaptive strategies in agricultural practices.",
+      "authors": "Tengcong Jiang, Bin Wang, Zhihao He et al.",
+      "published": "Nov 2026",
+      "feedName": "Nature Food",
+      "url": "https://www.nature.com/articles/s43016-026-01452-8",
+      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs43016-026-01452-8/MediaObjects/43016_2026_1452_Fig1_HTML.png",
       "screen": "left"
     },
     {
@@ -522,16 +522,6 @@
       "screen": "right"
     },
     {
-      "title": "Hydrocolloid food additive intake in the Norwegian population: a dietary exposure assessment",
-      "abstract": "Purpose Hydrocolloid food additives are abundant in foodstuffs and found across many food groups. Recent studies suggest that certain hydrocolloids may exert negative health effects, but quantitative data regarding their intake in the population remains scarce. The purpose of this study was to map the dietary intake and exposure prevalence of 15 hydrocolloid food additives in the Norwegian population, providing a foundation for research linking dietary intake to health outcomes. Method Data were obtained from Norkost 4, a nationwide, cross-sectional dietary survey utilizing two non-consecutive 24-hour dietary recalls among 1964 Norwegian adults. The presence of 15 hydrocolloid additives in the food items consumed was identified through ingredient lists, and concentration data were derived from the European Food Safety Authority (EFSA). Results Dietary exposure to hydrocolloids was widespread in the cohort but varied across individual hydrocolloids and food categories. Guar gum demonstrated the highest exposure prevalence (92%), whereas others, such as methyl cellulose, were rarely encountered. Demographically, the characteristics of high-tier consumers were highly additive-specific, indicating that no single, homogeneous profile of an “extreme additive consumer” exists. Furthermore, comparisons with international cohorts underscore how the choice of analytical framework and concentration data impacts estimation of exposure outcomes, making cross-country comparisons challenging. Conclusion This comprehensive assessment provides the first mapping of hydrocolloid intake, and t…",
-      "authors": "",
-      "published": "Nov 2026",
-      "feedName": "Eur. J. Nutrition",
-      "url": "https://link.springer.com/article/10.1007/s00394-026-04159-5",
-      "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1007%2Fs00394-026-04159-5/MediaObjects/394_2026_4159_Fig1_HTML.png",
-      "screen": "right"
-    },
-    {
       "title": "Maternal fish or n-3 polyunsaturated fatty acid intake during pregnancy and risk of impaired kidney function at 6 years of age: the Japan environment and children’s study",
       "abstract": "Purpose Chronic kidney disease in children causes kidney failure and growth impairment, making its prevention an urgent clinical and public health priority. Experimental animal studies have suggested that maternal intake of n-3 polyunsaturated fatty acids (PUFAs) during pregnancy may have kidney-protective effects in offspring; however, evidence in humans remains limited. Therefore, this study aimed to investigate the association between maternal fish or n-3 PUFA intake during pregnancy and kidney dysfunction in children. Methods We analyzed data from the Japan Environment and Children’s Study, a nationwide prospective birth cohort. A total of 2,679 mother–child pairs were included. Kidney dysfunction was defined as an estimated glomerular filtration rate < 90 mL/min/1.73 m² at 6 years of age. Maternal fish or n-3 PUFA intake during pregnancy was categorized into quintiles. Multivariable logistic regression models were used to estimate the associations. Results At 6 years of age, 262 children (9.8%) had decreased kidney function. In the adjusted model, maternal fish intake in the highest quintile was associated with a significantly lower risk of kidney dysfunction compared with the lowest quintile (odds ratio, 0.63; 95% confidence interval, 0.41–0.99). Maternal n-3 PUFA intake showed a similar trend, although the association was not statistically significant. Conclusion Higher maternal fish intake during pregnancy was associated with a reduced risk of kidney dysfunction in offspring, whereas maternal n-3 PUFA intake showed no significant association. These findings suggest …",
       "authors": "",
@@ -539,6 +529,16 @@
       "feedName": "Eur. J. Nutrition",
       "url": "https://link.springer.com/article/10.1007/s00394-026-04165-7",
       "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1007%2Fs00394-026-04165-7/MediaObjects/394_2026_4165_Fig1_HTML.png",
+      "screen": "right"
+    },
+    {
+      "title": "Hydrocolloid food additive intake in the Norwegian population: a dietary exposure assessment",
+      "abstract": "Purpose Hydrocolloid food additives are abundant in foodstuffs and found across many food groups. Recent studies suggest that certain hydrocolloids may exert negative health effects, but quantitative data regarding their intake in the population remains scarce. The purpose of this study was to map the dietary intake and exposure prevalence of 15 hydrocolloid food additives in the Norwegian population, providing a foundation for research linking dietary intake to health outcomes. Method Data were obtained from Norkost 4, a nationwide, cross-sectional dietary survey utilizing two non-consecutive 24-hour dietary recalls among 1964 Norwegian adults. The presence of 15 hydrocolloid additives in the food items consumed was identified through ingredient lists, and concentration data were derived from the European Food Safety Authority (EFSA). Results Dietary exposure to hydrocolloids was widespread in the cohort but varied across individual hydrocolloids and food categories. Guar gum demonstrated the highest exposure prevalence (92%), whereas others, such as methyl cellulose, were rarely encountered. Demographically, the characteristics of high-tier consumers were highly additive-specific, indicating that no single, homogeneous profile of an “extreme additive consumer” exists. Furthermore, comparisons with international cohorts underscore how the choice of analytical framework and concentration data impacts estimation of exposure outcomes, making cross-country comparisons challenging. Conclusion This comprehensive assessment provides the first mapping of hydrocolloid intake, and t…",
+      "authors": "",
+      "published": "Nov 2026",
+      "feedName": "Eur. J. Nutrition",
+      "url": "https://link.springer.com/article/10.1007/s00394-026-04159-5",
+      "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1007%2Fs00394-026-04159-5/MediaObjects/394_2026_4159_Fig1_HTML.png",
       "screen": "right"
     },
     {
@@ -649,7 +649,7 @@
       "venue": "Food and Bioprocess Technology",
       "feedName": "Lab Research",
       "citationCount": 6,
-      "recentCitations": 1,
+      "recentCitations": 0,
       "quartile": "Q1",
       "s2_paper_id": "034d8c4f0c0f5607a4e6727360aa5d7287e60d5b",
       "url": "https://doi.org/10.1007/s11947-025-03873-y",
@@ -849,7 +849,7 @@
       "venue": "Advanced Functional Materials",
       "feedName": "Lab Research",
       "citationCount": 24,
-      "recentCitations": 1,
+      "recentCitations": 0,
       "quartile": "Q1",
       "s2_paper_id": "f8de42bddd0ecab555075b5f1e2cdce6f18f1a56",
       "url": "https://doi.org/10.1002/adfm.202306586",

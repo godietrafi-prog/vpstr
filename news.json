@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T22:54:13Z",
+  "updated": "2026-11-19T05:08:55Z",
   "items": [
     {
       "title": "Geopolitics in focus",
@@ -362,6 +362,16 @@
       "screen": "left"
     },
     {
+      "title": "Reading the temperature fingerprints of electrocatalytic reactions",
+      "abstract": "Electrocatalysis is key to turning renewable electricity into fuels and chemicals, and industrial electrolyzers typically operate at moderately elevated temperatures. Measuring how reaction rates change with temperature is also a powerful, yet underexplored, way to probe what controls them. Such measurements yield two quantities: an apparent activation enthalpy, reflecting the energetic cost of the reaction, and a prefactor, which is linked to the activation entropy.",
+      "authors": "",
+      "published": "Nov 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-11-temperature-fingerprints-electrocatalytic-reactions.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/reading-the-temperatur.jpg",
+      "screen": "right"
+    },
+    {
       "title": "Shrinking ruthenium catalysts boosts ammonia production rate up to 57-fold",
       "abstract": "Ammonia is drawing renewed attention as a \"magic container\" for safely storing and transporting hydrogen, a promising clean energy source of the future, as well as a carbon-free fuel that does not emit greenhouse gases when burned. However, for ammonia to be widely used as a key fuel, improving the efficiency of its production process is essential.",
       "authors": "",
@@ -389,16 +399,6 @@
       "feedName": "Phys.org Analytics",
       "url": "https://phys.org/news/2026-11-repurposed-battery-molecules-key-chemical.html",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/repurposed-battery-mol.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "Unraveling bonding evolution in carbon-centered gold(I) clusters",
-      "abstract": "Gold nanoclusters, composed of a small number of gold atoms, can exhibit optical, electronic and catalytic properties distinct from those of bulk gold. One intriguing family consists of carbon-centered gold(I) clusters, in which a carbon atom is surrounded by several gold atoms. Unlike the familiar four-coordinate carbon in methane, the central carbon in these clusters can be coordinated by five or even six gold atoms.",
-      "authors": "",
-      "published": "Nov 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-11-unraveling-bonding-evolution-carbon-centered.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/unraveling-bonding-evo.jpg",
       "screen": "right"
     },
     {
@@ -482,22 +482,32 @@
       "screen": "right"
     },
     {
-      "title": "From recognition to action: physician-reported indicators of potential clinical nutrition inertia in hospital nutrition care",
-      "abstract": "Background and aimsHospital malnutrition remains insufficiently translated into standardized clinical action despite broad recognition of its clinical importance. This study aimed to evaluate physicians’ nutrition-related knowledge and self-reported practices in hospital care and to explore physician-level gaps that may represent potential indicators of clinical nutrition inertia across screening, assessment, intervention, monitoring, and training.MethodsA multi-regional cross-sectional survey was conducted among physicians from clinically relevant departments across 13 municipal administrative areas in China. The questionnaire assessed demographic characteristics, perceived malnutrition risk, nutrition screening, familiarity with validated assessment tools, nutrition support decision-making, monitoring of adherence and outcomes, and nutrition training. An exploratory Clinical Nutrition Inertia Index (CNII) framework was developed to describe six domains of inertia: screening, assessment, decision-making, intervention, monitoring, and training.ResultsOf 788 distributed questionnaires, 567 valid responses were included. Most respondents worked in tertiary hospitals. Physicians generally recognized the value of nutrition care: 96.3% considered nutrition assessment necessary, 84.5% believed nutrition support reduced perioperative complications, and 72.8% believed it reduced hospitalization costs. However, self-reported standardized nutrition practices showed substantial variability and gaps. Only 54.1% reported screening all or most patients on admission, and 44.4% used Nutrit…",
-      "authors": "Zijun Zhou, Jingtong Tang, Gang Liu et al.",
+      "title": "Circadian-related rhythm robustness is associated with insulin sensitivity, insulin resistance, and triglycerides in healthy adults",
+      "abstract": "IntroductionCircadian disruption has been linked to metabolic dysfunction, but the relationship between free-living circadian-related rhythm characteristics and metabolic regulation remains incompletely understood. We investigated cross-sectional associations between rhythm characteristics derived from wrist temperature, activity, and position (TAP) and glucose and insulin regulation.MethodsWe included 716 adults (71% women; age 38 ± 14 years; BMI 25.75 kg/m²) from the ONTIME-MT study. TAP rhythms were continuously monitored for 7 days using wearables, and principal component analysis was used to derive TAP rhythmicity factors. Glucose and insulin regulation was assessed using a 2-h oral glucose tolerance test, including glucose and insulin area under the curve (AUC), insulin sensitivity index, corrected insulin response, disposition index, and homeostatic model assessment of insulin resistance (HOMA-IR).ResultsTwo TAP-derived factors explained 70.7% of the total variance. Factor 1 (52.8%) reflected rhythm robustness, whereas Factor 2 (17.9%) reflected rhythm timing. Lower Factor 1 scores were associated with higher insulin AUC, fasting insulin, HOMA-IR, and triglycerides, and lower insulin sensitivity (all FDR < 0.05), with less consistent associations observed for glucose AUC and disposition index across sensitivity analyses. Higher Factor 2 scores, reflecting later TAP timing, were associated with higher fasting glucose in the main analysis and with later dim-light melatonin onset (p = 0.020). Exploratory mediation analyses suggested that triglycerides partially accounte…",
+      "authors": "María Rodríguez-Martín, Ivan Dozzani, Jesualdo T. Fernández-Breis et al.",
       "published": "Nov 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1905181",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1913897",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Albuminuria and echocardiographic measures of cardiac structure in type 2 diabetes: effect modification by body mass index",
-      "abstract": "BackgroundAlbuminuria is an established marker of cardiovascular risk in type 2 diabetes mellitus (T2DM), but whether its association with cardiac structure differs according to body mass index (BMI) remains unclear. We treated confounding and effect modification as distinct questions and asked whether BMI confounds this association or modifies it.MethodsIn this single-center cross-sectional study, 227 hospitalized patients with T2DM had a valid albumin-to-creatinine ratio, and the nine with macroalbuminuria were excluded from the primary cohort of 218. Cardiac structure was characterized by two prespecified echocardiographic parameters, left atrial diameter (LAD) and left ventricular mass index (LVMI). Albuminuria was modeled as ln(ACR), and BMI was entered as a continuous variable in the prespecified primary interaction test. Multivariable linear regression, interaction testing, BMI-stratified subgroup analyses, and sensitivity analyses were performed.ResultsHigher ln(ACR) was associated with LAD (β = 0.066, P = 0.014) and LVMI (β = 2.842, P = 0.033) before adjustment, although both effect sizes were small. Both estimates attenuated after adjustment and were no longer significant (LAD P = 0.178; LVMI P = 0.244). The prespecified continuous BMI by ln(ACR) interaction was significant for both outcomes (LAD P = 0.010; LVMI P = 0.026). In BMI-stratified analyses, ln(ACR) was associated with LAD at normal BMI (β = 0.108, 95% CI: 0.031–0.185; Q = 0.024). Associations in the overweight and obesity strata were non-significant and imprecise. The corresponding LVMI estimate (β = 3.…",
-      "authors": "Shuan Wang, Zimeng Zhu, Hui Chen et al.",
+      "title": "Body dissatisfaction and restrained eating among university students in northern China: associations with depressive symptoms and sleep quality",
+      "abstract": "BackgroundBody dissatisfaction is consistently associated with restrained eating, but the psychological factors that may account for this association and the conditions under which it varies remain insufficiently understood. This study examined the statistical indirect association between body dissatisfaction and restrained eating through depressive symptoms and investigated whether sleep quality moderated the association between body dissatisfaction and depressive symptoms among university students in northern China.MethodsA cross-sectional survey was conducted among 8,956 university students from nine universities in northern China. Body dissatisfaction was operationalized as the absolute discrepancy between actual and ideal BMI. Depressive symptoms, restrained eating, and sleep quality were assessed using the Self-Rating Depression Scale (SDS), the restrained eating subscale of the Chinese version of the Dutch Eating Behavior Questionnaire (C-DEBQ), and the Pittsburgh Sleep Quality Index (PSQI), respectively. Pearson correlations and mediation and moderated mediation analyses (PROCESS Models 4 and 7) were conducted with BMI as a covariate; age and sex were included in sensitivity analyses. HC3 robust standard errors and 5,000 bias-corrected bootstrap resamples were used.ResultsBody dissatisfaction was positively associated with restrained eating (r = 0.146, p < 0.001) and depressive symptoms (r = 0.227, p < 0.001). Depressive symptoms statistically accounted for part of the association between body dissatisfaction and restrained eating [indirect effect = 0.0784, 95% CI (…",
+      "authors": "Xinyi Li, Guifang Su, Wenjing Yan et al.",
       "published": "Nov 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1992531",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1966631",
+      "image": "",
+      "screen": "right"
+    },
+    {
+      "title": "Beyond low phytate: phytic acid–mineral balance as a target for nutritional resilience under climate change",
+      "abstract": "Climate resilience in crops is generally evaluated through yield stability; however, maintaining productivity does not necessarily preserve the nutritional value of harvested seeds. Phytic acid (PA) illustrates this challenge: it is essential for phosphorus (P) storage and contributes to seed development and germination, but can also restrict iron (Fe) and zinc (Zn) accessibility in plant-based foods. Climate-related stresses may alter PA and mineral concentrations through changes in nutrient acquisition, remobilization, seed filling, and dry-matter deposition, producing responses that vary among crops, genotypes, and environments. This review synthesizes the evidence on PA biosynthesis, physiological function, anatomical localization, mineral interactions, and responses to drought, heat, salinity, elevated CO₂, and combined stresses. Direct evidence simultaneously evaluating mature-seed PA, Fe, and Zn responses is concentrated in a limited number of crops, particularly lentil, and remains scarce for salinity, elevated CO₂, and combined stresses. We argue that reducing PA alone is an insufficient nutritional target and propose optimal PA–mineral balance as a context-dependent combination of adequate mineral density and accessibility with maintained seed function and crop productivity. We further define PA–mineral nutritional resilience as the capacity to maintain this favorable phenotype across relevant environmental conditions. Its evaluation requires distinguishing mineral concentration from content per seed and mineral yield, combining PA:Fe and PA:Zn molar ratios with a…",
+      "authors": "Hasnae Choukri, Ahmed Hajib, Said El Harkaoui et al.",
+      "published": "Nov 2026",
+      "feedName": "Frontiers Nutrition",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.2011255",
       "image": "",
       "screen": "right"
     },
@@ -508,16 +518,6 @@
       "published": "Nov 2026",
       "feedName": "Frontiers Nutrition",
       "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1970800",
-      "image": "",
-      "screen": "right"
-    },
-    {
-      "title": "Circadian-related rhythm robustness is associated with insulin sensitivity, insulin resistance, and triglycerides in healthy adults",
-      "abstract": "IntroductionCircadian disruption has been linked to metabolic dysfunction, but the relationship between free-living circadian-related rhythm characteristics and metabolic regulation remains incompletely understood. We investigated cross-sectional associations between rhythm characteristics derived from wrist temperature, activity, and position (TAP) and glucose and insulin regulation.MethodsWe included 716 adults (71% women; age 38 ± 14 years; BMI 25.75 kg/m²) from the ONTIME-MT study. TAP rhythms were continuously monitored for 7 days using wearables, and principal component analysis was used to derive TAP rhythmicity factors. Glucose and insulin regulation was assessed using a 2-h oral glucose tolerance test, including glucose and insulin area under the curve (AUC), insulin sensitivity index, corrected insulin response, disposition index, and homeostatic model assessment of insulin resistance (HOMA-IR).ResultsTwo TAP-derived factors explained 70.7% of the total variance. Factor 1 (52.8%) reflected rhythm robustness, whereas Factor 2 (17.9%) reflected rhythm timing. Lower Factor 1 scores were associated with higher insulin AUC, fasting insulin, HOMA-IR, and triglycerides, and lower insulin sensitivity (all FDR < 0.05), with less consistent associations observed for glucose AUC and disposition index across sensitivity analyses. Higher Factor 2 scores, reflecting later TAP timing, were associated with higher fasting glucose in the main analysis and with later dim-light melatonin onset (p = 0.020). Exploratory mediation analyses suggested that triglycerides partially accounte…",
-      "authors": "María Rodríguez-Martín, Ivan Dozzani, Jesualdo T. Fernández-Breis et al.",
-      "published": "Nov 2026",
-      "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1913897",
       "image": "",
       "screen": "right"
     },
@@ -849,7 +849,7 @@
       "venue": "Advanced Functional Materials",
       "feedName": "Lab Research",
       "citationCount": 24,
-      "recentCitations": 1,
+      "recentCitations": 0,
       "quartile": "Q1",
       "s2_paper_id": "f8de42bddd0ecab555075b5f1e2cdce6f18f1a56",
       "url": "https://doi.org/10.1002/adfm.202306586",
@@ -1009,7 +1009,7 @@
       "venue": "Food and Bioprocess Technology",
       "feedName": "Lab Research",
       "citationCount": 6,
-      "recentCitations": 0,
+      "recentCitations": 1,
       "quartile": "Q1",
       "s2_paper_id": "034d8c4f0c0f5607a4e6727360aa5d7287e60d5b",
       "url": "https://doi.org/10.1007/s11947-025-03873-y",

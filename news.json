@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T14:41:16Z",
+  "updated": "2026-11-20T22:33:25Z",
   "items": [
     {
       "title": "Geopolitics in focus",
@@ -362,6 +362,16 @@
       "screen": "left"
     },
     {
+      "title": "A million tiny crystals reveal how semiconductors form distinct cores and shells",
+      "abstract": "Perovskites and related materials called perovskitoids are promising semiconductor materials for solar cells, LEDs and light detectors. Their ingredients and internal crystal structures determine how they absorb and emit light. A chip just 2 centimeters across can hold roughly a million tiny crystals—becoming a miniature material library that can show how some mixtures separate into distinct cores and shells, changing the light they absorb.",
+      "authors": "",
+      "published": "Nov 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-11-million-tiny-crystals-reveal-semiconductors.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/chips-holding-a-millio.jpg",
+      "screen": "right"
+    },
+    {
       "title": "Q&A: Making hydrogen peroxide without using precious metals",
       "abstract": "Hydrogen peroxide is used in many industrial processes, with several million tons of it being manufactured worldwide every year. Whereas the standard production method requires rare precious metals, chemists from Rutgers University–Newark in the US and the University of Bonn have now described an alternative technique that does away with these metals, making it potentially cheaper and more sustainable. Their findings have now been published in the journal Nature Communications. In the following interview, the authors describe the technology.",
       "authors": "",
@@ -389,16 +399,6 @@
       "feedName": "Phys.org Analytics",
       "url": "https://phys.org/news/2026-11-rays-reveal-fleeting-intermediate-iron.html",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/the-hrixs-spectrometer.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "Chips smaller than rice grains wirelessly track heat during chemical reactions",
-      "abstract": "A fleck-sized chip at the bottom of a test tube can provide researchers with data for every second of a chemical reaction while it is occurring.",
-      "authors": "",
-      "published": "Nov 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-11-chips-smaller-rice-grains-wirelessly.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/tiny-chips-can-analyze-1.jpg",
       "screen": "right"
     },
     {
@@ -482,6 +482,16 @@
       "screen": "right"
     },
     {
+      "title": "Correction: Study on the correlation between SPISE-IR, METs-IR, TyG and short-term adverse cardiovascular events in patients with heart failure and diabetes mellitus",
+      "abstract": "",
+      "authors": "Haoxuan Deng, Qiyue Zhu, Changjin Lin et al.",
+      "published": "Nov 2026",
+      "feedName": "Frontiers Nutrition",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.2057712",
+      "image": "",
+      "screen": "right"
+    },
+    {
       "title": "Safeguarding nutritional integrity in mango: multi-omics revelations on chilling injury-induced quality deterioration and innovative preservation strategies",
       "abstract": "Mango (Mangifera indica L.) is highly susceptible to chilling injury (CI) during cold-chain logistics, which triggers extensive degradation of nutritionally valuable phytochemicals beyond visible peel and flesh disorders. This review integrates transcriptomic, metabolomic, proteomic, and lipidomic datasets to construct a cross-dimensional regulatory network linking cold stress to nutrient decomposition. Conserved cold signatures include elevated phosphatidic acid, reduced unsaturated-to-saturated fatty acid ratios, depleted flavonol reserves, and disrupted sugar–acid balance, while proteomic profiling identifies insufficient HSP70 expression mediated by impaired m6A transcript stabilization as a conserved vulnerability. The phenylpropanoid cascade emerges as the core manipulable target, with cold stress exerting a dual nutritional effect by inducing flavonoid accumulation yet depleting carotenoids, ascorbic acid, soluble sugars, and aroma volatiles. Physical, chemical, biological, and composite preservation strategies converge on antioxidant amplification, membrane stabilization, and energy reprogramming, yet efficacy remains constrained by limited duration and insufficient molecular targeting. Future work should prioritize time-resolved multi-omics integration, in vivo functional validation of hub regulators, and biomarker-guided composite protocols for scalable nutrition-preserving cold-chain management.",
       "authors": "Limin Wang, Congjun Liu, Shuzhi Yuan et al.",
@@ -492,32 +502,22 @@
       "screen": "right"
     },
     {
-      "title": "From nutrient adequacy to sustainable diets: dietary intake patterns of young adults in the United Arab Emirates",
-      "abstract": "IntroductionYoung adulthood is a critical stage when nutrition behaviours shape future health outcomes. In the United Arab Emirates (UAE), accelerated urbanisation and the adoption of Westernised dietary patterns have been associated with malnutrition and sustainability concerns. Although the UAE emphasises nutrition as part of healthy and sustainable aims, information on current dietary intake in young adulthood remains limited.MethodsA cross-sectional Food Frequency Questionnaire survey was conducted among young adults (18–35 years) in Abu Dhabi, and 474 eligible participants were included in the final analysis. Nutrient intakes were compared with Dietary Reference Intakes (DRIs) and food group intakes with the EAT-Lancet model. Sociodemographic characteristics, nutrition education and knowledge, and health status were assessed. Data were analysed using chi-square tests, Kendall’s tau-b correlations and multiple linear regression with robust standard errors, adjusted for age, gender, BMI and energy intake.ResultsProtein intake largely met recommendations, whereas calcium, iron, vitamin D and dietary fibre fell below DRIs, and nearly half of participants had excessive fat intake. Compliance with EAT-Lancet targets was low for whole grains, legumes and nuts, while meat and dairy exceeded recommended limits. Males consumed more meat, eggs, protein, and fat, while females consumed more vegetables. Older age and higher education were associated with greater intake of whole grains, legumes and nuts. In adjusted models, limited perceived nutrition knowledge predicted higher adde…",
-      "authors": "Carine Platat, Serene Hilary, Souzan Zidan",
+      "title": "Dietary transitions and gastric cancer burden across the Western Pacific: a cross-national ecological analysis",
+      "abstract": "BackgroundThe Western Pacific Region carries a disproportionate share of the global gastric cancer burden. While diet is a recognised determinant of gastric cancer risk, the relationship between population-level food supply patterns and disease burden remains poorly defined in countries experiencing rapid nutritional and demographic change.MethodsWe combined GLOBOCAN 2022 incidence estimates with FAO food balance sheets to examine population-level food supply patterns and their ecological relationship with gastric cancer burden across Western Pacific countries. Unsupervised clustering was applied to identify dietary patterns in 18 countries, with silhouette scores used to assess cluster stability. Country-specific ecological co-variation between food supply indicators and gastric cancer incidence (2010–2021) was examined descriptively, using Prais-Winsten regression and first-differencing to account for temporal autocorrelation and common trends. Benjamini-Hochberg correction was applied to account for multiple testing.ResultsThree dietary patterns emerged, each corresponding to distinct gastric cancer burden profiles. Fruits, nuts, and citrus fruits showed relatively consistent inverse ecological correlations with gastric cancer incidence, while selected vegetable oils and rice bran oil showed positive correlations in several countries. After Prais-Winsten correction, first-differencing, and Benjamini-Hochberg adjustment, 27 of 425 country-food pairs remained robust. These correlations represent descriptive co-variation and should not be interpreted as evidence of causal a…",
+      "authors": "Wei Shan, Jia-Hui Li, Da-Hua Liu et al.",
       "published": "Nov 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1945241",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1924636",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Camel milk—From traditions to evidence: current knowledge and research gaps",
-      "abstract": "Camel milk has sustained pastoral communities in arid regions for millennia and now supports a small but rapidly expanding commercial dairy sector. This review synthesizes current knowledge of camel milk and its fermented products, with particular attention to Central Asia and shubat, and separates well-supported findings from preliminary ones. Camel milk is distinguished by the absence of β-lactoglobulin, a high proportion of β-casein (~65% of total casein), low κ-casein, elevated vitamin C, and abundant lysozyme, lactoferrin and immunoglobulins; differences in fat and lactose relative to bovine milk are modest and vary with species, lactation stage, season, production system and diet. A 250 mL serving supplies about 164 kcal and 8.4 g of protein, approximately 17%, 29%, and 31% of the Codex nutrient reference values for protein, calcium and phosphorus, and 10–20% of those for potassium, zinc and several B vitamins. Of the published amino acid datasets, only two can be compared with the FAO/WHO/UNU reference pattern, and they disagree: one meets every essential amino acid requirement, the other is limited by lysine, so protein quality remains unresolved. Widely cited values for vitamin B6, folate and B12 are transcription errors, 10–100 times higher than the primary measurements. Culture-dependent and sequencing studies converge on a recurring microbial core in shubat—Lactobacillus helveticus, Lacticaseibacillus casei, Lactiplantibacillus plantarum, Lactobacillus delbrueckii, and Lactococcus lactis, with the yeasts Kluyveromyces marxianus and Kazachstania unispora—which of…",
-      "authors": "Aikerim Ospanova, Shynar Akhmetsadykova, Nazerke Begdildayeva et al.",
+      "title": "Strengthening the U.S. School meal programs",
+      "abstract": "The National School Lunch Program is the second-largest US food and nutrition assistance program and serves nearly 30 million children each school day. Although school-meal quality has improved since the Healthy, Hunger-Free Kids Act of 2010, persistent nutritional, operational and research challenges remain. This paper examines five specific concerns: difficulty meeting nutrition needs; the need to balance meal quality, student acceptance, and food waste; barriers to school-meal access and participation; limited capacity to prepare fresh and minimally processed foods; and insufficient longitudinal evidence on diet quality. We propose five interrelated strategies focused on modernizing federal legislation, ensuring adequate reimbursement and infrastructure investment, expanding universal school meals, strengthening farm-to-school procurement, and improving nutrition education. Sustained federal leadership and commitment are key to enabling local actions to advance diet quality, equity, and program sustainability. Essentially, the program’s success depends on interdisciplinary coordination across nutrition policy, education, and agriculture at national and local levels.",
+      "authors": "Apekshya Chhetri, Doriane-hans Mawouena Sossou, Elina Dawoodani et al.",
       "published": "Nov 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.2017384",
-      "image": "",
-      "screen": "right"
-    },
-    {
-      "title": "Effects of exercise training on intestinal barrier-related outcomes in adults with obesity, dysglycemia, or other metabolic-risk phenotypes: a systematic review and exploratory meta-analysis",
-      "abstract": "Background/ObjectivesExercise training may influence intestinal barrier-related pathways, but evidence in adults with obesity, dysglycemia, or related metabolic-risk phenotypes is uncertain. Eligible populations included adults with obesity, metabolic syndrome, prediabetes, insulin resistance, or type 2 diabetes mellitus (T2DM); adults with overweight/obesity and established cardiovascular disease were included as a related metabolic-risk phenotype.MethodsFour databases were searched through 21 September 2026. This review is registered in the International Prospective Register of Systematic Reviews (PROSPERO) (CRD420261512477) before data extraction and synthesis. Two authors independently selected studies, extracted data, and assessed bias. Randomized exercise-training-versus-non-exercise comparisons formed the quantitative evidence stream; eligible uncontrolled or active-comparator interventions were synthesized separately.ResultsEleven publications met the eligibility criteria. For lipopolysaccharide-binding protein (LBP), three comparisons (n = 409) yielded Hedges g = −0.167 (95% CI −0.610 to 0.275). For soluble cluster of differentiation 14 (sCD14), two comparisons (n = 286) yielded g = 0.005 (95% CI −2.014 to 2.025). Certainty was very low. The majority of supplementary reports described improvement in at least one barrier-related marker; however, uncontrolled, active-comparator, or co-intervention-confounded designs prevented attribution to exercise training.ConclusionAcross the represented phenotypes, evidence does not establish that exercise training improves intes…",
-      "authors": "Jiahao Li, Wei Shan",
-      "published": "Nov 2026",
-      "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.2007658",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1914723",
       "image": "",
       "screen": "right"
     },

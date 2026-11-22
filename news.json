@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22T17:38:46Z",
+  "updated": "2026-11-22T23:04:24Z",
   "items": [
     {
       "title": "Geopolitics in focus",
@@ -452,6 +452,16 @@
       "screen": "right"
     },
     {
+      "title": "A common blood pressure drug has a surprising effect on calorie-burning brown fat",
+      "abstract": "Scientists have discovered that a common blood pressure drug can activate calorie-burning brown fat in mice, potentially opening a new path toward improving metabolic health. An analysis of more than 100,000 patients also revealed surprising links between brown fat and lower rates of heart disease, diabetes, anxiety, and depression.",
+      "authors": "",
+      "published": "Nov 2026",
+      "feedName": "ScienceDaily Nutrition",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261119194558.htm",
+      "image": "https://www.sciencedaily.com/images/1920/weight-loss-fat-burn-in-human-adipose-tissue.webp",
+      "screen": "right"
+    },
+    {
       "title": "Experimental compound burns fat without sacrificing muscle",
       "abstract": "Researchers at UC Berkeley have identified a compound that could transform weight-loss treatment by helping the body burn more energy instead of suppressing appetite like Ozempic and Wegovy. In mice, the compound boosted energy expenditure by up to 18%, improved blood sugar control, reduced liver fat, and promoted weight loss without significant muscle loss. Even more promising, combining it with existing GLP-1 medications produced greater benefits than either treatment alone.",
       "authors": "",
@@ -469,16 +479,6 @@
       "feedName": "ScienceDaily Nutrition",
       "url": "https://www.sciencedaily.com/releases/2026/11/261118073749.htm",
       "image": "https://www.sciencedaily.com/images/1920/vegan-plant-based-meat-factory.webp",
-      "screen": "right"
-    },
-    {
-      "title": "Why do farts smell so bad? The secret is brewing in your gut",
-      "abstract": "The secret behind truly terrible-smelling farts lies in tiny amounts of sulfur-containing gases produced by gut bacteria as they digest food. Scientists reveal why some foods make farts smell worse, why loud farts aren't always the stinkiest, and how our noses evolved to detect these powerful odors.",
-      "authors": "",
-      "published": "Nov 2026",
-      "feedName": "ScienceDaily Nutrition",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261118065521.htm",
-      "image": "https://www.sciencedaily.com/images/1920/bad-stinky-smell-young-couple-holding-noses.webp",
       "screen": "right"
     },
     {

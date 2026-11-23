@@ -1,6 +1,26 @@
 {
-  "updated": "2026-11-23T04:56:21Z",
+  "updated": "2026-11-23T17:00:47Z",
   "items": [
+    {
+      "title": "Biodiversity footprints of food consumption decouple from economic growth at high income levels",
+      "abstract": "An analysis of 158 countries over 25 years shows that biodiversity footprints of food consumption are more likely to decouple from economic growth at higher income levels, with stronger decoupling for plant-based foods than for animal-based foods, especially ruminant meat.",
+      "authors": "Hanzhong Zheng, Koen J. J. Kuipers, Selwyn Hoeks et al.",
+      "published": "Nov 2026",
+      "feedName": "Nature Food",
+      "url": "https://www.nature.com/articles/s43016-026-01465-3",
+      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs43016-026-01465-3/MediaObjects/43016_2026_1465_Fig1_HTML.png",
+      "screen": "left"
+    },
+    {
+      "title": "El Niño amplified food insecurity in early modern Europe from 1500 to 1800",
+      "abstract": "The El Niño/Southern Oscillation is a dominant source of global interannual climate variability, yet its influence on historical food security in Europe remains underexplored. Drawing on a dataset of 160 European famine episodes, this study shows the association between El Niño events and the onset and duration of famine episodes.",
+      "authors": "Emile Esmaili, Michael J. Puma, Francis Ludlow et al.",
+      "published": "Nov 2026",
+      "feedName": "Nature Food",
+      "url": "https://www.nature.com/articles/s43016-026-01460-8",
+      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs43016-026-01460-8/MediaObjects/43016_2026_1460_Fig1_HTML.png",
+      "screen": "left"
+    },
     {
       "title": "Geopolitics in focus",
       "abstract": "Geopolitics have long affected food systems, yet the nature and scale of their influence have changed over recent decades. Understanding the drivers and impacts of these new dynamics is key to addressing current and future food system challenges.",
@@ -22,26 +42,6 @@
       "screen": "left"
     },
     {
-      "title": "How steam power and fertilizers created the notion of geopolitics of food",
-      "abstract": "Food systems were transformed in the late nineteenth century when steam-powered transportation and global fertilizer trade integrated distant regions of production and consumption. While these innovations supported population growth, they also created enduring geopolitical vulnerabilities and environmental harms.",
-      "authors": "Eckart Woertz",
-      "published": "Nov 2026",
-      "feedName": "Nature Food",
-      "url": "https://www.nature.com/articles/s43016-026-01445-7",
-      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs43016-026-01445-7/MediaObjects/43016_2026_1445_Fig1_HTML.png",
-      "screen": "left"
-    },
-    {
-      "title": "Structural features of the global food system can amplify geopolitical events and undermine food security",
-      "abstract": "Recent geopolitical events have exposed structural vulnerabilities in our modern global food system that allow localized disruptions to reverberate worldwide. This Perspective argues that import dependency, market concentration and fossil fuel dependency interact to magnify geopolitical shocks and create disproportionate risks to food security in low-income countries.",
-      "authors": "Jennifer Clapp",
-      "published": "Nov 2026",
-      "feedName": "Nature Food",
-      "url": "https://www.nature.com/articles/s43016-026-01462-6",
-      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs43016-026-01462-6/MediaObjects/43016_2026_1462_Fig1_HTML.png",
-      "screen": "left"
-    },
-    {
       "title": "Beyond linear assumptions: a leave-top-feature-out approach for diagnostic validation of principal component analysis (PCA)-based feature rankings in Food Chemistry",
       "abstract": "",
       "authors": "Yoshiyasu Takefuji",
@@ -52,32 +52,32 @@
       "screen": "left"
     },
     {
-      "title": "Preparation of a light-modulating polyvinyl alcohol/cassava starch active packaging film loaded with graphene oxide quantum dots and purple sweet potato anthocyanins for broccoli preservation",
+      "title": "Preparation, characterization and functional evaluation of cottonseed protein-chitosan composite films incorporated with gallic acid for jujube storage",
       "abstract": "",
-      "authors": "Xuyang Peng, Baoqing Li, Wanqi Wei et al.",
+      "authors": "Hexi Yuan, Tingting Wang, Peiwen Wu et al.",
       "published": "Dec 2026",
       "feedName": "Food Chemistry",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626041786?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626043748?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
     {
-      "title": "Integration of vibrational spectroscopies and synthetic samples in the chemometric prediction of Ciprofloxacin in lyophilized milk powder",
+      "title": "Endogenous co-reactant accelerator trigger-based ECL and voltage dual-mode aptasensor for the detection of Weissella viridescens",
       "abstract": "",
-      "authors": "Izabelle Christinne Pereira de Brito, Rosângela Silveira Barbosa, Romicy Dermondes Souza et al.",
+      "authors": "Mengxin Wang, Wei Yuan, Wenzhuo Wang et al.",
       "published": "Dec 2026",
       "feedName": "Food Chemistry",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626039828?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626044109?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
     {
-      "title": "Amino-functionalized Fe/Mn-MIL-88B with synergistic activity and specificity for in situ visual detection of glyphosate",
+      "title": "Investigation of the key aroma-active compounds in Fangxian Huangjiu using sensory-directed flavor omics",
       "abstract": "",
-      "authors": "Xingying Wang, Shuxian Liang, Hui Sun et al.",
+      "authors": "Xinqi Zhao, Jihong Wu, Jinglin Zhang et al.",
       "published": "Dec 2026",
       "feedName": "Food Chemistry",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626042342?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626044341?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -102,22 +102,22 @@
       "screen": "left"
     },
     {
-      "title": "Modulating coarse cereal digestibility: structural modulation strategies, dynamic digestive barrier shifts, and processing mechanisms with comparative perspectives from legumes and tubers",
+      "title": "Analytical challenges and solutions for tea non-volatiles: A challenge-driven framework",
       "abstract": "",
-      "authors": "Sijie Zhang, Cong Chen, Wen Deng et al.",
+      "authors": "Shanbo Zhang, Kim-Huey Ee, Yunle Huang et al.",
       "published": "Jan 2027",
       "feedName": "Trends in Food Sci & Tech",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426006801?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426007181?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
     {
-      "title": "Cyclodextrin-based systems for food applications: From inclusion complexes to advanced architectures",
+      "title": "Plant-based ice cream beyond dairy substitution: Functional reconstruction, process-directed multiphase assembly, and multi-objective design",
       "abstract": "",
-      "authors": "Yucheng Zou, Jie Shen, Caiya Ding et al.",
+      "authors": "Zhi Cheng, Chuqiao Wang, Ruizhi Yang et al.",
       "published": "Jan 2027",
       "feedName": "Trends in Food Sci & Tech",
-      "url": "https://www.sciencedirect.com/science/article/pii/S092422442600734X?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426007065?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -202,12 +202,12 @@
       "screen": "left"
     },
     {
-      "title": "Comparative study on drying kinetics of Moringa oleifera leaves and development of a functional instant soup mix",
-      "abstract": "IntroductionMoringa oleifera leaves are nutrient-rich but highly perishable, and drying temperature affects their quality. This study evaluated the effect of hot-air drying temperature on the drying kinetics, physicochemical characteristics and use of Moringa leaves in an instant soup mix.MethodsFresh leaves were hot-air dried at 45, 50 and 55 °C, and drying behaviour was assessed through moisture ratio, drying rate and thin-layer model fitting. Proximate composition, colour and physical properties were determined, and functional groups were characterised by FT-IR spectroscopy. The powders were incorporated into four soup formulations evaluated using a 9-point hedonic scale and Principal Component Analysis.ResultsHigher temperatures shortened drying time (300, 240 and 180 min) but increased nutritional and colour losses. All treatments showed only a falling-rate period, indicating diffusion-controlled moisture removal. Final moisture content (2.86%–4.68%, wet basis) was below the 8% safe-storage limit. Drying at 45 °C gave the highest crude protein (31.47%), ash (11.30%) and crude fibre (7.72%) (dry-weight basis) and greener colour. FT-IR detected hydroxyl, carbonyl, aromatic, aliphatic and ether groups in all samples. Formulations R1 and R2 (65:10 and 55:20 Moringa-to-jackfruit-seed-powder ratios) were the most acceptable; R2 scored highest but did not differ significantly from R1 (p = 0.18).DiscussionBecause Moringa and jackfruit seed powder levels varied jointly, the sensory results indicate a broad acceptability range rather than the effect of either ingredient alone. W…",
-      "authors": "Aradhana Boruah, Tustisree Ghosh, Adesh Ranjan et al.",
+      "title": "Innovative alkalinity neutralization approaches improve tomato yield, quality and influence soil properties in semi–arid agroecosystems with irrigation (bi)carbonates hazard",
+      "abstract": "IntroductionIrrigation alkalinity with high residual sodium carbonate (RSC) adversely affects soil chemical properties, nutrient availability, and tomato fruit quality. This study evaluated the effectiveness of neutralization strategies such as acid neutralizer (AN), liquid sulphur (LS), and CSSRI elemental sulphur (S°) reaction product (CSRP) mixed with irrigation water (RSC 3 and 6 me L–1) to bring the RSC equivalent to 1 me L–1 in improving soil ionic composition, nutrient availability, and the nutritional quality of tomato under alkali–irrigated sodic soil.MethodsTreatments were allocated in a randomized block design in lysimeters filled with sodic soil (pH1:2 9.88, EC1:2 2.1 dS m–1). Irrigation water was applied through drip based on the crop coefficient and evapotranspiration demand of the summer–season tomato crop.Results and DiscussionNeutralization approaches significantly increased Ca2+, Mg2+, and SO42– concentrations and reduced carbonate/bicarbonate [H(CO3)n–], soil pH and alkalinity. The CSRP was most effective in increasing Ca2+ 12.9 and SO42– (49.0 meq L–1) content in soil solution and lowering soil pH. CaCl2–S also increased under CSRP treatment. The soil improvement significantly enhanced tomato yield and fruit quality by increasing total soluble solids, pulp pH, and total antioxidants. Under CSRP, lycopene and total soluble solids were 3.80 mg 100 g–1 fresh weight and 7.27° Brix, respectively. Changes in soil properties due to RSC irrigation neutralization explained about 81% (P = 0.046) of the variability in yield and fruit quality. Dissolved reactive P, …",
+      "authors": "Nirmalendu Basak, Priyanka Chandra, Arvind Kumar Rai et al.",
       "published": "Nov 2026",
       "feedName": "Frontiers Food Science",
-      "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.1954613",
+      "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.1976109",
       "image": "",
       "screen": "left"
     },
@@ -222,22 +222,22 @@
       "screen": "left"
     },
     {
+      "title": "Comparative study on drying kinetics of Moringa oleifera leaves and development of a functional instant soup mix",
+      "abstract": "IntroductionMoringa oleifera leaves are nutrient-rich but highly perishable, and drying temperature affects their quality. This study evaluated the effect of hot-air drying temperature on the drying kinetics, physicochemical characteristics and use of Moringa leaves in an instant soup mix.MethodsFresh leaves were hot-air dried at 45, 50 and 55 °C, and drying behaviour was assessed through moisture ratio, drying rate and thin-layer model fitting. Proximate composition, colour and physical properties were determined, and functional groups were characterised by FT-IR spectroscopy. The powders were incorporated into four soup formulations evaluated using a 9-point hedonic scale and Principal Component Analysis.ResultsHigher temperatures shortened drying time (300, 240 and 180 min) but increased nutritional and colour losses. All treatments showed only a falling-rate period, indicating diffusion-controlled moisture removal. Final moisture content (2.86%–4.68%, wet basis) was below the 8% safe-storage limit. Drying at 45 °C gave the highest crude protein (31.47%), ash (11.30%) and crude fibre (7.72%) (dry-weight basis) and greener colour. FT-IR detected hydroxyl, carbonyl, aromatic, aliphatic and ether groups in all samples. Formulations R1 and R2 (65:10 and 55:20 Moringa-to-jackfruit-seed-powder ratios) were the most acceptable; R2 scored highest but did not differ significantly from R1 (p = 0.18).DiscussionBecause Moringa and jackfruit seed powder levels varied jointly, the sensory results indicate a broad acceptability range rather than the effect of either ingredient alone. W…",
+      "authors": "Aradhana Boruah, Tustisree Ghosh, Adesh Ranjan et al.",
+      "published": "Nov 2026",
+      "feedName": "Frontiers Food Science",
+      "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.1954613",
+      "image": "",
+      "screen": "left"
+    },
+    {
       "title": "Antimicrobial efficacy of a propolis– postbiotics formulation against Salmonella enteritidis on eggshells during refrigerated and ambient storage",
       "abstract": "IntroductionEggshell contamination by Salmonella Enteritidis remains a significant challenge to egg safety and shelf life. This study evaluated the antimicrobial potential of a natural bio‐wash formulation based on Propolis Ethanolic Extract (PEE), postbiotics from Lactiplantibacillus plantarum, and their combination for controlling S. Enteritidis and naturally occurring eggshell microbiota during storage at 25 and 4 °C. MethodsThe bioactive properties of PEE and the freeze dried postbiotics were characterized. Fresh eggs experimentally inoculated with approximately 6 log10 CFU/egg of S. Enteritidis were treated with PEE (50 and 100 mg/mL), postbiotics (50 and 100 mg/mL), or their combination (50 mg/mL of each component) and were monitored for 28 days at 25 and 4 °C.Results and Discussion PEE exhibited antibacterial (18.74 mm inhibition zone) and antioxidant (79.15 %) activities, and high total phenolic (236.87 mg GAE/g) and flavonoid (368.39 mg QE/g) contents. The postbiotics contained bioactive metabolites, including proteins, carbohydrates, lactic acid and short‐chain fatty acids. The treatments reduced S. Enteritidis populations and influenced the indigenous eggshell microbiota compared with the untreated control, with the magnitude of the effect depending on treatment composition and storage conditions (P < 0.05). Under refrigerated storage, antimicrobial treatments progressively reduced recoverable S. Enteritidis populations, with reductions of approximately 2.3–4.2 log10 CFU/egg by day 28 in the individual‐treatment groups. In the combined PEPO treatment, S. Enteriti…",
       "authors": "Ali Motamedi, Naheed Mojgani, Mehran Moradi et al.",
       "published": "Nov 2026",
       "feedName": "Frontiers Food Science",
       "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.1984382",
-      "image": "",
-      "screen": "left"
-    },
-    {
-      "title": "Edible oil microencapsulation for food fortification: technologies, encapsulating systems, and functional applications",
-      "abstract": "Food fortification with edible oils improves diet quality, but presents limitations of oxidative instability, off-flavors, and reduced shelf life, which can be overcome by microencapsulation. This review aims to provide a comprehensive overview of recent advances in edible oil microencapsulation for food fortification. It evaluates core encapsulation techniques, materials, emulsifiers, and microcapsule properties, highlighting their effects on efficiency, morphology, particle size, and process yield. Furthermore, it synthesizes current evidence on the physicochemical, microbiological, sensory, and nutritional impacts of incorporating microencapsulated edible oils into meat, bakery, dairy, and beverage matrices. Studies indicate that microencapsulation can enhance the nutritional profile of fortified foods, oxidative stability, reducing peroxide values, and increasing sensory acceptance through off-flavor masking. Despite these advances, knowledge gaps remain regarding long-term stability, interactions with food matrices, and validation through in vivo models.",
-      "authors": "Tayane de Jesus Freitas, Deborah Murowaniecki Otero, Fabiane do Espírito Santo de Jesus et al.",
-      "published": "Nov 2026",
-      "feedName": "Frontiers Food Science",
-      "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.1974094",
       "image": "",
       "screen": "left"
     },
@@ -282,6 +282,36 @@
       "screen": "left"
     },
     {
+      "title": "Reply to Matters Arising: a chemical language model for molecular taste prediction",
+      "abstract": "",
+      "authors": "Yoel Zimmermann, Leif Sieben, Henrik Seng et al.",
+      "published": "Nov 2026",
+      "feedName": "npj Science of Food",
+      "url": "https://www.nature.com/articles/s41538-026-01233-4",
+      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01233-4/MediaObjects/41538_2026_1233_Fig1_HTML.png",
+      "screen": "left"
+    },
+    {
+      "title": "Matters arising: a chemical language model for molecular taste prediction",
+      "abstract": "",
+      "authors": "Jackson W. Burns, Jonathan W. Zheng, William H. Green",
+      "published": "Nov 2026",
+      "feedName": "npj Science of Food",
+      "url": "https://www.nature.com/articles/s41538-026-00906-4",
+      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-00906-4/MediaObjects/41538_2026_906_Fig1_HTML.png",
+      "screen": "left"
+    },
+    {
+      "title": "Chemicals matter: sustainability assessments of foodware and food packaging with the Understanding Packaging Scorecard",
+      "abstract": "",
+      "authors": "Justin M. Boucher, Etienne Cabane, Kyle Meisterling et al.",
+      "published": "Nov 2026",
+      "feedName": "npj Science of Food",
+      "url": "https://www.nature.com/articles/s41538-026-01167-x",
+      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01167-x/MediaObjects/41538_2026_1167_Fig1_HTML.png",
+      "screen": "left"
+    },
+    {
       "title": "Fermentates of barley polysaccharides by Bifidobacterium longum suppress colorectal cancer associated with modulation of Wnt/β-catenin signaling and metabolic profiles",
       "abstract": "",
       "authors": "Yanghanxiu Liu, Hao Meng, Qing Hu et al.",
@@ -289,36 +319,6 @@
       "feedName": "npj Science of Food",
       "url": "https://www.nature.com/articles/s41538-026-01170-2",
       "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01170-2/MediaObjects/41538_2026_1170_Fig1_HTML.png",
-      "screen": "left"
-    },
-    {
-      "title": "Key odorants and sweetness-enhancing aroma compounds in Fengyu black tea",
-      "abstract": "",
-      "authors": "Taimei Di, Qian Wang, Yingye Huang et al.",
-      "published": "Nov 2026",
-      "feedName": "npj Science of Food",
-      "url": "https://www.nature.com/articles/s41538-026-01235-2",
-      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01235-2/MediaObjects/41538_2026_1235_Fig1_HTML.png",
-      "screen": "left"
-    },
-    {
-      "title": "Cross-cultural assessment of wine aging potential and sensory profiles by wine professionals",
-      "abstract": "",
-      "authors": "Roy Urvieta, Annegret Cantu, Gus Jian Zhu et al.",
-      "published": "Nov 2026",
-      "feedName": "npj Science of Food",
-      "url": "https://www.nature.com/articles/s41538-026-01229-0",
-      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01229-0/MediaObjects/41538_2026_1229_Fig1_HTML.png",
-      "screen": "left"
-    },
-    {
-      "title": "Garcinol alleviates colitis in association with changes in the gut microbiota and bile acid-FXR signaling axis",
-      "abstract": "",
-      "authors": "Zhuoqi Lou, Tao Chen, Liya Pan et al.",
-      "published": "Nov 2026",
-      "feedName": "npj Science of Food",
-      "url": "https://www.nature.com/articles/s41538-026-01243-2",
-      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01243-2/MediaObjects/41538_2026_1243_Fig1_HTML.png",
       "screen": "left"
     },
     {
@@ -482,42 +482,42 @@
       "screen": "right"
     },
     {
-      "title": "Correction: Study on the correlation between SPISE-IR, METs-IR, TyG and short-term adverse cardiovascular events in patients with heart failure and diabetes mellitus",
-      "abstract": "",
-      "authors": "Haoxuan Deng, Qiyue Zhu, Changjin Lin et al.",
+      "title": "Placental iron homeostasis and the regulation of fetal iron supply: uptake, storage, utilization, and export",
+      "abstract": "The placenta mediates iron transfer from the maternal circulation to the fetus to support fetal development throughout gestation. Some of this iron is deposited in fetal organs, particularly the liver, creating reserves that sustain postnatal growth and erythropoiesis. Once taken up by the syncytiotrophoblast, iron is partitioned among three major fates: sequestration in ferritin-bound stores; use in mitochondrial respiration, heme synthesis, and iron–sulfur (Fe–S) cluster biogenesis; or delivery to ferroportin (FPN) for export toward the fetus. Transferrin receptor 1 (TFR1)-mediated uptake at the maternal-facing microvillous membrane and FPN-mediated efflux across the basal syncytiotrophoblast membrane are the best-characterized molecular steps in this pathway. However, key mechanistic questions remain, including how cytosolic iron reaches FPN and how iron exported through FPN traverses the villous stroma and fetal capillary endothelium to enter the fetal circulation. This narrative review synthesizes evidence on placental iron uptake, ferritin storage and mobilization, metabolic utilization, and basolateral export, interpreting findings in their developmental and experimental contexts. It also examines how maternal physiology, placental signaling, and fetal-derived signals collectively regulate fetal iron availability.",
+      "authors": "Guanchen Wu, Weijiao Zhang, Huiming Xu et al.",
       "published": "Nov 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.2057712",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1987727",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Safeguarding nutritional integrity in mango: multi-omics revelations on chilling injury-induced quality deterioration and innovative preservation strategies",
-      "abstract": "Mango (Mangifera indica L.) is highly susceptible to chilling injury (CI) during cold-chain logistics, which triggers extensive degradation of nutritionally valuable phytochemicals beyond visible peel and flesh disorders. This review integrates transcriptomic, metabolomic, proteomic, and lipidomic datasets to construct a cross-dimensional regulatory network linking cold stress to nutrient decomposition. Conserved cold signatures include elevated phosphatidic acid, reduced unsaturated-to-saturated fatty acid ratios, depleted flavonol reserves, and disrupted sugar–acid balance, while proteomic profiling identifies insufficient HSP70 expression mediated by impaired m6A transcript stabilization as a conserved vulnerability. The phenylpropanoid cascade emerges as the core manipulable target, with cold stress exerting a dual nutritional effect by inducing flavonoid accumulation yet depleting carotenoids, ascorbic acid, soluble sugars, and aroma volatiles. Physical, chemical, biological, and composite preservation strategies converge on antioxidant amplification, membrane stabilization, and energy reprogramming, yet efficacy remains constrained by limited duration and insufficient molecular targeting. Future work should prioritize time-resolved multi-omics integration, in vivo functional validation of hub regulators, and biomarker-guided composite protocols for scalable nutrition-preserving cold-chain management.",
-      "authors": "Limin Wang, Congjun Liu, Shuzhi Yuan et al.",
+      "title": "Adjunctive Galactol®, a multi-enzyme dietary supplement, in adults with irritable bowel syndrome following a low-FODMAP diet: a multicenter randomized controlled study",
+      "abstract": "BackgroundIrritable bowel syndrome (IBS) is a disorder of gut–brain interaction in which food-related triggers, visceral hypersensitivity, intestinal fermentation, and altered luminal responses may contribute to symptoms. Although the low-FODMAP diet is an established strategy, its restrictive nature and persistent fermentation-related symptoms in some patients justify adjunctive approaches. Digestive enzymes may reduce poorly digested substrates reaching the colon, thereby limiting fermentation, gas production, osmotic load, and luminal distension.ObjectiveTo evaluate whether α- and β-galactosidases plus an Aspergillus niger-derived prolyl endopeptidase provide additional benefit when added to a low-FODMAP diet in adults with Rome IV IBS.MethodsIn this prospective, multicenter, randomized controlled study, 300 adults with Rome IV IBS were allocated to a low-FODMAP diet alone or the same diet plus enzyme supplementation for 14 days. Gastrointestinal symptoms were assessed at baseline and day 14 using 0–10 visual analog scales for bloating, flatulence, abdominal discomfort, abdominal pain, and defecation urgency. Stool consistency, evacuation frequency, and diarrhea frequency were also evaluated. Repeated-measures GLM assessed time effects and time × group interactions.ResultsOf 300 participants, 292 completed the study. Groups were comparable at baseline for sex, age, body weight, IBS subtype, and reported food intolerances. Both groups improved significantly over time, but symptom reductions were greater with enzyme supplementation. Improvements for bloating, flatulence, a…",
+      "authors": "Alexander Bertuccioli, Annalisa Belli, Davide Sisti et al.",
       "published": "Nov 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1983364",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1953638",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Dietary transitions and gastric cancer burden across the Western Pacific: a cross-national ecological analysis",
-      "abstract": "BackgroundThe Western Pacific Region carries a disproportionate share of the global gastric cancer burden. While diet is a recognised determinant of gastric cancer risk, the relationship between population-level food supply patterns and disease burden remains poorly defined in countries experiencing rapid nutritional and demographic change.MethodsWe combined GLOBOCAN 2022 incidence estimates with FAO food balance sheets to examine population-level food supply patterns and their ecological relationship with gastric cancer burden across Western Pacific countries. Unsupervised clustering was applied to identify dietary patterns in 18 countries, with silhouette scores used to assess cluster stability. Country-specific ecological co-variation between food supply indicators and gastric cancer incidence (2010–2021) was examined descriptively, using Prais-Winsten regression and first-differencing to account for temporal autocorrelation and common trends. Benjamini-Hochberg correction was applied to account for multiple testing.ResultsThree dietary patterns emerged, each corresponding to distinct gastric cancer burden profiles. Fruits, nuts, and citrus fruits showed relatively consistent inverse ecological correlations with gastric cancer incidence, while selected vegetable oils and rice bran oil showed positive correlations in several countries. After Prais-Winsten correction, first-differencing, and Benjamini-Hochberg adjustment, 27 of 425 country-food pairs remained robust. These correlations represent descriptive co-variation and should not be interpreted as evidence of causal a…",
-      "authors": "Wei Shan, Jia-Hui Li, Da-Hua Liu et al.",
+      "title": "Adjunctive effects of single-plant-derived supplementation on dynamic maximal strength in adult men undertaking resistance training: a systematic review and meta-analysis of randomized controlled trials",
+      "abstract": "Background:Whether single-plant-derived supplements provide benefits beyond resistance training alone remains unclear. This systematic review and meta-analysis quantified their effects on dynamic maximal strength in adult men undertaking resistance training and examined related outcomes and potential effect modifiers.MethodsThis PRISMA 2020–compliant review was prospectively registered in PROSPERO (CRD420261468034). The search covered PubMed, Web of Science, Embase, Scopus, and the Cochrane Library from database inception through July 1, 2026. Eligible randomized controlled trials evaluated an orally administered preparation derived from a single identifiable plant species for at least 4 weeks, with resistance training identical or matched between groups, and reported a dynamic repetition-maximum strength outcome. Risk of bias was assessed with the Cochrane Risk of Bias 2 tool, and certainty of evidence with GRADE. Pooled effects were estimated using random-effects models and expressed as Hedges' g or mean differences with 95% CIs.ResultsSixteen trials involving 564 adult men contributed 17 independent comparisons. Supplementation favored upper-body (g = 0.32, 95% CI 0.06–0.58; I2 = 53%) and lower-body (g = 0.44, 95% CI 0.20–0.67; I2 = 39%) dynamic maximal strength. A favorable effect was also observed for upper-body muscular endurance (g = 0.64, 95% CI 0.22–1.06; I2 = 60%), and higher total testosterone concentrations were observed with supplementation (g = 0.47, 95% CI 0.22–0.73; I2 = 0%); no clear effects were observed for lower-body muscular endurance, body fat percenta…",
+      "authors": "Jinfa Gu, Jiawei Shao, Guowei Shen et al.",
       "published": "Nov 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1924636",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1960589",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Strengthening the U.S. School meal programs",
-      "abstract": "The National School Lunch Program is the second-largest US food and nutrition assistance program and serves nearly 30 million children each school day. Although school-meal quality has improved since the Healthy, Hunger-Free Kids Act of 2010, persistent nutritional, operational and research challenges remain. This paper examines five specific concerns: difficulty meeting nutrition needs; the need to balance meal quality, student acceptance, and food waste; barriers to school-meal access and participation; limited capacity to prepare fresh and minimally processed foods; and insufficient longitudinal evidence on diet quality. We propose five interrelated strategies focused on modernizing federal legislation, ensuring adequate reimbursement and infrastructure investment, expanding universal school meals, strengthening farm-to-school procurement, and improving nutrition education. Sustained federal leadership and commitment are key to enabling local actions to advance diet quality, equity, and program sustainability. Essentially, the program’s success depends on interdisciplinary coordination across nutrition policy, education, and agriculture at national and local levels.",
-      "authors": "Apekshya Chhetri, Doriane-hans Mawouena Sossou, Elina Dawoodani et al.",
+      "title": "Unmasking eating disorders in pediatric inflammatory bowel disease: at the crossroads of disease, treatment, and development",
+      "abstract": "Feeding and eating disorders (EDs) are increasingly recognized as clinically relevant yet underdiagnosed comorbidities in children and adolescents with inflammatory bowel disease (IBD). Their identification is particularly challenging because food avoidance, dietary restrictions, reduced intake, weight loss, gastrointestinal symptoms, nutritional deficiencies, and growth impairment may reflect either active IBD or an underlying ED. Importantly, food avoidance in pediatric IBD may represent an adaptive response to symptoms or medically prescribed dietary interventions. Clinical concern arises when restrictive eating becomes persistent, rigid, disproportionate to disease activity, nutritionally compromising or associated with significant psychological distress. EDs remains poorly recognized despite its potential to increase nutritional vulnerability, adversely affect growth and body composition, complicate nutritional management, and impair treatment adherence. Pediatric may be particularly vulnerable because of the interaction between disease-related symptoms, dietary restrictions, exclusive enteral nutrition, treatment-associated changes in weight and body image, and developmental factors. This narrative review summarizes current evidence on epidemiology, clinical phenotypes, potential mechanisms, diagnostic challenges, and clinical implications of EDs in pediatric IBD. Particular attention is given to the interactions between disease-related symptoms, developmental vulnerability, psychosocial influences, care-giver mediated eating behaviors, treatment-associated changes in…",
+      "authors": "Agnese Favale, Amalia Di Petrillo, Giuseppe Abbracciavento et al.",
       "published": "Nov 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1914723",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1970160",
       "image": "",
       "screen": "right"
     },
@@ -1009,7 +1009,7 @@
       "venue": "Food and Bioprocess Technology",
       "feedName": "Lab Research",
       "citationCount": 6,
-      "recentCitations": 1,
+      "recentCitations": 0,
       "quartile": "Q1",
       "s2_paper_id": "034d8c4f0c0f5607a4e6727360aa5d7287e60d5b",
       "url": "https://doi.org/10.1007/s11947-025-03873-y",

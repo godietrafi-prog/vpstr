@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23T17:00:47Z",
+  "updated": "2026-11-24T03:41:41Z",
   "items": [
     {
       "title": "Biodiversity footprints of food consumption decouple from economic growth at high income levels",
@@ -212,22 +212,22 @@
       "screen": "left"
     },
     {
-      "title": "Stress-programmed astaxanthin in algae: from physiological triggers to engineering design rules",
-      "abstract": "Natural astaxanthin is a valuable ketocarotenoid with growing demand across the nutraceutical, pharmaceutical, and aquaculture industries. While microalgae are still the main natural source, large-scale production continues to face a key challenge: the environmental conditions that favor fast growth tend to suppress astaxanthin accumulation, and those that strongly induce pigment production often reduce growth and create instability. To address this, we introduce the concept of “stress programming”; the deliberate planning and application of environmental and genetic cues to steer algal cells through a controlled shift from biomass growth to pigment induction. We outline the main triggers that drive astaxanthin biosynthesis, including light intensity and quality, nutrient limitation, and stress from temperature or ionic changes. These external cues tie into core cellular control systems, such as redox signaling via reactive oxygen species (ROS), imbalances in photosynthesis, and hormone-like signaling pathways. Moving beyond single-stressor approaches, we highlight how combinations of stress are being used to boost both astaxanthin yields and process stability. We also discuss how metabolic engineering and CRISPR–Cas tools are being applied to: improve flux through key biosynthetic steps, block competing pathways, and expand storage capacity in lipid droplets for better pigment retention. Rather than just describing isolated studies, we organize these insights into practical engineering principles, focusing on two-stage cultivation strategies, controllable induction periods…",
-      "authors": "Soufiane Boussetta, Ming Du, Yifei Liu et al.",
-      "published": "Nov 2026",
-      "feedName": "Frontiers Food Science",
-      "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.2002415",
-      "image": "",
-      "screen": "left"
-    },
-    {
       "title": "Comparative study on drying kinetics of Moringa oleifera leaves and development of a functional instant soup mix",
       "abstract": "IntroductionMoringa oleifera leaves are nutrient-rich but highly perishable, and drying temperature affects their quality. This study evaluated the effect of hot-air drying temperature on the drying kinetics, physicochemical characteristics and use of Moringa leaves in an instant soup mix.MethodsFresh leaves were hot-air dried at 45, 50 and 55 °C, and drying behaviour was assessed through moisture ratio, drying rate and thin-layer model fitting. Proximate composition, colour and physical properties were determined, and functional groups were characterised by FT-IR spectroscopy. The powders were incorporated into four soup formulations evaluated using a 9-point hedonic scale and Principal Component Analysis.ResultsHigher temperatures shortened drying time (300, 240 and 180 min) but increased nutritional and colour losses. All treatments showed only a falling-rate period, indicating diffusion-controlled moisture removal. Final moisture content (2.86%–4.68%, wet basis) was below the 8% safe-storage limit. Drying at 45 °C gave the highest crude protein (31.47%), ash (11.30%) and crude fibre (7.72%) (dry-weight basis) and greener colour. FT-IR detected hydroxyl, carbonyl, aromatic, aliphatic and ether groups in all samples. Formulations R1 and R2 (65:10 and 55:20 Moringa-to-jackfruit-seed-powder ratios) were the most acceptable; R2 scored highest but did not differ significantly from R1 (p = 0.18).DiscussionBecause Moringa and jackfruit seed powder levels varied jointly, the sensory results indicate a broad acceptability range rather than the effect of either ingredient alone. W…",
       "authors": "Aradhana Boruah, Tustisree Ghosh, Adesh Ranjan et al.",
       "published": "Nov 2026",
       "feedName": "Frontiers Food Science",
       "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.1954613",
+      "image": "",
+      "screen": "left"
+    },
+    {
+      "title": "Stress-programmed astaxanthin in algae: from physiological triggers to engineering design rules",
+      "abstract": "Natural astaxanthin is a valuable ketocarotenoid with growing demand across the nutraceutical, pharmaceutical, and aquaculture industries. While microalgae are still the main natural source, large-scale production continues to face a key challenge: the environmental conditions that favor fast growth tend to suppress astaxanthin accumulation, and those that strongly induce pigment production often reduce growth and create instability. To address this, we introduce the concept of “stress programming”; the deliberate planning and application of environmental and genetic cues to steer algal cells through a controlled shift from biomass growth to pigment induction. We outline the main triggers that drive astaxanthin biosynthesis, including light intensity and quality, nutrient limitation, and stress from temperature or ionic changes. These external cues tie into core cellular control systems, such as redox signaling via reactive oxygen species (ROS), imbalances in photosynthesis, and hormone-like signaling pathways. Moving beyond single-stressor approaches, we highlight how combinations of stress are being used to boost both astaxanthin yields and process stability. We also discuss how metabolic engineering and CRISPR–Cas tools are being applied to: improve flux through key biosynthetic steps, block competing pathways, and expand storage capacity in lipid droplets for better pigment retention. Rather than just describing isolated studies, we organize these insights into practical engineering principles, focusing on two-stage cultivation strategies, controllable induction periods…",
+      "authors": "Soufiane Boussetta, Ming Du, Yifei Liu et al.",
+      "published": "Nov 2026",
+      "feedName": "Frontiers Food Science",
+      "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.2002415",
       "image": "",
       "screen": "left"
     },
@@ -722,46 +722,6 @@
       }
     },
     {
-      "title": "New Analytical Approach to Quinolizidine Alkaloids and Their Assumed Biosynthesis Pathways in Lupin Seeds",
-      "abstract": "Alkaloids play an essential role in protecting plants against herbivores. Humans can also benefit from the pharmacological effects of these compounds. Plants produce an immense variety of structurally different alkaloids, including quinolizidine alkaloids, a group of bi-, tri-, and tetracyclic compounds produced by Lupinus species. Various lupin species produce different alkaloid profiles. To study the composition of quinolizidine alkaloids in lupin seeds, we collected 31 populations of two wild species native to Israel, L. pilosus and L. palaestinus, and analyzed their quinolizidine alkaloid contents. Our goal was to study the alkaloid profiles of these two wild species to better understand the challenges and prospective uses of wild lupins. We compared their profiles with those of other commercial and wild lupin species. To this end, a straightforward method for extracting alkaloids from seeds and determining the quinolizidine alkaloid profile by LC–MS/MS was developed and validated in-house. For the quantification of quinolizidine alkaloids, 15 analytical reference standards were used. We used GC–MS to verify and cross-reference the identity of certain alkaloids for which no analytical standards were available. The results enabled further exploration of quinolizidine alkaloid biosynthesis. We reviewed and re-analyzed the suggested quinolizidine alkaloid biosynthesis pathway, including the relationship between the amino acid precursor l-lysine and the different quinolizidine alkaloids occurring in seeds of lupin species. Revealing alkaloid compositions and highlighting so…",
-      "authors": "D. Namdar, Patrick P. J. Mulder, E. Ben-Simchon et al.",
-      "published": "2024",
-      "venue": "Toxins",
-      "feedName": "Lab Research",
-      "citationCount": 21,
-      "recentCitations": 1,
-      "quartile": null,
-      "s2_paper_id": "e6a6854e55ee8f5a8ace3025ba0d32e33a650343",
-      "url": "https://doi.org/10.3390/toxins16030163",
-      "image": "",
-      "screen": "both",
-      "lab_paper": true,
-      "researcher": {
-        "name": "Loai Basheer",
-        "photo": "media/photos/loai_basheer.png"
-      }
-    },
-    {
-      "title": "Valorization of Local Legumes and Nuts as Key Components of the Mediterranean Diet",
-      "abstract": "Legumes and nuts are components of high importance in the diet of many countries, mainly those in the Mediterranean region. They are also very versatile and culturally diverse foods found all over the world, acting as a basic protein source in certain countries. Their genetic diversity is needed to sustain the food supply and security for humans and livestock, especially because of the current loss of habitats, species, and genetic diversity worldwide, but also because of the ever present need to feed the increasing human population. Even though both legumes and nuts are considered as high-protein food and environmentally friendly crops, developed countries have lower consumption rates when compared to Asia or Africa. With a view to increasing the consumption of legumes and nuts, the objective of this review is to present the advantages on the use of autochthonous varieties from different countries around the world, thus providing a boost to the local market in the area. The consumption of these varieties could be helped by their use in ready-to-eat foods (RTE), which are now on the rise thanks to today’s fast-paced lifestyles and the search for more nutritious and sustainable foods. The versatility of legumes and nuts covers a wide range of possibilities through their use in plant-based dairy analogues, providing alternative-protein and maximal amounts of nutrients and bioactive compounds, potential plant-based flours for bakery and pasta, and added-value traditional RTE meals. For this reason, information about legume and nut nutrition could possibly increase its acceptan…",
-      "authors": "Israel Hernández-López, J. Ortiz-Solà, C. Alamprese et al.",
-      "published": "2022",
-      "venue": "Foods",
-      "feedName": "Lab Research",
-      "citationCount": 42,
-      "recentCitations": 0,
-      "quartile": "Q2",
-      "s2_paper_id": "58107c8058774580a57d044f21566325035de229",
-      "url": "https://doi.org/10.3390/foods11233858",
-      "image": "",
-      "screen": "both",
-      "lab_paper": true,
-      "researcher": {
-        "name": "Loai Basheer",
-        "photo": "media/photos/loai_basheer.png"
-      }
-    },
-    {
       "title": "Dictated cell adhesion and migration using microfluidic-controlled synthetic hydrogels exhibiting programmable viscoelasticities.",
       "abstract": "Mechanosensing interactions between the extracellular matrix (ECM) and the intracellular cytoskeleton are fundamental to cellular functions such as motility, proliferation, and adhesion, driven by the dynamic, bidirectional, tension-regulated maturation of focal adhesion (FA) sites. We demonstrate that native mechanosensing interactions and their downstream functions are precisely controlled using synthetic hydrogels. We introduce a microfluidic-assisted synthesis of imine-crosslinked hyaluronic acid-gelatin copolymer hydrogels (HAG), enabling controlled, predefined gradient viscoelasticity. Specifically, three native tissues (muscle, epidermis, and cartilage)-mimicking HAG hydrogels were prepared, matching their effective Young's modulus (Ymod) and stress relaxation time (τ1/2). Enhanced cell spreading and directional cell migration are observed, with a preference for substrates with tissue-matching viscoelasticity. These mechanosensing reactions are confirmed by traction force microscopy, revealing a tight correlation between native tissue mechano-properties and the hydrogel viscoelastic parameters. We demonstrate that the signaling efficacies of the FAK and associated YAP/TAZ pathways, central regulators of FA formation and cell migration, are tuned by substrate tissue-matching viscoelasticity. We implement these preprogrammed viscoelastic gradient hydrogels as spatiotemporal cell-separation matrices, enabling viscoelasticity-driven migration of binary cell mixtures. This work provides a potent platform for studying cell-material interactions, offering significant potent…",
       "authors": "Haochen Yang, Ziyuan Li, Gilad Davidson-Rozenfeld et al.",
@@ -1009,7 +969,7 @@
       "venue": "Food and Bioprocess Technology",
       "feedName": "Lab Research",
       "citationCount": 6,
-      "recentCitations": 0,
+      "recentCitations": 1,
       "quartile": "Q1",
       "s2_paper_id": "034d8c4f0c0f5607a4e6727360aa5d7287e60d5b",
       "url": "https://doi.org/10.1007/s11947-025-03873-y",

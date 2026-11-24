@@ -1,6 +1,16 @@
 {
-  "updated": "2026-11-24T03:41:41Z",
+  "updated": "2026-11-24T14:32:48Z",
   "items": [
+    {
+      "title": "The uncertain future of insect frass in agriculture",
+      "abstract": "While the promise of insect farming is increasingly under scrutiny, frass remains an overlooked output that exposes the divide between industrial standardization and agroecological diversity. Yet frass is not simply an agricultural input, but a reflection of the system from which it emerges.",
+      "authors": "David Houben, Michel-Pierre Faucon, Anne-Maïmiti Dulaurent",
+      "published": "Nov 2026",
+      "feedName": "Nature Food",
+      "url": "https://www.nature.com/articles/s43016-026-01480-4",
+      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs43016-026-01480-4/MediaObjects/43016_2026_1480_Fig1_HTML.png",
+      "screen": "left"
+    },
     {
       "title": "Biodiversity footprints of food consumption decouple from economic growth at high income levels",
       "abstract": "An analysis of 158 countries over 25 years shows that biodiversity footprints of food consumption are more likely to decouple from economic growth at higher income levels, with stronger decoupling for plant-based foods than for animal-based foods, especially ruminant meat.",
@@ -32,52 +42,42 @@
       "screen": "left"
     },
     {
-      "title": "The vicious circle of increasing volatility in international affairs and the implications for food systems",
-      "abstract": "Interacting geopolitical, environmental and economic pressures are creating a vicious circle that undermines global food security and long-term sustainability, strengthens food system lock-ins and makes food system transformation less likely. A new research and action agenda is needed to mitigate the risks ahead.",
-      "authors": "Tim G. Benton",
-      "published": "Nov 2026",
-      "feedName": "Nature Food",
-      "url": "https://www.nature.com/articles/s43016-026-01440-y",
-      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs43016-026-01440-y/MediaObjects/43016_2026_1440_Fig1_HTML.png",
-      "screen": "left"
-    },
-    {
-      "title": "Beyond linear assumptions: a leave-top-feature-out approach for diagnostic validation of principal component analysis (PCA)-based feature rankings in Food Chemistry",
+      "title": "Synergistic nutrient supply and stress shielding by a catechol-chondroitin sulfate interpenetrating network hydrogel for sustained fruit biocontrol",
       "abstract": "",
-      "authors": "Yoshiyasu Takefuji",
-      "published": "Dec 2026",
+      "authors": "Bingce Wang, Lifeng Zhang, Hao Luo et al.",
+      "published": "Jan 2027",
       "feedName": "Food Chemistry",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626042949?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S030881462604464X?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
     {
-      "title": "Preparation, characterization and functional evaluation of cottonseed protein-chitosan composite films incorporated with gallic acid for jujube storage",
+      "title": "Target-adaptive multilevel spectral fusion for monitoring catechin biotransformation during ultrasound-assisted enzymatic processing of oolong tea",
       "abstract": "",
-      "authors": "Hexi Yuan, Tingting Wang, Peiwen Wu et al.",
-      "published": "Dec 2026",
+      "authors": "Zhen Wang, Shanghua Li, Songguang Zhao et al.",
+      "published": "Jan 2027",
       "feedName": "Food Chemistry",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626043748?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626044894?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
     {
-      "title": "Endogenous co-reactant accelerator trigger-based ECL and voltage dual-mode aptasensor for the detection of Weissella viridescens",
+      "title": "Prediction of grain kernel hardness using image-Spectrum fusion based on hyperspectral imaging",
       "abstract": "",
-      "authors": "Mengxin Wang, Wei Yuan, Wenzhuo Wang et al.",
-      "published": "Dec 2026",
+      "authors": "Mengmeng Qiao, Ke Cao, Chenlong Fan et al.",
+      "published": "Jan 2027",
       "feedName": "Food Chemistry",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626044109?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626043578?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
     {
-      "title": "Investigation of the key aroma-active compounds in Fangxian Huangjiu using sensory-directed flavor omics",
+      "title": "The quantitative quality assessment and origin traceability of lotus leaves based on E -eye, E -tongue combined with machine learning algorithms",
       "abstract": "",
-      "authors": "Xinqi Zhao, Jihong Wu, Jinglin Zhang et al.",
-      "published": "Dec 2026",
+      "authors": "Lipan Liu, Nihui Zhang, Ying Wang et al.",
+      "published": "Jan 2027",
       "feedName": "Food Chemistry",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626044341?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S030881462604286X?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -102,22 +102,22 @@
       "screen": "left"
     },
     {
-      "title": "Analytical challenges and solutions for tea non-volatiles: A challenge-driven framework",
+      "title": "Structural recovery in lipid-structured food gels: Covalent chemistry, network cooperation, and processing tolerance",
       "abstract": "",
-      "authors": "Shanbo Zhang, Kim-Huey Ee, Yunle Huang et al.",
+      "authors": "Shasha Wu, Jialei Xu, Jinfeng Zhong et al.",
       "published": "Jan 2027",
       "feedName": "Trends in Food Sci & Tech",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426007181?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426007363?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
     {
-      "title": "Plant-based ice cream beyond dairy substitution: Functional reconstruction, process-directed multiphase assembly, and multi-objective design",
+      "title": "Mechanistic evidence and validation framework for radiofrequency-mediated aflatoxin B 1 reduction and potential transformation: A review",
       "abstract": "",
-      "authors": "Zhi Cheng, Chuqiao Wang, Ruizhi Yang et al.",
+      "authors": "Jiamin Song, Xuan Ou, Sen Zeng et al.",
       "published": "Jan 2027",
       "feedName": "Trends in Food Sci & Tech",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426007065?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426007399?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -202,6 +202,16 @@
       "screen": "left"
     },
     {
+      "title": "Postbiotics: technological and scientific advances based on patentometric and scientometric analyses",
+      "abstract": "Postbiotics have emerged as a promising alternative due to their potential benefits and applications in healthcare, food, and biotechnology. This study aimed to analyze the technological and scientific landscape of postbiotics through an integrated patentometric and scientometric approach, identifying trends, gaps, and innovation opportunities. Data were collected from patent documents (Espacenet and Patentscope) and scientific articles (Scopus and Web of Science) using terms related to the concept of postbiotics. After applying the eligibility criteria, a total of 1,023 patent documents and 1,483 scientific articles were analyzed. Inactivated cells (60.23%) in patent documents and cell derivatives (54.46%) in scientific articles were the most frequently reported postbiotic categories, with lactic acid bacteria, particularly Lactiplantibacillus plantarum, being the primary microbial source in both datasets. The publications surged between 2020 and 2021, peaking in 2025 with 269 patent documents and 435 scientific articles, while technological life cycle analysis indicated a growth phase for postbiotic-related technologies. The production of patent documents was concentrated in the Asia-Pacific region (77.95%), while scientific output was more distributed (50.88%). China accounted for 61.48% of patent documents and 24.18% of scientific articles worldwide. These findings showed that the integrated scientific and technological approach of this study highlighted a substantial translational divide between academic goals and industrial applications. Overall, it was demonstrated t…",
+      "authors": "Luis Alfonso Beltrán-Cotta, Anna Rafaela Cavalcante Braga, Katherine Gutiérrez-Álzate et al.",
+      "published": "Nov 2026",
+      "feedName": "Frontiers Food Science",
+      "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.1989846",
+      "image": "",
+      "screen": "left"
+    },
+    {
       "title": "Innovative alkalinity neutralization approaches improve tomato yield, quality and influence soil properties in semi–arid agroecosystems with irrigation (bi)carbonates hazard",
       "abstract": "IntroductionIrrigation alkalinity with high residual sodium carbonate (RSC) adversely affects soil chemical properties, nutrient availability, and tomato fruit quality. This study evaluated the effectiveness of neutralization strategies such as acid neutralizer (AN), liquid sulphur (LS), and CSSRI elemental sulphur (S°) reaction product (CSRP) mixed with irrigation water (RSC 3 and 6 me L–1) to bring the RSC equivalent to 1 me L–1 in improving soil ionic composition, nutrient availability, and the nutritional quality of tomato under alkali–irrigated sodic soil.MethodsTreatments were allocated in a randomized block design in lysimeters filled with sodic soil (pH1:2 9.88, EC1:2 2.1 dS m–1). Irrigation water was applied through drip based on the crop coefficient and evapotranspiration demand of the summer–season tomato crop.Results and DiscussionNeutralization approaches significantly increased Ca2+, Mg2+, and SO42– concentrations and reduced carbonate/bicarbonate [H(CO3)n–], soil pH and alkalinity. The CSRP was most effective in increasing Ca2+ 12.9 and SO42– (49.0 meq L–1) content in soil solution and lowering soil pH. CaCl2–S also increased under CSRP treatment. The soil improvement significantly enhanced tomato yield and fruit quality by increasing total soluble solids, pulp pH, and total antioxidants. Under CSRP, lycopene and total soluble solids were 3.80 mg 100 g–1 fresh weight and 7.27° Brix, respectively. Changes in soil properties due to RSC irrigation neutralization explained about 81% (P = 0.046) of the variability in yield and fruit quality. Dissolved reactive P, …",
       "authors": "Nirmalendu Basak, Priyanka Chandra, Arvind Kumar Rai et al.",
@@ -228,16 +238,6 @@
       "published": "Nov 2026",
       "feedName": "Frontiers Food Science",
       "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.2002415",
-      "image": "",
-      "screen": "left"
-    },
-    {
-      "title": "Antimicrobial efficacy of a propolis– postbiotics formulation against Salmonella enteritidis on eggshells during refrigerated and ambient storage",
-      "abstract": "IntroductionEggshell contamination by Salmonella Enteritidis remains a significant challenge to egg safety and shelf life. This study evaluated the antimicrobial potential of a natural bio‐wash formulation based on Propolis Ethanolic Extract (PEE), postbiotics from Lactiplantibacillus plantarum, and their combination for controlling S. Enteritidis and naturally occurring eggshell microbiota during storage at 25 and 4 °C. MethodsThe bioactive properties of PEE and the freeze dried postbiotics were characterized. Fresh eggs experimentally inoculated with approximately 6 log10 CFU/egg of S. Enteritidis were treated with PEE (50 and 100 mg/mL), postbiotics (50 and 100 mg/mL), or their combination (50 mg/mL of each component) and were monitored for 28 days at 25 and 4 °C.Results and Discussion PEE exhibited antibacterial (18.74 mm inhibition zone) and antioxidant (79.15 %) activities, and high total phenolic (236.87 mg GAE/g) and flavonoid (368.39 mg QE/g) contents. The postbiotics contained bioactive metabolites, including proteins, carbohydrates, lactic acid and short‐chain fatty acids. The treatments reduced S. Enteritidis populations and influenced the indigenous eggshell microbiota compared with the untreated control, with the magnitude of the effect depending on treatment composition and storage conditions (P < 0.05). Under refrigerated storage, antimicrobial treatments progressively reduced recoverable S. Enteritidis populations, with reductions of approximately 2.3–4.2 log10 CFU/egg by day 28 in the individual‐treatment groups. In the combined PEPO treatment, S. Enteriti…",
-      "authors": "Ali Motamedi, Naheed Mojgani, Mehran Moradi et al.",
-      "published": "Nov 2026",
-      "feedName": "Frontiers Food Science",
-      "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.1984382",
       "image": "",
       "screen": "left"
     },
@@ -482,42 +482,42 @@
       "screen": "right"
     },
     {
-      "title": "Placental iron homeostasis and the regulation of fetal iron supply: uptake, storage, utilization, and export",
-      "abstract": "The placenta mediates iron transfer from the maternal circulation to the fetus to support fetal development throughout gestation. Some of this iron is deposited in fetal organs, particularly the liver, creating reserves that sustain postnatal growth and erythropoiesis. Once taken up by the syncytiotrophoblast, iron is partitioned among three major fates: sequestration in ferritin-bound stores; use in mitochondrial respiration, heme synthesis, and iron–sulfur (Fe–S) cluster biogenesis; or delivery to ferroportin (FPN) for export toward the fetus. Transferrin receptor 1 (TFR1)-mediated uptake at the maternal-facing microvillous membrane and FPN-mediated efflux across the basal syncytiotrophoblast membrane are the best-characterized molecular steps in this pathway. However, key mechanistic questions remain, including how cytosolic iron reaches FPN and how iron exported through FPN traverses the villous stroma and fetal capillary endothelium to enter the fetal circulation. This narrative review synthesizes evidence on placental iron uptake, ferritin storage and mobilization, metabolic utilization, and basolateral export, interpreting findings in their developmental and experimental contexts. It also examines how maternal physiology, placental signaling, and fetal-derived signals collectively regulate fetal iron availability.",
-      "authors": "Guanchen Wu, Weijiao Zhang, Huiming Xu et al.",
+      "title": "Sugar-sweetened beverages and incidence of obesity-related cancers: findings from the SUN cohort",
+      "abstract": "BackgroundExcess adiposity is a well-established risk factor for multiple cancers, commonly referred to as obesity-related cancers (ORCs). Sugar-sweetened beverages (SSB) are major contributors to added sugar intake and have been associated with obesity and metabolic disturbances, yet evidence linking SSB consumption to ORC remains limited and inconsistent.ObjectiveWe aimed to prospectively evaluate the association between SSB and artificially sweetened beverage (ASB) consumption and ORC incidence in the “Seguimiento Universidad de Navarra” (SUN) cohort and to assess whether this association was modified by the overall dietary pattern.MethodsA total of 18,103 Spanish university graduates [mean age 38 years (SD ±12), 60% women] were followed-up for a median time of 13.8 years. SSB and ASB consumption were assessed using a validated 136-item food frequency questionnaire. Incident ORCs were blindly confirmed by an oncologist using medical records and by querying the National Death Index. Multivariable-adjusted hazard ratios (HR) and their 95% confidence intervals (CI) were estimated for ORC risk according to SSB or ASB consumption, overall and stratified by adherence to the Mediterranean diet ( < 6 vs. ≥ 6/8 points).ResultsOver 235,054 person-years of follow-up, 253 incident ORC cases were identified. No significant overall association was observed between SSB intake and ORC risk (HR = 1.12; 95% CI: 0.86–1.46 for consumers of ≥1 beverage/month vs. never/seldom consumers). Similarly, ASB consumption was not significantly associated with ORC (HR = 1.07; 95% CI: 0.79–1.46). A sig…",
+      "authors": "M. Olmedo López-Frías, M. J. Cobo Díez, M. Bes-Rastrollo et al.",
       "published": "Nov 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1987727",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1991349",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Adjunctive Galactol®, a multi-enzyme dietary supplement, in adults with irritable bowel syndrome following a low-FODMAP diet: a multicenter randomized controlled study",
-      "abstract": "BackgroundIrritable bowel syndrome (IBS) is a disorder of gut–brain interaction in which food-related triggers, visceral hypersensitivity, intestinal fermentation, and altered luminal responses may contribute to symptoms. Although the low-FODMAP diet is an established strategy, its restrictive nature and persistent fermentation-related symptoms in some patients justify adjunctive approaches. Digestive enzymes may reduce poorly digested substrates reaching the colon, thereby limiting fermentation, gas production, osmotic load, and luminal distension.ObjectiveTo evaluate whether α- and β-galactosidases plus an Aspergillus niger-derived prolyl endopeptidase provide additional benefit when added to a low-FODMAP diet in adults with Rome IV IBS.MethodsIn this prospective, multicenter, randomized controlled study, 300 adults with Rome IV IBS were allocated to a low-FODMAP diet alone or the same diet plus enzyme supplementation for 14 days. Gastrointestinal symptoms were assessed at baseline and day 14 using 0–10 visual analog scales for bloating, flatulence, abdominal discomfort, abdominal pain, and defecation urgency. Stool consistency, evacuation frequency, and diarrhea frequency were also evaluated. Repeated-measures GLM assessed time effects and time × group interactions.ResultsOf 300 participants, 292 completed the study. Groups were comparable at baseline for sex, age, body weight, IBS subtype, and reported food intolerances. Both groups improved significantly over time, but symptom reductions were greater with enzyme supplementation. Improvements for bloating, flatulence, a…",
-      "authors": "Alexander Bertuccioli, Annalisa Belli, Davide Sisti et al.",
+      "title": "Comparative efficacy of nutritional supplements in patients with chronic obstructive pulmonary disease: a systematic review, pairwise meta-analysis, and Bayesian network meta-analysis",
+      "abstract": "BackgroundTo assess the effects of nutritional supplements on lung function, exercise capacity, and quality of life in patients with chronic obstructive pulmonary disease (COPD), and compare their relative efficacy.MethodsPubMed, Embase, Cochrane Library, and Web of Science were searched for trials published from database inception through March 14, 2026. Primary pairwise analyses used change scores and a consistent random-effects model with restricted maximum likelihood estimation. Forced Expiratory Volume in 1 second (FEV1) and Forced Vital Capacity (FVC) were analyzed separately in liters and percent predicted, alongside FEV1/FVC, St. George’s Respiratory Questionnaire (SGRQ) total score, and six-minute walk distance. Single supplements were evaluated using Bayesian random-effects network meta-analysis. Final-value, model, prior, and control-type sensitivity analyses were performed. Grading of Recommendations Assessment Development and Evaluation (GRADE) and Confidence in Network Meta-Analysis (CINeMA) assessed evidence certainty and network confidence.ResultsFifty-one studies were included in the review, of which 47 contributed to the primary change-score analyses. FEV1 percent predicted improved by 2.95 percentage points (95% CI: 0.90 to 5.00), with uncertain clinical importance. Six-minute walk distance increased by 17.31 m (95% CI: 4.05 to 30.56), below the approximately 25 m minimal important difference at the point estimate. No clear differences were found for absolute FEV1, FVC on either scale, FEV1/FVC, or SGRQ total score. Final-value sensitivity analyses attenu…",
+      "authors": "Yifei Wang, Xince Wang, Huiling Zhou et al.",
       "published": "Nov 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1953638",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1993072",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Adjunctive effects of single-plant-derived supplementation on dynamic maximal strength in adult men undertaking resistance training: a systematic review and meta-analysis of randomized controlled trials",
-      "abstract": "Background:Whether single-plant-derived supplements provide benefits beyond resistance training alone remains unclear. This systematic review and meta-analysis quantified their effects on dynamic maximal strength in adult men undertaking resistance training and examined related outcomes and potential effect modifiers.MethodsThis PRISMA 2020–compliant review was prospectively registered in PROSPERO (CRD420261468034). The search covered PubMed, Web of Science, Embase, Scopus, and the Cochrane Library from database inception through July 1, 2026. Eligible randomized controlled trials evaluated an orally administered preparation derived from a single identifiable plant species for at least 4 weeks, with resistance training identical or matched between groups, and reported a dynamic repetition-maximum strength outcome. Risk of bias was assessed with the Cochrane Risk of Bias 2 tool, and certainty of evidence with GRADE. Pooled effects were estimated using random-effects models and expressed as Hedges' g or mean differences with 95% CIs.ResultsSixteen trials involving 564 adult men contributed 17 independent comparisons. Supplementation favored upper-body (g = 0.32, 95% CI 0.06–0.58; I2 = 53%) and lower-body (g = 0.44, 95% CI 0.20–0.67; I2 = 39%) dynamic maximal strength. A favorable effect was also observed for upper-body muscular endurance (g = 0.64, 95% CI 0.22–1.06; I2 = 60%), and higher total testosterone concentrations were observed with supplementation (g = 0.47, 95% CI 0.22–0.73; I2 = 0%); no clear effects were observed for lower-body muscular endurance, body fat percenta…",
-      "authors": "Jinfa Gu, Jiawei Shao, Guowei Shen et al.",
+      "title": "Effects of beetroot-derived nitrate on resistance exercise performance: a three-level meta-analysis and exploratory load-response analysis",
+      "abstract": "BackgroundBeetroot-derived nitrate is used as an ergogenic aid, but its effects across distinct dimensions of resistance-exercise performance and the potential role of relative load remain unclear. We quantified effects on maximal strength, mean velocity, peak velocity, and repetition capacity, and explored whether repetition-capacity effects varied with relative load.MethodsSix databases were searched through May 18, 2026. Randomized crossover trials in healthy adults examining acute or 3-7-day beetroot-derived nitrate supplementation were included. Dependent effects were synthesized using three-level random-effects models with cluster-robust inference. Certainty was assessed using GRADE, and exploratory quadratic meta-regression examined repetition-capacity effects across 60–80% of one-repetition maximum (1RM).ResultsTwenty-one studies contributing 28 report units and 271 participants were included. Beetroot-derived nitrate improved repetition capacity (g = 0.642, 95% CI 0.365–0.918, p < 0.001), with no clear benefit for maximal strength (g = 0.069, 95% CI −0.021 to 0.159), mean velocity (g = 0.047, 95% CI −0.045 to 0.138), or peak velocity (g = 0.176, 95% CI −0.162 to 0.515). Certainty ranged from very low to moderate. The exploratory quadratic model suggested a nonlinear pattern (p = 0.033), but this was not confirmed by cluster-robust inference (p = 0.125) and was sensitive to potential participant overlap.ConclusionBeetroot-derived nitrate appears to enhance repetition capacity, whereas no clear pooled benefit was observed for maximal strength, mean velocity, or peak …",
+      "authors": "Ruting Lin, Yubo Wang, Zhenyu Shuai et al.",
       "published": "Nov 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1960589",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.2024798",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Unmasking eating disorders in pediatric inflammatory bowel disease: at the crossroads of disease, treatment, and development",
-      "abstract": "Feeding and eating disorders (EDs) are increasingly recognized as clinically relevant yet underdiagnosed comorbidities in children and adolescents with inflammatory bowel disease (IBD). Their identification is particularly challenging because food avoidance, dietary restrictions, reduced intake, weight loss, gastrointestinal symptoms, nutritional deficiencies, and growth impairment may reflect either active IBD or an underlying ED. Importantly, food avoidance in pediatric IBD may represent an adaptive response to symptoms or medically prescribed dietary interventions. Clinical concern arises when restrictive eating becomes persistent, rigid, disproportionate to disease activity, nutritionally compromising or associated with significant psychological distress. EDs remains poorly recognized despite its potential to increase nutritional vulnerability, adversely affect growth and body composition, complicate nutritional management, and impair treatment adherence. Pediatric may be particularly vulnerable because of the interaction between disease-related symptoms, dietary restrictions, exclusive enteral nutrition, treatment-associated changes in weight and body image, and developmental factors. This narrative review summarizes current evidence on epidemiology, clinical phenotypes, potential mechanisms, diagnostic challenges, and clinical implications of EDs in pediatric IBD. Particular attention is given to the interactions between disease-related symptoms, developmental vulnerability, psychosocial influences, care-giver mediated eating behaviors, treatment-associated changes in…",
-      "authors": "Agnese Favale, Amalia Di Petrillo, Giuseppe Abbracciavento et al.",
+      "title": "Blood-derived HLAN, COPD severity, and clinical outcomes: a nutritional–inflammatory perspective",
+      "abstract": "BackgroundChronic obstructive pulmonary disease (COPD) is frequently accompanied by nutritional depletion, anemia, and systemic inflammation, which may contribute to advanced airflow limitation and adverse outcomes. The hemoglobin–lymphocyte–albumin–neutrophil (HLAN) index integrates four routinely measured hematologic, albumin, and leukocyte variables with nutritional and inflammatory relevance. We examined whether HLAN was associated with airflow limitation severity and clinical outcomes in COPD.MethodsThe National Health and Nutrition Examination Survey (NHANES) analysis included 1,287 adults aged 40–79 years from 2007 to 2012 with usable spirometry, a forced expiratory volume in 1 s (FEV1)/forced vital capacity ratio < 0.70, complete HLAN components, and complete covariates. The independent hospital cohort comprised 347 hospitalized patients with COPD. Right-skewed HLAN was log-transformed and standardized by cohort. The primary outcome was Global Initiative for Chronic Obstructive Lung Disease (GOLD) grades 3–4 versus 1–2; secondary outcomes were all-cause mortality in NHANES and length of hospital stay in the hospital cohort. NHANES models accounted for the complex survey design. Sensitivity analyses examined alternative COPD definitions and predicted lung-function equations, multiple imputation, procalcitonin-restricted analysis, dose–response, marker comparisons, and incremental discrimination.ResultsIn the primary NHANES M2 model, each 1-standard-deviation increase in log-HLAN was associated with lower odds of GOLD grades 3–4 (odds ratio [OR] 0.612, 95% confidence …",
+      "authors": "Denghua Ren, Qing Zhang, Min Li et al.",
       "published": "Nov 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1970160",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1974230",
       "image": "",
       "screen": "right"
     },
@@ -719,6 +719,46 @@
       "researcher": {
         "name": "Ofir Benjamin",
         "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=FsjV0oIAAAAJ"
+      }
+    },
+    {
+      "title": "New Analytical Approach to Quinolizidine Alkaloids and Their Assumed Biosynthesis Pathways in Lupin Seeds",
+      "abstract": "Alkaloids play an essential role in protecting plants against herbivores. Humans can also benefit from the pharmacological effects of these compounds. Plants produce an immense variety of structurally different alkaloids, including quinolizidine alkaloids, a group of bi-, tri-, and tetracyclic compounds produced by Lupinus species. Various lupin species produce different alkaloid profiles. To study the composition of quinolizidine alkaloids in lupin seeds, we collected 31 populations of two wild species native to Israel, L. pilosus and L. palaestinus, and analyzed their quinolizidine alkaloid contents. Our goal was to study the alkaloid profiles of these two wild species to better understand the challenges and prospective uses of wild lupins. We compared their profiles with those of other commercial and wild lupin species. To this end, a straightforward method for extracting alkaloids from seeds and determining the quinolizidine alkaloid profile by LC–MS/MS was developed and validated in-house. For the quantification of quinolizidine alkaloids, 15 analytical reference standards were used. We used GC–MS to verify and cross-reference the identity of certain alkaloids for which no analytical standards were available. The results enabled further exploration of quinolizidine alkaloid biosynthesis. We reviewed and re-analyzed the suggested quinolizidine alkaloid biosynthesis pathway, including the relationship between the amino acid precursor l-lysine and the different quinolizidine alkaloids occurring in seeds of lupin species. Revealing alkaloid compositions and highlighting so…",
+      "authors": "D. Namdar, Patrick P. J. Mulder, E. Ben-Simchon et al.",
+      "published": "2024",
+      "venue": "Toxins",
+      "feedName": "Lab Research",
+      "citationCount": 21,
+      "recentCitations": 1,
+      "quartile": null,
+      "s2_paper_id": "e6a6854e55ee8f5a8ace3025ba0d32e33a650343",
+      "url": "https://doi.org/10.3390/toxins16030163",
+      "image": "",
+      "screen": "both",
+      "lab_paper": true,
+      "researcher": {
+        "name": "Loai Basheer",
+        "photo": "media/photos/loai_basheer.png"
+      }
+    },
+    {
+      "title": "Valorization of Local Legumes and Nuts as Key Components of the Mediterranean Diet",
+      "abstract": "Legumes and nuts are components of high importance in the diet of many countries, mainly those in the Mediterranean region. They are also very versatile and culturally diverse foods found all over the world, acting as a basic protein source in certain countries. Their genetic diversity is needed to sustain the food supply and security for humans and livestock, especially because of the current loss of habitats, species, and genetic diversity worldwide, but also because of the ever present need to feed the increasing human population. Even though both legumes and nuts are considered as high-protein food and environmentally friendly crops, developed countries have lower consumption rates when compared to Asia or Africa. With a view to increasing the consumption of legumes and nuts, the objective of this review is to present the advantages on the use of autochthonous varieties from different countries around the world, thus providing a boost to the local market in the area. The consumption of these varieties could be helped by their use in ready-to-eat foods (RTE), which are now on the rise thanks to today’s fast-paced lifestyles and the search for more nutritious and sustainable foods. The versatility of legumes and nuts covers a wide range of possibilities through their use in plant-based dairy analogues, providing alternative-protein and maximal amounts of nutrients and bioactive compounds, potential plant-based flours for bakery and pasta, and added-value traditional RTE meals. For this reason, information about legume and nut nutrition could possibly increase its acceptan…",
+      "authors": "Israel Hernández-López, J. Ortiz-Solà, C. Alamprese et al.",
+      "published": "2022",
+      "venue": "Foods",
+      "feedName": "Lab Research",
+      "citationCount": 42,
+      "recentCitations": 0,
+      "quartile": "Q2",
+      "s2_paper_id": "58107c8058774580a57d044f21566325035de229",
+      "url": "https://doi.org/10.3390/foods11233858",
+      "image": "",
+      "screen": "both",
+      "lab_paper": true,
+      "researcher": {
+        "name": "Loai Basheer",
+        "photo": "media/photos/loai_basheer.png"
       }
     },
     {

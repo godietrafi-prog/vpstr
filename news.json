@@ -1,6 +1,26 @@
 {
-  "updated": "2026-11-25T10:44:37Z",
+  "updated": "2026-11-25T20:56:11Z",
   "items": [
+    {
+      "title": "Author Correction: Ammonia mitigation campaign with smallholder farmers improves air quality while ensuring high cereal production",
+      "abstract": "",
+      "authors": "Jiahui Kang, Jingxia Wang, Mathew R. Heal et al.",
+      "published": "Nov 2026",
+      "feedName": "Nature Food",
+      "url": "https://www.nature.com/articles/s43016-026-01484-0",
+      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs43016-026-01484-0/MediaObjects/43016_2026_1484_Fig1_HTML.png",
+      "screen": "left"
+    },
+    {
+      "title": "Field-informed synthetic microbiome engineering for soil health and sustainable agriculture",
+      "abstract": "This Perspective introduces a field-informed framework for synthetic microbiome (SynBiome) engineering that integrates ecological context into microbial design. It highlights stability, biosafety and scalability as key considerations for reliable microbial interventions in sustainable agriculture.",
+      "authors": "Yuting Liang, Haowei Ni, Yujuan Wang et al.",
+      "published": "Nov 2026",
+      "feedName": "Nature Food",
+      "url": "https://www.nature.com/articles/s43016-026-01471-5",
+      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs43016-026-01471-5/MediaObjects/43016_2026_1471_Fig1_HTML.png",
+      "screen": "left"
+    },
     {
       "title": "The uncertain future of insect frass in agriculture",
       "abstract": "While the promise of insect farming is increasingly under scrutiny, frass remains an overlooked output that exposes the divide between industrial standardization and agroecological diversity. Yet frass is not simply an agricultural input, but a reflection of the system from which it emerges.",
@@ -22,62 +42,42 @@
       "screen": "left"
     },
     {
-      "title": "El Niño amplified food insecurity in early modern Europe from 1500 to 1800",
-      "abstract": "The El Niño/Southern Oscillation is a dominant source of global interannual climate variability, yet its influence on historical food security in Europe remains underexplored. Drawing on a dataset of 160 European famine episodes, this study shows the association between El Niño events and the onset and duration of famine episodes.",
-      "authors": "Emile Esmaili, Michael J. Puma, Francis Ludlow et al.",
-      "published": "Nov 2026",
-      "feedName": "Nature Food",
-      "url": "https://www.nature.com/articles/s43016-026-01460-8",
-      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs43016-026-01460-8/MediaObjects/43016_2026_1460_Fig1_HTML.png",
-      "screen": "left"
-    },
-    {
-      "title": "Geopolitics in focus",
-      "abstract": "Geopolitics have long affected food systems, yet the nature and scale of their influence have changed over recent decades. Understanding the drivers and impacts of these new dynamics is key to addressing current and future food system challenges.",
-      "authors": "",
-      "published": "Nov 2026",
-      "feedName": "Nature Food",
-      "url": "https://www.nature.com/articles/s43016-026-01476-0",
-      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs43016-026-01476-0/MediaObjects/43016_2026_1476_Fig1_HTML.png",
-      "screen": "left"
-    },
-    {
-      "title": "Synergistic nutrient supply and stress shielding by a catechol-chondroitin sulfate interpenetrating network hydrogel for sustained fruit biocontrol",
+      "title": "Glycosylation with mannose modulates the anti-inflammatory activity of low-molecular weight peptides from brewer's spent yeast mannoproteins",
       "abstract": "",
-      "authors": "Bingce Wang, Lifeng Zhang, Hao Luo et al.",
+      "authors": "Raúl E. Cian, Silvina R. Drago, Marilin E. Aquino et al.",
       "published": "Jan 2027",
       "feedName": "Food Chemistry",
-      "url": "https://www.sciencedirect.com/science/article/pii/S030881462604464X?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626028347?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
     {
-      "title": "Target-adaptive multilevel spectral fusion for monitoring catechin biotransformation during ultrasound-assisted enzymatic processing of oolong tea",
+      "title": "The effect of semi-encapsulated Schizochytrium powder on goat milk production and the effect of endogenous DHA fortification strategy on fermented goat milk",
       "abstract": "",
-      "authors": "Zhen Wang, Shanghua Li, Songguang Zhao et al.",
+      "authors": "Xujin Yang, Shaoying Ma, Chao Duan et al.",
       "published": "Jan 2027",
       "feedName": "Food Chemistry",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626044894?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626044328?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
     {
-      "title": "Prediction of grain kernel hardness using image-Spectrum fusion based on hyperspectral imaging",
+      "title": "Effects of different plant growth regulators on the fruit quality and characteristic aroma of ‘Summer Black’ grapes for juice production",
       "abstract": "",
-      "authors": "Mengmeng Qiao, Ke Cao, Chenlong Fan et al.",
+      "authors": "Shouan Han, Min Wang, Xinyue Wang et al.",
       "published": "Jan 2027",
       "feedName": "Food Chemistry",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626043578?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626036137?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
     {
-      "title": "The quantitative quality assessment and origin traceability of lotus leaves based on E -eye, E -tongue combined with machine learning algorithms",
+      "title": "Efficient and stable enzymatic synthesis of medium-long-medium type structured lipids by a new continuous-flow packed bed reactor system",
       "abstract": "",
-      "authors": "Lipan Liu, Nihui Zhang, Ying Wang et al.",
+      "authors": "Xiansi Gao, Wenxiang Wang, Ping Yu et al.",
       "published": "Jan 2027",
       "feedName": "Food Chemistry",
-      "url": "https://www.sciencedirect.com/science/article/pii/S030881462604286X?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0308814626044067?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -142,22 +142,22 @@
       "screen": "left"
     },
     {
-      "title": "Do consumers base their choices on label claims? Visual attention to health and sensory claims on cured meat alternatives labels",
+      "title": "Decoding food date labels: Insights from a systematic review of consumer understanding and behaviour",
       "abstract": "",
-      "authors": "Stergios Melios, Niamh Harbourne, Declan Bolton et al.",
+      "authors": "Joya A. Kemper, Mona Soltani, Claris Chung et al.",
       "published": "Mar 2027",
       "feedName": "Food Quality & Preference",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0950329326003423?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S095032932600340X?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
     {
-      "title": "Sinfully good: The effect of video-based hedonic eating simulation cues, choice motivations, and taste beliefs on (un)healthy food consumption",
+      "title": "Validation of a French-Canadian breakfast adaptation of the Leeds Food Preference Questionnaire",
       "abstract": "",
-      "authors": "Maija Kantola, Terhi Junkkari, Anu Hopia et al.",
+      "authors": "Élodie Jutras, Graham Finlayson, Amélie Lachance et al.",
       "published": "Mar 2027",
       "feedName": "Food Quality & Preference",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0950329326003241?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0950329326003472?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -282,6 +282,16 @@
       "screen": "left"
     },
     {
+      "title": "Enhancing the colorimetric sensitivity of chitosan-based indicator films using rare earth metal-anthocyanin complexes for tracking lamb freshness",
+      "abstract": "",
+      "authors": "Shuo Shi, Yu Han, Min Liu et al.",
+      "published": "Nov 2026",
+      "feedName": "npj Science of Food",
+      "url": "https://www.nature.com/articles/s41538-026-01238-z",
+      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01238-z/MediaObjects/41538_2026_1238_Fig1_HTML.png",
+      "screen": "left"
+    },
+    {
       "title": "Reply to Matters Arising: a chemical language model for molecular taste prediction",
       "abstract": "",
       "authors": "Yoel Zimmermann, Leif Sieben, Henrik Seng et al.",
@@ -309,16 +319,6 @@
       "feedName": "npj Science of Food",
       "url": "https://www.nature.com/articles/s41538-026-01167-x",
       "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01167-x/MediaObjects/41538_2026_1167_Fig1_HTML.png",
-      "screen": "left"
-    },
-    {
-      "title": "Fermentates of barley polysaccharides by Bifidobacterium longum suppress colorectal cancer associated with modulation of Wnt/β-catenin signaling and metabolic profiles",
-      "abstract": "",
-      "authors": "Yanghanxiu Liu, Hao Meng, Qing Hu et al.",
-      "published": "Nov 2026",
-      "feedName": "npj Science of Food",
-      "url": "https://www.nature.com/articles/s41538-026-01170-2",
-      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs41538-026-01170-2/MediaObjects/41538_2026_1170_Fig1_HTML.png",
       "screen": "left"
     },
     {
@@ -362,6 +362,36 @@
       "screen": "left"
     },
     {
+      "title": "'Rubik's Cube molecule' puts the stretch in next-gen semiconductors",
+      "abstract": "Plastics that are both good at conducting electricity and flexible enough to stretch and bend are already being used in cell phones with folding screens. But because the rigid crystals they contain—which help with conductivity—aren't naturally flexible, they still often crack. Now, researchers from the University of Toronto have found a way to increase the stretchiness of these materials while maintaining their ability to conduct electricity, potentially opening new uses in medicine and biology.",
+      "authors": "",
+      "published": "Nov 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-11-rubik-cube-molecule-gen-semiconductors.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/rubiks-cube-molecule-p.jpg",
+      "screen": "right"
+    },
+    {
+      "title": "Phosphate boosts nitrate conversion tenfold, helping copper catalysts produce ammonia",
+      "abstract": "Nitrate is a major water pollutant, and remediation technologies like catalytic electrochemical reduction remove nitrate by converting it into other compounds. This complex chemical reaction has many end products, among which is ammonia. Ammonia has many uses in agriculture and chemistry, but it is difficult to obtain as an end product using a copper catalyst.",
+      "authors": "",
+      "published": "Nov 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-11-phosphate-boosts-nitrate-conversion-tenfold.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/local-action-microenvi.jpg",
+      "screen": "right"
+    },
+    {
+      "title": "Removing background noise brings cellular properties into focus",
+      "abstract": "When light interacts with a material, a small part of it gets scattered with a different energy. This change can reveal information about the molecules within the material based on their unique molecular fingerprints. This phenomenon, which earned physicist C. V. Raman the 1930 Nobel Prize in Physics, forms the basis of Raman spectroscopy, a widely used technique for studying the chemical composition of materials.",
+      "authors": "",
+      "published": "Nov 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-11-background-noise-cellular-properties-focus.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/removing-background-no.jpg",
+      "screen": "right"
+    },
+    {
       "title": "New chemical route delivers first synthesis of plant compound with cough-suppressing potential",
       "abstract": "Neotuberostemonine, a complex plant-derived alkaloid with promising antitussive activity, has remained a challenging target for chemical synthesis for nearly 30 years. Researchers have now achieved its first total synthesis, alongside the synthesis of neostenine and the putative structure of tuberostemonine L. The findings also reveal how the nearly planar geometry of nitrogen atoms contributes to the oxidative instability of these alkaloids, offering new insights and synthetic strategies for natural-product chemistry and future drug discovery.",
       "authors": "",
@@ -369,36 +399,6 @@
       "feedName": "Phys.org Analytics",
       "url": "https://phys.org/news/2026-11-chemical-route-synthesis-compound-suppressing.html",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/a-new-chemical-route-d.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "A new reason for magic numbers: Scientists discover the secret behind an unusually stable molecular cluster",
-      "abstract": "Why are some groups of molecules remarkably stable while others readily break apart? Researchers at Bar-Ilan University have discovered a surprising explanation for why clusters containing exactly six molecules of glycine, the simplest amino acid, are exceptionally stable—making six a \"magic number.\" Moreover, they have uncovered the reason for this increased stability. The secret lies in a transformation that takes place when the molecules come together: they change their structure and become zwitterions, allowing them to form stronger bonds with one another.",
-      "authors": "",
-      "published": "Nov 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-11-magic-scientists-secret-unusually-stable.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/a-new-reason-for-magic.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "Visible light powers new catalyst to turn carbon dioxide into industrial raw material",
-      "abstract": "Rice University researchers have demonstrated a way to split carbon dioxide using visible light without external heating, overcoming a major energy obstacle in sustainable chemical manufacturing.",
-      "authors": "",
-      "published": "Nov 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-11-visible-powers-catalyst-carbon-dioxide.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/visible-light-powers-n.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "New system enables highly sensitive detection of trace hydrogen",
-      "abstract": "A research team led by professor Fang Yonghua at the Hefei Institutes of Physical Science of the Chinese Academy of Sciences has developed a new system for detecting trace amounts of hydrogen that improves detection sensitivity by reducing background interference, enabling it to directly detect hydrogen at a concentration of one part per million (ppm).",
-      "authors": "",
-      "published": "Nov 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-11-enables-highly-sensitive-hydrogen.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/new-system-enables-hig.jpg",
       "screen": "right"
     },
     {
@@ -482,42 +482,42 @@
       "screen": "right"
     },
     {
-      "title": "Effects of glutamine on immune function and postoperative complications in patients undergoing gastrectomy for gastric cancer: a systematic review and meta-analysis",
-      "abstract": "BackgroundTo systematically evaluate the effects of glutamine on immune function and postoperative complications in patients undergoing gastrectomy for gastric cancer.MethodsChinese databases, including CNKI, Wanfang Data, VIP, and SinoMed, as well as English databases, including PubMed, Embase, Web of Science, the Cochrane Library, and Ovid MEDLINE, were searched from inception to March 9, 2026, for randomized controlled trials (RCTs) investigating the effects of glutamine supplementation in patients after gastrectomy for gastric cancer. Two reviewers independently screened the literature according to the predefined inclusion criteria, extracted data, and assessed study quality. Meta-analysis was performed using RevMan 5.4 software.ResultsA total of 34 RCTs involving 2,464 patients were included. Compared with the control group, glutamine significantly improved immune function indicators, including IgG (MD, 1.74; 95% CI, 1.27 to 2.21; p < 0.00001), IgM (MD, 0.19; 95% CI, 0.12 to 0.25; p < 0.00001), and IgA (MD, 0.43; 95% CI, 0.35 to 0.50; p < 0.00001). Glutamine supplementation was also associated with improved cellular immune function, as reflected by increased CD4+ levels (MD, 5.46; 95% CI, 4.49 to 6.44; p < 0.00001), modestly decreased CD8+ levels (MD, −1.40; 95% CI, −2.77 to −0.02; p = 0.05), and an increased CD4+/CD8+ ratio (MD, 0.30; 95% CI, 0.20 to 0.39; p < 0.00001). In terms of nutritional status, glutamine supplementation significantly increased prealbumin (MD, 26.18; 95% CI, 19.73 to 32.63; p < 0.00001), albumin (MD, 3.06; 95% CI, 2.42 to 3.70; p < 0.00001), and…",
-      "authors": "Wei Li, Yu Ye, Ke Li et al.",
+      "title": "Metabolic-inflammatory-nutritional indices for identifying coronary heart disease in patients with metabolic dysfunction-associated steatotic liver disease: development and temporal validation of an interpretable model",
+      "abstract": "BackgroundMetabolic dysfunction-associated steatotic liver disease (MASLD) is highly prevalent and is associated with an increased burden of coronary heart disease (CHD). Emerging metabolic-inflammatory-nutritional indices may provide complementary information for CHD identification. This study systematically evaluated 10 composite indices and developed an interpretable model for identifying concurrent CHD in patients with MASLD.MethodsThis study included 664 patients with MASLD who underwent coronary angiography and were randomly divided into training and internal validation sets at a 7:3 ratio. An additional 213 patients constituted the temporal validation set. Ten metabolic–inflammatory–nutritional composite indices were calculated, including CHG (cholesterol-high-density lipoprotein cholesterol-glucose index), ALBI (albumin–bilirubin score), lnCAR (natural logarithm of the C-reactive protein-to-albumin ratio), AIP (atherogenic index of plasma), etc. Associations between 10 composite indices and CHD were evaluated using logistic regression, restricted cubic splines, and receiver operating characteristic analysis. Predictors were selected using the least absolute shrinkage and selection operator regression and multivariable logistic regression. Six machine learning algorithms were compared, and the final model was presented as a nomogram and web-based calculator.ResultsAfter multivariable adjustment, nine composite indices remained significantly associated with CHD. CHG showed the strongest association (OR = 3.221, 95% CI: 2.315–4.563) and the highest discriminatory perfo…",
+      "authors": "Kaiyue Shen, Kunkun Li, Xiaoying Zhang et al.",
       "published": "Nov 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1857670",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1965587",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Effects of dietary polyphenol supplementation on metabolic syndrome: a systematic review and meta-analysis",
-      "abstract": "BackgroundDietary polyphenols have been investigated as adjunctive interventions for metabolic syndrome (MetS), but trial findings remain inconsistent. This systematic review and meta-analysis evaluated their effects separately by compound and outcome.MethodsPubMed, Embase, Web of Science, and the Cochrane Library were searched through March 10, 2026, for randomized trials in adults with diagnosed MetS. Linked reports were treated as one trial. Outcomes were pooled using restricted maximum-likelihood random-effects models. When at least three trials contributed and between-study variance was positive, the wider of the Hartung–Knapp–Sidik–Jonkman and Wald intervals was reported; otherwise, Wald intervals were used. The certainty of evidence for 38 pooled outcomes was assessed using GRADE.ResultsTwenty-three reports represented 20 independent trials of six polyphenol interventions. Fifteen trials contributed to 38 outcome-specific meta-analyses of curcumin, resveratrol, anthocyanin-rich foods, and catechin preparations. Curcumin increased high-density lipoprotein cholesterol (HDL-C; MD 5.01 mg/dL, 95% CI 1.78 to 8.23; I2 = 78.9%). Its low-density lipoprotein cholesterol estimate was not statistically significant (MD −4.03 mg/dL, 95% CI −20.07 to 12.01; I2 = 87.6%), nor were the other curcumin primary pooled outcomes. The HDL-C finding persisted in leave-one-out analyses. Catechin preparations reduced BMI in the primary two-trial model (MD −0.82 kg/m2, 95% CI −1.39 to −0.26; I2 = 0.0%), but this estimate was sensitive to the assumed crossover correlation. The other seven poole…",
-      "authors": "Tiecheng Huang, Gulimire Abolimiti, Tao Yang et al.",
+      "title": "The multidimensional roles of branched-chain amino acids in type 2 diabetes mellitus: a precision medicine perspective from metabolic imprint to effect amplifier",
+      "abstract": "The global epidemic of type 2 diabetes mellitus (T2DM) has prompted the academic community to continually explore early-warning biomarkers and core pathogenic mechanisms. In recent years, elevated circulating levels of branched-chain amino acids (BCAAs) and their metabolic intermediates were demonstrated to show an independent and robust positive correlation with the risk of developing T2DM. Following the logical thread of “phenotypic association–mechanistic exploration–causal interrogation–repositioning–translational application,” this review summarizes relevant prospective cohort studies and molecular mechanistic investigations. BCAAs and their metabolic derivatives (such as branched-chain α-keto acids and acylcarnitines) not only exhibit superior early-warning value, but also may actively contribute to the pathological progression of T2DM by hyperactivating the mTORC1 pathway to block insulin signaling, inducing mitochondrial dysfunction and ectopic lipid deposition, disrupting the gut microbiota barrier, and perturbing one-carbon metabolism–mediated epigenetic modifications. Facing recent conflicts regarding the causal relationship between the two, this review breaks away from traditional unidirectional or bidirectional parallel etiologic paradigms. It proposes an integrative conceptual framework that repositions the role of BCAAs in T2DM as both a “metabolic imprint” that integrates diverse upstream metabolic impairments and a potential “effect amplifier” that may aggravate downstream metabolic dysfunction under specific conditions. Based on this new conceptual framewo…",
+      "authors": "Xiaomin Kang, Rui Hao, Shanshan Tang et al.",
       "published": "Nov 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.2023240",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1995143",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Social media use intensity and restrained eating among Chinese university students: indirect associations through fear of missing out and negative affect",
-      "abstract": "BackgroundRestrained eating is a form of deliberate dietary control that is relevant to research on eating behavior and psychological well-being among young adults. Social media is increasingly embedded in university students’ everyday lives, yet it remains unclear whether general social media use intensity is associated with restrained eating through psychological states linked to persistent social connectedness. Existing social media–eating research has largely emphasized appearance-specific exposure and body-image processes. This study addressed a complementary question by examining the association between general social media use intensity and restrained eating and testing the specific and serial indirect effects of fear of missing out (FoMO) and negative affect.MethodsA cross-sectional questionnaire survey was conducted among university students recruited from multiple universities in China using convenience sampling. The final analytic sample comprised 1,207 participants. Social media use intensity, FoMO, negative affect, and restrained eating were assessed using questionnaire measures. Confirmatory factor analysis and Pearson correlation analysis were conducted, and Hayes’ PROCESS macro (Model 6) with 5,000 percentile bootstrap resamples was used to estimate the specific and serial indirect effects.ResultsSocial media use intensity was positively associated with FoMO, negative affect, and restrained eating. The total association between social media use intensity and restrained eating was significant (B = 0.309, p < 0.001). The total indirect effect was 0.227, 95% CI…",
-      "authors": "Xiujie Zhou, Yueshu Zhao, Jianchao Ni",
+      "title": "Nutritional and antioxidant interventions in early psychosis: clinical evidence and biomarker-guided strategies",
+      "abstract": "Nutritional and redox disturbances have been increasingly recognized as potential biological features of early psychosis, providing a rationale for investigating nutritional and antioxidant interventions as adjunctive treatment strategies. Among these, N-acetylcysteine (NAC), folate, and B-vitamin supplementation have attracted particular interest because of their effects on glutathione homeostasis and one-carbon metabolism. However, clinical evidence remains inconsistent, and biochemical target engagement has not consistently translated into meaningful improvements in psychotic symptoms, cognition, or functional outcomes. NAC may increase glutathione availability, whereas folate and B-vitamin supplementation can reduce circulating homocysteine concentrations; nevertheless, the clinical significance of these effects remains uncertain. Similar uncertainty exists for other nutritional and antioxidant interventions, including omega-3 fatty acids, for which findings across studies have been variable. Emerging evidence suggests that baseline biological characteristics, including glutathione peroxidase activity, homocysteine concentration, nutritional status, and genetic variation, may contribute to differences in treatment response. However, most proposed biomarkers remain exploratory and have not been prospectively validated for treatment selection. Therefore, this review examines the biological rationale, clinical evidence, and potential biomarkers relevant to nutritional and antioxidant interventions in early psychosis. We propose a four-level framework distinguishing biologi…",
+      "authors": "Chanthong Yorn, Virak Sorn",
       "published": "Nov 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.2026479",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.2015405",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Cultivar-level phytochemical heterogeneity challenges species-based quality standards for botanical foods and nutraceuticals",
-      "abstract": "Species-based quality standards for botanical foods and nutraceuticals rely on taxonomic identity and selected marker compounds, with limited attention to cultivar or chemotype. This article examines published evidence, using garlic as a primary case study, alongside evidence from turmeric, ginger, ginseng, ginkgo, echinacea, and cranberry. This evidence demonstrates phytochemical heterogeneity associated with genetic lineage, plant part, provenance, processing, and formulation and, in some cases, differences in in vitro bioactivity. Across the botanicals examined, evidence is strongest for compositional variability, while direct evidence linking cultivar identity to clinical outcomes remains limited. Cultivar identity is a credence attribute that consumers and buyers cannot readily verify. Material of documented genetic identity may therefore be indistinguishable in the market from commodity material of unknown provenance. This information asymmetry reduces incentives to characterise botanical material and complicates assessment of whether marketed products are comparable to those used to substantiate health claims. This article proposes proportionate cultivar or chemotype documentation and phytochemical characterisation where reproducible functional claims depend on defined botanical composition.",
-      "authors": "Nick Diamantopoulos",
+      "title": "Sarcopenia screening as a gateway to multidomain nutrition and lifestyle strategies in adults: validation of SARC-F and Ishii’s score in a community-based sample from Guayaquil",
+      "abstract": "BackgroundSarcopenia screening may serve as an entry point for multidomain nutrition and lifestyle strategies in adults. Early identification continues to be vital to apply adequate interventions; however, existing, simple screening tools require proper validation in Latin American population. Our work aimed to compare the accuracy of the SARC-F questionnaire with Ishii’s score for screening sarcopenia in community-dwelling adults.MethodsA cross-sectional study was performed on community-dwelling individuals (n = 274) in Guayaquil, Ecuador. Sarcopenia diagnosis was defined according to the EWGSOP2 algorithm assessing muscle strength, appendicular skeletal muscle mass, and physical performance. The diagnostic performance of SARC-F and Ishii’s score was evaluated using receiver operating characteristic (ROC) curves, area under the ROC curve (AUC), sensitivity, specificity, and Youden index.ResultsSarcopenia diagnosis was confirmed in 15.69% of the participants. The SARC-F questionnaire exhibited poor diagnostic accuracy (AUC 0.50; Sensitivity 55.81%; Specificity 49.35%). On the contrary, the Ishii’s score showed superior discriminative capacity (AUC 0.84; Sensitivity 81.40%; Specificity 76.62%). Population-specific cut-off points were higher than the originally proposed for Asian individuals, especially for women, for whom Ishii’s score showed the highest performance.ConclusionIshii’s score showed greater discrimination than SARC-F in this Ecuadorian sample. Its performance and sample-derived thresholds require independent validation before routine clinical use.",
+      "authors": "Diana Fonseca-Pérez, Cecilia Arteaga-Pazmiño, Danielle F. Aycart et al.",
       "published": "Nov 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1967448",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1973006",
       "image": "",
       "screen": "right"
     },
@@ -649,7 +649,7 @@
       "venue": "Food and Bioprocess Technology",
       "feedName": "Lab Research",
       "citationCount": 6,
-      "recentCitations": 0,
+      "recentCitations": 1,
       "quartile": "Q1",
       "s2_paper_id": "034d8c4f0c0f5607a4e6727360aa5d7287e60d5b",
       "url": "https://doi.org/10.1007/s11947-025-03873-y",
@@ -808,7 +808,7 @@
       "published": "2024",
       "venue": "Journal of the American Chemical Society",
       "feedName": "Lab Research",
-      "citationCount": 26,
+      "citationCount": 27,
       "recentCitations": 0,
       "quartile": "Q1",
       "s2_paper_id": "e8f95caa1e8ece0c16f246b34ead0788c6d4b146",

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T00:16:07Z",
+  "updated": "2026-11-25T10:44:37Z",
   "items": [
     {
       "title": "The uncertain future of insect frass in agriculture",
@@ -102,22 +102,22 @@
       "screen": "left"
     },
     {
+      "title": "The role of ethanol in the perception of beverages: Sensory, physicochemical and oral processing perspectives",
+      "abstract": "",
+      "authors": "Loïc Joubert-Laurencin, Thierry Thomas-Danguin, Eric Neyraud et al.",
+      "published": "Jan 2027",
+      "feedName": "Trends in Food Sci & Tech",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426007375?dgcid=rss_sd_all",
+      "image": "",
+      "screen": "left"
+    },
+    {
       "title": "Structural recovery in lipid-structured food gels: Covalent chemistry, network cooperation, and processing tolerance",
       "abstract": "",
       "authors": "Shasha Wu, Jialei Xu, Jinfeng Zhong et al.",
       "published": "Jan 2027",
       "feedName": "Trends in Food Sci & Tech",
       "url": "https://www.sciencedirect.com/science/article/pii/S0924224426007363?dgcid=rss_sd_all",
-      "image": "",
-      "screen": "left"
-    },
-    {
-      "title": "Mechanistic evidence and validation framework for radiofrequency-mediated aflatoxin B 1 reduction and potential transformation: A review",
-      "abstract": "",
-      "authors": "Jiamin Song, Xuan Ou, Sen Zeng et al.",
-      "published": "Jan 2027",
-      "feedName": "Trends in Food Sci & Tech",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426007399?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -362,6 +362,16 @@
       "screen": "left"
     },
     {
+      "title": "New chemical route delivers first synthesis of plant compound with cough-suppressing potential",
+      "abstract": "Neotuberostemonine, a complex plant-derived alkaloid with promising antitussive activity, has remained a challenging target for chemical synthesis for nearly 30 years. Researchers have now achieved its first total synthesis, alongside the synthesis of neostenine and the putative structure of tuberostemonine L. The findings also reveal how the nearly planar geometry of nitrogen atoms contributes to the oxidative instability of these alkaloids, offering new insights and synthetic strategies for natural-product chemistry and future drug discovery.",
+      "authors": "",
+      "published": "Nov 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-11-chemical-route-synthesis-compound-suppressing.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/a-new-chemical-route-d.jpg",
+      "screen": "right"
+    },
+    {
       "title": "A new reason for magic numbers: Scientists discover the secret behind an unusually stable molecular cluster",
       "abstract": "Why are some groups of molecules remarkably stable while others readily break apart? Researchers at Bar-Ilan University have discovered a surprising explanation for why clusters containing exactly six molecules of glycine, the simplest amino acid, are exceptionally stable—making six a \"magic number.\" Moreover, they have uncovered the reason for this increased stability. The secret lies in a transformation that takes place when the molecules come together: they change their structure and become zwitterions, allowing them to form stronger bonds with one another.",
       "authors": "",
@@ -389,16 +399,6 @@
       "feedName": "Phys.org Analytics",
       "url": "https://phys.org/news/2026-11-enables-highly-sensitive-hydrogen.html",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/new-system-enables-hig.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "A million tiny crystals reveal how semiconductors form distinct cores and shells",
-      "abstract": "Perovskites and related materials called perovskitoids are promising semiconductor materials for solar cells, LEDs and light detectors. Their ingredients and internal crystal structures determine how they absorb and emit light. A chip just 2 centimeters across can hold roughly a million tiny crystals—becoming a miniature material library that can show how some mixtures separate into distinct cores and shells, changing the light they absorb.",
-      "authors": "",
-      "published": "Nov 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-11-million-tiny-crystals-reveal-semiconductors.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/chips-holding-a-millio.jpg",
       "screen": "right"
     },
     {
@@ -482,42 +482,42 @@
       "screen": "right"
     },
     {
-      "title": "Sex-specific serum phosphate–parathyroid hormone coupling across a Qinghai clinical cohort and U.S. NHANES: dietary sensitivity and genetic triangulation",
-      "abstract": "BackgroundSerum phosphate and parathyroid hormone (PTH) are linked through tightly regulated mineral homeostasis, but whether their continuous association differs by sex across populations remains uncertain. We investigated whether sex modifies the serum phosphate–PTH association, whether short-term dietary phosphorus accounts for this pattern, and whether forward and targeted reverse Mendelian randomization (MR) analyses provide evidence for a stable causal direction.MethodsCross-sectional analyses included 1,613 complete cases from a clinical cohort in Qinghai, China, and 4,358 and 4,394 adults from NHANES 2003–2004 and 2005–2006, respectively. PTH was natural-log transformed, serum phosphate was scaled per 0.1 mmol/L, and the primary parameter was the sex-by-phosphate interaction. Dietary sensitivity analyses in NHANES incorporated reliable day-1 dietary recalls and repeated two-day mean intakes. Forward MR selected 181 independent phosphate-associated variants to evaluate PTH, 25-hydroxyvitamin D [25(OH)D], and lumbar-spine bone mineral density, with 151–160 variants retained per outcome after harmonization. Targeted reverse MR used two independent genome-wide significant clinical intact-PTH instruments.ResultsPositive sex-by-phosphate interactions were observed in Qinghai (β = 0.032, 95% CI 0.008–0.057), NHANES 2003–2004 (β = 0.047, 95% CI 0.030–0.063), and NHANES 2005–2006 (β = 0.014, 95% CI 0.005–0.024), indicating a steeper inverse phosphate–PTH slope in women. Effect magnitude varied substantially across cohorts (I2 = 85.5%). In pooled NHANES analyses, adjustment f…",
-      "authors": "Zhibin Liu, Junlong Huang, Hao Zhang et al.",
+      "title": "Effects of glutamine on immune function and postoperative complications in patients undergoing gastrectomy for gastric cancer: a systematic review and meta-analysis",
+      "abstract": "BackgroundTo systematically evaluate the effects of glutamine on immune function and postoperative complications in patients undergoing gastrectomy for gastric cancer.MethodsChinese databases, including CNKI, Wanfang Data, VIP, and SinoMed, as well as English databases, including PubMed, Embase, Web of Science, the Cochrane Library, and Ovid MEDLINE, were searched from inception to March 9, 2026, for randomized controlled trials (RCTs) investigating the effects of glutamine supplementation in patients after gastrectomy for gastric cancer. Two reviewers independently screened the literature according to the predefined inclusion criteria, extracted data, and assessed study quality. Meta-analysis was performed using RevMan 5.4 software.ResultsA total of 34 RCTs involving 2,464 patients were included. Compared with the control group, glutamine significantly improved immune function indicators, including IgG (MD, 1.74; 95% CI, 1.27 to 2.21; p < 0.00001), IgM (MD, 0.19; 95% CI, 0.12 to 0.25; p < 0.00001), and IgA (MD, 0.43; 95% CI, 0.35 to 0.50; p < 0.00001). Glutamine supplementation was also associated with improved cellular immune function, as reflected by increased CD4+ levels (MD, 5.46; 95% CI, 4.49 to 6.44; p < 0.00001), modestly decreased CD8+ levels (MD, −1.40; 95% CI, −2.77 to −0.02; p = 0.05), and an increased CD4+/CD8+ ratio (MD, 0.30; 95% CI, 0.20 to 0.39; p < 0.00001). In terms of nutritional status, glutamine supplementation significantly increased prealbumin (MD, 26.18; 95% CI, 19.73 to 32.63; p < 0.00001), albumin (MD, 3.06; 95% CI, 2.42 to 3.70; p < 0.00001), and…",
+      "authors": "Wei Li, Yu Ye, Ke Li et al.",
       "published": "Nov 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.2025220",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1857670",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Editorial: Antioxidants and antimicrobials in food production",
-      "abstract": "",
-      "authors": "Ovidiu Tiţa, Liviu Gaceu",
+      "title": "Effects of dietary polyphenol supplementation on metabolic syndrome: a systematic review and meta-analysis",
+      "abstract": "BackgroundDietary polyphenols have been investigated as adjunctive interventions for metabolic syndrome (MetS), but trial findings remain inconsistent. This systematic review and meta-analysis evaluated their effects separately by compound and outcome.MethodsPubMed, Embase, Web of Science, and the Cochrane Library were searched through March 10, 2026, for randomized trials in adults with diagnosed MetS. Linked reports were treated as one trial. Outcomes were pooled using restricted maximum-likelihood random-effects models. When at least three trials contributed and between-study variance was positive, the wider of the Hartung–Knapp–Sidik–Jonkman and Wald intervals was reported; otherwise, Wald intervals were used. The certainty of evidence for 38 pooled outcomes was assessed using GRADE.ResultsTwenty-three reports represented 20 independent trials of six polyphenol interventions. Fifteen trials contributed to 38 outcome-specific meta-analyses of curcumin, resveratrol, anthocyanin-rich foods, and catechin preparations. Curcumin increased high-density lipoprotein cholesterol (HDL-C; MD 5.01 mg/dL, 95% CI 1.78 to 8.23; I2 = 78.9%). Its low-density lipoprotein cholesterol estimate was not statistically significant (MD −4.03 mg/dL, 95% CI −20.07 to 12.01; I2 = 87.6%), nor were the other curcumin primary pooled outcomes. The HDL-C finding persisted in leave-one-out analyses. Catechin preparations reduced BMI in the primary two-trial model (MD −0.82 kg/m2, 95% CI −1.39 to −0.26; I2 = 0.0%), but this estimate was sensitive to the assumed crossover correlation. The other seven poole…",
+      "authors": "Tiecheng Huang, Gulimire Abolimiti, Tao Yang et al.",
       "published": "Nov 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.2016744",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.2023240",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Effects of beetroot-derived nitrate on resistance exercise performance: a three-level meta-analysis and exploratory load-response analysis",
-      "abstract": "BackgroundBeetroot-derived nitrate is used as an ergogenic aid, but its effects across distinct dimensions of resistance-exercise performance and the potential role of relative load remain unclear. We quantified effects on maximal strength, mean velocity, peak velocity, and repetition capacity, and explored whether repetition-capacity effects varied with relative load.MethodsSix databases were searched through May 18, 2026. Randomized crossover trials in healthy adults examining acute or 3-7-day beetroot-derived nitrate supplementation were included. Dependent effects were synthesized using three-level random-effects models with cluster-robust inference. Certainty was assessed using GRADE, and exploratory quadratic meta-regression examined repetition-capacity effects across 60–80% of one-repetition maximum (1RM).ResultsTwenty-one studies contributing 28 report units and 271 participants were included. Beetroot-derived nitrate improved repetition capacity (g = 0.642, 95% CI 0.365–0.918, p < 0.001), with no clear benefit for maximal strength (g = 0.069, 95% CI −0.021 to 0.159), mean velocity (g = 0.047, 95% CI −0.045 to 0.138), or peak velocity (g = 0.176, 95% CI −0.162 to 0.515). Certainty ranged from very low to moderate. The exploratory quadratic model suggested a nonlinear pattern (p = 0.033), but this was not confirmed by cluster-robust inference (p = 0.125) and was sensitive to potential participant overlap.ConclusionBeetroot-derived nitrate appears to enhance repetition capacity, whereas no clear pooled benefit was observed for maximal strength, mean velocity, or peak …",
-      "authors": "Ruting Lin, Yubo Wang, Zhenyu Shuai et al.",
+      "title": "Social media use intensity and restrained eating among Chinese university students: indirect associations through fear of missing out and negative affect",
+      "abstract": "BackgroundRestrained eating is a form of deliberate dietary control that is relevant to research on eating behavior and psychological well-being among young adults. Social media is increasingly embedded in university students’ everyday lives, yet it remains unclear whether general social media use intensity is associated with restrained eating through psychological states linked to persistent social connectedness. Existing social media–eating research has largely emphasized appearance-specific exposure and body-image processes. This study addressed a complementary question by examining the association between general social media use intensity and restrained eating and testing the specific and serial indirect effects of fear of missing out (FoMO) and negative affect.MethodsA cross-sectional questionnaire survey was conducted among university students recruited from multiple universities in China using convenience sampling. The final analytic sample comprised 1,207 participants. Social media use intensity, FoMO, negative affect, and restrained eating were assessed using questionnaire measures. Confirmatory factor analysis and Pearson correlation analysis were conducted, and Hayes’ PROCESS macro (Model 6) with 5,000 percentile bootstrap resamples was used to estimate the specific and serial indirect effects.ResultsSocial media use intensity was positively associated with FoMO, negative affect, and restrained eating. The total association between social media use intensity and restrained eating was significant (B = 0.309, p < 0.001). The total indirect effect was 0.227, 95% CI…",
+      "authors": "Xiujie Zhou, Yueshu Zhao, Jianchao Ni",
       "published": "Nov 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.2024798",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.2026479",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Big data, nutrition, and mental health: implications for artificial intelligence based interventions",
-      "abstract": "BackgroundNutrition is a modifiable factor associated with mental health. Big data, machine learning (ML), digital health and multimodal sensing offer opportunities to characterize these relationships, but evidence remains fragmented. This review examined nutrition–mental-health findings, analytical approaches and implications for artificial intelligence interventions.MethodsFollowing PRISMA guidelines, we searched six databases, with searches completed on 17 February 2026. Of 42,840 records, 2,656 duplicates were removed, 40,184 records were screened, 4,285 were assessed for eligibility and 35 studies were included. Study characteristics, dietary exposures, mental-health outcomes, analytical methods and quantitative estimates were extracted and synthesized descriptively and narratively. Two researchers assessed methodological quality and risk of bias using the Mixed Methods Appraisal Tool (MMAT), version 2018; interrater agreement was Cohen’s κ = 0.78. One Mendelian-randomization report received a separate domain-based appraisal.ResultsDepression was the most frequently studied outcome (24 studies), followed by anxiety (11) and stress (7). Healthier dietary patterns and nutrient-dense foods were generally associated with favorable mental-health outcomes, whereas ultra-processed foods, sugary foods/beverages and irregular eating patterns were more frequently associated with adverse outcomes. Associations varied by population and design. Twenty-seven studies (77.1%) reported relevant quantitative estimates. Examples included lower depression odds for the highest versus lowes…",
-      "authors": "Kingsley Arua Kalu, Grace Ataguba, Oladapo Oyebode et al.",
+      "title": "Cultivar-level phytochemical heterogeneity challenges species-based quality standards for botanical foods and nutraceuticals",
+      "abstract": "Species-based quality standards for botanical foods and nutraceuticals rely on taxonomic identity and selected marker compounds, with limited attention to cultivar or chemotype. This article examines published evidence, using garlic as a primary case study, alongside evidence from turmeric, ginger, ginseng, ginkgo, echinacea, and cranberry. This evidence demonstrates phytochemical heterogeneity associated with genetic lineage, plant part, provenance, processing, and formulation and, in some cases, differences in in vitro bioactivity. Across the botanicals examined, evidence is strongest for compositional variability, while direct evidence linking cultivar identity to clinical outcomes remains limited. Cultivar identity is a credence attribute that consumers and buyers cannot readily verify. Material of documented genetic identity may therefore be indistinguishable in the market from commodity material of unknown provenance. This information asymmetry reduces incentives to characterise botanical material and complicates assessment of whether marketed products are comparable to those used to substantiate health claims. This article proposes proportionate cultivar or chemotype documentation and phytochemical characterisation where reproducible functional claims depend on defined botanical composition.",
+      "authors": "Nick Diamantopoulos",
       "published": "Nov 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1976560",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1967448",
       "image": "",
       "screen": "right"
     },
@@ -649,7 +649,7 @@
       "venue": "Food and Bioprocess Technology",
       "feedName": "Lab Research",
       "citationCount": 6,
-      "recentCitations": 1,
+      "recentCitations": 0,
       "quartile": "Q1",
       "s2_paper_id": "034d8c4f0c0f5607a4e6727360aa5d7287e60d5b",
       "url": "https://doi.org/10.1007/s11947-025-03873-y",

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T14:32:48Z",
+  "updated": "2026-11-25T00:16:07Z",
   "items": [
     {
       "title": "The uncertain future of insect frass in agriculture",
@@ -242,6 +242,26 @@
       "screen": "left"
     },
     {
+      "title": "Targeting mechanosensitive channels activation for foodborne bacterial control: State of the art and future application horizons",
+      "abstract": "",
+      "authors": "Meng Chen, Huanhuan Li, Mengru Wang et al.",
+      "published": "Apr 2027",
+      "feedName": "Food Microbiology",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0740002026003369?dgcid=rss_sd_all",
+      "image": "",
+      "screen": "left"
+    },
+    {
+      "title": "Stochastic modeling of the inoculum size effect on bacterial growth detection",
+      "abstract": "",
+      "authors": "Junpei Hosoe, Taishi Kato, Alberto Garre et al.",
+      "published": "Apr 2027",
+      "feedName": "Food Microbiology",
+      "url": "https://www.sciencedirect.com/science/article/pii/S074000202600328X?dgcid=rss_sd_all",
+      "image": "",
+      "screen": "left"
+    },
+    {
       "title": "Suppression of luxs/AI-2 quorum sensing by lauric acid: A potential solution to inhibit spoilage of Serratia grimesii -contaminated beef",
       "abstract": "",
       "authors": "Xuefei Shao, Mengjiao Han, Baocai Xu et al.",
@@ -258,26 +278,6 @@
       "published": "Apr 2027",
       "feedName": "Food Microbiology",
       "url": "https://www.sciencedirect.com/science/article/pii/S0740002026003254?dgcid=rss_sd_all",
-      "image": "",
-      "screen": "left"
-    },
-    {
-      "title": "Penicillin V acylase-containing crude extract from Lactiplantibacillus plantarum with quorum-quenching activity extends the shelf life of refrigerated rainbow trout fillets",
-      "abstract": "",
-      "authors": "Yangrui Wang, Hangshan Zhan, Shuilin Liu et al.",
-      "published": "Apr 2027",
-      "feedName": "Food Microbiology",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0740002026003345?dgcid=rss_sd_all",
-      "image": "",
-      "screen": "left"
-    },
-    {
-      "title": "Prophage-encoded holins, endolysins, and spanins as food biocontrol candidates: current evidence and translational gaps",
-      "abstract": "",
-      "authors": "Grace Naa Ayorkor Charway, Abirami Karthikeyan, Aqib Javaid et al.",
-      "published": "Apr 2027",
-      "feedName": "Food Microbiology",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0740002026003291?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -362,6 +362,36 @@
       "screen": "left"
     },
     {
+      "title": "A new reason for magic numbers: Scientists discover the secret behind an unusually stable molecular cluster",
+      "abstract": "Why are some groups of molecules remarkably stable while others readily break apart? Researchers at Bar-Ilan University have discovered a surprising explanation for why clusters containing exactly six molecules of glycine, the simplest amino acid, are exceptionally stable—making six a \"magic number.\" Moreover, they have uncovered the reason for this increased stability. The secret lies in a transformation that takes place when the molecules come together: they change their structure and become zwitterions, allowing them to form stronger bonds with one another.",
+      "authors": "",
+      "published": "Nov 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-11-magic-scientists-secret-unusually-stable.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/a-new-reason-for-magic.jpg",
+      "screen": "right"
+    },
+    {
+      "title": "Visible light powers new catalyst to turn carbon dioxide into industrial raw material",
+      "abstract": "Rice University researchers have demonstrated a way to split carbon dioxide using visible light without external heating, overcoming a major energy obstacle in sustainable chemical manufacturing.",
+      "authors": "",
+      "published": "Nov 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-11-visible-powers-catalyst-carbon-dioxide.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/visible-light-powers-n.jpg",
+      "screen": "right"
+    },
+    {
+      "title": "New system enables highly sensitive detection of trace hydrogen",
+      "abstract": "A research team led by professor Fang Yonghua at the Hefei Institutes of Physical Science of the Chinese Academy of Sciences has developed a new system for detecting trace amounts of hydrogen that improves detection sensitivity by reducing background interference, enabling it to directly detect hydrogen at a concentration of one part per million (ppm).",
+      "authors": "",
+      "published": "Nov 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-11-enables-highly-sensitive-hydrogen.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/new-system-enables-hig.jpg",
+      "screen": "right"
+    },
+    {
       "title": "A million tiny crystals reveal how semiconductors form distinct cores and shells",
       "abstract": "Perovskites and related materials called perovskitoids are promising semiconductor materials for solar cells, LEDs and light detectors. Their ingredients and internal crystal structures determine how they absorb and emit light. A chip just 2 centimeters across can hold roughly a million tiny crystals—becoming a miniature material library that can show how some mixtures separate into distinct cores and shells, changing the light they absorb.",
       "authors": "",
@@ -369,36 +399,6 @@
       "feedName": "Phys.org Analytics",
       "url": "https://phys.org/news/2026-11-million-tiny-crystals-reveal-semiconductors.html",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/chips-holding-a-millio.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "Q&A: Making hydrogen peroxide without using precious metals",
-      "abstract": "Hydrogen peroxide is used in many industrial processes, with several million tons of it being manufactured worldwide every year. Whereas the standard production method requires rare precious metals, chemists from Rutgers University–Newark in the US and the University of Bonn have now described an alternative technique that does away with these metals, making it potentially cheaper and more sustainable. Their findings have now been published in the journal Nature Communications. In the following interview, the authors describe the technology.",
-      "authors": "",
-      "published": "Nov 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-11-qa-hydrogen-peroxide-precious-metals.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/university-of-bonn-res.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "Improving hydrogen production from water can support abundant global crops",
-      "abstract": "Water, at least in its purest form, contains hydrogen and oxygen. In 1800, scientists first used electricity to split water into hydrogen and oxygen gases. Today, this process, known as water electrolysis, is widely used to produce hydrogen for industrial purposes, including manufacturing ammonia for agricultural fertilizers that sustain global food production.",
-      "authors": "",
-      "published": "Nov 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-11-hydrogen-production-abundant-global-crops.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/improving-hydrogen-pro-1.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "X-rays reveal fleeting intermediate step as iron-containing molecule responds to light",
-      "abstract": "A research team has traced how a molecule rearranges its electrons when excited by light. The findings, published in Angewandte Chemie International Edition, help clarify a long-standing question and open new possibilities for studying chemistry in motion, such as bonds breaking or forming—fundamental steps in reactions involving catalysts and biological molecules. The collaboration included Helmholtz-Zentrum Berlin (HZB), the Paul Scherrer Institute (PSI) in Villigen, Switzerland, and European XFEL.",
-      "authors": "",
-      "published": "Nov 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-11-rays-reveal-fleeting-intermediate-iron.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/the-hrixs-spectrometer.jpg",
       "screen": "right"
     },
     {
@@ -482,22 +482,22 @@
       "screen": "right"
     },
     {
-      "title": "Sugar-sweetened beverages and incidence of obesity-related cancers: findings from the SUN cohort",
-      "abstract": "BackgroundExcess adiposity is a well-established risk factor for multiple cancers, commonly referred to as obesity-related cancers (ORCs). Sugar-sweetened beverages (SSB) are major contributors to added sugar intake and have been associated with obesity and metabolic disturbances, yet evidence linking SSB consumption to ORC remains limited and inconsistent.ObjectiveWe aimed to prospectively evaluate the association between SSB and artificially sweetened beverage (ASB) consumption and ORC incidence in the “Seguimiento Universidad de Navarra” (SUN) cohort and to assess whether this association was modified by the overall dietary pattern.MethodsA total of 18,103 Spanish university graduates [mean age 38 years (SD ±12), 60% women] were followed-up for a median time of 13.8 years. SSB and ASB consumption were assessed using a validated 136-item food frequency questionnaire. Incident ORCs were blindly confirmed by an oncologist using medical records and by querying the National Death Index. Multivariable-adjusted hazard ratios (HR) and their 95% confidence intervals (CI) were estimated for ORC risk according to SSB or ASB consumption, overall and stratified by adherence to the Mediterranean diet ( < 6 vs. ≥ 6/8 points).ResultsOver 235,054 person-years of follow-up, 253 incident ORC cases were identified. No significant overall association was observed between SSB intake and ORC risk (HR = 1.12; 95% CI: 0.86–1.46 for consumers of ≥1 beverage/month vs. never/seldom consumers). Similarly, ASB consumption was not significantly associated with ORC (HR = 1.07; 95% CI: 0.79–1.46). A sig…",
-      "authors": "M. Olmedo López-Frías, M. J. Cobo Díez, M. Bes-Rastrollo et al.",
+      "title": "Sex-specific serum phosphate–parathyroid hormone coupling across a Qinghai clinical cohort and U.S. NHANES: dietary sensitivity and genetic triangulation",
+      "abstract": "BackgroundSerum phosphate and parathyroid hormone (PTH) are linked through tightly regulated mineral homeostasis, but whether their continuous association differs by sex across populations remains uncertain. We investigated whether sex modifies the serum phosphate–PTH association, whether short-term dietary phosphorus accounts for this pattern, and whether forward and targeted reverse Mendelian randomization (MR) analyses provide evidence for a stable causal direction.MethodsCross-sectional analyses included 1,613 complete cases from a clinical cohort in Qinghai, China, and 4,358 and 4,394 adults from NHANES 2003–2004 and 2005–2006, respectively. PTH was natural-log transformed, serum phosphate was scaled per 0.1 mmol/L, and the primary parameter was the sex-by-phosphate interaction. Dietary sensitivity analyses in NHANES incorporated reliable day-1 dietary recalls and repeated two-day mean intakes. Forward MR selected 181 independent phosphate-associated variants to evaluate PTH, 25-hydroxyvitamin D [25(OH)D], and lumbar-spine bone mineral density, with 151–160 variants retained per outcome after harmonization. Targeted reverse MR used two independent genome-wide significant clinical intact-PTH instruments.ResultsPositive sex-by-phosphate interactions were observed in Qinghai (β = 0.032, 95% CI 0.008–0.057), NHANES 2003–2004 (β = 0.047, 95% CI 0.030–0.063), and NHANES 2005–2006 (β = 0.014, 95% CI 0.005–0.024), indicating a steeper inverse phosphate–PTH slope in women. Effect magnitude varied substantially across cohorts (I2 = 85.5%). In pooled NHANES analyses, adjustment f…",
+      "authors": "Zhibin Liu, Junlong Huang, Hao Zhang et al.",
       "published": "Nov 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1991349",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.2025220",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Comparative efficacy of nutritional supplements in patients with chronic obstructive pulmonary disease: a systematic review, pairwise meta-analysis, and Bayesian network meta-analysis",
-      "abstract": "BackgroundTo assess the effects of nutritional supplements on lung function, exercise capacity, and quality of life in patients with chronic obstructive pulmonary disease (COPD), and compare their relative efficacy.MethodsPubMed, Embase, Cochrane Library, and Web of Science were searched for trials published from database inception through March 14, 2026. Primary pairwise analyses used change scores and a consistent random-effects model with restricted maximum likelihood estimation. Forced Expiratory Volume in 1 second (FEV1) and Forced Vital Capacity (FVC) were analyzed separately in liters and percent predicted, alongside FEV1/FVC, St. George’s Respiratory Questionnaire (SGRQ) total score, and six-minute walk distance. Single supplements were evaluated using Bayesian random-effects network meta-analysis. Final-value, model, prior, and control-type sensitivity analyses were performed. Grading of Recommendations Assessment Development and Evaluation (GRADE) and Confidence in Network Meta-Analysis (CINeMA) assessed evidence certainty and network confidence.ResultsFifty-one studies were included in the review, of which 47 contributed to the primary change-score analyses. FEV1 percent predicted improved by 2.95 percentage points (95% CI: 0.90 to 5.00), with uncertain clinical importance. Six-minute walk distance increased by 17.31 m (95% CI: 4.05 to 30.56), below the approximately 25 m minimal important difference at the point estimate. No clear differences were found for absolute FEV1, FVC on either scale, FEV1/FVC, or SGRQ total score. Final-value sensitivity analyses attenu…",
-      "authors": "Yifei Wang, Xince Wang, Huiling Zhou et al.",
+      "title": "Editorial: Antioxidants and antimicrobials in food production",
+      "abstract": "",
+      "authors": "Ovidiu Tiţa, Liviu Gaceu",
       "published": "Nov 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1993072",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.2016744",
       "image": "",
       "screen": "right"
     },
@@ -512,12 +512,12 @@
       "screen": "right"
     },
     {
-      "title": "Blood-derived HLAN, COPD severity, and clinical outcomes: a nutritional–inflammatory perspective",
-      "abstract": "BackgroundChronic obstructive pulmonary disease (COPD) is frequently accompanied by nutritional depletion, anemia, and systemic inflammation, which may contribute to advanced airflow limitation and adverse outcomes. The hemoglobin–lymphocyte–albumin–neutrophil (HLAN) index integrates four routinely measured hematologic, albumin, and leukocyte variables with nutritional and inflammatory relevance. We examined whether HLAN was associated with airflow limitation severity and clinical outcomes in COPD.MethodsThe National Health and Nutrition Examination Survey (NHANES) analysis included 1,287 adults aged 40–79 years from 2007 to 2012 with usable spirometry, a forced expiratory volume in 1 s (FEV1)/forced vital capacity ratio < 0.70, complete HLAN components, and complete covariates. The independent hospital cohort comprised 347 hospitalized patients with COPD. Right-skewed HLAN was log-transformed and standardized by cohort. The primary outcome was Global Initiative for Chronic Obstructive Lung Disease (GOLD) grades 3–4 versus 1–2; secondary outcomes were all-cause mortality in NHANES and length of hospital stay in the hospital cohort. NHANES models accounted for the complex survey design. Sensitivity analyses examined alternative COPD definitions and predicted lung-function equations, multiple imputation, procalcitonin-restricted analysis, dose–response, marker comparisons, and incremental discrimination.ResultsIn the primary NHANES M2 model, each 1-standard-deviation increase in log-HLAN was associated with lower odds of GOLD grades 3–4 (odds ratio [OR] 0.612, 95% confidence …",
-      "authors": "Denghua Ren, Qing Zhang, Min Li et al.",
+      "title": "Big data, nutrition, and mental health: implications for artificial intelligence based interventions",
+      "abstract": "BackgroundNutrition is a modifiable factor associated with mental health. Big data, machine learning (ML), digital health and multimodal sensing offer opportunities to characterize these relationships, but evidence remains fragmented. This review examined nutrition–mental-health findings, analytical approaches and implications for artificial intelligence interventions.MethodsFollowing PRISMA guidelines, we searched six databases, with searches completed on 17 February 2026. Of 42,840 records, 2,656 duplicates were removed, 40,184 records were screened, 4,285 were assessed for eligibility and 35 studies were included. Study characteristics, dietary exposures, mental-health outcomes, analytical methods and quantitative estimates were extracted and synthesized descriptively and narratively. Two researchers assessed methodological quality and risk of bias using the Mixed Methods Appraisal Tool (MMAT), version 2018; interrater agreement was Cohen’s κ = 0.78. One Mendelian-randomization report received a separate domain-based appraisal.ResultsDepression was the most frequently studied outcome (24 studies), followed by anxiety (11) and stress (7). Healthier dietary patterns and nutrient-dense foods were generally associated with favorable mental-health outcomes, whereas ultra-processed foods, sugary foods/beverages and irregular eating patterns were more frequently associated with adverse outcomes. Associations varied by population and design. Twenty-seven studies (77.1%) reported relevant quantitative estimates. Examples included lower depression odds for the highest versus lowes…",
+      "authors": "Kingsley Arua Kalu, Grace Ataguba, Oladapo Oyebode et al.",
       "published": "Nov 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1974230",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1976560",
       "image": "",
       "screen": "right"
     },
@@ -908,7 +908,7 @@
       "published": "2024",
       "venue": "Nutrients",
       "feedName": "Lab Research",
-      "citationCount": 7,
+      "citationCount": 8,
       "recentCitations": 0,
       "quartile": "Q1",
       "s2_paper_id": "b97e4acafc9606b86df3bd0c797faa7fbcf900b7",

@@ -1,6 +1,26 @@
 {
-  "updated": "2026-11-26T03:53:19Z",
+  "updated": "2026-11-26T13:27:31Z",
   "items": [
+    {
+      "title": "Nationally determined contributions that threaten African pastoral livelihoods will be ineffective for climate change mitigation",
+      "abstract": "",
+      "authors": "Pablo Manzano, Guillermo Pardo, Agustín del Prado",
+      "published": "Nov 2026",
+      "feedName": "Nature Food",
+      "url": "https://www.nature.com/articles/s43016-026-01481-3",
+      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs43016-026-01481-3/MediaObjects/43016_2026_1481_Fig1_HTML.png",
+      "screen": "left"
+    },
+    {
+      "title": "Within-country income inequality alters the quantity and composition of projected global food demand",
+      "abstract": "While income distribution is a key determinant of food demand, it is not fully captured in current global food and land-use models. By embedding estimates of future intranational inequality into scenario analysis, this study quantifies the combined effects of income distribution, socioeconomic development and climate change on global food systems.",
+      "authors": "Kaia Waxenberg, Bart Arendarczyk, Vera Eory et al.",
+      "published": "Nov 2026",
+      "feedName": "Nature Food",
+      "url": "https://www.nature.com/articles/s43016-026-01469-z",
+      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs43016-026-01469-z/MediaObjects/43016_2026_1469_Fig1_HTML.png",
+      "screen": "left"
+    },
     {
       "title": "Author Correction: Ammonia mitigation campaign with smallholder farmers improves air quality while ensuring high cereal production",
       "abstract": "",
@@ -19,26 +39,6 @@
       "feedName": "Nature Food",
       "url": "https://www.nature.com/articles/s43016-026-01471-5",
       "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs43016-026-01471-5/MediaObjects/43016_2026_1471_Fig1_HTML.png",
-      "screen": "left"
-    },
-    {
-      "title": "The uncertain future of insect frass in agriculture",
-      "abstract": "While the promise of insect farming is increasingly under scrutiny, frass remains an overlooked output that exposes the divide between industrial standardization and agroecological diversity. Yet frass is not simply an agricultural input, but a reflection of the system from which it emerges.",
-      "authors": "David Houben, Michel-Pierre Faucon, Anne-Maïmiti Dulaurent",
-      "published": "Nov 2026",
-      "feedName": "Nature Food",
-      "url": "https://www.nature.com/articles/s43016-026-01480-4",
-      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs43016-026-01480-4/MediaObjects/43016_2026_1480_Fig1_HTML.png",
-      "screen": "left"
-    },
-    {
-      "title": "Biodiversity footprints of food consumption decouple from economic growth at high income levels",
-      "abstract": "An analysis of 158 countries over 25 years shows that biodiversity footprints of food consumption are more likely to decouple from economic growth at higher income levels, with stronger decoupling for plant-based foods than for animal-based foods, especially ruminant meat.",
-      "authors": "Hanzhong Zheng, Koen J. J. Kuipers, Selwyn Hoeks et al.",
-      "published": "Nov 2026",
-      "feedName": "Nature Food",
-      "url": "https://www.nature.com/articles/s43016-026-01465-3",
-      "image": "https://media.springernature.com/lw926/springer-static/image/art%3A10.1038%2Fs43016-026-01465-3/MediaObjects/43016_2026_1465_Fig1_HTML.png",
       "screen": "left"
     },
     {
@@ -102,22 +102,22 @@
       "screen": "left"
     },
     {
-      "title": "The role of ethanol in the perception of beverages: Sensory, physicochemical and oral processing perspectives",
+      "title": "Plant-based fermented beverages against obesity and diabetes: linking microbial fermentation to metabolic health - a comprehensive review",
       "abstract": "",
-      "authors": "Loïc Joubert-Laurencin, Thierry Thomas-Danguin, Eric Neyraud et al.",
+      "authors": "José Ángel Salas-Millan, Ana Baenas-Soto, Paul D. Cotter et al.",
       "published": "Jan 2027",
       "feedName": "Trends in Food Sci & Tech",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426007375?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426007223?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
     {
-      "title": "Structural recovery in lipid-structured food gels: Covalent chemistry, network cooperation, and processing tolerance",
+      "title": "The material-state transition in food science: From composition and end-point quality to predictive, adaptive manufacturing",
       "abstract": "",
-      "authors": "Shasha Wu, Jialei Xu, Jinfeng Zhong et al.",
+      "authors": "Zeev Wiesman",
       "published": "Jan 2027",
       "feedName": "Trends in Food Sci & Tech",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426007363?dgcid=rss_sd_all",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0924224426007442?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -142,22 +142,22 @@
       "screen": "left"
     },
     {
+      "title": "K-way merge sort applied to revealing vague evaluation criteria: agricultural products case study",
+      "abstract": "",
+      "authors": "Yukihisa Nagaki, Sei Abe, Shige Koseki et al.",
+      "published": "Mar 2027",
+      "feedName": "Food Quality & Preference",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0950329326003435?dgcid=rss_sd_all",
+      "image": "",
+      "screen": "left"
+    },
+    {
       "title": "Decoding food date labels: Insights from a systematic review of consumer understanding and behaviour",
       "abstract": "",
       "authors": "Joya A. Kemper, Mona Soltani, Claris Chung et al.",
       "published": "Mar 2027",
       "feedName": "Food Quality & Preference",
       "url": "https://www.sciencedirect.com/science/article/pii/S095032932600340X?dgcid=rss_sd_all",
-      "image": "",
-      "screen": "left"
-    },
-    {
-      "title": "Validation of a French-Canadian breakfast adaptation of the Leeds Food Preference Questionnaire",
-      "abstract": "",
-      "authors": "Élodie Jutras, Graham Finlayson, Amélie Lachance et al.",
-      "published": "Mar 2027",
-      "feedName": "Food Quality & Preference",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0950329326003472?dgcid=rss_sd_all",
       "image": "",
       "screen": "left"
     },
@@ -222,22 +222,22 @@
       "screen": "left"
     },
     {
-      "title": "Comparative study on drying kinetics of Moringa oleifera leaves and development of a functional instant soup mix",
-      "abstract": "IntroductionMoringa oleifera leaves are nutrient-rich but highly perishable, and drying temperature affects their quality. This study evaluated the effect of hot-air drying temperature on the drying kinetics, physicochemical characteristics and use of Moringa leaves in an instant soup mix.MethodsFresh leaves were hot-air dried at 45, 50 and 55 °C, and drying behaviour was assessed through moisture ratio, drying rate and thin-layer model fitting. Proximate composition, colour and physical properties were determined, and functional groups were characterised by FT-IR spectroscopy. The powders were incorporated into four soup formulations evaluated using a 9-point hedonic scale and Principal Component Analysis.ResultsHigher temperatures shortened drying time (300, 240 and 180 min) but increased nutritional and colour losses. All treatments showed only a falling-rate period, indicating diffusion-controlled moisture removal. Final moisture content (2.86%–4.68%, wet basis) was below the 8% safe-storage limit. Drying at 45 °C gave the highest crude protein (31.47%), ash (11.30%) and crude fibre (7.72%) (dry-weight basis) and greener colour. FT-IR detected hydroxyl, carbonyl, aromatic, aliphatic and ether groups in all samples. Formulations R1 and R2 (65:10 and 55:20 Moringa-to-jackfruit-seed-powder ratios) were the most acceptable; R2 scored highest but did not differ significantly from R1 (p = 0.18).DiscussionBecause Moringa and jackfruit seed powder levels varied jointly, the sensory results indicate a broad acceptability range rather than the effect of either ingredient alone. W…",
-      "authors": "Aradhana Boruah, Tustisree Ghosh, Adesh Ranjan et al.",
-      "published": "Nov 2026",
-      "feedName": "Frontiers Food Science",
-      "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.1954613",
-      "image": "",
-      "screen": "left"
-    },
-    {
       "title": "Stress-programmed astaxanthin in algae: from physiological triggers to engineering design rules",
       "abstract": "Natural astaxanthin is a valuable ketocarotenoid with growing demand across the nutraceutical, pharmaceutical, and aquaculture industries. While microalgae are still the main natural source, large-scale production continues to face a key challenge: the environmental conditions that favor fast growth tend to suppress astaxanthin accumulation, and those that strongly induce pigment production often reduce growth and create instability. To address this, we introduce the concept of “stress programming”; the deliberate planning and application of environmental and genetic cues to steer algal cells through a controlled shift from biomass growth to pigment induction. We outline the main triggers that drive astaxanthin biosynthesis, including light intensity and quality, nutrient limitation, and stress from temperature or ionic changes. These external cues tie into core cellular control systems, such as redox signaling via reactive oxygen species (ROS), imbalances in photosynthesis, and hormone-like signaling pathways. Moving beyond single-stressor approaches, we highlight how combinations of stress are being used to boost both astaxanthin yields and process stability. We also discuss how metabolic engineering and CRISPR–Cas tools are being applied to: improve flux through key biosynthetic steps, block competing pathways, and expand storage capacity in lipid droplets for better pigment retention. Rather than just describing isolated studies, we organize these insights into practical engineering principles, focusing on two-stage cultivation strategies, controllable induction periods…",
       "authors": "Soufiane Boussetta, Ming Du, Yifei Liu et al.",
       "published": "Nov 2026",
       "feedName": "Frontiers Food Science",
       "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.2002415",
+      "image": "",
+      "screen": "left"
+    },
+    {
+      "title": "Comparative study on drying kinetics of Moringa oleifera leaves and development of a functional instant soup mix",
+      "abstract": "IntroductionMoringa oleifera leaves are nutrient-rich but highly perishable, and drying temperature affects their quality. This study evaluated the effect of hot-air drying temperature on the drying kinetics, physicochemical characteristics and use of Moringa leaves in an instant soup mix.MethodsFresh leaves were hot-air dried at 45, 50 and 55 °C, and drying behaviour was assessed through moisture ratio, drying rate and thin-layer model fitting. Proximate composition, colour and physical properties were determined, and functional groups were characterised by FT-IR spectroscopy. The powders were incorporated into four soup formulations evaluated using a 9-point hedonic scale and Principal Component Analysis.ResultsHigher temperatures shortened drying time (300, 240 and 180 min) but increased nutritional and colour losses. All treatments showed only a falling-rate period, indicating diffusion-controlled moisture removal. Final moisture content (2.86%–4.68%, wet basis) was below the 8% safe-storage limit. Drying at 45 °C gave the highest crude protein (31.47%), ash (11.30%) and crude fibre (7.72%) (dry-weight basis) and greener colour. FT-IR detected hydroxyl, carbonyl, aromatic, aliphatic and ether groups in all samples. Formulations R1 and R2 (65:10 and 55:20 Moringa-to-jackfruit-seed-powder ratios) were the most acceptable; R2 scored highest but did not differ significantly from R1 (p = 0.18).DiscussionBecause Moringa and jackfruit seed powder levels varied jointly, the sensory results indicate a broad acceptability range rather than the effect of either ingredient alone. W…",
+      "authors": "Aradhana Boruah, Tustisree Ghosh, Adesh Ranjan et al.",
+      "published": "Nov 2026",
+      "feedName": "Frontiers Food Science",
+      "url": "https://www.frontiersin.org/articles/10.3389/frfst.2026.1954613",
       "image": "",
       "screen": "left"
     },
@@ -452,6 +452,16 @@
       "screen": "right"
     },
     {
+      "title": "Too much of this common nutrient could be accelerating blood vessel aging",
+      "abstract": "Researchers have uncovered a kidney protein that may hold an important key to vascular aging and longevity. The protein helps prevent excess phosphate from accumulating in the blood and gradually turning flexible blood vessels rigid. In animal models, a deficiency accelerated blood vessel aging and significantly shortened lifespan, while reducing dietary phosphate helped lessen the damage.",
+      "authors": "",
+      "published": "Nov 2026",
+      "feedName": "ScienceDaily Nutrition",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261124055847.htm",
+      "image": "https://www.sciencedaily.com/images/1920/blood-cells-in-vein.webp",
+      "screen": "right"
+    },
+    {
       "title": "Keto diet slashes liver fat by 67% in just 4 months",
       "abstract": "A new clinical trial found that the ketogenic diet dramatically outperformed Mediterranean and low-fat diets in reducing liver fat and improving metabolic health, even when participants lost similar amounts of weight. After just four to five months, about half of those following keto no longer met the criteria for prediabetes, while their liver fat dropped by an average of 67%.",
       "authors": "",
@@ -472,52 +482,42 @@
       "screen": "right"
     },
     {
-      "title": "Experimental compound burns fat without sacrificing muscle",
-      "abstract": "Researchers at UC Berkeley have identified a compound that could transform weight-loss treatment by helping the body burn more energy instead of suppressing appetite like Ozempic and Wegovy. In mice, the compound boosted energy expenditure by up to 18%, improved blood sugar control, reduced liver fat, and promoted weight loss without significant muscle loss. Even more promising, combining it with existing GLP-1 medications produced greater benefits than either treatment alone.",
-      "authors": "",
-      "published": "Nov 2026",
-      "feedName": "ScienceDaily Nutrition",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261118073918.htm",
-      "image": "https://www.sciencedaily.com/images/1920/fat-burning-human-tissue-cells.webp",
-      "screen": "right"
-    },
-    {
-      "title": "Metabolic-inflammatory-nutritional indices for identifying coronary heart disease in patients with metabolic dysfunction-associated steatotic liver disease: development and temporal validation of an interpretable model",
-      "abstract": "BackgroundMetabolic dysfunction-associated steatotic liver disease (MASLD) is highly prevalent and is associated with an increased burden of coronary heart disease (CHD). Emerging metabolic-inflammatory-nutritional indices may provide complementary information for CHD identification. This study systematically evaluated 10 composite indices and developed an interpretable model for identifying concurrent CHD in patients with MASLD.MethodsThis study included 664 patients with MASLD who underwent coronary angiography and were randomly divided into training and internal validation sets at a 7:3 ratio. An additional 213 patients constituted the temporal validation set. Ten metabolic–inflammatory–nutritional composite indices were calculated, including CHG (cholesterol-high-density lipoprotein cholesterol-glucose index), ALBI (albumin–bilirubin score), lnCAR (natural logarithm of the C-reactive protein-to-albumin ratio), AIP (atherogenic index of plasma), etc. Associations between 10 composite indices and CHD were evaluated using logistic regression, restricted cubic splines, and receiver operating characteristic analysis. Predictors were selected using the least absolute shrinkage and selection operator regression and multivariable logistic regression. Six machine learning algorithms were compared, and the final model was presented as a nomogram and web-based calculator.ResultsAfter multivariable adjustment, nine composite indices remained significantly associated with CHD. CHG showed the strongest association (OR = 3.221, 95% CI: 2.315–4.563) and the highest discriminatory perfo…",
-      "authors": "Kaiyue Shen, Kunkun Li, Xiaoying Zhang et al.",
+      "title": "A nomogram for early assessment of disease severity in hypertriglyceridemia-induced acute pancreatitis",
+      "abstract": "BackgroundEarly assessment of disease severity in hypertriglyceridemia-induced acute pancreatitis (HTG-AP) remains challenging. We identified factors associated with severe HTG-AP and developed a severity-assessment model integrating body composition parameters, triglyceride-glucose (TyG) index and routine laboratory indicators.MethodsFrom January 2020 to September 2024, clinical data, laboratory indicators, and CT-based body composition parameters of HTG-AP cases admitted into hospital wards of Weifang People’s Hospital were extracted for retrospective analysis. Factors independently associated with severe HTG-AP (HTG-SAP) were identified by Least Absolute Shrinkage and Selection Operator (LASSO) regression as well as multivariable logistic regression. To assess discrimination, we analyzed receiver operating characteristic (ROC) curves. To examine calibration, calibration curves were drawn. Model clinical utility evaluation was completed by decision curve analysis (DCA), while internal stability by bootstrap resampling.ResultsAmong 236 HTG-AP patients, 48 had severe acute pancreatitis (SAP). Following multivariable logistic regression, TyG index and subcutaneous adipose density (SAD) were positively associated with HTG-SAP, whereas albumin (ALB) and skeletal muscle density (SMD) were negatively associated with HTG-SAP. A nomogram incorporating these four variables was established and exhibited high discriminative performance, with an apparent area under the curve (AUC) of 0.956 (95% confidence interval: 0.927–0.984) and an optimism-corrected AUC of 0.931 after full-pipelin…",
+      "authors": "Yali Mu, Zhiguo Wang, Yongshuai Liu et al.",
       "published": "Nov 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1965587",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1915799",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "The multidimensional roles of branched-chain amino acids in type 2 diabetes mellitus: a precision medicine perspective from metabolic imprint to effect amplifier",
-      "abstract": "The global epidemic of type 2 diabetes mellitus (T2DM) has prompted the academic community to continually explore early-warning biomarkers and core pathogenic mechanisms. In recent years, elevated circulating levels of branched-chain amino acids (BCAAs) and their metabolic intermediates were demonstrated to show an independent and robust positive correlation with the risk of developing T2DM. Following the logical thread of “phenotypic association–mechanistic exploration–causal interrogation–repositioning–translational application,” this review summarizes relevant prospective cohort studies and molecular mechanistic investigations. BCAAs and their metabolic derivatives (such as branched-chain α-keto acids and acylcarnitines) not only exhibit superior early-warning value, but also may actively contribute to the pathological progression of T2DM by hyperactivating the mTORC1 pathway to block insulin signaling, inducing mitochondrial dysfunction and ectopic lipid deposition, disrupting the gut microbiota barrier, and perturbing one-carbon metabolism–mediated epigenetic modifications. Facing recent conflicts regarding the causal relationship between the two, this review breaks away from traditional unidirectional or bidirectional parallel etiologic paradigms. It proposes an integrative conceptual framework that repositions the role of BCAAs in T2DM as both a “metabolic imprint” that integrates diverse upstream metabolic impairments and a potential “effect amplifier” that may aggravate downstream metabolic dysfunction under specific conditions. Based on this new conceptual framewo…",
-      "authors": "Xiaomin Kang, Rui Hao, Shanshan Tang et al.",
+      "title": "Nutrition knowledge, sources of nutrition information, and associated factors among Italian pregnant women: a cross-sectional study",
+      "abstract": "BackgroundAdequate maternal nutrition during pregnancy is crucial for maternal and fetal health. Nutrition Knowledge (NK) is a potential determinant of eating behavior during pregnancy, although knowledge gaps persist among pregnant women worldwide. This cross-sectional study aimed to assess NK level, its associated factors, and main sources of nutrition information among Italian pregnant women.MethodsAn online survey collected socio-demographic and pregnancy-related characteristics, primary sources of nutrition information, adherence to the Italian dietary guidelines (AIDGI) and physical activity level (IPAQ-SF) from a sample of Italian pregnant women. NK was assessed using the Italian Pregnancy Nutrition Knowledge Questionnaire (ItPreNKQ).Results589 women aged 18–49 years completed the survey. Participants showed moderate NK (median score 9.0; IQR 7.0–13.0), with parous women scoring higher than nulliparous across all domains. Major gaps concerned gestational weight gain, folic acid supplementation, and calcium sources. The internet/social media (35%) and gynecologists/midwives (32%) were the most reported sources of nutrition information. Higher education, multiparity, being in the second or third trimester of pregnancy, higher physical activity level, and using the internet as the primary source of information were associated with higher NK.ConclusionThese findings highlight the need for targeted interventions to improve the communication of dietary recommendations for pregnant women and to strengthen antenatal nutrition counselling in the Italian healthcare context.",
+      "authors": "Silvia Callegaro, Andrea Dall’Asta, Christine Tita Kaihura et al.",
       "published": "Nov 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1995143",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1949752",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Nutritional and antioxidant interventions in early psychosis: clinical evidence and biomarker-guided strategies",
-      "abstract": "Nutritional and redox disturbances have been increasingly recognized as potential biological features of early psychosis, providing a rationale for investigating nutritional and antioxidant interventions as adjunctive treatment strategies. Among these, N-acetylcysteine (NAC), folate, and B-vitamin supplementation have attracted particular interest because of their effects on glutathione homeostasis and one-carbon metabolism. However, clinical evidence remains inconsistent, and biochemical target engagement has not consistently translated into meaningful improvements in psychotic symptoms, cognition, or functional outcomes. NAC may increase glutathione availability, whereas folate and B-vitamin supplementation can reduce circulating homocysteine concentrations; nevertheless, the clinical significance of these effects remains uncertain. Similar uncertainty exists for other nutritional and antioxidant interventions, including omega-3 fatty acids, for which findings across studies have been variable. Emerging evidence suggests that baseline biological characteristics, including glutathione peroxidase activity, homocysteine concentration, nutritional status, and genetic variation, may contribute to differences in treatment response. However, most proposed biomarkers remain exploratory and have not been prospectively validated for treatment selection. Therefore, this review examines the biological rationale, clinical evidence, and potential biomarkers relevant to nutritional and antioxidant interventions in early psychosis. We propose a four-level framework distinguishing biologi…",
-      "authors": "Chanthong Yorn, Virak Sorn",
+      "title": "Exploring the impact of temperature anomalies, temperature variability, and trade openness on dietary diversity",
+      "abstract": "Climate change poses increasing risks to global food systems, with critical implications for dietary diversity, a key indicator of nutrition quality. While prior research has largely focused on food production and availability, less is known about how climate change affects dietary composition. The relationship between climate change and dietary diversity may depend on the degree of national trade openness. This study uses econometric models to examine the relationship between climate change and dietary diversity and the moderating role of trade openness in this relationship, using food consumption data from 1961 to 2023. This study measures dietary diversity in terms of food consumption quantity, calories, protein, and fat. Temperature anomalies capture long-term temperature change, while temperature variability captures fluctuations of monthly temperatures within a year. The empirical analysis shows that the associations between temperature and dietary diversity are small and depend on how the two key variables are measured. Temperature anomalies are weakly associated with higher calorie-based and lower fat-based dietary diversity, while within-year temperature variability is associated with higher calorie- and protein-based dietary diversity. Trade openness weakens the associations with calorie-based dietary diversity and, for temperature variability, protein-based dietary diversity, but its moderating role is otherwise limited. These findings emphasize the importance of integrating nutrition into climate adaptation policies and contribute to a broader understanding of h…",
+      "authors": "Yifan Xie",
       "published": "Nov 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.2015405",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1974275",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Sarcopenia screening as a gateway to multidomain nutrition and lifestyle strategies in adults: validation of SARC-F and Ishii’s score in a community-based sample from Guayaquil",
-      "abstract": "BackgroundSarcopenia screening may serve as an entry point for multidomain nutrition and lifestyle strategies in adults. Early identification continues to be vital to apply adequate interventions; however, existing, simple screening tools require proper validation in Latin American population. Our work aimed to compare the accuracy of the SARC-F questionnaire with Ishii’s score for screening sarcopenia in community-dwelling adults.MethodsA cross-sectional study was performed on community-dwelling individuals (n = 274) in Guayaquil, Ecuador. Sarcopenia diagnosis was defined according to the EWGSOP2 algorithm assessing muscle strength, appendicular skeletal muscle mass, and physical performance. The diagnostic performance of SARC-F and Ishii’s score was evaluated using receiver operating characteristic (ROC) curves, area under the ROC curve (AUC), sensitivity, specificity, and Youden index.ResultsSarcopenia diagnosis was confirmed in 15.69% of the participants. The SARC-F questionnaire exhibited poor diagnostic accuracy (AUC 0.50; Sensitivity 55.81%; Specificity 49.35%). On the contrary, the Ishii’s score showed superior discriminative capacity (AUC 0.84; Sensitivity 81.40%; Specificity 76.62%). Population-specific cut-off points were higher than the originally proposed for Asian individuals, especially for women, for whom Ishii’s score showed the highest performance.ConclusionIshii’s score showed greater discrimination than SARC-F in this Ecuadorian sample. Its performance and sample-derived thresholds require independent validation before routine clinical use.",
-      "authors": "Diana Fonseca-Pérez, Cecilia Arteaga-Pazmiño, Danielle F. Aycart et al.",
+      "title": "Impact of short-peptide enteral nutrition on gut microbiota and metabolomics in septic mice",
+      "abstract": "ObjectiveThe present study adopted metabolomics to explore the mechanisms of short peptide enteral nutrition (SPEN) on intestinal dysfunction in septic mice, aiming to provide new insights into the adjuvant clinical treatment of sepsis.MethodsMice were randomly assigned to three groups: control, cecal ligation and puncture (CLP), and CLP + SPEN. Gas chromatography–mass spectrometry (GC–MS) analysis and 16S rRNA sequencing were performed to examine alterations in the intestinal microbiota and metabolites of septic mice.ResultsSPEN alleviated CLP-induced intestinal inflammation and injury, as evidenced by improved body weight recovery, lower Chiu’s scores, reduced the levels of pro-inflammatory cytokines including TNF-α and IL-6, while elevating the abundance of the anti-inflammatory cytokine IL-10. However, SPEN failed to improve intestinal barrier function, as zonula occludens-1 (ZO-1), Occludin, and Mucin 2 (MUC2) expression was not restored in septic mice. Non-targeted metabolomics of ileal tissue identified seven common differential metabolites among the three groups, all of which were significantly upregulated after SPEN treatment, with pathway enrichment mainly involving the glyoxylate and dicarboxylate metabolism, TCA cycle, propanoate metabolism, and amino acid metabolism. Fecal 16S rRNA sequencing and metabolomics revealed that SPEN reversed the CLP-induced decline in microbial diversity. SPEN was associated with partial changes in gut microbiota composition, including a decrease in Escherichia Shigella and an increase in Morganella. Correlation analysis showed that…",
+      "authors": "Shuang Zhang, Dan Zuo, Dabi Hu et al.",
       "published": "Nov 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1973006",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.2011705",
       "image": "",
       "screen": "right"
     },
@@ -1093,6 +1093,26 @@
       "quartile": "Q1",
       "s2_paper_id": "15c76846e92aceb5369881927ee2bf9a91d232a6",
       "url": "https://doi.org/10.3390/cleantechnol5030043",
+      "image": "",
+      "screen": "both",
+      "lab_paper": true,
+      "researcher": {
+        "name": "Giora Rytwo",
+        "photo": "media/photos/giora_rytwo.jpg"
+      }
+    },
+    {
+      "title": "Ice nucleation by smectites: the role of the edges",
+      "abstract": "Abstract. Smectites, like other clay minerals, have been shown to promote ice\nnucleation in the immersion freezing mode and likely contribute to the\npopulation of ice-nucleating particles (INPs) in the atmosphere. Smectites\nare layered aluminosilicates, which form platelets that depending on\ncomposition might swell or even delaminate in water by intercalation of\nwater molecules between their layers. They comprise among others\nmontmorillonites, hectorites, beidellites, and nontronites. In this study,\nwe investigate the ice nucleation (IN) activity of a variety of natural and\nsynthetic smectite samples with different exchangeable cations. The\nmontmorillonites STx-1b and SAz-1, the nontronite SWa-1, and the hectorite\nSHCa-1 are all rich in Ca2+ as the exchangeable cation; the bentonite\nMX-80 is rich in Na+ with a minor contribution of Ca2+, and the\nsynthetic Laponite is a pure Na+ smectite. The bentonite SAu-1 is rich\nin Mg2+ with a minor contribution of Na+, and the synthetic\ninterstratified mica-montmorillonite Barasym carries\nNH4+ as the exchangeable cation. In\nemulsion freezing experiments, all samples except Laponite exhibited one or\ntwo heterogeneous freezing peaks with onsets between 239 and 248 K and a\nquite large variation in IN activity yet without clear correlation with the\nexchangeable cation, with the type of smectite, or with mineralogical\nimpurities in the samples. To further investigate the role of the\nexchangeable cation, we performed ion exchange experiments. Replacing\nNH4+ with Ca2+ in Barasym reduced\nits IN activity to that of other Ca-rich montmorillonites…",
+      "authors": "Amit Kumar, Kristian Klumpp, Chen Barak et al.",
+      "published": "2023",
+      "venue": "Atmospheric Chemistry and Physics",
+      "feedName": "Lab Research",
+      "citationCount": 12,
+      "recentCitations": 0,
+      "quartile": "Q1",
+      "s2_paper_id": "24b00441179d960e6384e16a6b767b5f7c14a478",
+      "url": "https://doi.org/10.5194/acp-23-4881-2023",
       "image": "",
       "screen": "both",
       "lab_paper": true,

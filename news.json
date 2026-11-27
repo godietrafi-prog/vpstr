@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T22:43:49Z",
+  "updated": "2026-11-27T06:05:09Z",
   "items": [
     {
       "title": "Nationally determined contributions that threaten African pastoral livelihoods will be ineffective for climate change mitigation",
@@ -362,6 +362,16 @@
       "screen": "left"
     },
     {
+      "title": "Why molecular cage catalysts show enormous differences in performance",
+      "abstract": "Chemistry researchers have developed a new way to identify and understand highly effective artificial enzyme-like catalysts using powerful \"molecular cages\" that mimic the behavior of nature's enzymes. These tiny, hollow molecular structures act like miniature reaction chambers to trap molecules and accelerate chemical reactions. The cages showed enormous differences in performance, with the best catalysts more than 10,000 times more active than the least effective ones.",
+      "authors": "",
+      "published": "Nov 2026",
+      "feedName": "Phys.org Analytics",
+      "url": "https://phys.org/news/2026-11-molecular-cage-catalysts-enormous-differences.html",
+      "image": "https://scx1.b-cdn.net/csz/news/800/2026/ai-helps-chemists-desi-1.jpg",
+      "screen": "right"
+    },
+    {
       "title": "'Rubik's Cube molecule' puts the stretch in next-gen semiconductors",
       "abstract": "Plastics that are both good at conducting electricity and flexible enough to stretch and bend are already being used in cell phones with folding screens. But because the rigid crystals they contain—which help with conductivity—aren't naturally flexible, they still often crack. Now, researchers from the University of Toronto have found a way to increase the stretchiness of these materials while maintaining their ability to conduct electricity, potentially opening new uses in medicine and biology.",
       "authors": "",
@@ -389,16 +399,6 @@
       "feedName": "Phys.org Analytics",
       "url": "https://phys.org/news/2026-11-background-noise-cellular-properties-focus.html",
       "image": "https://scx1.b-cdn.net/csz/news/800/2026/removing-background-no.jpg",
-      "screen": "right"
-    },
-    {
-      "title": "New chemical route delivers first synthesis of plant compound with cough-suppressing potential",
-      "abstract": "Neotuberostemonine, a complex plant-derived alkaloid with promising antitussive activity, has remained a challenging target for chemical synthesis for nearly 30 years. Researchers have now achieved its first total synthesis, alongside the synthesis of neostenine and the putative structure of tuberostemonine L. The findings also reveal how the nearly planar geometry of nitrogen atoms contributes to the oxidative instability of these alkaloids, offering new insights and synthetic strategies for natural-product chemistry and future drug discovery.",
-      "authors": "",
-      "published": "Nov 2026",
-      "feedName": "Phys.org Analytics",
-      "url": "https://phys.org/news/2026-11-chemical-route-synthesis-compound-suppressing.html",
-      "image": "https://scx1.b-cdn.net/csz/news/800/2026/a-new-chemical-route-d.jpg",
       "screen": "right"
     },
     {
@@ -442,6 +442,16 @@
       "screen": "right"
     },
     {
+      "title": "This dietary supplement may have an unexpected benefit for the brain",
+      "abstract": "A naturally derived dietary supplement called urolithin A may help the brain get more oxygen and nutrients when it needs them most. In a randomized clinical trial involving 50 middle-aged adults with obesity, researchers found that taking the supplement daily for four weeks increased blood flow to the brain during a challenging memory task, particularly in a region involved in working memory.",
+      "authors": "",
+      "published": "Nov 2026",
+      "feedName": "ScienceDaily Nutrition",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261125045311.htm",
+      "image": "https://www.sciencedaily.com/images/1920/man-holding-supplement-capsule.webp",
+      "screen": "right"
+    },
+    {
       "title": "Scientists discover a surprising twist in how the body burns calories",
       "abstract": "Researchers have discovered that a drug can significantly increase the body's energy expenditure without clearly activating calorie-burning brown fat. The unexpected finding reveals a new challenge in developing obesity treatments that harness the body's natural fat-burning machinery.",
       "authors": "",
@@ -472,52 +482,42 @@
       "screen": "right"
     },
     {
-      "title": "A common blood pressure drug has a surprising effect on calorie-burning brown fat",
-      "abstract": "Scientists have discovered that a common blood pressure drug can activate calorie-burning brown fat in mice, potentially opening a new path toward improving metabolic health. An analysis of more than 100,000 patients also revealed surprising links between brown fat and lower rates of heart disease, diabetes, anxiety, and depression.",
-      "authors": "",
-      "published": "Nov 2026",
-      "feedName": "ScienceDaily Nutrition",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261119194558.htm",
-      "image": "https://www.sciencedaily.com/images/1920/weight-loss-fat-burn-in-human-adipose-tissue.webp",
-      "screen": "right"
-    },
-    {
-      "title": "Effects of abdominal mechanical compression on appetite, endogenous PYY, gut microbiota, and metabolic profile in diet-induced obese mice: an exploratory multi-omics study",
-      "abstract": "ObjectiveTo determine whether abdominal mechanical compression reduces food intake and body weight and elevates endogenous PYY in diet-induced obese mice, and to explore, as secondary endpoints, the associated changes in the gut microbiota and metabolic profile.MethodsA diet-induced obese model was established in C57BL/6 J mice by high-fat diet feeding. Four groups were set up: Control, Model, Sham Pressure, and Pressure. Body weight, food intake, serum PYY, and colonic histology were measured, and integrated analyses of metagenomics and untargeted metabolomics were performed.ResultsIn the Pressure group, body weight decreased, fasting serum PYY was higher, and colonic inflammation was alleviated, whereas the Sham Pressure group showed no such effects. The Pressure group was enriched in sulfate-reducing bacteria such as Bilophila and Lachnospiraceae taxa. Metabolically, fecal bile acids shifted toward taurine-conjugated forms, fecal tryptophan metabolites showed a kynurenine-related pattern, and compensatory changes in essential fatty acid metabolism were observed. The gut microbiota, metabolites, and phenotypes changed in a consistent direction, and these associations were driven mainly by intergroup (intervention) differences.ConclusionIn diet-induced obese mice, abdominal mechanical compression was associated with suppressed appetite, reduced body weight, higher fasting endogenous PYY, and concurrent changes in the gut microbiota and metabolism. Because all omics measurements were obtained at a single endpoint, the direction of causality could not be established, and the…",
-      "authors": "Zhijie Li, Qing Gao",
+      "title": "The efficacy of non-pharmacological interventions on non-alcoholic fatty liver disease in adults: an umbrella meta-analysis",
+      "abstract": "ObjectiveNon-alcoholic fatty liver disease (NAFLD) is the most prevalent chronic liver disease worldwide, while the efficacy and evidence certainty of non-pharmacological interventions remain unclear. This umbrella meta-analysis evaluated their effectiveness and credibility in adults with NAFLD.MethodsPubMed, Web of Science, Embase, and the Cochrane Library were searched from inception to June 3, 2026. Eligible meta-analyses of non-pharmacological interventions for NAFLD-related outcomes in adults were included. Study selection and data extraction were conducted according to predefined criteria, while methodological quality and evidence certainty were assessed using AMSTAR-2 and GRADE, respectively.ResultsOf the 2,260 records identified, 34 meta-analyses covering 23 distinct non-pharmacological interventions and 183 intervention–outcome associations were included. Dietary interventions, including intermittent fasting, calorie restriction, the Mediterranean diet, and oil-based dietary interventions, were associated with statistically significant changes in liver enzymes, hepatic steatosis, lipid profiles, and metabolic parameters. Similarly, exercise interventions, including resistance training, high-intensity interval training, aerobic training, and combined aerobic-resistance exercise, showed significant effects on selected measures of liver function, intrahepatic fat, body composition, and insulin resistance. Nutritional supplementation with omega-3 fatty acids, vitamin D, curcumin-piperine, Nigella sativa, and resveratrol was associated with changes in selected biochemic…",
+      "authors": "Jinjin He, Li Ai, Guoai Liu et al.",
       "published": "Nov 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.2012191",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1959965",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Food-derived bioactive peptides in chronic kidney disease: mechanistic rationale, current evidence, and translational barriers",
-      "abstract": "Food-derived bioactive peptides are biologically plausible candidates for adjunctive nutritional strategies in chronic kidney disease (CKD). This review evaluates their food sources, production and characterization, CKD-relevant mechanisms, experimental evidence, clinical translation, and safety limitations. Peptides derived from dairy, fish, plant, and egg proteins have shown activities relevant to CKD, particularly angiotensin-converting enzyme inhibition and redox regulation. However, most human evidence concerns modest blood pressure lowering in non-CKD populations, whereas renal evidence is largely derived from cellular and animal models. Selected peptides have attenuated oxidative stress, mitochondrial dysfunction, extracellular matrix accumulation, and uric acid-associated tubular injury in experimental systems. Translation will require sequence-level product standardization, characterization of gastrointestinal stability and systemic exposure, dose optimization, and CKD-specific safety assessment. Current evidence supports food-derived bioactive peptides as a promising research direction in cardio-renal nutrition but does not yet establish CKD-specific clinical efficacy. Future studies should prioritize renal endpoints, pharmacokinetics, and interactions with contemporary kidney-protective therapy.",
-      "authors": "Shaojie Fu, Lin Li, Yuying Li et al.",
+      "title": "Initiation timing, dosing strategies, and tolerance-guided adjustment of early enteral nutrition in patients with severe and predicted severe acute pancreatitis: a scoping review",
+      "abstract": "BackgroundTo summarize current evidence on the initiation timing, dosing strategies, and tolerance assessment and management of early enteral nutrition (EEN) in patients with severe acute pancreatitis (SAP) and predicted severe acute pancreatitis (PSAP), and to identify implementation strategies, practice variations, and evidence gaps, so as to inform the development of EEN management protocols in clinical practice.MethodsWe followed the JBI methodology for scoping reviews and this review was reported in accordance with the PRISMA Extension for Scoping Reviews (PRISMA-ScR). PubMed, Web of Science, CINAHL, Embase, the Cochrane Library, CNKI, Wanfang Data, and VIP were searched from database inception to September 26, 2026. Two reviewers independently screened the literature and extracted data. Disagreements were resolved by discussion or by a third reviewer.ResultsA total of 17 studies were included. The included studies addressed the timing and prerequisites of EEN initiation; dosing regimens, including formula type, administration route, initial infusion rate, advancement pattern, and target volume; indicators for tolerance assessment; and dynamic adjustment strategies based on patient tolerance and disease status. Studies varied in initiation time, initial dose, advancement pattern, goal attainment, and the criteria used to define feeding intolerance.ConclusionIn the included studies, EEN was initiated within 72 h of disease onset or hospital admission in all cases (mostly within 24 h), generally after hemodynamic stability was achieved; however, owing to substantial hete…",
+      "authors": "Fanxi Geng, Ziqi Xu, Xuehui Tan et al.",
       "published": "Nov 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.2014657",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.2017431",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Editorial: Dietary patterns and health outcomes in children: the role of ultraprocessed foods",
-      "abstract": "",
-      "authors": "Sandra Abreu, Caroline Dos Santos Costa, Margarida Liz Martins",
+      "title": "Inflammation–nutrition status and sleep disturbance: cross-sectional evidence on the red blood cell distribution width-to-albumin ratio across population and exploratory hospital comparison",
+      "abstract": "BackgroundSleep disturbance is associated with inflammation and nutritional imbalance, but its relationship with the red blood cell distribution width-to-albumin ratio (RAR) remains unclear. We examined the association between RAR and reported sleep disturbance among US adults and conducted an exploratory comparison using records from a hospital pain medicine department.MethodsWe analyzed cross-sectional data from NHANES 2005–2014. Adults aged ≥20 years with available RAR and sleep disturbance data were included. Analyses included survey-weighted logistic regression, restricted cubic splines, two-piecewise regression, subgroup analyses, and receiver operating characteristic curves. The exploratory hospital comparison included 200 patients treated at Wuxi No. 2 People’s Hospital between January 2024 and May 2026.ResultsAmong 23,275 NHANES participants, 3,666 reported sleep disturbance. Higher RAR was associated with greater odds of sleep disturbance in the primary adjusted model (odds ratio [OR] per 1-unit increase, 1.26; 95% confidence interval [CI], 1.14–1.39; p < 0.001). The highest RAR quartile was associated with higher odds than the lowest quartile (OR, 1.25; 95% CI, 1.09–1.43; p = 0.002). RAR showed limited discrimination (area under the receiver operating characteristic curve, 0.570; 95% CI, 0.559–0.580). In the hospital sample, the adjusted continuous estimate was imprecise (OR, 1.77, 95% CI, 0.94–3.36, p = 0.079). Only the ordinal trend across RAR quartiles reached statistical significance (p = 0.035).ConclusionHigher RAR was modestly associated with reported sleep…",
+      "authors": "Jinfang Zeng, Ying Ye, Dongxiao Huang et al.",
       "published": "Nov 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.2021563",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1967306",
       "image": "",
       "screen": "right"
     },
     {
-      "title": "Exploring the impact of temperature anomalies, temperature variability, and trade openness on dietary diversity",
-      "abstract": "Climate change poses increasing risks to global food systems, with critical implications for dietary diversity, a key indicator of nutrition quality. While prior research has largely focused on food production and availability, less is known about how climate change affects dietary composition. The relationship between climate change and dietary diversity may depend on the degree of national trade openness. This study uses econometric models to examine the relationship between climate change and dietary diversity and the moderating role of trade openness in this relationship, using food consumption data from 1961 to 2023. This study measures dietary diversity in terms of food consumption quantity, calories, protein, and fat. Temperature anomalies capture long-term temperature change, while temperature variability captures fluctuations of monthly temperatures within a year. The empirical analysis shows that the associations between temperature and dietary diversity are small and depend on how the two key variables are measured. Temperature anomalies are weakly associated with higher calorie-based and lower fat-based dietary diversity, while within-year temperature variability is associated with higher calorie- and protein-based dietary diversity. Trade openness weakens the associations with calorie-based dietary diversity and, for temperature variability, protein-based dietary diversity, but its moderating role is otherwise limited. These findings emphasize the importance of integrating nutrition into climate adaptation policies and contribute to a broader understanding of h…",
-      "authors": "Yifan Xie",
+      "title": "GERI-NutriRisk-ICU: an APACHE-contextualized, hospital-robust, and nutrition-aware domain-updated framework for mortality risk stratification in older ICU patients",
+      "abstract": "ObjectiveOlder intensive care unit (ICU) patients face intertwined nutrition risk, metabolic instability, and acute physiologic severity. We developed and externally validated GERI-NutriRisk-ICU for early, nutrition-aware mortality risk stratification in older ICU patients.MethodsThis multicohort study included first ICU admissions of patients aged ≥65 years from MIMIC-IV (n = 33, 671, development) and eICU-CRD (n = 71, 861 across 207 hospitals, external validation and domain updating). The primary endpoint was in-hospital mortality. Models incorporated 83 harmonized predictors spanning demographics, explicit nutrition reserves (albumin, BMI), metabolic laboratories, vitals, organ support, and clinical severity. The architecture combined a logistic clinical anchor with a LightGBM head. Evaluations comprised tabular baselines, nutrition ablations, 167-hospital leave-hospital-out (LHO) sensitivity analysis, same-subset benchmarking against recalibrated APACHE-IVa (n = 39, 920), and decision-curve analysis (DCA).ResultsIn the primary held-out eICU partition (n = 57, 488 across 206 hospitals), the domain-updated model achieved AUROC 0.872, Brier score 0.073, and expected calibration error 0.0037. In retrospective LHO evaluation across 167 unseen hospitals (n = 57, 536), performance remained robust (AUROC 0.870, Brier score 0.0738, median calibration slope 1.032 across 140 hospitals with n≥100). In the APACHE-IVa subset (n = 39, 920), GERI-NutriRisk-ICU significantly outperformed recalibrated APACHE-IVa (AUROC 0.871 vs. 0.850; paired difference 0.021, 95% CI 0.016–0.026, p < 0.0…",
+      "authors": "Zhi Jin, Hua Sun, Yiting Zhou et al.",
       "published": "Nov 2026",
       "feedName": "Frontiers Nutrition",
-      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1974275",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnut.2026.1980118",
       "image": "",
       "screen": "right"
     },
@@ -609,7 +609,7 @@
       "venue": "Science of the Total Environment",
       "feedName": "Lab Research",
       "citationCount": 9,
-      "recentCitations": 1,
+      "recentCitations": 0,
       "quartile": "Q1",
       "s2_paper_id": "716a87e9602f04f6b3d7fe6c3b411a15d1beaf4a",
       "url": "https://doi.org/10.1016/j.scitotenv.2024.174719",
@@ -669,7 +669,7 @@
       "venue": "Journal of Agricultural and Food Chemistry",
       "feedName": "Lab Research",
       "citationCount": 6,
-      "recentCitations": 2,
+      "recentCitations": 0,
       "quartile": "Q1",
       "s2_paper_id": "2daf7bffd81d6b4f740d63bf18644047b1466c1f",
       "url": "https://doi.org/10.1021/acs.jafc.4c06012",
@@ -1009,7 +1009,7 @@
       "venue": "Food and Bioprocess Technology",
       "feedName": "Lab Research",
       "citationCount": 6,
-      "recentCitations": 1,
+      "recentCitations": 0,
       "quartile": "Q1",
       "s2_paper_id": "034d8c4f0c0f5607a4e6727360aa5d7287e60d5b",
       "url": "https://doi.org/10.1007/s11947-025-03873-y",
